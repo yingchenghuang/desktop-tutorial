@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>公共藝術檔案 Public Art Archive</title>
+<meta name="description" content="以 Notion 為資料源、每日同步到 GitHub Pages 的全球公共藝術索引。">
+<meta property="og:title" content="公共藝術檔案 Public Art Archive">
+<meta property="og:description" content="經典公共藝術檔案與每日全球情報並行的可檢索索引。">
+<meta name="theme-color" content="#f7f6f1">
+<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="10" fill="%23b73f2d"/><text x="32" y="43" font-family="serif" font-size="32" font-weight="700" fill="%23fbfaf5" text-anchor="middle">檔</text></svg>'>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topbar" id="topbar">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="#" id="brandTop" aria-label="回到頂端">
+      <span class="seal-mini" aria-hidden="true">檔</span>
+      <span>公共藝術檔案</span>
+    </a>
+    <nav class="toplinks" aria-label="主要區塊">
+      <a href="#daily">每日情報</a>
+      <a href="#archive">索引</a>
+      <a href="#sources">來源</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero wrap">
+  <div class="hero-main">
+    <div class="hero-copy enter" style="--i:0">
+      <h1>公共藝術檔案</h1>
+      <p class="hero-en">Public Art Archive</p>
+      <p class="tagline">以第一手來源建立的全球公共藝術索引。經典檔案庫收錄改寫公共藝術史的藝術家、作品與平台；動態情報層每日追蹤正在發生的新委託、新展覽、新公共計畫。</p>
+    </div>
+
+    <aside class="daily-panel enter" style="--i:1" id="daily">
+      <div class="panel-label">每日更新</div>
+      <div class="sync-date" id="stSync">—</div>
+      <p id="dailyLead">載入全球公共藝術資訊中。</p>
+      <dl class="daily-metrics">
+        <div><dt>資料量</dt><dd id="stEntries">—</dd></div>
+        <div><dt>地區</dt><dd id="stRegions">—</dd></div>
+        <div><dt>媒介</dt><dd id="stMedia">—</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  <div class="command enter" style="--i:2" id="archive">
+    <div class="search">
+      <input id="q" type="search" placeholder="搜尋藝術家、作品、城市、媒介、短評" autocomplete="off" aria-label="搜尋公共藝術檔案">
+    </div>
+    <div class="seg" role="group" aria-label="檔案層級" id="segTier">
+      <button class="on" data-tier="全部">全部</button>
+      <button data-tier="經典檔案庫">經典檔案庫</button>
+      <button data-tier="動態情報層">動態情報層</button>
+    </div>
+    <div class="sortbox">
+      <select id="sort" aria-label="排序方式">
+        <option value="default">策展排序</option>
+        <option value="updated">最近更新</option>
+        <option value="name">名稱排序</option>
+      </select>
+    </div>
+  </div>
+</section>
+
+<section class="source-strip wrap enter" style="--i:3" id="sources" aria-label="資料來源狀態">
+  <div class="source-title">來源品質</div>
+  <div class="source-items" id="sourceItems"></div>
+  <div class="source-note" id="sourceNote">Notion 公共藝術檔案</div>
+</section>
+
+<section class="filters wrap" aria-label="篩選條件">
+  <div class="frow"><span class="frow-label">地區</span><div class="chips" id="chipRegion"></div></div>
+  <div class="frow"><span class="frow-label">類別</span><div class="chips" id="chipCat"></div></div>
+  <div class="frow"><span class="frow-label">媒介</span><div class="chips" id="chipMedia"></div></div>
+  <div class="frow"><span class="frow-label">來源</span><div class="chips" id="chipStatus"></div></div>
+</section>
+
+<section class="latest wrap" aria-label="最新情報">
+  <div class="section-head">
+    <div>
+      <h2>動態情報層</h2>
+      <p id="latestMeta">每日同步後自動更新。</p>
+    </div>
+    <button class="clear" id="clearBtn">清除篩選</button>
+  </div>
+  <div class="latest-rail" id="latestRail"></div>
+</section>
+
+<div class="result-meta wrap" id="resultMeta">
+  <span id="resultCount">載入中</span>
+</div>
+
+<main class="grid wrap" id="grid" aria-live="polite"></main>
+
+<footer>
+  <div class="wrap foot-inner">
+    <span>苛社 KÈ SHÈ・公共藝術檔案</span>
+    <span id="syncDate">資料載入中</span>
+  </div>
+</footer>
+
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="條目詳細資訊">
+  <div class="backdrop" id="backdrop"></div>
+  <div class="panel" id="panel"></div>
+</div>
+
+<noscript><p class="noscript">此檔案庫需要啟用 JavaScript 才能檢索。</p></noscript>
+<script src="assets/app.js"></script>
+</body>
+</html>
