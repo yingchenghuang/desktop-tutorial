@@ -1,0 +1,40 @@
+name: 每日同步 Notion
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 台北時間每日 06:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-art-archive-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: 取得網站檔案
+        uses: actions/checkout@v4
+
+      - name: 設定 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 同步 Notion 資料
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ vars.NOTION_DATABASE_ID || 'd1232d1e8e284745a0d14cd7d911ec62' }}
+        run: node scripts/sync-notion.mjs
+
+      - name: 提交資料更新
+        run: |
+          git config user.name "public-art-archive-bot"
+          git config user.email "public-art-archive-bot@users.noreply.github.com"
+          git add data/artists.json
+          git diff --cached --quiet || git commit -m "chore: sync public art archive data"
+          git push
