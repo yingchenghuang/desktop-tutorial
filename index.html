@@ -33,56 +33,15 @@
   </div>
 </header>
 
-<section class="hero wrap">
-  <p class="lab enter" style="--i:0">Archive・全球索引</p>
-  <h1 class="enter" style="--i:1">公共藝術檔案</h1>
-  <p class="hero-latin enter" style="--i:2">public art archive</p>
+<span class="archive-anchor" id="archive" aria-hidden="true"></span>
+<div class="result-meta wrap archive-count" id="resultMeta">
+  <span id="resultCount">載入中</span>
+  <button class="clear" id="clearBtn">清除篩選</button>
+</div>
 
-  <div class="hero-grid enter" style="--i:3">
-    <div class="hero-scope">
-      <p class="lab">收錄範圍</p>
-      <ul class="scope-list">
-        <li>藝術家與作品</li>
-        <li>藝術節與機構</li>
-        <li>平台與資料庫</li>
-        <li>每日自動同步</li>
-      </ul>
-    </div>
-    <div class="hero-voice">
-      <p class="motto">為場所，為眾人。</p>
-      <p class="motto-sub">一座每日生長的索引，把散落各地的公共藝術收進同一個秩序，讓經典與正在發生的事件並列可讀。</p>
-      <dl class="stat-row">
-        <div><dt>最後同步</dt><dd id="stSync">—</dd></div>
-        <div><dt>資料量</dt><dd id="stEntries">—</dd></div>
-        <div><dt>地區</dt><dd id="stRegions">—</dd></div>
-        <div><dt>媒介</dt><dd id="stMedia">—</dd></div>
-      </dl>
-    </div>
-  </div>
+<main class="grid wrap" id="grid" aria-live="polite"></main>
 
-  <h2 class="lede enter" style="--i:4">以一手來源建立的全球公共藝術索引。經典檔案庫收錄改寫公共藝術史的藝術家、作品與平台，動態情報層每日追蹤正在發生的委託、展覽與公共計畫。</h2>
-
-  <div class="duo enter" style="--i:5">
-    <div class="duo-col">
-      <p class="lab">經典檔案庫</p>
-      <p class="duo-body">改寫公共藝術史的名字。從光與地景到社會參與，每一筆條目都附上代表作、脈絡短評與一手連結，構成可長期引用的基準層。</p>
-    </div>
-    <div class="duo-col">
-      <p class="lab">動態情報層</p>
-      <p class="duo-body" id="dailyLead">載入全球公共藝術資訊中。</p>
-    </div>
-  </div>
-</section>
-
-<section class="ticker-block" id="daily" aria-label="最新情報">
-  <div class="wrap section-head">
-    <p class="lab">動態情報層</p>
-    <p class="section-meta" id="latestMeta">每日同步後自動更新。</p>
-  </div>
-  <div class="ticker" id="latestRail"></div>
-</section>
-
-<section class="command" id="archive">
+<section class="command archive-tools">
   <div class="wrap command-inner">
     <div class="search">
       <input id="q" type="search" placeholder="搜尋藝術家、作品、城市、媒介、短評" autocomplete="off" aria-label="搜尋公共藝術檔案">
@@ -114,12 +73,53 @@
   <div class="frow"><span class="frow-label">來源</span><div class="chips" id="chipStatus"></div></div>
 </section>
 
-<div class="result-meta wrap" id="resultMeta">
-  <span id="resultCount">載入中</span>
-  <button class="clear" id="clearBtn">清除篩選</button>
-</div>
+<section class="hero wrap">
+  <p class="lab enter" style="--i:0">Archive・全球索引</p>
+  <h1 class="enter" style="--i:1">公共藝術檔案</h1>
+  <p class="hero-latin enter" style="--i:2">public art archive</p>
 
-<main class="grid wrap" id="grid" aria-live="polite"></main>
+  <div class="hero-voice enter" style="--i:3">
+    <p class="motto">為場所，為眾人。</p>
+    <p class="motto-sub">一座每日生長的索引，把散落各地的公共藝術收進同一個秩序，讓經典與正在發生的事件並列可讀。</p>
+    <dl class="stat-row">
+      <div><dt>最後同步</dt><dd id="stSync">—</dd></div>
+      <div><dt>資料量</dt><dd id="stEntries">—</dd></div>
+      <div><dt>地區</dt><dd id="stRegions">—</dd></div>
+      <div><dt>媒介</dt><dd id="stMedia">—</dd></div>
+    </dl>
+  </div>
+
+  <h2 class="lede enter" style="--i:4">以一手來源建立的全球公共藝術索引。經典檔案庫收錄改寫公共藝術史的藝術家、作品與平台，動態情報層每日追蹤正在發生的委託、展覽與公共計畫。</h2>
+
+  <div class="duo enter" style="--i:5">
+    <div class="duo-col">
+      <p class="lab">經典檔案庫</p>
+      <p class="duo-body">改寫公共藝術史的名字。從光與地景到社會參與，每一筆條目都附上代表作、脈絡短評與一手連結，構成可長期引用的基準層。</p>
+    </div>
+    <div class="duo-col">
+      <p class="lab">動態情報層</p>
+      <p class="duo-body" id="dailyLead">載入全球公共藝術資訊中。</p>
+    </div>
+  </div>
+</section>
+
+<section class="ticker-block" id="daily" aria-label="最新情報">
+  <div class="wrap section-head">
+    <p class="lab">動態情報層</p>
+    <p class="section-meta" id="latestMeta">每日同步後自動更新。</p>
+  </div>
+  <div class="ticker" id="latestRail"></div>
+</section>
+
+<section class="scope-end wrap" aria-label="收錄範圍">
+  <p class="lab">收錄範圍</p>
+  <ul class="scope-list">
+    <li>藝術家與作品</li>
+    <li>藝術節與機構</li>
+    <li>平台與資料庫</li>
+    <li>每日自動同步</li>
+  </ul>
+</section>
 
 <footer class="bigfoot" id="contact">
   <div class="wrap">
