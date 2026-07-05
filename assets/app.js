@@ -190,15 +190,18 @@
     var img = e.classicImage
       ? '<img loading="lazy" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.parentElement.classList.add(\'noimg\')">'
       : '';
-    var rank = e.rank ? '<span class="rank">情報 ' + esc(e.rank) + '</span>' : '';
+    var rank = e.rank ? esc(e.rank) : String(i + 1).padStart(2, '0');
     var tier = e.tier === '動態情報層' ? '<em class="tiermark">動態</em>' : '';
 
     return '<button class="card enter" style="--i:' + Math.min(i, 14) + '" data-id="' + esc(e.id) + '">' +
-      '<span class="card-media' + noimg + '">' + rank + img +
+      '<span class="card-head">' +
+        '<span class="rank">' + rank + '</span>' +
+        '<span class="card-meta"><i class="st-dot ' + statusClass(e.status) + '"></i><span>' + esc(e.category) + ' · ' + esc(e.region) + '</span>' + tier + '</span>' +
+      '</span>' +
+      '<span class="card-media' + noimg + '">' + img +
         '<span class="card-glyph"><span>' + esc(glyphChar(e.displayName)) + '</span></span>' +
       '</span>' +
       '<span class="card-body">' +
-        '<span class="card-meta"><i class="st-dot ' + statusClass(e.status) + '"></i><span>' + esc(e.category) + ' · ' + esc(e.region) + '</span>' + tier + '</span>' +
         '<h3 class="card-name">' + esc(e.displayName) + '</h3>' +
         (e.subName ? '<p class="card-sub">' + esc(e.subName) + '</p>' : '') +
         '<p class="card-country">' + esc(e.country) + ' · ' + displayDate(e.updated) + '</p>' +
