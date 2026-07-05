@@ -156,7 +156,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const manifestUrl = 'data/backfill-july-manifest.json?t=20260705';
+  const manifestUrl = 'data/backfill-july-manifest.json?t=20260706';
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
 
   async function readJson(url) {
@@ -175,7 +175,7 @@
       const seen = new Set(entries.map(keyOf).filter(Boolean));
 
       for (const file of files) {
-        const chunk = await readJson('data/' + file + '?t=20260705');
+        const chunk = await readJson('data/' + file + '?t=20260706');
         const chunkEntries = Array.isArray(chunk.entries) ? chunk.entries : [];
         for (const entry of chunkEntries) {
           const key = keyOf(entry);
@@ -188,7 +188,7 @@
       base.entries = entries;
       base.meta = Object.assign({}, base.meta || {}, {
         total: entries.length,
-        backfillVersion: manifest.version || '2026-07-05'
+        backfillVersion: manifest.version || '2026-07-06'
       });
     } catch (error) {
       base.entries = entries;
