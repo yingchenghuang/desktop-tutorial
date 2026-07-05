@@ -145,6 +145,73 @@
 </div>
 
 <noscript><p class="noscript">此檔案庫需要啟用 JavaScript 才能檢索。</p></noscript>
+<script>
+(() => {
+  const originalFetch = window.fetch.bind(window);
+  const manifestUrl = 'data/backfill-july-manifest.json?t=20260705';
+  const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
+
+  async function readJson(url) {
+    const response = await originalFetch(url);
+    if (!response.ok) throw new Error('Unable to load ' + url);
+    return response.json();
+  }
+
+  async function withBackfill(data) {
+    const base = Array.isArray(data) ? { entries: data } : (data || {});
+    const entries = Array.isArray(base.entries) ? base.entries.slice() : [];
+
+    try {
+      const manifest = await readJson(manifestUrl);
+      const files = Array.isArray(manifest.files) ? manifest.files : [];
+      const seen = new Set(entries.map(keyOf).filter(Boolean));
+
+      for (const file of files) {
+        const chunk = await readJson('data/' + file + '?t=20260705');
+        const chunkEntries = Array.isArray(chunk.entries) ? chunk.entries : [];
+        for (const entry of chunkEntries) {
+          const key = keyOf(entry);
+          if (!key || seen.has(key)) continue;
+          seen.add(key);
+          entries.push(entry);
+        }
+      }
+
+      base.entries = entries;
+      base.meta = Object.assign({}, base.meta || {}, {
+        total: entries.length,
+        backfillVersion: manifest.version || '2026-07-05'
+      });
+    } catch (error) {
+      base.entries = entries;
+      base.meta = Object.assign({}, base.meta || {}, {
+        total: entries.length,
+        backfillStatus: 'unavailable'
+      });
+    }
+
+    return base;
+  }
+
+  window.fetch = async function(input, init) {
+    const url = typeof input === 'string' ? input : (input && input.url) || '';
+    const response = await originalFetch(input, init);
+    if (!url.includes('data/artists.json')) return response;
+
+    try {
+      const data = await response.clone().json();
+      const merged = await withBackfill(data);
+      return new Response(JSON.stringify(merged), {
+        status: response.status,
+        statusText: response.statusText,
+        headers: { 'content-type': 'application/json; charset=utf-8' }
+      });
+    } catch (error) {
+      return response;
+    }
+  };
+})();
+</script>
 <script src="assets/app.js"></script>
 </body>
 </html>
