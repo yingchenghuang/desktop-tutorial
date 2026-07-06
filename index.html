@@ -156,7 +156,8 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const manifestUrl = 'data/backfill-july-manifest.json?t=20260707';
+  const cacheKey = '20260707-artists';
+  const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
 
   async function readJson(url) {
@@ -175,7 +176,7 @@
       const seen = new Set(entries.map(keyOf).filter(Boolean));
 
       for (const file of files) {
-        const chunk = await readJson('data/' + file + '?t=20260707');
+        const chunk = await readJson('data/' + file + '?t=' + cacheKey);
         const chunkEntries = Array.isArray(chunk.entries) ? chunk.entries : [];
         for (const entry of chunkEntries) {
           const key = keyOf(entry);
