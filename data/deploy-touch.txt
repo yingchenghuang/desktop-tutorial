@@ -1,2 +1,3 @@
-2026-07-06T05:28:00+08:00 public-art archive deploy retry
-reason: GitHub Pages public site still served 2026-07-05 after 2026-07-06 data sync.
+2026-07-07T05:34:00+08:00 public-art archive deploy retry
+reason: Refresh public Pages after replacing expired/low-priority event items with current public artists in 2026-07-07 backfill.
+commits: 8a1da72be2f071f6b9778dd53f2c407c389e3381, 6b08ad7052281025a2a1f4f1453dec9f48eac376
