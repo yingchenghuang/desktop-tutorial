@@ -15,166 +15,70 @@
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-
 <header class="topbar" id="topbar">
   <div class="wrap topbar-inner">
-    <nav class="toplinks left" aria-label="主要區塊">
-      <a href="#daily">每日情報</a>
-      <a href="#archive">索引</a>
-    </nav>
-    <a class="brand" href="#" id="brandTop" aria-label="回到頂端">
-      <i class="dot" aria-hidden="true"></i>
-      <span>公共藝術檔案</span>
-    </a>
-    <nav class="toplinks right" aria-label="次要區塊">
-      <a href="#sources">來源</a>
-      <a href="#contact">關於</a>
-    </nav>
+    <nav class="toplinks left" aria-label="主要區塊"><a href="#daily">每日情報</a><a href="#archive">索引</a></nav>
+    <a class="brand" href="#" id="brandTop" aria-label="回到頂端"><i class="dot" aria-hidden="true"></i><span>公共藝術檔案</span></a>
+    <nav class="toplinks right" aria-label="次要區塊"><a href="#sources">來源</a><a href="#contact">關於</a></nav>
   </div>
 </header>
-
 <section class="masthead wrap" aria-label="公共藝術檔案首頁">
   <h1>PUBLIC ART<br>ARCHIVE</h1>
-  <div class="masthead-note">
-    <p class="masthead-title">公共藝術檔案 <i class="dot" aria-hidden="true"></i></p>
-    <p>全球公共藝術索引與情報平台，以經典檔案庫與動態情報層，持續記錄正在發生的公共藝術。</p>
-  </div>
+  <div class="masthead-note"><p class="masthead-title">公共藝術檔案 <i class="dot" aria-hidden="true"></i></p><p>全球公共藝術索引與情報平台，以經典檔案庫與動態情報層，持續記錄正在發生的公共藝術。</p></div>
 </section>
-
 <span class="archive-anchor" id="archive" aria-hidden="true"></span>
 <section class="command archive-tools">
   <div class="wrap command-inner">
-    <div class="search">
-      <input id="q" type="search" placeholder="搜尋藝術家、作品、城市、媒介、短評" autocomplete="off" aria-label="搜尋公共藝術檔案">
-    </div>
-    <div class="seg" role="group" aria-label="檔案層級" id="segTier">
-      <button class="on" data-tier="全部">全部</button>
-      <button data-tier="經典檔案庫">經典檔案庫</button>
-      <button data-tier="動態情報層">動態情報層</button>
-    </div>
-    <div class="sortbox">
-      <select id="sort" aria-label="排序方式">
-        <option value="default">策展排序</option>
-        <option value="updated">最近更新</option>
-        <option value="name">名稱排序</option>
-      </select>
-    </div>
+    <div class="search"><input id="q" type="search" placeholder="搜尋藝術家、作品、城市、媒介、短評" autocomplete="off" aria-label="搜尋公共藝術檔案"></div>
+    <div class="seg" role="group" aria-label="檔案層級" id="segTier"><button class="on" data-tier="全部">全部</button><button data-tier="經典檔案庫">經典檔案庫</button><button data-tier="動態情報層">動態情報層</button></div>
+    <div class="sortbox"><select id="sort" aria-label="排序方式"><option value="default">策展排序</option><option value="updated">最近更新</option><option value="name">名稱排序</option></select></div>
   </div>
 </section>
-
-<div class="result-meta wrap archive-count" id="resultMeta">
-  <span id="resultCount">載入中</span>
-  <button class="clear" id="clearBtn">清除篩選</button>
-</div>
-
+<div class="result-meta wrap archive-count" id="resultMeta"><span id="resultCount">載入中</span><button class="clear" id="clearBtn">清除篩選</button></div>
 <main class="grid wrap" id="grid" aria-live="polite"></main>
-
 <section class="filters wrap" aria-label="篩選條件">
-  <div class="frow" id="sources">
-    <span class="frow-label">來源品質</span>
-    <div class="source-items" id="sourceItems"></div>
-    <span class="source-note" id="sourceNote">Notion 公共藝術檔案</span>
-  </div>
+  <div class="frow" id="sources"><span class="frow-label">來源品質</span><div class="source-items" id="sourceItems"></div><span class="source-note" id="sourceNote">Notion 公共藝術檔案</span></div>
   <div class="frow"><span class="frow-label">地區</span><div class="chips" id="chipRegion"></div></div>
   <div class="frow"><span class="frow-label">類別</span><div class="chips" id="chipCat"></div></div>
   <div class="frow"><span class="frow-label">媒介</span><div class="chips" id="chipMedia"></div></div>
   <div class="frow"><span class="frow-label">來源</span><div class="chips" id="chipStatus"></div></div>
 </section>
-
 <section class="hero wrap">
   <p class="lab enter" style="--i:0">Archive・全球索引</p>
   <h1 class="enter" style="--i:1">公共藝術檔案</h1>
   <p class="hero-latin enter" style="--i:2">public art archive</p>
-
   <div class="hero-voice enter" style="--i:3">
     <p class="motto">為場所，為眾人。</p>
     <p class="motto-sub">一座每日生長的索引，把散落各地的公共藝術收進同一個秩序，讓經典與正在發生的事件並列可讀。</p>
-    <dl class="stat-row">
-      <div><dt>最後同步</dt><dd id="stSync">—</dd></div>
-      <div><dt>資料量</dt><dd id="stEntries">—</dd></div>
-      <div><dt>地區</dt><dd id="stRegions">—</dd></div>
-      <div><dt>媒介</dt><dd id="stMedia">—</dd></div>
-    </dl>
+    <dl class="stat-row"><div><dt>最後同步</dt><dd id="stSync">—</dd></div><div><dt>資料量</dt><dd id="stEntries">—</dd></div><div><dt>地區</dt><dd id="stRegions">—</dd></div><div><dt>媒介</dt><dd id="stMedia">—</dd></div></dl>
   </div>
-
   <h2 class="lede enter" style="--i:4">以一手來源建立的全球公共藝術索引。經典檔案庫收錄改寫公共藝術史的藝術家、作品與平台，動態情報層每日追蹤正在發生的委託、展覽與公共計畫。</h2>
-
-  <div class="duo enter" style="--i:5">
-    <div class="duo-col">
-      <p class="lab">經典檔案庫</p>
-      <p class="duo-body">改寫公共藝術史的名字。從光與地景到社會參與，每一筆條目都附上代表作、脈絡短評與一手連結，構成可長期引用的基準層。</p>
-    </div>
-    <div class="duo-col">
-      <p class="lab">動態情報層</p>
-      <p class="duo-body" id="dailyLead">載入全球公共藝術資訊中。</p>
-    </div>
-  </div>
+  <div class="duo enter" style="--i:5"><div class="duo-col"><p class="lab">經典檔案庫</p><p class="duo-body">改寫公共藝術史的名字。每一筆條目都附上代表作、脈絡短評與一手連結。</p></div><div class="duo-col"><p class="lab">動態情報層</p><p class="duo-body" id="dailyLead">載入全球公共藝術資訊中。</p></div></div>
 </section>
-
-<section class="ticker-block" id="daily" aria-label="最新情報">
-  <div class="wrap section-head">
-    <p class="lab">動態情報層</p>
-    <p class="section-meta" id="latestMeta">每日同步後自動更新。</p>
-  </div>
-  <div class="ticker" id="latestRail"></div>
-</section>
-
-<section class="scope-end wrap" aria-label="收錄範圍">
-  <p class="lab">收錄範圍</p>
-  <ul class="scope-list">
-    <li>藝術家與作品</li>
-    <li>藝術節與機構</li>
-    <li>平台與資料庫</li>
-    <li>每日自動同步</li>
-  </ul>
-</section>
-
-<footer class="bigfoot" id="contact">
-  <div class="wrap">
-    <p class="lab">Public Art Archive</p>
-    <p class="foot-giant">公共藝術，<br>持續發生。</p>
-    <div class="clock-row">
-      <div><span>台中 Taichung</span><strong id="ckTpe">00:00</strong></div>
-      <div><span>紐倫堡 Nürnberg</span><strong id="ckNbg">00:00</strong></div>
-      <div><span>世界時 UTC</span><strong id="ckUtc">00:00</strong></div>
-    </div>
-    <div class="foot-inner">
-      <span>2024–2026 苛社 KÈ SHÈ・公共藝術檔案</span>
-      <span id="syncDate">資料載入中</span>
-    </div>
-  </div>
-</footer>
-
+<section class="ticker-block" id="daily" aria-label="最新情報"><div class="wrap section-head"><p class="lab">動態情報層</p><p class="section-meta" id="latestMeta">每日同步後自動更新。</p></div><div class="ticker" id="latestRail"></div></section>
+<section class="scope-end wrap" aria-label="收錄範圍"><p class="lab">收錄範圍</p><ul class="scope-list"><li>藝術家與作品</li><li>藝術節與機構</li><li>平台與資料庫</li><li>每日自動同步</li></ul></section>
+<footer class="bigfoot" id="contact"><div class="wrap"><p class="lab">Public Art Archive</p><p class="foot-giant">公共藝術，<br>持續發生。</p><div class="clock-row"><div><span>台中 Taichung</span><strong id="ckTpe">00:00</strong></div><div><span>紐倫堡 Nürnberg</span><strong id="ckNbg">00:00</strong></div><div><span>世界時 UTC</span><strong id="ckUtc">00:00</strong></div></div><div class="foot-inner"><span>2024-2026 苛社 KÈ SHÈ・公共藝術檔案</span><span id="syncDate">資料載入中</span></div></div></footer>
 <button class="toTop" id="toTop" aria-label="回到頂端">↑</button>
-
-<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="條目詳細資訊">
-  <div class="backdrop" id="backdrop"></div>
-  <div class="panel" id="panel"></div>
-</div>
-
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="條目詳細資訊"><div class="backdrop" id="backdrop"></div><div class="panel" id="panel"></div></div>
 <noscript><p class="noscript">此檔案庫需要啟用 JavaScript 才能檢索。</p></noscript>
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260708-artists';
+  const cacheKey = '20260709-artists';
   const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
-
   async function readJson(url) {
     const response = await originalFetch(url);
     if (!response.ok) throw new Error('Unable to load ' + url);
     return response.json();
   }
-
   async function withBackfill(data) {
     const base = Array.isArray(data) ? { entries: data } : (data || {});
     const entries = Array.isArray(base.entries) ? base.entries.slice() : [];
-
     try {
       const manifest = await readJson(manifestUrl);
       const files = Array.isArray(manifest.files) ? manifest.files : [];
       const seen = new Set(entries.map(keyOf).filter(Boolean));
-
       for (const file of files) {
         const chunk = await readJson('data/' + file + '?t=' + cacheKey);
         const chunkEntries = Array.isArray(chunk.entries) ? chunk.entries : [];
@@ -185,36 +89,22 @@
           entries.push(entry);
         }
       }
-
       base.entries = entries;
-      base.meta = Object.assign({}, base.meta || {}, {
-        total: entries.length,
-        backfillVersion: manifest.version || '2026-07-08'
-      });
+      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: manifest.version || '2026-07-09' });
     } catch (error) {
       base.entries = entries;
-      base.meta = Object.assign({}, base.meta || {}, {
-        total: entries.length,
-        backfillStatus: 'unavailable'
-      });
+      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillStatus: 'unavailable' });
     }
-
     return base;
   }
-
   window.fetch = async function(input, init) {
     const url = typeof input === 'string' ? input : (input && input.url) || '';
     const response = await originalFetch(input, init);
     if (!url.includes('data/artists.json')) return response;
-
     try {
       const data = await response.clone().json();
       const merged = await withBackfill(data);
-      return new Response(JSON.stringify(merged), {
-        status: response.status,
-        statusText: response.statusText,
-        headers: { 'content-type': 'application/json; charset=utf-8' }
-      });
+      return new Response(JSON.stringify(merged), { status: response.status, statusText: response.statusText, headers: { 'content-type': 'application/json; charset=utf-8' } });
     } catch (error) {
       return response;
     }
