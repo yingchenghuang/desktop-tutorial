@@ -156,7 +156,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260707-artists';
+  const cacheKey = '20260708-artists';
   const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
 
@@ -189,7 +189,7 @@
       base.entries = entries;
       base.meta = Object.assign({}, base.meta || {}, {
         total: entries.length,
-        backfillVersion: manifest.version || '2026-07-07'
+        backfillVersion: manifest.version || '2026-07-08'
       });
     } catch (error) {
       base.entries = entries;
