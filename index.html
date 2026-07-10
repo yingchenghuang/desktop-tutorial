@@ -64,7 +64,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260709-artists';
+  const cacheKey = '20260710-artists';
   const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
@@ -90,7 +90,7 @@
         }
       }
       base.entries = entries;
-      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: manifest.version || '2026-07-09' });
+      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: manifest.version || '2026-07-10' });
     } catch (error) {
       base.entries = entries;
       base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillStatus: 'unavailable' });
