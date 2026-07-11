@@ -68,7 +68,12 @@
   function normalizeEntry(raw, index) {
     var media = toArray(raw.media);
     var parsed = parseName(raw);
-    var links = [raw.website, raw.workPage, raw.photo].filter(Boolean);
+    var website = text(raw.website) || text(raw.officialUrl) || text(raw.source);
+    var workPage = text(raw.workPage) || text(raw.imagePage);
+    var photo = text(raw.photo) || text(raw.image);
+    var comment = text(raw.comment) || text(raw.summary) || text(raw.shortReview) || text(raw.description);
+    var classicImage = text(raw.classicImage) || text(raw.image);
+    var links = [website, workPage, photo].filter(Boolean);
     var updated = text(raw.updated) || text(raw.lastEdited) || text(raw.createdTime);
     var entry = {
       id: text(raw.id, 'entry-' + index),
@@ -79,12 +84,12 @@
       country: text(raw.country, '未標記地點'),
       media: media.length ? media : ['未標記媒介'],
       works: text(raw.works),
-      comment: text(raw.comment, '尚未寫入重點短評。'),
-      website: text(raw.website),
-      workPage: text(raw.workPage),
-      photo: text(raw.photo),
+      comment: text(comment, '尚未寫入重點短評。'),
+      website: website,
+      workPage: workPage,
+      photo: photo,
       classicTitle: text(raw.classicTitle),
-      classicImage: text(raw.classicImage),
+      classicImage: classicImage,
       classicDesc: text(raw.classicDesc),
       status: text(raw.status, links.length ? '可信二手來源' : '追蹤'),
       updated: updated,
