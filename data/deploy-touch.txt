@@ -1,3 +1,3 @@
 2026-07-11T04:00:00+08:00 public-art archive deploy
-reason: Publish 2026-07-11 daily public art backfill, refresh manifest and Pages cache key.
+reason: Force republish 2026-07-11 daily public art backfill and refresh the Pages cache after the first deployment remained stale.
 commits: a4b490e0ed57a4e3726061d3d472f5e8f266b8b8, 1de0edded077e83cf524ce68dcc289bd3bebb8cb
