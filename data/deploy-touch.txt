@@ -1,3 +1,3 @@
 2026-07-11T04:00:00+08:00 public-art archive deploy
-reason: Force republish 2026-07-11 daily public art backfill and refresh the Pages cache after the first deployment remained stale.
+reason: Publish the 2026-07-11 Notion field-mapping fix so summaries, links, and images render from daily backfill data.
 commits: a4b490e0ed57a4e3726061d3d472f5e8f266b8b8, 1de0edded077e83cf524ce68dcc289bd3bebb8cb
