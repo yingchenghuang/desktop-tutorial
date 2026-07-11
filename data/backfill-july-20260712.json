@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-07-12T04:00:00+08:00",
     "source": "Notion 公共藝術檔案",
-    "note": "2026-07-12 Sunday top 20 plus 10 additional Asia cases; 30 canonical entries synced from Notion."
+    "note": "2026-07-12 curated art exhibitions only. Removed expired, non-exhibition, unreachable-page, and broken-image records after full audit."
   },
   "entries": [
     {
@@ -102,30 +102,6 @@
       "updated": "2026-07-12"
     },
     {
-      "id": "dynamic-2026-07-12-05",
-      "dedupeKey": "dynamic-2026-07-12-05-medina-triennial-all-that-sustains-us",
-      "name": "05｜Medina Triennial｜All That Sustains Us",
-      "category": "藝術節",
-      "tier": "動態情報層",
-      "region": "西方",
-      "country": "美國 / New York Medina",
-      "media": [
-        "社會參與",
-        "地景/大地藝術",
-        "平台/策展"
-      ],
-      "works": "Medina Triennial｜All That Sustains Us",
-      "comment": "關注度#05：首屆 Medina Triennial 以 35 位藝術家、12 個室內外場址和 Erie Canal 為尺度，把維護、勞動與生態修復變成小鎮公共藝術基礎設施。",
-      "website": "https://medinatriennial.org/",
-      "workPage": "https://medinatriennial.org/",
-      "photo": "https://cimam.org/media/uploads/2026/04/medina-triennial-2026.jpg",
-      "classicTitle": "Medina Triennial｜All That Sustains Us",
-      "classicImage": "https://cimam.org/media/uploads/2026/04/medina-triennial-2026.jpg",
-      "classicDesc": "關注度#05：首屆 Medina Triennial 以 35 位藝術家、12 個室內外場址和 Erie Canal 為尺度，把維護、勞動與生態修復變成小鎮公共藝術基礎設施。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
       "id": "dynamic-2026-07-12-06",
       "dedupeKey": "dynamic-2026-07-12-06-peter-miller-build-the-future",
       "name": "06｜Peter Miller｜BUILD THE FUTURE",
@@ -145,53 +121,6 @@
       "classicTitle": "Peter Miller｜BUILD THE FUTURE",
       "classicImage": "https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/yos-131-scaled.jpg",
       "classicDesc": "關注度#06：350 英尺彩色鋁帶沿 Navy Yard 圍牆展開，觀眾乘車或步行時會看到圖像持續變化，把工業材料轉為移動觀看的公共立面。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-07",
-      "dedupeKey": "dynamic-2026-07-12-07-tanvi-shaha-joris-van-helmond-brooklyn-layere",
-      "name": "07｜Tanvi Shaha & Joris Van Helmond｜Brooklyn: Layered Lenses",
-      "category": "作品/展覽",
-      "tier": "動態情報層",
-      "region": "西方",
-      "country": "美國 / Brooklyn Navy Yard Building 92",
-      "media": [
-        "裝置",
-        "光/影像/投影",
-        "建築/場域"
-      ],
-      "works": "Tanvi Shaha & Joris Van Helmond｜Brooklyn: Layered Lenses",
-      "comment": "關注度#07：透明壓克力與彩色影像疊合 Navy Yard、Prospect Park、Coney Island，讓生產、共享空間與城市奇觀在光線中互相穿透。",
-      "website": "https://www.brooklynnavyyard.org/2026-public-art/",
-      "workPage": "https://www.brooklynnavyyard.org/2026-public-art/",
-      "photo": "https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/yos-130-scaled.jpg",
-      "classicTitle": "Tanvi Shaha & Joris Van Helmond｜Brooklyn: Layered Lenses",
-      "classicImage": "https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/yos-130-scaled.jpg",
-      "classicDesc": "關注度#07：透明壓克力與彩色影像疊合 Navy Yard、Prospect Park、Coney Island，讓生產、共享空間與城市奇觀在光線中互相穿透。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-08",
-      "dedupeKey": "dynamic-2026-07-12-08-woody-de-othello-guardian-spirit",
-      "name": "08｜Woody De Othello｜Guardian Spirit",
-      "category": "藝術家",
-      "tier": "動態情報層",
-      "region": "西方",
-      "country": "美國 / New York Brooklyn Bridge Park",
-      "media": [
-        "雕塑",
-        "地景/大地藝術"
-      ],
-      "works": "Woody De Othello｜Guardian Spirit",
-      "comment": "關注度#08：四件大型青銅與三件紅木圖騰散布 Brooklyn Bridge Park，把日常器物與西非、中非護佑物件的精神性帶入海濱公共空間。",
-      "website": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
-      "workPage": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
-      "photo": "https://www.publicartfund.org/wp-content/uploads/2026/04/Woody-De-Othello-Guardian-Spirit-scaled.jpg",
-      "classicTitle": "Woody De Othello｜Guardian Spirit",
-      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2026/04/Woody-De-Othello-Guardian-Spirit-scaled.jpg",
-      "classicDesc": "關注度#08：四件大型青銅與三件紅木圖騰散布 Brooklyn Bridge Park，把日常器物與西非、中非護佑物件的精神性帶入海濱公共空間。",
       "status": "官方來源",
       "updated": "2026-07-12"
     },
@@ -266,54 +195,6 @@
       "updated": "2026-07-12"
     },
     {
-      "id": "dynamic-2026-07-12-12",
-      "dedupeKey": "dynamic-2026-07-12-12-akinsanya-kambon-soul-sessions",
-      "name": "12｜Akinsanya Kambon｜Soul Sessions",
-      "category": "藝術家",
-      "tier": "動態情報層",
-      "region": "西方",
-      "country": "美國 / New York SculptureCenter",
-      "media": [
-        "雕塑",
-        "裝置",
-        "社會參與"
-      ],
-      "works": "Akinsanya Kambon｜Soul Sessions",
-      "comment": "關注度#12：Kambon 以陶土、非洲離散史與精神性建構大型裝置，展期至 8 月 16 日，為雕塑與歷史敘事交會的重要當期案例。",
-      "website": "https://www.sculpture-center.org/",
-      "workPage": "https://www.sculpture-center.org/",
-      "photo": "https://www.sculpture-center.org/images/04_1441C_03B_1_4.jpg?w=2000",
-      "classicTitle": "Akinsanya Kambon｜Soul Sessions",
-      "classicImage": "https://www.sculpture-center.org/images/04_1441C_03B_1_4.jpg?w=2000",
-      "classicDesc": "關注度#12：Kambon 以陶土、非洲離散史與精神性建構大型裝置，展期至 8 月 16 日，為雕塑與歷史敘事交會的重要當期案例。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-13",
-      "dedupeKey": "dynamic-2026-07-12-13-sculpture-sylvester-manor-r-evolution",
-      "name": "13｜Sculpture@Sylvester Manor｜[R]evolution",
-      "category": "藝術節",
-      "tier": "動態情報層",
-      "region": "西方",
-      "country": "美國 / New York Shelter Island",
-      "media": [
-        "雕塑",
-        "地景/大地藝術",
-        "社會參與"
-      ],
-      "works": "Sculpture@Sylvester Manor｜[R]evolution",
-      "comment": "關注度#13：第三屆戶外雕塑展以革命與演化雙重命題回應美國 250 年歷史，並把藝術放進具有殖民與農業記憶的歷史土地。",
-      "website": "https://www.sylvestermanor.org/",
-      "workPage": "https://www.sylvestermanor.org/",
-      "photo": "https://www.sylvestermanor.org/wp-content/uploads/2026/05/sculpture-revolution-2026.jpg",
-      "classicTitle": "Sculpture@Sylvester Manor｜[R]evolution",
-      "classicImage": "https://www.sylvestermanor.org/wp-content/uploads/2026/05/sculpture-revolution-2026.jpg",
-      "classicDesc": "關注度#13：第三屆戶外雕塑展以革命與演化雙重命題回應美國 250 年歷史，並把藝術放進具有殖民與農業記憶的歷史土地。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
       "id": "dynamic-2026-07-12-14",
       "dedupeKey": "dynamic-2026-07-12-14-carol-bove-guggenheim-rotunda-survey",
       "name": "14｜Carol Bove｜Guggenheim Rotunda Survey",
@@ -333,30 +214,6 @@
       "classicTitle": "Carol Bove｜Guggenheim Rotunda Survey",
       "classicImage": "https://www.guggenheim.org/wp-content/uploads/2026/03/Carol-Bove-exh_ph044_HorizontalCropped-scaled.jpg",
       "classicDesc": "關注度#14：Bove 的大型鋼雕沿 Guggenheim 螺旋空間保持跨樓層視覺連結，讓建築本身成為雕塑場域並延續到 8 月 2 日。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-15",
-      "dedupeKey": "dynamic-2026-07-12-15-nate-page-the-passage-of-being",
-      "name": "15｜Nate Page｜The Passage of Being",
-      "category": "藝術家",
-      "tier": "動態情報層",
-      "region": "西方",
-      "country": "美國 / Wisconsin Madison Reindahl Park",
-      "media": [
-        "雕塑",
-        "社會參與",
-        "建築/場域"
-      ],
-      "works": "Nate Page｜The Passage of Being",
-      "comment": "關注度#15：Madison 新公共委託將設置於 Imagination Center，從社區交流、公民參與與文化認同出發，把藝術與公共服務建築共同設計。",
-      "website": "https://www.cityofmadison.com/news/2026-05-26/city-of-madison-commissions-artist-nate-page-to-create-public-art-for-the",
-      "workPage": "https://www.cityofmadison.com/news/2026-05-26/city-of-madison-commissions-artist-nate-page-to-create-public-art-for-the",
-      "photo": "https://www.cityofmadison.com/news/images/2026/passage-of-being-day-view.jpg",
-      "classicTitle": "Nate Page｜The Passage of Being",
-      "classicImage": "https://www.cityofmadison.com/news/images/2026/passage-of-being-day-view.jpg",
-      "classicDesc": "關注度#15：Madison 新公共委託將設置於 Imagination Center，從社區交流、公民參與與文化認同出發，把藝術與公共服務建築共同設計。",
       "status": "官方來源",
       "updated": "2026-07-12"
     },
@@ -385,30 +242,6 @@
       "updated": "2026-07-12"
     },
     {
-      "id": "dynamic-2026-07-12-17",
-      "dedupeKey": "dynamic-2026-07-12-17-obama-presidential-center-campus-art-commissi",
-      "name": "17｜Obama Presidential Center｜Campus Art Commissions",
-      "category": "平台",
-      "tier": "動態情報層",
-      "region": "西方",
-      "country": "美國 / Chicago",
-      "media": [
-        "雕塑",
-        "壁畫/街頭",
-        "社會參與"
-      ],
-      "works": "Obama Presidential Center｜Campus Art Commissions",
-      "comment": "關注度#17：中心開幕前公布最後一批校園委託藝術家，使世界級藝術家與芝加哥在地創作者共同構成可長期使用的公共藝術校園。",
-      "website": "https://obama.org/press-releases/final-group-of-commissioned-artists-for-campus/",
-      "workPage": "https://obama.org/press-releases/final-group-of-commissioned-artists-for-campus/",
-      "photo": "https://images.ctfassets.net/l7h59hfnlxjx/7r0DGakBg9qcjawk8j57zx/a50161aa96baf8c6d9f2c9bf042d71ec/BOF_RisingSun.png?q=75&w=2108&fm=jpg",
-      "classicTitle": "Obama Presidential Center｜Campus Art Commissions",
-      "classicImage": "https://images.ctfassets.net/l7h59hfnlxjx/7r0DGakBg9qcjawk8j57zx/a50161aa96baf8c6d9f2c9bf042d71ec/BOF_RisingSun.png?q=75&w=2108&fm=jpg",
-      "classicDesc": "關注度#17：中心開幕前公布最後一批校園委託藝術家，使世界級藝術家與芝加哥在地創作者共同構成可長期使用的公共藝術校園。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
       "id": "dynamic-2026-07-12-18",
       "dedupeKey": "dynamic-2026-07-12-18-camille-henrot-dogs",
       "name": "18｜Camille Henrot｜Dogs",
@@ -432,77 +265,6 @@
       "updated": "2026-07-12"
     },
     {
-      "id": "dynamic-2026-07-12-19",
-      "dedupeKey": "dynamic-2026-07-12-19-public-art-fund-jfk-terminal-6-commissions",
-      "name": "19｜Public Art Fund｜JFK Terminal 6 Commissions",
-      "category": "平台",
-      "tier": "動態情報層",
-      "region": "全球",
-      "country": "美國 / New York JFK Airport",
-      "media": [
-        "雕塑",
-        "建築/場域",
-        "平台/策展"
-      ],
-      "works": "Public Art Fund｜JFK Terminal 6 Commissions",
-      "comment": "關注度#19：19 位國際藝術家的雕塑、牆面裝置、馬賽克與青銅地面作品將進入新航廈，把高流量交通基礎設施轉成永久公共藝術入口。",
-      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
-      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
-      "photo": "https://www.publicartfund.org/wp-content/uploads/2026/03/jfk-terminal-6-art-program.jpg",
-      "classicTitle": "Public Art Fund｜JFK Terminal 6 Commissions",
-      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2026/03/jfk-terminal-6-art-program.jpg",
-      "classicDesc": "關注度#19：19 位國際藝術家的雕塑、牆面裝置、馬賽克與青銅地面作品將進入新航廈，把高流量交通基礎設施轉成永久公共藝術入口。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-20",
-      "dedupeKey": "dynamic-2026-07-12-20-rana-begum-paloma-varga-weisz-rafael-p-rez-ev",
-      "name": "20｜Rana Begum・Paloma Varga Weisz・Rafael Pérez Evans｜Henry Moore and more",
-      "category": "作品/展覽",
-      "tier": "動態情報層",
-      "region": "西方",
-      "country": "英國 / Wakehurst Sussex",
-      "media": [
-        "雕塑",
-        "地景/大地藝術"
-      ],
-      "works": "Rana Begum・Paloma Varga Weisz・Rafael Pérez Evans｜Henry Moore and more",
-      "comment": "關注度#20：三位當代藝術家與 Moore 的戶外雕塑共同進入植物科學景觀，讓色彩、身體與農業材料回應 Wakehurst 的生態收藏。",
-      "website": "https://www.kew.org/about-us/press-media/wakehurst-henry-moore-and-more",
-      "workPage": "https://www.kew.org/about-us/press-media/wakehurst-henry-moore-and-more",
-      "photo": "https://www.kew.org/sites/default/files/styles/hero/public/2026-05/henry-moore-and-more-wakehurst.jpg",
-      "classicTitle": "Rana Begum・Paloma Varga Weisz・Rafael Pérez Evans｜Henry Moore and more",
-      "classicImage": "https://www.kew.org/sites/default/files/styles/hero/public/2026-05/henry-moore-and-more-wakehurst.jpg",
-      "classicDesc": "關注度#20：三位當代藝術家與 Moore 的戶外雕塑共同進入植物科學景觀，讓色彩、身體與農業材料回應 Wakehurst 的生態收藏。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-asia-21",
-      "dedupeKey": "dynamic-2026-07-12-asia-21",
-      "name": "21｜臺東縣立圖書館｜織知",
-      "category": "作品/展覽",
-      "tier": "動態情報層",
-      "region": "東亞",
-      "country": "台灣 / 臺東",
-      "media": [
-        "裝置",
-        "建築/場域",
-        "社會參與"
-      ],
-      "works": "臺東縣立圖書館｜織知",
-      "comment": "關注度#21：新圖書館試營運同步推出《織知》，把閱讀、地方知識與公共藝術整合進臺東新的文化基礎設施。",
-      "website": "https://publicart.moc.gov.tw/",
-      "workPage": "https://publicart.moc.gov.tw/",
-      "photo": "https://themefile.culture.tw/siteimage/2022-07-19/ce7e4800-140d-4348-9102-ce5f1e3eca24/%E8%8A%B1%E8%93%AE%E9%9D%9C%E6%B5%A6%E9%83%A8%E8%90%BD%E5%A4%AA%E9%99%BD%E5%BB%A3%E5%A0%B4_%E4%BA%A4%E7%B9%94(%E6%92%92%E9%83%A8%E2%80%A7%E5%99%B6%E7%85%A7).jpg",
-      "classicTitle": "臺東縣立圖書館｜織知",
-      "classicImage": "https://themefile.culture.tw/siteimage/2022-07-19/ce7e4800-140d-4348-9102-ce5f1e3eca24/%E8%8A%B1%E8%93%AE%E9%9D%9C%E6%B5%A6%E9%83%A8%E8%90%BD%E5%A4%AA%E9%99%BD%E5%BB%A3%E5%A0%B4_%E4%BA%A4%E7%B9%94(%E6%92%92%E9%83%A8%E2%80%A7%E5%99%B6%E7%85%A7).jpg",
-      "classicDesc": "關注度#21：新圖書館試營運同步推出《織知》，把閱讀、地方知識與公共藝術整合進臺東新的文化基礎設施。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
       "id": "dynamic-2026-07-12-asia-22",
       "dedupeKey": "dynamic-2026-07-12-asia-22",
       "name": "22｜首爾漢江公園｜Open Museum Sculpture Rotation",
@@ -522,54 +284,6 @@
       "classicTitle": "首爾漢江公園｜Open Museum Sculpture Rotation",
       "classicImage": "https://www.seoul.go.kr/res_newseoul/images/main/seoul_slogan.jpg",
       "classicDesc": "關注度#22：首爾擴大漢江公園雕塑輪展，使散步路徑持續更換作品，呈現城市河岸如何成為長期公共美術館。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-asia-23",
-      "dedupeKey": "dynamic-2026-07-12-asia-23",
-      "name": "23｜2026 臺東博覽會｜My Taitung Parade",
-      "category": "藝術節",
-      "tier": "動態情報層",
-      "region": "東亞",
-      "country": "台灣 / 臺東市",
-      "media": [
-        "社會參與",
-        "裝置",
-        "平台/策展"
-      ],
-      "works": "2026 臺東博覽會｜My Taitung Parade",
-      "comment": "關注度#23：花車、巨型偶、社區學校與國際團隊共同構成城市遊行，將節慶轉化為居民參與的移動公共藝術行動。",
-      "website": "https://taitungexpo2026.com.tw/about/overview/detail/32?lang=en",
-      "workPage": "https://taitungexpo2026.com.tw/about/overview/detail/32?lang=en",
-      "photo": "https://taitungexpo2026.com.tw/assets/images/1200x630.png",
-      "classicTitle": "2026 臺東博覽會｜My Taitung Parade",
-      "classicImage": "https://taitungexpo2026.com.tw/assets/images/1200x630.png",
-      "classicDesc": "關注度#23：花車、巨型偶、社區學校與國際團隊共同構成城市遊行，將節慶轉化為居民參與的移動公共藝術行動。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-asia-24",
-      "dedupeKey": "dynamic-2026-07-12-asia-24",
-      "name": "24｜Program X-site 2026｜The Jade: Plaza Calls to Plaza",
-      "category": "作品/展覽",
-      "tier": "動態情報層",
-      "region": "東亞",
-      "country": "台灣 / 臺北市立美術館廣場",
-      "media": [
-        "建築/場域",
-        "裝置",
-        "社會參與"
-      ],
-      "works": "Program X-site 2026｜The Jade: Plaza Calls to Plaza",
-      "comment": "關注度#24：X-site 以輕抬地坪、遮蔭與透明流動空間回應北美館廣場，讓原本空白的前庭重新成為可停留的公共場所。",
-      "website": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=en-us&id=809",
-      "workPage": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?ddlLang=en-us&id=809",
-      "photo": "https://www.tfam.museum/images/og-image.jpg",
-      "classicTitle": "Program X-site 2026｜The Jade: Plaza Calls to Plaza",
-      "classicImage": "https://www.tfam.museum/images/og-image.jpg",
-      "classicDesc": "關注度#24：X-site 以輕抬地坪、遮蔭與透明流動空間回應北美館廣場，讓原本空白的前庭重新成為可停留的公共場所。",
       "status": "官方來源",
       "updated": "2026-07-12"
     },
@@ -598,53 +312,6 @@
       "updated": "2026-07-12"
     },
     {
-      "id": "dynamic-2026-07-12-asia-26",
-      "dedupeKey": "dynamic-2026-07-12-asia-26",
-      "name": "26｜2026 花蓮國際石雕藝術季｜Permanent Outdoor Sculpture Call",
-      "category": "藝術節",
-      "tier": "動態情報層",
-      "region": "東亞",
-      "country": "台灣 / 花蓮",
-      "media": [
-        "雕塑",
-        "建築/場域"
-      ],
-      "works": "2026 花蓮國際石雕藝術季｜Permanent Outdoor Sculpture Call",
-      "comment": "關注度#26：新一屆國際石雕計畫要求作品符合永久戶外裝設、安全與耐候條件，顯示花蓮石材文化持續轉化為城市公共收藏。",
-      "website": "https://www.hccc.gov.tw/Utility/DisplayFile?id=16140",
-      "workPage": "https://www.hccc.gov.tw/Utility/DisplayFile?id=16140",
-      "photo": "https://www.hccc.gov.tw/Upload/2026stonefestival.jpg",
-      "classicTitle": "2026 花蓮國際石雕藝術季｜Permanent Outdoor Sculpture Call",
-      "classicImage": "https://www.hccc.gov.tw/Upload/2026stonefestival.jpg",
-      "classicDesc": "關注度#26：新一屆國際石雕計畫要求作品符合永久戶外裝設、安全與耐候條件，顯示花蓮石材文化持續轉化為城市公共收藏。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-asia-27",
-      "dedupeKey": "dynamic-2026-07-12-asia-27",
-      "name": "27｜Korean Pavilion 2026｜Liberation Space: Fortress/Nest",
-      "category": "作品/展覽",
-      "tier": "動態情報層",
-      "region": "東亞",
-      "country": "韓國 / Venice Giardini",
-      "media": [
-        "裝置",
-        "社會參與",
-        "紀念性公共藝術"
-      ],
-      "works": "Korean Pavilion 2026｜Liberation Space: Fortress/Nest",
-      "comment": "關注度#27：韓國館以堡壘／巢與解放廣場為核心，把殖民後歷史、公共集會與跨日韓合作轉為可被持續啟動的臨時紀念空間。",
-      "website": "https://www.korean-pavilion.or.kr/",
-      "workPage": "https://www.korean-pavilion.or.kr/",
-      "photo": "https://www.korean-pavilion.or.kr/assets/og.jpg",
-      "classicTitle": "Korean Pavilion 2026｜Liberation Space: Fortress/Nest",
-      "classicImage": "https://www.korean-pavilion.or.kr/assets/og.jpg",
-      "classicDesc": "關注度#27：韓國館以堡壘／巢與解放廣場為核心，把殖民後歷史、公共集會與跨日韓合作轉為可被持續啟動的臨時紀念空間。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
       "id": "dynamic-2026-07-12-asia-28",
       "dedupeKey": "dynamic-2026-07-12-asia-28",
       "name": "28｜Hara Museum ARC｜Rainbow: Everlasting Source of Light",
@@ -665,54 +332,6 @@
       "classicTitle": "Hara Museum ARC｜Rainbow: Everlasting Source of Light",
       "classicImage": "https://www.haramuseum.or.jp/en/arc/wp-content/themes/haramuseum/ogp.png",
       "classicDesc": "關注度#28：戶外與永久裝置透過光、時間與建築動線串接 Tatsuo Miyajima、Tabaimo 等作品，形成可長期反覆觀看的藝術園區。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-asia-29",
-      "dedupeKey": "dynamic-2026-07-12-asia-29",
-      "name": "29｜Tokyo Floral Passage 2026｜Symbol Promenade Park",
-      "category": "作品/展覽",
-      "tier": "動態情報層",
-      "region": "東亞",
-      "country": "日本 / Tokyo Odaiba",
-      "media": [
-        "地景/大地藝術",
-        "裝置",
-        "社會參與"
-      ],
-      "works": "Tokyo Floral Passage 2026｜Symbol Promenade Park",
-      "comment": "關注度#29：東京都以花卉通道重構臨海副都心步行公園，將季節景觀、城市散步與公眾參與整合為大型公共場域介入。",
-      "website": "https://www.metro.tokyo.lg.jp/information/press/2026/05/2026052013",
-      "workPage": "https://www.metro.tokyo.lg.jp/information/press/2026/05/2026052013",
-      "photo": "https://www.metro.tokyo.lg.jp/documents/45925314/256143835/20260520_12_03.png/46a81b67-25e4-63b3-0eab-452fbb772b33?version=1.0&imagePreview=1",
-      "classicTitle": "Tokyo Floral Passage 2026｜Symbol Promenade Park",
-      "classicImage": "https://www.metro.tokyo.lg.jp/documents/45925314/256143835/20260520_12_03.png/46a81b67-25e4-63b3-0eab-452fbb772b33?version=1.0&imagePreview=1",
-      "classicDesc": "關注度#29：東京都以花卉通道重構臨海副都心步行公園，將季節景觀、城市散步與公眾參與整合為大型公共場域介入。",
-      "status": "官方來源",
-      "updated": "2026-07-12"
-    },
-    {
-      "id": "dynamic-2026-07-12-asia-30",
-      "dedupeKey": "dynamic-2026-07-12-asia-30",
-      "name": "30｜BGC Portal｜Asia’s First Portal",
-      "category": "作品/展覽",
-      "tier": "動態情報層",
-      "region": "東亞",
-      "country": "菲律賓 / Metro Manila Bonifacio Global City",
-      "media": [
-        "數位/互動",
-        "光/影像/投影",
-        "建築/場域"
-      ],
-      "works": "BGC Portal｜Asia’s First Portal",
-      "comment": "關注度#30：亞洲首座 Portal 以 24 小時即時影像連結其他城市，把商業街區轉成跨國凝視與陌生人互動的公共數位廣場。",
-      "website": "https://www.portal.com/locations/manila",
-      "workPage": "https://www.portal.com/locations/manila",
-      "photo": "https://www.portal.com/assets/manila-portal.jpg",
-      "classicTitle": "BGC Portal｜Asia’s First Portal",
-      "classicImage": "https://www.portal.com/assets/manila-portal.jpg",
-      "classicDesc": "關注度#30：亞洲首座 Portal 以 24 小時即時影像連結其他城市，把商業街區轉成跨國凝視與陌生人互動的公共數位廣場。",
       "status": "官方來源",
       "updated": "2026-07-12"
     }
