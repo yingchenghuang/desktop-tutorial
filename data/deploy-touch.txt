@@ -1,3 +1,3 @@
-2026-07-12T05:00:00+08:00 public-art archive deploy
-reason: Publish 10 additional Asia cases, ranks 21-30, synced from Notion.
+2026-07-12T05:10:00+08:00 public-art archive deploy
+retry: force Pages rebuild for asia-plus10.\nreason: Publish 10 additional Asia cases, ranks 21-30, synced from Notion.
 commits: 2a49ba0a58b5bb4f89b0f4201fc40cb8725f227d, c320eef211fa5fb1a1ff9c3626dca23b48d3786f, f40337bcb1d5c6af28c9e6c8f683b91ec058b5f3
