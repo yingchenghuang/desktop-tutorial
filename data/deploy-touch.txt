@@ -1,3 +1,3 @@
-2026-07-12T04:00:00+08:00 public-art archive deploy
-reason: Publish Sunday 2026-07-12 top 20 from Notion and refresh the Pages cache.
-commits: 717fdaa23b691304d56c7710f281f9bf767ea493, 4cad169ed8a8ee1c8adda145a4d08ad7481e806c, 180e437a2841e3cf640d39ec23d3e00b588b7032
+2026-07-12T05:00:00+08:00 public-art archive deploy
+reason: Publish 10 additional Asia cases, ranks 21-30, synced from Notion.
+commits: 2a49ba0a58b5bb4f89b0f4201fc40cb8725f227d, c320eef211fa5fb1a1ff9c3626dca23b48d3786f, f40337bcb1d5c6af28c9e6c8f683b91ec058b5f3
