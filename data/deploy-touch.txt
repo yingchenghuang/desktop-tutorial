@@ -1,3 +1,3 @@
-2026-07-15T04:00:00+08:00 public-art archive catch-up deploy
-reason: Publish the missed 10 verified art exhibitions for 2026-07-15 and refresh the public site cache.
-entries: backfill-july-20260715.json (10)
+2026-07-16T04:00:00+08:00 public-art archive daily deploy
+reason: Publish 10 verified current art exhibitions for 2026-07-16 and refresh the public site cache.
+entries: backfill-july-20260716.json (10)
