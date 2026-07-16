@@ -64,7 +64,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260716-installation-masters';
+  const cacheKey = '20260717-installation-masters';
   const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
