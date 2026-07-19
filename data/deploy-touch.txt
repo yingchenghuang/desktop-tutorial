@@ -1,3 +1,3 @@
-2026-07-19T20:18:31+08:00 public-art archive German classics catch-up deploy
-reason: Add 5 verified non-duplicate German installation-art classics to the 2026-07-19 publication.
-entries: backfill-july-20260719.json (30)
+2026-07-20T03:40:00+08:00 public-art archive daily sync deploy
+reason: Add 10 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics.
+entries: backfill-july-20260720.json (20); manifest expectedEntries 248
