@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-07-19T04:00:00+08:00",
+    "generatedAt": "2026-07-19T20:18:31+08:00",
     "source": "Notion 公共藝術檔案",
-    "note": "2026-07-19: 20 verified current art exhibitions and installations plus 5 non-duplicate global installation-art masterworks. All official pages and direct artwork images passed publication checks."
+    "note": "2026-07-19: 20 verified current art exhibitions and installations plus 5 non-duplicate global installation-art masterworks and 5 non-duplicate German installation-art classics. All official pages and direct artwork images passed publication checks."
   },
   "entries": [
     {
@@ -602,6 +602,126 @@
       "classicTitle": "Empty Lot",
       "classicImage": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/cruzvillegas0025.width-600.jpg",
       "classicDesc": "以倫敦土壤、等待和自發生長測試城市生態與不可預測性。",
+      "status": "官方來源",
+      "updated": "2026-07-19"
+    },
+    {
+      "id": "german-classic-2026-07-19-01",
+      "dedupeKey": "german-classic-2026-07-19-01-joseph-beuys-the-end-of-the-twentieth-century",
+      "name": "德國經典01｜Joseph Beuys｜The End of the Twentieth Century",
+      "category": "藝術家",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / 英國",
+      "media": [
+        "裝置",
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "The End of the Twentieth Century（1983–1985，Tate Modern）",
+      "comment": "二十一塊玄武岩散置如倒塌的身體或未完成的城市，每塊石頭都被鑽孔、以黏土與毛氈重新封合；Beuys把創傷、能量與修復並置，讓二十世紀的終結既像廢墟，也保留轉化的可能。",
+      "website": "https://www.tate.org.uk/art/artworks/beuys-the-end-of-the-twentieth-century-t05855",
+      "workPage": "https://www.tate.org.uk/art/artworks/beuys-the-end-of-the-twentieth-century-t05855",
+      "photo": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_ntJsLFg.jpg",
+      "classicTitle": "The End of the Twentieth Century",
+      "classicImage": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_ntJsLFg.jpg",
+      "classicDesc": "玄武岩、黏土與毛氈形成可變動的廢墟場，將歷史創傷轉成仍可修復的社會雕塑。",
+      "status": "官方來源",
+      "updated": "2026-07-19"
+    },
+    {
+      "id": "german-classic-2026-07-19-02",
+      "dedupeKey": "german-classic-2026-07-19-02-isa-genzken-schauspieler-actors",
+      "name": "德國經典02｜Isa Genzken｜Schauspieler (Actors)",
+      "category": "藝術家",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / 美國",
+      "media": [
+        "裝置",
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Schauspieler (Actors)（2013，MoMA）",
+      "comment": "成組人台穿著拼接服裝、廉價材料與纖維網絡，像演員、消費者與城市殘骸同時佔據展場；Genzken讓時尚展示的光鮮表面與身體脆弱性正面碰撞。",
+      "website": "https://www.moma.org/calendar/exhibitions/1320",
+      "workPage": "https://www.moma.org/calendar/exhibitions/1320",
+      "photo": "https://www.moma.org/d/assets/W1siZiIsIjIwMTUvMTAvMjIvNmw1aGZhamx1Y19Jc2FHZW56a2VuLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ/IsaGenzken.jpg?sha=ca5c54167befdfa6",
+      "classicTitle": "Schauspieler (Actors)",
+      "classicImage": "https://www.moma.org/d/assets/W1siZiIsIjIwMTUvMTAvMjIvNmw1aGZhamx1Y19Jc2FHZW56a2VuLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ/IsaGenzken.jpg?sha=ca5c54167befdfa6",
+      "classicDesc": "以人台、服裝、纖維與現成材料組成城市角色群，拆解展示、身份與消費文化。",
+      "status": "官方來源",
+      "updated": "2026-07-19"
+    },
+    {
+      "id": "german-classic-2026-07-19-03",
+      "dedupeKey": "german-classic-2026-07-19-03-hans-haacke-large-condensation-cube",
+      "name": "德國經典03｜Hans Haacke｜Large Condensation Cube",
+      "category": "藝術家",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / 奧地利",
+      "media": [
+        "裝置",
+        "聲音/霧/水",
+        "數位/互動"
+      ],
+      "works": "Large Condensation Cube（1963–1967，Belvedere）",
+      "comment": "密閉壓克力立方體中的蒸發與凝結會隨溫度、濕度和觀眾靠近而改變；Haacke以極少材料建立真正持續運作的即時系統，使作品不再是靜止物件，而是環境關係的可見紀錄。",
+      "website": "https://www.belvedere.at/en/hans-haacke",
+      "workPage": "https://www.belvedere.at/en/hans-haacke",
+      "photo": "https://www.belvedere.at/sites/default/files/styles/full_content_width_no_crop/public/2024-11/Hans%20Haacke%2C%20Gro%C3%9Fer%20Kondensationsw%C3%BCrfel%2C%201963-1967.jpg.webp?itok=RVqm9SX_",
+      "classicTitle": "Large Condensation Cube",
+      "classicImage": "https://www.belvedere.at/sites/default/files/styles/full_content_width_no_crop/public/2024-11/Hans%20Haacke%2C%20Gro%C3%9Fer%20Kondensationsw%C3%BCrfel%2C%201963-1967.jpg.webp?itok=RVqm9SX_",
+      "classicDesc": "以水、壓克力與展場氣候形成持續變化的即時系統，把觀眾和環境納入作品。",
+      "status": "官方來源",
+      "updated": "2026-07-19"
+    },
+    {
+      "id": "german-classic-2026-07-19-04",
+      "dedupeKey": "german-classic-2026-07-19-04-katharina-fritsch-hahn-cock",
+      "name": "德國經典04｜Katharina Fritsch｜Hahn/Cock",
+      "category": "藝術家",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / 美國",
+      "media": [
+        "雕塑",
+        "裝置",
+        "紀念性公共藝術"
+      ],
+      "works": "Hahn/Cock（2013/2017，Walker Art Center）",
+      "comment": "近七公尺高的群青色公雞以工業材料放大日常動物，在公共雕塑園裡同時像圖標、玩笑與權力紀念碑；Fritsch以單一飽和色消除自然感，反轉傳統男性英雄雕像的權威。",
+      "website": "https://www.walkerart.org/collections/artwork/hahn-cock/",
+      "workPage": "https://www.walkerart.org/collections/artwork/hahn-cock/",
+      "photo": "https://imgix-proxy.walkerart.org/wac_14975.tif?fm=jpg&w=1800&h=1800&fit=fit",
+      "classicTitle": "Hahn/Cock",
+      "classicImage": "https://imgix-proxy.walkerart.org/wac_14975.tif?fm=jpg&w=1800&h=1800&fit=fit",
+      "classicDesc": "巨型群青公雞把公共紀念碑轉成對權力、性別與城市符號的幽默反問。",
+      "status": "官方來源",
+      "updated": "2026-07-19"
+    },
+    {
+      "id": "german-classic-2026-07-19-05",
+      "dedupeKey": "german-classic-2026-07-19-05-gregor-schneider-die-familie-schneider",
+      "name": "德國經典05｜Gregor Schneider｜Die Familie Schneider",
+      "category": "藝術家",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / 英國",
+      "media": [
+        "裝置",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "Die Familie Schneider（2004，Artangel）",
+      "comment": "倫敦兩棟相鄰排屋被建成幾乎完全相同的室內與家庭場景，兩位觀眾交換鑰匙後分別進入；重複的空間、演員和時間差讓日常住宅變成難以辨認真假的心理建築。",
+      "website": "https://www.artangel.org.uk/project/die-familie-schneider/",
+      "workPage": "https://www.artangel.org.uk/project/die-familie-schneider/",
+      "photo": "https://media.artangel.org.uk/images/2004dfs_12.width-1200.jpg",
+      "classicTitle": "Die Familie Schneider",
+      "classicImage": "https://media.artangel.org.uk/images/2004dfs_12.width-1200.jpg",
+      "classicDesc": "以兩棟完全複製的住宅與同步表演製造空間錯置，讓熟悉的家庭場景轉為心理迷宮。",
       "status": "官方來源",
       "updated": "2026-07-19"
     }
