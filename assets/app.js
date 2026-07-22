@@ -193,7 +193,7 @@
   function cardHTML(e, i) {
     var noimg = e.classicImage ? '' : ' noimg';
     var img = e.classicImage
-      ? '<img loading="lazy" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.parentElement.classList.add(\'noimg\')">'
+      ? '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.parentElement.classList.add(\'noimg\')">'
       : '';
     var rank = e.rank ? esc(e.rank) : String(i + 1).padStart(2, '0');
     var tier = e.tier === '動態情報層' ? '<em class="tiermark">動態</em>' : '';
@@ -324,7 +324,7 @@
       (e.rank ? '<span class="badge dyn">關注度 ' + esc(e.rank) + '</span>' : '');
 
     var fig = e.classicImage
-      ? '<figure><img src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.closest(\'figure\').style.display=\'none\'">' +
+      ? '<figure><img referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.closest(\'figure\').style.display=\'none\'">' +
         (e.classicTitle ? '<figcaption>' + esc(e.classicTitle) + '</figcaption>' : '') + '</figure>'
       : '';
 
