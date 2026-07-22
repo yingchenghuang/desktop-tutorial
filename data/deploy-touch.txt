@@ -1,3 +1,3 @@
-2026-07-22T03:32:00+08:00 public-art archive daily sync deploy
+2026-07-23T03:35:00+08:00 public-art archive daily sync deploy
 reason: Add 10 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics after full historical deduplication and official-source image validation.
-entries: backfill-july-20260722.json (20); manifest expectedEntries 288
+entries: backfill-july-20260723.json (20); manifest expectedEntries 308
