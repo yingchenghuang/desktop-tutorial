@@ -64,7 +64,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260723-daily-global-german-r2';
+  const cacheKey = '20260724-daily-global-german-r1';
   const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
@@ -111,6 +111,6 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20260723-r2"></script>
+<script src="assets/app.js?t=20260724-r1"></script>
 </body>
 </html>
