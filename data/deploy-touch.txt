@@ -1,3 +1,7 @@
 2026-07-23T03:43:00+08:00 public-art archive daily sync deploy
 reason: Add 10 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics; apply no-referrer image loading for official collection servers with hotlink protection.
 entries: backfill-july-20260723.json (20); manifest expectedEntries 308
+
+2026-07-24T03:58:00+08:00 public-art archive daily sync deploy
+reason: Add 10 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics.
+entries: backfill-july-20260724.json (20); manifest expectedEntries 328
