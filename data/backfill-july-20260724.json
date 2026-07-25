@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-07-24T03:52:00+08:00",
     "source": "Notion 公共藝術檔案",
-    "note": "2026-07-24 每日藝術情報：10 筆未過期展覽、5 筆全球裝置藝術大師經典作品、5 筆德國裝置藝術經典案例。"
+    "note": "2026-07-24 每日藝術情報：10 筆未過期展覽、5 筆全球裝置藝術大師經典作品、5 筆德國裝置藝術經典案例。 2026-07-26 追補前 5 筆創作者／創作團隊論述與來源。"
   },
   "entries": [
     {
@@ -13,7 +13,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "美國 / 波士頓 / ICA Boston",
-      "media": ["裝置", "社會參與", "平台/策展"],
+      "media": [
+        "裝置",
+        "社會參與",
+        "平台/策展"
+      ],
       "works": "Say It Loud: AAMARP, 1977 to Now",
       "comment": "關注度#01：展覽回看非裔藝術家駐留計畫近五十年的創作與社群網絡，將繪畫、雕塑、裝置和檔案並置，凸顯藝術教育與文化自決如何共同塑造波士頓的當代藝術史；展至 2026-08-02。",
       "website": "https://www.icaboston.org/exhibitions/african-american-master-artist-in-residence-program/",
@@ -23,7 +27,9 @@
       "classicImage": "https://www.icaboston.org/wp-content/uploads/2024/11/Say-It-Loud-AAMARP-1977-to-Now_022026_0142B_Dario-Lasagni-scaled.jpg",
       "classicDesc": "以近五十年的作品與檔案，重建非裔藝術家駐留、教育和社群實踐的制度史。",
       "status": "官方來源",
-      "updated": "2026-07-24"
+      "updated": "2026-07-24",
+      "artistStatement": "AAMARP 藝術家把駐留視為文化自決與跨世代支持的長期結構；創作不只累積個人作品，也建立非裔藝術家能彼此學習、展示和留下檔案的社群空間。",
+      "artistStatementSource": "https://www.icaboston.org/exhibitions/african-american-master-artist-in-residence-program/"
     },
     {
       "id": "dynamic-2026-07-24-02",
@@ -33,7 +39,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "美國 / 波士頓 / ICA Boston",
-      "media": ["裝置", "數位/互動", "社會參與"],
+      "media": [
+        "裝置",
+        "數位/互動",
+        "社會參與"
+      ],
       "works": "Extra/Ordinary",
       "comment": "關注度#02：展覽把桌椅、家用品和熟悉的身體動作轉化成可參與的互動裝置，讓觀眾在使用、移動與協作中重新辨認日常物質的情感與政治；展至 2026-09-07。",
       "website": "https://www.icaboston.org/exhibitions/extra-ordinary/",
@@ -43,7 +53,9 @@
       "classicImage": "https://www.icaboston.org/wp-content/uploads/2026/04/ICAFirstFridaysMay-45.jpg",
       "classicDesc": "以參與式裝置讓日常物件脫離原有功能，成為身體、記憶與社會關係的觸發器。",
       "status": "官方來源",
-      "updated": "2026-07-24"
+      "updated": "2026-07-24",
+      "artistStatement": "參展創作者從熟悉物件的用途出發，透過尺度、動作和互動規則重新安排日常；作品讓觀眾發現平凡事物本身已包含身體記憶和社會習慣。",
+      "artistStatementSource": "https://www.icaboston.org/exhibitions/extra-ordinary/"
     },
     {
       "id": "dynamic-2026-07-24-03",
@@ -53,7 +65,10 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "美國 / 波士頓 / ICA Boston",
-      "media": ["光/影像/投影", "社會參與"],
+      "media": [
+        "光/影像/投影",
+        "社會參與"
+      ],
       "works": "Collection Spotlight: Carrie Mae Weems",
       "comment": "關注度#03：Weems 以攝影、文字和影像拆解家庭肖像、種族凝視與歷史權力，館藏聚焦讓私人場景與公共記憶彼此照映；展至 2026-09-13。",
       "website": "https://www.icaboston.org/exhibitions/collection-spotlight-carrie-mae-weems/",
@@ -63,7 +78,9 @@
       "classicImage": "https://www.icaboston.org/wp-content/uploads/2026/03/CMW20.001-Blues-and-Pinks-3-A-5.jpg",
       "classicDesc": "透過攝影與文字，讓家庭影像成為檢視種族、性別和歷史權力的公共場域。",
       "status": "官方來源",
-      "updated": "2026-07-24"
+      "updated": "2026-07-24",
+      "artistStatement": "Weems 以攝影、文字與舞台化場景檢查誰被允許成為歷史主體；她將個人和家庭經驗置入更大的種族、性別與制度結構，使觀看成為倫理問題。",
+      "artistStatementSource": "https://www.icaboston.org/exhibitions/collection-spotlight-carrie-mae-weems/"
     },
     {
       "id": "dynamic-2026-07-24-04",
@@ -73,7 +90,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "美國 / 波士頓 / ICA Boston",
-      "media": ["裝置", "雕塑", "社會參與"],
+      "media": [
+        "裝置",
+        "雕塑",
+        "社會參與"
+      ],
       "works": "To My Best Friend",
       "comment": "關注度#04：展覽以跨媒材作品討論人與伴侶動物之間的親密、投射和照護，把寵物從題材提升為理解家庭結構、倫理與非人生命的入口；展至 2026-12-31。",
       "website": "https://www.icaboston.org/exhibitions/to-my-best-friend/",
@@ -83,7 +104,9 @@
       "classicImage": "https://www.icaboston.org/wp-content/uploads/2025/12/To-My-Best-Friend_Alex-Yudzon_12-scaled.jpg",
       "classicDesc": "從伴侶動物出發，討論親密關係、照護倫理與人類中心觀看的邊界。",
       "status": "官方來源",
-      "updated": "2026-07-24"
+      "updated": "2026-07-24",
+      "artistStatement": "參展藝術家把與動物的關係視為親密、依賴和投射的共同空間；作品不只描繪寵物，而藉由照護、失落和陪伴重新思考人如何定義其他生命。",
+      "artistStatementSource": "https://www.icaboston.org/exhibitions/to-my-best-friend/"
     },
     {
       "id": "dynamic-2026-07-24-05",
@@ -93,7 +116,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "美國 / 波士頓 / ICA Boston",
-      "media": ["裝置", "建築/場域", "社會參與"],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "社會參與"
+      ],
       "works": "Caroline Monnet: Man-made Land",
       "comment": "關注度#05：Monnet 以建築材料、幾何紋樣和原住民知識改寫現代主義的中性外觀，作品牆成為土地、殖民建設與文化韌性相互碰撞的場域；展至 2027-03-21。",
       "website": "https://www.icaboston.org/exhibitions/caroline-monnet-man-made-land/",
@@ -103,7 +130,9 @@
       "classicImage": "https://www.icaboston.org/wp-content/uploads/2025/07/Art-Wall_Caroline-Monnet_Mel-Taing_1A3A2737-2-scaled.jpg",
       "classicDesc": "把建材、幾何與原住民知識疊合，質疑現代建築如何佔有並敘述土地。",
       "status": "官方來源",
-      "updated": "2026-07-24"
+      "updated": "2026-07-24",
+      "artistStatement": "Monnet 以工業材料、建築語彙和原住民族知識並置，檢查「人造土地」如何同時承載建設、佔領與歸屬；材料的重量和表面成為歷史關係的證據。",
+      "artistStatementSource": "https://www.icaboston.org/exhibitions/caroline-monnet-man-made-land/"
     },
     {
       "id": "dynamic-2026-07-24-06",
@@ -113,7 +142,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "美國 / 波士頓 / ICA Boston",
-      "media": ["裝置", "光/影像/投影", "社會參與"],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "社會參與"
+      ],
       "works": "Sonder",
       "comment": "關注度#06：群展從「每個陌生人都擁有同樣複雜人生」的概念出發，以影像、裝置和物件捕捉城市中彼此錯身的私人敘事；展至 2027-02-04。",
       "website": "https://www.icaboston.org/exhibitions/sonder/",
@@ -133,7 +166,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "美國 / 紐約 / Whitney Museum",
-      "media": ["裝置", "建築/場域", "社會參與"],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "社會參與"
+      ],
       "works": "Dyani White Hawk: Nourish",
       "comment": "關注度#07：White Hawk 以數千塊手工陶磚完成場域特定馬賽克，將 Lakota 珠飾與羽莖刺繡的色彩系統置於美國現代抽象的核心位置；作品目前長期展出於 Whitney Studio Bar。",
       "website": "https://whitney.org/exhibitions/nourish",
@@ -153,7 +190,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "法國 / 土倫 / Hôtel des Arts TPM",
-      "media": ["裝置", "建築/場域", "平台/策展"],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "平台/策展"
+      ],
       "works": "Suivez le fil ! — Design & Textile",
       "comment": "關注度#08：展覽以龐畢度中心百件館藏串連工藝、科技與空間設計，從現代先鋒到當代再生纖維，凸顯織物作為家具、隔間與建築表皮的主動角色；展至 2026-10-31。",
       "website": "https://www.centrepompidou.fr/en/program/calendar/event/iYnG8IC",
@@ -173,7 +214,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "法國 / Flaine Forum / Centre Pompidou",
-      "media": ["裝置", "數位/互動", "光/影像/投影"],
+      "media": [
+        "裝置",
+        "數位/互動",
+        "光/影像/投影"
+      ],
       "works": "Images vivantes — une exposition-atelier de Yaacov Agam",
       "comment": "關注度#09：動態藝術先驅 Yaacov Agam 以線條、色彩、聲音與觀眾移動設計沉浸式展覽，身體位置會持續改變圖像，使知覺本身成為作品材料；展至 2026-08-28。",
       "website": "https://www.centrepompidou.fr/en/program/calendar/event/PNaF8av",
@@ -193,7 +238,11 @@
       "tier": "動態情報層",
       "region": "西方",
       "country": "法國 / 蒙佩利耶 / mille formes",
-      "media": ["裝置", "雕塑", "社會參與"],
+      "media": [
+        "裝置",
+        "雕塑",
+        "社會參與"
+      ],
       "works": "Totemic — un dispositif artistique de Damien Poulain",
       "comment": "關注度#10：Damien Poulain 以彩色幾何模組構成可被拆解、搬動與重組的裝置建築，觀眾共同生成圖騰、角色和抽象結構，使展場成為持續變化的雕塑協作場；展至 2026-08-16。",
       "website": "https://www.centrepompidou.fr/en/program/calendar/event/Y4S6qHU",
@@ -213,7 +262,11 @@
       "tier": "經典檔案庫",
       "region": "東亞",
       "country": "日本 / 英國倫敦 / Artangel",
-      "media": ["光/影像/投影", "聲音/霧/水", "紀念性公共藝術"],
+      "media": [
+        "光/影像/投影",
+        "聲音/霧/水",
+        "紀念性公共藝術"
+      ],
       "works": "spectra｜2014｜Victoria Tower Gardens, London",
       "comment": "全球大師#01：Ikeda 以四十九盞探照燈把一道純白光柱射向夜空，聲響頻率與城市視線共同把倫敦地標轉成一件暫時性的公共裝置；極少的形式同時召喚紀念、監視與宇宙尺度。",
       "website": "https://www.artangel.org.uk/project/spectra/",
@@ -233,7 +286,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "美國出生 / 英國倫敦 / Artangel",
-      "media": ["裝置", "聲音/霧/水", "社會參與"],
+      "media": [
+        "裝置",
+        "聲音/霧/水",
+        "社會參與"
+      ],
       "works": "Witness｜2000｜London",
       "comment": "全球大師#02：數百支懸吊喇叭播放多語言的幽浮目擊證詞，觀眾需貼近個別聲源才能聽見故事；Hiller 把被懷疑的私人記憶組成一座既親密又龐大的口述檔案。",
       "website": "https://www.artangel.org.uk/project/witness/",
@@ -253,7 +310,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "英國蘇格蘭 / 英國倫敦 / Artangel",
-      "media": ["光/影像/投影", "聲音/霧/水", "裝置"],
+      "media": [
+        "光/影像/投影",
+        "聲音/霧/水",
+        "裝置"
+      ],
       "works": "Feature Film｜1999｜London",
       "comment": "全球大師#03：Gordon 將指揮 Bernard Herrmann《迷魂記》配樂的手部動作放大投影，讓通常隱形的電影聲音生產成為主角；銀幕、身體與樂音在黑暗中重新編排觀看權力。",
       "website": "https://www.artangel.org.uk/project/feature-film/",
@@ -273,7 +334,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "美國與英國 / 倫敦 Wembley / Artangel",
-      "media": ["裝置", "聲音/霧/水", "建築/場域"],
+      "media": [
+        "裝置",
+        "聲音/霧/水",
+        "建築/場域"
+      ],
       "works": "Self Storage｜1995｜Wembley, London",
       "comment": "全球大師#04：Anderson 與 Eno 把自助倉儲空間變成由聲音、文字、光線和物件組成的迷宮，觀眾逐間打開被壓縮的記憶與敘事；作品讓儲存制度顯露為慾望和遺忘的建築。",
       "website": "https://www.artangel.org.uk/project/self-storage/",
@@ -293,7 +358,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "英國 / 德國卡塞爾與英國倫敦 / Artangel",
-      "media": ["光/影像/投影", "裝置", "社會參與"],
+      "media": [
+        "光/影像/投影",
+        "裝置",
+        "社會參與"
+      ],
       "works": "Caribs' Leap / Western Deep｜2002｜Documenta XI / London",
       "comment": "全球大師#05：雙部影像從加勒比殖民抵抗的跳崖記憶切入南非金礦深井的當代勞動身體；McQueen 以黑暗、震動與斷裂視角讓歷史暴力不再只是被觀看，而成為空間中的生理經驗。",
       "website": "https://www.artangel.org.uk/project/caribs-leap-western-deep/",
@@ -313,7 +382,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / 法國巴黎 / Palais de Tokyo",
-      "media": ["裝置", "社會參與", "光/影像/投影"],
+      "media": [
+        "裝置",
+        "社會參與",
+        "光/影像/投影"
+      ],
       "works": "Le milieu est bleu｜2020｜Palais de Tokyo, Paris",
       "comment": "德國經典#01：出生於卡爾斯魯厄的 von Brandenburg 以染色布幕、表演、電影和道具建構可持續變形的劇場迷宮；觀眾穿越不同色彩環境，也穿越群體儀式、虛構與現實的邊界。",
       "website": "https://palaisdetokyo.com/en/exposition/ulla-von-brandenburg-2/",
@@ -333,7 +406,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / 杜塞道夫 K20 / Kunstsammlung NRW",
-      "media": ["雕塑", "裝置", "建築/場域"],
+      "media": [
+        "雕塑",
+        "裝置",
+        "建築/場域"
+      ],
       "works": "Vierkantrohre Serie D｜1967 / 2007–2015｜K20 Düsseldorf",
       "comment": "德國經典#02：Posenenske 以工業化鍍鋅鋼板製成可變的方形風管模組，作品不設定唯一構圖，而由每次展出重新配置；雕塑因此接近建築構件，也把作者權威讓渡給協作和環境。",
       "website": "https://sammlung.kunstsammlung.de/en/works/44046",
@@ -353,7 +430,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / 杜塞道夫 K20 / Kunstsammlung NRW",
-      "media": ["裝置", "雕塑", "建築/場域"],
+      "media": [
+        "裝置",
+        "雕塑",
+        "建築/場域"
+      ],
       "works": "7 Stehende Scheiben｜2002｜K20 Düsseldorf",
       "comment": "德國經典#03：七面垂直玻璃由鋼構支撐，反射、透明和重疊視線讓觀眾與展場不斷被切片；Richter 把繪畫中的觀看不確定性推進三維空間，使作品隨每個移動位置改變。",
       "website": "https://sammlung.kunstsammlung.de/en/works/7428",
@@ -373,7 +454,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / 慕尼黑 / Pinakothek der Moderne",
-      "media": ["裝置", "雕塑", "建築/場域"],
+      "media": [
+        "裝置",
+        "雕塑",
+        "建築/場域"
+      ],
       "works": "Reise nach Jerusalem｜2002｜Pinakothek der Moderne, Munich",
       "comment": "德國經典#04：Metzel 以扭曲塑膠椅、彩色壓克力板和頻閃燈包覆博物館樓梯柱，將「搶椅子」的遊戲變成垂直堆疊的社會競爭寓言；作品也精準放大建築動線的舞台感。",
       "website": "https://www.pinakothek.de/en/exhibition/olaf-metzel-reise-nach-jerusalem-musical-chairs",
@@ -393,7 +478,11 @@
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / 柏林 / transmediale",
-      "media": ["裝置", "光/影像/投影", "數位/互動"],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "數位/互動"
+      ],
       "works": "The Space Beyond Me｜2009｜transmediale.10, Berlin",
       "comment": "德國經典#05：von Bismarck 將 16mm 攝影機改造成投影機，把影像投向塗有磷光材料的圓形銀幕；畫面短暫被晶體記住再逐步消失，讓電影機械模擬人腦如何保存和遺忘空間記憶。",
       "website": "https://archive.transmediale.de/space-beyond-me",
