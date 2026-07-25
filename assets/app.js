@@ -1,3 +1,10 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LC_ALL = "C.UTF-8",
+	LC_CTYPE = "C.UTF-8",
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 /* 公共藝術檔案 — 檢索與每日情報 */
 (function () {
   'use strict';
@@ -72,6 +79,8 @@
     var workPage = text(raw.workPage) || text(raw.imagePage);
     var photo = text(raw.photo) || text(raw.image);
     var comment = text(raw.comment) || text(raw.summary) || text(raw.shortReview) || text(raw.description);
+    var artistStatement = text(raw.artistStatement) || text(raw.creatorStatement);
+    var artistStatementSource = text(raw.artistStatementSource) || text(raw.creatorStatementSource);
     var classicImage = text(raw.classicImage) || text(raw.image);
     var links = [website, workPage, photo].filter(Boolean);
     var updated = text(raw.updated) || text(raw.lastEdited) || text(raw.createdTime);
@@ -85,6 +94,8 @@
       media: media.length ? media : ['未標記媒介'],
       works: text(raw.works),
       comment: text(comment, '尚未寫入重點短評。'),
+      artistStatement: artistStatement,
+      artistStatementSource: artistStatementSource,
       website: website,
       workPage: workPage,
       photo: photo,
@@ -99,6 +110,7 @@
     };
     entry.searchText = [
       entry.name, entry.displayName, entry.subName, entry.country, entry.works, entry.comment,
+      entry.artistStatement,
       entry.classicTitle, entry.classicDesc, entry.category, entry.tier, entry.region,
       entry.status, entry.media.join(' ')
     ].join(' ').toLowerCase();
@@ -336,6 +348,15 @@
     var mediaTags = '<div class="block"><div class="block-label">媒介類型</div><span class="tags">' +
       e.media.map(function (m) { return '<span class="tag">' + esc(m) + '</span>'; }).join('') + '</span></div>';
 
+    var artistStatement = e.artistStatement
+      ? '<div class="block statement-block"><div class="block-label">創作者創作論述</div>' +
+        '<p class="artist-statement">' + esc(e.artistStatement) + '</p>' +
+        (e.artistStatementSource
+          ? '<a class="statement-source" href="' + esc(e.artistStatementSource) + '" target="_blank" rel="noopener">第一方論述來源</a>'
+          : '') +
+        '</div>'
+      : '';
+
     var seen = {};
     var links = '';
     [[e.website, '官方網站'], [e.workPage, '作品頁面'], [e.photo, '影像/介紹']].forEach(function (pair) {
@@ -356,7 +377,7 @@
       fig +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      works + mediaTags + links +
+      artistStatement + works + mediaTags + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
