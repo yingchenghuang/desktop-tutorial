@@ -1,3 +1,10 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LC_ALL = "C.UTF-8",
+	LC_CTYPE = "C.UTF-8",
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 2026-07-23T03:43:00+08:00 public-art archive daily sync deploy
 reason: Add 10 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics; apply no-referrer image loading for official collection servers with hotlink protection.
 entries: backfill-july-20260723.json (20); manifest expectedEntries 308
@@ -9,3 +16,7 @@ entries: backfill-july-20260724.json (20); manifest expectedEntries 328
 2026-07-25T04:18:00+08:00 public-art archive daily sync deploy
 reason: Add 20 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics.
 entries: backfill-july-20260725.json (30); manifest expectedEntries 358
+
+2026-07-25T09:09:26+08:00 creator statement field deploy
+reason: Add first-party creator statements and source links to every 2026-07-25 work, Notion sync, and public detail panels.
+entries: backfill-july-20260725.json (30); artistStatement 30/30; artistStatementSource 30/30
