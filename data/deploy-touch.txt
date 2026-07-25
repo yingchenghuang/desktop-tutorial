@@ -13,3 +13,7 @@ entries: backfill-july-20260725.json (30); manifest expectedEntries 358
 2026-07-25T09:09:26+08:00 creator statement field deploy
 reason: Add first-party creator statements and source links to every 2026-07-25 work, Notion sync, and public detail panels.
 entries: backfill-july-20260725.json (30); artistStatement 30/30; artistStatementSource 30/30
+
+2026-07-26T07:42:00+08:00 public-art archive daily sync deploy
+reason: Add 20 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics; add creator statements and sources to all 30 new entries; backfill 5 historical statements.
+entries: backfill-july-20260726.json (30); manifest expectedEntries 388; historical statement backfill 5
