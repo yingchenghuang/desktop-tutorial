@@ -1,3 +1,10 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LC_ALL = "C.UTF-8",
+	LC_CTYPE = "C.UTF-8",
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 /* ==========================================================
    公共藝術檔案 Public Art Archive
    視覺語言：白底、墨字、電光藍原點
@@ -681,6 +688,23 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   font-size:17.5px;
   line-height:1.9;
 }
+.artist-statement{
+  margin:14px 0 0;
+  font-family:var(--serif);
+  font-size:17.5px;
+  line-height:1.9;
+}
+.statement-source{
+  display:inline-block;
+  margin-top:13px;
+  font-size:11px;font-weight:600;
+  letter-spacing:.14em;text-transform:uppercase;
+  text-decoration:none;
+  color:var(--ink-2);
+  transition:color .2s ease;
+}
+.statement-source::after{content:"↗";margin-left:7px}
+.statement-source:hover{color:var(--blue)}
 .works-line em{
   font-style:normal;
   color:var(--blue);
