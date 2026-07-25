@@ -1,3 +1,10 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LC_ALL = "C.UTF-8",
+	LC_CTYPE = "C.UTF-8",
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 /* 每日同步 Notion「公共藝術檔案」 → data/artists.json
    必填：NOTION_TOKEN
    選填：NOTION_DATABASE_ID，可填資料庫 ID 或 Notion URL */
@@ -18,7 +25,10 @@ const HEADERS = {
   'Content-Type': 'application/json'
 };
 
-const REQUIRED_PROPERTIES = ['名稱', '層級', '類別', '地區', '媒介類型', '資訊更新日期'];
+const REQUIRED_PROPERTIES = [
+  '名稱', '層級', '類別', '地區', '媒介類型', '資訊更新日期',
+  '創作者創作論述', '創作論述來源'
+];
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 function normalizeDatabaseId(input) {
@@ -116,6 +126,8 @@ function updatedTime(entry) {
 function qualityIssues(entry) {
   const issues = [];
   if (!entry.comment) issues.push('missing_comment');
+  if (!entry.artistStatement) issues.push('missing_artist_statement');
+  if (!entry.artistStatementSource) issues.push('missing_artist_statement_source');
   if (!entry.website && !entry.workPage && !entry.photo) issues.push('missing_source_link');
   if (!entry.media.length) issues.push('missing_media');
   if (!entry.updated) issues.push('missing_updated_date');
@@ -159,6 +171,8 @@ function toEntry(page, fallbackImage) {
     media,
     works: plainText(props['代表作']),
     comment: plainText(props['重點短評']),
+    artistStatement: plainText(props['創作者創作論述']),
+    artistStatementSource: urlValue(props['創作論述來源']),
     website,
     workPage,
     photo,
