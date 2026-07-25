@@ -1,10 +1,3 @@
-perl: warning: Setting locale failed.
-perl: warning: Please check that your locale settings:
-	LC_ALL = "C.UTF-8",
-	LC_CTYPE = "C.UTF-8",
-	LANG = "C.UTF-8"
-    are supported and installed on your system.
-perl: warning: Falling back to the standard locale ("C").
 /* 公共藝術檔案 — 檢索與每日情報 */
 (function () {
   'use strict';
