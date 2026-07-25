@@ -1,10 +1,3 @@
-perl: warning: Setting locale failed.
-perl: warning: Please check that your locale settings:
-	LC_ALL = "C.UTF-8",
-	LC_CTYPE = "C.UTF-8",
-	LANG = "C.UTF-8"
-    are supported and installed on your system.
-perl: warning: Falling back to the standard locale ("C").
 /* 每日同步 Notion「公共藝術檔案」 → data/artists.json
    必填：NOTION_TOKEN
    選填：NOTION_DATABASE_ID，可填資料庫 ID 或 Notion URL */
