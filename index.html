@@ -1,3 +1,10 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LC_ALL = "C.UTF-8",
+	LC_CTYPE = "C.UTF-8",
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -64,7 +71,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260725-daily-global-german-r1';
+  const cacheKey = '20260725-artist-statements-r2';
   const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
@@ -111,6 +118,6 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20260725-r1"></script>
+<script src="assets/app.js?t=20260725-artist-statements-r2"></script>
 </body>
 </html>
