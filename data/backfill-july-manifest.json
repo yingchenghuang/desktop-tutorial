@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-26-daily-global-german-statements",
+  "version": "2026-07-27-daily-global-german-statements",
   "files": [
     "backfill-july-20260703-04-01.json",
     "backfill-july-20260703-04-02.json",
@@ -31,8 +31,9 @@
     "backfill-july-20260723.json",
     "backfill-july-20260724.json",
     "backfill-july-20260725.json",
-    "backfill-july-20260726.json"
+    "backfill-july-20260726.json",
+    "backfill-july-20260727.json"
   ],
-  "expectedEntries": 388,
-  "note": "Added 20 verified current art exhibitions, 5 non-duplicate global installation-art masterworks, and 5 non-duplicate German installation-art classics for 2026-07-26. All 30 include creator statements and first-party sources; 5 historical 2026-07-24 entries were also backfilled."
+  "expectedEntries": 408,
+  "note": "Added 10 verified current art exhibitions, 5 non-duplicate global installation-art masterworks, and 5 non-duplicate German installation-art classics for 2026-07-27. All 20 include creator statements and first-party sources; 5 historical 2026-07-06 entries were also backfilled."
 }
