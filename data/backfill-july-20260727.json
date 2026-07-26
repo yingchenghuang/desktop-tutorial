@@ -2,7 +2,7 @@
   "meta": {
     "generatedAt": "2026-07-27T04:00:00+08:00",
     "source": "Notion 公共藝術檔案",
-    "note": "2026-07-27 每日藝術情報：10 筆未過期展覽、5 筆全球裝置藝術大師經典作品、5 筆德國裝置藝術經典案例。每筆含創作者／創作團隊第一方論述整理與來源。"
+    "note": "2026-07-27 每日藝術情報：10 筆未過期展覽、5 筆全球裝置藝術大師經典作品、5 筆德國裝置藝術經典案例。每筆含創作者／創作團隊第一方論述整理與來源；德國國別已按官方館方身分證據複核。"
   },
   "entries": [
     {
@@ -423,29 +423,29 @@
     },
     {
       "id": "classic-germany-2026-07-27-02",
-      "dedupeKey": "classic-germany-natascha-sadr-haghighian-ankersentrum",
-      "name": "17｜Natascha Sadr Haghighian｜Ankersentrum (surviving in the ruinous ruin)",
+      "dedupeKey": "classic-germany-katharina-gaenssler-bauhaus-staircase",
+      "name": "17｜Katharina Gaenssler｜Bauhaus Staircase",
       "category": "藝術家",
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國",
       "media": [
         "裝置",
-        "聲音/霧/水",
-        "社會參與"
+        "壁畫/街頭",
+        "建築/場域"
       ],
-      "works": "Ankersentrum (surviving in the ruinous ruin)（2019；German Pavilion）",
-      "comment": "德國經典#02：以石堤、聲音、影像和匿名協作拆解 AnkER 移民收容中心的政治語言，使國家治理的暴力被轉化為可共同感知與討論的空間。",
-      "website": "https://www.lenbachhaus.de/en/program/exhibitions/details/natascha-sadr-haghighian",
-      "workPage": "https://www.lenbachhaus.de/en/program/exhibitions/details/natascha-sadr-haghighian",
-      "photo": "https://www.lenbachhaus.de/fileadmin/_processed_/6/2/csm_Ankersentrum_DSC_9905-26-26__4__1ee5393f40.jpg",
-      "classicTitle": "Ankersentrum (surviving in the ruinous ruin)",
-      "classicImage": "https://www.lenbachhaus.de/fileadmin/_processed_/6/2/csm_Ankersentrum_DSC_9905-26-26__4__1ee5393f40.jpg",
-      "classicDesc": "石堤、聲音、影像、文件和協作身份構成對德國 AnkER 收容制度、邊界與公共責任的空間批判。",
+      "works": "Bauhaus Staircase（2015；MoMA, New York）",
+      "comment": "德國經典#02：數千張攝影影像被拼貼成覆蓋樓梯平台、牆面與門洞的巨型照片壁畫，使包浩斯的歷史、MoMA 的建築和觀者身體在同一空間互相重寫。",
+      "website": "https://www.moma.org/explore/inside_out/2016/01/28/a-day-by-day-look-at-katharina-gaensslers-bauhaus-staircase-photo-mural/",
+      "workPage": "https://www.moma.org/explore/inside_out/2016/01/28/a-day-by-day-look-at-katharina-gaensslers-bauhaus-staircase-photo-mural/",
+      "photo": "https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/IN2340_60_CCCR.jpg",
+      "classicTitle": "Bauhaus Staircase",
+      "classicImage": "https://www.moma.org/wp/inside_out/wp-content/uploads/2016/01/IN2340_60_CCCR.jpg",
+      "classicDesc": "以數千張照片、影印紙與壁紙糨糊覆蓋 12 呎 5 吋乘 32 呎的樓梯平台牆面，將建築史轉化為可穿行的影像裝置。",
       "status": "官方來源",
       "updated": "2026-07-27",
-      "artistStatement": "第一方論述整理：Sadr Haghighian 以集體作者身分、感官裝置和研究重新協商何謂共同體；作品把 AnkER 中心的行政語言與移民治理暴力帶入身體尺度，要求觀者辨認自己如何被制度定位。",
-      "artistStatementSource": "https://www.lenbachhaus.de/en/program/exhibitions/details/natascha-sadr-haghighian"
+      "artistStatement": "第一方作品說明整理：Gaenssler 以數千張照片重建 Dessau 包浩斯樓梯及其藝術史引用；影像不是掛在空間中的圖，而是暫時覆蓋牆面與門洞，迫使觀者以身體重新檢視展示建築本身。",
+      "artistStatementSource": "https://www.moma.org/explore/inside_out/2016/01/28/a-day-by-day-look-at-katharina-gaensslers-bauhaus-staircase-photo-mural/"
     },
     {
       "id": "classic-germany-2026-07-27-03",
