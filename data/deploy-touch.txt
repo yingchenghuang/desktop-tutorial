@@ -29,3 +29,7 @@ entries: backfill-july-20260727.json (20); cache key r2; German classics 5/5 nat
 2026-07-27T04:00:00+08:00 Cloudflare Web Analytics activation
 reason: Add the official Cloudflare beacon for yingchenghuang.github.io and begin non-retroactive private visitor analytics.
 source: Cloudflare Web Analytics; public traffic display remains disabled
+
+2026-07-29T04:00:00+08:00 creator statement partial deploy
+reason: Backfill 5 historical first-party creator statements and sources; daily 2026-07-28/29 publication held because official-page and image browser verification was blocked.
+entries: manifest expectedEntries 408; historical statement backfill 5; daily files 20260728/20260729 absent
