@@ -50,6 +50,11 @@
     return String(value).slice(0, 10);
   }
 
+  function versionDate(value) {
+    var match = String(value || '').match(/\d{4}-\d{2}-\d{2}/);
+    return match ? match[0] : '';
+  }
+
   function parseName(e) {
     var name = text(e.name);
     var m = name.match(/^(\d{1,3})[｜|.．、\-\s]+([^｜|]+)(?:[｜|](.+))?$/);
@@ -239,7 +244,12 @@
       $('#latestMeta').textContent = '目前顯示經典檔案庫。';
       return;
     }
-    $('#latestMeta').textContent = '最新 ' + dynamics.length + ' 筆情報，滑入可暫停，點按開啟詳情。';
+    var latestInfo = dynamics.reduce(function (max, e) {
+      return parseDate(e.updated) > parseDate(max) ? e.updated : max;
+    }, '');
+    var maintenanceDate = versionDate(META.backfillVersion) || displayDate(META.generatedAt);
+    $('#latestMeta').textContent = '最新情報日期 ' + displayDate(latestInfo) +
+      ' · 最近維護 ' + maintenanceDate + ' · 顯示最新 ' + dynamics.length + ' 筆，點按開啟詳情。';
     var items = dynamics.map(function (e) {
       return '<button class="tk-item" data-id="' + esc(e.id) + '">' +
         '<span class="tk-tag">情報 ' + esc(e.rank || '·') + '</span>' +
@@ -299,19 +309,23 @@
     var regions = countBy(DATA, function (e) { return e.region; });
     var media = countBy(DATA, function (e) { return e.media; });
     var statuses = countBy(DATA, function (e) { return e.status; });
-    var latest = DATA.reduce(function (max, e) {
+    var dynamics = DATA.filter(function (e) { return e.tier === '動態情報層'; });
+    var latestInfo = dynamics.reduce(function (max, e) {
       return parseDate(e.updated) > parseDate(max) ? e.updated : max;
-    }, META.generatedAt || '');
-    var latestDate = displayDate(latest || META.generatedAt);
-    var dynamicCount = DATA.filter(function (e) { return e.tier === '動態情報層'; }).length;
+    }, '');
+    var latestInfoDate = displayDate(latestInfo);
+    var manifestDate = versionDate(META.backfillVersion);
+    var maintenance = parseDate(manifestDate) > parseDate(META.generatedAt) ? manifestDate : META.generatedAt;
+    var maintenanceDate = displayDate(maintenance || latestInfo);
+    var dynamicCount = dynamics.length;
 
     $('#stEntries').textContent = DATA.length;
     $('#stRegions').textContent = Object.keys(regions).length;
     $('#stMedia').textContent = Object.keys(media).length;
-    $('#stSync').textContent = latestDate;
-    $('#syncDate').textContent = '最後同步 ' + latestDate + ' · Notion → GitHub Pages';
+    $('#stSync').textContent = maintenanceDate;
+    $('#syncDate').textContent = '最後資料維護 ' + maintenanceDate + ' · 最新情報 ' + latestInfoDate + ' · Notion → GitHub Pages';
     $('#dailyLead').textContent = dynamicCount
-      ? '每日追蹤正在發生的委託、展覽與公共計畫。目前接入 ' + dynamicCount + ' 筆情報，最新資料日期 ' + latestDate + '，依關注度排入索引。'
+      ? '每日追蹤正在發生的委託、展覽與公共計畫。目前接入 ' + dynamicCount + ' 筆情報，最新情報日期 ' + latestInfoDate + '，最近資料維護 ' + maintenanceDate + '。'
       : '每日追蹤正在發生的委託、展覽與公共計畫，等待動態情報層寫入。';
 
     $('#sourceItems').innerHTML = STATUS_ORDER.map(function (status) {
