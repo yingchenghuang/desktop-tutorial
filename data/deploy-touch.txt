@@ -33,3 +33,7 @@ source: Cloudflare Web Analytics; public traffic display remains disabled
 2026-07-29T04:00:00+08:00 creator statement partial deploy
 reason: Backfill 5 historical first-party creator statements and sources; daily 2026-07-28/29 publication held because official-page and image browser verification was blocked.
 entries: manifest expectedEntries 408; historical statement backfill 5; daily files 20260728/20260729 absent
+
+2026-07-29T04:35:00+08:00 public status-label correction deploy
+reason: Separate the last data-maintenance date from the latest daily-intelligence date; force-refresh index and app assets so the 2026-07-29 historical statement maintenance is visible without misrepresenting missing 2026-07-28/29 daily chunks.
+entries: manifest expectedEntries 408; last data maintenance 2026-07-29; latest daily intelligence 2026-07-27; daily files 20260728/20260729 absent
