@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-27-daily-global-german-statements",
+  "version": "2026-07-29-history-statements-partial",
   "files": [
     "backfill-july-20260703-04-01.json",
     "backfill-july-20260703-04-02.json",
@@ -35,5 +35,5 @@
     "backfill-july-20260727.json"
   ],
   "expectedEntries": 408,
-  "note": "Added 10 verified current art exhibitions, 5 non-duplicate global installation-art masterworks, and 5 non-duplicate German installation-art classics for 2026-07-27. All 20 include creator statements and first-party sources; 5 historical 2026-07-06 entries were also backfilled."
+  "note": "Historical creator-statement maintenance on 2026-07-29: backfilled 5 first-party statements/sources (Olafur Eliasson, Robert Smithson, Walter De Maria, Nancy Holt, Mary Miss). Daily files for 2026-07-28 and 2026-07-29 remain unpublished because official-page/image browser verification was blocked; expectedEntries remains 408."
 }
