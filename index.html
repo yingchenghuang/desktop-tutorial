@@ -50,7 +50,7 @@
   <div class="hero-voice enter" style="--i:3">
     <p class="motto">為場所，為眾人。</p>
     <p class="motto-sub">一座每日生長的索引，把散落各地的公共藝術收進同一個秩序，讓經典與正在發生的事件並列可讀。</p>
-    <dl class="stat-row"><div><dt>最後同步</dt><dd id="stSync">—</dd></div><div><dt>資料量</dt><dd id="stEntries">—</dd></div><div><dt>地區</dt><dd id="stRegions">—</dd></div><div><dt>媒介</dt><dd id="stMedia">—</dd></div></dl>
+    <dl class="stat-row"><div><dt>最後資料維護</dt><dd id="stSync">—</dd></div><div><dt>資料量</dt><dd id="stEntries">—</dd></div><div><dt>地區</dt><dd id="stRegions">—</dd></div><div><dt>媒介</dt><dd id="stMedia">—</dd></div></dl>
   </div>
   <h2 class="lede enter" style="--i:4">以一手來源建立的全球公共藝術索引。經典檔案庫收錄改寫公共藝術史的藝術家、作品與平台，動態情報層每日追蹤正在發生的委託、展覽與公共計畫。</h2>
   <div class="duo enter" style="--i:5"><div class="duo-col"><p class="lab">經典檔案庫</p><p class="duo-body">改寫公共藝術史的名字。每一筆條目都附上代表作、脈絡短評與一手連結。</p></div><div class="duo-col"><p class="lab">動態情報層</p><p class="duo-body" id="dailyLead">載入全球公共藝術資訊中。</p></div></div>
@@ -64,7 +64,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260729-history-statements-partial-r1';
+  const cacheKey = '20260729-sync-vs-info-r2';
   const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
@@ -111,7 +111,7 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20260726-daily-global-german-statements-r1"></script>
+<script src="assets/app.js?t=20260729-sync-vs-info-r2"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
