@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-29-history-statements-partial",
+  "version": "2026-07-30-catchup-history-statements-complete",
   "files": [
     "backfill-july-20260703-04-01.json",
     "backfill-july-20260703-04-02.json",
@@ -32,8 +32,11 @@
     "backfill-july-20260724.json",
     "backfill-july-20260725.json",
     "backfill-july-20260726.json",
-    "backfill-july-20260727.json"
+    "backfill-july-20260727.json",
+    "backfill-july-20260728.json",
+    "backfill-july-20260729.json",
+    "backfill-july-20260730.json"
   ],
-  "expectedEntries": 408,
-  "note": "Historical creator-statement maintenance on 2026-07-29: backfilled 5 first-party statements/sources (Olafur Eliasson, Robert Smithson, Walter De Maria, Nancy Holt, Mary Miss). Daily files for 2026-07-28 and 2026-07-29 remain unpublished because official-page/image browser verification was blocked; expectedEntries remains 408."
+  "expectedEntries": 468,
+  "note": "Catch-up publication through 2026-07-30: added 60 verified entries for 2026-07-28, 2026-07-29, and 2026-07-30 (10 current exhibitions, 5 global installation classics, and 5 German installation classics per day). All 468 entries now include a creator statement and first-party source."
 }

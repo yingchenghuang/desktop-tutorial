@@ -96,7 +96,9 @@
       "classicDesc": "平台圖：Public Art Fund 2026 season visual；後續優先替換為 Public Nature 單件作品圖。",
       "status": "追蹤",
       "updated": "2026-07-06",
-      "dedupeKey": "dynamic-2026-07-06-gabriel-orozco-public-nature"
+      "dedupeKey": "dynamic-2026-07-06-gabriel-orozco-public-nature",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Gabriel Orozco｜Public Nature以「Public Nature」為本條目核心，運用光/影像/投影、建築/場域、平台/策展回應墨西哥 / 美國紐約、芝加哥、波士頓的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/"
     },
     {
       "id": "dynamic-2026-07-06-echigo-tsumari-waterside-ennichi",
@@ -119,7 +121,9 @@
       "classicDesc": "越後妻有大地藝術祭系統在 2026 年持續以里山、池畔、互動裝置與地方節慶形式維持公共藝術的長期場域網絡。",
       "status": "官方來源",
       "updated": "2026-07-06",
-      "dedupeKey": "dynamic-2026-07-06-echigo-tsumari-waterside-ennichi"
+      "dedupeKey": "dynamic-2026-07-06-echigo-tsumari-waterside-ennichi",
+      "artistStatement": "第一方論述整理：依藝術節官方頁面，Echigo-Tsumari Art Field 2026｜Waterside ENNICHI以「Waterside ENNICHI in MonET」為本條目核心，透過地景/大地藝術、裝置、社會參與在日本 / 新潟越後妻有建立作品、地方與觀眾之間的關係；此處為第一方資料整理，不作直接引語。",
+      "artistStatementSource": "https://www.echigo-tsumari.jp/en/"
     },
     {
       "id": "dynamic-2026-07-06-artjog-nandur-banyu",
@@ -167,7 +171,9 @@
       "classicDesc": "Gold Coast 的 SURFACE Festival 在 2026 年 7 月把街頭藝術、壁畫與城市步行路徑串成可持續訪問的公共藝術地圖。",
       "status": "可信二手來源",
       "updated": "2026-07-06",
-      "dedupeKey": "dynamic-2026-07-06-surface-festival-gold-coast"
+      "dedupeKey": "dynamic-2026-07-06-surface-festival-gold-coast",
+      "artistStatement": "第一方論述整理：依藝術節官方頁面，SURFACE Festival 2026｜Miami Gold Coast Murals以「SURFACE Festival 2026」為本條目核心，透過壁畫/街頭、社會參與、平台/策展在澳洲 / 昆士蘭 Gold Coast建立作品、地方與觀眾之間的關係；此處為第一方資料整理，不作直接引語。",
+      "artistStatementSource": "https://surfacefestival.com.au/"
     },
     {
       "id": "dynamic-2026-07-06-cielo-tejido-woven-sky",
@@ -215,7 +221,9 @@
       "classicDesc": "平台圖：官方 open-call / festival visual；後續應追蹤替換為入選 public-space intervention 作品圖。",
       "status": "追蹤",
       "updated": "2026-07-06",
-      "dedupeKey": "dynamic-2026-07-06-ica-live-art-cape-town"
+      "dedupeKey": "dynamic-2026-07-06-ica-live-art-cape-town",
+      "artistStatement": "第一方論述整理：依藝術節官方頁面，ICA Live Art Festival 2026｜Cape Town Public Interventions以「ICA Live Art Festival 2026」為本條目核心，透過社會參與、數位/互動、平台/策展在南非 / 開普敦建立作品、地方與觀眾之間的關係；此處為第一方資料整理，不作直接引語。",
+      "artistStatementSource": "https://humanities.uct.ac.za/ica/articles/2026-03-26-open-call-ica-live-art-festival-2026"
     },
     {
       "id": "dynamic-2026-07-06-monira-al-qadiri-first-sun",
@@ -238,7 +246,9 @@
       "classicDesc": "First Sun 將埃及聖甲蟲、太陽神話、性別與石油文化語彙轉化為 Central Park 的大型公共雕塑，並將巡迴至 Toronto 的 Lassonde Art Trail。",
       "status": "官方來源",
       "updated": "2026-07-06",
-      "dedupeKey": "dynamic-2026-07-06-monira-al-qadiri-first-sun"
+      "dedupeKey": "dynamic-2026-07-06-monira-al-qadiri-first-sun",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Monira Al Qadiri｜First Sun以「First Sun」為本條目核心，運用雕塑、地景/大地藝術、紀念性公共藝術回應科威特 / 塞內加爾 / 美國紐約 Central Park的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/monira-al-qadiri-first-sun/"
     }
   ]
 }

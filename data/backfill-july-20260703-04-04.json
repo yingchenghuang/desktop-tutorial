@@ -46,7 +46,9 @@
       "classicImage": "https://en.wikipedia.org/wiki/Special:Redirect/file/Cloud_Gate_%28The_Bean%29_from_east%27.jpg",
       "classicDesc": "Cloud Gate 以無縫不鏽鋼鏡面扭曲芝加哥天際線與觀眾身體，成為城市自我凝視的裝置。它看似親民地標，實際上把公共雕塑、觀光、自拍文化與城市品牌壓縮在同一個反射面上。",
       "status": "官方來源",
-      "updated": "2026-07-03"
+      "updated": "2026-07-03",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Anish Kapoor以「Cloud Gate」為本條目核心，運用雕塑、裝置、建築/場域回應英國 / 印度的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://anishkapoor.com/"
     },
     {
       "id": "classic-michael-heizer",
@@ -69,7 +71,9 @@
       "classicImage": "https://upload.wikimedia.org/wikipedia/en/5/55/City_Art.PNG",
       "classicDesc": "City 是 Heizer 在內華達沙漠耗時數十年完成的巨型土方與混凝土結構，尺度接近考古遺址。它把當代藝術、古文明想像與土地工程合併，幾乎拒絕一般展覽節奏。",
       "status": "官方來源",
-      "updated": "2026-07-03"
+      "updated": "2026-07-03",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Michael Heizer以「City」為本條目核心，運用地景/大地藝術、雕塑、建築/場域回應美國的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://tripleaughtfoundation.org/"
     },
     {
       "id": "classic-robert-smithson",

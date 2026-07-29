@@ -17,13 +17,21 @@
       "region": "東亞",
       "category": "平台",
       "tier": "動態情報層",
-      "media": ["裝置", "聲音/霧/水", "數位/互動", "建築/場域", "平台/策展"],
+      "media": [
+        "裝置",
+        "聲音/霧/水",
+        "數位/互動",
+        "建築/場域",
+        "平台/策展"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://www.singaporeartmuseum.sg/art-events/exhibitions/momentary-pulses",
       "officialUrl": "https://www.singaporeartmuseum.sg/art-events/exhibitions/momentary-pulses",
       "dedupeKey": "dynamic-2026-07-11-sam-momentary-pulses-cbd-public-art",
-      "summary": "關注度#01：Singapore Art Museum 將 CBD 公共藝術路徑延伸為 2026-2027 的城市展場，從 Raffles Place 到 Tanjong Pagar 串接七件新委託，兼具國家級機構、公眾可達性與長展期訊號。"
+      "summary": "關注度#01：Singapore Art Museum 將 CBD 公共藝術路徑延伸為 2026-2027 的城市展場，從 Raffles Place 到 Tanjong Pagar 串接七件新委託，兼具國家級機構、公眾可達性與長展期訊號。",
+      "artistStatement": "第一方論述整理：依該機構官方頁面，Singapore Art Museum｜Momentary Pulses以「Momentary Pulses: Art in the Central Business District」為工作核心，透過裝置、聲音/霧/水、數位/互動、建築/場域、平台/策展連結藝術家、場域與公眾；此處僅整理其官方自述所呈現的方法與任務，不作直接引語。",
+      "artistStatementSource": "https://www.singaporeartmuseum.sg/art-events/exhibitions/momentary-pulses"
     },
     {
       "id": "dynamic-2026-07-11-storm-king-anicka-yi-message-from-the-mud",
@@ -37,13 +45,19 @@
       "region": "西方",
       "category": "藝術家",
       "tier": "動態情報層",
-      "media": ["雕塑", "裝置", "地景/大地藝術"],
+      "media": [
+        "雕塑",
+        "裝置",
+        "地景/大地藝術"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://collections.stormking.org/Detail/occurrences/222",
       "officialUrl": "https://collections.stormking.org/Detail/occurrences/222",
       "dedupeKey": "dynamic-2026-07-11-storm-king-anicka-yi-message-from-the-mud",
-      "summary": "關注度#02：Anicka Yi 在 Storm King 的首件大型戶外計畫把考古、微生物與生態想像轉成地景裝置，展期橫跨 2026 年夏秋，對公共雕塑語彙有高度延展性。"
+      "summary": "關注度#02：Anicka Yi 在 Storm King 的首件大型戶外計畫把考古、微生物與生態想像轉成地景裝置，展期橫跨 2026 年夏秋，對公共雕塑語彙有高度延展性。",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Anicka Yi｜Message from the Mud以「Message from the Mud」為本條目核心，運用雕塑、裝置、地景/大地藝術回應美國 / New York, Storm King Art Center的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://collections.stormking.org/Detail/occurrences/222"
     },
     {
       "id": "dynamic-2026-07-11-art-on-the-underground-2026-programme",
@@ -57,13 +71,20 @@
       "region": "西方",
       "category": "平台",
       "tier": "動態情報層",
-      "media": ["平台/策展", "建築/場域", "光/影像/投影", "聲音/霧/水"],
+      "media": [
+        "平台/策展",
+        "建築/場域",
+        "光/影像/投影",
+        "聲音/霧/水"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://art.tfl.gov.uk/projects/2026-programme-announcement/",
       "officialUrl": "https://art.tfl.gov.uk/projects/2026-programme-announcement/",
       "dedupeKey": "dynamic-2026-07-11-art-on-the-underground-2026-programme",
-      "summary": "關注度#03：Art on the Underground 釋出 2026 年大型站體委託，Phoebe Boswell、Ellen Gallagher、Ain Bailey 與 Elaine Mitchener 等作品將進入倫敦日常通勤系統，制度能見度極高。"
+      "summary": "關注度#03：Art on the Underground 釋出 2026 年大型站體委託，Phoebe Boswell、Ellen Gallagher、Ain Bailey 與 Elaine Mitchener 等作品將進入倫敦日常通勤系統，制度能見度極高。",
+      "artistStatement": "第一方論述整理：依該機構官方頁面，Art on the Underground｜2026 Programme以「2026 Programme Announcement」為工作核心，透過平台/策展、建築/場域、光/影像/投影、聲音/霧/水連結藝術家、場域與公眾；此處僅整理其官方自述所呈現的方法與任務，不作直接引語。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/2026-programme-announcement/"
     },
     {
       "id": "dynamic-2026-07-11-bold-tendencies-euphoria-2026",
@@ -77,13 +98,19 @@
       "region": "西方",
       "category": "作品/展覽",
       "tier": "動態情報層",
-      "media": ["裝置", "建築/場域", "平台/策展"],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "平台/策展"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://boldtendencies.com/programme/",
       "officialUrl": "https://boldtendencies.com/programme/",
       "dedupeKey": "dynamic-2026-07-11-bold-tendencies-euphoria-2026",
-      "summary": "關注度#04：Bold Tendencies 的 Euphoria 以 Peckham 多層停車場為城市文化場域，集合 Andreas Gursky、Emma Hart、Tarek Lakhrissi 等新委託，呈現公共空間與當代藝術平台的高密度交會。"
+      "summary": "關注度#04：Bold Tendencies 的 Euphoria 以 Peckham 多層停車場為城市文化場域，集合 Andreas Gursky、Emma Hart、Tarek Lakhrissi 等新委託，呈現公共空間與當代藝術平台的高密度交會。",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Bold Tendencies｜Euphoria以「Euphoria」為本條目核心，運用裝置、建築/場域、平台/策展回應英國 / London Peckham的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://boldtendencies.com/programme/"
     },
     {
       "id": "dynamic-2026-07-11-the-bentway-fifa-fan-festival-2026",
@@ -97,13 +124,20 @@
       "region": "西方",
       "category": "平台",
       "tier": "動態情報層",
-      "media": ["裝置", "數位/互動", "壁畫/街頭", "建築/場域"],
+      "media": [
+        "裝置",
+        "數位/互動",
+        "壁畫/街頭",
+        "建築/場域"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://thebentway.ca/program/fifa-fan-festival-2026-toronto/",
       "officialUrl": "https://thebentway.ca/program/fifa-fan-festival-2026-toronto/",
       "dedupeKey": "dynamic-2026-07-11-the-bentway-fifa-fan-festival-2026",
-      "summary": "關注度#05：The Bentway 把 2026 FIFA Fan Festival 轉化為公共藝術與城市參與平台，於 Gardiner 高架下整合裝置、燈光與社群活動，具大型公共事件與城市更新雙重訊號。"
+      "summary": "關注度#05：The Bentway 把 2026 FIFA Fan Festival 轉化為公共藝術與城市參與平台，於 Gardiner 高架下整合裝置、燈光與社群活動，具大型公共事件與城市更新雙重訊號。",
+      "artistStatement": "第一方論述整理：依該機構官方頁面，The Bentway｜FIFA Fan Festival 2026 Toronto以「FIFA Fan Festival 2026 Toronto」為工作核心，透過裝置、數位/互動、壁畫/街頭、建築/場域連結藝術家、場域與公眾；此處僅整理其官方自述所呈現的方法與任務，不作直接引語。",
+      "artistStatementSource": "https://thebentway.ca/program/fifa-fan-festival-2026-toronto/"
     },
     {
       "id": "dynamic-2026-07-11-voelklinger-urban-art-biennale-2026",
@@ -117,13 +151,20 @@
       "region": "西方",
       "category": "藝術節",
       "tier": "動態情報層",
-      "media": ["壁畫/街頭", "裝置", "建築/場域", "平台/策展"],
+      "media": [
+        "壁畫/街頭",
+        "裝置",
+        "建築/場域",
+        "平台/策展"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://voelklinger-huette.org/en/exhibitions/urban-art-biennale-2026/",
       "officialUrl": "https://voelklinger-huette.org/en/exhibitions/urban-art-biennale-2026/",
       "dedupeKey": "dynamic-2026-07-11-voelklinger-urban-art-biennale-2026",
-      "summary": "關注度#06：Völklinger Hütte 以 UNESCO 工業遺產承載 Urban Art Biennale，聚合五十餘位國際藝術家的街頭、塗鴉與現地裝置，讓工業場域成為大型公共藝術實驗室。"
+      "summary": "關注度#06：Völklinger Hütte 以 UNESCO 工業遺產承載 Urban Art Biennale，聚合五十餘位國際藝術家的街頭、塗鴉與現地裝置，讓工業場域成為大型公共藝術實驗室。",
+      "artistStatement": "第一方論述整理：依藝術節官方頁面，Völklinger Hütte｜Urban Art Biennale 2026以「Urban Art Biennale 2026」為本條目核心，透過壁畫/街頭、裝置、建築/場域、平台/策展在德國 / UNESCO World Heritage Völklinger Hütte建立作品、地方與觀眾之間的關係；此處為第一方資料整理，不作直接引語。",
+      "artistStatementSource": "https://voelklinger-huette.org/en/exhibitions/urban-art-biennale-2026/"
     },
     {
       "id": "dynamic-2026-07-11-priscilla-monge-canchas-desiguales",
@@ -137,13 +178,19 @@
       "region": "拉丁美洲",
       "category": "作品/展覽",
       "tier": "動態情報層",
-      "media": ["裝置", "社會參與", "建築/場域"],
+      "media": [
+        "裝置",
+        "社會參與",
+        "建築/場域"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://www.museotamayo.org/en/agenda",
       "officialUrl": "https://www.museotamayo.org/en/agenda",
       "dedupeKey": "dynamic-2026-07-11-priscilla-monge-canchas-desiguales",
-      "summary": "關注度#07：Priscilla Monge 在 Museo Tamayo 外部廣場以不平等球場回應足球與社會結構，正好貼近 2026 世界盃城市情境，公共性與政治隱喻清楚。"
+      "summary": "關注度#07：Priscilla Monge 在 Museo Tamayo 外部廣場以不平等球場回應足球與社會結構，正好貼近 2026 世界盃城市情境，公共性與政治隱喻清楚。",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Priscilla Monge｜Canchas Desiguales以「Canchas Desiguales」為本條目核心，運用裝置、社會參與、建築/場域回應墨西哥 / Mexico City Museo Tamayo的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://www.museotamayo.org/en/agenda"
     },
     {
       "id": "dynamic-2026-07-11-sculpture-by-the-sea-2026-programme",
@@ -157,13 +204,19 @@
       "region": "大洋洲",
       "category": "藝術節",
       "tier": "動態情報層",
-      "media": ["雕塑", "地景/大地藝術", "社會參與"],
+      "media": [
+        "雕塑",
+        "地景/大地藝術",
+        "社會參與"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://sculpturebythesea.com/",
       "officialUrl": "https://sculpturebythesea.com/",
       "dedupeKey": "dynamic-2026-07-11-sculpture-by-the-sea-2026-programme",
-      "summary": "關注度#08：Sculpture by the Sea 延續 Cottesloe、Bondi 與 Snowy Valleys Sculpture Trail 的跨地景平台，將海岸步道與地方雕塑路徑連成澳洲公共藝術年度節點。"
+      "summary": "關注度#08：Sculpture by the Sea 延續 Cottesloe、Bondi 與 Snowy Valleys Sculpture Trail 的跨地景平台，將海岸步道與地方雕塑路徑連成澳洲公共藝術年度節點。",
+      "artistStatement": "第一方論述整理：依藝術節官方頁面，Sculpture by the Sea｜2026 Programme以「Bondi 2026 / Snowy Valleys Sculpture Trail」為本條目核心，透過雕塑、地景/大地藝術、社會參與在澳洲 / Bondi, Cottesloe, Snowy Valleys建立作品、地方與觀眾之間的關係；此處為第一方資料整理，不作直接引語。",
+      "artistStatementSource": "https://sculpturebythesea.com/"
     },
     {
       "id": "dynamic-2026-07-11-laumeier-waka-garden",
@@ -177,13 +230,19 @@
       "region": "西方",
       "category": "作品/展覽",
       "tier": "動態情報層",
-      "media": ["地景/大地藝術", "社會參與", "裝置"],
+      "media": [
+        "地景/大地藝術",
+        "社會參與",
+        "裝置"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://www.laumeiersculpturepark.org/chavez-wakagarden",
       "officialUrl": "https://www.laumeiersculpturepark.org/chavez-wakagarden",
       "dedupeKey": "dynamic-2026-07-11-laumeier-waka-garden",
-      "summary": "關注度#09：Laumeier 的 Wak’a Garden 將雕塑、公眾教育、授粉生態與社群工作坊結合，三年期委託讓花園成為可被使用、照護與學習的公共藝術結構。"
+      "summary": "關注度#09：Laumeier 的 Wak’a Garden 將雕塑、公眾教育、授粉生態與社群工作坊結合，三年期委託讓花園成為可被使用、照護與學習的公共藝術結構。",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Laumeier Sculpture Park｜Wak’a Garden以「Begin Again: Wak’a Garden」為本條目核心，運用地景/大地藝術、社會參與、裝置回應美國 / St. Louis Laumeier Sculpture Park的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://www.laumeiersculpturepark.org/chavez-wakagarden"
     },
     {
       "id": "dynamic-2026-07-11-balloon-museum-daydream-abramovic",
@@ -197,13 +256,20 @@
       "region": "西方",
       "category": "作品/展覽",
       "tier": "動態情報層",
-      "media": ["裝置", "光/影像/投影", "建築/場域", "數位/互動"],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "建築/場域",
+        "數位/互動"
+      ],
       "status": "官方來源",
       "updated": "2026-07-11",
       "source": "https://balloonmuseum.world/daydream/",
       "officialUrl": "https://balloonmuseum.world/daydream/",
       "dedupeKey": "dynamic-2026-07-11-balloon-museum-daydream-abramovic",
-      "summary": "關注度#10：Balloon Museum 的 DAYDREAM 以 New York Seaport 作為充氣藝術長期基地，Marina Abramović 的 Snowy, Windy, Spring on the Planet Z 帶來高知名藝術家與沉浸式公共裝置的交會。"
+      "summary": "關注度#10：Balloon Museum 的 DAYDREAM 以 New York Seaport 作為充氣藝術長期基地，Marina Abramović 的 Snowy, Windy, Spring on the Planet Z 帶來高知名藝術家與沉浸式公共裝置的交會。",
+      "artistStatement": "第一方論述整理：依官方作品／展覽頁，Balloon Museum｜DAYDREAM / Marina Abramović以「DAYDREAM / Snowy, Windy, Spring on the Planet Z」為本條目核心，運用裝置、光/影像/投影、建築/場域、數位/互動回應美國 / New York Seaport的空間、觀看與參與條件；此處依第一方頁所列作品方法整理，不作直接引語。",
+      "artistStatementSource": "https://balloonmuseum.world/daydream/"
     }
   ]
 }

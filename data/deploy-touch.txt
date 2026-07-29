@@ -37,3 +37,7 @@ entries: manifest expectedEntries 408; historical statement backfill 5; daily fi
 2026-07-29T04:35:00+08:00 public status-label correction deploy
 reason: Separate the last data-maintenance date from the latest daily-intelligence date; force-refresh index and app assets so the 2026-07-29 historical statement maintenance is visible without misrepresenting missing 2026-07-28/29 daily chunks.
 entries: manifest expectedEntries 408; last data maintenance 2026-07-29; latest daily intelligence 2026-07-27; daily files 20260728/20260729 absent
+
+2026-07-30T04:00:00+08:00 catch-up and historical creator-statement completion deploy
+reason: Publish 2026-07-28 through 2026-07-30 daily intelligence in one coupled release and complete creator statements with first-party sources across the full historical archive.
+entries: backfill-july-20260728.json (20); backfill-july-20260729.json (20); backfill-july-20260730.json (20); manifest expectedEntries 468; artistStatement 468/468; artistStatementSource 468/468
