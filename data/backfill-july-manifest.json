@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-30-catchup-history-statements-complete",
+  "version": "2026-07-31-daily-global-german-statements",
   "files": [
     "backfill-july-20260703-04-01.json",
     "backfill-july-20260703-04-02.json",
@@ -35,8 +35,9 @@
     "backfill-july-20260727.json",
     "backfill-july-20260728.json",
     "backfill-july-20260729.json",
-    "backfill-july-20260730.json"
+    "backfill-july-20260730.json",
+    "backfill-july-20260731.json"
   ],
-  "expectedEntries": 468,
-  "note": "Catch-up publication through 2026-07-30: added 60 verified entries for 2026-07-28, 2026-07-29, and 2026-07-30 (10 current exhibitions, 5 global installation classics, and 5 German installation classics per day). All 468 entries now include a creator statement and first-party source."
+  "expectedEntries": 488,
+  "note": "Daily publication through 2026-07-31: added 10 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics. All 488 entries include a creator statement and first-party source; historical statement backlog remains zero."
 }
