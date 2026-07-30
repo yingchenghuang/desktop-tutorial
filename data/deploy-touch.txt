@@ -41,3 +41,7 @@ entries: manifest expectedEntries 408; last data maintenance 2026-07-29; latest 
 2026-07-30T04:00:00+08:00 catch-up and historical creator-statement completion deploy
 reason: Publish 2026-07-28 through 2026-07-30 daily intelligence in one coupled release and complete creator statements with first-party sources across the full historical archive.
 entries: backfill-july-20260728.json (20); backfill-july-20260729.json (20); backfill-july-20260730.json (20); manifest expectedEntries 468; artistStatement 468/468; artistStatementSource 468/468
+
+2026-07-31T06:24:42+08:00 public-art archive daily sync deploy
+reason: Add 10 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics; include first-party creator statements and sources for all new records.
+entries: backfill-july-20260731.json (20); manifest expectedEntries 488; artistStatement 488/488; artistStatementSource 488/488; historical statement backlog 0
