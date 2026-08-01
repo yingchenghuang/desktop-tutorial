@@ -49,3 +49,7 @@ entries: backfill-july-20260731.json (20); manifest expectedEntries 488; artistS
 2026-08-01T13:50:00+08:00 public-art archive daily sync deploy
 reason: Add 20 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics; include first-party creator statements and sources for all records.
 entries: backfill-august-20260801.json (30); August manifest expectedEntries 30; artistStatement 30/30; artistStatementSource 30/30; historical statement backlog 0
+
+2026-08-02T04:09:14+08:00 public-art archive daily sync deploy
+reason: Add 20 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics; include first-party creator statements and sources for all records.
+entries: backfill-august-20260802.json (30); August manifest expectedEntries 60; artistStatement 60/60; artistStatementSource 60/60; historical statement backlog 0
