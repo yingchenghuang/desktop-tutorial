@@ -64,8 +64,11 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260731-daily-global-german-statements-r1';
-  const manifestUrl = 'data/backfill-july-manifest.json?t=' + cacheKey;
+  const cacheKey = '20260801-daily-global-german-statements-r1';
+  const manifestUrls = [
+    'data/backfill-july-manifest.json?t=' + cacheKey,
+    'data/backfill-august-manifest.json?t=' + cacheKey
+  ];
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
     const response = await originalFetch(url);
@@ -76,21 +79,25 @@
     const base = Array.isArray(data) ? { entries: data } : (data || {});
     const entries = Array.isArray(base.entries) ? base.entries.slice() : [];
     try {
-      const manifest = await readJson(manifestUrl);
-      const files = Array.isArray(manifest.files) ? manifest.files : [];
       const seen = new Set(entries.map(keyOf).filter(Boolean));
-      for (const file of files) {
-        const chunk = await readJson('data/' + file + '?t=' + cacheKey);
-        const chunkEntries = Array.isArray(chunk.entries) ? chunk.entries : [];
-        for (const entry of chunkEntries) {
-          const key = keyOf(entry);
-          if (!key || seen.has(key)) continue;
-          seen.add(key);
-          entries.push(entry);
+      let latestVersion = '';
+      for (const manifestUrl of manifestUrls) {
+        const manifest = await readJson(manifestUrl);
+        latestVersion = manifest.version || latestVersion;
+        const files = Array.isArray(manifest.files) ? manifest.files : [];
+        for (const file of files) {
+          const chunk = await readJson('data/' + file + '?t=' + cacheKey);
+          const chunkEntries = Array.isArray(chunk.entries) ? chunk.entries : [];
+          for (const entry of chunkEntries) {
+            const key = keyOf(entry);
+            if (!key || seen.has(key)) continue;
+            seen.add(key);
+            entries.push(entry);
+          }
         }
       }
       base.entries = entries;
-      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: manifest.version || '2026-07-11' });
+      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: latestVersion || '2026-07-11' });
     } catch (error) {
       base.entries = entries;
       base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillStatus: 'unavailable' });
@@ -111,7 +118,7 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20260731-daily-global-german-statements-r1"></script>
+<script src="assets/app.js?t=20260801-daily-global-german-statements-r1"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
