@@ -1,0 +1,10 @@
+{
+  "version": "2026-08-01-daily-global-german-statements",
+  "generatedAt": "2026-08-01T03:45:00+08:00",
+  "files": ["backfill-august-20260801.json"],
+  "expectedEntries": 30,
+  "statementEntries": 30,
+  "statementSourceEntries": 30,
+  "statementBacklog": 0,
+  "note": "8 月每日資料索引；8/1 為週六，共 20 筆展覽情報、5 筆全球經典、5 筆德國經典，創作論述與來源完整。"
+}
