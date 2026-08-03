@@ -57,3 +57,7 @@ entries: backfill-august-20260802.json (30); August manifest expectedEntries 60;
 2026-08-03T05:08:00+08:00 public-art archive missed-run recovery deploy
 reason: Recover the missed Sunday run with 20 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics; include first-party creator statements and sources for all records.
 entries: backfill-august-20260803.json (30); August manifest expectedEntries 90; artistStatement 90/90; artistStatementSource 90/90; historical statement backlog 0
+
+2026-08-04T03:32:51+08:00 public-art archive daily sync deploy
+reason: Add 10 verified current art exhibitions, 5 global installation-art masterworks, and 5 German installation-art classics; all 20 include creator statements and first-party sources; historical statement backlog remains zero.
+entries: backfill-august-20260804.json (20); manifest expectedEntries 110; historical statement backfill 0

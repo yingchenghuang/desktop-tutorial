@@ -1,14 +1,15 @@
 {
-  "version": "2026-08-03-daily-global-german-statements",
-  "generatedAt": "2026-08-03T05:08:00+08:00",
+  "version": "2026-08-04-daily-global-german-statements",
+  "generatedAt": "2026-08-04T03:32:51+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
-    "backfill-august-20260803.json"
+    "backfill-august-20260803.json",
+    "backfill-august-20260804.json"
   ],
-  "expectedEntries": 90,
-  "statementEntries": 90,
-  "statementSourceEntries": 90,
+  "expectedEntries": 110,
+  "statementEntries": 110,
+  "statementSourceEntries": 110,
   "statementBacklog": 0,
-  "note": "8 月每日資料索引；8/1、8/2、8/3 皆為週末，每日各 20 筆展覽情報、5 筆全球經典、5 筆德國經典；創作論述與來源完整。"
+  "note": "8 月每日資料索引；8/1–8/3 已發布，8/4 平日新增 10 筆展覽情報、5 筆全球經典、5 筆德國經典；110 筆創作論述與來源完整。"
 }
