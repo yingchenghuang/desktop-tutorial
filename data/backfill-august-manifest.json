@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-09-complete-backfill-r2",
-  "generatedAt": "2026-08-09T23:45:00+08:00",
+  "version": "2026-08-09-complete-images-r3",
+  "generatedAt": "2026-08-09T23:58:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -16,5 +16,7 @@
   "statementEntries": 210,
   "statementSourceEntries": 210,
   "statementBacklog": 0,
-  "note": "8 月每日資料索引已完整補至 2026-08-09；8/5–8/9 各新增 20 筆，合計 100 筆，配置為每日 10 筆當期國際展覽／公共空間情報、5 筆全球經典、5 筆德國與德語藝術脈絡經典。"
+  "note": "8 月每日資料索引已完整補至 2026-08-09；8/5–8/9 共 100 筆資料的 photo 與 classicImage 圖片欄位均已補齊。",
+  "imageEntries": 210,
+  "imageBacklog": 0
 }
