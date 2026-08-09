@@ -1,16 +1,20 @@
 {
-  "version": "2026-08-09-recovery-r1",
-  "generatedAt": "2026-08-09T22:30:00+08:00",
+  "version": "2026-08-09-complete-backfill-r2",
+  "generatedAt": "2026-08-09T23:45:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
     "backfill-august-20260803.json",
     "backfill-august-20260804.json",
-    "backfill-august-20260805-20260809-recovery.json"
+    "backfill-august-20260805.json",
+    "backfill-august-20260806.json",
+    "backfill-august-20260807.json",
+    "backfill-august-20260808.json",
+    "backfill-august-20260809.json"
   ],
-  "expectedEntries": 115,
-  "statementEntries": 115,
-  "statementSourceEntries": 115,
+  "expectedEntries": 210,
+  "statementEntries": 210,
+  "statementSourceEntries": 210,
   "statementBacklog": 0,
-  "note": "8 月每日資料索引；已恢復更新至 2026-08-09。8/5–8/9 先補登 5 筆高可信公共藝術、裝置與公開徵件情報；既有 110 筆完整保留。"
+  "note": "8 月每日資料索引已完整補至 2026-08-09；8/5–8/9 各新增 20 筆，合計 100 筆，配置為每日 10 筆當期國際展覽／公共空間情報、5 筆全球經典、5 筆德國與德語藝術脈絡經典。"
 }
