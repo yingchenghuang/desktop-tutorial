@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-09T22:30:00+08:00",
+    "source": "全球公共藝術恢復更新；官方來源",
+    "note": "補登 2026-08-05 至 2026-08-09：3 筆公共藝術／裝置情報與 2 筆公開徵件，均附來源與去重Key。"
+  },
+  "entries": [
+    {
+      "id": "dynamic-2026-08-05-01",
+      "dedupeKey": "dynamic-2026-08-05-warburg-department-euterpe",
+      "name": "01｜Time Is Away｜The Department of Euterpe (1926–2026)",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / 倫敦 / Warburg Institute",
+      "media": [
+        "裝置",
+        "聲音/霧/水",
+        "建築/場域"
+      ],
+      "works": "The Department of Euterpe｜2026.06.17–10.03 / London",
+      "comment": "把畫廊改造成虛構的聲音研究部門，透過一千張唱片、檔案碎片與連續聲音作品，追問私人收藏如何進入公共知識機構。",
+      "website": "https://warburg.sas.ac.uk/news-events/events/department-euterpe-1926-2026",
+      "workPage": "https://warburg.sas.ac.uk/news-events/events/department-euterpe-1926-2026",
+      "photo": "",
+      "artistStatement": "官方資料整理：Time Is Away 將 Warburg Institute 的分類方法轉譯為聲音裝置，以辦公室、檔案庫與聆聽室的混合場景，讓音樂、口述、研究與制度虛構共同構成可進入的知識空間。",
+      "artistStatementSource": "https://warburg.sas.ac.uk/news-events/events/department-euterpe-1926-2026",
+      "classicTitle": "The Department of Euterpe (1926–2026)",
+      "classicImage": "",
+      "classicDesc": "聲音、檔案與制度虛構組成可使用的公共研究空間。",
+      "status": "官方來源",
+      "updated": "2026-08-05"
+    },
+    {
+      "id": "dynamic-2026-08-06-01",
+      "dedupeKey": "dynamic-2026-08-06-sf-minna-natoma-art-corridor",
+      "name": "01｜五位舊金山藝術家｜Minna Natoma Art Corridor",
+      "category": "公共藝術計畫",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / 舊金山 / SoMa",
+      "media": [
+        "建築/場域",
+        "壁畫/街頭",
+        "雕塑"
+      ],
+      "works": "Minna Natoma Streetscape Art Corridor｜2027 春季安裝",
+      "comment": "藝術直接嵌入八百英尺街道鋪面、座椅、單車架與防撞柱，把公共藝術從獨立物件推進街道安全和步行系統。",
+      "website": "https://www.sf.gov/news-san-francisco-arts-commission-approves-final-designs-for-new-art-corridor-on-minna-and-natoma-streets",
+      "workPage": "https://www.sf.gov/news-san-francisco-arts-commission-approves-final-designs-for-new-art-corridor-on-minna-and-natoma-streets",
+      "photo": "",
+      "artistStatement": "舊金山市官方資料整理：計畫整合 Barbara Stauffacher Solomon、Mel Vera Cruz、Muzae Sesay、Jesse Schlesinger 與 Masako Miki 的設計，透過鋪面和街具建立連續藝術廊道，預計 2027 年春季安裝、夏季完成。",
+      "artistStatementSource": "https://www.sf.gov/news-san-francisco-arts-commission-approves-final-designs-for-new-art-corridor-on-minna-and-natoma-streets",
+      "classicTitle": "Minna Natoma Art Corridor",
+      "classicImage": "",
+      "classicDesc": "公共藝術、街道工程與行人安全被整合為同一城市介面。",
+      "status": "官方來源",
+      "updated": "2026-08-06"
+    },
+    {
+      "id": "dynamic-2026-08-07-01",
+      "dedupeKey": "dynamic-2026-08-07-denver-rosamond-park-rfq",
+      "name": "01｜公開徵件｜Denver Rosamond Park Public Art RFQ",
+      "category": "公開徵件",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / 丹佛 / Rosamond Park",
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "Rosamond Park RFQ｜預算 US$95,000｜截止 2026.08.17",
+      "comment": "徵件要求全年可觀看、冬季仍明亮並帶有遊戲性；公共性被具體化為跨年齡使用、地方景觀與好奇心，而非抽象口號。",
+      "website": "https://denverpublicart.org/for-artists/rosamond-park-rfq/",
+      "workPage": "https://denverpublicart.org/for-artists/rosamond-park-rfq/",
+      "photo": "",
+      "artistStatement": "Denver Public Art 官方徵件整理：委託對象為居住於美國的藝術家或團隊，作品需適合戶外環境，回應公園自然景觀、社群活動與多元使用者，總預算約九萬五千美元。",
+      "artistStatementSource": "https://denverpublicart.org/for-artists/rosamond-park-rfq/",
+      "classicTitle": "Rosamond Park Public Art RFQ",
+      "classicImage": "",
+      "classicDesc": "以季節性、遊戲性和全年公共使用為核心的公園委託。",
+      "status": "官方來源",
+      "updated": "2026-08-07"
+    },
+    {
+      "id": "dynamic-2026-08-08-01",
+      "dedupeKey": "dynamic-2026-08-08-spruill-amplify-mural-open-call",
+      "name": "01｜公開徵件｜AMPLIFY Mural Competition 2026",
+      "category": "公開徵件",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / 喬治亞州 Dunwoody",
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "AMPLIFY｜獎金 US$10,000｜截止 2026.08.28",
+      "comment": "年度壁畫以歷史 Smoke House 為固定載體，透過每年更換創作者累積地方時間層；規模不大，傳播性和場域辨識度很高。",
+      "website": "https://spruillarts.org/amplify/",
+      "workPage": "https://spruillarts.org/amplify/",
+      "photo": "",
+      "artistStatement": "Spruill Gallery 官方徵件整理：全美藝術家可投稿，第七屆得主獲一萬美元，壁畫將展示一年；現地施作須於 2026 年 11 月 19 日前完成，11 月 21 日揭幕。",
+      "artistStatementSource": "https://spruillarts.org/amplify/",
+      "classicTitle": "AMPLIFY Mural Competition 2026",
+      "classicImage": "",
+      "classicDesc": "以週期性更替維持地方地標活性的壁畫計畫。",
+      "status": "官方來源",
+      "updated": "2026-08-08"
+    },
+    {
+      "id": "dynamic-2026-08-09-01",
+      "dedupeKey": "dynamic-2026-08-09-golden-lions-park-public-art",
+      "name": "01｜公開徵件｜Golden Lions Park Site-Specific Artwork",
+      "category": "公開徵件",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / 科羅拉多州 Golden / Lions Park",
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "數位/互動"
+      ],
+      "works": "Lions Park Update Project｜預算 US$34,000｜截止 2026.08.09",
+      "comment": "徵件強調作品成為訪客經驗的一部分，要求可被經歷而只供觀看；這個措辭值得公共藝術提案者直接偷師，合法的那種。",
+      "website": "https://artsandmuseums.utah.gov/public-art-opportunities/",
+      "workPage": "https://www.cityofgolden.gov/community/art_culture_history/public_art/index.php",
+      "photo": "",
+      "artistStatement": "政府公共藝術機會頁與 Golden 市公共藝術資料整理：此案尋找回應 Lions Park 更新工程的原創場域作品，預算三萬四千美元，核心評選方向是作品如何主動構成訪客體驗。",
+      "artistStatementSource": "https://artsandmuseums.utah.gov/public-art-opportunities/",
+      "classicTitle": "Lions Park Site-Specific Artwork",
+      "classicImage": "",
+      "classicDesc": "以體驗性取代純觀看的公園場域委託。",
+      "status": "官方來源",
+      "updated": "2026-08-09"
+    }
+  ]
+}
