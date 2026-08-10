@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-09-complete-images-r3",
-  "generatedAt": "2026-08-09T23:58:00+08:00",
+  "version": "2026-08-10-public-art-r4",
+  "generatedAt": "2026-08-10T05:00:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -10,13 +10,14 @@
     "backfill-august-20260806.json",
     "backfill-august-20260807.json",
     "backfill-august-20260808.json",
-    "backfill-august-20260809.json"
+    "backfill-august-20260809.json",
+    "backfill-august-20260810.json"
   ],
-  "expectedEntries": 210,
-  "statementEntries": 210,
-  "statementSourceEntries": 210,
+  "expectedEntries": 230,
+  "statementEntries": 230,
+  "statementSourceEntries": 230,
   "statementBacklog": 0,
-  "note": "8 月每日資料索引已完整補至 2026-08-09；8/5–8/9 共 100 筆資料的 photo 與 classicImage 圖片欄位均已補齊。",
-  "imageEntries": 210,
+  "note": "8 月每日資料索引已完整補至 2026-08-10；8/10 新增 20 筆，圖片、創作論述與來源欄位完整。",
+  "imageEntries": 230,
   "imageBacklog": 0
 }
