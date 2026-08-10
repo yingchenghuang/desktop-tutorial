@@ -3,7 +3,7 @@
   'use strict';
 
   var REGION_ORDER = ['全球', '西方', '東亞', '南亞/中東', '非洲', '拉丁美洲', '大洋洲'];
-  var CAT_ORDER = ['藝術家', '作品/展覽', '藝術節', '機構', '平台', '媒體/資料庫'];
+  var CAT_ORDER = ['公開徵件', '藝術家', '作品/展覽', '藝術節', '機構', '平台', '媒體/資料庫'];
   var MEDIA_ORDER = ['雕塑', '裝置', '地景/大地藝術', '光/影像/投影', '數位/互動', '聲音/霧/水', '壁畫/街頭', '社會參與', '建築/場域', '紀念性公共藝術', '平台/策展'];
   var STATUS_ORDER = ['官方來源', '可信二手來源', '追蹤'];
 
@@ -55,6 +55,42 @@
     return match ? match[0] : '';
   }
 
+  function cityKeywords(raw) {
+    var source = [raw.country, raw.name, raw.works].join(' ');
+    var known = [
+      'Berlin','Nürnberg','Augsburg','Trier','Wittenberg','Oberpfaffenhofen','Görlitz',
+      'Klagenfurt','Tirol','San Francisco','Solana Beach','Fairfax','New York','Brooklyn',
+      'Los Angeles','London','Vancouver','Toronto','Copenhagen','Minneapolis','Seattle',
+      'San Sebastián','Capalbio','Münster','Taiwan','台灣','台中','臺中'
+    ];
+    var found = known.filter(function (city) { return source.toLowerCase().indexOf(city.toLowerCase()) >= 0; });
+    String(raw.country || '').split('/').slice(1).forEach(function (part) {
+      part.split(/[、,，]/).forEach(function (place) {
+        var clean = place.trim();
+        if (clean && clean.length <= 32) found.push(clean);
+      });
+    });
+    var aliases = {'柏林':'Berlin','紐約':'New York','纽约':'New York','倫敦':'London','伦敦':'London','溫哥華':'Vancouver','多倫多':'Toronto','哥本哈根':'Copenhagen','明尼亞波利斯':'Minneapolis','西雅圖':'Seattle','舊金山':'San Francisco','洛杉磯':'Los Angeles'};
+    Object.keys(aliases).forEach(function (alias) {
+      if (source.indexOf(alias) >= 0) found.push(aliases[alias]);
+    });
+    if (/JFK|LaGuardia/.test(source) && found.indexOf('New York') < 0) found.push('New York');
+    if (/KÖR Tirol|Kunst am Bau/.test(source)) found.push('德語區公共藝術');
+    return Array.from(new Set(found));
+  }
+
+  function isExpired(raw) {
+    if (!raw.deadline) return false;
+    var deadline = new Date(raw.deadline).getTime();
+    return Number.isFinite(deadline) && deadline <= Date.now();
+  }
+
+  function deadlineText(value) {
+    if (!value) return '';
+    var date = String(value).slice(0, 10).replace(/-/g, '.');
+    return date ? '截止 ' + date : '';
+  }
+
   function parseName(e) {
     var name = text(e.name);
     var m = name.match(/^(\d{1,3})[｜|.．、\-\s]+([^｜|]+)(?:[｜|](.+))?$/);
@@ -102,6 +138,9 @@
       classicDesc: text(raw.classicDesc),
       status: text(raw.status, links.length ? '可信二手來源' : '追蹤'),
       updated: updated,
+      deadline: text(raw.deadline),
+      deadlineLabel: text(raw.deadlineLabel) || deadlineText(raw.deadline),
+      cityKeywords: toArray(raw.cityKeywords).concat(cityKeywords(raw)).filter(function (v, i, a) { return a.indexOf(v) === i; }),
       rank: parsed.rank,
       displayName: parsed.main,
       subName: parsed.sub
@@ -110,7 +149,7 @@
       entry.name, entry.displayName, entry.subName, entry.country, entry.works, entry.comment,
       entry.artistStatement,
       entry.classicTitle, entry.classicDesc, entry.category, entry.tier, entry.region,
-      entry.status, entry.media.join(' ')
+      entry.status, entry.media.join(' '), entry.cityKeywords.join(' '), entry.deadlineLabel
     ].join(' ').toLowerCase();
     return entry;
   }
@@ -206,7 +245,9 @@
       ? '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.parentElement.classList.add(\'noimg\')">'
       : '';
     var rank = e.rank ? esc(e.rank) : String(i + 1).padStart(2, '0');
-    var tier = e.tier === '動態情報層' ? '<em class="tiermark">動態</em>' : '';
+    var tier = e.tier === '動態情報層' ? '<em class="tiermark">動態</em>' :
+      (e.tier === '競圖資料庫' ? '<em class="tiermark competition">競圖</em>' : '');
+    var cities = e.cityKeywords.length ? '<span class="city-tags">' + e.cityKeywords.slice(0, 2).map(function (city) { return '<i>#' + esc(city) + '</i>'; }).join('') + '</span>' : '';
 
     return '<button class="card enter" style="--i:' + Math.min(i, 14) + '" data-id="' + esc(e.id) + '">' +
       '<span class="card-head">' +
@@ -219,7 +260,8 @@
       '<span class="card-body">' +
         '<h3 class="card-name">' + esc(e.displayName) + '</h3>' +
         (e.subName ? '<p class="card-sub">' + esc(e.subName) + '</p>' : '') +
-        '<p class="card-country">' + esc(e.country) + ' · ' + displayDate(e.updated) + '</p>' +
+        '<p class="card-country">' + esc(e.country) + ' · ' + (e.deadlineLabel ? esc(e.deadlineLabel) : displayDate(e.updated)) + '</p>' +
+        cities +
         '<p class="card-comment">' + esc(e.comment) + '</p>' +
       '</span>' +
     '</button>';
@@ -338,8 +380,9 @@
     var e = DATA.find(function (x) { return x.id === id; });
     if (!e) return;
 
-    var badges = '<span class="badge ' + (e.tier === '動態情報層' ? 'dyn' : 'classic') + '">' + esc(e.tier) + '</span>' +
+    var badges = '<span class="badge ' + (e.tier === '經典檔案庫' ? 'classic' : 'dyn') + '">' + esc(e.tier) + '</span>' +
       '<span class="badge ' + statusClass(e.status) + '">' + esc(e.status) + '</span>' +
+      (e.deadlineLabel ? '<span class="badge deadline">' + esc(e.deadlineLabel) + '</span>' : '') +
       (e.rank ? '<span class="badge dyn">關注度 ' + esc(e.rank) + '</span>' : '');
 
     var fig = e.classicImage
@@ -375,6 +418,20 @@
     });
     if (links) links = '<div class="links">' + links + '</div>';
 
+    var related = DATA.filter(function (candidate) {
+      if (candidate.id === e.id) return false;
+      var crossDatabase = (e.tier === '競圖資料庫') !== (candidate.tier === '競圖資料庫');
+      return crossDatabase && candidate.cityKeywords.some(function (city) { return e.cityKeywords.indexOf(city) >= 0; });
+    }).slice(0, 6);
+    var relatedHtml = related.length
+      ? '<div class="block related-block"><div class="block-label">相關城市・跨資料庫</div><div class="related-list">' +
+        related.map(function (item) { return '<button data-related-id="' + esc(item.id) + '"><b>' + esc(item.displayName) + '</b><span>' + esc(item.tier) + ' · ' + esc(item.cityKeywords.join(' / ')) + '</span></button>'; }).join('') +
+        '</div></div>'
+      : '';
+    var cityHtml = e.cityKeywords.length
+      ? '<div class="block"><div class="block-label">城市關鍵字</div><span class="tags">' + e.cityKeywords.map(function (city) { return '<span class="tag">#' + esc(city) + '</span>'; }).join('') + '</span></div>'
+      : '';
+
     $('#panel').innerHTML =
       '<div class="panel-head"><div class="badges">' + badges + '</div>' +
       '<button class="close" id="sheetClose" aria-label="關閉">×</button></div>' +
@@ -384,7 +441,7 @@
       fig +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      artistStatement + works + mediaTags + links +
+      artistStatement + works + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
@@ -434,6 +491,19 @@
     });
 
     $('#backdrop').addEventListener('click', closeSheet);
+    $('#panel').addEventListener('click', function (ev) {
+      var relatedButton = ev.target.closest('[data-related-id]');
+      if (relatedButton) openSheet(relatedButton.dataset.relatedId);
+    });
+
+    document.querySelectorAll('[data-open-tier]').forEach(function (link) {
+      link.addEventListener('click', function () {
+        var tier = this.dataset.openTier;
+        state.tier = tier;
+        document.querySelectorAll('#segTier button').forEach(function (button) { button.classList.toggle('on', button.dataset.tier === tier); });
+        apply();
+      });
+    });
 
     document.addEventListener('keydown', function (ev) {
       if (ev.key === 'Escape' && $('#sheet').classList.contains('open')) closeSheet();
@@ -481,11 +551,15 @@
     });
   }
 
-  fetch('data/artists.json?t=' + Date.now())
-    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(function (json) {
+  Promise.all([
+    fetch('data/artists.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/competitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+  ])
+    .then(function (payloads) {
+      var json = payloads[0];
+      var competitions = payloads[1];
       META = json.meta || {};
-      var rawEntries = Array.isArray(json) ? json : (json.entries || []);
+      var rawEntries = (Array.isArray(json) ? json : (json.entries || [])).concat((competitions.entries || []).filter(function (entry) { return !isExpired(entry); }));
       DATA = rawEntries.map(normalizeEntry).filter(function (e) { return e.name && e.name !== '未命名條目'; });
       renderStats();
       buildChips();
