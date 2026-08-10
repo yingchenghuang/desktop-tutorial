@@ -246,7 +246,7 @@
       : '';
     var rank = e.rank ? esc(e.rank) : String(i + 1).padStart(2, '0');
     var tier = e.tier === '動態情報層' ? '<em class="tiermark">動態</em>' :
-      (e.tier === '競圖資料庫' ? '<em class="tiermark competition">競圖</em>' : '');
+      (e.tier === '競圖資料庫' ? '<em class="tiermark competition">公開徵選</em>' : '');
     var cities = e.cityKeywords.length ? '<span class="city-tags">' + e.cityKeywords.slice(0, 2).map(function (city) { return '<i>#' + esc(city) + '</i>'; }).join('') + '</span>' : '';
 
     return '<button class="card enter" style="--i:' + Math.min(i, 14) + '" data-id="' + esc(e.id) + '">' +
