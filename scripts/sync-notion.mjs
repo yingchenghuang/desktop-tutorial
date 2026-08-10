@@ -66,6 +66,10 @@ function dateValue(prop) {
   return prop?.date?.start || '';
 }
 
+function hashKeywords(prop) {
+  return plainText(prop).split(/\s+#/).map(value => value.replace(/^#/, '').trim()).filter(Boolean);
+}
+
 function firstAvailable(props, names, reader) {
   for (const name of names) {
     const value = reader(props[name]);
@@ -173,6 +177,9 @@ function toEntry(page, fallbackImage) {
     classicImage: urlValue(props['經典作品圖']) || fallbackImage,
     classicDesc: plainText(props['經典作品詳介']),
     status,
+    deadline: dateValue(props['截止日期']),
+    deadlineLabel: dateValue(props['截止日期']) ? `截止 ${dateValue(props['截止日期']).slice(0, 10).replaceAll('-', '.')}` : '',
+    cityKeywords: hashKeywords(props['城市關鍵字']),
     updated: dateValue(props['資訊更新日期']) || page.last_edited_time?.slice(0, 10) || ''
   };
 }
