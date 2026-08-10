@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-10-public-art-r4",
-  "generatedAt": "2026-08-10T05:00:00+08:00",
+  "version": "2026-08-11-public-art-r5",
+  "generatedAt": "2026-08-11T05:00:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -11,13 +11,14 @@
     "backfill-august-20260807.json",
     "backfill-august-20260808.json",
     "backfill-august-20260809.json",
-    "backfill-august-20260810.json"
+    "backfill-august-20260810.json",
+    "backfill-august-20260811.json"
   ],
-  "expectedEntries": 230,
-  "statementEntries": 230,
-  "statementSourceEntries": 230,
+  "expectedEntries": 250,
+  "statementEntries": 250,
+  "statementSourceEntries": 250,
   "statementBacklog": 0,
-  "note": "8 月每日資料索引已完整補至 2026-08-10；8/10 新增 20 筆，圖片、創作論述與來源欄位完整。",
-  "imageEntries": 230,
+  "note": "8 月每日資料索引已完整補至 2026-08-11；8/11 新增 15 筆公開徵件與 5 筆當期案例，圖片、資格、預算或未公開狀態、創作論述與來源欄位完整。",
+  "imageEntries": 250,
   "imageBacklog": 0
 }
