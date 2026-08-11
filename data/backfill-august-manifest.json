@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-12-public-art-and-competitions-r9",
+  "version": "2026-08-12-public-art-and-competitions-r10",
   "generatedAt": "2026-08-12T05:02:56+08:00",
   "files": [
     "backfill-august-20260801.json",
@@ -19,7 +19,7 @@
   "statementEntries": 270,
   "statementSourceEntries": 270,
   "statementBacklog": 0,
-  "note": "8/12 公共藝術固定 10＋5＋5，共 20 則；競圖維持獨立資料庫，另有 competition-manifest.json 管理有效數、截止時區與逾期清理。",
+  "note": "8/12 公共藝術固定 10＋5＋5，共 20 則；20 筆均保存 relatedByCity。競圖維持獨立資料庫，另有 competition-manifest.json 管理有效數、截止時區與逾期清理。",
   "imageEntries": 270,
   "imageBacklog": 0
 }
