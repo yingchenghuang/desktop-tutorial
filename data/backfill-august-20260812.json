@@ -6,135 +6,622 @@
   },
   "entries": [
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-01", "dedupeKey": "dynamic-2026-08-12-singha-hon-from-root-to-bloom",
-      "name": "01｜Singha Hon｜From Root to Bloom", "tier": "動態情報層", "region": "西方", "country": "美國 / New York / Harlem", "cityKeywords": ["New York", "Harlem"],
-      "media": ["壁畫/街頭", "社會參與", "紀念性公共藝術"], "works": "Marcus Garvey Park 暫時壁畫｜展至 2026.08.22",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-01",
+      "dedupeKey": "dynamic-2026-08-12-singha-hon-from-root-to-bloom",
+      "name": "01｜Singha Hon｜From Root to Bloom",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Harlem",
+      "cityKeywords": [
+        "New York",
+        "Harlem"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "紀念性公共藝術"
+      ],
+      "works": "Marcus Garvey Park 暫時壁畫｜展至 2026.08.22",
       "comment": "以社會正義運動的跨世代傳承為主題，將公共駐村研究轉化為公園入口壁畫，並以圖像書籤延伸至紐約三大公共圖書館系統。",
-      "website": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page", "workPage": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page", "artistStatement": "作品把當下的平權行動放進長時段的運動史，使入口空間成為記憶、教育與城市資源的共享介面。", "artistStatementSource": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page", "classicTitle": "From Root to Bloom", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page", "classicDesc": "從公園入口延伸到圖書館網絡的公共記憶計畫。"
+      "website": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page",
+      "workPage": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page",
+      "artistStatement": "作品把當下的平權行動放進長時段的運動史，使入口空間成為記憶、教育與城市資源的共享介面。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page",
+      "classicTitle": "From Root to Bloom",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-7-9-DCLA-and-MOERJ-Announce-New-Public-Artwork-at-Marcus-Garvey-Park-From-Root-to-Bloom-by-Artist-Singha-Hon-PAIR.page",
+      "classicDesc": "從公園入口延伸到圖書館網絡的公共記憶計畫。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-02", "dedupeKey": "dynamic-2026-08-12-venazir-martinez-shaping-of-new-york",
-      "name": "02｜Venazir Martinez｜The Shaping of New York", "tier": "動態情報層", "region": "西方", "country": "美國 / New York / Willets Point", "cityKeywords": ["New York", "Queens", "Willets Point"],
-      "media": ["壁畫/街頭", "社會參與", "建築/場域"], "works": "600 英尺工地圍籬公共藝術｜2026",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-02",
+      "dedupeKey": "dynamic-2026-08-12-venazir-martinez-shaping-of-new-york",
+      "name": "02｜Venazir Martinez｜The Shaping of New York",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Willets Point",
+      "cityKeywords": [
+        "New York",
+        "Queens",
+        "Willets Point"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "600 英尺工地圍籬公共藝術｜2026",
       "comment": "以移民口述與社區肖像包覆大型可負擔住宅工地，把通常排除視線的施工邊界改造成記錄街區形成過程的長幅城市畫卷。",
-      "website": "https://www.nyc.gov/site/dcla/about/2026-news.page", "workPage": "https://www.nyc.gov/site/dcla/about/2026-news.page", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/2026-news.page", "artistStatement": "圍籬在此不是暫時遮蔽物，而是讓移民敘事先於新建築進入公共視野的媒介。", "artistStatementSource": "https://www.nyc.gov/site/dcla/about/2026-news.page", "classicTitle": "The Shaping of New York", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/2026-news.page", "classicDesc": "以 600 英尺敘事牆記錄 Willets Point 的移民社群。"
+      "website": "https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "workPage": "https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "artistStatement": "圍籬在此不是暫時遮蔽物，而是讓移民敘事先於新建築進入公共視野的媒介。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "classicTitle": "The Shaping of New York",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "classicDesc": "以 600 英尺敘事牆記錄 Willets Point 的移民社群。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-03", "dedupeKey": "dynamic-2026-08-12-cc-stencil-fourth-avenue-tall-curb-mural",
-      "name": "03｜CC Stencil｜Fourth Avenue Tall Curb Mural", "tier": "動態情報層", "region": "西方", "country": "美國 / Seattle / Fourth Avenue", "cityKeywords": ["Seattle"],
-      "media": ["壁畫/街頭", "城市基礎設施", "建築/場域"], "works": "自行車道 Tall Curb 壁畫試點｜2026",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-03",
+      "dedupeKey": "dynamic-2026-08-12-cc-stencil-fourth-avenue-tall-curb-mural",
+      "name": "03｜CC Stencil｜Fourth Avenue Tall Curb Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle / Fourth Avenue",
+      "cityKeywords": [
+        "Seattle"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "城市基礎設施",
+        "建築/場域"
+      ],
+      "works": "自行車道 Tall Curb 壁畫試點｜2026",
       "comment": "Seattle Office of Arts & Culture 與 SDOT 把保護自行車道的高緣石當作可持續擴張的公共藝術載體，測試交通安全設施與街道視覺辨識的整合。",
-      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/", "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/", "artistStatement": "低尺度交通構件透過連續圖像獲得新的街道節奏，也讓基礎設施被日常通行者重新看見。", "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/", "classicTitle": "Fourth Avenue Tall Curb Mural", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/", "classicDesc": "把自行車道安全構件轉化為連續的街道畫面。"
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "低尺度交通構件透過連續圖像獲得新的街道節奏，也讓基礎設施被日常通行者重新看見。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "Fourth Avenue Tall Curb Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "把自行車道安全構件轉化為連續的街道畫面。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-04", "dedupeKey": "dynamic-2026-08-12-mimi-ditkoff-prall-playground-mural",
-      "name": "04｜Mimi Ditkoff｜Prall Playground Community Mural", "tier": "動態情報層", "region": "西方", "country": "美國 / New York / Staten Island", "cityKeywords": ["New York", "Staten Island"],
-      "media": ["壁畫/街頭", "社會參與"], "works": "Prall Playground 1,200 平方英尺社區壁畫｜2026",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-04",
+      "dedupeKey": "dynamic-2026-08-12-mimi-ditkoff-prall-playground-mural",
+      "name": "04｜Mimi Ditkoff｜Prall Playground Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Staten Island",
+      "cityKeywords": [
+        "New York",
+        "Staten Island"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與"
+      ],
+      "works": "Prall Playground 1,200 平方英尺社區壁畫｜2026",
       "comment": "Groundswell 與紐約市共同推動的城市壁畫之一，設計來自居民對話與問卷，完成後留作永久公共藝術，將共同創作嵌入遊戲場日常。",
-      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "artistStatement": "作品的公共性由社區前期對話與集體彩繪共同生成，壁面是長期關係的可見結果。", "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "classicTitle": "Prall Playground Community Mural", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "classicDesc": "由街區對話長成的 1,200 平方英尺遊戲場壁畫。"
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "作品的公共性由社區前期對話與集體彩繪共同生成，壁面是長期關係的可見結果。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Prall Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由街區對話長成的 1,200 平方英尺遊戲場壁畫。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-05", "dedupeKey": "dynamic-2026-08-12-lina-montoya-arrochar-playground-mural",
-      "name": "05｜Lina Montoya｜Arrochar Playground Community Mural", "tier": "動態情報層", "region": "西方", "country": "美國 / New York / Staten Island", "cityKeywords": ["New York", "Staten Island"],
-      "media": ["壁畫/街頭", "社會參與"], "works": "Arrochar Playground 1,200 平方英尺社區壁畫｜2026",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-05",
+      "dedupeKey": "dynamic-2026-08-12-lina-montoya-arrochar-playground-mural",
+      "name": "05｜Lina Montoya｜Arrochar Playground Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Staten Island",
+      "cityKeywords": [
+        "New York",
+        "Staten Island"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與"
+      ],
+      "works": "Arrochar Playground 1,200 平方英尺社區壁畫｜2026",
       "comment": "另一件 Groundswell 城市共同創作，以社區調查形成地方意象；作品在公共遊戲場長期保存，使兒少、家庭與藝術家共同定義街區代表圖像。",
-      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "artistStatement": "把青少年參與置於設計與製作核心，讓壁畫同時是圖像、學習現場與地方認同。", "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "classicTitle": "Arrochar Playground Community Mural", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c", "classicDesc": "兒少與居民共同定義的永久遊戲場壁畫。"
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "把青少年參與置於設計與製作核心，讓壁畫同時是圖像、學習現場與地方認同。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Arrochar Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "兒少與居民共同定義的永久遊戲場壁畫。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-06", "dedupeKey": "dynamic-2026-08-12-alex-proba-clouds-of-belonging",
-      "name": "06｜Alex Proba / StudioPROBA｜Clouds of Belonging", "tier": "動態情報層", "region": "西方", "country": "美國 / Seattle", "cityKeywords": ["Seattle"],
-      "media": ["裝置", "光/影像/投影", "建築/場域"], "works": "市中心廣場暫時公共藝術｜2026",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-06",
+      "dedupeKey": "dynamic-2026-08-12-alex-proba-clouds-of-belonging",
+      "name": "06｜Alex Proba / StudioPROBA｜Clouds of Belonging",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle"
+      ],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "市中心廣場暫時公共藝術｜2026",
       "comment": "作品把太平洋西北的天空與地景節奏轉成色彩、形式和光，利用市中心廣場的通行與停留時間，營造可辨識又具包容感的臨時聚集場。",
-      "website": "https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/", "workPage": "https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/", "artistStatement": "抽象色塊以天空變化為線索，讓硬質廣場在不同光況中呈現移動的歸屬感。", "artistStatementSource": "https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/", "classicTitle": "Clouds of Belonging", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/", "classicDesc": "把地方天空的流動轉譯成廣場中的色彩與光。"
+      "website": "https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/",
+      "workPage": "https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/",
+      "artistStatement": "抽象色塊以天空變化為線索，讓硬質廣場在不同光況中呈現移動的歸屬感。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/",
+      "classicTitle": "Clouds of Belonging",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/06/02/new-exhibitions-and-plaza-activations-on-june-first-thursday/",
+      "classicDesc": "把地方天空的流動轉譯成廣場中的色彩與光。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-07", "dedupeKey": "dynamic-2026-08-12-ruth-marshall-loreto-words-of-hope",
-      "name": "07｜Ruth Marshall｜Loreto Words of Hope", "tier": "動態情報層", "region": "西方", "country": "美國 / New York / Bronx", "cityKeywords": ["New York", "Bronx"],
-      "media": ["裝置", "社會參與", "建築/場域"], "works": "NYC Parks 公共藝術｜2026.07.31–2027.06.30",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-07",
+      "dedupeKey": "dynamic-2026-08-12-ruth-marshall-loreto-words-of-hope",
+      "name": "07｜Ruth Marshall｜Loreto Words of Hope",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Bronx",
+      "cityKeywords": [
+        "New York",
+        "Bronx"
+      ],
+      "media": [
+        "裝置",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "NYC Parks 公共藝術｜2026.07.31–2027.06.30",
       "comment": "現於 Bronx 公園系統展出的長期臨時作品，以纖維與文字實踐連結地方照護、希望與公共空間，使柔性工藝進入戶外制度場域。",
-      "website": "https://www.nycgovparks.org/art-and-antiquities/temporary-public-art", "workPage": "https://www.nycgovparks.org/art-and-antiquities/temporary-public-art", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/art-and-antiquities/temporary-public-art", "artistStatement": "柔性材料與手工勞動在公園中形成近身尺度的訊息，對抗城市資訊的速度與匿名性。", "artistStatementSource": "https://www.nycgovparks.org/art-and-antiquities/temporary-public-art", "classicTitle": "Loreto Words of Hope", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/art-and-antiquities/temporary-public-art", "classicDesc": "以纖維、文字與照護倫理介入 Bronx 公園。"
+      "website": "https://www.nycgovparks.org/art-and-antiquities/temporary-public-art",
+      "workPage": "https://www.nycgovparks.org/art-and-antiquities/temporary-public-art",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/art-and-antiquities/temporary-public-art",
+      "artistStatement": "柔性材料與手工勞動在公園中形成近身尺度的訊息，對抗城市資訊的速度與匿名性。",
+      "artistStatementSource": "https://www.nycgovparks.org/art-and-antiquities/temporary-public-art",
+      "classicTitle": "Loreto Words of Hope",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/art-and-antiquities/temporary-public-art",
+      "classicDesc": "以纖維、文字與照護倫理介入 Bronx 公園。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-08", "dedupeKey": "dynamic-2026-08-12-storyline-one-world-one-game",
-      "name": "08｜Storyline｜One World, One Game", "tier": "動態情報層", "region": "西方", "country": "美國 / New York / Five Boroughs", "cityKeywords": ["New York", "Five Boroughs"],
-      "media": ["光/影像/投影", "社會參與", "平台/策展"], "works": "世界盃城市公共藝術駐村多媒體計畫｜2026",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-08",
+      "dedupeKey": "dynamic-2026-08-12-storyline-one-world-one-game",
+      "name": "08｜Storyline｜One World, One Game",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Five Boroughs",
+      "cityKeywords": [
+        "New York",
+        "Five Boroughs"
+      ],
+      "media": [
+        "光/影像/投影",
+        "社會參與",
+        "平台/策展"
+      ],
+      "works": "世界盃城市公共藝術駐村多媒體計畫｜2026",
       "comment": "公共藝術駐村團隊跨紐約五區記錄移民街區、在地商家與國際社群的足球觀賽文化，將大型賽事轉化為分散式的城市影像與口述檔案。",
-      "website": "https://www.nyc.gov/site/dcla/about/2026-news.page", "workPage": "https://www.nyc.gov/site/dcla/about/2026-news.page", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/2026-news.page", "artistStatement": "以足球為共同語言，作品把全球賽事的注意力重新分配到移民日常、商業網絡與街區情感。", "artistStatementSource": "https://www.nyc.gov/site/dcla/about/2026-news.page", "classicTitle": "One World, One Game", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/2026-news.page", "classicDesc": "跨五區收集世界盃期間的移民社群城市影像。"
+      "website": "https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "workPage": "https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "artistStatement": "以足球為共同語言，作品把全球賽事的注意力重新分配到移民日常、商業網絡與街區情感。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "classicTitle": "One World, One Game",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/2026-news.page",
+      "classicDesc": "跨五區收集世界盃期間的移民社群城市影像。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-09", "dedupeKey": "dynamic-2026-08-12-alex-strada-public-address",
-      "name": "09｜Alex Strada｜Public Address", "tier": "動態情報層", "region": "西方", "country": "美國 / New York / Citywide", "cityKeywords": ["New York"],
-      "media": ["社會參與", "光/影像/投影", "平台/策展"], "works": "城市尺度公共藝術｜2025–2026",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-09",
+      "dedupeKey": "dynamic-2026-08-12-alex-strada-public-address",
+      "name": "09｜Alex Strada｜Public Address",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Citywide",
+      "cityKeywords": [
+        "New York"
+      ],
+      "media": [
+        "社會參與",
+        "光/影像/投影",
+        "平台/策展"
+      ],
+      "works": "城市尺度公共藝術｜2025–2026",
       "comment": "與 Storefront for Art and Architecture 合作，聚焦無家者與居住不穩定者的生活經驗，將臨時庇護作為權利與照護議題帶入城市公共討論。",
-      "website": "https://www.nyc.gov/site/dcla/publicart/pair.page", "workPage": "https://www.nyc.gov/site/dcla/publicart/pair.page", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/publicart/pair.page", "artistStatement": "作品以當事人的 lived experience 為知識核心，讓公共藝術成為對住宅制度發聲的城市平台。", "artistStatementSource": "https://www.nyc.gov/site/dcla/publicart/pair.page", "classicTitle": "Public Address", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/publicart/pair.page", "classicDesc": "以居住不穩定者的經驗重寫城市公共發言權。"
+      "website": "https://www.nyc.gov/site/dcla/publicart/pair.page",
+      "workPage": "https://www.nyc.gov/site/dcla/publicart/pair.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/publicart/pair.page",
+      "artistStatement": "作品以當事人的 lived experience 為知識核心，讓公共藝術成為對住宅制度發聲的城市平台。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/publicart/pair.page",
+      "classicTitle": "Public Address",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/publicart/pair.page",
+      "classicDesc": "以居住不穩定者的經驗重寫城市公共發言權。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "dynamic-2026-08-12-10", "dedupeKey": "dynamic-2026-08-12-oscar-tuazon-waterfront-park",
-      "name": "10｜Oscar Tuazon｜Waterfront Park Post-and-Beam Installation", "tier": "動態情報層", "region": "西方", "country": "美國 / Seattle / Waterfront Park", "cityKeywords": ["Seattle"],
-      "media": ["裝置", "建築/場域", "地景/大地藝術"], "works": "三街廓、22 組道格拉斯杉構架與 6 根獨立柱｜持續開放",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "dynamic-2026-08-12-10",
+      "dedupeKey": "dynamic-2026-08-12-oscar-tuazon-waterfront-park",
+      "name": "10｜Oscar Tuazon｜Waterfront Park Post-and-Beam Installation",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle / Waterfront Park",
+      "cityKeywords": [
+        "Seattle"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "地景/大地藝術"
+      ],
+      "works": "三街廓、22 組道格拉斯杉構架與 6 根獨立柱｜持續開放",
       "comment": "以在地原住民族沿岸建築形式為參照，長距離木構架定義新 Waterfront Park 的步行空間，使藝術、建築與海岸公共基礎設施無法被分開閱讀。",
-      "website": "https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/", "workPage": "https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/", "artistStatement": "重複木構件把海岸線的歷史建造知識轉成身體可穿越的空間秩序，也標示公共土地的文化來源。", "artistStatementSource": "https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/", "classicTitle": "Waterfront Park Post-and-Beam Installation", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/", "classicDesc": "以木構建築語彙串接三個街廓的海岸公共空間。"
+      "website": "https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/",
+      "workPage": "https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/",
+      "artistStatement": "重複木構件把海岸線的歷史建造知識轉成身體可穿越的空間秩序，也標示公共土地的文化來源。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/",
+      "classicTitle": "Waterfront Park Post-and-Beam Installation",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2025/12/15/art-on-the-waterfront/",
+      "classicDesc": "以木構建築語彙串接三個街廓的海岸公共空間。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-global-2026-08-12-01", "dedupeKey": "classic-global-patricia-johanson-fair-park-lagoon-dallas",
-      "name": "全球經典01｜Patricia Johanson｜Fair Park Lagoon", "tier": "經典檔案庫", "region": "西方", "country": "美國 / Dallas", "cityKeywords": ["Dallas"], "media": ["地景/大地藝術", "建築/場域", "社會參與"], "works": "Leonhardt Lagoon 生態地景與步道｜1981–1986",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-global-2026-08-12-01",
+      "dedupeKey": "classic-global-patricia-johanson-fair-park-lagoon-dallas",
+      "name": "全球經典01｜Patricia Johanson｜Fair Park Lagoon",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Dallas",
+      "cityKeywords": [
+        "Dallas"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "Leonhardt Lagoon 生態地景與步道｜1981–1986",
       "comment": "以兩種德州原生植物形態發展大型步道與棲地，將受損水體修復、雨洪、生物多樣性和公園使用整合為同一件可行走的環境藝術。",
-      "website": "https://patriciajohanson.com/projects/fair-park-lagoon.html", "workPage": "https://patriciajohanson.com/projects/fair-park-lagoon.html", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://patriciajohanson.com/projects/fair-park-lagoon.html", "artistStatement": "藝術不只描繪自然，而能以基礎設施尺度修復生態系並直接承載人的活動。", "artistStatementSource": "https://patriciajohanson.com/projects/fair-park-lagoon.html", "classicTitle": "Fair Park Lagoon", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://patriciajohanson.com/projects/fair-park-lagoon.html", "classicDesc": "把濕地修復、步道與雕塑合成一座可用的生態系。"
+      "website": "https://patriciajohanson.com/projects/fair-park-lagoon.html",
+      "workPage": "https://patriciajohanson.com/projects/fair-park-lagoon.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://patriciajohanson.com/projects/fair-park-lagoon.html",
+      "artistStatement": "藝術不只描繪自然，而能以基礎設施尺度修復生態系並直接承載人的活動。",
+      "artistStatementSource": "https://patriciajohanson.com/projects/fair-park-lagoon.html",
+      "classicTitle": "Fair Park Lagoon",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://patriciajohanson.com/projects/fair-park-lagoon.html",
+      "classicDesc": "把濕地修復、步道與雕塑合成一座可用的生態系。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-global-2026-08-12-02", "dedupeKey": "classic-global-mary-miss-south-cove-new-york",
-      "name": "全球經典02｜Mary Miss、Susan Child、Stan Eckstut｜South Cove", "tier": "經典檔案庫", "region": "西方", "country": "美國 / New York / Battery Park City", "cityKeywords": ["New York", "Battery Park City"], "media": ["建築/場域", "地景/大地藝術", "聲音/霧/水"], "works": "Hudson River 親水公共地景｜1984–1987",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-global-2026-08-12-02",
+      "dedupeKey": "classic-global-mary-miss-south-cove-new-york",
+      "name": "全球經典02｜Mary Miss、Susan Child、Stan Eckstut｜South Cove",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York / Battery Park City",
+      "cityKeywords": [
+        "New York",
+        "Battery Park City"
+      ],
+      "media": [
+        "建築/場域",
+        "地景/大地藝術",
+        "聲音/霧/水"
+      ],
+      "works": "Hudson River 親水公共地景｜1984–1987",
       "comment": "木棧道、觀景塔與下沉階梯讓使用者接近潮汐水面；作品以細微高差和行進路線，將填海岸線重新塑造成感知河流的公共室內外空間。",
-      "website": "https://bpca.ny.gov/place/south-cove/", "workPage": "https://bpca.ny.gov/place/south-cove/", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://bpca.ny.gov/place/south-cove/", "artistStatement": "公共空間可容納私人沉思；關鍵不在物件，而在身體與水面、風、潮汐之間被精確編排的距離。", "artistStatementSource": "https://marymiss.com/projects/south-cove/", "classicTitle": "South Cove", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://bpca.ny.gov/place/south-cove/", "classicDesc": "以路徑與高差讓城市身體重新接近 Hudson River。"
+      "website": "https://bpca.ny.gov/place/south-cove/",
+      "workPage": "https://bpca.ny.gov/place/south-cove/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://bpca.ny.gov/place/south-cove/",
+      "artistStatement": "公共空間可容納私人沉思；關鍵不在物件，而在身體與水面、風、潮汐之間被精確編排的距離。",
+      "artistStatementSource": "https://marymiss.com/projects/south-cove/",
+      "classicTitle": "South Cove",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://bpca.ny.gov/place/south-cove/",
+      "classicDesc": "以路徑與高差讓城市身體重新接近 Hudson River。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-global-2026-08-12-03", "dedupeKey": "classic-global-siah-armajani-bridge-over-tree",
-      "name": "全球經典03｜Siah Armajani｜Bridge Over Tree", "tier": "經典檔案庫", "region": "西方", "country": "美國 / Minneapolis、New York", "cityKeywords": ["Minneapolis", "New York", "Brooklyn"], "media": ["裝置", "建築/場域", "社會參與"], "works": "可步行木橋繞越一棵樹｜1970／2019 重製",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-global-2026-08-12-03",
+      "dedupeKey": "classic-global-siah-armajani-bridge-over-tree",
+      "name": "全球經典03｜Siah Armajani｜Bridge Over Tree",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Minneapolis、New York",
+      "cityKeywords": [
+        "Minneapolis",
+        "New York",
+        "Brooklyn"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "可步行木橋繞越一棵樹｜1970／2019 重製",
       "comment": "封閉側牆的長橋在中央抬升，迫使行人為一棵既存樹改變路徑；功能性與荒謬性並置，將橋從交通工具轉為關於連結、障礙與共同生活的命題。",
-      "website": "https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/", "workPage": "https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/", "artistStatement": "橋的民主性來自使用與相遇；它不消除差異，而是讓人為差異調整行動。", "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/", "classicTitle": "Bridge Over Tree", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/", "classicDesc": "一座因樹而彎折人類路徑的公共橋梁。"
+      "website": "https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/",
+      "artistStatement": "橋的民主性來自使用與相遇；它不消除差異，而是讓人為差異調整行動。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/",
+      "classicTitle": "Bridge Over Tree",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/siah-armajani-bridge-over-tree/",
+      "classicDesc": "一座因樹而彎折人類路徑的公共橋梁。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-global-2026-08-12-04", "dedupeKey": "classic-global-agnes-denes-wheatfield-a-confrontation",
-      "name": "全球經典04｜Agnes Denes｜Wheatfield — A Confrontation", "tier": "經典檔案庫", "region": "西方", "country": "美國 / New York / Battery Park Landfill", "cityKeywords": ["New York", "Battery Park City"], "media": ["地景/大地藝術", "社會參與", "建築/場域"], "works": "曼哈頓填海地 1.5 英畝麥田｜1982",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-global-2026-08-12-04",
+      "dedupeKey": "classic-global-agnes-denes-wheatfield-a-confrontation",
+      "name": "全球經典04｜Agnes Denes｜Wheatfield — A Confrontation",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York / Battery Park Landfill",
+      "cityKeywords": [
+        "New York",
+        "Battery Park City"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "曼哈頓填海地 1.5 英畝麥田｜1982",
       "comment": "在華爾街旁的高價土地手工開溝、播種、照料與收割小麥，以農業時間直接衝撞金融地景，具體化土地價值、食物、浪費與城市優先順序的矛盾。",
-      "website": "https://www.publicartfund.org/exhibitions/view/wheatfields-for-manhattan/", "workPage": "https://www.agnesdenesstudio.com/works7.html", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.agnesdenesstudio.com/works7.html", "artistStatement": "在最昂貴的城市土地上種植糧食，是以真實勞動而非象徵模型揭露經濟與生態價值的錯置。", "artistStatementSource": "https://www.agnesdenesstudio.com/works7.html", "classicTitle": "Wheatfield — A Confrontation", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.agnesdenesstudio.com/works7.html", "classicDesc": "以一季麥田挑戰曼哈頓土地的金融邏輯。"
+      "website": "https://www.publicartfund.org/exhibitions/view/wheatfields-for-manhattan/",
+      "workPage": "https://www.agnesdenesstudio.com/works7.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.agnesdenesstudio.com/works7.html",
+      "artistStatement": "在最昂貴的城市土地上種植糧食，是以真實勞動而非象徵模型揭露經濟與生態價值的錯置。",
+      "artistStatementSource": "https://www.agnesdenesstudio.com/works7.html",
+      "classicTitle": "Wheatfield — A Confrontation",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.agnesdenesstudio.com/works7.html",
+      "classicDesc": "以一季麥田挑戰曼哈頓土地的金融邏輯。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-global-2026-08-12-05", "dedupeKey": "classic-global-ant-farm-cadillac-ranch-amarillo",
-      "name": "全球經典05｜Ant Farm｜Cadillac Ranch", "tier": "經典檔案庫", "region": "西方", "country": "美國 / Amarillo", "cityKeywords": ["Amarillo"], "media": ["裝置", "地景/大地藝術", "社會參與"], "works": "十輛 Cadillac 車頭朝下埋入牧場｜1974",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-global-2026-08-12-05",
+      "dedupeKey": "classic-global-ant-farm-cadillac-ranch-amarillo",
+      "name": "全球經典05｜Ant Farm｜Cadillac Ranch",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Amarillo",
+      "cityKeywords": [
+        "Amarillo"
+      ],
+      "media": [
+        "裝置",
+        "地景/大地藝術",
+        "社會參與"
+      ],
+      "works": "十輛 Cadillac 車頭朝下埋入牧場｜1974",
       "comment": "十輛跨越尾翼設計年代的汽車以金字塔角度插入 Route 66 地景，並持續接受訪客噴漆，讓固定紀念物成為不斷被覆寫的公眾表面。",
-      "website": "https://www.amoa.org/cadillac-ranch-50", "workPage": "https://texastimetravel.com/directory/cadillac-ranch/", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.amoa.org/cadillac-ranch-50", "artistStatement": "汽車消費史被轉成可參與、可破壞、可再生的路邊紀念物，作者權威逐步讓位給公眾使用。", "artistStatementSource": "https://www.amoa.org/cadillac-ranch-50", "classicTitle": "Cadillac Ranch", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.amoa.org/cadillac-ranch-50", "classicDesc": "被公眾持續噴寫五十年的汽車地景紀念物。"
+      "website": "https://www.amoa.org/cadillac-ranch-50",
+      "workPage": "https://texastimetravel.com/directory/cadillac-ranch/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.amoa.org/cadillac-ranch-50",
+      "artistStatement": "汽車消費史被轉成可參與、可破壞、可再生的路邊紀念物，作者權威逐步讓位給公眾使用。",
+      "artistStatementSource": "https://www.amoa.org/cadillac-ranch-50",
+      "classicTitle": "Cadillac Ranch",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.amoa.org/cadillac-ranch-50",
+      "classicDesc": "被公眾持續噴寫五十年的汽車地景紀念物。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-german-2026-08-12-01", "dedupeKey": "classic-german-jonathan-borofsky-walking-man-munich",
-      "name": "德國經典01｜Jonathan Borofsky｜Walking Man", "tier": "經典檔案庫", "region": "西方", "country": "德國 / München / Leopoldstraße", "cityKeywords": ["München", "Munich"], "media": ["雕塑", "建築/場域"], "works": "白色步行人像｜1995｜高 17 m",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-german-2026-08-12-01",
+      "dedupeKey": "classic-german-jonathan-borofsky-walking-man-munich",
+      "name": "德國經典01｜Jonathan Borofsky｜Walking Man",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / München / Leopoldstraße",
+      "cityKeywords": [
+        "München",
+        "Munich"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "白色步行人像｜1995｜高 17 m",
       "comment": "超尺度白色人物跨步於金融與商業街廓，沒有基座的動勢使企業委託直接進入人行道視域，也改變 Leopoldstraße 的城市天際與辨識。",
-      "website": "https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf", "workPage": "https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf", "artistStatement": "以最日常的步行動作對抗雕塑的靜止與權威，巨大尺度則把個人身體轉成城市共同標誌。", "artistStatementSource": "https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf", "classicTitle": "Walking Man", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf", "classicDesc": "以跨步姿態占據慕尼黑商業街廓的巨大城市人物。"
+      "website": "https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf",
+      "workPage": "https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf",
+      "artistStatement": "以最日常的步行動作對抗雕塑的靜止與權威，巨大尺度則把個人身體轉成城市共同標誌。",
+      "artistStatementSource": "https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf",
+      "classicTitle": "Walking Man",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://stadt.muenchen.de/dam/jcr:94d1d6c1-b577-4b67-b0f1-03b944a0e0ed/broschuere_stadtgestaltungskommission_web.pdf",
+      "classicDesc": "以跨步姿態占據慕尼黑商業街廓的巨大城市人物。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-german-2026-08-12-02", "dedupeKey": "classic-german-matschinsky-denninghoff-berlin-broken-chain",
-      "name": "德國經典02｜Matschinsky-Denninghoff｜Berlin", "tier": "經典檔案庫", "region": "西方", "country": "德國 / Berlin / Tauentzienstraße", "cityKeywords": ["Berlin"], "media": ["雕塑", "紀念性公共藝術", "建築/場域"], "works": "四段鉻鎳鋼管城市雕塑｜1987",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-german-2026-08-12-02",
+      "dedupeKey": "classic-german-matschinsky-denninghoff-berlin-broken-chain",
+      "name": "德國經典02｜Matschinsky-Denninghoff｜Berlin",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin / Tauentzienstraße",
+      "cityKeywords": [
+        "Berlin"
+      ],
+      "media": [
+        "雕塑",
+        "紀念性公共藝術",
+        "建築/場域"
+      ],
+      "works": "四段鉻鎳鋼管城市雕塑｜1987",
       "comment": "兩組彎曲鋼束彼此接近卻未相連，1987 年為柏林建城 750 週年設置；作品以抽象斷鏈同時表達分裂與仍然相屬的城市狀態。",
-      "website": "https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html", "workPage": "https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html", "artistStatement": "金屬束的斷裂與對向運動把政治邊界濃縮為無須文字的空間張力。", "artistStatementSource": "https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html", "classicTitle": "Berlin（Broken Chain）", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html", "classicDesc": "以未相接的鋼束象徵分裂但仍互屬的柏林。"
+      "website": "https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html",
+      "workPage": "https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html",
+      "artistStatement": "金屬束的斷裂與對向運動把政治邊界濃縮為無須文字的空間張力。",
+      "artistStatementSource": "https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html",
+      "classicTitle": "Berlin（Broken Chain）",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/en/attractions-and-sights/3559941-3104052-tauentzienstrasse.en.html",
+      "classicDesc": "以未相接的鋼束象徵分裂但仍互屬的柏林。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-german-2026-08-12-03", "dedupeKey": "classic-german-claes-oldenburg-giant-pool-balls-munster",
-      "name": "德國經典03｜Claes Oldenburg｜Giant Pool Balls", "tier": "經典檔案庫", "region": "西方", "country": "德國 / Münster / Aasee", "cityKeywords": ["Münster"], "media": ["雕塑", "地景/大地藝術", "建築/場域"], "works": "三顆直徑 3.5 m 混凝土撞球｜Skulptur Projekte 1977",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-german-2026-08-12-03",
+      "dedupeKey": "classic-german-claes-oldenburg-giant-pool-balls-munster",
+      "name": "德國經典03｜Claes Oldenburg｜Giant Pool Balls",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster / Aasee",
+      "cityKeywords": [
+        "Münster"
+      ],
+      "media": [
+        "雕塑",
+        "地景/大地藝術",
+        "建築/場域"
+      ],
+      "works": "三顆直徑 3.5 m 混凝土撞球｜Skulptur Projekte 1977",
       "comment": "把 Aasee 草坡想像成巨大撞球桌，三個不可移動的球體卻製造滾動感；作品以尺度錯置連結城市戰爭史、休閒文化與湖岸地形。",
-      "website": "https://www.stadt-muenster.de/tourismus/kunst-kultur/skulpturen", "workPage": "https://www.stadt-muenster.de/galerie/skulpturen", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-muenster.de/tourismus/kunst-kultur/skulpturen", "artistStatement": "日常物件被放大後，觀者的尺度縮小，熟悉的公園瞬間成為可想像但不可完成的遊戲場。", "artistStatementSource": "https://www.stadt-muenster.de/tourismus/kunst-kultur/skulpturen", "classicTitle": "Giant Pool Balls", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-muenster.de/galerie/skulpturen", "classicDesc": "三顆混凝土巨球把 Aasee 草坡變成城市撞球桌。"
+      "website": "https://www.stadt-muenster.de/tourismus/kunst-kultur/skulpturen",
+      "workPage": "https://www.stadt-muenster.de/galerie/skulpturen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-muenster.de/tourismus/kunst-kultur/skulpturen",
+      "artistStatement": "日常物件被放大後，觀者的尺度縮小，熟悉的公園瞬間成為可想像但不可完成的遊戲場。",
+      "artistStatementSource": "https://www.stadt-muenster.de/tourismus/kunst-kultur/skulpturen",
+      "classicTitle": "Giant Pool Balls",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-muenster.de/galerie/skulpturen",
+      "classicDesc": "三顆混凝土巨球把 Aasee 草坡變成城市撞球桌。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-german-2026-08-12-04", "dedupeKey": "classic-german-niki-de-saint-phalle-nanas-hannover",
-      "name": "德國經典04｜Niki de Saint Phalle｜Nanas", "tier": "經典檔案庫", "region": "西方", "country": "德國 / Hannover / Leineufer", "cityKeywords": ["Hannover"], "media": ["雕塑", "社會參與", "建築/場域"], "works": "Sophie、Caroline、Charlotte 三件聚酯人物｜1974",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-german-2026-08-12-04",
+      "dedupeKey": "classic-german-niki-de-saint-phalle-nanas-hannover",
+      "name": "德國經典04｜Niki de Saint Phalle｜Nanas",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Hannover / Leineufer",
+      "cityKeywords": [
+        "Hannover"
+      ],
+      "media": [
+        "雕塑",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "Sophie、Caroline、Charlotte 三件聚酯人物｜1974",
       "comment": "三位色彩飽和、體態誇張的女性人物初設時引發抗議，卻促成 Hannover 首次深入的街道公共藝術辯論，後來成為城市最鮮明的公共標誌之一。",
-      "website": "https://www.hannover.de/Media/visit-hannover/Bilder/Kunst-im-%C3%B6ffentlichen-Raum/Skulpturenmeile/Niki-de-Saint-Phalle-%7C-Nanas", "workPage": "https://herrenhaeuser-gaerten.hannover.de/Herrenhausen-erleben/Grotte/Niki-de-Saint-Phalle", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hannover.de/Media/visit-hannover/Bilder/Kunst-im-%C3%B6ffentlichen-Raum/Skulpturenmeile/Niki-de-Saint-Phalle-%7C-Nanas", "artistStatement": "作品以歡愉、身體與女性主體性打破嚴肅紀念雕塑規範，其爭議本身成為公共藝術教育的歷史。", "artistStatementSource": "https://herrenhaeuser-gaerten.hannover.de/Herrenhausen-erleben/Grotte/Niki-de-Saint-Phalle", "classicTitle": "Nanas", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hannover.de/Media/visit-hannover/Bilder/Kunst-im-%C3%B6ffentlichen-Raum/Skulpturenmeile/Niki-de-Saint-Phalle-%7C-Nanas", "classicDesc": "從爭議走向城市象徵的三位彩色女性人物。"
+      "website": "https://www.hannover.de/Media/visit-hannover/Bilder/Kunst-im-%C3%B6ffentlichen-Raum/Skulpturenmeile/Niki-de-Saint-Phalle-%7C-Nanas",
+      "workPage": "https://herrenhaeuser-gaerten.hannover.de/Herrenhausen-erleben/Grotte/Niki-de-Saint-Phalle",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hannover.de/Media/visit-hannover/Bilder/Kunst-im-%C3%B6ffentlichen-Raum/Skulpturenmeile/Niki-de-Saint-Phalle-%7C-Nanas",
+      "artistStatement": "作品以歡愉、身體與女性主體性打破嚴肅紀念雕塑規範，其爭議本身成為公共藝術教育的歷史。",
+      "artistStatementSource": "https://herrenhaeuser-gaerten.hannover.de/Herrenhausen-erleben/Grotte/Niki-de-Saint-Phalle",
+      "classicTitle": "Nanas",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hannover.de/Media/visit-hannover/Bilder/Kunst-im-%C3%B6ffentlichen-Raum/Skulpturenmeile/Niki-de-Saint-Phalle-%7C-Nanas",
+      "classicDesc": "從爭議走向城市象徵的三位彩色女性人物。",
+      "relatedByCity": []
     },
     {
-      "category": "作品/展覽", "status": "官方來源", "updated": "2026-08-12", "id": "classic-german-2026-08-12-05", "dedupeKey": "classic-german-rachel-whiteread-judenplatz-holocaust-memorial-vienna",
-      "name": "德語經典05｜Rachel Whiteread｜Judenplatz Holocaust Memorial", "tier": "經典檔案庫", "region": "西方", "country": "奧地利 / Wien / Judenplatz", "cityKeywords": ["Wien", "Vienna"], "media": ["紀念性公共藝術", "雕塑", "建築/場域"], "works": "奧地利猶太人大屠殺受難者紀念碑｜2000",
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "classic-german-2026-08-12-05",
+      "dedupeKey": "classic-german-rachel-whiteread-judenplatz-holocaust-memorial-vienna",
+      "name": "德語經典05｜Rachel Whiteread｜Judenplatz Holocaust Memorial",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Wien / Judenplatz",
+      "cityKeywords": [
+        "Wien",
+        "Vienna"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "奧地利猶太人大屠殺受難者紀念碑｜2000",
       "comment": "向外翻轉的混凝土圖書館以不可讀書脊、封閉門扉和基地文字構成負空間，紀念遭納粹殺害的六萬五千名奧地利猶太人，也重塑中世紀猶太區廣場。",
-      "website": "https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah", "workPage": "https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah", "artistStatement": "不可進入、不可閱讀的圖書館讓缺席獲得體積，拒絕以具象再現替代無法回復的生命與文化。", "artistStatementSource": "https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah", "classicTitle": "Judenplatz Holocaust Memorial", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah", "classicDesc": "以不可閱讀的混凝土圖書館使歷史缺席獲得體積。"
+      "website": "https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah",
+      "workPage": "https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah",
+      "artistStatement": "不可進入、不可閱讀的圖書館讓缺席獲得體積，拒絕以具象再現替代無法回復的生命與文化。",
+      "artistStatementSource": "https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah",
+      "classicTitle": "Judenplatz Holocaust Memorial",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.geschichtewiki.wien.gv.at/Mahnmal_f%C3%BCr_die_%C3%B6sterreichischen_j%C3%BCdischen_Opfer_der_Shoah",
+      "classicDesc": "以不可閱讀的混凝土圖書館使歷史缺席獲得體積。",
+      "relatedByCity": []
     }
   ]
 }
