@@ -140,6 +140,13 @@
       updated: updated,
       deadline: text(raw.deadline),
       deadlineLabel: text(raw.deadlineLabel) || deadlineText(raw.deadline),
+      deadlineTimezone: text(raw.deadlineTimezone),
+      deadlinePrecision: text(raw.deadlinePrecision),
+      organizer: text(raw.organizer),
+      eligibility: text(raw.eligibility),
+      budget: text(raw.budget),
+      applicationFee: text(raw.applicationFee),
+      relatedByCity: toArray(raw.relatedByCity),
       cityKeywords: toArray(raw.cityKeywords).concat(cityKeywords(raw)).filter(function (v, i, a) { return a.indexOf(v) === i; }),
       rank: parsed.rank,
       displayName: parsed.main,
@@ -398,6 +405,13 @@
     var mediaTags = '<div class="block"><div class="block-label">媒介類型</div><span class="tags">' +
       e.media.map(function (m) { return '<span class="tag">' + esc(m) + '</span>'; }).join('') + '</span></div>';
 
+    var competitionDetails = e.tier === '競圖資料庫'
+      ? '<div class="block"><div class="block-label">競圖資訊</div><p class="works-line">' +
+        ['主辦 ' + (e.organizer || '未公開'), '資格 ' + (e.eligibility || '未公開'), '預算 ' + (e.budget || '未公開'), '申請費 ' + (e.applicationFee || '未公開'),
+          '時區 ' + (e.deadlineTimezone || '未公開') + ' · ' + (e.deadlinePrecision === 'date' ? '官方僅公布日期' : '官方公布時間')]
+          .map(function (value) { return esc(value); }).join('<em>·</em>') + '</p></div>'
+      : '';
+
     var artistStatement = e.artistStatement
       ? '<div class="block statement-block"><div class="block-label">創作者創作論述</div>' +
         '<p class="artist-statement">' + esc(e.artistStatement) + '</p>' +
@@ -441,7 +455,7 @@
       fig +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      artistStatement + works + mediaTags + cityHtml + relatedHtml + links +
+      artistStatement + works + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
@@ -553,14 +567,23 @@
 
   Promise.all([
     fetch('data/artists.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
-    fetch('data/competitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    fetch('data/competitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/competition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
   ])
     .then(function (payloads) {
       var json = payloads[0];
       var competitions = payloads[1];
       META = json.meta || {};
+      META.competitionManifestVersion = payloads[2].version || '';
       var rawEntries = (Array.isArray(json) ? json : (json.entries || [])).concat((competitions.entries || []).filter(function (entry) { return !isExpired(entry); }));
       DATA = rawEntries.map(normalizeEntry).filter(function (e) { return e.name && e.name !== '未命名條目'; });
+      DATA.forEach(function (entry) {
+        entry.relatedByCity = DATA.filter(function (candidate) {
+          if (candidate.id === entry.id) return false;
+          var crossDatabase = (entry.tier === '競圖資料庫') !== (candidate.tier === '競圖資料庫');
+          return crossDatabase && candidate.cityKeywords.some(function (city) { return entry.cityKeywords.indexOf(city) >= 0; });
+        }).map(function (candidate) { return candidate.id; });
+      });
       renderStats();
       buildChips();
       bind();
