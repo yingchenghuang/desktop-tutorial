@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generatedAt": "2026-08-12T05:00:00+08:00",
+    "generatedAt": "2026-08-13T05:00:00+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
-    "activeEntries": 19,
+    "activeEntries": 24,
     "addedToday": 5,
     "expiredRemoved": 0,
     "note": "競圖資料庫每日新增 5 則；保留全部未截止資料，只移除 deadline 已過期項目。"
@@ -20,7 +20,10 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "德國 / Oberpfaffenhofen",
-      "cityKeywords": ["Oberpfaffenhofen", "Weßling"],
+      "cityKeywords": [
+        "Oberpfaffenhofen",
+        "Weßling"
+      ],
       "media": [
         "Kunst am Bau",
         "光/影像/投影",
@@ -56,7 +59,10 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "德國 / Nürnberg",
-      "cityKeywords": ["Nürnberg", "Nuremberg"],
+      "cityKeywords": [
+        "Nürnberg",
+        "Nuremberg"
+      ],
       "media": [
         "Kunst am Bau",
         "雕塑",
@@ -92,7 +98,9 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "德國 / Augsburg",
-      "cityKeywords": ["Augsburg"],
+      "cityKeywords": [
+        "Augsburg"
+      ],
       "media": [
         "Kunst am Bau",
         "裝置",
@@ -128,7 +136,10 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "德國 / Berlin-Zehlendorf",
-      "cityKeywords": ["Berlin", "Zehlendorf"],
+      "cityKeywords": [
+        "Berlin",
+        "Zehlendorf"
+      ],
       "media": [
         "Kunst am Bau",
         "裝置",
@@ -152,7 +163,9 @@
       "eligibility": "德國全境專業藝術家",
       "budget": "總額 €300,000；最多兩件、每件上限 €150,000",
       "applicationFee": "未公開",
-      "relatedByCity": ["classic-german-2026-08-12-02"]
+      "relatedByCity": [
+        "classic-german-2026-08-12-02"
+      ]
     },
     {
       "category": "公開徵件",
@@ -164,7 +177,9 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "德國 / Trier",
-      "cityKeywords": ["Trier"],
+      "cityKeywords": [
+        "Trier"
+      ],
       "media": [
         "Kunst am Bau",
         "建築/場域",
@@ -200,7 +215,10 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "德國 / Lutherstadt Wittenberg",
-      "cityKeywords": ["Lutherstadt Wittenberg", "Wittenberg"],
+      "cityKeywords": [
+        "Lutherstadt Wittenberg",
+        "Wittenberg"
+      ],
       "media": [
         "Kunst am Bau",
         "建築/場域",
@@ -236,7 +254,10 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "奧地利 / Tirol",
-      "cityKeywords": ["Tirol", "Innsbruck"],
+      "cityKeywords": [
+        "Tirol",
+        "Innsbruck"
+      ],
       "media": [
         "表演/行為",
         "聲音/霧/水",
@@ -272,7 +293,9 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "奧地利 / Klagenfurt",
-      "cityKeywords": ["Klagenfurt"],
+      "cityKeywords": [
+        "Klagenfurt"
+      ],
       "media": [
         "Kunst am Bau",
         "療癒/健康",
@@ -308,7 +331,9 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "美國 / San Francisco",
-      "cityKeywords": ["San Francisco"],
+      "cityKeywords": [
+        "San Francisco"
+      ],
       "media": [
         "公共委託",
         "建築/場域",
@@ -344,7 +369,10 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "美國 / California",
-      "cityKeywords": ["Solana Beach", "San Diego"],
+      "cityKeywords": [
+        "Solana Beach",
+        "San Diego"
+      ],
       "media": [
         "暫時性作品",
         "雕塑",
@@ -380,7 +408,10 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "美國 / Virginia",
-      "cityKeywords": ["Fairfax", "Virginia"],
+      "cityKeywords": [
+        "Fairfax",
+        "Virginia"
+      ],
       "media": [
         "壁畫",
         "公園/地景",
@@ -416,7 +447,10 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "美國 / Virginia",
-      "cityKeywords": ["Fairfax", "Virginia"],
+      "cityKeywords": [
+        "Fairfax",
+        "Virginia"
+      ],
       "media": [
         "公共家具",
         "壁畫",
@@ -452,7 +486,10 @@
       "tier": "競圖資料庫",
       "region": "亞洲",
       "country": "台灣 / 國際徵件",
-      "cityKeywords": ["台中", "Taichung"],
+      "cityKeywords": [
+        "台中",
+        "Taichung"
+      ],
       "media": [
         "雕塑",
         "公共展示",
@@ -488,7 +525,9 @@
       "tier": "競圖資料庫",
       "region": "西方",
       "country": "德國 / Görlitz",
-      "cityKeywords": ["Görlitz"],
+      "cityKeywords": [
+        "Görlitz"
+      ],
       "media": [
         "裝置",
         "科學/科技",
@@ -515,39 +554,409 @@
       "relatedByCity": []
     },
     {
-      "category": "公開徵件", "status": "官方來源", "updated": "2026-08-12", "id": "competition-2026-08-12-01", "dedupeKey": "opportunity-2026-08-12-erie-county-small-works-buffalo",
-      "name": "15｜Erie County AIPP｜2026 Small Works", "tier": "競圖資料庫", "region": "西方", "country": "美國 / Buffalo, Erie County", "cityKeywords": ["Buffalo", "Erie County"],
-      "media": ["裝置", "建築/場域"], "works": "Buffalo Convention Center 館藏購置｜每件上限 US$2,000｜截止 2026.08.17 12:00 EDT",
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "competition-2026-08-12-01",
+      "dedupeKey": "opportunity-2026-08-12-erie-county-small-works-buffalo",
+      "name": "15｜Erie County AIPP｜2026 Small Works",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Buffalo, Erie County",
+      "cityKeywords": [
+        "Buffalo",
+        "Erie County"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Buffalo Convention Center 館藏購置｜每件上限 US$2,000｜截止 2026.08.17 12:00 EDT",
       "comment": "限 Erie County 居民，徵求已完成、可直接安裝的原作，每位最多三件；過去五年已完成該縣 AIPP 專案者不具資格。入選作品納入縣公共藝術典藏。",
-"website": "https://www4.erie.gov/publicart/2026-call-art-small-works", "workPage": "https://www4.erie.gov/publicart/2026-call-art-small-works", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www4.erie.gov/publicart/2026-call-art-small-works", "artistStatement": "以公共購置而非新製委託建立地方館藏，重點是作品可安裝性、品質與 Erie County 的社群代表性。", "artistStatementSource": "https://www4.erie.gov/publicart/2026-call-art-small-works", "classicTitle": "2026 Small Works", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www4.erie.gov/publicart/2026-call-art-small-works", "classicDesc": "為 Buffalo Convention Center 建立可輪調的地方公共藝術館藏。", "deadline": "2026-08-17T12:00:00-04:00", "deadlineLabel": "截止 2026.08.17", "deadlineTimezone": "America/New_York", "deadlinePrecision": "time", "organizer": "Erie County Arts in Public Places", "eligibility": "僅限 Erie County 居民；近五年已完成該縣 AIPP 專案者不具資格", "budget": "每件購置上限 US$2,000", "applicationFee": "未公開", "relatedByCity": []
+      "website": "https://www4.erie.gov/publicart/2026-call-art-small-works",
+      "workPage": "https://www4.erie.gov/publicart/2026-call-art-small-works",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www4.erie.gov/publicart/2026-call-art-small-works",
+      "artistStatement": "以公共購置而非新製委託建立地方館藏，重點是作品可安裝性、品質與 Erie County 的社群代表性。",
+      "artistStatementSource": "https://www4.erie.gov/publicart/2026-call-art-small-works",
+      "classicTitle": "2026 Small Works",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www4.erie.gov/publicart/2026-call-art-small-works",
+      "classicDesc": "為 Buffalo Convention Center 建立可輪調的地方公共藝術館藏。",
+      "deadline": "2026-08-17T12:00:00-04:00",
+      "deadlineLabel": "截止 2026.08.17",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "time",
+      "organizer": "Erie County Arts in Public Places",
+      "eligibility": "僅限 Erie County 居民；近五年已完成該縣 AIPP 專案者不具資格",
+      "budget": "每件購置上限 US$2,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     },
     {
-      "category": "公開徵件", "status": "官方來源", "updated": "2026-08-12", "id": "competition-2026-08-12-02", "dedupeKey": "opportunity-2026-08-12-redmond-lights-temporary-public-art",
-      "name": "16｜Redmond Lights｜Temporary Public Art Call", "tier": "競圖資料庫", "region": "西方", "country": "美國 / Redmond, Washington", "cityKeywords": ["Redmond", "Seattle"],
-      "media": ["光/影像/投影", "裝置", "數位/互動"], "works": "Downtown Park／Esterra Park 燈光裝置｜每案最高 US$5,000｜截止 2026.08.30 23:00 PDT",
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "competition-2026-08-12-02",
+      "dedupeKey": "opportunity-2026-08-12-redmond-lights-temporary-public-art",
+      "name": "16｜Redmond Lights｜Temporary Public Art Call",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Redmond, Washington",
+      "cityKeywords": [
+        "Redmond",
+        "Seattle"
+      ],
+      "media": [
+        "光/影像/投影",
+        "裝置",
+        "數位/互動"
+      ],
+      "works": "Downtown Park／Esterra Park 燈光裝置｜每案最高 US$5,000｜截止 2026.08.30 23:00 PDT",
       "comment": "個人或團隊可提一案新作或既有作，須為防水、獨立穩固且可在戶外連續展示一個月的發光作品；可含投影、LED、AR、感測與非擴音聲響。",
-      "website": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290", "workPage": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290", "artistStatement": "徵件把冬季夜間公園視為可短期重寫的公共介面，要求日夜皆可讀、低維護且不留下場地痕跡。", "artistStatementSource": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290", "classicTitle": "Redmond Lights 2026", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290", "classicDesc": "以燈光、AR 與互動裝置重塑兩座冬季公園。", "deadline": "2026-08-30T23:00:00-07:00", "deadlineLabel": "截止 2026.08.30", "deadlineTimezone": "America/Los_Angeles", "deadlinePrecision": "time", "organizer": "City of Redmond", "eligibility": "個人或團隊；每人或每隊限一案", "budget": "每案最高 US$5,000", "applicationFee": "未公開", "relatedByCity": ["dynamic-2026-08-12-03","dynamic-2026-08-12-06","dynamic-2026-08-12-10"]
+      "website": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "workPage": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "artistStatement": "徵件把冬季夜間公園視為可短期重寫的公共介面，要求日夜皆可讀、低維護且不留下場地痕跡。",
+      "artistStatementSource": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "classicTitle": "Redmond Lights 2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "classicDesc": "以燈光、AR 與互動裝置重塑兩座冬季公園。",
+      "deadline": "2026-08-30T23:00:00-07:00",
+      "deadlineLabel": "截止 2026.08.30",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Redmond",
+      "eligibility": "個人或團隊；每人或每隊限一案",
+      "budget": "每案最高 US$5,000",
+      "applicationFee": "未公開",
+      "relatedByCity": [
+        "dynamic-2026-08-12-03",
+        "dynamic-2026-08-12-06",
+        "dynamic-2026-08-12-10"
+      ]
     },
     {
-      "category": "公開徵件", "status": "官方來源", "updated": "2026-08-12", "id": "competition-2026-08-12-03", "dedupeKey": "opportunity-2026-08-12-surprise-police-substation-artwork",
-      "name": "17｜City of Surprise｜Police Substation Artwork", "tier": "競圖資料庫", "region": "西方", "country": "美國 / Surprise, Arizona", "cityKeywords": ["Surprise", "Phoenix"],
-      "media": ["雕塑", "建築/場域", "光/影像/投影"], "works": "警察分局外牆永久公共藝術｜US$165,000｜截止 2026.08.31 23:59 Arizona Time",
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "competition-2026-08-12-03",
+      "dedupeKey": "opportunity-2026-08-12-surprise-police-substation-artwork",
+      "name": "17｜City of Surprise｜Police Substation Artwork",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Surprise, Arizona",
+      "cityKeywords": [
+        "Surprise",
+        "Phoenix"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "光/影像/投影"
+      ],
+      "works": "警察分局外牆永久公共藝術｜US$165,000｜截止 2026.08.31 23:59 Arizona Time",
       "comment": "開放專業藝術家與團隊，徵求可附著於 154 英尺長外牆、適應索諾蘭沙漠的耐久作品。最多三組決選者各獲 US$1,500 及旅宿，作品需回應服務、正直與正義。",
-      "website": "https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829", "workPage": "https://content.civicplus.com/api/assets/az-surprise/d22f17ba-10fc-4973-acdc-1b5fe4c358be", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829", "artistStatement": "外牆既是高速通行者看到的城市門面，也是公權力與社區關係的界面，作品須兼顧象徵、耐候與日夜辨識。", "artistStatementSource": "https://content.civicplus.com/api/assets/az-surprise/d22f17ba-10fc-4973-acdc-1b5fe4c358be", "classicTitle": "Police Substation Artwork", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829", "classicDesc": "在沙漠氣候中建立兼具服務與社區意義的分局地標。", "deadline": "2026-08-31T23:59:00-07:00", "deadlineLabel": "截止 2026.08.31", "deadlineTimezone": "America/Phoenix", "deadlinePrecision": "time", "organizer": "City of Surprise Arts & Culture Division", "eligibility": "專業藝術家與藝術團隊", "budget": "US$165,000；最多三組決選者各獲 US$1,500 及旅宿", "applicationFee": "未公開", "relatedByCity": []
+      "website": "https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829",
+      "workPage": "https://content.civicplus.com/api/assets/az-surprise/d22f17ba-10fc-4973-acdc-1b5fe4c358be",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829",
+      "artistStatement": "外牆既是高速通行者看到的城市門面，也是公權力與社區關係的界面，作品須兼顧象徵、耐候與日夜辨識。",
+      "artistStatementSource": "https://content.civicplus.com/api/assets/az-surprise/d22f17ba-10fc-4973-acdc-1b5fe4c358be",
+      "classicTitle": "Police Substation Artwork",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829",
+      "classicDesc": "在沙漠氣候中建立兼具服務與社區意義的分局地標。",
+      "deadline": "2026-08-31T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.08.31",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "City of Surprise Arts & Culture Division",
+      "eligibility": "專業藝術家與藝術團隊",
+      "budget": "US$165,000；最多三組決選者各獲 US$1,500 及旅宿",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     },
     {
-      "category": "公開徵件", "status": "官方來源", "updated": "2026-08-12", "id": "competition-2026-08-12-04", "dedupeKey": "opportunity-2026-08-12-sarasota-one-stop-shop-public-art",
-      "name": "18｜City of Sarasota｜One Stop Shop Public Art", "tier": "競圖資料庫", "region": "西方", "country": "美國 / Sarasota, Florida", "cityKeywords": ["Sarasota"],
-      "media": ["雕塑", "壁畫/街頭", "光/影像/投影", "建築/場域"], "works": "One Stop Shop 公共藝術｜US$100,000｜截止 2026.08.31 23:59 EDT",
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "competition-2026-08-12-04",
+      "dedupeKey": "opportunity-2026-08-12-sarasota-one-stop-shop-public-art",
+      "name": "18｜City of Sarasota｜One Stop Shop Public Art",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Sarasota, Florida",
+      "cityKeywords": [
+        "Sarasota"
+      ],
+      "media": [
+        "雕塑",
+        "壁畫/街頭",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "One Stop Shop 公共藝術｜US$100,000｜截止 2026.08.31 23:59 EDT",
       "comment": "開放藝術家與團隊提交資格，可採雕塑、建築整合、壁畫、浮雕、馬賽克、光或混合媒材。九月由利害關係人評審選出三組決選者。",
-      "website": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists", "workPage": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists", "artistStatement": "市政單一服務窗口需要跨媒材作品把行政效率轉成可辨識、友善且具地方感的公共空間經驗。", "artistStatementSource": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists", "classicTitle": "One Stop Shop Public Art", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists", "classicDesc": "以多元媒材介入新的市政整合服務場域。", "deadline": "2026-08-31T23:59:59-04:00", "deadlineLabel": "截止 2026.08.31", "deadlineTimezone": "America/New_York", "deadlinePrecision": "date", "organizer": "City of Sarasota Public Art Program", "eligibility": "藝術家與藝術團隊", "budget": "US$100,000", "applicationFee": "未公開", "relatedByCity": []
+      "website": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "workPage": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "artistStatement": "市政單一服務窗口需要跨媒材作品把行政效率轉成可辨識、友善且具地方感的公共空間經驗。",
+      "artistStatementSource": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "classicTitle": "One Stop Shop Public Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "classicDesc": "以多元媒材介入新的市政整合服務場域。",
+      "deadline": "2026-08-31T23:59:59-04:00",
+      "deadlineLabel": "截止 2026.08.31",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "date",
+      "organizer": "City of Sarasota Public Art Program",
+      "eligibility": "藝術家與藝術團隊",
+      "budget": "US$100,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     },
     {
-      "category": "公開徵件", "status": "官方來源", "updated": "2026-08-12", "id": "competition-2026-08-12-05", "dedupeKey": "opportunity-2026-08-12-aqua-crest-aquatic-complex-tile-art",
-      "name": "19｜Palm Beach County｜Aqua Crest Tile Art", "tier": "競圖資料庫", "region": "西方", "country": "美國 / Delray Beach, Florida", "cityKeywords": ["Delray Beach", "Palm Beach County"],
-      "media": ["建築/場域", "裝置", "壁畫/街頭"], "works": "水上運動中心建築整合磁磚藝術｜US$348,000｜截止 2026.10.19 23:59 EDT",
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "competition-2026-08-12-05",
+      "dedupeKey": "opportunity-2026-08-12-aqua-crest-aquatic-complex-tile-art",
+      "name": "19｜Palm Beach County｜Aqua Crest Tile Art",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Delray Beach, Florida",
+      "cityKeywords": [
+        "Delray Beach",
+        "Palm Beach County"
+      ],
+      "media": [
+        "建築/場域",
+        "裝置",
+        "壁畫/街頭"
+      ],
+      "works": "水上運動中心建築整合磁磚藝術｜US$348,000｜截止 2026.10.19 23:59 EDT",
       "comment": "開放具大型建築整合磁磚藝術設計、製作與安裝經驗的成年專業藝術家或團隊；媒材可含陶、瓷、石與玻璃，三組入圍者各獲 US$1,000。",
-      "website": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx", "workPage": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx", "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx", "artistStatement": "作品須以平整、耐鹽霧與耐颶風的磁磚系統包覆入口建築上段，讓水上運動與社群健康轉成連續立面。", "artistStatementSource": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx", "classicTitle": "Aqua Crest Aquatic Complex Tile Art", "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx", "classicDesc": "以耐候磁磚將競技、休閒與水的意象整合到入口建築。", "deadline": "2026-10-19T23:59:00-04:00", "deadlineLabel": "截止 2026.10.19", "deadlineTimezone": "America/New_York", "deadlinePrecision": "time", "organizer": "Palm Beach County Art in Public Places", "eligibility": "具大型建築整合磁磚藝術經驗的成年專業藝術家或團隊", "budget": "US$348,000；三組入圍者各獲 US$1,000", "applicationFee": "未公開", "relatedByCity": []
+      "website": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "workPage": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "artistStatement": "作品須以平整、耐鹽霧與耐颶風的磁磚系統包覆入口建築上段，讓水上運動與社群健康轉成連續立面。",
+      "artistStatementSource": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "classicTitle": "Aqua Crest Aquatic Complex Tile Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "classicDesc": "以耐候磁磚將競技、休閒與水的意象整合到入口建築。",
+      "deadline": "2026-10-19T23:59:00-04:00",
+      "deadlineLabel": "截止 2026.10.19",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "time",
+      "organizer": "Palm Beach County Art in Public Places",
+      "eligibility": "具大型建築整合磁磚藝術經驗的成年專業藝術家或團隊",
+      "budget": "US$348,000；三組入圍者各獲 US$1,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "competition-2026-08-13-01",
+      "dedupeKey": "opportunity-2026-08-13-el-segundo-teen-center-public-art",
+      "name": "20｜City of El Segundo｜Teen Center Public Art",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / El Segundo, California",
+      "cityKeywords": [
+        "El Segundo",
+        "Los Angeles"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "青少年中心場域特定公共藝術 RFQ｜截止 2026.09.16 11:00 PDT",
+      "comment": "市府先以資格審查選出三組藝術家進入提案階段，作品需成為整建後 Teen Center 的視覺焦點，回應青少年社群的活力、創造力、多樣性與場所認同。",
+      "website": "https://www.elsegundo.gov/Home/Components/RFP/RFP/257/",
+      "workPage": "https://www.elsegundo.gov/Home/Components/RFP/RFP/257/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.elsegundo.gov/Home/Components/RFP/RFP/257/",
+      "artistStatement": "此案的核心不是單一裝飾物，而是讓使用中心的青少年能在更新後的公共環境中看見自身能量與共同所有權。",
+      "artistStatementSource": "https://www.elsegundo.gov/Home/Components/RFP/RFP/257/",
+      "classicTitle": "Teen Center Public Art RFQ",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.elsegundo.gov/Home/Components/RFP/RFP/257/",
+      "classicDesc": "為青少年中心建立可認同、可聚集的場域特定公共藝術。",
+      "deadline": "2026-09-16T11:00:00-07:00",
+      "deadlineLabel": "截止 2026.09.16",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of El Segundo",
+      "eligibility": "專業藝術家或藝術家團隊；詳細資格依官方 RFQ",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "competition-2026-08-13-02",
+      "dedupeKey": "opportunity-2026-08-13-raleigh-reflecting-raleigh-artist-residence",
+      "name": "21｜City of Raleigh｜Reflecting Raleigh",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Raleigh, North Carolina",
+      "cityKeywords": [
+        "Raleigh"
+      ],
+      "media": [
+        "社會參與",
+        "駐村",
+        "平台/策展"
+      ],
+      "works": "都市綜合計畫藝術家駐村與公共藝術｜截止 2026.08.17 23:59 EDT",
+      "comment": "Raleigh Planning and Development 徵求藝術家駐村參與社區溝通，並把下一版 Comprehensive Plan 的主要議題轉化為公共藝術；重點是規劃過程中的共同研究與公共表達。",
+      "website": "https://raleighnc.gov/arts/services/artist-calls",
+      "workPage": "https://raleighnc.gov/arts/services/artist-calls",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://raleighnc.gov/arts/services/artist-calls",
+      "artistStatement": "藝術家被放進都市規劃前端，以創作方法協助居民形成意見，而非等計畫完成後才提供裝飾。",
+      "artistStatementSource": "https://raleighnc.gov/arts/services/artist-calls",
+      "classicTitle": "Reflecting Raleigh Artist Call",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://raleighnc.gov/arts/services/artist-calls",
+      "classicDesc": "以藝術家駐村串接居民經驗與下一版都市綜合計畫。",
+      "deadline": "2026-08-17T23:59:00-04:00",
+      "deadlineLabel": "截止 2026.08.17",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "time",
+      "organizer": "City of Raleigh Planning and Development / Raleigh Arts",
+      "eligibility": "藝術家或藝術家團隊；詳細資格依官方 Artist Call",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "competition-2026-08-13-03",
+      "dedupeKey": "opportunity-2026-08-13-scottsdale-temporary-mural-water",
+      "name": "22｜Scottsdale Public Art｜Temporary Mural",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Scottsdale, Arizona",
+      "cityKeywords": [
+        "Scottsdale",
+        "Phoenix"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "城市基礎設施",
+        "建築/場域"
+      ],
+      "works": "供水設施兩年期戶外壁畫｜預算 US$10,000｜截止 2026.08.17 23:59 MST",
+      "comment": "限 Arizona 藝術家，以 RFQ 徵選能在城市水管立管與 SRP 井體創作戶外壁畫的團隊；主題需回應水或運河系統，完成後展示兩年並由藝術家負責必要維護。",
+      "website": "https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/temporary-mural-public-art-call-for-art/",
+      "workPage": "https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/temporary-mural-public-art-call-for-art/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/temporary-mural-public-art-call-for-art/",
+      "artistStatement": "小型基礎設施被視為能長期傳達水資源與運河歷史的公共表面，提案需同時證明圖像能力、耐候與維護可行性。",
+      "artistStatementSource": "https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/temporary-mural-public-art-call-for-art/",
+      "classicTitle": "Temporary Mural Public Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/temporary-mural-public-art-call-for-art/",
+      "classicDesc": "把水與運河系統轉化為 Scottsdale 公共設施的兩年期壁畫。",
+      "deadline": "2026-08-17T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.08.17",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "Scottsdale Public Art",
+      "eligibility": "Arizona 藝術家或藝術家團隊",
+      "budget": "US$10,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "competition-2026-08-13-04",
+      "dedupeKey": "opportunity-2026-08-13-denver-rosamond-park-public-art",
+      "name": "23｜Denver Public Art｜Rosamond Park",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Denver, Colorado",
+      "cityKeywords": [
+        "Denver"
+      ],
+      "media": [
+        "雕塑",
+        "地景/大地藝術",
+        "建築/場域"
+      ],
+      "works": "Rosamond Park 永久公共藝術 RFQ｜預算約 US$95,000｜截止 2026.08.17 23:59 MDT",
+      "comment": "開放美國境內藝術家或團隊，以資格審查徵選 Rosamond Park 原創公共藝術；作品需回應公園使用、社區環境與戶外耐久性，預算包含設計、製作與安裝。",
+      "website": "https://denverpublicart.org/for-artists/",
+      "workPage": "https://denverpublicart.org/for-artists/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://denverpublicart.org/for-artists/",
+      "artistStatement": "公園委託需要把物件、地景和使用者動線一起思考，先以過往經驗證明能完成近十萬美元的戶外長期作品。",
+      "artistStatementSource": "https://denverpublicart.org/for-artists/",
+      "classicTitle": "Rosamond Park Public Art RFQ",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://denverpublicart.org/for-artists/",
+      "classicDesc": "以九萬五千美元永久委託建立 Denver 公園新地標。",
+      "deadline": "2026-08-17T23:59:00-06:00",
+      "deadlineLabel": "截止 2026.08.17",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "Denver Public Art",
+      "eligibility": "美國境內藝術家或藝術家團隊",
+      "budget": "約 US$95,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "competition-2026-08-13-05",
+      "dedupeKey": "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+      "name": "24｜NYC ESCR｜Call for Art 2026",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / New York / East Village",
+      "cityKeywords": [
+        "New York",
+        "Manhattan",
+        "East Village",
+        "East River Park"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "城市基礎設施"
+      ],
+      "works": "East River 防洪工程圍籬平面作品徵集｜截止 2026.10.16",
+      "comment": "面向 East 10th Street 與 East River Park 周邊居民及各年齡藝術家，入選作品將放大印製於施工圍籬；建議主題包括紐約濱水文化、身分故事與氣候韌性。",
+      "website": "https://www.nyc.gov/site/escr/community-engagement/call-for-art.page",
+      "workPage": "https://www.nyc.gov/site/escr/community-engagement/call-for-art.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/escr/community-engagement/call-for-art.page",
+      "artistStatement": "施工邊界在長期防洪工程中成為可見度極高的公共介面，作品可把氣候韌性從工程語言轉成在地居民的圖像敘事。",
+      "artistStatementSource": "https://www.nyc.gov/site/escr/community-engagement/call-for-art.page",
+      "classicTitle": "Call for Art 2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/escr/community-engagement/call-for-art.page",
+      "classicDesc": "把濱水記憶與氣候韌性放大到 East River 工程圍籬。",
+      "deadline": "2026-10-16T23:59:00-04:00",
+      "deadlineLabel": "截止 2026.10.16",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "date",
+      "organizer": "NYC East Side Coastal Resiliency（ESCR）",
+      "eligibility": "East 10th Street、East River Park 周邊居民與各年齡藝術家",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": [
+        "dynamic-2026-08-13-01",
+        "dynamic-2026-08-13-02",
+        "dynamic-2026-08-13-03",
+        "dynamic-2026-08-13-04",
+        "dynamic-2026-08-13-05",
+        "dynamic-2026-08-13-06",
+        "dynamic-2026-08-13-07",
+        "dynamic-2026-08-13-08",
+        "dynamic-2026-08-13-09",
+        "dynamic-2026-08-13-10",
+        "classic-global-2026-08-13-05"
+      ]
     }
   ]
 }
