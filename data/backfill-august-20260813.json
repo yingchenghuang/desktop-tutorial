@@ -1,0 +1,607 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-13T05:00:00+08:00",
+    "source": "公共藝術機構、藝術家、城市政府與文化機構官方來源",
+    "note": "2026-08-13：10 筆當期／持續開放案例、5 筆全球經典、5 筆德國公共藝術脈絡經典；共 20 筆。"
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-01",
+      "dedupeKey": "dynamic-2026-08-13-angel-garcia-walton-playground-community-mural",
+      "name": "01｜Angel Garcia｜Walton Playground Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Bronx / Fordham Heights",
+      "cityKeywords": [
+        "New York",
+        "Bronx",
+        "Fordham Heights"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "880 平方英尺社區共創壁畫｜2026",
+      "comment": "Groundswell 與紐約市合作的世界盃公共藝術計畫，以居民訪談、青年參與及社區彩繪共同完成 880 平方英尺壁畫；作品完成後留在公園，讓地方文化與公共記憶成為日常環境的一部分。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "公共性不只來自作品位於戶外，更來自居民在設計與製作過程中共同決定街區如何被看見。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Walton Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由青年、藝術家與居民共同形成的 Bronx / Fordham Heights 公園壁畫。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-02",
+      "dedupeKey": "dynamic-2026-08-13-vash-franz-sigel-park-community-mural",
+      "name": "02｜VASH｜Franz Sigel Park Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Bronx / South Bronx",
+      "cityKeywords": [
+        "New York",
+        "Bronx",
+        "South Bronx"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "1,200 平方英尺社區共創壁畫｜2026",
+      "comment": "Groundswell 與紐約市合作的世界盃公共藝術計畫，以居民訪談、青年參與及社區彩繪共同完成 1,200 平方英尺壁畫；作品完成後留在公園，讓地方文化與公共記憶成為日常環境的一部分。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "公共性不只來自作品位於戶外，更來自居民在設計與製作過程中共同決定街區如何被看見。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Franz Sigel Park Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由青年、藝術家與居民共同形成的 Bronx / South Bronx 公園壁畫。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-03",
+      "dedupeKey": "dynamic-2026-08-13-miki-mu-callahan-kelly-playground-community-mural",
+      "name": "03｜Miki Mu｜Callahan-Kelly Playground Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Brooklyn / Ocean Hill",
+      "cityKeywords": [
+        "New York",
+        "Brooklyn",
+        "Ocean Hill"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "600 平方英尺社區共創壁畫｜2026",
+      "comment": "Groundswell 與紐約市合作的世界盃公共藝術計畫，以居民訪談、青年參與及社區彩繪共同完成 600 平方英尺壁畫；作品完成後留在公園，讓地方文化與公共記憶成為日常環境的一部分。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "公共性不只來自作品位於戶外，更來自居民在設計與製作過程中共同決定街區如何被看見。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Callahan-Kelly Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由青年、藝術家與居民共同形成的 Brooklyn / Ocean Hill 公園壁畫。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-04",
+      "dedupeKey": "dynamic-2026-08-13-yolande-delius-garden-playground-community-mural",
+      "name": "04｜Yolande Delius｜Garden Playground Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Brooklyn / Bushwick",
+      "cityKeywords": [
+        "New York",
+        "Brooklyn",
+        "Bushwick"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "720 平方英尺社區共創壁畫｜2026",
+      "comment": "Groundswell 與紐約市合作的世界盃公共藝術計畫，以居民訪談、青年參與及社區彩繪共同完成 720 平方英尺壁畫；作品完成後留在公園，讓地方文化與公共記憶成為日常環境的一部分。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "公共性不只來自作品位於戶外，更來自居民在設計與製作過程中共同決定街區如何被看見。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Garden Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由青年、藝術家與居民共同形成的 Brooklyn / Bushwick 公園壁畫。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-05",
+      "dedupeKey": "dynamic-2026-08-13-viktoriya-basina-st-nicholas-park-community-mural",
+      "name": "05｜Viktoriya Basina｜St. Nicholas Park Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Manhattan / West Harlem",
+      "cityKeywords": [
+        "New York",
+        "Manhattan",
+        "West Harlem"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "480 平方英尺社區共創壁畫｜2026",
+      "comment": "Groundswell 與紐約市合作的世界盃公共藝術計畫，以居民訪談、青年參與及社區彩繪共同完成 480 平方英尺壁畫；作品完成後留在公園，讓地方文化與公共記憶成為日常環境的一部分。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "公共性不只來自作品位於戶外，更來自居民在設計與製作過程中共同決定街區如何被看見。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "St. Nicholas Park Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由青年、藝術家與居民共同形成的 Manhattan / West Harlem 公園壁畫。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-06",
+      "dedupeKey": "dynamic-2026-08-13-misha-tyutyunik-coleman-playground-community-mural",
+      "name": "06｜Misha Tyutyunik｜Coleman Playground Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Manhattan / Two Bridges",
+      "cityKeywords": [
+        "New York",
+        "Manhattan",
+        "Two Bridges"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "780 平方英尺社區共創壁畫｜2026",
+      "comment": "Groundswell 與紐約市合作的世界盃公共藝術計畫，以居民訪談、青年參與及社區彩繪共同完成 780 平方英尺壁畫；作品完成後留在公園，讓地方文化與公共記憶成為日常環境的一部分。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "公共性不只來自作品位於戶外，更來自居民在設計與製作過程中共同決定街區如何被看見。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Coleman Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由青年、藝術家與居民共同形成的 Manhattan / Two Bridges 公園壁畫。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-07",
+      "dedupeKey": "dynamic-2026-08-13-vincent-ballentine-lily-brown-playground-community-mural",
+      "name": "07｜Vincent Ballentine｜Lily Brown Playground Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Manhattan / Washington Heights",
+      "cityKeywords": [
+        "New York",
+        "Manhattan",
+        "Washington Heights"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "1,200 平方英尺社區共創壁畫｜2026",
+      "comment": "Groundswell 與紐約市合作的世界盃公共藝術計畫，以居民訪談、青年參與及社區彩繪共同完成 1,200 平方英尺壁畫；作品完成後留在公園，讓地方文化與公共記憶成為日常環境的一部分。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "公共性不只來自作品位於戶外，更來自居民在設計與製作過程中共同決定街區如何被看見。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Lily Brown Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由青年、藝術家與居民共同形成的 Manhattan / Washington Heights 公園壁畫。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-08",
+      "dedupeKey": "dynamic-2026-08-13-colleen-kong-savage-steinway-playground-community-mural",
+      "name": "08｜Colleen Kong-Savage｜Steinway Playground Community Mural",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Queens / Astoria-Ditmars",
+      "cityKeywords": [
+        "New York",
+        "Queens",
+        "Astoria"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "720 平方英尺社區共創壁畫｜2026",
+      "comment": "Groundswell 與紐約市合作的世界盃公共藝術計畫，以居民訪談、青年參與及社區彩繪共同完成 720 平方英尺壁畫；作品完成後留在公園，讓地方文化與公共記憶成為日常環境的一部分。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "公共性不只來自作品位於戶外，更來自居民在設計與製作過程中共同決定街區如何被看見。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Steinway Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由青年、藝術家與居民共同形成的 Queens / Astoria-Ditmars 公園壁畫。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-09",
+      "dedupeKey": "dynamic-2026-08-13-kevin-cincotta-becoming-mcguinness",
+      "name": "09｜Kevin Cincotta｜Becoming",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Brooklyn / Greenpoint",
+      "cityKeywords": [
+        "New York",
+        "Brooklyn",
+        "Greenpoint"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "城市基礎設施",
+        "社會參與"
+      ],
+      "works": "Father Studzinski Square 街道壁畫｜1,600 平方英尺瀝青＋80 英尺護欄｜2026",
+      "comment": "以 Greenpoint 沼澤生態與波蘭文化為線索，把道路安全工程中的瀝青延伸區和自行車護欄轉成社區圖像；青蛙、鳥與剪紙花卉把交通基礎設施連結到地方歷史。",
+      "website": "https://www.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "workPage": "https://www.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "artistStatement": "作品以社區訪談為基礎，讓道路重新分配空間的工程改變，同時被讀成一段關於自然、移民與街區未來的敘事。",
+      "artistStatementSource": "https://www.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "classicTitle": "Becoming",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "classicDesc": "把 Greenpoint 生態與波蘭文化畫進道路安全設施。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "dynamic-2026-08-13-10",
+      "dedupeKey": "dynamic-2026-08-13-carlos-h-matos-tlachco",
+      "name": "10｜Carlos H. Matos｜Tlachco",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York / Queens / Rockaway Beach",
+      "cityKeywords": [
+        "New York",
+        "Queens",
+        "Rockaway Beach"
+      ],
+      "media": [
+        "裝置",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "可遊玩的火山石與鋁製桌球雕塑｜展至 2026.09.13",
+      "comment": "把桌球桌與中美洲 Ulama 球場結構結合，透過斜牆、圓環與火山石，讓海灘遊戲同時成為理解前哥倫布文化、儀式與現代休閒的身體入口。",
+      "website": "https://www.publicartfund.org/exhibitions/view/between-tides/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/between-tides/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/between-tides/",
+      "artistStatement": "作品不是重建古代球場，而是把不同時代的遊戲規則疊合，讓參與者透過實際擊球感受文化形式如何被轉譯。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/between-tides/",
+      "classicTitle": "Tlachco",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/between-tides/",
+      "classicDesc": "把 Ulama 球場縮放進 Rockaway Beach 的可玩雕塑。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-global-2026-08-13-01",
+      "dedupeKey": "classic-global-robert-smithson-spiral-jetty",
+      "name": "全球經典01｜Robert Smithson｜Spiral Jetty",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Utah / Great Salt Lake",
+      "cityKeywords": [
+        "Utah",
+        "Great Salt Lake",
+        "Rozel Point"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "建築/場域"
+      ],
+      "works": "6,000 噸玄武岩與土構成的 1,500 英尺螺旋｜1970",
+      "comment": "以湖岸現地材料形成逆時針螺旋，水位、鹽晶與步行經驗持續改變作品；它把雕塑從獨立物件擴張為地質時間、觀測位置與環境變化的共同框架。",
+      "website": "https://diaart.org/exhibition/exhibitions-projects/robert-smithson-spiral-jetty-site",
+      "workPage": "https://diaart.org/exhibition/exhibitions-projects/robert-smithson-spiral-jetty-site",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://diaart.org/exhibition/exhibitions-projects/robert-smithson-spiral-jetty-site",
+      "artistStatement": "觀看不是站在作品之外，而是沿螺旋步行、轉向並重新定位身體與地平線。",
+      "artistStatementSource": "https://diaart.org/exhibition/exhibitions-projects/robert-smithson-spiral-jetty-site",
+      "classicTitle": "Spiral Jetty",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://diaart.org/exhibition/exhibitions-projects/robert-smithson-spiral-jetty-site",
+      "classicDesc": "以湖岸現地材料形成逆時針螺旋，水位、鹽晶與步行經驗持續改變作品。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-global-2026-08-13-02",
+      "dedupeKey": "classic-global-louise-bourgeois-maman",
+      "name": "全球經典02｜Louise Bourgeois｜Maman",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "西班牙 / Bilbao",
+      "cityKeywords": [
+        "Bilbao"
+      ],
+      "media": [
+        "雕塑",
+        "紀念性公共藝術"
+      ],
+      "works": "近 9 公尺高的蜘蛛雕塑｜1999",
+      "comment": "巨大蜘蛛以青銅、不鏽鋼與大理石連結保護、脆弱與母職；腹部卵囊和高聳細足使觀者同時感到庇護與不安。",
+      "website": "https://www.guggenheim-bilbao.eus/la-coleccion/obras/mama",
+      "workPage": "https://www.guggenheim-bilbao.eus/la-coleccion/obras/mama",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.guggenheim-bilbao.eus/la-coleccion/obras/mama",
+      "artistStatement": "蜘蛛向藝術家的織工母親致敬；修補、耐心與保護被轉化為具威脅尺度的公共形象。",
+      "artistStatementSource": "https://www.guggenheim-bilbao.eus/la-coleccion/obras/mama",
+      "classicTitle": "Maman",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.guggenheim-bilbao.eus/la-coleccion/obras/mama",
+      "classicDesc": "巨大蜘蛛以青銅、不鏽鋼與大理石連結保護、脆弱與母職。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-global-2026-08-13-03",
+      "dedupeKey": "classic-global-robert-indiana-love",
+      "name": "全球經典03｜Robert Indiana｜LOVE",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia"
+      ],
+      "media": [
+        "雕塑",
+        "文字/語言",
+        "紀念性公共藝術"
+      ],
+      "works": "COR-TEN 鋼 LOVE 字體雕塑｜1976",
+      "comment": "四個字母以緊密方形構圖和傾斜 O 建立高度可辨識的公共符號；在廣場與城市複製傳播中，作品跨越藝術、設計、商品與集體記憶。",
+      "website": "https://www.associationforpublicart.org/artwork/love/",
+      "workPage": "https://www.associationforpublicart.org/artwork/love/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/love/",
+      "artistStatement": "以最少文字和最大視覺壓縮，讓情感語彙成為人群可聚集、拍攝與重新使用的城市標誌。",
+      "artistStatementSource": "https://www.associationforpublicart.org/artwork/love/",
+      "classicTitle": "LOVE",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/love/",
+      "classicDesc": "四個字母以緊密方形構圖和傾斜 O 建立高度可辨識的公共符號。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-global-2026-08-13-04",
+      "dedupeKey": "classic-global-pablo-picasso-chicago-picasso",
+      "name": "全球經典04｜Pablo Picasso｜Chicago Picasso",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Chicago / Daley Plaza",
+      "cityKeywords": [
+        "Chicago"
+      ],
+      "media": [
+        "雕塑",
+        "紀念性公共藝術",
+        "建築/場域"
+      ],
+      "works": "50 英尺高耐候鋼無題雕塑｜1967",
+      "comment": "芝加哥第一件大型非紀念性抽象公共藝術，以無明確主題的鋼構造改變市民對市中心廣場與公共委託的期待，也成為城市辨識的重要轉折。",
+      "website": "https://www.artic.edu/articles/356/picasso",
+      "workPage": "https://www.artic.edu/articles/356/picasso",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artic.edu/articles/356/picasso",
+      "artistStatement": "作品拒絕單一具象解讀，讓城市居民透過尺度、輪廓與長期使用共同生產意義。",
+      "artistStatementSource": "https://www.artic.edu/articles/356/picasso",
+      "classicTitle": "Chicago Picasso",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artic.edu/articles/356/picasso",
+      "classicDesc": "芝加哥第一件大型非紀念性抽象公共藝術，以無明確主題的鋼構造改變市民對市中心廣場與公共委託的期待，也成為城市辨識的重要轉折。。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-global-2026-08-13-05",
+      "dedupeKey": "classic-global-barbara-hepworth-single-form-in-memory-of-dag-hammarskj-ld-",
+      "name": "全球經典05｜Barbara Hepworth｜Single Form (In Memory of Dag Hammarskjöld)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York / United Nations Headquarters",
+      "cityKeywords": [
+        "New York",
+        "United Nations"
+      ],
+      "media": [
+        "雕塑",
+        "紀念性公共藝術"
+      ],
+      "works": "青銅抽象紀念雕塑｜1964",
+      "comment": "不規則直立形體以頂部圓孔連結人體、眼睛與升起的太陽；作品在聯合國總部紀念 Dag Hammarskjöld，將個人追思轉成延續與團結的普遍符號。",
+      "website": "https://www.un.org/ungifts/single-form-memory-dag-hammarskj%C3%B6ld",
+      "workPage": "https://www.un.org/ungifts/single-form-memory-dag-hammarskj%C3%B6ld",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.un.org/ungifts/single-form-memory-dag-hammarskj%C3%B6ld",
+      "artistStatement": "Hepworth 以抽象形體回應 Hammarskjöld 的人文與美學理想，使紀念不依賴肖像而保有開放解讀。",
+      "artistStatementSource": "https://www.un.org/ungifts/single-form-memory-dag-hammarskj%C3%B6ld",
+      "classicTitle": "Single Form (In Memory of Dag Hammarskjöld)",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.un.org/ungifts/single-form-memory-dag-hammarskj%C3%B6ld",
+      "classicDesc": "不規則直立形體以頂部圓孔連結人體、眼睛與升起的太陽。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-german-2026-08-13-01",
+      "dedupeKey": "classic-german-donald-judd-untitled",
+      "name": "德國經典01｜Donald Judd｜Untitled",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster / Aasee",
+      "cityKeywords": [
+        "Münster"
+      ],
+      "media": [
+        "雕塑",
+        "地景/大地藝術"
+      ],
+      "works": "兩個同心混凝土環｜1976–77",
+      "comment": "內環保持水平、外環順著草坡傾斜；觀者移動時，兩個圓的關係與尺度不斷改變，將地形與身體位置變成作品的實際材料。",
+      "website": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/17/",
+      "workPage": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/17/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/9999/projects/17/",
+      "artistStatement": "作品不描繪空間，而以真實體積、地勢與行走直接產生知覺。",
+      "artistStatementSource": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/17/",
+      "classicTitle": "Untitled",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/9999/projects/17/",
+      "classicDesc": "內環保持水平、外環順著草坡傾斜。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-german-2026-08-13-02",
+      "dedupeKey": "classic-german-matt-mullican-untitled-sculpture-for-the-chemical-institutes-",
+      "name": "德國經典02｜Matt Mullican｜Untitled (Sculpture for the Chemical Institutes)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster / PharmaCampus",
+      "cityKeywords": [
+        "Münster"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "文字/語言",
+        "建築/場域"
+      ],
+      "works": "35 塊噴砂黑花崗岩地面浮雕｜1987",
+      "comment": "以 7×5 花崗岩板組成符號系統，從有機演化、人體骨骼到實驗器材與道路圖示，把化學研究場域轉成可步行的當代宇宙論。",
+      "website": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/60/",
+      "workPage": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/60/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/1987/projects/60/",
+      "artistStatement": "科學、日常導向與象徵圖像被放在同一平面，使知識分類本身成為公共空間經驗。",
+      "artistStatementSource": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/60/",
+      "classicTitle": "Untitled (Sculpture for the Chemical Institutes)",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/1987/projects/60/",
+      "classicDesc": "以 7×5 花崗岩板組成符號系統，從有機演化、人體骨骼到實驗器材與道路圖示，把化學研究場域轉成可步行的當代宇宙論。。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-german-2026-08-13-03",
+      "dedupeKey": "classic-german-dan-graham-octagon-for-m-nster",
+      "name": "德國經典03｜Dan Graham｜Octagon for Münster",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster / Schlossgarten",
+      "cityKeywords": [
+        "Münster"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "雙向鏡面八角亭｜1987",
+      "comment": "以 1929 年公園音樂亭為原型，改用雙向鏡面玻璃；外部景觀反射使亭體消散，內外觀看則隨光線交換隱私、暴露與自我影像。",
+      "website": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/50/",
+      "workPage": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/50/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/9999/projects/50/",
+      "artistStatement": "作品借用社交建築的形式，讓觀看者同時成為觀察者、被觀察者與景觀的一部分。",
+      "artistStatementSource": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/50/",
+      "classicTitle": "Octagon for Münster",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/9999/projects/50/",
+      "classicDesc": "以 1929 年公園音樂亭為原型，改用雙向鏡面玻璃。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-german-2026-08-13-04",
+      "dedupeKey": "classic-german-keith-haring-red-dog-for-landois",
+      "name": "德國經典04｜Keith Haring｜Red Dog for Landois",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster／Ulm",
+      "cityKeywords": [
+        "Münster",
+        "Ulm"
+      ],
+      "media": [
+        "雕塑",
+        "紀念性公共藝術"
+      ],
+      "works": "紅色耐候鋼巨犬｜1987",
+      "comment": "巨犬像從舊動物園草地鑽出，獻給創辦 Münster 動物園的 Hermann Landois；平面輪廓、鮮紅顏色與抬升姿態把消失的場址轉成帶抗議意味的城市記憶。",
+      "website": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/87/",
+      "workPage": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/87/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/1987/projects/87/",
+      "artistStatement": "以直接、可辨識的圖像重新占領被辦公建築取代的公共歷史場址。",
+      "artistStatementSource": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/87/",
+      "classicTitle": "Red Dog for Landois",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/1987/projects/87/",
+      "classicDesc": "巨犬像從舊動物園草地鑽出，獻給創辦 Münster 動物園的 Hermann Landois。"
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-13",
+      "id": "classic-german-2026-08-13-05",
+      "dedupeKey": "classic-german-richard-tuttle-art-and-music",
+      "name": "德國經典05｜Richard Tuttle｜Art and Music",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster / Domplatz",
+      "cityKeywords": [
+        "Münster"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "白色木構與黑色鋼板兩件式牆面雕塑｜1987",
+      "comment": "兩件近似撇號或低音譜號的構件藏在市中心建築入口，刻意降低紀念尺度；周遭建築變化又持續改寫作品原本細微的空間效果。",
+      "website": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/33/",
+      "workPage": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/33/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/9999/projects/33/",
+      "artistStatement": "以低調、近乎被忽略的形式測試公共藝術是否必須靠巨大尺度取得存在感。",
+      "artistStatementSource": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/33/",
+      "classicTitle": "Art and Music",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.skulptur-projekte-archiv.de/en-us/9999/projects/33/",
+      "classicDesc": "兩件近似撇號或低音譜號的構件藏在市中心建築入口，刻意降低紀念尺度。"
+    }
+  ]
+}
