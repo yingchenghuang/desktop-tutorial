@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-13T05:00:00+08:00",
+    "generatedAt": "2026-08-13T05:00:58+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
@@ -936,7 +936,7 @@
       "classicTitle": "Call for Art 2026",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/escr/community-engagement/call-for-art.page",
       "classicDesc": "把濱水記憶與氣候韌性放大到 East River 工程圍籬。",
-      "deadline": "2026-10-16T23:59:00-04:00",
+      "deadline": "2026-10-16T23:59:59-04:00",
       "deadlineLabel": "截止 2026.10.16",
       "deadlineTimezone": "America/New_York",
       "deadlinePrecision": "date",
@@ -945,6 +945,16 @@
       "budget": "未公開",
       "applicationFee": "未公開",
       "relatedByCity": [
+        "dynamic-2026-08-12-01",
+        "dynamic-2026-08-12-02",
+        "dynamic-2026-08-12-04",
+        "dynamic-2026-08-12-05",
+        "dynamic-2026-08-12-07",
+        "dynamic-2026-08-12-08",
+        "dynamic-2026-08-12-09",
+        "classic-global-2026-08-12-02",
+        "classic-global-2026-08-12-03",
+        "classic-global-2026-08-12-04",
         "dynamic-2026-08-13-01",
         "dynamic-2026-08-13-02",
         "dynamic-2026-08-13-03",
