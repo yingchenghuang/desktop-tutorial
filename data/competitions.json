@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generatedAt": "2026-08-13T05:00:58+08:00",
+    "generatedAt": "2026-08-14T05:00:48+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
-    "activeEntries": 24,
+    "activeEntries": 29,
     "addedToday": 5,
     "expiredRemoved": 0,
     "note": "競圖資料庫每日新增 5 則；保留全部未截止資料，只移除 deadline 已過期項目。"
@@ -86,7 +86,9 @@
       "eligibility": "具歐盟公民身分的專業藝術家或團隊",
       "budget": "€250,000；決選提案費每組 €3,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+        "classic-german-2026-08-14-02"
+      ]
     },
     {
       "category": "公開徵件",
@@ -965,8 +967,209 @@
         "dynamic-2026-08-13-08",
         "dynamic-2026-08-13-09",
         "dynamic-2026-08-13-10",
-        "classic-global-2026-08-13-05"
+        "classic-global-2026-08-13-05",
+        "dynamic-2026-08-14-02",
+        "dynamic-2026-08-14-08",
+        "dynamic-2026-08-14-09",
+        "dynamic-2026-08-14-10"
       ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-14",
+      "id": "competition-2026-08-14-01",
+      "dedupeKey": "opportunity-2026-08-14-rancho-cucamonga-pacific-electric-trail-mini-murals",
+      "name": "25｜Rancho Cucamonga｜Pacific Electric Trail Mini Murals",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Rancho Cucamonga",
+      "cityKeywords": [
+        "Rancho Cucamonga",
+        "蘭喬庫卡蒙加",
+        "Inland Empire"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "Pacific Electric Trail 六座導向標記彩繪｜每座 US$1,500｜截止 2026.10.22 23:59",
+      "comment": "在三個路口共六座混凝土導向標記設計並施作迷你壁畫，主題回應城市五十週年、地方歷史、自然與社群認同。",
+      "website": "https://www.cityofrc.us/news/2026-2027-mini-mural-project",
+      "workPage": "https://www.cityofrc.us/news/2026-2027-mini-mural-project",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofrc.us/news/2026-2027-mini-mural-project",
+      "artistStatement": "小尺度但高頻接觸的路徑節點，適合以清楚圖像和連續系列建立步行、單車與車行共享的城市辨識。",
+      "artistStatementSource": "https://www.cityofrc.us/news/2026-2027-mini-mural-project",
+      "classicTitle": "Pacific Electric Trail Mini Mural Project｜2026–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofrc.us/news/2026-2027-mini-mural-project",
+      "classicDesc": "以六座步道標記建立連續的社區公共藝術節點。",
+      "deadline": "2026-10-22T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.10.22 23:59 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Rancho Cucamonga",
+      "eligibility": "18 歲以上專業藝術家或團隊；公開申請，優先考量 Rancho Cucamonga／Inland Empire 地區",
+      "budget": "每座標記 US$1,500（含設計、材料與施作）",
+      "applicationFee": "無",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-14",
+      "id": "competition-2026-08-14-02",
+      "dedupeKey": "opportunity-2026-08-14-aspen-perch-human-birdhouse",
+      "name": "26｜Aspen Public Art｜Perch: Human Birdhouse",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Aspen",
+      "cityKeywords": [
+        "Aspen",
+        "阿斯彭",
+        "Roaring Fork Valley"
+      ],
+      "media": [
+        "建築/場域",
+        "地景/大地藝術",
+        "裝置"
+      ],
+      "works": "ACES Hallam Lake 人尺度鳥屋｜總預算 US$50,000｜截止 2026.09.30",
+      "comment": "設計／建造團隊提出最大 120 平方英尺的臨時公共藝術與環境教育空間；三組決選提案公開展示並由社區投票。",
+      "website": "https://www.redbrickaspen.com/calls-for-artists",
+      "workPage": "https://www.redbrickaspen.com/calls-for-artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.redbrickaspen.com/calls-for-artists",
+      "artistStatement": "把鳥類棲地原型放大成人可停留的微型建築，兼具環境觀察、聚集與公共教育。",
+      "artistStatementSource": "https://www.redbrickaspen.com/calls-for-artists",
+      "classicTitle": "Perch: Design/Build Contest for a Human Birdhouse｜2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.redbrickaspen.com/calls-for-artists",
+      "classicDesc": "由社區投票選出的可進入式鳥屋將於 Hallam Lake 暫時展出。",
+      "deadline": "2026-09-30T23:59:59-06:00",
+      "deadlineLabel": "截止 2026.09.30",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "date",
+      "organizer": "Aspen Public Art、Red Brick Center for the Arts、Aspen Center for Environmental Studies",
+      "eligibility": "藝術家、建築師、設計師、建造者等創意團隊；全員滿 18 歲，主申請人須居住於 Roaring Fork Valley",
+      "budget": "總預算 US$50,000；三組決選各 US$1,000 提案費",
+      "applicationFee": "無",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-14",
+      "id": "competition-2026-08-14-03",
+      "dedupeKey": "opportunity-2026-08-14-surprise-hola-vista-center-acoustic-art",
+      "name": "27｜City of Surprise｜Vista Center HOLA Acoustic Artwork",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Surprise",
+      "cityKeywords": [
+        "Surprise",
+        "瑟普賴斯",
+        "Phoenix"
+      ],
+      "media": [
+        "建築/場域",
+        "裝置"
+      ],
+      "works": "Vista Center for the Arts 室內吸音 2D 公共藝術｜至少展出兩年｜截止 2026.08.31 23:59",
+      "comment": "為劇院設計、製作並安裝兼具聲學功能的二維作品；不要求聲學工程經驗，但須以藝術資格與可執行性回應空間。",
+      "website": "https://www.surprisearts.com/opportunities/artist-calls",
+      "workPage": "https://www.surprisearts.com/opportunities/artist-calls",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "artistStatement": "把吸音需求轉化為作品表面、材質與尺度策略，使功能性建材成為觀眾可辨識的公共藝術。",
+      "artistStatementSource": "https://www.surprisearts.com/opportunities/artist-calls",
+      "classicTitle": "FY2027 HOLA｜Vista Center for the Arts",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "classicDesc": "以吸音功能與平面構成介入劇院室內公共空間。",
+      "deadline": "2026-08-31T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.08.31 23:59 MST",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "City of Surprise / Surprise Arts",
+      "eligibility": "亞利桑那州藝術家或藝術家團隊",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-14",
+      "id": "competition-2026-08-14-04",
+      "dedupeKey": "opportunity-2026-08-14-surprise-roots-of-creation-chalk-muralists",
+      "name": "28｜Surprise Arts｜Roots of Creation Chalk Muralists",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Surprise",
+      "cityKeywords": [
+        "Surprise",
+        "瑟普賴斯",
+        "Phoenix"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "地景/大地藝術",
+        "社會參與"
+      ],
+      "works": "Roots of Creation 藝術與自然節人行道粉筆壁畫｜截止 2026.08.30 23:59",
+      "comment": "徵選西谷地區藝術家於 2027 年 1 月 30 日現場完成自然主題、家庭友善的臨時粉筆壁畫，主辦提供酬金與材料。",
+      "website": "https://www.surprisearts.com/opportunities/artist-calls",
+      "workPage": "https://www.surprisearts.com/opportunities/artist-calls",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "artistStatement": "以短暫、現場製作與可觀看過程，把人行道轉為節慶中的共同創作界面。",
+      "artistStatementSource": "https://www.surprisearts.com/opportunities/artist-calls",
+      "classicTitle": "Roots of Creation Chalk Art Muralists｜2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "classicDesc": "自然主題粉筆壁畫在藝術節現場生成並短暫存在。",
+      "deadline": "2026-08-30T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.08.30 23:59 MST",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "Surprise Arts",
+      "eligibility": "West Valley 藝術家",
+      "budget": "提供藝術家酬金、用品與材料；金額未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-14",
+      "id": "competition-2026-08-14-05",
+      "dedupeKey": "opportunity-2026-08-14-surprise-recycled-student-sculptures",
+      "name": "29｜Surprise Arts｜Recycled Student Sculptures",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Surprise",
+      "cityKeywords": [
+        "Surprise",
+        "瑟普賴斯",
+        "Phoenix"
+      ],
+      "media": [
+        "雕塑",
+        "社會參與"
+      ],
+      "works": "學生社團再生材料獨立雕塑｜截止 2026.10.30 23:59",
+      "comment": "邀請 Surprise 在地學生藝術或科學社團提出以再生材料製作的獨立式雕塑概念，並由教育者、社團領導或合作藝術家申請。",
+      "website": "https://www.surprisearts.com/opportunities/artist-calls",
+      "workPage": "https://www.surprisearts.com/opportunities/artist-calls",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "artistStatement": "以再生材料和學生跨域協作，將環境教育轉成具公共展示潛力的立體作品。",
+      "artistStatementSource": "https://www.surprisearts.com/opportunities/artist-calls",
+      "classicTitle": "Recycled Student Sculptures RFQ｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "classicDesc": "學生藝術與科學社團共同提出再生材料公共雕塑。",
+      "deadline": "2026-10-30T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.10.30 23:59 MST",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "Surprise Arts",
+      "eligibility": "Surprise 在地學生藝術社團或科學社團；社團領導、教育者及直接合作的藝術家可申請",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     }
   ]
 }
