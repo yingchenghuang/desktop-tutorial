@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-14-competition-r13",
+  "version": "2026-08-14-competition-r14",
   "generatedAt": "2026-08-14T05:00:48+08:00",
   "files": [
     "competitions.json"
@@ -10,5 +10,5 @@
   "deadlineTimezoneEntries": 29,
   "deadlinePrecisionEntries": 29,
   "cityKeywordEntries": 29,
-  "note": "8/14 新增 5 則；保留所有未截止資料，僅移除已逾 deadline 的項目。deadline 均含時區偏移，日期型截止以主辦地 23:59:59 記錄。"
+  "note": "8/14 新增 5 則；保留所有未截止資料，僅移除已逾 deadline 的項目。deadline 均含時區偏移；並補齊全部競圖的雙語城市關鍵字。"
 }
