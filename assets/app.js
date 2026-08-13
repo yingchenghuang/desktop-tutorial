@@ -282,13 +282,18 @@
       if (er) er.addEventListener('click', resetFilters);
       return;
     }
+    function isGermanClassic(e) {
+      if (/^全球經典/.test(e.name) || /^classic-global/.test(e.id)) return false;
+      if (/^德國經典/.test(e.name) || /^classic-german/.test(e.id)) return true;
+      return /德國|Germany|Deutschland/i.test(e.country);
+    }
     var groups = [
       {
         id: 'global-classics',
         title: '全球經典作品',
         note: 'Global classics',
         entries: list.filter(function (e) {
-          return e.tier === '經典檔案庫' && !/德國|Germany|Deutschland/i.test(e.country);
+          return e.tier === '經典檔案庫' && !isGermanClassic(e);
         })
       },
       {
@@ -296,7 +301,7 @@
         title: '德國經典作品',
         note: 'German classics',
         entries: list.filter(function (e) {
-          return e.tier === '經典檔案庫' && /德國|Germany|Deutschland/i.test(e.country);
+          return e.tier === '經典檔案庫' && isGermanClassic(e);
         })
       },
       {
