@@ -101,7 +101,8 @@
       "region": "西方",
       "country": "德國 / Augsburg",
       "cityKeywords": [
-        "Augsburg"
+        "Augsburg",
+        "奧格斯堡"
       ],
       "media": [
         "Kunst am Bau",
@@ -180,7 +181,8 @@
       "region": "西方",
       "country": "德國 / Trier",
       "cityKeywords": [
-        "Trier"
+        "Trier",
+        "特里爾"
       ],
       "media": [
         "Kunst am Bau",
@@ -296,7 +298,9 @@
       "region": "西方",
       "country": "奧地利 / Klagenfurt",
       "cityKeywords": [
-        "Klagenfurt"
+        "Klagenfurt",
+        "Klagenfurt am Wörthersee",
+        "克拉根福"
       ],
       "media": [
         "Kunst am Bau",
@@ -334,7 +338,8 @@
       "region": "西方",
       "country": "美國 / San Francisco",
       "cityKeywords": [
-        "San Francisco"
+        "San Francisco",
+        "舊金山"
       ],
       "media": [
         "公共委託",
@@ -528,7 +533,9 @@
       "region": "西方",
       "country": "德國 / Görlitz",
       "cityKeywords": [
-        "Görlitz"
+        "Görlitz",
+        "Goerlitz",
+        "格爾利茨"
       ],
       "media": [
         "裝置",
@@ -686,7 +693,8 @@
       "region": "西方",
       "country": "美國 / Sarasota, Florida",
       "cityKeywords": [
-        "Sarasota"
+        "Sarasota",
+        "薩拉索塔"
       ],
       "media": [
         "雕塑",
@@ -803,7 +811,8 @@
       "region": "西方",
       "country": "美國 / Raleigh, North Carolina",
       "cityKeywords": [
-        "Raleigh"
+        "Raleigh",
+        "羅利"
       ],
       "media": [
         "社會參與",
@@ -880,7 +889,8 @@
       "region": "西方",
       "country": "美國 / Denver, Colorado",
       "cityKeywords": [
-        "Denver"
+        "Denver",
+        "丹佛"
       ],
       "media": [
         "雕塑",
