@@ -17,7 +17,7 @@
 <body>
 <header class="topbar" id="topbar">
   <div class="wrap topbar-inner">
-    <nav class="toplinks left" aria-label="主要區塊"><a href="#daily">每日情報</a><a href="#archive">索引</a><a href="#competitions" data-open-tier="競圖資料庫">公開徵選</a></nav>
+    <nav class="toplinks left" aria-label="主要區塊"><a href="#daily">每日情報</a><a href="#archive">索引</a><a href="#competitions">公開徵選</a></nav>
     <a class="brand" href="#" id="brandTop" aria-label="回到頂端"><i class="dot" aria-hidden="true"></i><span>公共藝術檔案</span></a>
     <nav class="toplinks right" aria-label="次要區塊"><a href="#sources">來源</a><a href="#contact">關於</a></nav>
   </div>
@@ -30,7 +30,7 @@
 <section class="command archive-tools">
   <div class="wrap command-inner">
     <div class="search"><input id="q" type="search" placeholder="搜尋藝術家、作品、城市、媒介、短評" autocomplete="off" aria-label="搜尋公共藝術檔案"></div>
-    <div class="seg" role="group" aria-label="檔案層級" id="segTier"><button class="on" data-tier="全部">全部</button><button data-tier="經典檔案庫">經典檔案庫</button><button data-tier="動態情報層">動態情報層</button><button id="competitions" data-tier="競圖資料庫">公開徵選</button></div>
+    <div class="seg" role="group" aria-label="檔案層級" id="segTier"><button class="on" data-tier="全部">全部</button><button data-tier="經典檔案庫">經典檔案庫</button><button data-tier="動態情報層">動態情報層</button><button data-tier="競圖資料庫">公開徵選</button></div>
     <div class="sortbox"><select id="sort" aria-label="排序方式"><option value="default">策展排序</option><option value="updated">最近更新</option><option value="name">名稱排序</option></select></div>
   </div>
 </section>
@@ -64,7 +64,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260814-public-selection-r14';
+  const cacheKey = '20260814-classic-order-r15';
   const manifestUrls = [
     'data/backfill-july-manifest.json?t=' + cacheKey,
     'data/backfill-august-manifest.json?t=' + cacheKey
@@ -118,7 +118,7 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20260814-public-selection-r14"></script>
+<script src="assets/app.js?t=20260814-classic-order-r15"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
