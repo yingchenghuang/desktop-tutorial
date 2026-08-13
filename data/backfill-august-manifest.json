@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-13-public-art-and-competitions-r12",
-  "generatedAt": "2026-08-13T05:00:58+08:00",
+  "version": "2026-08-14-public-art-and-competitions-r13",
+  "generatedAt": "2026-08-14T05:00:48+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -14,13 +14,14 @@
     "backfill-august-20260810.json",
     "backfill-august-20260811.json",
     "backfill-august-20260812.json",
-    "backfill-august-20260813.json"
+    "backfill-august-20260813.json",
+    "backfill-august-20260814.json"
   ],
-  "expectedEntries": 290,
-  "statementEntries": 290,
-  "statementSourceEntries": 290,
+  "expectedEntries": 310,
+  "statementEntries": 310,
+  "statementSourceEntries": 310,
   "statementBacklog": 0,
-  "note": "8/13 公共藝術固定 10＋5＋5，共 20 則；20 筆均保存城市關鍵字與 relatedByCity。公開徵選維持獨立資料庫，每日新增 5 則，只保留未截止項目。",
-  "imageEntries": 290,
+  "note": "8/14 公共藝術固定 10＋5＋5，共 20 則；20 筆均保存城市關鍵字與 relatedByCity。公開徵選維持獨立資料庫，每日新增 5 則，只保留未截止項目。",
+  "imageEntries": 310,
   "imageBacklog": 0
 }
