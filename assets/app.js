@@ -282,7 +282,44 @@
       if (er) er.addEventListener('click', resetFilters);
       return;
     }
-    grid.innerHTML = list.map(cardHTML).join('');
+    var groups = [
+      {
+        id: 'global-classics',
+        title: '全球經典作品',
+        note: 'Global classics',
+        entries: list.filter(function (e) {
+          return e.tier === '經典檔案庫' && !/德國|Germany|Deutschland/i.test(e.country);
+        })
+      },
+      {
+        id: 'german-classics',
+        title: '德國經典作品',
+        note: 'German classics',
+        entries: list.filter(function (e) {
+          return e.tier === '經典檔案庫' && /德國|Germany|Deutschland/i.test(e.country);
+        })
+      },
+      {
+        id: 'dynamic-art',
+        title: '動態公共藝術',
+        note: 'Daily public art',
+        entries: list.filter(function (e) { return e.tier === '動態情報層'; })
+      },
+      {
+        id: 'competitions',
+        title: '公開徵選',
+        note: 'Open calls',
+        entries: list.filter(function (e) { return e.tier === '競圖資料庫'; })
+      }
+    ];
+    var cardIndex = 0;
+    grid.innerHTML = groups.filter(function (group) { return group.entries.length; }).map(function (group) {
+      var cards = group.entries.map(function (entry) { return cardHTML(entry, cardIndex++); }).join('');
+      return '<section class="archive-group" id="' + group.id + '" aria-labelledby="' + group.id + '-title">' +
+        '<header class="archive-group-head"><h2 id="' + group.id + '-title">' + group.title + '</h2>' +
+        '<p>' + group.note + ' · ' + group.entries.length + '</p></header>' +
+        '<div class="archive-group-grid">' + cards + '</div></section>';
+    }).join('');
   }
 
   function renderLatest() {
