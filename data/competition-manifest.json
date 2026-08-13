@@ -1,14 +1,14 @@
 {
-  "version": "2026-08-13-competition-r12",
-  "generatedAt": "2026-08-13T05:00:58+08:00",
+  "version": "2026-08-14-competition-r13",
+  "generatedAt": "2026-08-14T05:00:48+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 24,
+  "activeEntries": 29,
   "addedToday": 5,
   "expiredRemoved": 0,
-  "deadlineTimezoneEntries": 24,
-  "deadlinePrecisionEntries": 24,
-  "cityKeywordEntries": 24,
-  "note": "保留全部未截止競圖，2026-08-13 新增 5 則；有效清單逾期 0。所有 deadline 均含時區偏移，另存 IANA deadlineTimezone 與 deadlinePrecision；relatedByCity 與公共藝術資料庫雙向連結。"
+  "deadlineTimezoneEntries": 29,
+  "deadlinePrecisionEntries": 29,
+  "cityKeywordEntries": 29,
+  "note": "8/14 新增 5 則；保留所有未截止資料，僅移除已逾 deadline 的項目。deadline 均含時區偏移，日期型截止以主辦地 23:59:59 記錄。"
 }
