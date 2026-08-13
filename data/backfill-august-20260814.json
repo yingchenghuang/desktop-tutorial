@@ -1,0 +1,642 @@
+[
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-01",
+    "dedupeKey": "dynamic-2026-08-14-phoebe-boswell-we-move-through-scales-of-blue",
+    "name": "01｜Phoebe Boswell｜we move through scales of blue",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "英國 / London",
+    "cityKeywords": [
+      "London",
+      "倫敦",
+      "Bethnal Green",
+      "Notting Hill"
+    ],
+    "media": [
+      "壁畫/街頭",
+      "光/影像/投影",
+      "建築/場域"
+    ],
+    "works": "Bethnal Green 與 Notting Hill Gate 車站四組大型影像壁畫｜2026–2028",
+    "comment": "旅客沿手扶梯移動時，分層水下影像形成近似逐格動畫，把地下河流、移民路徑與黑人游泳社群的身體經驗疊合在交通空間。",
+    "website": "https://art.tfl.gov.uk/projects/we-move-through-scales-of-blue/",
+    "workPage": "https://art.tfl.gov.uk/projects/we-move-through-scales-of-blue/",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/we-move-through-scales-of-blue/",
+    "artistStatement": "作品把水視為承載抵抗、創傷、療癒與集體能動性的媒介，並讓乘客的移動成為影像啟動機制。",
+    "artistStatementSource": "https://art.tfl.gov.uk/projects/we-move-through-scales-of-blue/",
+    "classicTitle": "we move through scales of blue｜2026",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/we-move-through-scales-of-blue/",
+    "classicDesc": "四組大型圖像借由手扶梯節奏被乘客共同動畫化。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-02",
+    "dedupeKey": "dynamic-2026-08-14-torkwase-dyson-akua",
+    "name": "02｜Torkwase Dyson｜Akua",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "美國 / New York",
+    "cityKeywords": [
+      "New York",
+      "紐約",
+      "Brooklyn"
+    ],
+    "media": [
+      "建築/場域",
+      "聲音/霧/水",
+      "裝置"
+    ],
+    "works": "Brooklyn Bridge Park 可進入式聲音亭｜展至 2027.03.08",
+    "comment": "開放亭體與八聲道聲景把黑人檔案對話、自然錄音與電子聲響組成可穿行的「呼吸地理」，回應河岸、基礎設施與遷移。",
+    "website": "https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+    "workPage": "https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+    "artistStatement": "以形體、聲音與身體振動，將逃逸、轉化和環境記憶轉成一個可停留的公共庇護空間。",
+    "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+    "classicTitle": "Akua｜2025–2027",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+    "classicDesc": "大型開放亭體讓聲音在河岸地景與訪客身體間移動。",
+    "relatedByCity": [
+      "competition-2026-08-13-05"
+    ]
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-03",
+    "dedupeKey": "dynamic-2026-08-14-teresa-margolles-mil-veces-un-instante",
+    "name": "03｜Teresa Margolles｜Mil Veces un Instante",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "英國 / London",
+    "cityKeywords": [
+      "London",
+      "倫敦",
+      "Trafalgar Square"
+    ],
+    "media": [
+      "紀念性公共藝術",
+      "雕塑",
+      "社會參與"
+    ],
+    "works": "Trafalgar Square 第四基座委託｜2024–2026.09.10",
+    "comment": "數百名跨性別者的臉部翻模構成集體紀念物；作品在城市最具象徵性的基座上，拒絕單一英雄肖像，轉向受暴力威脅社群的多數見證。",
+    "website": "https://www.london.gov.uk/unveiling-date-announced-londons-fourth-plinth",
+    "workPage": "https://www.london.gov.uk/unveiling-date-announced-londons-fourth-plinth",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.london.gov.uk/unveiling-date-announced-londons-fourth-plinth",
+    "artistStatement": "以反紀念碑形式把缺席、身份與共同見證帶入國家廣場，並透過陶土表面保存每位參與者的身體痕跡。",
+    "artistStatementSource": "https://www.london.gov.uk/unveiling-date-announced-londons-fourth-plinth",
+    "classicTitle": "Mil Veces un Instante｜2024",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.london.gov.uk/unveiling-date-announced-londons-fourth-plinth",
+    "classicDesc": "以眾多臉部印模取代英雄雕像的第四基座作品。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-04",
+    "dedupeKey": "dynamic-2026-08-14-tobias-rehberger-here-is-here-and-everywhere",
+    "name": "04｜Tobias Rehberger｜Here is Here. And Everywhere.",
+    "tier": "動態情報層",
+    "region": "大洋洲",
+    "country": "澳洲 / Sydney",
+    "cityKeywords": [
+      "Sydney",
+      "雪梨",
+      "Zetland",
+      "Green Square"
+    ],
+    "media": [
+      "光/影像/投影",
+      "建築/場域",
+      "數位/互動"
+    ],
+    "works": "Green Square 四組座椅、植栽與光球｜2026 分階段完成",
+    "comment": "四個金色球體依英國、赫德島、巴拿馬與中國邊境的日出時間發光，以即時光線把多元移民社區和遙遠地理連成日常會面點。",
+    "website": "https://www.cityofsydney.nsw.gov.au/installations/here-is-here-and-everywhere",
+    "workPage": "https://www.cityofsydney.nsw.gov.au/installations/here-is-here-and-everywhere",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofsydney.nsw.gov.au/installations/here-is-here-and-everywhere",
+    "artistStatement": "作品以共享太陽為尺度，將全球時區變成可坐、可聚集且能被每日察覺的社區連結。",
+    "artistStatementSource": "https://www.cityofsydney.nsw.gov.au/installations/here-is-here-and-everywhere",
+    "classicTitle": "Here is Here. And Everywhere.｜2026",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofsydney.nsw.gov.au/installations/here-is-here-and-everywhere",
+    "classicDesc": "四個分散城市節點以異地日出同步發光。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-05",
+    "dedupeKey": "dynamic-2026-08-14-karyn-olivier-i-didnt-do-it-alone",
+    "name": "05｜Karyn Olivier｜I Didn’t Do It Alone",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "美國 / Milwaukee",
+    "cityKeywords": [
+      "Milwaukee",
+      "密爾瓦基",
+      "Vel R. Phillips Plaza"
+    ],
+    "media": [
+      "紀念性公共藝術",
+      "雕塑",
+      "建築/場域"
+    ],
+    "works": "Vel R. Phillips Plaza 永久紀念委託｜2026 安裝",
+    "comment": "石造人物弧列與青銅辦公桌把政治領袖形象改寫成公民共同支撐的結構，紀念威斯康辛民權先驅 Vel Phillips 的集體工作。",
+    "website": "https://city.milwaukee.gov/DCD/Projects/Vel-Phillips-Plaza",
+    "workPage": "https://city.milwaukee.gov/DCD/Projects/Vel-Phillips-Plaza",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://city.milwaukee.gov/DCD/Projects/Vel-Phillips-Plaza",
+    "artistStatement": "以古典柱像和政治辦公桌的語彙，將紀念碑的權力中心從單一人物轉向支持者、選民與未完成的民主勞動。",
+    "artistStatementSource": "https://city.milwaukee.gov/DCD/Projects/Vel-Phillips-Plaza",
+    "classicTitle": "I Didn’t Do It Alone｜2026",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://city.milwaukee.gov/DCD/Projects/Vel-Phillips-Plaza",
+    "classicDesc": "以可辨識的公共紀念語彙凸顯政治行動從不是一人完成。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-06",
+    "dedupeKey": "dynamic-2026-08-14-layqa-nuna-yawar-flight-newark-terminal-a",
+    "name": "06｜Layqa Nuna Yawar｜Flight",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "美國 / Newark",
+    "cityKeywords": [
+      "Newark",
+      "紐華克",
+      "Newark Liberty International Airport"
+    ],
+    "media": [
+      "壁畫/街頭",
+      "建築/場域"
+    ],
+    "works": "Newark Liberty International Airport Terminal A 永久壁畫｜持續開放",
+    "comment": "巨幅人物與鳥形圖像橫跨航廈動線，把移民、跨境旅行與紐澤西多族群肖像帶進高流量交通基礎設施。",
+    "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "artistStatement": "透過放大身體與遷徙象徵，讓航廈不只是中轉空間，也成為觀看地方社群與全球移動的公共門面。",
+    "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicTitle": "Flight｜Newark Terminal A",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicDesc": "以多族群肖像和飛行意象構成航廈尺度的公共壁畫。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-07",
+    "dedupeKey": "dynamic-2026-08-14-karyn-olivier-approach-newark-terminal-a",
+    "name": "07｜Karyn Olivier｜Approach",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "美國 / Newark",
+    "cityKeywords": [
+      "Newark",
+      "紐華克",
+      "Newark Liberty International Airport"
+    ],
+    "media": [
+      "雕塑",
+      "建築/場域"
+    ],
+    "works": "Newark Liberty International Airport Terminal A 永久委託｜持續開放",
+    "comment": "懸掛式幾何構件以機場接近、降落與方向感為線索，在大尺度室內中建立隨旅客視角改變的抽象地標。",
+    "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "artistStatement": "作品利用移動視點和航空導航的心理經驗，使航廈上空成為不斷重組的感知空間。",
+    "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicTitle": "Approach｜Newark Terminal A",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicDesc": "旅客行進時才逐步組合完成的懸吊式航廈雕塑。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-08",
+    "dedupeKey": "dynamic-2026-08-14-stan-douglas-penn-stations-half-century",
+    "name": "08｜Stan Douglas｜Penn Station’s Half Century",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "美國 / New York",
+    "cityKeywords": [
+      "New York",
+      "紐約",
+      "Manhattan",
+      "Moynihan Train Hall"
+    ],
+    "media": [
+      "光/影像/投影",
+      "建築/場域"
+    ],
+    "works": "Moynihan Train Hall 永久攝影壁畫｜持續開放",
+    "comment": "四幅數位重建的歷史場景把舊賓州車站消失的公共記憶嵌入新車站，讓通勤者在當代基礎設施中遇見被拆除的城市空間。",
+    "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "artistStatement": "以電影式重演與檔案研究處理建築記憶，讓公共交通場域同時成為城市歷史的可視介面。",
+    "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicTitle": "Penn Station’s Half Century｜Moynihan Train Hall",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicDesc": "以數位攝影重演半世紀車站歷史的永久壁畫。",
+    "relatedByCity": [
+      "competition-2026-08-13-05"
+    ]
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-09",
+    "dedupeKey": "dynamic-2026-08-14-elmgreen-dragset-the-hive",
+    "name": "09｜Elmgreen & Dragset｜The Hive",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "美國 / New York",
+    "cityKeywords": [
+      "New York",
+      "紐約",
+      "Manhattan",
+      "Moynihan Train Hall"
+    ],
+    "media": [
+      "雕塑",
+      "建築/場域",
+      "光/影像/投影"
+    ],
+    "works": "Moynihan Train Hall 永久懸吊城市模型｜持續開放",
+    "comment": "倒懸的摩天樓群以發光模型壓低車站天際線，將紐約建築的垂直競逐轉化為旅客抬頭可見的蜂巢。",
+    "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "artistStatement": "作品把城市尺度翻轉並壓縮於交通大廳，使建築權力、密度與集體棲居在日常通勤中被重新觀看。",
+    "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicTitle": "The Hive｜Moynihan Train Hall",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicDesc": "倒懸發光摩天樓群把車站天花變成另一座城市。",
+    "relatedByCity": [
+      "competition-2026-08-13-05"
+    ]
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "dynamic-2026-08-14-10",
+    "dedupeKey": "dynamic-2026-08-14-kehinde-wiley-go",
+    "name": "10｜Kehinde Wiley｜Go",
+    "tier": "動態情報層",
+    "region": "西方",
+    "country": "美國 / New York",
+    "cityKeywords": [
+      "New York",
+      "紐約",
+      "Manhattan",
+      "Moynihan Train Hall"
+    ],
+    "media": [
+      "壁畫/街頭",
+      "建築/場域"
+    ],
+    "works": "Moynihan Train Hall 永久彩繪玻璃天花｜持續開放",
+    "comment": "年輕黑人紐約人以街舞姿勢浮游於藍天和雲層，將宗教壁畫與歷史車站天花的權威語彙交給當代城市身體。",
+    "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "artistStatement": "透過古典升天圖像與當代肖像的置換，作品重寫誰能在宏偉公共建築中被放大、被紀念。",
+    "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicTitle": "Go｜Moynihan Train Hall",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+    "classicDesc": "街舞身體在彩繪玻璃天空中升起的永久天花作品。",
+    "relatedByCity": [
+      "competition-2026-08-13-05"
+    ]
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-global-2026-08-14-01",
+    "dedupeKey": "classic-global-alexander-calder-flamingo-chicago",
+    "name": "全球經典01｜Alexander Calder｜Flamingo",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "美國 / Chicago",
+    "cityKeywords": [
+      "Chicago",
+      "芝加哥"
+    ],
+    "media": [
+      "雕塑",
+      "建築/場域"
+    ],
+    "works": "Chicago Federal Center｜1974｜彩繪鋼",
+    "comment": "53 英尺高的紅色穩定雕塑以曲線和開口對照 Mies 聯邦中心的黑色直角幕牆，成為美國聯邦 Art in Architecture 計畫首件完成委託。",
+    "website": "https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/federal-center-chicago-il",
+    "workPage": "https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/federal-center-chicago-il",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/federal-center-chicago-il",
+    "artistStatement": "以結構平衡與負空間回應廣場尺度，使巨大鋼體仍保有線條般的速度與輕盈。",
+    "artistStatementSource": "https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/federal-center-chicago-il",
+    "classicTitle": "Flamingo｜1974",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/federal-center-chicago-il",
+    "classicDesc": "紅色曲線穩定雕塑重新定義聯邦廣場的尺度與識別。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-global-2026-08-14-02",
+    "dedupeKey": "classic-global-henry-moore-nuclear-energy-chicago",
+    "name": "全球經典02｜Henry Moore｜Nuclear Energy",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "美國 / Chicago",
+    "cityKeywords": [
+      "Chicago",
+      "芝加哥",
+      "University of Chicago"
+    ],
+    "media": [
+      "紀念性公共藝術",
+      "雕塑"
+    ],
+    "works": "University of Chicago｜1967｜青銅",
+    "comment": "作品立於世界首次可控自持核連鎖反應舊址，以頭骨、蘑菇雲、洞窟與建築的多重形象，同時容納核能的希望與毀滅。",
+    "website": "https://publicart.uchicago.edu/art/nuclear-energy/",
+    "workPage": "https://publicart.uchicago.edu/art/nuclear-energy/",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://publicart.uchicago.edu/art/nuclear-energy/",
+    "artistStatement": "將紀念性從英雄敘事移向科技倫理的矛盾，使量體與空洞共同承擔不可化約的歷史。",
+    "artistStatementSource": "https://publicart.uchicago.edu/art/nuclear-energy/",
+    "classicTitle": "Nuclear Energy｜1967",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://publicart.uchicago.edu/art/nuclear-energy/",
+    "classicDesc": "以青銅的實體與空腔紀念原子時代的誕生與兩面性。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-global-2026-08-14-03",
+    "dedupeKey": "classic-global-louise-nevelson-atmosphere-environment-x-princeton",
+    "name": "全球經典03｜Louise Nevelson｜Atmosphere and Environment X",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "美國 / Princeton",
+    "cityKeywords": [
+      "Princeton",
+      "普林斯頓"
+    ],
+    "media": [
+      "雕塑",
+      "建築/場域"
+    ],
+    "works": "Princeton University｜1969–1970｜耐候鋼",
+    "comment": "厚鋼板切割的矩形、圓形與柱狀孔洞在圖書館前形成可穿透的光影架構；鏽蝕表層隨環境成熟，讓作品時間性可見。",
+    "website": "https://artmuseum.princeton.edu/art/collections/objects/31285",
+    "workPage": "https://artmuseum.princeton.edu/art/collections/objects/31285",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artmuseum.princeton.edu/art/collections/objects/31285",
+    "artistStatement": "以耐候鋼把拼裝語彙放大到建築尺度，讓陽光、陰影與觀看路徑持續改寫雕塑表面。",
+    "artistStatementSource": "https://artmuseum.princeton.edu/art/collections/objects/31285",
+    "classicTitle": "Atmosphere and Environment X｜1969–70",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artmuseum.princeton.edu/art/collections/objects/31285",
+    "classicDesc": "耐候鋼構件以光影和鏽層把校園環境納入作品。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-global-2026-08-14-04",
+    "dedupeKey": "classic-global-daniel-buren-les-deux-plateaux-paris",
+    "name": "全球經典04｜Daniel Buren｜Les Deux Plateaux",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "法國 / Paris",
+    "cityKeywords": [
+      "Paris",
+      "巴黎",
+      "Palais-Royal"
+    ],
+    "media": [
+      "建築/場域",
+      "雕塑"
+    ],
+    "works": "Palais-Royal｜1986｜黑白大理石柱列",
+    "comment": "不同高度的黑白條紋柱體將原停車庭院轉化為可自由使用的都市地面，並以露出與下沉關係指向地下機房和古典柱式。",
+    "website": "https://mairiepariscentre.paris.fr/pages/top-3-des-oeuvres-d-art-contemporain-dans-l-espace-public-16532",
+    "workPage": "https://mairiepariscentre.paris.fr/pages/top-3-des-oeuvres-d-art-contemporain-dans-l-espace-public-16532",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://mairiepariscentre.paris.fr/pages/top-3-des-oeuvres-d-art-contemporain-dans-l-espace-public-16532",
+    "artistStatement": "作品以固定條紋模組和高差介入歷史權力庭院，使秩序、遊戲與地下基礎設施同時被看見。",
+    "artistStatementSource": "https://mairiepariscentre.paris.fr/pages/top-3-des-oeuvres-d-art-contemporain-dans-l-espace-public-16532",
+    "classicTitle": "Les Deux Plateaux｜1986",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://mairiepariscentre.paris.fr/pages/top-3-des-oeuvres-d-art-contemporain-dans-l-espace-public-16532",
+    "classicDesc": "黑白柱列把宮殿庭院改造成可行走、遊戲與爭論的城市平台。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-global-2026-08-14-05",
+    "dedupeKey": "classic-global-marta-minujin-parthenon-of-books-kassel",
+    "name": "全球經典05｜Marta Minujín｜The Parthenon of Books",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "德國 / Kassel",
+    "cityKeywords": [
+      "Kassel",
+      "卡塞爾"
+    ],
+    "media": [
+      "建築/場域",
+      "社會參與",
+      "裝置"
+    ],
+    "works": "documenta 14, Friedrichsplatz｜2017｜鋼、塑膠膜、67,000 本禁書",
+    "comment": "仿雅典帕德嫩神殿的臨時結構覆以曾被禁的書籍，立於納粹焚書地點；展期末書本發還公眾，使紀念物重新流通。",
+    "website": "https://documenta.de/en/retrospective/documenta-14",
+    "workPage": "https://documenta.de/en/retrospective/documenta-14",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://documenta.de/en/retrospective/documenta-14",
+    "artistStatement": "以集體捐書、巨型複製與最終拆解，把言論自由從象徵建築轉成可參與、可再分配的公共行動。",
+    "artistStatementSource": "https://documenta.de/en/retrospective/documenta-14",
+    "classicTitle": "The Parthenon of Books｜2017",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://documenta.de/en/retrospective/documenta-14",
+    "classicDesc": "由禁書構成並在閉幕時解體回到讀者手中的臨時紀念建築。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-german-2026-08-14-01",
+    "dedupeKey": "classic-german-joseph-beuys-7000-eichen-kassel",
+    "name": "德國經典01｜Joseph Beuys｜7000 Eichen",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "德國 / Kassel",
+    "cityKeywords": [
+      "Kassel",
+      "卡塞爾"
+    ],
+    "media": [
+      "地景/大地藝術",
+      "社會參與",
+      "建築/場域"
+    ],
+    "works": "Kassel 全市｜1982–1987｜7,000 棵樹與玄武岩柱",
+    "comment": "每棵樹配一根玄武岩柱，經五年集體植樹分散到整座城市；作品把雕塑從單一物件轉為長期生長、照護與市民參與的制度。",
+    "website": "https://www.kassel.de/buerger/kunst_und_kultur/eichen-von-joseph-beuys.php",
+    "workPage": "https://www.kassel.de/buerger/kunst_und_kultur/eichen-von-joseph-beuys.php",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kassel.de/buerger/kunst_und_kultur/eichen-von-joseph-beuys.php",
+    "artistStatement": "「城市造林而非城市行政」將社會雕塑落實為可持續數十年的生態網絡與公共責任。",
+    "artistStatementSource": "https://www.kassel.de/buerger/kunst_und_kultur/eichen-von-joseph-beuys.php",
+    "classicTitle": "7000 Eichen｜1982–1987",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kassel.de/buerger/kunst_und_kultur/eichen-von-joseph-beuys.php",
+    "classicDesc": "七千組樹木與玄武岩柱把整座卡塞爾變成持續生長的社會雕塑。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-german-2026-08-14-02",
+    "dedupeKey": "classic-german-dani-karavan-way-of-human-rights-nuremberg",
+    "name": "德國經典02｜Dani Karavan｜Straße der Menschenrechte",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "德國 / Nürnberg",
+    "cityKeywords": [
+      "Nürnberg",
+      "Nuremberg",
+      "紐倫堡"
+    ],
+    "media": [
+      "紀念性公共藝術",
+      "建築/場域",
+      "社會參與"
+    ],
+    "works": "Germanisches Nationalmuseum 前｜1993｜混凝土柱、石板、橡樹與門拱",
+    "comment": "27 根八米高圓柱以德文及不同語言刻錄《世界人權宣言》，在曾制定納粹種族法的城市建立可穿行的倫理軸線。",
+    "website": "https://www.nuernberg.de/internet/menschenrechte_e/im_stadtbild_strasse_der_menschrechte_en.html",
+    "workPage": "https://www.nuernberg.de/internet/menschenrechte_e/im_stadtbild_strasse_der_menschrechte_en.html",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nuernberg.de/internet/menschenrechte_e/im_stadtbild_strasse_der_menschrechte_en.html",
+    "artistStatement": "透過重複柱列、多語文字與城市通道，讓人權不只是碑文，而成為每日必須穿越與回應的公共承諾。",
+    "artistStatementSource": "https://www.nuernberg.de/internet/menschenrechte_e/im_stadtbild_strasse_der_menschrechte_en.html",
+    "classicTitle": "Straße der Menschenrechte｜1993",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nuernberg.de/internet/menschenrechte_e/im_stadtbild_strasse_der_menschrechte_en.html",
+    "classicDesc": "多語人權條文構成連接博物館與城市的可步行紀念空間。",
+    "relatedByCity": [
+      "competition-2026-08-11-02"
+    ]
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-german-2026-08-14-03",
+    "dedupeKey": "classic-german-gerhard-richter-south-transept-window-cologne-cathedral",
+    "name": "德國經典03｜Gerhard Richter｜Südquerhausfenster",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "德國 / Köln",
+    "cityKeywords": [
+      "Köln",
+      "Cologne",
+      "科隆"
+    ],
+    "media": [
+      "光/影像/投影",
+      "建築/場域"
+    ],
+    "works": "Kölner Dom｜2007｜彩色玻璃",
+    "comment": "11,263 塊彩色玻璃依演算法排列於哥德式南翼窗，拒絕具象宗教敘事，讓光線本身在歷史建築中生成無固定詮釋的現代圖像。",
+    "website": "https://www.koelner-dom.de/kunstwerke/suedquerhausfenster",
+    "workPage": "https://www.koelner-dom.de/kunstwerke/suedquerhausfenster",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koelner-dom.de/kunstwerke/suedquerhausfenster",
+    "artistStatement": "以隨機色場和日光變化回應主教座堂，把抽象繪畫轉化為建築、時間與禮拜共同完成的公共光環境。",
+    "artistStatementSource": "https://www.koelner-dom.de/kunstwerke/suedquerhausfenster",
+    "classicTitle": "Südquerhausfenster｜2007",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koelner-dom.de/kunstwerke/suedquerhausfenster",
+    "classicDesc": "演算法色格藉日光把哥德建築轉化為持續變化的抽象空間。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-german-2026-08-14-04",
+    "dedupeKey": "classic-german-dieter-glasmacher-werner-noefer-gruenspan-wall-painting-hamburg",
+    "name": "德國經典04｜Dieter Glasmacher、Werner Nöfer｜Gruenspan Wandbild",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "德國 / Hamburg",
+    "cityKeywords": [
+      "Hamburg",
+      "漢堡",
+      "St. Pauli"
+    ],
+    "media": [
+      "壁畫/街頭",
+      "建築/場域"
+    ],
+    "works": "Gruenspan 外牆｜1969｜約 600 平方公尺壁畫",
+    "comment": "歐洲最早且最大型的 Pop Art／街頭藝術壁畫之一，以高對比圖形包覆音樂場館外牆；2026 修復擴展凸顯其公共文化資產地位。",
+    "website": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/aktuelles/sanierung-gruenspan-wandbild-wird-erweitert-1183998",
+    "workPage": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/aktuelles/sanierung-gruenspan-wandbild-wird-erweitert-1183998",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/aktuelles/sanierung-gruenspan-wandbild-wird-erweitert-1183998",
+    "artistStatement": "作品把流行視覺語言從平面媒體放大為街區建築皮層，並在修復中延續聖保利的反文化記憶。",
+    "artistStatementSource": "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/aktuelles/sanierung-gruenspan-wandbild-wird-erweitert-1183998",
+    "classicTitle": "Gruenspan Wandbild｜1969",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-kultur-und-medien/aktuelles/sanierung-gruenspan-wandbild-wird-erweitert-1183998",
+    "classicDesc": "約六百平方公尺的早期歐洲 Pop Art 壁畫將場館立面變成街區符號。",
+    "relatedByCity": []
+  },
+  {
+    "category": "作品/展覽",
+    "status": "官方來源",
+    "updated": "2026-08-14",
+    "id": "classic-german-2026-08-14-05",
+    "dedupeKey": "classic-german-norbert-kricke-mannesmann-i-bewegung-duesseldorf",
+    "name": "德國經典05｜Norbert Kricke｜Mannesmann I / Bewegung",
+    "tier": "經典檔案庫",
+    "region": "西方",
+    "country": "德國 / Düsseldorf",
+    "cityKeywords": [
+      "Düsseldorf",
+      "Duesseldorf",
+      "杜塞道夫"
+    ],
+    "media": [
+      "雕塑",
+      "建築/場域"
+    ],
+    "works": "Mannesmannufer｜1960｜不鏽鋼束",
+    "comment": "五重鋼條扭結成近似三維手勢線條，與鄰近辦公大樓的嚴整立面形成動態、輕盈且開放的對照。",
+    "website": "https://emuseum.duesseldorf.de/objects/138087/mannesmann-i--bewegung",
+    "workPage": "https://emuseum.duesseldorf.de/objects/138087/mannesmann-i--bewegung",
+    "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://emuseum.duesseldorf.de/objects/138087/mannesmann-i--bewegung",
+    "artistStatement": "以線性鋼束捕捉運動而非封閉量體，使城市雕塑像在空中持續書寫。",
+    "artistStatementSource": "https://emuseum.duesseldorf.de/objects/138087/mannesmann-i--bewegung",
+    "classicTitle": "Mannesmann I / Bewegung｜1960",
+    "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://emuseum.duesseldorf.de/objects/138087/mannesmann-i--bewegung",
+    "classicDesc": "成束鋼線以空間書寫般的結構鬆動企業建築的秩序。",
+    "relatedByCity": []
+  }
+]
