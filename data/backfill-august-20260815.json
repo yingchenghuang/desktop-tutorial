@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-15T08:30:00+08:00",
+    "generatedAt": "2026-08-15T05:02:35+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-08-15",
     "total": 20,
@@ -9,7 +9,7 @@
     "germanClassicEntries": 5,
     "source": "各作品與機構官方頁",
     "note": "8/15 公共藝術固定 10＋5＋5；全球經典、德國經典、動態情報與公開徵選分層展示。",
-    "version": "2026-08-15-public-art-r18",
+    "version": "2026-08-15-public-art-r19",
     "sourceAudit": "5 個失效或阻擋中的經典案例來源已改為可讀官方／第一方機構頁面。"
   },
   "entries": [
