@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-15-public-art-and-competitions-r17",
+  "version": "2026-08-15-public-art-and-competitions-r18",
   "generatedAt": "2026-08-15T08:30:00+08:00",
   "files": [
     "backfill-august-20260801.json",
@@ -22,7 +22,7 @@
   "statementEntries": 330,
   "statementSourceEntries": 330,
   "statementBacklog": 0,
-  "note": "8/15 公共藝術固定 10＋5＋5，共 20 則；保存城市關鍵字與雙向同城關聯。公開徵選新增 5 則，並移除 2 則已截止項目。",
+  "note": "8/15 公共藝術固定 10＋5＋5，共 20 則；公開徵選新增 5 則並移除 2 則已截止項目；5 個失效來源已改為可讀官方／第一方機構頁面。",
   "imageEntries": 330,
   "imageBacklog": 0
 }
