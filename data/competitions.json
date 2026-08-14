@@ -1,54 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-08-14T05:00:48+08:00",
+    "generatedAt": "2026-08-15T08:30:00+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
-    "activeEntries": 29,
+    "activeEntries": 32,
     "addedToday": 5,
-    "expiredRemoved": 0,
+    "expiredRemoved": 2,
     "note": "競圖資料庫每日新增 5 則；保留全部未截止資料，只移除 deadline 已過期項目。"
   },
   "entries": [
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-11",
-      "id": "competition-2026-08-11-01",
-      "dedupeKey": "opportunity-2026-08-11-dlr-galileo-kompetenzzentrum-oberpfaffenhofen",
-      "name": "01｜Kunst am Bau｜DLR Galileo-Kompetenzzentrum",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "德國 / Oberpfaffenhofen",
-      "cityKeywords": [
-        "Oberpfaffenhofen",
-        "Weßling"
-      ],
-      "media": [
-        "Kunst am Bau",
-        "光/影像/投影",
-        "建築/場域"
-      ],
-      "works": "玻璃立面、挑高中庭天花或內院介入｜截止 2026.08.14 12:00",
-      "comment": "DLR 新研究建築徵求專業視覺藝術家，以導航、時間、定位與科技為概念，介入玻璃入口、中庭座階上方或內院。兩階段不公開競賽；實作總額須以完整招標文件為準。",
-      "website": "https://www.igbk.de/de/service/ausschreibungen/aktuelle-internationale-ausschreibungen/4097-kunst-am-bau-wettbewerb-dlr-oberpfaffenhofen",
-      "workPage": "https://www.igbk.de/de/service/ausschreibungen/aktuelle-internationale-ausschreibungen/4097-kunst-am-bau-wettbewerb-dlr-oberpfaffenhofen",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.igbk.de/de/service/ausschreibungen/aktuelle-internationale-ausschreibungen/4097-kunst-am-bau-wettbewerb-dlr-oberpfaffenhofen",
-      "artistStatement": "任務的高價值在於抽象科學概念與建築節點高度對位，作品需兼顧研究機構的精準語言、日常使用與室內公共性。",
-      "artistStatementSource": "https://www.igbk.de/de/service/ausschreibungen/aktuelle-internationale-ausschreibungen/4097-kunst-am-bau-wettbewerb-dlr-oberpfaffenhofen",
-      "classicTitle": "Galileo-Kompetenzzentrum Kunst am Bau｜2026",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.igbk.de/de/service/ausschreibungen/aktuelle-internationale-ausschreibungen/4097-kunst-am-bau-wettbewerb-dlr-oberpfaffenhofen",
-      "classicDesc": "把導航、時間與定位轉化為研究建築中的空間感知。",
-      "deadline": "2026-08-14T12:00:00+02:00",
-      "deadlineLabel": "截止 2026.08.14",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "time",
-      "organizer": "Deutsches Zentrum für Luft- und Raumfahrt（DLR）",
-      "eligibility": "專業視覺藝術家；完整地域與執業資格依正式文件",
-      "budget": "未公開",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
     {
       "category": "公開徵件",
       "status": "官方來源",
@@ -167,7 +128,10 @@
       "budget": "總額 €300,000；最多兩件、每件上限 €150,000",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "classic-german-2026-08-12-02"
+        "classic-german-2026-08-12-02",
+        "classic-german-2026-08-15-01",
+        "classic-german-2026-08-15-02",
+        "classic-german-2026-08-15-05"
       ]
     },
     {
@@ -245,45 +209,6 @@
       "organizer": "Stiftung Luthergedenkstätten in Sachsen-Anhalt",
       "eligibility": "未公開",
       "budget": "未公開",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-11",
-      "id": "competition-2026-08-11-07",
-      "dedupeKey": "opportunity-2026-08-11-performing-environments-tirol-2027",
-      "name": "07｜KÖR Tirol 2027｜Performing Environments!",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "奧地利 / Tirol",
-      "cityKeywords": [
-        "Tirol",
-        "Innsbruck"
-      ],
-      "media": [
-        "表演/行為",
-        "聲音/霧/水",
-        "建築/場域"
-      ],
-      "works": "場域特定表演、介入與聲音作品｜總額 €80,000｜截止 2026.08.14",
-      "comment": "開放居住於 EEA 或 EFTA 的藝術家、團體、建築師與策展人，最多選三案，補助可達合格總成本 100%。作品須於 2027 年 3 至 11 月在 Tirol 城鄉公共空間實現，申請文件限德文。",
-      "website": "https://www.koer-tirol.at/ausschreibung/2027/",
-      "workPage": "https://www.koer-tirol.at/ausschreibung/2027/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer-tirol.at/ausschreibung/2027/",
-      "artistStatement": "主題把環境視為能回應、能行動的共同參與者，極適合以身體、記憶、路徑和場域時間發展非物件型公共藝術。",
-      "artistStatementSource": "https://www.koer-tirol.at/ausschreibung/2027/",
-      "classicTitle": "Performing Environments!｜2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer-tirol.at/ausschreibung/2027/",
-      "classicDesc": "以表演、聲音和集體記憶把公共空間轉成具有行動力的對話者。",
-      "deadline": "2026-08-14T23:59:59+02:00",
-      "deadlineLabel": "截止 2026.08.14",
-      "deadlineTimezone": "Europe/Vienna",
-      "deadlinePrecision": "date",
-      "organizer": "KÖR Tirol",
-      "eligibility": "居住於 EEA 或 EFTA 的藝術家、團體、建築師與策展人；申請文件限德文",
-      "budget": "總額 €80,000；最多三案",
       "applicationFee": "未公開",
       "relatedByCity": []
     },
@@ -640,7 +565,8 @@
       "relatedByCity": [
         "dynamic-2026-08-12-03",
         "dynamic-2026-08-12-06",
-        "dynamic-2026-08-12-10"
+        "dynamic-2026-08-12-10",
+        "classic-global-2026-08-15-02"
       ]
     },
     {
@@ -981,7 +907,9 @@
         "dynamic-2026-08-14-02",
         "dynamic-2026-08-14-08",
         "dynamic-2026-08-14-09",
-        "dynamic-2026-08-14-10"
+        "dynamic-2026-08-14-10",
+        "dynamic-2026-08-15-01",
+        "dynamic-2026-08-15-02"
       ]
     },
     {
@@ -1177,6 +1105,209 @@
       "deadlinePrecision": "time",
       "organizer": "Surprise Arts",
       "eligibility": "Surprise 在地學生藝術社團或科學社團；社團領導、教育者及直接合作的藝術家可申請",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "competition-2026-08-15-01",
+      "dedupeKey": "opportunity-2026-08-15-calgary-arts-development-public-art-school-program-artist-roster-calgary",
+      "name": "30｜Calgary Arts Development｜Public Art School Program Artist Roster",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "加拿大 / Calgary",
+      "cityKeywords": [
+        "Calgary",
+        "卡加利",
+        "Treaty 7"
+      ],
+      "media": [
+        "公共藝術",
+        "教育/社會參與"
+      ],
+      "works": "學校公共藝術計畫藝術家名冊｜截止 2026.09.01",
+      "comment": "徵求具公共或社群藝術實務的 Calgary 藝術家，進入與學校合作的常備名冊；公告列有簡報、準備、時薪及材料費架構。",
+      "website": "https://calgaryartsdevelopment.com/public-art/opportunities/all/standing-offer-public-art-school-program-artist-roster/",
+      "workPage": "https://calgaryartsdevelopment.com/public-art/opportunities/all/standing-offer-public-art-school-program-artist-roster/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://calgaryartsdevelopment.com/public-art/opportunities/all/standing-offer-public-art-school-program-artist-roster/",
+      "artistStatement": "適合能把藝術方法轉化為學生參與、共同設計與校園公共成果的創作者。",
+      "artistStatementSource": "https://calgaryartsdevelopment.com/public-art/opportunities/all/standing-offer-public-art-school-program-artist-roster/",
+      "classicTitle": "Calgary Arts Development｜Public Art School Program Artist Roster｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://calgaryartsdevelopment.com/public-art/opportunities/all/standing-offer-public-art-school-program-artist-roster/",
+      "classicDesc": "建立可持續媒合的學校公共藝術家名冊。",
+      "deadline": "2026-09-01T23:59:59-06:00",
+      "deadlineLabel": "截止 2026.09.01",
+      "deadlineTimezone": "America/Edmonton",
+      "deadlinePrecision": "date",
+      "organizer": "Calgary Arts Development",
+      "eligibility": "居住於 Calgary / Treaty 7 地區、年滿 18 歲，具公共藝術或社區實務之藝術家",
+      "budget": "簡報 C$541；準備 C$400；C$40/小時；材料最高 C$200",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "competition-2026-08-15-02",
+      "dedupeKey": "opportunity-2026-08-15-hiding-in-plain-site-international-public-art-short-film-festival-online",
+      "name": "31｜Hiding in Plain Site｜International Public Art Short Film Festival",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "國際 / Online",
+      "cityKeywords": [
+        "International",
+        "Global",
+        "Online",
+        "全球",
+        "線上"
+      ],
+      "media": [
+        "影像",
+        "公共藝術",
+        "數位/XR/AI"
+      ],
+      "works": "2–20 分鐘公共藝術短片徵件｜截止 2026.09.10",
+      "comment": "國際短片節徵求探索、記錄或以公共藝術為核心的 2–20 分鐘作品，接受影片、錄像、XR 與 AI 相關形式。",
+      "website": "https://www.hidinginplainsite.com/",
+      "workPage": "https://www.hidinginplainsite.com/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hidinginplainsite.com/",
+      "artistStatement": "以移動影像延伸公共藝術的現場性，讓城市作品、觀眾行為與空間政治可跨地域傳播。",
+      "artistStatementSource": "https://www.hidinginplainsite.com/",
+      "classicTitle": "Hiding in Plain Site｜International Public Art Short Film Festival｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hidinginplainsite.com/",
+      "classicDesc": "公共藝術透過短片、XR 與數位形式進入國際放映網絡。",
+      "deadline": "2026-09-10T23:59:59Z",
+      "deadlineLabel": "截止 2026.09.10",
+      "deadlineTimezone": "未公開（以主辦頁為準）",
+      "deadlinePrecision": "date",
+      "organizer": "Hiding in Plain Site",
+      "eligibility": "國際藝術家、電影創作者及跨域團隊；作品 2–20 分鐘",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "competition-2026-08-15-03",
+      "dedupeKey": "opportunity-2026-08-15-city-of-davis-skate-park-public-art-rfq-davis",
+      "name": "32｜City of Davis｜Skate Park Public Art RFQ",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Davis",
+      "cityKeywords": [
+        "Davis",
+        "戴維斯",
+        "California",
+        "Yolo County"
+      ],
+      "media": [
+        "雕塑",
+        "公園/地景",
+        "建築/場域"
+      ],
+      "works": "Community Park skate park 永久公共藝術｜截止 2026.10.01",
+      "comment": "徵求專業藝術家或團隊設計、製作並安裝 Community Park 滑板場永久作品，需回應滑板文化、青年使用與高強度戶外環境。",
+      "website": "https://yoloarts.org/call-for-art/",
+      "workPage": "https://yoloarts.org/call-for-art/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://yoloarts.org/call-for-art/",
+      "artistStatement": "作品需在運動動線、安全、耐候與社區辨識之間取得平衡，並把滑板場視為完整公共空間。",
+      "artistStatementSource": "https://yoloarts.org/call-for-art/",
+      "classicTitle": "City of Davis｜Skate Park Public Art RFQ｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://yoloarts.org/call-for-art/",
+      "classicDesc": "以永久作品把滑板文化、青年社群與公園更新連結起來。",
+      "deadline": "2026-10-01T23:59:59-07:00",
+      "deadlineLabel": "截止 2026.10.01",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "date",
+      "organizer": "City of Davis / YoloArts",
+      "eligibility": "專業藝術家或藝術家團隊；完整地域與經驗資格依 RFQ",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "competition-2026-08-15-04",
+      "dedupeKey": "opportunity-2026-08-15-strathcona-county-fieldhouse-public-art-opportunities-sherwood-park",
+      "name": "33｜Strathcona County｜Fieldhouse Public Art Opportunities",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "加拿大 / Sherwood Park",
+      "cityKeywords": [
+        "Sherwood Park",
+        "Strathcona County",
+        "Alberta",
+        "雪伍德公園"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "公共藝術"
+      ],
+      "works": "Fieldhouse 室內外多處公共藝術｜截止 2026.09.30",
+      "comment": "新 Fieldhouse 開放多個室內外公共藝術機會，面向加拿大藝術家與團隊；入圍者可獲提案酬金。",
+      "website": "https://www.strathcona.ca/council-county/news/news/2026/7/13/fieldhouse-public-art-opportunities-now-open-to-artists/",
+      "workPage": "https://www.strathcona.ca/council-county/news/news/2026/7/13/fieldhouse-public-art-opportunities-now-open-to-artists/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.strathcona.ca/council-county/news/news/2026/7/13/fieldhouse-public-art-opportunities-now-open-to-artists/",
+      "artistStatement": "大型運動設施提供跨尺度介入機會，提案需同時處理建築整合、社群使用、耐久與清楚導引。",
+      "artistStatementSource": "https://www.strathcona.ca/council-county/news/news/2026/7/13/fieldhouse-public-art-opportunities-now-open-to-artists/",
+      "classicTitle": "Strathcona County｜Fieldhouse Public Art Opportunities｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.strathcona.ca/council-county/news/news/2026/7/13/fieldhouse-public-art-opportunities-now-open-to-artists/",
+      "classicDesc": "多處委託讓公共藝術從外部地標延伸到日常運動空間。",
+      "deadline": "2026-09-30T23:59:59-06:00",
+      "deadlineLabel": "截止 2026.09.30",
+      "deadlineTimezone": "America/Edmonton",
+      "deadlinePrecision": "date",
+      "organizer": "Strathcona County",
+      "eligibility": "加拿大藝術家或藝術家團隊",
+      "budget": "多個項目；金額依各 RFQ；入圍者有提案酬金",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "competition-2026-08-15-05",
+      "dedupeKey": "opportunity-2026-08-15-victoria-at-dusk-2027-open-call-victoria",
+      "name": "34｜Victoria at Dusk 2027｜Open Call",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "加拿大 / Victoria",
+      "cityKeywords": [
+        "Victoria",
+        "維多利亞",
+        "British Columbia"
+      ],
+      "media": [
+        "光/影像/投影",
+        "雕塑",
+        "臨時公共藝術"
+      ],
+      "works": "2027 夜間光藝術節公共作品｜截止 2026.09.01 23:59 PT",
+      "comment": "徵求光為核心的裝置、雕塑及臨時公共藝術，將於 2027 年 2 月 19–21 日在 Victoria 夜間城市空間展出。",
+      "website": "https://www.victoriaatdusk.ca/artists",
+      "workPage": "https://www.victoriaatdusk.ca/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.victoriaatdusk.ca/artists",
+      "artistStatement": "提案應利用黑暗、步行路徑與城市建築創造可親近的夜間經驗，並考量戶外安全與快速佈撤。",
+      "artistStatementSource": "https://www.victoriaatdusk.ca/artists",
+      "classicTitle": "Victoria at Dusk 2027｜Open Call｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.victoriaatdusk.ca/artists",
+      "classicDesc": "以光介入冬季夜間城市，形成三日公共藝術節路徑。",
+      "deadline": "2026-09-01T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.09.01 23:59 PT",
+      "deadlineTimezone": "America/Vancouver",
+      "deadlinePrecision": "time",
+      "organizer": "Victoria at Dusk",
+      "eligibility": "藝術家、創意工作者、建築師、設計師、團體及 First Nations 創作者",
       "budget": "未公開",
       "applicationFee": "未公開",
       "relatedByCity": []

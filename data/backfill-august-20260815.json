@@ -1,0 +1,669 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-15T08:30:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-15",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "各作品與機構官方頁",
+    "note": "8/15 公共藝術固定 10＋5＋5；全球經典、德國經典、動態情報與公開徵選分層展示。"
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-01",
+      "dedupeKey": "dynamic-peach-tao-montbellier-park-community-mural-2026-new-york",
+      "name": "01｜Peach Tao｜Montbellier Park Community Mural｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Queens",
+        "Laurelton",
+        "Montbellier Park"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與"
+      ],
+      "works": "Montbellier Park｜180 平方英尺｜2026 世界盃社區壁畫",
+      "comment": "由社區對話與公共彩繪日共同形成的皇后區壁畫，以世界盃為契機留下在地文化與歸屬感的長期公共作品。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "青年、藝術家與居民共同參與，使壁畫不只描繪社區，也由社區實際生產。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Montbellier Park Community Mural｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "小尺度牆面以共同彩繪放大 Laurelton 社區的文化能見度。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-02",
+      "dedupeKey": "dynamic-carlos-mateu-emerald-playground-community-mural-2026-new-york",
+      "name": "02｜Carlos Mateu｜Emerald Playground Community Mural｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Queens",
+        "Pomonok",
+        "Fresh Meadows",
+        "Emerald Playground"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與"
+      ],
+      "works": "Emerald Playground｜360 平方英尺｜2026 世界盃社區壁畫",
+      "comment": "以社區意見和公眾參與為基礎，在 Pomonok 遊樂場建立回應地方文化、運動熱情與多語社群的公共壁畫。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "將世界性賽事轉譯為在地共同創作，讓青少年與居民成為公園視覺環境的共同作者。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Emerald Playground Community Mural｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "社區彩繪把遊樂場轉成共享的世界盃文化記憶。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-03",
+      "dedupeKey": "dynamic-ellen-gallagher-fast-fish-and-loose-fish-2026-london",
+      "name": "03｜Ellen Gallagher｜Fast-Fish and Loose-Fish｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London Underground"
+      ],
+      "media": [
+        "平面/印刷",
+        "交通藝術"
+      ],
+      "works": "第 42 版 Pocket Tube Map 封面｜2026–2027",
+      "comment": "以海洋神話、殖民地圖與地下隧道旁隱沒水系為線索，讓每日使用的地鐵圖成為可攜式公共藝術。",
+      "website": "https://art.tfl.gov.uk/",
+      "workPage": "https://art.tfl.gov.uk/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "artistStatement": "Gallagher 以「jitter」鬆動看似固定的文化結構，將沉積、海洋與地底水道帶入交通圖像。",
+      "artistStatementSource": "https://art.tfl.gov.uk/",
+      "classicTitle": "Fast-Fish and Loose-Fish｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "classicDesc": "把口袋地鐵圖變成流通於全城的微型公共展場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-04",
+      "dedupeKey": "dynamic-michael-crowe-spaghetti-map-2026-london",
+      "name": "04｜Michael Crowe 與五所小學逾百位兒童｜Spaghetti Map｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London Underground"
+      ],
+      "media": [
+        "平面/印刷",
+        "社會參與",
+        "交通藝術"
+      ],
+      "works": "免費互動摺頁｜2026 年 7 月",
+      "comment": "兒童與創作者共同設計的互動地圖，引導乘客尋找倫敦地鐵永久公共藝術，將通勤轉化為探索遊戲。",
+      "website": "https://art.tfl.gov.uk/",
+      "workPage": "https://art.tfl.gov.uk/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "artistStatement": "以兒童視角重畫交通與藝術的關係，地圖不只指路，也鼓勵觀察、想像與跨站點學習。",
+      "artistStatementSource": "https://art.tfl.gov.uk/",
+      "classicTitle": "Spaghetti Map｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "classicDesc": "由百位兒童共同構成的地圖，讓地鐵公共藝術成為可遊玩的城市課程。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-05",
+      "dedupeKey": "dynamic-art-on-the-underground-outbound-pride-audio-tour-2026-london",
+      "name": "05｜Art on the Underground × OUTbound｜Pride Audio Tour｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London Underground"
+      ],
+      "media": [
+        "聲音",
+        "社會參與",
+        "交通藝術"
+      ],
+      "works": "五件公共作品 LGBTQ+ 聲音導覽｜2026",
+      "comment": "跨越五個站點與公共作品的免費音訊旅程，從 LGBTQ+ 視角討論身份、可見性與城市空間。",
+      "website": "https://art.tfl.gov.uk/",
+      "workPage": "https://art.tfl.gov.uk/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "artistStatement": "聲音導覽把既有作品重新編排成跨站敘事，讓被忽略的身份經驗進入日常交通網絡。",
+      "artistStatementSource": "https://art.tfl.gov.uk/",
+      "classicTitle": "Pride Audio Tour｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "classicDesc": "以酷兒視角串連五件公共作品，讓移動本身成為聆聽與再閱讀。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-06",
+      "dedupeKey": "dynamic-art-on-the-underground-writer-in-residence-2025-2026-london",
+      "name": "06｜Art on the Underground｜Writer in Residence 2025–2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London Underground"
+      ],
+      "media": [
+        "文字",
+        "社會參與",
+        "交通藝術"
+      ],
+      "works": "地鐵網絡駐地寫作計畫｜2025–2026",
+      "comment": "以交通網絡、乘客經驗與公共空間為研究場域，將寫作作為可在城市日常中被遇見的公共藝術方法。",
+      "website": "https://art.tfl.gov.uk/",
+      "workPage": "https://art.tfl.gov.uk/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "artistStatement": "駐地機制讓文字從書頁移向月台、列車與乘客關係，累積對都市移動的多聲部觀察。",
+      "artistStatementSource": "https://art.tfl.gov.uk/",
+      "classicTitle": "Writer in Residence 2025–2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "classicDesc": "把倫敦地鐵轉化為寫作現場與公共閱讀空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-07",
+      "dedupeKey": "dynamic-art-on-the-underground-art-map-2026-london",
+      "name": "07｜Art on the Underground｜Art Map｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Zone 1",
+        "London Underground"
+      ],
+      "media": [
+        "平面/印刷",
+        "檔案/地圖",
+        "交通藝術"
+      ],
+      "works": "Zone 1 車站免費藝術地圖｜2026 年 3 月",
+      "comment": "十年後擴充的地鐵藝術地圖，涵蓋自 1929 年以來的永久與臨時委託，新增近年六件重要永久作品。",
+      "website": "https://art.tfl.gov.uk/projects/art-map/",
+      "workPage": "https://art.tfl.gov.uk/projects/art-map/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "artistStatement": "地圖同時是通勤工具、作品索引與公共藝術史入口，使分散於系統中的委託重新形成可探索的網絡。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/art-map/",
+      "classicTitle": "Art Map｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "classicDesc": "一張可攜地圖把近百年的地鐵藝術整合為城市尺度的開放檔案。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-08",
+      "dedupeKey": "dynamic-caroline-walker-stratford-station-commission-2026-london",
+      "name": "08｜Caroline Walker｜Stratford station commission｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Stratford",
+        "Stratford station"
+      ],
+      "media": [
+        "繪畫",
+        "交通藝術",
+        "勞動議題"
+      ],
+      "works": "Stratford station 大型委託｜預定 2026.09.24",
+      "comment": "透過跟隨 Jubilee line 夜班女性駕駛與清潔人員，呈現維持 24 小時交通運作卻常不可見的勞動。",
+      "website": "https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "workPage": "https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "artistStatement": "電影感人物繪畫將維修基地與夜間班表轉化為公共肖像，照亮支撐城市移動的女性工作者。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "classicTitle": "Stratford station commission｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "classicDesc": "以大型站體作品讓夜班女性勞動進入白日乘客的視野。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-09",
+      "dedupeKey": "dynamic-hurvin-anderson-brixton-mural-programme-10th-commission-2026-london",
+      "name": "09｜Hurvin Anderson｜Brixton Mural Programme 10th commission｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Brixton",
+        "Brixton station"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "交通藝術",
+        "移民議題"
+      ],
+      "works": "Brixton Underground station｜預定 2026.11.19",
+      "comment": "第十件 Brixton Mural 委託延續藝術家對移民、過境與加勒比離散經驗的長期研究，回應當地黑人社群歷史。",
+      "website": "https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "workPage": "https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "artistStatement": "以具象與抽象、鮮明植物色彩與平塗區域之間的張力，表達身在一處、心繫另一處的移動感。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "classicTitle": "Brixton Mural Programme 10th commission｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/2026-programme-announcement/?project_category=poster",
+      "classicDesc": "新壁畫連結 Brixton 1980 年代壁畫史、當代移民經驗與快速城市變化。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "dynamic-2026-08-15-10",
+      "dedupeKey": "dynamic-rudy-loewe-the-congregation-london",
+      "name": "10｜Rudy Loewe｜The Congregation",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Brixton",
+        "Brixton station"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "交通藝術"
+      ],
+      "works": "Brixton Underground station 公共委託",
+      "comment": "以繪畫、繪圖與雕塑語言放大被主流歷史壓抑的聲音，在車站公共面建立不同知識與記憶共存的空間。",
+      "website": "https://art.tfl.gov.uk/",
+      "workPage": "https://art.tfl.gov.uk/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "artistStatement": "作品把歷史再敘述視為集體聚會，讓被省略的身份與事件重新佔據公共視野。",
+      "artistStatementSource": "https://art.tfl.gov.uk/",
+      "classicTitle": "The Congregation",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/",
+      "classicDesc": "大型公共圖像在日常通勤中聚集多重歷史聲音。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-global-2026-08-15-01",
+      "dedupeKey": "classic-global-alexander-calder-la-grande-vitesse-1969-grand-rapids",
+      "name": "全球經典01｜Alexander Calder｜La Grande Vitesse｜1969",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Grand Rapids",
+      "cityKeywords": [
+        "Grand Rapids",
+        "大急流城",
+        "Michigan"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Vandenberg Center｜1969｜彩繪鋼",
+      "comment": "美國首件由 National Endowment for the Arts 與地方共同支持的大型公共藝術委託之一；橙紅色鋼構成為市中心與城市識別的核心。",
+      "website": "https://www.grandrapidsmi.gov/Government/Departments/Office-of-Special-Events/Public-Art",
+      "workPage": "https://www.grandrapidsmi.gov/Government/Departments/Office-of-Special-Events/Public-Art",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.grandrapidsmi.gov/Government/Departments/Office-of-Special-Events/Public-Art",
+      "artistStatement": "以開放鋼板、拱形與負空間讓雕塑在不同視角中持續改變，將廣場尺度轉化成可步行閱讀的動態構圖。",
+      "artistStatementSource": "https://www.grandrapidsmi.gov/Government/Departments/Office-of-Special-Events/Public-Art",
+      "classicTitle": "La Grande Vitesse｜1969",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.grandrapidsmi.gov/Government/Departments/Office-of-Special-Events/Public-Art",
+      "classicDesc": "橙紅色鋼構把現代雕塑、城市廣場與地方認同連成一體。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-global-2026-08-15-02",
+      "dedupeKey": "classic-global-isamu-noguchi-black-sun-1969-seattle",
+      "name": "全球經典02｜Isamu Noguchi｜Black Sun｜1969",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Volunteer Park"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Volunteer Park｜1969｜巴西黑花崗岩",
+      "comment": "環形黑花崗岩以中央開口框取西雅圖天際線與太空針塔，使雕塑同時成為觀看城市的裝置。",
+      "website": "https://www.seattle.gov/parks/allparks/volunteer-park",
+      "workPage": "https://www.seattle.gov/parks/allparks/volunteer-park",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.seattle.gov/parks/allparks/volunteer-park",
+      "artistStatement": "Noguchi 以雕刻、穿孔與光線建立內外互換的視覺：觀眾既觀看石材，也透過石材觀看城市。",
+      "artistStatementSource": "https://www.seattle.gov/parks/allparks/volunteer-park",
+      "classicTitle": "Black Sun｜1969",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.seattle.gov/parks/allparks/volunteer-park",
+      "classicDesc": "黑色石環以負空間把公園、天空與城市地標收進同一視框。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-global-2026-08-15-03",
+      "dedupeKey": "classic-global-claes-oldenburg-clothespin-1976-philadelphia",
+      "name": "全球經典03｜Claes Oldenburg｜Clothespin｜1976",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城",
+        "Center City"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Centre Square｜1976｜耐候鋼｜約 14 公尺",
+      "comment": "把日常衣夾放大成都市尺度的鋼構，夾簧曲線亦隱含兩人相擁的輪廓，成為費城市中心最具辨識度的公共雕塑之一。",
+      "website": "https://www.associationforpublicart.org/artwork/clothespin/",
+      "workPage": "https://www.associationforpublicart.org/artwork/clothespin/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/clothespin/",
+      "artistStatement": "藉由巨幅尺度與材料轉換，最普通的家用品被提升為既幽默又具建築性的城市門標。",
+      "artistStatementSource": "https://www.associationforpublicart.org/artwork/clothespin/",
+      "classicTitle": "Clothespin｜1976",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/clothespin/",
+      "classicDesc": "巨型衣夾以幽默的尺度錯置，將辦公廣場變成公共想像的舞台。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-global-2026-08-15-04",
+      "dedupeKey": "classic-global-joan-miro-miss-chicago-1981-chicago",
+      "name": "全球經典04｜Joan Miró｜Miss Chicago｜1981",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Brunswick Plaza"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Brunswick Plaza｜1981｜鋼、混凝土、青銅、陶磚",
+      "comment": "抽象人形將 Miró 的生物形態、原色與圖像符號轉成十二公尺高的城市雕塑，與周邊高樓形成活潑對話。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "作品把女性形象、鳥、星與城市守護者的聯想疊合，以鮮明輪廓在密集商業區建立人性尺度。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Miss Chicago｜1981",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "原色與生物形態把抽象符號轉化為市中心的親切守望者。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-global-2026-08-15-05",
+      "dedupeKey": "classic-global-j-seward-johnson-jr-the-awakening-1980-national-harbor",
+      "name": "全球經典05｜J. Seward Johnson Jr.｜The Awakening｜1980",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / National Harbor",
+      "cityKeywords": [
+        "National Harbor",
+        "Oxon Hill",
+        "Maryland",
+        "華盛頓都會區"
+      ],
+      "media": [
+        "雕塑",
+        "公園/地景"
+      ],
+      "works": "National Harbor 河岸｜1980｜鑄鋁",
+      "comment": "五個分離的巨型身體部位像巨人正從土地中掙扎起身，觀眾可在手臂、膝與臉龐間穿行，形成高度互動的地景雕塑。",
+      "website": "https://www.nationalharbor.com/things-to-do/the-awakening/",
+      "workPage": "https://www.nationalharbor.com/things-to-do/the-awakening/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nationalharbor.com/things-to-do/the-awakening/",
+      "artistStatement": "將完整人體拆分並埋入地景，使地面成為敘事的一部分，觀眾的尺度與移動則完成「甦醒」的戲劇。",
+      "artistStatementSource": "https://www.nationalharbor.com/things-to-do/the-awakening/",
+      "classicTitle": "The Awakening｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nationalharbor.com/things-to-do/the-awakening/",
+      "classicDesc": "巨人自河岸土地中甦醒，讓觀眾以身體尺度參與雕塑敘事。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-german-2026-08-15-01",
+      "dedupeKey": "classic-german-peter-eisenman-denkmal-fu-r-die-ermordeten-juden-europas-2005-berlin",
+      "name": "德國經典01｜Peter Eisenman｜Denkmal für die ermordeten Juden Europas｜2005",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Mitte"
+      ],
+      "media": [
+        "紀念碑",
+        "建築/場域"
+      ],
+      "works": "柏林米特區｜2005｜2,711 座混凝土碑",
+      "comment": "起伏地面上排列 2,711 座尺度各異的混凝土碑，行走其間的視線、方向與身體感持續失衡，拒絕單一具象敘事。",
+      "website": "https://www.stiftung-denkmal.de/denkmaeler/denkmal-fuer-die-ermordeten-juden-europas-mit-ausstellung-im-ort-der-information/",
+      "workPage": "https://www.stiftung-denkmal.de/denkmaeler/denkmal-fuer-die-ermordeten-juden-europas-mit-ausstellung-im-ort-der-information/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stiftung-denkmal.de/denkmaeler/denkmal-fuer-die-ermordeten-juden-europas-mit-ausstellung-im-ort-der-information/",
+      "artistStatement": "以可進入的網格與不穩定地形，讓記憶成為每位訪客必須親身經歷、無法遠觀完成的空間。",
+      "artistStatementSource": "https://www.stiftung-denkmal.de/denkmaeler/denkmal-fuer-die-ermordeten-juden-europas-mit-ausstellung-im-ort-der-information/",
+      "classicTitle": "Denkmal für die ermordeten Juden Europas｜2005",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stiftung-denkmal.de/denkmaeler/denkmal-fuer-die-ermordeten-juden-europas-mit-ausstellung-im-ort-der-information/",
+      "classicDesc": "抽象碑林以身體迷失與尺度變化，建立面向歐洲被害猶太人的公共記憶。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-german-2026-08-15-02",
+      "dedupeKey": "classic-german-118-east-side-gallery-1990-berlin",
+      "name": "德國經典02｜118 位藝術家｜East Side Gallery｜1990",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Friedrichshain",
+        "Spree"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "紀念碑"
+      ],
+      "works": "柏林圍牆東側｜1990｜約 1.3 公里、106 幅壁畫",
+      "comment": "德國統一前後，來自多國藝術家在保留下來的柏林圍牆東側完成 106 幅作品，使壓迫性的邊界轉化成自由、和平與政治記憶的開放畫廊。",
+      "website": "https://www.berlin.de/landesdenkmalamt/denkmale/highlight-berliner-mauer/mauer-denkmale/east-side-gallery-648157.php",
+      "workPage": "https://www.berlin.de/landesdenkmalamt/denkmale/highlight-berliner-mauer/mauer-denkmale/east-side-gallery-648157.php",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/landesdenkmalamt/denkmale/highlight-berliner-mauer/mauer-denkmale/east-side-gallery-648157.php",
+      "artistStatement": "集體創作保留牆體的歷史物質，同時以圖像覆寫其政治意義；作品與載體不可分割。",
+      "artistStatementSource": "https://www.berlin.de/landesdenkmalamt/denkmale/highlight-berliner-mauer/mauer-denkmale/east-side-gallery-648157.php",
+      "classicTitle": "East Side Gallery｜1990",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/landesdenkmalamt/denkmale/highlight-berliner-mauer/mauer-denkmale/east-side-gallery-648157.php",
+      "classicDesc": "1.3 公里圍牆由國際藝術家共同改寫為自由與記憶的公共畫廊。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-german-2026-08-15-03",
+      "dedupeKey": "classic-german-ludwig-schwanthaler-bavaria-1850-mu-nchen",
+      "name": "德國經典03｜Ludwig Schwanthaler｜Bavaria｜1850",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "München",
+        "Munich",
+        "慕尼黑",
+        "Theresienwiese"
+      ],
+      "media": [
+        "雕塑",
+        "紀念碑"
+      ],
+      "works": "Ruhmeshalle / Theresienwiese｜1850｜青銅巨像",
+      "comment": "十九世紀大型青銅擬人像以巴伐利亞守護者姿態俯視慕尼黑，內部可登臨，結合紀念性雕塑、鑄造技術與城市景觀。",
+      "website": "https://www.muenchen.de/freizeit/denkmaeler-mit-besonderem-etwas",
+      "workPage": "https://www.muenchen.de/freizeit/denkmaeler-mit-besonderem-etwas",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.muenchen.de/freizeit/denkmaeler-mit-besonderem-etwas",
+      "artistStatement": "巨像把地域身份化為可進入的建築性身體，獅子、橡葉與抬手姿態共同塑造公共象徵。",
+      "artistStatementSource": "https://www.muenchen.de/freizeit/denkmaeler-mit-besonderem-etwas",
+      "classicTitle": "Bavaria｜1850",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.muenchen.de/freizeit/denkmaeler-mit-besonderem-etwas",
+      "classicDesc": "可登臨的青銅巨像將巴伐利亞身份、工藝與城市天際線合而為一。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-german-2026-08-15-04",
+      "dedupeKey": "classic-german-heinrich-du-ll-georg-pezold-max-heilmaier-friedensengel-1899-mu-nchen",
+      "name": "德國經典04｜Heinrich Düll、Georg Pezold、Max Heilmaier｜Friedensengel｜1899",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "München",
+        "Munich",
+        "慕尼黑",
+        "Bogenhausen"
+      ],
+      "media": [
+        "雕塑",
+        "紀念碑",
+        "公園/地景"
+      ],
+      "works": "Prinzregentenstraße｜1899｜金色勝利女神與紀念柱",
+      "comment": "金色天使立於柱頂，以寬闊平台、階梯與噴泉結合城市軸線，紀念普法戰爭後的和平年代。",
+      "website": "https://www.muenchen.de/sehenswuerdigkeiten/bauwerke-und-denkmaeler/friedensengel",
+      "workPage": "https://www.muenchen.de/sehenswuerdigkeiten/bauwerke-und-denkmaeler/friedensengel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.muenchen.de/sehenswuerdigkeiten/bauwerke-und-denkmaeler/friedensengel",
+      "artistStatement": "紀念柱不只供遠眺；水景、露台與道路視軸讓和平寓意成為日常城市散步的一部分。",
+      "artistStatementSource": "https://www.muenchen.de/sehenswuerdigkeiten/bauwerke-und-denkmaeler/friedensengel",
+      "classicTitle": "Friedensengel｜1899",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.muenchen.de/sehenswuerdigkeiten/bauwerke-und-denkmaeler/friedensengel",
+      "classicDesc": "金色天使、噴泉與城市軸線共同形成慕尼黑最具代表性的公共景觀。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-15",
+      "id": "classic-german-2026-08-15-05",
+      "dedupeKey": "classic-german-heinrich-strack-friedrich-drake-siegessa-ule-1873-berlin",
+      "name": "德國經典05｜Heinrich Strack、Friedrich Drake｜Siegessäule｜1873",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Tiergarten",
+        "Großer Stern"
+      ],
+      "media": [
+        "雕塑",
+        "紀念碑",
+        "建築/場域"
+      ],
+      "works": "Großer Stern｜1873｜柱體與鍍金維多利亞像",
+      "comment": "勝利紀念柱後於納粹時期移至 Tiergarten 現址；鍍金維多利亞像與觀景平台如今構成柏林城市天際線與歷史再詮釋的重要節點。",
+      "website": "https://www.berlin.de/en/attractions-and-sights/3560265-3104052-victory-column.en.html",
+      "workPage": "https://www.berlin.de/en/attractions-and-sights/3560265-3104052-victory-column.en.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/en/attractions-and-sights/3560265-3104052-victory-column.en.html",
+      "artistStatement": "多次戰爭紀念、遷移與當代城市使用疊合在同一物件上，顯示公共紀念物意義會隨制度與觀看而改變。",
+      "artistStatementSource": "https://www.berlin.de/en/attractions-and-sights/3560265-3104052-victory-column.en.html",
+      "classicTitle": "Siegessäule｜1873",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/en/attractions-and-sights/3560265-3104052-victory-column.en.html",
+      "classicDesc": "從十九世紀戰爭紀念到今日城市地標，柱體承載柏林政治空間的變遷。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    }
+  ]
+}
