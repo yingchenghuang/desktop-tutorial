@@ -1,0 +1,649 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-20T15:15:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-20",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "各作品與機構官方頁",
+    "note": "8/20 公共藝術固定 10＋5＋5；官方來源、城市關鍵字與跨資料庫欄位完整。"
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-01",
+      "dedupeKey": "dynamic-marc-chagall-the-four-seasons-1974-chicago",
+      "name": "01｜Marc Chagall｜The Four Seasons｜1974",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Loop"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "裝置"
+      ],
+      "works": "Exelon Plaza｜玻璃、石材與馬賽克",
+      "comment": "大型馬賽克以季節循環、城市生活與人物寓言包覆長方體量，讓日常廣場成為可環繞閱讀的色彩敘事。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "Chagall 將繪畫式筆觸轉成耐久馬賽克，讓四面構圖隨步行與季節光線持續改變。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "The Four Seasons｜1974",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "以四季與城市生活構成可環繞觀看的公共馬賽克。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-02",
+      "dedupeKey": "dynamic-jean-dubuffet-monument-with-standing-beast-1984-chicago",
+      "name": "02｜Jean Dubuffet｜Monument with Standing Beast｜1984",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "James R. Thompson Center"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "James R. Thompson Center 前廣場｜玻璃纖維強化塑料",
+      "comment": "黑白輪廓與不規則洞口把 Dubuffet 的 Hourloupe 語彙放大到城市尺度，觀眾可穿行其間。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "作品把繪畫線條轉化為可進入的三維迷宮，拒絕雕塑只有單一正面的觀看方式。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Monument with Standing Beast｜1984",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "黑白線條化為可穿行的城市尺度野獸。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-03",
+      "dedupeKey": "dynamic-magdalena-abakanowicz-agora-2006-chicago",
+      "name": "03｜Magdalena Abakanowicz｜Agora｜2006",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Grant Park"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Grant Park｜106 個無頭鑄鐵人形",
+      "comment": "成群無頭、無臂的人形在公園南端形成方向不一的隊列，讓個體、群眾與政治記憶在步行中相互拉扯。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "Abakanowicz 以重複但各異的身體處理群體中的匿名、脆弱與不可替代性。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Agora｜2006",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "106 個無頭人形把公園轉成關於群體與個體的行走劇場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-04",
+      "dedupeKey": "dynamic-lorado-taft-fountain-of-time-1922-chicago",
+      "name": "04｜Lorado Taft｜Fountain of Time｜1922",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Washington Park"
+      ],
+      "media": [
+        "雕塑",
+        "水景/噴泉"
+      ],
+      "works": "Midway Plaisance｜大型混凝土雕塑與水池",
+      "comment": "時間之父注視百餘個人物從生命隊列中經過，以長向構圖把時間、世代與城市紀念性連結。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "作品利用水池反射與連續人物浮雕，把抽象時間觀念轉化為可感知的公共尺度。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Fountain of Time｜1922",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "百餘人物在時間之父面前前行，形成芝加哥重要紀念水景。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-05",
+      "dedupeKey": "dynamic-yoko-ono-skylanding-2016-chicago",
+      "name": "05｜Yoko Ono｜SKYLANDING｜2016",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Jackson Park"
+      ],
+      "media": [
+        "雕塑",
+        "公園/地景"
+      ],
+      "works": "Jackson Park Garden of the Phoenix｜不鏽鋼蓮瓣",
+      "comment": "十二片不鏽鋼蓮瓣在湖岸日式庭園中向天空展開，回應和平、重生與跨太平洋文化交流。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "鏡面鋼片吸收天空、樹木與觀眾倒影，使作品在固定結構中保持環境性的變化。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "SKYLANDING｜2016",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "鏡面蓮瓣在歷史庭園中連結天空、和平與文化交流。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-06",
+      "dedupeKey": "dynamic-kerry-james-marshall-rush-more-2017-chicago",
+      "name": "06｜Kerry James Marshall｜Rush More｜2017",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "South Side"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與"
+      ],
+      "works": "Chicago Cultural Center 西側壁面公共壁畫",
+      "comment": "作品以黑人文化人物與芝加哥公共文化記憶重寫誰能被放大、被紀念於市中心建築表面。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "Marshall 以歷史繪畫的尺度與構圖，將長期缺席於公共圖像的黑人主體置於城市視覺核心。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Rush More｜2017",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "大型壁畫重新配置芝加哥公共紀念中的代表性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-07",
+      "dedupeKey": "dynamic-hebru-brantley-flyboy-chicago",
+      "name": "07｜Hebru Brantley｜Flyboy｜公共藝術系列",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Bronzeville"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "雕塑"
+      ],
+      "works": "Flyboy 城市公共圖像與雕塑系列",
+      "comment": "飛行帽與護目鏡少年結合漫畫語言、黑人歷史與英雄想像，已成為芝加哥當代街頭文化的辨識符號。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "Brantley 以易讀角色建立跨世代入口，同時把兒童想像與城市社群的歷史經驗並置。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Flyboy｜公共藝術系列",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "以漫畫英雄語言把黑人青年想像帶入公共空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-08",
+      "dedupeKey": "dynamic-olafur-eliasson-atmospheric-wave-wall-2021-chicago",
+      "name": "08｜Olafur Eliasson｜Atmospheric wave wall｜2021",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Willis Tower"
+      ],
+      "media": [
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "Willis Tower Wacker Drive｜金屬與光學表面",
+      "comment": "波狀模組依觀眾位置和城市光線改變色彩與反射，使大樓基座成為持續變化的視覺氣候。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "作品不提供固定影像，而以材料、光線和移動共同生成知覺事件。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Atmospheric wave wall｜2021",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "反射模組讓高樓基座隨城市光線生成流動色彩。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-09",
+      "dedupeKey": "dynamic-jaume-plensa-looking-into-my-dreams-awilda-2012-chicago",
+      "name": "09｜Jaume Plensa｜Looking Into My Dreams, Awilda｜2012",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Millennium Park"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Millennium Park 臨時公共藝術｜巨型樹脂頭像",
+      "comment": "閉眼少女頭像以巨大而安靜的尺度對抗城市速度，把內省、夢境與公共凝視放在同一廣場。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "Plensa 以拉長比例與閉眼表情把肖像從個人辨識轉為沉思性的公共空間。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Looking Into My Dreams, Awilda｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "巨型閉眼肖像在繁忙市中心建立安靜的心理尺度。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "dynamic-2026-08-20-10",
+      "dedupeKey": "dynamic-richard-hunt-flight-forms-2001-chicago",
+      "name": "10｜Richard Hunt｜Flight Forms｜2001",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Chicago",
+      "cityKeywords": [
+        "Chicago",
+        "芝加哥",
+        "Midway Airport"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Chicago Midway International Airport｜焊接金屬",
+      "comment": "抽象金屬翼形回應飛行、速度與航廈動線，將交通基礎設施轉化為城市藝術入口。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "artistStatement": "Hunt 以折疊、上升與懸挑的金屬結構，讓重量感與飛行意象保持張力。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicTitle": "Flight Forms｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/provdrs/public_art_program.html",
+      "classicDesc": "焊接金屬翼形把航廈動線轉化為飛行的抽象標誌。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-global-2026-08-20-01",
+      "dedupeKey": "classic-global-eero-saarinen-gateway-arch-1965-st-louis",
+      "name": "全球經典01｜Eero Saarinen｜Gateway Arch｜1965",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / St. Louis",
+      "cityKeywords": [
+        "St. Louis",
+        "聖路易",
+        "Missouri"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "紀念性公共藝術"
+      ],
+      "works": "Gateway Arch National Park｜不鏽鋼拱門｜192 公尺",
+      "comment": "極簡懸鏈線拱門以不鏽鋼工程塑造密西西比河岸天際線，也是美國擴張史與其爭議的巨大公共符號。",
+      "website": "https://www.nps.gov/jeff/index.htm",
+      "workPage": "https://www.nps.gov/jeff/index.htm",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nps.gov/jeff/index.htm",
+      "artistStatement": "Saarinen 將紀念碑、結構工程與可進入的觀景設施合一，使單純曲線承擔國家尺度敘事。",
+      "artistStatementSource": "https://www.nps.gov/jeff/index.htm",
+      "classicTitle": "Gateway Arch｜1965",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nps.gov/jeff/index.htm",
+      "classicDesc": "不鏽鋼懸鏈線同時是城市門廊、工程奇觀與歷史辯論場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-global-2026-08-20-02",
+      "dedupeKey": "classic-global-augustus-saint-gaudens-robert-gould-shaw-and-the-54th-regiment-memorial-1897-boston",
+      "name": "全球經典02｜Augustus Saint-Gaudens｜Robert Gould Shaw and the 54th Regiment Memorial｜1897",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Boston",
+      "cityKeywords": [
+        "Boston",
+        "波士頓",
+        "Boston Common"
+      ],
+      "media": [
+        "雕塑",
+        "紀念性公共藝術"
+      ],
+      "works": "Boston Common｜青銅浮雕",
+      "comment": "紀念美國內戰第 54 麻薩諸塞黑人軍團，以行進隊列與個別面貌突破傳統單一英雄紀念形式。",
+      "website": "https://www.nps.gov/boaf/learn/historyculture/shaw-54th-regiment-memorial.htm",
+      "workPage": "https://www.nps.gov/boaf/learn/historyculture/shaw-54th-regiment-memorial.htm",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nps.gov/boaf/learn/historyculture/shaw-54th-regiment-memorial.htm",
+      "artistStatement": "Saint-Gaudens 以真實士兵面貌與共同前進的節奏，讓指揮官與黑人士兵同時進入國家記憶。",
+      "artistStatementSource": "https://www.nps.gov/boaf/learn/historyculture/shaw-54th-regiment-memorial.htm",
+      "classicTitle": "Robert Gould Shaw and the 54th Regiment Memorial｜1897",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nps.gov/boaf/learn/historyculture/shaw-54th-regiment-memorial.htm",
+      "classicDesc": "青銅隊列把黑人軍團的個別面貌帶入波士頓公共記憶。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-global-2026-08-20-03",
+      "dedupeKey": "classic-global-george-segal-gay-liberation-1980-new-york",
+      "name": "全球經典03｜George Segal｜Gay Liberation｜1980",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Greenwich Village",
+        "Christopher Park"
+      ],
+      "media": [
+        "雕塑",
+        "社會參與",
+        "紀念性公共藝術"
+      ],
+      "works": "Christopher Park｜白色青銅群像",
+      "comment": "兩對同性伴侶以平靜坐姿與站姿出現在 Stonewall 歷史場址附近，將親密關係與 LGBTQ+ 公民權帶入公共紀念。",
+      "website": "https://www.nycgovparks.org/parks/christopher-park/monuments/575",
+      "workPage": "https://www.nycgovparks.org/parks/christopher-park/monuments/575",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/christopher-park/monuments/575",
+      "artistStatement": "Segal 以日常姿態拒絕英雄化，讓平凡的陪伴與觸碰本身成為政治可見性。",
+      "artistStatementSource": "https://www.nycgovparks.org/parks/christopher-park/monuments/575",
+      "classicTitle": "Gay Liberation｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/christopher-park/monuments/575",
+      "classicDesc": "日常親密姿態在 Stonewall 周邊形成 LGBTQ+ 解放紀念。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-global-2026-08-20-04",
+      "dedupeKey": "classic-global-maya-lin-wave-field-1995-ann-arbor",
+      "name": "全球經典04｜Maya Lin｜Wave Field｜1995",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Ann Arbor",
+      "cityKeywords": [
+        "Ann Arbor",
+        "安娜堡",
+        "Michigan"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "建築/場域"
+      ],
+      "works": "University of Michigan｜草地波浪",
+      "comment": "連續草坡以數學化波形把校園空地轉成可行走、可躺臥的地景，模糊雕塑與基礎地形的界線。",
+      "website": "https://umma.umich.edu/objects/wave-field/",
+      "workPage": "https://umma.umich.edu/objects/wave-field/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://umma.umich.edu/objects/wave-field/",
+      "artistStatement": "Lin 以最少材料改變身體對水平地面的預期，讓風、光與季節完成作品。",
+      "artistStatementSource": "https://umma.umich.edu/objects/wave-field/",
+      "classicTitle": "Wave Field｜1995",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://umma.umich.edu/objects/wave-field/",
+      "classicDesc": "草地被塑成連續波浪，讓校園地面成為可進入的雕塑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-global-2026-08-20-05",
+      "dedupeKey": "classic-global-anish-kapoor-cecil-balmond-arcelormittal-orbit-2012-london",
+      "name": "全球經典05｜Anish Kapoor、Cecil Balmond｜ArcelorMittal Orbit｜2012",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Queen Elizabeth Olympic Park",
+        "Stratford"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Queen Elizabeth Olympic Park｜紅色鋼構觀景塔｜114.5 公尺",
+      "comment": "扭轉鋼構把紀念塔、觀景設施與大型公共雕塑合為一體，成為倫敦奧運後城市更新的爭議性地標。",
+      "website": "https://www.queenelizabetholympicpark.co.uk/things-to-do/arcelormittal-orbit",
+      "workPage": "https://www.queenelizabetholympicpark.co.uk/things-to-do/arcelormittal-orbit",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.queenelizabetholympicpark.co.uk/things-to-do/arcelormittal-orbit",
+      "artistStatement": "不對稱迴旋結構拒絕紀念塔的穩定垂直感，以持續變換的視角表達城市動能。",
+      "artistStatementSource": "https://www.queenelizabetholympicpark.co.uk/things-to-do/arcelormittal-orbit",
+      "classicTitle": "ArcelorMittal Orbit｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.queenelizabetholympicpark.co.uk/things-to-do/arcelormittal-orbit",
+      "classicDesc": "紅色迴旋鋼構把奧運紀念、觀景與公共雕塑結合。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-german-2026-08-20-01",
+      "dedupeKey": "classic-german-ka-the-kollwitz-mutter-mit-totem-sohn-1993-berlin",
+      "name": "德國經典01｜Käthe Kollwitz｜Mutter mit totem Sohn｜1993",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Neue Wache",
+        "Mitte"
+      ],
+      "media": [
+        "雕塑",
+        "紀念性公共藝術"
+      ],
+      "works": "Neue Wache 中央紀念空間｜放大青銅版本",
+      "comment": "母親抱著死去兒子的封閉姿態置於天窗下，雨雪與自然光直接落在雕塑上，成為戰爭與暴政受害者的國家紀念。",
+      "website": "https://www.dhm.de/archiv/ausstellungen/neue-wache/",
+      "workPage": "https://www.dhm.de/archiv/ausstellungen/neue-wache/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.dhm.de/archiv/ausstellungen/neue-wache/",
+      "artistStatement": "Kollwitz 以私人哀悼的身體姿態取代勝利象徵，使國家紀念回到脆弱與失去。",
+      "artistStatementSource": "https://www.dhm.de/archiv/ausstellungen/neue-wache/",
+      "classicTitle": "Mutter mit totem Sohn｜1993",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.dhm.de/archiv/ausstellungen/neue-wache/",
+      "classicDesc": "天窗下的母子群像以私人悲痛承載戰爭受害者的公共記憶。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-german-2026-08-20-02",
+      "dedupeKey": "classic-german-henry-moore-large-two-forms-1979-bonn",
+      "name": "德國經典02｜Henry Moore｜Large Two Forms｜1979",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波恩",
+        "Bundeskanzleramt"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "前聯邦總理府廣場｜青銅",
+      "comment": "兩個互相咬合又保持縫隙的巨大有機形體，曾成為西德政府建築與民主形象的重要視覺背景。",
+      "website": "https://www.bonn.de/bonn-erleben/besichtigen-entdecken/kunst-im-oeffentlichen-raum.php",
+      "workPage": "https://www.bonn.de/bonn-erleben/besichtigen-entdecken/kunst-im-oeffentlichen-raum.php",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bonn.de/bonn-erleben/besichtigen-entdecken/kunst-im-oeffentlichen-raum.php",
+      "artistStatement": "Moore 以孔洞與曲面建立內外互換的量體，讓政治建築前的雕塑保持開放而非威權。",
+      "artistStatementSource": "https://www.bonn.de/bonn-erleben/besichtigen-entdecken/kunst-im-oeffentlichen-raum.php",
+      "classicTitle": "Large Two Forms｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bonn.de/bonn-erleben/besichtigen-entdecken/kunst-im-oeffentlichen-raum.php",
+      "classicDesc": "有機青銅量體以開口與互鎖回應波恩民主政府的公共形象。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-german-2026-08-20-03",
+      "dedupeKey": "classic-german-georg-kolbe-der-morgen-1925-berlin",
+      "name": "德國經典03｜Georg Kolbe｜Der Morgen｜1925",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Ceciliengärten",
+        "Schöneberg"
+      ],
+      "media": [
+        "雕塑",
+        "公園/地景"
+      ],
+      "works": "Ceciliengärten 住宅區公共綠地｜青銅",
+      "comment": "伸展身體的女性像以清晨甦醒姿態融入住宅花園，呈現魏瑪時期城市生活、身體文化與公共綠地的結合。",
+      "website": "https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "workPage": "https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "artistStatement": "Kolbe 將古典人體轉為現代日常節奏，使雕塑與住宅庭園的光線、植物和步行尺度相互依存。",
+      "artistStatementSource": "https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "classicTitle": "Der Morgen｜1925",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/ba-tempelhof-schoeneberg/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "classicDesc": "清晨伸展的人體將現代生活節奏帶進住宅公共花園。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-german-2026-08-20-04",
+      "dedupeKey": "classic-german-wolf-vostell-zwei-beton-cadillacs-in-form-der-nackten-maja-1987-berlin",
+      "name": "德國經典04｜Wolf Vostell｜Zwei Beton-Cadillacs in Form der nackten Maja｜1987",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Rathenauplatz",
+        "Charlottenburg"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Rathenauplatz｜兩輛凱迪拉克與混凝土",
+      "comment": "兩輛汽車被混凝土包覆並以傾斜姿態嵌入廣場，將消費、速度與都市交通轉化為粗暴而具爭議的反紀念碑。",
+      "website": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "workPage": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "artistStatement": "Vostell 以 Fluxus 式拼接封存汽車功能，使現代消費物變成城市考古遺跡。",
+      "artistStatementSource": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "classicTitle": "Zwei Beton-Cadillacs in Form der nackten Maja｜1987",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/ba-charlottenburg-wilmersdorf/ueber-den-bezirk/kunst-im-oeffentlichen-raum/",
+      "classicDesc": "混凝土封存的凱迪拉克把交通工具轉化為消費社會的反紀念碑。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-20",
+      "id": "classic-german-2026-08-20-05",
+      "dedupeKey": "classic-german-claes-oldenburg-coosje-van-bruggen-dropped-cone-2001-ko-ln",
+      "name": "德國經典05｜Claes Oldenburg、Coosje van Bruggen｜Dropped Cone｜2001",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Köln",
+      "cityKeywords": [
+        "Köln",
+        "Cologne",
+        "科隆",
+        "Neumarkt"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Neumarkt 購物中心屋頂｜大型冰淇淋甜筒",
+      "comment": "巨型甜筒像意外跌落在建築屋頂，以幽默尺度錯置回應商業消費、街道視線與城市日常。",
+      "website": "https://www.museum-ludwig.de/en/collection/",
+      "workPage": "https://www.museum-ludwig.de/en/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-ludwig.de/en/collection/",
+      "artistStatement": "藝術家把易融化的日常物放大並永久化，利用傾斜姿態讓建築本身成為雕塑情節的一部分。",
+      "artistStatementSource": "https://www.museum-ludwig.de/en/collection/",
+      "classicTitle": "Dropped Cone｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-ludwig.de/en/collection/",
+      "classicDesc": "巨型甜筒跌落屋頂，以幽默錯置改寫商業街天際線。",
+      "relatedByCity": []
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 {
-  "version": "2026-08-15-competition-r16",
-  "generatedAt": "2026-08-15T05:02:35+08:00",
+  "version": "2026-08-20-competition-r17",
+  "generatedAt": "2026-08-20T15:15:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 32,
+  "activeEntries": 33,
   "addedToday": 5,
-  "expiredRemoved": 2,
-  "deadlineTimezoneEntries": 32,
-  "deadlinePrecisionEntries": 32,
-  "cityKeywordEntries": 32,
-  "note": "8/15 新增 5 則並移除 2 則已截止項目；保留全部未截止資料，deadline 含時區或明示來源未公開，並維持雙向同城關聯。"
+  "expiredRemoved": 4,
+  "deadlineTimezoneEntries": 33,
+  "deadlinePrecisionEntries": 33,
+  "cityKeywordEntries": 33,
+  "note": "8/20 新增 5 則並移除 4 則已截止項目；deadline、時區與城市關鍵字完整。"
 }
