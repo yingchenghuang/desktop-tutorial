@@ -1,0 +1,683 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-21T04:38:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-21",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "各作品與機構官方頁",
+    "note": "8/21 公共藝術固定 10＋5＋5；所有唯一來源已用實際瀏覽器開啟，並完成城市關鍵字與跨資料庫關聯。",
+    "linkAudit": {
+      "checkedAt": "2026-08-21T04:38:00+08:00",
+      "checkedUniqueSources": 23,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "發布前以實際瀏覽器開啟；404、錯誤頁、安全檢查、登入牆或無有效內容不得發布"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-01",
+      "dedupeKey": "dynamic-glynn-rosenberg-low-tide-2026-seattle",
+      "name": "01｜Glynn Rosenberg｜低潮 Low Tide｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Ballard"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "裝置"
+      ],
+      "works": "Shilshole Avenue｜臨時戶外圍籬公共藝術",
+      "comment": "潮池生物被轉成高彩度、近乎夢境的海洋肖像，讓工程圍籬成為提醒城市與潮間帶互相依存的公共界面。",
+      "website": "https://artbeat.seattle.gov/2026/03/13/art-spotlight-low-tide-by-glynn-rosenberg/",
+      "workPage": "https://artbeat.seattle.gov/2026/03/13/art-spotlight-low-tide-by-glynn-rosenberg/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/03/13/art-spotlight-low-tide-by-glynn-rosenberg/",
+      "artistStatement": "Rosenberg 以觀察西雅圖與奧林匹克半島低潮生態為起點，在寫實物種與想像造形之間維持張力。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/03/13/art-spotlight-low-tide-by-glynn-rosenberg/",
+      "classicTitle": "低潮 Low Tide｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/03/13/art-spotlight-low-tide-by-glynn-rosenberg/",
+      "classicDesc": "把潮池生態的脆弱平衡放進城市通行日常。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-02",
+      "dedupeKey": "dynamic-future-arts-way-other-earth-2026-seattle",
+      "name": "02｜Future Arts｜另一個地球 Other Earth｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Downtown Seattle"
+      ],
+      "media": [
+        "數位/互動",
+        "社會參與"
+      ],
+      "works": "市中心 2.5 英里 AR 步行路徑｜35+ 擴增實境節點",
+      "comment": "以免下載導引串連原住民族知識、非裔未來主義、生態敘事與在地店家，將城市尺度的 AR 從娛樂轉成可步行的公共文化基礎設施。",
+      "website": "https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "artistStatement": "Future Arts 將科技視為共同價值與行為的鏡面，藉混合實境讓被低估的藝術家與文化敘事進入城市主路徑。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "classicTitle": "另一個地球 Other Earth｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "classicDesc": "以 35 個 AR 節點把西雅圖歷史、生態與祖源記憶疊入街道。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-03",
+      "dedupeKey": "dynamic-diana-dvora-falchuk-utility-pole-project-2026-seattle",
+      "name": "03｜Diana Dvora Falchuk｜電線桿計畫 Utility Pole Project｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Stadium District"
+      ],
+      "media": [
+        "裝置",
+        "社會參與"
+      ],
+      "works": "First Avenue 電線桿｜紙花、葉片與海報介入",
+      "comment": "紙花與文字在球場旁的基礎設施上生長，將容易被忽略的電線桿轉化為關於歸屬、斷裂、韌性與團結的微型公共敘事。",
+      "website": "https://artbeat.seattle.gov/2026/08/05/artist-highlight-utility-pole-project-by-diana-dvora-falchuk/",
+      "workPage": "https://artbeat.seattle.gov/2026/08/05/artist-highlight-utility-pole-project-by-diana-dvora-falchuk/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/08/05/artist-highlight-utility-pole-project-by-diana-dvora-falchuk/",
+      "artistStatement": "Falchuk 以社會工作與藝術行動交會的實踐，讓記憶與社群關係附著在最普通的都市物件上。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/08/05/artist-highlight-utility-pole-project-by-diana-dvora-falchuk/",
+      "classicTitle": "電線桿計畫｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/08/05/artist-highlight-utility-pole-project-by-diana-dvora-falchuk/",
+      "classicDesc": "用可變、脆弱的紙材激活日常基礎設施。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-04",
+      "dedupeKey": "dynamic-ty-juvinel-raven-village-mural-2026-seattle",
+      "name": "04｜Ty Juvinel｜烏鴉村壁畫 Raven Village Mural｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Ballard",
+        "Raven Village"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與"
+      ],
+      "works": "Leary Way 變電站牆面與圍籬｜社區共創壁畫",
+      "comment": "計畫以 Tulalip／海岸薩利希視覺傳統回應原住民族微型住宅社區，將基礎設施外牆轉成韌性、療癒與文化自決的公共門面。",
+      "website": "https://artbeat.seattle.gov/2026/02/11/raven-village-mural-project-artist-selection/",
+      "workPage": "https://artbeat.seattle.gov/2026/02/11/raven-village-mural-project-artist-selection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/02/11/raven-village-mural-project-artist-selection/",
+      "artistStatement": "Juvinel 的雕刻與公共藝術根植 Lushootseed 語言復振及 Tulalip 文化，設計過程也把居民意見納入圖像發展。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/02/11/raven-village-mural-project-artist-selection/",
+      "classicTitle": "烏鴉村壁畫｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/02/11/raven-village-mural-project-artist-selection/",
+      "classicDesc": "以原住民族文化與居民參與重塑變電站邊界。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-05",
+      "dedupeKey": "dynamic-gerardo-pena-ne130-ne125-floodplain-park-2026-seattle",
+      "name": "05｜Gerardo “Periko” Peña｜NE 130／125 街廊道與滯洪公園｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Lake City",
+        "Haller Lake"
+      ],
+      "media": [
+        "建築/場域",
+        "雕塑",
+        "社會參與"
+      ],
+      "works": "1.7 英里人行道與 Lake City Floodplain Park｜金屬、混凝土嵌飾",
+      "comment": "九組鑄金屬嵌飾與公園作品把交通安全、滯洪韌性和移民社群故事整合進人行道，讓基礎工程成為沿線可發現的公共敘事。",
+      "website": "https://artbeat.seattle.gov/2026/04/10/gerardo-periko-pena-selected-for-ne-130-ne-125-corridor-and-floodplain-park-projects/",
+      "workPage": "https://artbeat.seattle.gov/2026/04/10/gerardo-periko-pena-selected-for-ne-130-ne-125-corridor-and-floodplain-park-projects/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/04/10/gerardo-periko-pena-selected-for-ne-130-ne-125-corridor-and-floodplain-park-projects/",
+      "artistStatement": "Peña 從 DACA 與移民經驗出發，以超現實語彙處理身分、歸屬及心理健康，並將繪畫經驗轉化為耐久材料。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/04/10/gerardo-periko-pena-selected-for-ne-130-ne-125-corridor-and-floodplain-park-projects/",
+      "classicTitle": "NE 130／125 街廊道與滯洪公園｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/04/10/gerardo-periko-pena-selected-for-ne-130-ne-125-corridor-and-floodplain-park-projects/",
+      "classicDesc": "把交通與滯洪工程轉譯成社群故事的連續公共藝術。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-06",
+      "dedupeKey": "dynamic-ivan-toth-depena-sounds-2026-seattle",
+      "name": "06｜Ivan Toth Depeña｜聲音形體 Sound/s｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Benaroya Hall",
+        "Downtown Seattle"
+      ],
+      "media": [
+        "裝置",
+        "數位/互動"
+      ],
+      "works": "Benaroya Hall 停車樓外牆｜音樂資料轉譯浮雕",
+      "comment": "作品把 Reena Esmail 的樂曲頻率、振幅與節奏轉成垂直彩色構件，使原本不可見的聲音能量成為街道尺度的建築表皮。",
+      "website": "https://artbeat.seattle.gov/2026/05/29/artist-highlight-sound-s-by-ivan-toth-depena/",
+      "workPage": "https://artbeat.seattle.gov/2026/05/29/artist-highlight-sound-s-by-ivan-toth-depena/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/05/29/artist-highlight-sound-s-by-ivan-toth-depena/",
+      "artistStatement": "Depeña 長期把風、光、環境資料、記憶與聲音等無形力量轉為物質形式，建築訓練讓他特別重視尺度與移動觀看。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/05/29/artist-highlight-sound-s-by-ivan-toth-depena/",
+      "classicTitle": "聲音形體 Sound/s｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/05/29/artist-highlight-sound-s-by-ivan-toth-depena/",
+      "classicDesc": "將交響音樂的數據結構凝固為公共建築外牆。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-07",
+      "dedupeKey": "dynamic-dan-webb-cloud-rider-conservation-2026-seattle",
+      "name": "07｜Dan Webb｜雲端騎士 Cloud Rider｜修復更新",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Beacon Hill",
+        "Chief Sealth Trail"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Chief Sealth Trail 導視柱｜金翼單車騎士修復",
+      "comment": "金翼單車騎士以雲層中的移動意象標記步行與騎乘路徑；2026 年修復補回遺失人物並修整基座，使作品持續承擔導視角色。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Webb 以西雅圖多雲天空與耐候騎乘經驗為敘事核心，讓雕塑同時兼具象徵和路徑辨識。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "雲端騎士 Cloud Rider｜修復更新",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "讓單車、雲層與原住民族符號共同構成步道標記。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-08",
+      "dedupeKey": "dynamic-milenko-matanovic-hollow-city-conservation-2026-seattle",
+      "name": "08｜Milenko Matanovic｜空洞：城市 Hollow:City｜修復更新",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Westcrest Park"
+      ],
+      "media": [
+        "裝置",
+        "地景/大地藝術"
+      ],
+      "works": "Westcrest Park｜木構場域裝置",
+      "comment": "木構件在公園中形成可停留的節點，以城市與自然的對照讓步行者暫停；修復更新凸顯木材老化與公共使用之間的長期維護課題。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Matanovic 以簡潔木構框取公園經驗，作品的價值不在孤立物件，而在邀請人們改變速度並重新感知自然。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "空洞：城市 Hollow:City｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "以木構停留點讓城市公園中的自然對比被身體感知。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-09",
+      "dedupeKey": "dynamic-ann-hamilton-guests-2026-seattle",
+      "name": "09｜Ann Hamilton｜賓客 Guests｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "Waterfront",
+        "Overlook Walk"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Overlook Walk 下方｜逾 40 個懸掛人物",
+      "comment": "大量懸掛人物置於新海濱步道下方，在城市、港灣與行人視線之間形成有節奏的群體存在，讓基礎設施的底部成為公共觀看場。",
+      "website": "https://artbeat.seattle.gov/2026/04/10/public-art-quarterly-spring-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/04/10/public-art-quarterly-spring-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/04/10/public-art-quarterly-spring-edition/",
+      "artistStatement": "Hamilton 透過重複人物、懸吊與空氣流動，把觀看轉成空間事件；觀者行進時才逐步拼合群體關係。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/04/10/public-art-quarterly-spring-edition/",
+      "classicTitle": "賓客 Guests｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/04/10/public-art-quarterly-spring-edition/",
+      "classicDesc": "以四十多個懸掛人物激活海濱步道下方的公共空間。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "dynamic-2026-08-21-10",
+      "dedupeKey": "dynamic-will-schlough-on-the-fence-2026-seattle",
+      "name": "10｜Will Schlough｜沿籬而行 On the Fence｜2026",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "SODO",
+        "East Marginal Way"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "East Marginal Way 一英里自行車道｜連續板件壁畫",
+      "comment": "一連串環境片段隨騎行速度展開，壁畫既包覆工業圍籬，也把通往市中心與西西雅圖的交通廊道轉成可閱讀的移動敘事。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Schlough 依照一英里路徑的移動節奏安排圖像，使作品不是單一觀看點，而是一段隨時間展開的城市經驗。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "沿籬而行 On the Fence｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "以連續場景讓自行車道的移動轉化成公共敘事。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-global-2026-08-21-01",
+      "dedupeKey": "classic-global-mark-di-suvero-mother-peace-1969-storm-king",
+      "name": "全球經典01｜Mark di Suvero｜和平之母 Mother Peace｜1969–70",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Mountainville",
+      "cityKeywords": [
+        "Mountainville",
+        "New York",
+        "Storm King"
+      ],
+      "media": [
+        "雕塑",
+        "紀念性公共藝術"
+      ],
+      "works": "Storm King Art Center｜彩繪鋼｜約 12.7 × 15.1 × 13.5 公尺",
+      "comment": "巨型工字鋼構成三維和平符號，吊索讓六噸量體仍可隨風微動；政治立場、工業材料與地景尺度在此直接相接。",
+      "website": "https://collections.stormking.org/Detail/objects/359",
+      "workPage": "https://collections.stormking.org/Detail/objects/359",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://collections.stormking.org/Detail/objects/359",
+      "artistStatement": "di Suvero 在反對越戰、離開美國前獨力製作此作，以和平符號與可動構造把公民責任轉成具身空間。",
+      "artistStatementSource": "https://collections.stormking.org/Detail/objects/359",
+      "classicTitle": "和平之母 Mother Peace｜1969–70",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://collections.stormking.org/Detail/objects/359",
+      "classicDesc": "以會隨風擺動的鋼構和平符號結合政治抗議與地景雕塑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-global-2026-08-21-02",
+      "dedupeKey": "classic-global-isamu-noguchi-momo-taro-1977-storm-king",
+      "name": "全球經典02｜Isamu Noguchi｜桃太郎 Momo Taro｜1977–78",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Mountainville",
+      "cityKeywords": [
+        "Mountainville",
+        "New York",
+        "Storm King"
+      ],
+      "media": [
+        "雕塑",
+        "地景/大地藝術",
+        "建築/場域"
+      ],
+      "works": "Storm King Art Center｜九件花崗岩｜40 噸",
+      "comment": "九件花崗岩緊貼人工地丘，中央中空石體可進入、坐臥與發聲；雕塑把民間故事、觸覺、聲響與整體地形結合。",
+      "website": "https://collections.stormking.org/Detail/objects/455",
+      "workPage": "https://collections.stormking.org/Detail/objects/455",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://collections.stormking.org/Detail/objects/455",
+      "artistStatement": "Noguchi 堅持作品必須依地丘而生，並邀請兒童進入中央石體歌唱，使觀眾參與成為作品完整實現的一部分。",
+      "artistStatementSource": "https://collections.stormking.org/Detail/objects/455",
+      "classicTitle": "桃太郎 Momo Taro｜1977–78",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://collections.stormking.org/Detail/objects/455",
+      "classicDesc": "可觸摸、進入與發聲的花崗岩群把雕塑變成社交地景。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-global-2026-08-21-03",
+      "dedupeKey": "classic-global-scott-burton-six-part-seating-1985-washington-dc",
+      "name": "全球經典03｜Scott Burton｜六件座椅 Six-Part Seating｜1985／1998",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓",
+        "National Mall"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "National Gallery Sculpture Garden｜六件紅色花崗岩座椅",
+      "comment": "六個幾何座椅圍成儀式性圓環，刻意消除雕塑與家具的界線；觀眾坐下後，社交關係便成為作品的構圖。",
+      "website": "https://www.nga.gov/artworks/107760-six-part-seating",
+      "workPage": "https://www.nga.gov/artworks/107760-six-part-seating",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/artworks/107760-six-part-seating",
+      "artistStatement": "Burton 主張藝術應置於觀眾周圍、背後與下方，藉功能性座椅反對只能從正面凝視的紀念碑式雕塑。",
+      "artistStatementSource": "https://www.nga.gov/artworks/107760-six-part-seating",
+      "classicTitle": "六件座椅 Six-Part Seating｜1985／1998",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/artworks/107760-six-part-seating",
+      "classicDesc": "用可坐的花崗岩圓環把社交行為納入雕塑本體。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-global-2026-08-21-04",
+      "dedupeKey": "classic-global-alice-aycock-three-fold-manifestation-ii-1987-storm-king",
+      "name": "全球經典04｜Alice Aycock｜三重顯現 II Three-Fold Manifestation II｜1987／2006",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Mountainville",
+      "cityKeywords": [
+        "Mountainville",
+        "New York",
+        "Storm King"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Storm King Art Center｜彩繪鋁、不鏽鋼｜約 8.9 公尺高",
+      "comment": "三個傾斜碗狀劇場相互穿插，借考古、天文圖與包浩斯未建劇場創造失序世界，觀看像被捲入旋轉的建築剖面。",
+      "website": "https://collections.stormking.org/Detail/objects/393",
+      "workPage": "https://collections.stormking.org/Detail/objects/393",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://collections.stormking.org/Detail/objects/393",
+      "artistStatement": "Aycock 由天文圖想像其生成空間，讓階梯碗狀形式如同通往另一世界的旋轉孔洞，挑戰穩定建築秩序。",
+      "artistStatementSource": "https://collections.stormking.org/Detail/objects/393",
+      "classicTitle": "三重顯現 II｜1987／2006",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://collections.stormking.org/Detail/objects/393",
+      "classicDesc": "以傾斜劇場與天文圖構成失重般的建築雕塑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-global-2026-08-21-05",
+      "dedupeKey": "classic-global-sol-lewitt-four-sided-pyramid-1997-washington-dc",
+      "name": "全球經典05｜Sol LeWitt｜四面金字塔 Four-Sided Pyramid｜1997",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓",
+        "National Mall"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "National Gallery Sculpture Garden｜混凝土砌塊與砂漿",
+      "comment": "階梯金字塔依藝術家指示由工程與砌築團隊完成，既引用古代神塔，也呼應紐約退縮式摩天樓法規，把觀念藝術落實為公共構造。",
+      "website": "https://www.nga.gov/artworks/107763-four-sided-pyramid",
+      "workPage": "https://www.nga.gov/artworks/107763-four-sided-pyramid",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/artworks/107763-four-sided-pyramid",
+      "artistStatement": "LeWitt 將作品定義為可由他人執行的結構；清晰規則比藝術家手作更重要，公共施工因此成為觀念的具體化。",
+      "artistStatementSource": "https://www.nga.gov/artworks/107763-four-sided-pyramid",
+      "classicTitle": "四面金字塔 Four-Sided Pyramid｜1997",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/artworks/107763-four-sided-pyramid",
+      "classicDesc": "以指令、模組和公共施工將觀念藝術轉成可步行環視的結構。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-german-2026-08-21-01",
+      "dedupeKey": "classic-german-klaus-rinke-sonnenstrahl-birkenhain-berlin",
+      "name": "德國經典01｜Klaus Rinke｜樺林中的陽光 Sonnenstrahl im Birkenhain",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Unter den Linden"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "地景/大地藝術"
+      ],
+      "works": "Otto-Wels-Haus 內院｜25 公尺黃色球桿與樺林",
+      "comment": "十一度傾斜的巨大黃色球體同時顯示陽光與重力，樺林則改善玻璃內院微氣候；雕塑不只置入場地，也實際改變光、溫度與城市視線。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/rinke/rinke-216378",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/rinke/rinke-216378",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/rinke/rinke-216378",
+      "artistStatement": "Rinke 希望在柏林創造以陽光稍微照亮黑暗過去的場所，並以自然力的「初級示範」連接政治、歷史與身體感知。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/rinke/rinke-216378",
+      "classicTitle": "樺林中的陽光",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/rinke/rinke-216378",
+      "classicDesc": "以傾斜太陽雕塑與樺林共同調節內院的光、重力感與氣候。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-german-2026-08-21-02",
+      "dedupeKey": "classic-german-neo-rauch-mann-auf-der-leiter-berlin",
+      "name": "德國經典02｜Neo Rauch｜梯上的人 Mann auf der Leiter",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Paul-Löbe-Haus",
+        "Spreebogen"
+      ],
+      "media": [
+        "光/影像/投影",
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Paul-Löbe-Haus 東立面｜兩件 10 公尺綠色霓虹人物",
+      "comment": "兩名梯上人物隔著玻璃與河岸互相對應，手勢介於招呼、採果與演說；夜間霓虹把東西柏林舊邊界轉成曖昧而友善的國會地標。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/rauch/rauch-199084",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/rauch/rauch-199084",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/rauch/rauch-199084",
+      "artistStatement": "Rauch 把繪畫中不透明的敘事轉成巨型發光輪廓，保留人物行動的秘密，讓民主場域避免單一象徵解讀。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/rauch/rauch-199084",
+      "classicTitle": "梯上的人 Mann auf der Leiter",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/rauch/rauch-199084",
+      "classicDesc": "兩件霓虹人物以未完成手勢標記國會建築與柏林舊邊界。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-german-2026-08-21-03",
+      "dedupeKey": "classic-german-joseph-beuys-tisch-mit-aggregat-berlin",
+      "name": "德國經典03｜Joseph Beuys｜附聚合體的桌子 Tisch mit Aggregat",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Reichstag"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Reichstag 議事廳前｜青銅桌、電池與球體",
+      "comment": "桌子、電池與原為泥土的球體以「貧乏材料」呈現發送、接收、能量流與儲存，讓政治空間中的物質關係成為社會雕塑隱喻。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/beuys/beuys-199208",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/beuys/beuys-199208",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/beuys/beuys-199208",
+      "artistStatement": "Beuys 認為材料組合可釋放人類創造力並連接藝術與生活；作品以日用品承載能量與社會轉化的世界模型。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/beuys/beuys-199208",
+      "classicTitle": "附聚合體的桌子",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/beuys/beuys-199208",
+      "classicDesc": "以桌、電池與球體把能量循環和社會雕塑帶入國會。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-german-2026-08-21-04",
+      "dedupeKey": "classic-german-tony-cragg-werdendes-2020-berlin",
+      "name": "德國經典04｜Tony Cragg｜生成 Werdendes｜2020",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Marie-Elisabeth-Lüders-Haus"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Marie-Elisabeth-Lüders-Haus 東側露台｜六公尺青銅",
+      "comment": "旋轉柱狀量體隨視角顯現不同頭部與臉孔，既維持精密幾何截面又像有機身體生成，成為國會建築東端可遠望的迎賓標記。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/cragg-703304",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/cragg-703304",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/cragg-703304",
+      "artistStatement": "Cragg 將幾何／有機、理性／情感視為互相內含而非對立，藉連續表面表現形體尚在成為自身的過程。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/cragg-703304",
+      "classicTitle": "生成 Werdendes｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/cragg-703304",
+      "classicDesc": "以旋轉青銅柱讓幾何結構在移動觀看中不斷生成臉孔。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-21",
+      "id": "classic-german-2026-08-21-05",
+      "dedupeKey": "classic-german-ulrich-rueckriem-doppel-skulptur-boden-relief-berlin",
+      "name": "德國經典05｜Ulrich Rückriem｜雙雕塑地面浮雕 Doppel-Skulptur-Boden-Relief",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Reichstag"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Reichstag 南內院｜諾曼第花崗岩地面雕塑",
+      "comment": "兩塊花崗岩外皮依地坪縫線切為五段再重組，中央板被磨亮如水面；未加工粗皮與精磨表面讓採石、分割和重組過程保持可讀。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/rueckriem",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/rueckriem",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/rueckriem",
+      "artistStatement": "Rückriem 堅持材料性質與加工步驟必須決定作品，後續處理不能抹去前一工序，使形式成為石材歷史的直接紀錄。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/rueckriem",
+      "classicTitle": "雙雕塑地面浮雕",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/rueckriem",
+      "classicDesc": "以粗糙與拋光花崗岩對照揭示材料和手工過程。",
+      "relatedByCity": [
+        "competition-2026-08-11-04"
+      ]
+    }
+  ]
+}
