@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-08-21T04:38:00+08:00",
+    "generatedAt": "2026-08-22T05:03:07+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
-    "activeEntries": 38,
+    "activeEntries": 42,
     "addedToday": 5,
-    "expiredRemoved": 0,
-    "note": "8/21 新增 5 則（德國 3 則）；精確截止時間核對後移除 0 則，只保留未截止且實際可開啟來源。",
+    "expiredRemoved": 1,
+    "note": "8/22 新增 5 則未截止公開徵件；保留全部既有未截止項目，依截止瞬間移除逾期 1 則。",
     "linkAudit": {
-      "checkedAt": "2026-08-21T04:38:00+08:00",
+      "checkedAt": "2026-08-22T05:03:07+08:00",
       "checkedUniqueSources": 5,
       "allOpenedInBrowser": true,
       "brokenOrBlockedRejected": 0
@@ -137,7 +137,12 @@
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-15-01",
         "classic-german-2026-08-15-02",
-        "classic-german-2026-08-15-05"
+        "classic-german-2026-08-15-05",
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05"
       ]
     },
     {
@@ -494,7 +499,11 @@
         "dynamic-2026-08-12-03",
         "dynamic-2026-08-12-06",
         "dynamic-2026-08-12-10",
-        "classic-global-2026-08-15-02"
+        "classic-global-2026-08-15-02",
+        "dynamic-2026-08-22-07",
+        "dynamic-2026-08-22-08",
+        "dynamic-2026-08-22-09",
+        "dynamic-2026-08-22-10"
       ]
     },
     {
@@ -720,7 +729,12 @@
         "dynamic-2026-08-14-09",
         "dynamic-2026-08-14-10",
         "dynamic-2026-08-15-01",
-        "dynamic-2026-08-15-02"
+        "dynamic-2026-08-15-02",
+        "dynamic-2026-08-22-01",
+        "dynamic-2026-08-22-02",
+        "dynamic-2026-08-22-03",
+        "dynamic-2026-08-22-04",
+        "dynamic-2026-08-22-06"
       ]
     },
     {
@@ -1533,7 +1547,8 @@
       "region": "西方",
       "country": "德國 / Berlin",
       "cityKeywords": [
-        "Berlin"
+        "Berlin",
+        "柏林"
       ],
       "media": [
         "平台/策展"
@@ -1556,7 +1571,13 @@
       "eligibility": "居住柏林的專業視覺藝術家或固定團體",
       "budget": "官方頁未列本輪單筆金額",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05"
+      ]
     },
     {
       "category": "公開徵件",
@@ -1569,7 +1590,8 @@
       "region": "西方",
       "country": "德國 / Berlin",
       "cityKeywords": [
-        "Berlin"
+        "Berlin",
+        "柏林"
       ],
       "media": [
         "平台/策展"
@@ -1592,7 +1614,13 @@
       "eligibility": "在柏林生活並專業工作的指定藝術門類創作者",
       "budget": "依城市與期程提供駐村獎助",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05"
+      ]
     },
     {
       "category": "公開徵件",
@@ -1605,7 +1633,8 @@
       "region": "西方",
       "country": "德國 / Berlin",
       "cityKeywords": [
-        "Berlin"
+        "Berlin",
+        "柏林"
       ],
       "media": [
         "平台/策展"
@@ -1628,7 +1657,13 @@
       "eligibility": "面向3至18歲弱勢兒少的地方聯盟與專業視覺藝術家合作計畫",
       "budget": "本輪總額 €620,000",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05"
+      ]
     },
     {
       "category": "公開徵件",
@@ -1641,7 +1676,8 @@
       "region": "西方",
       "country": "英國 / London",
       "cityKeywords": [
-        "London"
+        "London",
+        "倫敦"
       ],
       "media": [
         "平台/策展"
@@ -1677,7 +1713,10 @@
       "region": "西方",
       "country": "英國 / Richmond upon Thames",
       "cityKeywords": [
-        "London"
+        "Richmond upon Thames",
+        "London",
+        "泰晤士河畔里奇蒙",
+        "倫敦"
       ],
       "media": [
         "平台/策展"
