@@ -1,0 +1,581 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-22T04:49:08+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-22",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "各作品與機構官方頁",
+    "note": "8/22 固定 10＋5＋5；公開徵選另 5 則，德國 3 則。",
+    "linkAudit": {
+      "checkedAt": "2026-08-22T04:49:08+08:00",
+      "checkedUniqueSources": 9,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "發布前實際瀏覽器開啟"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-01",
+      "dedupeKey": "art-2026-08-22-gabriel-orozco-public-nature",
+      "name": "01｜Gabriel Orozco｜公共自然 Public Nature",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "公共自然 Public Nature",
+      "comment": "把日常物件與自然形態帶入候車空間，讓通勤路線成為分散式展場。",
+      "website": "https://www.publicartfund.org/exhibitions/browse/",
+      "workPage": "https://www.publicartfund.org/exhibitions/browse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "artistStatement": "Gabriel Orozco 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/browse/",
+      "classicTitle": "公共自然 Public Nature",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "classicDesc": "把日常物件與自然形態帶入候車空間，讓通勤路線成為分散式展場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-02",
+      "dedupeKey": "art-2026-08-22-moko-fukuyama-between-tides",
+      "name": "02｜Moko Fukuyama 等｜潮汐之間 Between Tides",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York"
+      ],
+      "media": [
+        "社會參與"
+      ],
+      "works": "潮汐之間 Between Tides",
+      "comment": "以海灘的潮汐、休閒與氣候壓力組織多藝術家公共計畫。",
+      "website": "https://www.publicartfund.org/exhibitions/browse/",
+      "workPage": "https://www.publicartfund.org/exhibitions/browse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "artistStatement": "Moko Fukuyama 等 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/browse/",
+      "classicTitle": "潮汐之間 Between Tides",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "classicDesc": "以海灘的潮汐、休閒與氣候壓力組織多藝術家公共計畫。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-03",
+      "dedupeKey": "art-2026-08-22-genesis-belanger-heads-or-tails",
+      "name": "03｜Genesis Belanger｜正面或反面 Heads or Tails",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "正面或反面 Heads or Tails",
+      "comment": "以放大的日常物件和超現實敘事改寫市政公園的權力表情。",
+      "website": "https://www.publicartfund.org/exhibitions/browse/",
+      "workPage": "https://www.publicartfund.org/exhibitions/browse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "artistStatement": "Genesis Belanger 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/browse/",
+      "classicTitle": "正面或反面 Heads or Tails",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "classicDesc": "以放大的日常物件和超現實敘事改寫市政公園的權力表情。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-04",
+      "dedupeKey": "art-2026-08-22-woody-de-othello-guardian-spirit",
+      "name": "04｜Woody De Othello｜守護靈 Guardian Spirit",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Brooklyn",
+      "cityKeywords": [
+        "Brooklyn"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "守護靈 Guardian Spirit",
+      "comment": "擬人化陶塑在橋岸建立照護、幽默與身體感的公共守望。",
+      "website": "https://www.publicartfund.org/exhibitions/browse/",
+      "workPage": "https://www.publicartfund.org/exhibitions/browse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "artistStatement": "Woody De Othello 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/browse/",
+      "classicTitle": "守護靈 Guardian Spirit",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "classicDesc": "擬人化陶塑在橋岸建立照護、幽默與身體感的公共守望。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-05",
+      "dedupeKey": "art-2026-08-22-thaddeus-mosley-touching-the-earth",
+      "name": "05｜Thaddeus Mosley｜觸碰大地 Touching the Earth",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Pittsburgh",
+      "cityKeywords": [
+        "Pittsburgh"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "觸碰大地 Touching the Earth",
+      "comment": "木雕以重力與手工痕跡連接身體、材料和城市地面。",
+      "website": "https://www.publicartfund.org/exhibitions/browse/",
+      "workPage": "https://www.publicartfund.org/exhibitions/browse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "artistStatement": "Thaddeus Mosley 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/browse/",
+      "classicTitle": "觸碰大地 Touching the Earth",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "classicDesc": "木雕以重力與手工痕跡連接身體、材料和城市地面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-06",
+      "dedupeKey": "art-2026-08-22-camille-henrot-dogs",
+      "name": "06｜Camille Henrot｜犬 Dogs",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "犬 Dogs",
+      "comment": "以犬隻形象探討陪伴、規訓與都市社會關係。",
+      "website": "https://www.publicartfund.org/exhibitions/browse/",
+      "workPage": "https://www.publicartfund.org/exhibitions/browse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "artistStatement": "Camille Henrot 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/browse/",
+      "classicTitle": "犬 Dogs",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "classicDesc": "以犬隻形象探討陪伴、規訓與都市社會關係。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-07",
+      "dedupeKey": "art-2026-08-22-addie-boswell-",
+      "name": "07｜Addie Boswell｜西雅圖市政塔辦公空間委託案",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "西雅圖市政塔辦公空間委託案",
+      "comment": "把公共藝術導入市政辦公空間，讓基礎服務與日常工作環境產生新的視覺連結。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Addie Boswell 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "西雅圖市政塔辦公空間委託案",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "把公共藝術導入市政辦公空間，讓基礎服務與日常工作環境產生新的視覺連結。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-08",
+      "dedupeKey": "art-2026-08-22-cc-stencil-",
+      "name": "08｜CC Stencil｜第四大道高緣石壁畫",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle"
+      ],
+      "media": [
+        "壁畫/街頭"
+      ],
+      "works": "第四大道高緣石壁畫",
+      "comment": "把自行車道防護設施轉成連續色彩介面，讓交通安全工程兼具辨識度。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "CC Stencil 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "第四大道高緣石壁畫",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "把自行車道防護設施轉成連續色彩介面，讓交通安全工程兼具辨識度。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-09",
+      "dedupeKey": "art-2026-08-22-cristina-martinez-stevie-shao-",
+      "name": "09｜Cristina Martinez、Stevie Shao｜紀念體育場施工圍籬計畫",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle"
+      ],
+      "media": [
+        "壁畫/街頭"
+      ],
+      "works": "紀念體育場施工圍籬計畫",
+      "comment": "與學校師生共創施工圍籬，使長期工程邊界成為社區學習與表達空間。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Cristina Martinez、Stevie Shao 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "紀念體育場施工圍籬計畫",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "與學校師生共創施工圍籬，使長期工程邊界成為社區學習與表達空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "dynamic-2026-08-22-10",
+      "dedupeKey": "art-2026-08-22-andrea-m-wilbur-sigo-fortson-square-",
+      "name": "10｜Andrea M Wilbur-Sigo｜Fortson Square 新圍欄與欄杆藝術",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle"
+      ],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "Fortson Square 新圍欄與欄杆藝術",
+      "comment": "以在地原住民族視覺傳統延伸廣場既有作品，讓安全構件承載文化連續性。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Andrea M Wilbur-Sigo 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "Fortson Square 新圍欄與欄杆藝術",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "以在地原住民族視覺傳統延伸廣場既有作品，讓安全構件承載文化連續性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "global-classic-2026-08-22-01",
+      "dedupeKey": "art-2026-08-22-louise-bourgeois-spider-1996",
+      "name": "01｜Louise Bourgeois｜蜘蛛 Spider｜1996",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C."
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "蜘蛛 Spider｜1996",
+      "comment": "巨型蜘蛛在威脅與庇護之間擺盪，把母性與建築尺度帶進花園。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Louise Bourgeois 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "蜘蛛 Spider｜1996",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "巨型蜘蛛在威脅與庇護之間擺盪，把母性與建築尺度帶進花園。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "global-classic-2026-08-22-02",
+      "dedupeKey": "art-2026-08-22-claes-oldenburg-coosje-van-bruggen-typewriter-eraser-scale-x-1999",
+      "name": "02｜Claes Oldenburg、Coosje van Bruggen｜打字機橡皮擦 Typewriter Eraser, Scale X｜1999",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C."
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "打字機橡皮擦 Typewriter Eraser, Scale X｜1999",
+      "comment": "被放大的過時工具以動態輪廓保存技術記憶。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Claes Oldenburg、Coosje van Bruggen 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "打字機橡皮擦 Typewriter Eraser, Scale X｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "被放大的過時工具以動態輪廓保存技術記憶。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "global-classic-2026-08-22-03",
+      "dedupeKey": "art-2026-08-22-tony-smith-moondog-1964",
+      "name": "03｜Tony Smith｜月犬 Moondog｜1964",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C."
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "月犬 Moondog｜1964",
+      "comment": "黑色模組在幾何秩序與動物般姿態之間製造空間張力。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Tony Smith 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "月犬 Moondog｜1964",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "黑色模組在幾何秩序與動物般姿態之間製造空間張力。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "global-classic-2026-08-22-04",
+      "dedupeKey": "art-2026-08-22-robert-indiana-amor-1998-2006",
+      "name": "04｜Robert Indiana｜AMOR｜1998/2006",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C."
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "AMOR｜1998/2006",
+      "comment": "語言被壓縮成可環繞的城市標誌，跨越閱讀與物件。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Robert Indiana 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "AMOR｜1998/2006",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "語言被壓縮成可環繞的城市標誌，跨越閱讀與物件。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "global-classic-2026-08-22-05",
+      "dedupeKey": "art-2026-08-22-roy-lichtenstein-modern-head-1974",
+      "name": "05｜Roy Lichtenstein｜現代頭像 Modern Head｜1974",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C."
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "現代頭像 Modern Head｜1974",
+      "comment": "漫畫線條轉化為穿孔金屬體，隨視角改變平面與立體關係。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Roy Lichtenstein 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "現代頭像 Modern Head｜1974",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "漫畫線條轉化為穿孔金屬體，隨視角改變平面與立體關係。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "german-classic-2026-08-22-01",
+      "dedupeKey": "art-2026-08-22-hans-haacke-der-bev-lkerung-2000",
+      "name": "01｜Hans Haacke｜獻給人民 DER BEVÖLKERUNG｜2000",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin"
+      ],
+      "media": [
+        "社會參與"
+      ],
+      "works": "獻給人民 DER BEVÖLKERUNG｜2000",
+      "comment": "以國會議員帶來的土壤與持續生長，讓民主共同體保持開放而未完成。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "Hans Haacke 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "獻給人民 DER BEVÖLKERUNG｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "以國會議員帶來的土壤與持續生長，讓民主共同體保持開放而未完成。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "german-classic-2026-08-22-02",
+      "dedupeKey": "art-2026-08-22-gerhard-richter-schwarz-rot-gold-1999",
+      "name": "02｜Gerhard Richter｜黑紅金 Schwarz Rot Gold｜1999",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "黑紅金 Schwarz Rot Gold｜1999",
+      "comment": "巨幅彩色玻璃把國旗轉成光、反射與建築秩序。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "Gerhard Richter 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "黑紅金 Schwarz Rot Gold｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "巨幅彩色玻璃把國旗轉成光、反射與建築秩序。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "german-classic-2026-08-22-03",
+      "dedupeKey": "art-2026-08-22-christian-boltanski-archiv-der-deutschen-abgeordneten-1999",
+      "name": "03｜Christian Boltanski｜德國國會議員檔案 Archiv der Deutschen Abgeordneten｜1999",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin"
+      ],
+      "media": [
+        "紀念性公共藝術"
+      ],
+      "works": "德國國會議員檔案 Archiv der Deutschen Abgeordneten｜1999",
+      "comment": "金屬盒與姓名建立跨政權的議會記憶索引。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "Christian Boltanski 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "德國國會議員檔案 Archiv der Deutschen Abgeordneten｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "金屬盒與姓名建立跨政權的議會記憶索引。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "german-classic-2026-08-22-04",
+      "dedupeKey": "art-2026-08-22-sigmar-polke-politicians-and-potatoes-1999",
+      "name": "04｜Sigmar Polke｜政治家與馬鈴薯 Politicians and Potatoes｜1999",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin"
+      ],
+      "media": [
+        "光/影像/投影"
+      ],
+      "works": "政治家與馬鈴薯 Politicians and Potatoes｜1999",
+      "comment": "燈箱以透明、重疊和諷刺語彙拆解政治圖像。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "Sigmar Polke 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "政治家與馬鈴薯 Politicians and Potatoes｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "燈箱以透明、重疊和諷刺語彙拆解政治圖像。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-22",
+      "id": "german-classic-2026-08-22-05",
+      "dedupeKey": "art-2026-08-22-anselm-kiefer-nur-mit-wind-mit-zeit-und-mit-klang-1999",
+      "name": "05｜Anselm Kiefer｜只有風、時間與聲音 Nur mit Wind mit Zeit und mit Klang｜1999",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "只有風、時間與聲音 Nur mit Wind mit Zeit und mit Klang｜1999",
+      "comment": "沉重材料與詩性文字在國會空間召回歷史責任。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "Anselm Kiefer 以作品的尺度、材質與場域關係，讓公共空間成為可被共同閱讀與重新想像的場所。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "只有風、時間與聲音 Nur mit Wind mit Zeit und mit Klang｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "沉重材料與詩性文字在國會空間召回歷史責任。",
+      "relatedByCity": []
+    }
+  ]
+}
