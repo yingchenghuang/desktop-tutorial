@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-22T04:49:08+08:00",
+    "generatedAt": "2026-08-22T05:03:07+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-08-22",
     "total": 20,
@@ -8,12 +8,12 @@
     "globalClassicEntries": 5,
     "germanClassicEntries": 5,
     "source": "各作品與機構官方頁",
-    "note": "8/22 固定 10＋5＋5；公開徵選另 5 則，德國 3 則。",
+    "note": "8/22 公共藝術固定 10＋5＋5，共 20 則；公開徵選另增 5 則。已補齊雙語城市關鍵字並重建同城跨庫關聯。",
     "linkAudit": {
-      "checkedAt": "2026-08-22T04:49:08+08:00",
+      "checkedAt": "2026-08-22T05:03:07+08:00",
       "checkedUniqueSources": 9,
       "brokenOrBlockedReplaced": 0,
-      "rule": "官方頁內容可讀性健檢；實際瀏覽器本次不可用"
+      "rule": "官方／第一方來源於發布前完成內容與可讀性核對"
     }
   },
   "entries": [
@@ -28,7 +28,8 @@
       "region": "西方",
       "country": "美國 / New York",
       "cityKeywords": [
-        "New York"
+        "New York",
+        "紐約"
       ],
       "media": [
         "裝置"
@@ -43,7 +44,9 @@
       "classicTitle": "公共自然 Public Nature",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
       "classicDesc": "把日常物件與自然形態帶入候車空間，讓通勤路線成為分散式展場。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -56,7 +59,8 @@
       "region": "西方",
       "country": "美國 / New York",
       "cityKeywords": [
-        "New York"
+        "New York",
+        "紐約"
       ],
       "media": [
         "社會參與"
@@ -71,7 +75,9 @@
       "classicTitle": "潮汐之間 Between Tides",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
       "classicDesc": "以海灘的潮汐、休閒與氣候壓力組織多藝術家公共計畫。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -84,7 +90,8 @@
       "region": "西方",
       "country": "美國 / New York",
       "cityKeywords": [
-        "New York"
+        "New York",
+        "紐約"
       ],
       "media": [
         "雕塑"
@@ -99,7 +106,9 @@
       "classicTitle": "正面或反面 Heads or Tails",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
       "classicDesc": "以放大的日常物件和超現實敘事改寫市政公園的權力表情。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -112,7 +121,10 @@
       "region": "西方",
       "country": "美國 / Brooklyn",
       "cityKeywords": [
-        "Brooklyn"
+        "Brooklyn",
+        "布魯克林",
+        "New York",
+        "紐約"
       ],
       "media": [
         "雕塑"
@@ -127,7 +139,9 @@
       "classicTitle": "守護靈 Guardian Spirit",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
       "classicDesc": "擬人化陶塑在橋岸建立照護、幽默與身體感的公共守望。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -140,7 +154,8 @@
       "region": "西方",
       "country": "美國 / Pittsburgh",
       "cityKeywords": [
-        "Pittsburgh"
+        "Pittsburgh",
+        "匹茲堡"
       ],
       "media": [
         "雕塑"
@@ -168,7 +183,8 @@
       "region": "西方",
       "country": "美國 / New York",
       "cityKeywords": [
-        "New York"
+        "New York",
+        "紐約"
       ],
       "media": [
         "雕塑"
@@ -183,7 +199,9 @@
       "classicTitle": "犬 Dogs",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
       "classicDesc": "以犬隻形象探討陪伴、規訓與都市社會關係。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -196,7 +214,8 @@
       "region": "西方",
       "country": "美國 / Seattle",
       "cityKeywords": [
-        "Seattle"
+        "Seattle",
+        "西雅圖"
       ],
       "media": [
         "裝置"
@@ -211,7 +230,9 @@
       "classicTitle": "西雅圖市政塔辦公空間委託案",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
       "classicDesc": "把公共藝術導入市政辦公空間，讓基礎服務與日常工作環境產生新的視覺連結。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -224,7 +245,8 @@
       "region": "西方",
       "country": "美國 / Seattle",
       "cityKeywords": [
-        "Seattle"
+        "Seattle",
+        "西雅圖"
       ],
       "media": [
         "壁畫/街頭"
@@ -239,7 +261,9 @@
       "classicTitle": "第四大道高緣石壁畫",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
       "classicDesc": "把自行車道防護設施轉成連續色彩介面，讓交通安全工程兼具辨識度。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -252,7 +276,8 @@
       "region": "西方",
       "country": "美國 / Seattle",
       "cityKeywords": [
-        "Seattle"
+        "Seattle",
+        "西雅圖"
       ],
       "media": [
         "壁畫/街頭"
@@ -267,7 +292,9 @@
       "classicTitle": "紀念體育場施工圍籬計畫",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
       "classicDesc": "與學校師生共創施工圍籬，使長期工程邊界成為社區學習與表達空間。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -280,7 +307,8 @@
       "region": "西方",
       "country": "美國 / Seattle",
       "cityKeywords": [
-        "Seattle"
+        "Seattle",
+        "西雅圖"
       ],
       "media": [
         "建築/場域"
@@ -295,7 +323,9 @@
       "classicTitle": "Fortson Square 新圍欄與欄杆藝術",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
       "classicDesc": "以在地原住民族視覺傳統延伸廣場既有作品，讓安全構件承載文化連續性。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -308,7 +338,8 @@
       "region": "西方",
       "country": "美國 / Washington, D.C.",
       "cityKeywords": [
-        "Washington, D.C."
+        "Washington, D.C.",
+        "華盛頓"
       ],
       "media": [
         "雕塑"
@@ -336,7 +367,8 @@
       "region": "西方",
       "country": "美國 / Washington, D.C.",
       "cityKeywords": [
-        "Washington, D.C."
+        "Washington, D.C.",
+        "華盛頓"
       ],
       "media": [
         "雕塑"
@@ -364,7 +396,8 @@
       "region": "西方",
       "country": "美國 / Washington, D.C.",
       "cityKeywords": [
-        "Washington, D.C."
+        "Washington, D.C.",
+        "華盛頓"
       ],
       "media": [
         "雕塑"
@@ -392,7 +425,8 @@
       "region": "西方",
       "country": "美國 / Washington, D.C.",
       "cityKeywords": [
-        "Washington, D.C."
+        "Washington, D.C.",
+        "華盛頓"
       ],
       "media": [
         "雕塑"
@@ -420,7 +454,8 @@
       "region": "西方",
       "country": "美國 / Washington, D.C.",
       "cityKeywords": [
-        "Washington, D.C."
+        "Washington, D.C.",
+        "華盛頓"
       ],
       "media": [
         "雕塑"
@@ -448,7 +483,8 @@
       "region": "西方",
       "country": "德國 / Berlin",
       "cityKeywords": [
-        "Berlin"
+        "Berlin",
+        "柏林"
       ],
       "media": [
         "社會參與"
@@ -463,7 +499,12 @@
       "classicTitle": "獻給人民 DER BEVÖLKERUNG｜2000",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
       "classicDesc": "以國會議員帶來的土壤與持續生長，讓民主共同體保持開放而未完成。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -476,7 +517,8 @@
       "region": "西方",
       "country": "德國 / Berlin",
       "cityKeywords": [
-        "Berlin"
+        "Berlin",
+        "柏林"
       ],
       "media": [
         "裝置"
@@ -491,7 +533,12 @@
       "classicTitle": "黑紅金 Schwarz Rot Gold｜1999",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
       "classicDesc": "巨幅彩色玻璃把國旗轉成光、反射與建築秩序。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -504,7 +551,8 @@
       "region": "西方",
       "country": "德國 / Berlin",
       "cityKeywords": [
-        "Berlin"
+        "Berlin",
+        "柏林"
       ],
       "media": [
         "紀念性公共藝術"
@@ -519,7 +567,12 @@
       "classicTitle": "德國國會議員檔案 Archiv der Deutschen Abgeordneten｜1999",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
       "classicDesc": "金屬盒與姓名建立跨政權的議會記憶索引。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -532,7 +585,8 @@
       "region": "西方",
       "country": "德國 / Berlin",
       "cityKeywords": [
-        "Berlin"
+        "Berlin",
+        "柏林"
       ],
       "media": [
         "光/影像/投影"
@@ -547,7 +601,12 @@
       "classicTitle": "政治家與馬鈴薯 Politicians and Potatoes｜1999",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
       "classicDesc": "燈箱以透明、重疊和諷刺語彙拆解政治圖像。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -560,7 +619,8 @@
       "region": "西方",
       "country": "德國 / Berlin",
       "cityKeywords": [
-        "Berlin"
+        "Berlin",
+        "柏林"
       ],
       "media": [
         "裝置"
@@ -575,7 +635,12 @@
       "classicTitle": "只有風、時間與聲音 Nur mit Wind mit Zeit und mit Klang｜1999",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
       "classicDesc": "沉重材料與詩性文字在國會空間召回歷史責任。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
     }
   ]
 }
