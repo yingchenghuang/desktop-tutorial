@@ -13,7 +13,7 @@
       "checkedAt": "2026-08-22T04:49:08+08:00",
       "checkedUniqueSources": 9,
       "brokenOrBlockedReplaced": 0,
-      "rule": "發布前實際瀏覽器開啟"
+      "rule": "官方頁內容可讀性健檢；實際瀏覽器本次不可用"
     }
   },
   "entries": [
