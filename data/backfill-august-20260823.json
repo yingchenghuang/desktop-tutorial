@@ -1,0 +1,646 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-23T04:29:30+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-23",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "各作品與機構官方頁",
+    "note": "8/23 公共藝術固定 10＋5＋5；公開徵選另 5 則，德國 3 則。",
+    "linkAudit": {
+      "checkedAt": "2026-08-23T04:29:30+08:00",
+      "checkedUniqueSources": 14,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "發布前以實際瀏覽器逐一開啟並跟隨重新導向"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-01",
+      "dedupeKey": "art-2026-08-23-roy-franklin-",
+      "name": "01｜Roy Franklin｜藝術自行車與滑板車停車架",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "藝術自行車與滑板車停車架",
+      "comment": "把音樂的不可見振動轉成四組可使用的街道家具。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Franklin 將聲波振動形成的 cymatics 圖樣轉譯為城市交通設施。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "藝術自行車與滑板車停車架",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "把音樂的不可見振動轉成四組可使用的街道家具。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-02",
+      "dedupeKey": "art-2026-08-23-yasiman-ahsani-belltown",
+      "name": "02｜Yasiman Ahsani｜Belltown 臨時圍籬藝術",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "media": [
+        "壁畫/街頭"
+      ],
+      "works": "Belltown 臨時圍籬藝術",
+      "comment": "讓施工邊界成為可被社區觀看與回應的短期展面。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Ahsani 以臨時圍籬作為面向行人的公共敘事介面。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "Belltown 臨時圍籬藝術",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "讓施工邊界成為可被社區觀看與回應的短期展面。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-03",
+      "dedupeKey": "art-2026-08-23-rhodora-jacob-ballard",
+      "name": "03｜Rhodora Jacob｜Ballard 臨時圍籬藝術",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "media": [
+        "壁畫/街頭"
+      ],
+      "works": "Ballard 臨時圍籬藝術",
+      "comment": "把工程期間的封閉感轉化為具地方辨識度的連續圖像。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Jacob 以在地故事與視覺節奏介入公共工程圍籬。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "Ballard 臨時圍籬藝術",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "把工程期間的封閉感轉化為具地方辨識度的連續圖像。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-04",
+      "dedupeKey": "art-2026-08-23-amanda-lee-flow-ship-canal",
+      "name": "04｜Amanda Lee｜FLOW：Ship Canal 臨時公共藝術",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "media": [
+        "社會參與"
+      ],
+      "works": "FLOW：Ship Canal 臨時公共藝術",
+      "comment": "以公共藝術讓地下基礎設施的生態工作浮上城市表面。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Lee 的 FLOW 計畫把水質工程、社群記憶與臨時藝術並置。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "FLOW：Ship Canal 臨時公共藝術",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "以公共藝術讓地下基礎設施的生態工作浮上城市表面。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-05",
+      "dedupeKey": "art-2026-08-23-jonathan-eden-seattle-city-light",
+      "name": "05｜Jonathan Eden｜Seattle City Light 藝術教育工具",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "media": [
+        "社會參與"
+      ],
+      "works": "Seattle City Light 藝術教育工具",
+      "comment": "將藝術委託從單一物件延伸成公共溝通與學習工具。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Eden 與城市照明推廣團隊共同開發可被社區使用的藝術教材。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "Seattle City Light 藝術教育工具",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "將藝術委託從單一物件延伸成公共溝通與學習工具。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-06",
+      "dedupeKey": "art-2026-08-23-alison-elizabeth-taylor-soundview-recreation-center",
+      "name": "06｜Alison Elizabeth Taylor｜Soundview Recreation Center 概念設計",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "Soundview Recreation Center 概念設計",
+      "comment": "概念設計透過社區會議進入審議，使作品與公共使用共同成形。",
+      "website": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "workPage": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "artistStatement": "Taylor 以場域回應的圖像與材料研究推進休閒中心永久公共藝術。",
+      "artistStatementSource": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "classicTitle": "Soundview Recreation Center 概念設計",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "classicDesc": "概念設計透過社區會議進入審議，使作品與公共使用共同成形。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-07",
+      "dedupeKey": "art-2026-08-23-sherrill-roland-new-brooklyn-detention-facility",
+      "name": "07｜Sherrill Roland｜New Brooklyn Detention Facility 公共藝術",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "紀念性公共藝術"
+      ],
+      "works": "New Brooklyn Detention Facility 公共藝術",
+      "comment": "在高敏感度機構場域中，以公開審議建立作品的社會責任。",
+      "website": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "workPage": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "artistStatement": "Roland 的概念設計將司法建築、身體經驗與公共記憶納入討論。",
+      "artistStatementSource": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "classicTitle": "New Brooklyn Detention Facility 公共藝術",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "classicDesc": "在高敏感度機構場域中，以公開審議建立作品的社會責任。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-08",
+      "dedupeKey": "art-2026-08-23-mark-loughney-horizon-juvenile-center-annex",
+      "name": "08｜Mark Loughney｜Horizon Juvenile Center Annex 公共藝術",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "Horizon Juvenile Center Annex 公共藝術",
+      "comment": "讓少年服務設施的公共藝術經由社區程序接受檢視。",
+      "website": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "workPage": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "artistStatement": "Loughney 以人物、敘事與機構空間的關係發展概念設計。",
+      "artistStatementSource": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "classicTitle": "Horizon Juvenile Center Annex 公共藝術",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "classicDesc": "讓少年服務設施的公共藝術經由社區程序接受檢視。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-09",
+      "dedupeKey": "art-2026-08-23-tatyana-fazlalizadeh-horizon-juvenile-center-annex",
+      "name": "09｜Tatyana Fazlalizadeh｜Horizon Juvenile Center Annex 概念提案",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "壁畫/街頭"
+      ],
+      "works": "Horizon Juvenile Center Annex 概念提案",
+      "comment": "把街頭肖像的社會能量帶入少年服務建築的公共委託。",
+      "website": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "workPage": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "artistStatement": "Fazlalizadeh 以公共肖像與反騷擾實踐回應青年和城市空間。",
+      "artistStatementSource": "https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "classicTitle": "Horizon Juvenile Center Annex 概念提案",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dclapercentforart/about/public-meetings.page",
+      "classicDesc": "把街頭肖像的社會能量帶入少年服務建築的公共委託。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "dynamic-2026-08-23-10",
+      "dedupeKey": "art-2026-08-23-sashko-danylenko-in-visible-work",
+      "name": "10｜Sashko Danylenko｜不可見的工作 (In)Visible Work",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "media": [
+        "數位/互動"
+      ],
+      "works": "不可見的工作 (In)Visible Work",
+      "comment": "用幽默角色讓城市公共事業的隱形勞動變得可理解、可親近。",
+      "website": "https://artbeat.seattle.gov/2026/08/11/invisible-work-animating-the-work-of-seattle-public-utilities/",
+      "workPage": "https://artbeat.seattle.gov/2026/08/11/invisible-work-animating-the-work-of-seattle-public-utilities/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/08/11/invisible-work-animating-the-work-of-seattle-public-utilities/",
+      "artistStatement": "Danylenko 以動畫、影像與民間視覺語彙解釋水、廢棄物及排水系統。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/08/11/invisible-work-animating-the-work-of-seattle-public-utilities/",
+      "classicTitle": "不可見的工作 (In)Visible Work",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/08/11/invisible-work-animating-the-work-of-seattle-public-utilities/",
+      "classicDesc": "用幽默角色讓城市公共事業的隱形勞動變得可理解、可親近。",
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "global-classic-2026-08-23-01",
+      "dedupeKey": "art-2026-08-23-marc-chagall-orphe-e-1969",
+      "name": "01｜Marc Chagall｜奧菲斯 Orphée｜1969",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "壁畫/街頭"
+      ],
+      "works": "奧菲斯 Orphée｜1969",
+      "comment": "十乘十七英尺的閃爍表面，把奧菲斯、流亡與愛情疊成公共敘事。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Chagall 把神話、移民記憶與私人友誼編織進石材與玻璃馬賽克。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "奧菲斯 Orphée｜1969",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "十乘十七英尺的閃爍表面，把奧菲斯、流亡與愛情疊成公共敘事。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "global-classic-2026-08-23-02",
+      "dedupeKey": "art-2026-08-23-joan-miro-personnage-gothique-oiseau-e-clair-1974-1977",
+      "name": "02｜Joan Miró｜哥德人物與閃電鳥 Personnage Gothique, Oiseau-Éclair｜1974/1977",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "哥德人物與閃電鳥 Personnage Gothique, Oiseau-Éclair｜1974/1977",
+      "comment": "在具象與缺席間，讓拾得物的記憶成為夢境般人物。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Miró 將紙箱、驢項圈與自製鳥形轉化為超現實青銅組合。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "哥德人物與閃電鳥 Personnage Gothique, Oiseau-Éclair｜1974/1977",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "在具象與缺席間，讓拾得物的記憶成為夢境般人物。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "global-classic-2026-08-23-03",
+      "dedupeKey": "art-2026-08-23-tony-smith-wandering-rocks-1967",
+      "name": "03｜Tony Smith｜漫遊之石 Wandering Rocks｜1967",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "漫遊之石 Wandering Rocks｜1967",
+      "comment": "群組配置隨場地調整，使幾何秩序具有步行節奏。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Smith 以可彈性排列的四面體與八面體建立五件相互回應的物件。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "漫遊之石 Wandering Rocks｜1967",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "群組配置隨場地調整，使幾何秩序具有步行節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "global-classic-2026-08-23-04",
+      "dedupeKey": "art-2026-08-23-magdalena-abakanowicz-puellae-1992",
+      "name": "04｜Magdalena Abakanowicz｜女孩們 Puellae｜1992",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "紀念性公共藝術"
+      ],
+      "works": "女孩們 Puellae｜1992",
+      "comment": "匿名群像召回戰時失蹤兒童，在重複與個體差異間留下哀悼。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "Abakanowicz 以三十具各不相同的無頭青銅身體回應戰爭與集體創傷。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "女孩們 Puellae｜1992",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "匿名群像召回戰時失蹤兒童，在重複與個體差異間留下哀悼。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "global-classic-2026-08-23-05",
+      "dedupeKey": "art-2026-08-23-mark-di-suvero-aurora-1992-1993",
+      "name": "05｜Mark di Suvero｜極光 Aurora｜1992–1993",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "極光 Aurora｜1992–1993",
+      "comment": "工業尺度的結構如字母與身體般向外爆發。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "di Suvero 以八噸鋼梁和中央樞紐平衡重量、張力與旋轉感。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "極光 Aurora｜1992–1993",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "工業尺度的結構如字母與身體般向外爆發。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "german-classic-2026-08-23-01",
+      "dedupeKey": "art-2026-08-23-georg-baselitz-",
+      "name": "01｜Georg Baselitz｜南入口大廳兩幅倒置浪漫主義畫作",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "南入口大廳兩幅倒置浪漫主義畫作",
+      "comment": "以倒置構圖連接德國浪漫主義、分裂經驗與當代繪畫。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/baselitz/baselitz-199144",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/baselitz/baselitz-199144",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/baselitz/baselitz-199144",
+      "artistStatement": "Baselitz 倒置 Caspar David Friedrich 圖像，使透明筆觸與國會石材形成張力。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/baselitz/baselitz-199144",
+      "classicTitle": "南入口大廳兩幅倒置浪漫主義畫作",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/baselitz/baselitz-199144",
+      "classicDesc": "以倒置構圖連接德國浪漫主義、分裂經驗與當代繪畫。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "german-classic-2026-08-23-02",
+      "dedupeKey": "art-2026-08-23-grisha-bruskin-leben-u-ber-alles",
+      "name": "02｜Grisha Bruskin｜生命高於一切 Leben über alles",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "生命高於一切 Leben über alles",
+      "comment": "看似整齊的英雄圖譜由彩色屬性露出個體、權力與荒謬。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/bruskin/",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/bruskin/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/bruskin/",
+      "artistStatement": "Bruskin 以一百一十五幅類雕像人物諷刺蘇聯與德國的意識形態神話。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/bruskin/",
+      "classicTitle": "生命高於一切 Leben über alles",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/bruskin/",
+      "classicDesc": "看似整齊的英雄圖譜由彩色屬性露出個體、權力與荒謬。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "german-classic-2026-08-23-03",
+      "dedupeKey": "art-2026-08-23-carlfriedrich-claus-aurora-experimentalraum",
+      "name": "03｜Carlfriedrich Claus｜極光實驗空間 Aurora-Experimentalraum",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "數位/互動"
+      ],
+      "works": "極光實驗空間 Aurora-Experimentalraum",
+      "comment": "詩、哲學與神秘書寫被展開成可穿行的光學語言空間。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/claus/claus-199116",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/claus/claus-199116",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/claus/claus-199116",
+      "artistStatement": "Claus 將雙面書寫的語言葉轉為懸浮透明板，讓思想在行走中持續疊合。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/claus/claus-199116",
+      "classicTitle": "極光實驗空間 Aurora-Experimentalraum",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/claus/claus-199116",
+      "classicDesc": "詩、哲學與神秘書寫被展開成可穿行的光學語言空間。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "german-classic-2026-08-23-04",
+      "dedupeKey": "art-2026-08-23-katharina-sieverding-",
+      "name": "04｜Katharina Sieverding｜魏瑪共和國受迫害國會議員紀念空間",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "紀念性公共藝術"
+      ],
+      "works": "魏瑪共和國受迫害國會議員紀念空間",
+      "comment": "五聯攝影繪畫把火災、傷痕與民主重生壓縮成警示之門。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/sieverding/",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/sieverding/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/sieverding/",
+      "artistStatement": "Sieverding 以火焰日冕、X光脊柱與紀念冊面對民主受迫害的歷史。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/sieverding/",
+      "classicTitle": "魏瑪共和國受迫害國會議員紀念空間",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/sieverding/",
+      "classicDesc": "五聯攝影繪畫把火災、傷痕與民主重生壓縮成警示之門。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-23",
+      "id": "german-classic-2026-08-23-05",
+      "dedupeKey": "art-2026-08-23-jenny-holzer-",
+      "name": "05｜Jenny Holzer｜帝國議會大廈入口文字裝置",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "光/影像/投影"
+      ],
+      "works": "帝國議會大廈入口文字裝置",
+      "comment": "議會語言被轉成時間流，連同插話與衝突進入建築當下。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/holzer/holzer-199082",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/holzer/holzer-199082",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/holzer/holzer-199082",
+      "artistStatement": "Holzer 讓一八七一至一九九九年的國會演說沿數位光柱持續上升。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/holzer/holzer-199082",
+      "classicTitle": "帝國議會大廈入口文字裝置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/holzer/holzer-199082",
+      "classicDesc": "議會語言被轉成時間流，連同插話與衝突進入建築當下。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03"
+      ]
+    }
+  ]
+}
