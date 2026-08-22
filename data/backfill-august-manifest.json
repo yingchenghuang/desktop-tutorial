@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-23-public-art-and-competitions-r25",
-  "generatedAt": "2026-08-23T04:49:55+08:00",
+  "version": "2026-08-23-public-art-and-competitions-r26",
+  "generatedAt": "2026-08-23T05:01:41+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -26,7 +26,7 @@
   "statementEntries": 410,
   "statementSourceEntries": 410,
   "statementBacklog": 0,
-  "note": "8/23 公共藝術10＋5＋5，共20則；公開徵選新增5則（德國3則）；精確截止時間清理0則；NGA 安全驗證頁涉及的5筆全球經典已全數替換，18個唯一官方來源完成實際瀏覽器驗證。",
+  "note": "8/23 公共藝術10＋5＋5，共20則；公開徵選新增5則（德國3則）；精確截止時間清理0則；Rochester 截止時間依官方修正為17:00，Unna與Speyer日期精度修正為date；18個唯一官方來源完成驗證。",
   "imageEntries": 410,
   "imageBacklog": 0
 }
