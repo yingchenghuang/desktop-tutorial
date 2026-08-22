@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-08-22T05:03:07+08:00",
+    "generatedAt": "2026-08-23T05:01:41+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
-    "activeEntries": 42,
+    "activeEntries": 47,
     "addedToday": 5,
-    "expiredRemoved": 1,
-    "note": "8/22 新增 5 則未截止公開徵件；保留全部既有未截止項目，依截止瞬間移除逾期 1 則。",
+    "expiredRemoved": 0,
+    "note": "8/23 新增 5 則未截止公開徵件；保留全部既有未截止項目，依截止瞬間移除逾期 0 則。Rochester 官方明示 17:00 截止；Unna 與 Speyer 僅公布日期，依主辦地 23:59:59 並標記 date。",
     "linkAudit": {
-      "checkedAt": "2026-08-22T05:03:07+08:00",
+      "checkedAt": "2026-08-23T05:01:41+08:00",
       "checkedUniqueSources": 5,
       "allOpenedInBrowser": true,
       "brokenOrBlockedRejected": 0
@@ -1771,7 +1771,7 @@
       "deadline": "2026-09-15T23:59:59+02:00",
       "deadlineLabel": "截止 2026-09-15",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "time",
+      "deadlinePrecision": "date",
       "organizer": "Kreisstadt Unna／Carlernst Kürten-Stiftung",
       "eligibility": "全球視覺藝術家；提案須回應 Carlernst Kürten 或其作品",
       "budget": "每月 €1,000，住宿六至九個月",
@@ -1808,7 +1808,7 @@
       "deadline": "2026-09-30T23:59:59+02:00",
       "deadlineLabel": "截止 2026-09-30",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "time",
+      "deadlinePrecision": "date",
       "organizer": "Stadt Speyer",
       "eligibility": "不超過35歲，作品呈現歐洲城市與鄉村之間的視野",
       "budget": "€6,000 加個人專輯出版",
@@ -1864,7 +1864,7 @@
       "country": "美國 / Solana Beach",
       "cityKeywords": [
         "Solana Beach",
-        "Solana Beach"
+        "索拉納海灘"
       ],
       "media": [
         "雕塑"
@@ -1901,7 +1901,7 @@
       "country": "美國 / Rochester",
       "cityKeywords": [
         "Rochester",
-        "Rochester"
+        "羅徹斯特"
       ],
       "media": [
         "壁畫/街頭"
@@ -1916,7 +1916,7 @@
       "classicTitle": "秋季二維臨時公共藝術",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.rochestercontemporary.org/call-for-art-2d-temporary-public-art-installation/",
       "classicDesc": "三幅圖像將以耐候材質在街面二十四小時展示四至六個月。",
-      "deadline": "2026-09-15T23:59:59-04:00",
+      "deadline": "2026-09-15T17:00:00-04:00",
       "deadlineLabel": "截止 2026-09-15",
       "deadlineTimezone": "America/New_York",
       "deadlinePrecision": "time",
