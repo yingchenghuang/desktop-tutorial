@@ -8,11 +8,11 @@
     "globalClassicEntries": 5,
     "germanClassicEntries": 5,
     "source": "各作品與機構官方頁",
-    "note": "8/23 公共藝術固定 10＋5＋5；公開徵選另 5 則，德國 3 則。",
+    "note": "8/23 公共藝術固定 10＋5＋5；公開徵選另 5 則，德國 3 則。全球經典五筆 NGA 安全驗證頁已全數替換為可直接開啟的第一方作品頁。",
     "linkAudit": {
       "checkedAt": "2026-08-23T04:29:30+08:00",
-      "checkedUniqueSources": 14,
-      "brokenOrBlockedReplaced": 0,
+      "checkedUniqueSources": 18,
+      "brokenOrBlockedReplaced": 5,
       "rule": "發布前以實際瀏覽器逐一開啟並跟隨重新導向"
     }
   },
@@ -332,145 +332,155 @@
       "status": "官方來源",
       "updated": "2026-08-23",
       "id": "global-classic-2026-08-23-01",
-      "dedupeKey": "art-2026-08-23-marc-chagall-orphe-e-1969",
-      "name": "01｜Marc Chagall｜奧菲斯 Orphée｜1969",
+      "dedupeKey": "art-2026-08-23-bharti-kher-ancestor-2022",
+      "name": "01｜Bharti Kher｜祖先 Ancestor｜2022",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "美國 / Washington, D.C.",
+      "country": "美國 / New York",
       "cityKeywords": [
-        "Washington, D.C.",
-        "華盛頓特區"
+        "New York",
+        "紐約"
       ],
       "media": [
-        "壁畫/街頭"
+        "紀念性公共藝術"
       ],
-      "works": "奧菲斯 Orphée｜1969",
-      "comment": "十乘十七英尺的閃爍表面，把奧菲斯、流亡與愛情疊成公共敘事。",
-      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "artistStatement": "Chagall 把神話、移民記憶與私人友誼編織進石材與玻璃馬賽克。",
-      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicTitle": "奧菲斯 Orphée｜1969",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicDesc": "十乘十七英尺的閃爍表面，把奧菲斯、流亡與愛情疊成公共敘事。",
-      "relatedByCity": []
+      "works": "祖先 Ancestor｜2022",
+      "comment": "十八英尺高的母性巨像，以混種身體回應跨文化歸屬與世代照護。",
+      "website": "https://www.publicartfund.org/exhibitions/view/bharti-kher-ancestor/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/bharti-kher-ancestor/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/bharti-kher-ancestor/",
+      "artistStatement": "Kher 將二手市場中破損的陶土小像重新組合並放大，讓公共紀念物不再指向單一英雄，而成為多元身分、祖先與未來世代的共同母體。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/bharti-kher-ancestor/",
+      "classicTitle": "祖先 Ancestor｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/bharti-kher-ancestor/",
+      "classicDesc": "十八英尺高的母性巨像，以混種身體回應跨文化歸屬與世代照護。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-23",
       "id": "global-classic-2026-08-23-02",
-      "dedupeKey": "art-2026-08-23-joan-miro-personnage-gothique-oiseau-e-clair-1974-1977",
-      "name": "02｜Joan Miró｜哥德人物與閃電鳥 Personnage Gothique, Oiseau-Éclair｜1974/1977",
+      "dedupeKey": "art-2026-08-23-yinka-shonibare-wind-sculpture-sg-i-2018",
+      "name": "02｜Yinka Shonibare｜風之雕塑（SG）I｜2018",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "美國 / Washington, D.C.",
+      "country": "美國 / New York",
       "cityKeywords": [
-        "Washington, D.C.",
-        "華盛頓特區"
+        "New York",
+        "紐約"
       ],
       "media": [
         "雕塑"
       ],
-      "works": "哥德人物與閃電鳥 Personnage Gothique, Oiseau-Éclair｜1974/1977",
-      "comment": "在具象與缺席間，讓拾得物的記憶成為夢境般人物。",
-      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "artistStatement": "Miró 將紙箱、驢項圈與自製鳥形轉化為超現實青銅組合。",
-      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicTitle": "哥德人物與閃電鳥 Personnage Gothique, Oiseau-Éclair｜1974/1977",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicDesc": "在具象與缺席間，讓拾得物的記憶成為夢境般人物。",
-      "relatedByCity": []
+      "works": "風之雕塑（SG）I Wind Sculpture (SG) I｜2018",
+      "comment": "把不可見的風凝固成失重般的彩色巨構，讓混種文化成為力量。",
+      "website": "https://www.publicartfund.org/exhibitions/view/yinka-shonibare-mbe-wind-sculpture-sg-i/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/yinka-shonibare-mbe-wind-sculpture-sg-i/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/yinka-shonibare-mbe-wind-sculpture-sg-i/",
+      "artistStatement": "Shonibare 以玻璃纖維固定布料迎風翻動的瞬間，再用跨越印尼、荷蘭與西非貿易史的圖樣，呈現身分始終由遷徙與交換共同塑造。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/yinka-shonibare-mbe-wind-sculpture-sg-i/",
+      "classicTitle": "風之雕塑（SG）I｜2018",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/yinka-shonibare-mbe-wind-sculpture-sg-i/",
+      "classicDesc": "把不可見的風凝固成失重般的彩色巨構，讓混種文化成為力量。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-23",
       "id": "global-classic-2026-08-23-03",
-      "dedupeKey": "art-2026-08-23-tony-smith-wandering-rocks-1967",
-      "name": "03｜Tony Smith｜漫遊之石 Wandering Rocks｜1967",
+      "dedupeKey": "art-2026-08-23-jacolby-satterwhite-an-eclectic-dance-2022",
+      "name": "03｜Jacolby Satterwhite｜時光樂聲中的折衷舞 An Eclectic Dance to the Music of Time｜2022",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "美國 / Washington, D.C.",
+      "country": "美國 / New York",
       "cityKeywords": [
-        "Washington, D.C.",
-        "華盛頓特區"
+        "New York",
+        "紐約"
       ],
       "media": [
-        "雕塑"
+        "數位/互動"
       ],
-      "works": "漫遊之石 Wandering Rocks｜1967",
-      "comment": "群組配置隨場地調整，使幾何秩序具有步行節奏。",
-      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "artistStatement": "Smith 以可彈性排列的四面體與八面體建立五件相互回應的物件。",
-      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicTitle": "漫遊之石 Wandering Rocks｜1967",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicDesc": "群組配置隨場地調整，使幾何秩序具有步行節奏。",
-      "relatedByCity": []
+      "works": "時光樂聲中的折衷舞 An Eclectic Dance to the Music of Time｜2022",
+      "comment": "檔案、真人演出與數位動畫交疊，重寫林肯中心更開放的表演史。",
+      "website": "https://www.publicartfund.org/exhibitions/view/lincoln-center/jacolby-satterwhite-an-eclectic-dance-to-the-music-of-time/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/lincoln-center/jacolby-satterwhite-an-eclectic-dance-to-the-music-of-time/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/lincoln-center/jacolby-satterwhite-an-eclectic-dance-to-the-music-of-time/",
+      "artistStatement": "Satterwhite 將紐約愛樂檔案、現場影像與虛擬景觀編織成公共數位壁畫，以更多元的表演者重新想像音樂機構的過去、現在與未來。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/lincoln-center/jacolby-satterwhite-an-eclectic-dance-to-the-music-of-time/",
+      "classicTitle": "時光樂聲中的折衷舞｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/lincoln-center/jacolby-satterwhite-an-eclectic-dance-to-the-music-of-time/",
+      "classicDesc": "檔案、真人演出與數位動畫交疊，重寫林肯中心更開放的表演史。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-23",
       "id": "global-classic-2026-08-23-04",
-      "dedupeKey": "art-2026-08-23-magdalena-abakanowicz-puellae-1992",
-      "name": "04｜Magdalena Abakanowicz｜女孩們 Puellae｜1992",
+      "dedupeKey": "art-2026-08-23-rachel-whiteread-water-tower-1998",
+      "name": "04｜Rachel Whiteread｜水塔 Water Tower｜1998",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "美國 / Washington, D.C.",
+      "country": "美國 / New York",
       "cityKeywords": [
-        "Washington, D.C.",
-        "華盛頓特區"
+        "New York",
+        "紐約"
       ],
       "media": [
-        "紀念性公共藝術"
+        "雕塑"
       ],
-      "works": "女孩們 Puellae｜1992",
-      "comment": "匿名群像召回戰時失蹤兒童，在重複與個體差異間留下哀悼。",
-      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "artistStatement": "Abakanowicz 以三十具各不相同的無頭青銅身體回應戰爭與集體創傷。",
-      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicTitle": "女孩們 Puellae｜1992",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicDesc": "匿名群像召回戰時失蹤兒童，在重複與個體差異間留下哀悼。",
-      "relatedByCity": []
+      "works": "水塔 Water Tower｜1998",
+      "comment": "透明樹脂翻鑄水塔內部空間，在紐約天際線上時而發光、時而消失。",
+      "website": "https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "artistStatement": "Whiteread 將十二英尺高木製水塔的內部負空間鑄成半透明樹脂，使城市基礎設施化為介於實體與幽靈之間的公共雕塑。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "classicTitle": "水塔 Water Tower｜1998",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "classicDesc": "透明樹脂翻鑄水塔內部空間，在紐約天際線上時而發光、時而消失。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-23",
       "id": "global-classic-2026-08-23-05",
-      "dedupeKey": "art-2026-08-23-mark-di-suvero-aurora-1992-1993",
-      "name": "05｜Mark di Suvero｜極光 Aurora｜1992–1993",
+      "dedupeKey": "art-2026-08-23-tatiana-trouve-desire-lines-2015",
+      "name": "05｜Tatiana Trouvé｜慾望線 Desire Lines｜2015",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "美國 / Washington, D.C.",
+      "country": "美國 / New York",
       "cityKeywords": [
-        "Washington, D.C.",
-        "華盛頓特區"
+        "New York",
+        "紐約"
       ],
       "media": [
-        "雕塑"
+        "地景/大地藝術"
       ],
-      "works": "極光 Aurora｜1992–1993",
-      "comment": "工業尺度的結構如字母與身體般向外爆發。",
-      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "artistStatement": "di Suvero 以八噸鋼梁和中央樞紐平衡重量、張力與旋轉感。",
-      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicTitle": "極光 Aurora｜1992–1993",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "classicDesc": "工業尺度的結構如字母與身體般向外爆發。",
-      "relatedByCity": []
+      "works": "慾望線 Desire Lines｜2015",
+      "comment": "把中央公園 212 條步道變成等長繩卷，將行走化為可閱讀的集體記憶。",
+      "website": "https://www.publicartfund.org/exhibitions/view/tatiana-trouv%C3%A9-desire-lines/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/tatiana-trouv%C3%A9-desire-lines/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/tatiana-trouv%C3%A9-desire-lines/",
+      "artistStatement": "Trouvé 依中央公園地圖拆解 212 條步道，將每段距離繞成繩卷並配上關於行走的文化標題，使測量、記憶與政治步行彼此交會。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/tatiana-trouv%C3%A9-desire-lines/",
+      "classicTitle": "慾望線 Desire Lines｜2015",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/tatiana-trouv%C3%A9-desire-lines/",
+      "classicDesc": "把中央公園 212 條步道變成等長繩卷，將行走化為可閱讀的集體記憶。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
