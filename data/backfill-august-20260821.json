@@ -422,32 +422,31 @@
       "status": "官方來源",
       "updated": "2026-08-21",
       "id": "classic-global-2026-08-21-03",
-      "dedupeKey": "classic-global-scott-burton-six-part-seating-1985-washington-dc",
-      "name": "全球經典03｜Scott Burton｜六件座椅 Six-Part Seating｜1985／1998",
+      "dedupeKey": "classic-global-peter-coffin-untitled-sculpture-silhouettes-2009-new-york",
+      "name": "全球經典03｜Peter Coffin｜無題（雕塑剪影）｜2009",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "美國 / Washington, D.C.",
+      "country": "美國 / New York",
       "cityKeywords": [
-        "Washington, D.C.",
-        "華盛頓",
-        "National Mall"
+        "New York",
+        "紐約",
+        "City Hall Park"
       ],
       "media": [
         "雕塑",
-        "建築/場域",
-        "社會參與"
+        "裝置"
       ],
-      "works": "National Gallery Sculpture Garden｜六件紅色花崗岩座椅",
-      "comment": "六個幾何座椅圍成儀式性圓環，刻意消除雕塑與家具的界線；觀眾坐下後，社交關係便成為作品的構圖。",
-      "website": "https://www.nga.gov/artworks/107760-six-part-seating",
-      "workPage": "https://www.nga.gov/artworks/107760-six-part-seating",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/artworks/107760-six-part-seating",
-      "artistStatement": "Burton 主張藝術應置於觀眾周圍、背後與下方，藉功能性座椅反對只能從正面凝視的紀念碑式雕塑。",
-      "artistStatementSource": "https://www.nga.gov/artworks/107760-six-part-seating",
-      "classicTitle": "六件座椅 Six-Part Seating｜1985／1998",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/artworks/107760-six-part-seating",
-      "classicDesc": "用可坐的花崗岩圓環把社交行為納入雕塑本體。",
-      "relatedByCity": []
+      "works": "無題（雕塑剪影）Untitled (Sculpture Silhouettes)｜2009",
+      "comment": "十三座經典雕塑被壓成一英吋厚剪影，讓藝術史像記憶般忽隱忽現。",
+      "website": "https://www.publicartfund.org/exhibitions/view/untitled-sculpture-silhouettes/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/untitled-sculpture-silhouettes/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/untitled-sculpture-silhouettes/",
+      "artistStatement": "Coffin 將羅丹、摩艾、布爾喬亞、勒維特與畢卡索等雕塑輪廓轉成扁平鋼板，使觀眾以自身記憶補回缺失體積，也看見藝術史不斷被重寫。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/untitled-sculpture-silhouettes/",
+      "classicTitle": "無題（雕塑剪影）｜2009",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/untitled-sculpture-silhouettes/",
+      "classicDesc": "十三座經典雕塑被壓成一英吋厚剪影，讓藝術史像記憶般忽隱忽現。",
+      "relatedByCity": ["competition-2026-08-13-05"]
     },
     {
       "category": "作品/展覽",
@@ -485,31 +484,31 @@
       "status": "官方來源",
       "updated": "2026-08-21",
       "id": "classic-global-2026-08-21-05",
-      "dedupeKey": "classic-global-sol-lewitt-four-sided-pyramid-1997-washington-dc",
-      "name": "全球經典05｜Sol LeWitt｜四面金字塔 Four-Sided Pyramid｜1997",
+      "dedupeKey": "classic-global-erwin-wurm-hot-dog-bus-2018-new-york",
+      "name": "全球經典05｜Erwin Wurm｜熱狗巴士 Hot Dog Bus｜2018",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "美國 / Washington, D.C.",
+      "country": "美國 / New York",
       "cityKeywords": [
-        "Washington, D.C.",
-        "華盛頓",
-        "National Mall"
+        "New York",
+        "紐約",
+        "Brooklyn"
       ],
       "media": [
         "雕塑",
-        "建築/場域"
+        "社會參與"
       ],
-      "works": "National Gallery Sculpture Garden｜混凝土砌塊與砂漿",
-      "comment": "階梯金字塔依藝術家指示由工程與砌築團隊完成，既引用古代神塔，也呼應紐約退縮式摩天樓法規，把觀念藝術落實為公共構造。",
-      "website": "https://www.nga.gov/artworks/107763-four-sided-pyramid",
-      "workPage": "https://www.nga.gov/artworks/107763-four-sided-pyramid",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/artworks/107763-four-sided-pyramid",
-      "artistStatement": "LeWitt 將作品定義為可由他人執行的結構；清晰規則比藝術家手作更重要，公共施工因此成為觀念的具體化。",
-      "artistStatementSource": "https://www.nga.gov/artworks/107763-four-sided-pyramid",
-      "classicTitle": "四面金字塔 Four-Sided Pyramid｜1997",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/artworks/107763-four-sided-pyramid",
-      "classicDesc": "以指令、模組和公共施工將觀念藝術轉成可步行環視的結構。",
-      "relatedByCity": []
+      "works": "熱狗巴士 Hot Dog Bus｜2018",
+      "comment": "膨脹的福斯巴士免費供應熱狗，把進食、消費與身體增量都視為雕塑行為。",
+      "website": "https://www.publicartfund.org/exhibitions/view/erwin-wurm-hot-dog-bus/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/erwin-wurm-hot-dog-bus/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/erwin-wurm-hot-dog-bus/",
+      "artistStatement": "Wurm 將復古福斯巴士改成飽脹的黃色餐車，免費供應熱狗，讓車體變形、觀眾進食與身體增量共同擴張雕塑的定義。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/erwin-wurm-hot-dog-bus/",
+      "classicTitle": "熱狗巴士 Hot Dog Bus｜2018",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/erwin-wurm-hot-dog-bus/",
+      "classicDesc": "膨脹的福斯巴士免費供應熱狗，把進食、消費與身體增量都視為雕塑行為。",
+      "relatedByCity": ["competition-2026-08-13-05"]
     },
     {
       "category": "作品/展覽",
