@@ -1,0 +1,671 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-24T04:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-24",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "各作品與機構官方頁",
+    "note": "8/24 公共藝術固定 10＋5＋5；公開徵選另 5 則，德國 5 則。所有唯一來源均以實際瀏覽器驗證可直接顯示。",
+    "linkAudit": {
+      "checkedAt": "2026-08-24T08:00:00+08:00",
+      "checkedUniqueSources": 16,
+      "brokenOrBlockedReplaced": 2,
+      "rule": "發布前以實際瀏覽器逐一開啟並跟隨重新導向"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-01",
+      "dedupeKey": "art-2026-08-24-nevin-aladag-jfk-t6",
+      "name": "01｜Nevin Aladağ｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "以跨媒介語彙把聲音、身體與文化記憶帶入航廈動線。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其為 JFK 第六航廈永久公共藝術委託藝術家。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "以跨媒介語彙把聲音、身體與文化記憶帶入航廈動線。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-02",
+      "dedupeKey": "art-2026-08-24-candida-alvarez-jfk-t6",
+      "name": "02｜Candida Alvarez｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "以色彩與抽象結構回應旅行、遷移與紐約的多語文化。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其永久委託，創作脈絡著重色彩、記憶與地方經驗。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "以色彩與抽象結構回應旅行、遷移與紐約的多語文化。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-03",
+      "dedupeKey": "art-2026-08-24-felipe-baeza-jfk-t6",
+      "name": "03｜Felipe Baeza｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "把身體、離散與重生的圖像轉成旅客可共同閱讀的公共敘事。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其為航廈永久藝術委託者。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "把身體、離散與重生的圖像轉成旅客可共同閱讀的公共敘事。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-04",
+      "dedupeKey": "art-2026-08-24-kerstin-bratsch-jfk-t6",
+      "name": "04｜Kerstin Brätsch｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "讓繪畫延伸成建築尺度的表面、光線與流動經驗。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其委託，作品將繪畫視為可與空間共變的媒介。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "讓繪畫延伸成建築尺度的表面、光線與流動經驗。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-05",
+      "dedupeKey": "art-2026-08-24-jane-dickson-jfk-t6",
+      "name": "05｜Jane Dickson｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "以城市夜景與移動視角，捕捉紐約交通空間的心理節奏。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其永久委託，創作長期觀察城市移動與公共生活。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "以城市夜景與移動視角，捕捉紐約交通空間的心理節奏。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-06",
+      "dedupeKey": "art-2026-08-24-teresita-fernandez-jfk-t6",
+      "name": "06｜Teresita Fernández｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "以材料、反射與地景感知重構旅客對天空和距離的想像。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其委託，創作關注地景、觀看位置與物質感。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "以材料、反射與地景感知重構旅客對天空和距離的想像。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-07",
+      "dedupeKey": "art-2026-08-24-charles-gaines-jfk-t6",
+      "name": "07｜Charles Gaines｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "以系統、序列與公共文本挑戰單一觀看方式。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其永久委託，創作以規則系統檢視再現與政治。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "以系統、序列與公共文本挑戰單一觀看方式。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-08",
+      "dedupeKey": "art-2026-08-24-sky-hopinka-jfk-t6",
+      "name": "08｜Sky Hopinka｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "以影像、語言與原住民地景記憶，為全球門戶加入多重敘事。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其委託，創作在影像、語言和土地關係間移動。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "以影像、語言與原住民地景記憶，為全球門戶加入多重敘事。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-09",
+      "dedupeKey": "art-2026-08-24-shara-hughes-jfk-t6",
+      "name": "09｜Shara Hughes｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "以高密度色彩和想像地景，讓過境空間成為感官停留點。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其永久委託，創作以想像性地景拓展繪畫空間。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "以高密度色彩和想像地景，讓過境空間成為感官停留點。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "dynamic-2026-08-24-10",
+      "dedupeKey": "art-2026-08-24-laure-prouvost-jfk-t6",
+      "name": "10｜Laure Prouvost｜JFK 第六航廈永久公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "Jamaica",
+        "Queens"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "JFK 第六航廈永久公共藝術委託",
+      "comment": "以幽默、語言與沉浸敘事打開航廈中的意外路徑。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "官方名單確認其委託，創作常以敘事錯位和沉浸環境邀請參與。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "JFK 第六航廈永久公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "以幽默、語言與沉浸敘事打開航廈中的意外路徑。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "global-classic-2026-08-24-01",
+      "dedupeKey": "art-2026-08-24-carmen-herrera-estructuras-monumentales",
+      "name": "01｜Carmen Herrera｜Estructuras Monumentales",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Estructuras Monumentales",
+      "comment": "幾何抽象從畫面站立為可穿行的城市尺度結構。",
+      "website": "https://www.publicartfund.org/exhibitions/view/carmen-herrera-estructuras-monumentales/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/carmen-herrera-estructuras-monumentales/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/carmen-herrera-estructuras-monumentales/",
+      "artistStatement": "以清晰色面與結構張力，將長年繪畫研究轉成公共雕塑。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/carmen-herrera-estructuras-monumentales/",
+      "classicTitle": "Estructuras Monumentales",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/carmen-herrera-estructuras-monumentales/",
+      "classicDesc": "幾何抽象從畫面站立為可穿行的城市尺度結構。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "global-classic-2026-08-24-02",
+      "dedupeKey": "art-2026-08-24-tauba-auerbach-flow-separation",
+      "name": "02｜Tauba Auerbach｜Flow Separation",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Flow Separation",
+      "comment": "以流體動力紋理重繪消防船，使移動本身成為公共影像。",
+      "website": "https://www.publicartfund.org/exhibitions/view/tauba-auerbach-flow-separation/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/tauba-auerbach-flow-separation/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/tauba-auerbach-flow-separation/",
+      "artistStatement": "將流體研究與歷史迷彩技術轉譯成船體表面的動態系統。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/tauba-auerbach-flow-separation/",
+      "classicTitle": "Flow Separation",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/tauba-auerbach-flow-separation/",
+      "classicDesc": "以流體動力紋理重繪消防船，使移動本身成為公共影像。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "global-classic-2026-08-24-03",
+      "dedupeKey": "art-2026-08-24-franz-west-the-ego-and-the-id",
+      "name": "03｜Franz West｜The Ego and the Id",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "The Ego and the Id",
+      "comment": "兩座可坐、可繞行的彩色雕塑，把心理概念轉為社交場所。",
+      "website": "https://www.publicartfund.org/exhibitions/view/the-ego-and-the-id/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/the-ego-and-the-id/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/the-ego-and-the-id/",
+      "artistStatement": "以使用者身體與雕塑互動，模糊藝術物件和日常家具的界線。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/the-ego-and-the-id/",
+      "classicTitle": "The Ego and the Id",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/the-ego-and-the-id/",
+      "classicDesc": "兩座可坐、可繞行的彩色雕塑，把心理概念轉為社交場所。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "global-classic-2026-08-24-04",
+      "dedupeKey": "art-2026-08-24-mark-manders-tilted-head",
+      "name": "04｜Mark Manders｜Tilted Head",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Tilted Head",
+      "comment": "巨型傾斜頭像像未完成泥塑，在城市中凝結創作瞬間。",
+      "website": "https://www.publicartfund.org/exhibitions/view/mark-manders-tilted-head/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/mark-manders-tilted-head/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/mark-manders-tilted-head/",
+      "artistStatement": "以青銅模擬易碎黏土，讓完成與未完成同時存在。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/mark-manders-tilted-head/",
+      "classicTitle": "Tilted Head",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/mark-manders-tilted-head/",
+      "classicDesc": "巨型傾斜頭像像未完成泥塑，在城市中凝結創作瞬間。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "global-classic-2026-08-24-05",
+      "dedupeKey": "art-2026-08-24-cristian-andersen-inverse-reverse-obverse",
+      "name": "05｜Cristian Andersen｜inverse reverse obverse",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "inverse reverse obverse",
+      "comment": "以日常物件的反轉與位移，讓幽默成為公共空間的認知裂縫。",
+      "website": "https://www.publicartfund.org/exhibitions/view/lightness-of-being/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/lightness-of-being/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/lightness-of-being/",
+      "artistStatement": "作品以物件轉置檢驗正反、內外與觀看習慣。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/lightness-of-being/",
+      "classicTitle": "inverse reverse obverse",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/lightness-of-being/",
+      "classicDesc": "以日常物件的反轉與位移，讓幽默成為公共空間的認知裂縫。",
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "german-classic-2026-08-24-01",
+      "dedupeKey": "art-2026-08-24-joseph-kosuth-was-ist-das-leben-",
+      "name": "01｜Joseph Kosuth｜Was ist das Leben?",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "觀念/文字"
+      ],
+      "works": "Was ist das Leben?",
+      "comment": "以文字提問把議會空間轉為持續思辨生命與制度的現場。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/kosuth",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/kosuth",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/kosuth",
+      "artistStatement": "Kosuth 以語言作為材料，要求觀看者在閱讀中重新生產意義。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/kosuth",
+      "classicTitle": "Was ist das Leben?",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/kosuth",
+      "classicDesc": "以文字提問把議會空間轉為持續思辨生命與制度的現場。",
+      "relatedByCity": [
+        "competition-2026-08-20-01",
+        "competition-2026-08-20-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "german-classic-2026-08-24-02",
+      "dedupeKey": "art-2026-08-24-markus-l-pertz-1840",
+      "name": "02｜Markus Lüpertz｜1840",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "1840",
+      "comment": "歷史年份與強烈繪畫語彙並置，讓國家記憶保持不穩定。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/luepertz",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/luepertz",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/luepertz",
+      "artistStatement": "Lüpertz 以象徵性形體與厚重筆觸反覆拆解歷史圖像。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/luepertz",
+      "classicTitle": "1840",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/luepertz",
+      "classicDesc": "歷史年份與強烈繪畫語彙並置，讓國家記憶保持不穩定。",
+      "relatedByCity": [
+        "competition-2026-08-20-01",
+        "competition-2026-08-20-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "german-classic-2026-08-24-03",
+      "dedupeKey": "art-2026-08-24-bernhard-heisig-zeit-und-leben",
+      "name": "03｜Bernhard Heisig｜Zeit und Leben",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Zeit und Leben",
+      "comment": "多層人物與歷史片段交疊，呈現德國記憶的衝突與回返。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/heisig",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/heisig",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/heisig",
+      "artistStatement": "Heisig 以敘事性繪畫讓個人生命與二十世紀歷史彼此糾纏。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/heisig",
+      "classicTitle": "Zeit und Leben",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/heisig",
+      "classicDesc": "多層人物與歷史片段交疊，呈現德國記憶的衝突與回返。",
+      "relatedByCity": [
+        "competition-2026-08-20-01",
+        "competition-2026-08-20-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "german-classic-2026-08-24-04",
+      "dedupeKey": "art-2026-08-24-wolfgang-mattheuer-der-eine-und-die-anderen",
+      "name": "04｜Wolfgang Mattheuer｜Der Eine und die Anderen",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Der Eine und die Anderen",
+      "comment": "寓言式人物關係把集體、孤立與社會選擇帶進議會視野。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/mattheuer",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/mattheuer",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/mattheuer",
+      "artistStatement": "Mattheuer 以日常場景和寓言結構檢視個人與社會的張力。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/mattheuer",
+      "classicTitle": "Der Eine und die Anderen",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/mattheuer",
+      "classicDesc": "寓言式人物關係把集體、孤立與社會選擇帶進議會視野。",
+      "relatedByCity": [
+        "competition-2026-08-20-01",
+        "competition-2026-08-20-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-24",
+      "id": "german-classic-2026-08-24-05",
+      "dedupeKey": "art-2026-08-24-emil-schumacher-stationen-und-zeiten-i-iv",
+      "name": "05｜Emil Schumacher｜Stationen und Zeiten, I–IV",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Stationen und Zeiten, I–IV",
+      "comment": "四幅鋁板作品以連續線勢穿越會議空間，形成生命時間的總結。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/schumacher",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/schumacher",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/schumacher",
+      "artistStatement": "Schumacher 讓書寫性線條跨越四個畫面，以透明筆觸回應金屬反光。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/schumacher",
+      "classicTitle": "Stationen und Zeiten, I–IV",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/schumacher",
+      "classicDesc": "四幅鋁板作品以連續線勢穿越會議空間，形成生命時間的總結。",
+      "relatedByCity": [
+        "competition-2026-08-20-01",
+        "competition-2026-08-20-02"
+      ]
+    }
+  ]
+}
