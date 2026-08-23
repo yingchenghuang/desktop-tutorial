@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-24-public-art-and-competitions-r28",
-  "generatedAt": "2026-08-24T08:00:00+08:00",
+  "version": "2026-08-24-public-art-and-competitions-r29",
+  "generatedAt": "2026-08-24T05:05:35+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -25,9 +25,9 @@
   ],
   "expectedEntries": 430,
   "statementEntries": 430,
-  "statementSourceEntries": 410,
+  "statementSourceEntries": 430,
   "statementBacklog": 0,
-  "note": "8/24 公共藝術10＋5＋5，共20則；公開徵選新增5則（德國5則）；精確截止時間清理0則；發布前逐一以實際瀏覽器驗證官方來源，2筆逾時候選已更換。",
+  "note": "8/24 公共藝術 10＋5＋5，共 20 則；公開徵選另新增 5 則。公共藝術圖片、論述來源、城市關鍵字與同城關聯完整；競圖資料維持獨立累積檔。",
   "imageEntries": 430,
   "imageBacklog": 0
 }
