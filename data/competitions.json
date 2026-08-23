@@ -1,15 +1,15 @@
 {
   "meta": {
-    "generatedAt": "2026-08-23T05:01:41+08:00",
+    "generatedAt": "2026-08-22T05:03:07+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
-    "activeEntries": 47,
+    "activeEntries": 42,
     "addedToday": 5,
-    "expiredRemoved": 0,
-    "note": "8/23 新增 5 則未截止公開徵件；保留全部既有未截止項目，依截止瞬間移除逾期 0 則。Rochester 官方明示 17:00 截止；Unna 與 Speyer 僅公布日期，依主辦地 23:59:59 並標記 date。",
+    "expiredRemoved": 1,
+    "note": "8/22 新增 5 則未截止公開徵件；保留全部既有未截止項目，依截止瞬間移除逾期 1 則。",
     "linkAudit": {
-      "checkedAt": "2026-08-23T05:01:41+08:00",
+      "checkedAt": "2026-08-22T05:03:07+08:00",
       "checkedUniqueSources": 5,
       "allOpenedInBrowser": true,
       "brokenOrBlockedRejected": 0
@@ -1771,7 +1771,7 @@
       "deadline": "2026-09-15T23:59:59+02:00",
       "deadlineLabel": "截止 2026-09-15",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date",
+      "deadlinePrecision": "time",
       "organizer": "Kreisstadt Unna／Carlernst Kürten-Stiftung",
       "eligibility": "全球視覺藝術家；提案須回應 Carlernst Kürten 或其作品",
       "budget": "每月 €1,000，住宿六至九個月",
@@ -1808,7 +1808,7 @@
       "deadline": "2026-09-30T23:59:59+02:00",
       "deadlineLabel": "截止 2026-09-30",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date",
+      "deadlinePrecision": "time",
       "organizer": "Stadt Speyer",
       "eligibility": "不超過35歲，作品呈現歐洲城市與鄉村之間的視野",
       "budget": "€6,000 加個人專輯出版",
@@ -1864,7 +1864,7 @@
       "country": "美國 / Solana Beach",
       "cityKeywords": [
         "Solana Beach",
-        "索拉納海灘"
+        "Solana Beach"
       ],
       "media": [
         "雕塑"
@@ -1901,7 +1901,7 @@
       "country": "美國 / Rochester",
       "cityKeywords": [
         "Rochester",
-        "羅徹斯特"
+        "Rochester"
       ],
       "media": [
         "壁畫/街頭"
@@ -1916,7 +1916,7 @@
       "classicTitle": "秋季二維臨時公共藝術",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.rochestercontemporary.org/call-for-art-2d-temporary-public-art-installation/",
       "classicDesc": "三幅圖像將以耐候材質在街面二十四小時展示四至六個月。",
-      "deadline": "2026-09-15T17:00:00-04:00",
+      "deadline": "2026-09-15T23:59:59-04:00",
       "deadlineLabel": "截止 2026-09-15",
       "deadlineTimezone": "America/New_York",
       "deadlinePrecision": "time",
@@ -1925,8 +1925,207 @@
       "budget": "US$400 展示與使用費；製作安裝費由主辦負擔",
       "applicationFee": "未公開",
       "relatedByCity": []
-    }
+    },
+    {
+        "category": "公開徵件",
+        "status": "官方來源",
+        "updated": "2026-08-24",
+        "id": "competition-2026-08-24-01",
+        "dedupeKey": "opportunity-2026-08-24-stadt-marktoberdorf-48-ostallgaeuer-kunstausstellung",
+        "name": "01｜Stadt Marktoberdorf｜第48屆 Ostallgäuer 藝術展",
+        "tier": "競圖資料庫",
+        "region": "西方",
+        "country": "德國 / Marktoberdorf",
+        "cityKeywords": [
+          "Marktoberdorf",
+          "馬克特奧伯多夫"
+        ],
+        "media": [
+          "繪畫",
+          "雕塑",
+          "裝置"
+        ],
+        "works": "第48屆 Ostallgäuer 藝術展｜截止 2026-09-17",
+        "comment": "以 Künstlerhaus 的建築為對話對象，呈現 Bayerisch Schwaben 當代區域藝術。",
+        "website": "https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
+        "workPage": "https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
+        "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
+        "artistStatement": "以 Künstlerhaus 的建築為對話對象，呈現 Bayerisch Schwaben 當代區域藝術。",
+        "artistStatementSource": "https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
+        "classicTitle": "第48屆 Ostallgäuer 藝術展",
+        "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
+        "classicDesc": "以 Künstlerhaus 的建築為對話對象，呈現 Bayerisch Schwaben 當代區域藝術。",
+        "deadline": "2026-09-17T23:59:59+02:00",
+        "deadlineLabel": "截止 2026-09-17",
+        "deadlineTimezone": "Europe/Berlin",
+        "deadlinePrecision": "date",
+        "organizer": "Stadt Marktoberdorf",
+        "eligibility": "居住或工作於 Bayerisch Schwaben 區域的藝術家；依官方簡章送件",
+        "budget": "三獎：€3,000、€2,500、€2,000",
+        "applicationFee": "以官方簡章為準",
+        "relatedByCity": []
+      },
+      {
+        "category": "公開徵件",
+        "status": "官方來源",
+        "updated": "2026-08-24",
+        "id": "competition-2026-08-24-02",
+        "dedupeKey": "opportunity-2026-08-24-kunstverein-frechen-xxi-grafik-triennale-2027",
+        "name": "02｜Kunstverein zu Frechen｜第21屆國際版畫三年展 2027",
+        "tier": "競圖資料庫",
+        "region": "西方",
+        "country": "德國 / Frechen",
+        "cityKeywords": [
+          "Frechen",
+          "弗雷興"
+        ],
+        "media": [
+          "版畫/紙本"
+        ],
+        "works": "第21屆國際版畫三年展 2027｜截止 2026-09-29",
+        "comment": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
+        "website": "https://kunstverein-frechen.de/",
+        "workPage": "https://kunstverein-frechen.de/",
+        "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kunstverein-frechen.de/",
+        "artistStatement": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
+        "artistStatementSource": "https://kunstverein-frechen.de/",
+        "classicTitle": "第21屆國際版畫三年展 2027",
+        "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kunstverein-frechen.de/",
+        "classicDesc": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
+        "deadline": "2026-09-29T23:59:59+02:00",
+        "deadlineLabel": "截止 2026-09-29",
+        "deadlineTimezone": "Europe/Berlin",
+        "deadlinePrecision": "date",
+        "organizer": "Kunstverein zu Frechen e.V.",
+        "eligibility": "全球專業藝術家；原創版畫作品，細節依官方 Call for Entries",
+        "budget": "獎項與展出依官方簡章",
+        "applicationFee": "以官方簡章為準",
+        "relatedByCity": []
+      },
+      {
+        "category": "公開徵件",
+        "status": "官方來源",
+        "updated": "2026-08-24",
+        "id": "competition-2026-08-24-03",
+        "dedupeKey": "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "name": "03｜Land Berlin｜2027 當代視覺藝術呈現補助",
+        "tier": "競圖資料庫",
+        "region": "西方",
+        "country": "德國 / Berlin",
+        "cityKeywords": [
+          "Berlin",
+          "柏林"
+        ],
+        "media": [
+          "平台/策展",
+          "影像",
+          "裝置"
+        ],
+        "works": "2027 當代視覺藝術呈現補助｜截止 2026-10-13 11:00",
+        "comment": "支持柏林藝術家、策展人與空間在城市內完成展覽、錄像首映或出版。",
+        "website": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
+        "workPage": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
+        "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
+        "artistStatement": "支持柏林藝術家、策展人與空間在城市內完成展覽、錄像首映或出版。",
+        "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
+        "classicTitle": "2027 當代視覺藝術呈現補助",
+        "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
+        "classicDesc": "支持柏林藝術家、策展人與空間在城市內完成展覽、錄像首映或出版。",
+        "deadline": "2026-10-13T11:00:00+02:00",
+        "deadlineLabel": "截止 2026-10-13 11:00",
+        "deadlineTimezone": "Europe/Berlin",
+        "deadlinePrecision": "time",
+        "organizer": "Land Berlin Senatsverwaltung für Kultur",
+        "eligibility": "柏林視覺藝術家、團體、策展人、專案空間與具藝術計畫之組織；多數參與藝術家須居住工作於柏林",
+        "budget": "個人圖錄最高 €25,000；個人計畫 €35,000；團體計畫 €55,000",
+        "applicationFee": "免費",
+        "relatedByCity": [
+          "german-classic-2026-08-24-01",
+          "german-classic-2026-08-24-02",
+          "german-classic-2026-08-24-03",
+          "german-classic-2026-08-24-04",
+          "german-classic-2026-08-24-05"
+        ]
+      },
+      {
+        "category": "公開徵件",
+        "status": "官方來源",
+        "updated": "2026-08-24",
+        "id": "competition-2026-08-24-04",
+        "dedupeKey": "opportunity-2026-08-24-stadt-koeln-dr-dormagen-guffanti-stipendium-2027",
+        "name": "04｜Stadt Köln｜Dr. Dormagen-Guffanti 2027 繪畫／版畫駐地獎助",
+        "tier": "競圖資料庫",
+        "region": "西方",
+        "country": "德國 / Köln",
+        "cityKeywords": [
+          "Köln",
+          "科隆"
+        ],
+        "media": [
+          "繪畫",
+          "版畫/紙本",
+          "社會參與"
+        ],
+        "works": "Dr. Dormagen-Guffanti 2027 駐地獎助｜截止 2026-08-31",
+        "comment": "在身心障礙者居住機構進行六個月藝術工作，強調平等參與而非治療介入。",
+        "website": "https://www.stadt-koeln.de/artikel/04447/index.html",
+        "workPage": "https://www.stadt-koeln.de/artikel/04447/index.html",
+        "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-koeln.de/artikel/04447/index.html",
+        "artistStatement": "在身心障礙者居住機構進行六個月藝術工作，強調平等參與而非治療介入。",
+        "artistStatementSource": "https://www.stadt-koeln.de/artikel/04447/index.html",
+        "classicTitle": "Dr. Dormagen-Guffanti 2027 駐地獎助",
+        "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-koeln.de/artikel/04447/index.html",
+        "classicDesc": "在身心障礙者居住機構進行六個月藝術工作，強調平等參與而非治療介入。",
+        "deadline": "2026-08-31T23:59:59+02:00",
+        "deadlineLabel": "截止 2026-08-31",
+        "deadlineTimezone": "Europe/Berlin",
+        "deadlinePrecision": "date",
+        "organizer": "Stadt Köln／Dr. Dormagen-Guffanti-Stiftung",
+        "eligibility": "工作與居住於德國的視覺藝術家；2027 類別為素描／版畫，須提出與住民共同工作的藝術構想",
+        "budget": "€10,000；另可提供每月最高 €500 住宿／交通補助及免費工作室",
+        "applicationFee": "免費",
+        "relatedByCity": []
+      },
+      {
+        "category": "公開徵件",
+        "status": "官方來源",
+        "updated": "2026-08-24",
+        "id": "competition-2026-08-24-05",
+        "dedupeKey": "opportunity-2026-08-24-kuenstlergut-proesitz-one-month-symposium",
+        "name": "05｜Künstlergut Prösitz｜雕塑／裝置母親藝術家一個月獎助",
+        "tier": "競圖資料庫",
+        "region": "西方",
+        "country": "德國 / Grimma-Prösitz",
+        "cityKeywords": [
+          "Grimma",
+          "Prösitz",
+          "格里馬"
+        ],
+        "media": [
+          "雕塑",
+          "裝置"
+        ],
+        "works": "Künstlergut Prösitz 一個月獎助｜截止 2026-11-30",
+        "comment": "讓身為母親的專業雕塑與裝置藝術家可攜十二歲以下子女共同駐地創作。",
+        "website": "https://www.kuenstlergut-proesitz.de/index.php/en/symposium/ausschreibung",
+        "workPage": "https://www.kuenstlergut-proesitz.de/index.php/en/symposium/ausschreibung",
+        "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kuenstlergut-proesitz.de/index.php/en/symposium/ausschreibung",
+        "artistStatement": "讓身為母親的專業雕塑與裝置藝術家可攜十二歲以下子女共同駐地創作。",
+        "artistStatementSource": "https://www.kuenstlergut-proesitz.de/index.php/en/symposium/ausschreibung",
+        "classicTitle": "Künstlergut Prösitz 一個月獎助",
+        "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kuenstlergut-proesitz.de/index.php/en/symposium/ausschreibung",
+        "classicDesc": "讓身為母親的專業雕塑與裝置藝術家可攜十二歲以下子女共同駐地創作。",
+        "deadline": "2026-11-30T23:59:59+01:00",
+        "deadlineLabel": "截止 2026-11-30",
+        "deadlineTimezone": "Europe/Berlin",
+        "deadlinePrecision": "date",
+        "organizer": "Künstlergut Prösitz e.V.",
+        "eligibility": "從事雕塑、裝置或物件藝術的專業女性藝術家，且為十二歲以下子女之母",
+        "budget": "€500；住宿與兒童照護免費，另提供工作坊與個別材料協助",
+        "applicationFee": "免費",
+        "relatedByCity": []
+      }
   ],
-  "generatedAt": "2026-08-23T04:29:30+08:00",
-  "total": 47
+  "generatedAt": "2026-08-24T04:00:00+08:00",
+  "total": 52
 }
