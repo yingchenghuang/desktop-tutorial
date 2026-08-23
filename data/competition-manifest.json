@@ -1,14 +1,16 @@
 {
-  "version": "2026-08-23-competition-r20",
-  "generatedAt": "2026-08-23T05:01:41+08:00",
+  "version": "2026-08-24-competition-r21",
+  "generatedAt": "2026-08-24T05:05:35+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 47,
+  "activeEntries": 52,
   "addedToday": 5,
   "expiredRemoved": 0,
-  "deadlineTimezoneEntries": 47,
-  "deadlinePrecisionEntries": 47,
-  "cityKeywordEntries": 47,
-  "note": "2026-08-23 新增 5 則未截止公開徵件；保留全部既有未截止項目、移除逾期 0 則。47 筆 deadline 皆可解析且含時區，城市關鍵字與必要欄位完整。"
+  "deadlineTimezoneEntries": 52,
+  "deadlinePrecisionEntries": 52,
+  "cityKeywordEntries": 52,
+  "note": "2026-08-24 新增 5 則未截止公開徵件；完整保留既有 47 則、移除逾期 0 則。52 筆 deadline 皆可解析且含時區，城市關鍵字、圖片、來源與必要欄位完整。",
+  "imageEntries": 52,
+  "sourceEntries": 52
 }
