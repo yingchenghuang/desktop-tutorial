@@ -139,6 +139,28 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   font-size:13px;
   line-height:1.85;
 }
+.site-network{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px 22px;
+  margin-top:16px;
+}
+.site-network a{
+  font-size:10px;
+  font-weight:600;
+  letter-spacing:.13em;
+  text-transform:uppercase;
+  color:var(--ink-2);
+  text-decoration:none;
+  border-bottom:1px solid var(--hair);
+  transition:color .2s ease,border-color .2s ease;
+}
+.site-network a:hover{color:var(--blue);border-color:var(--blue)}
+.footer-network{
+  margin-top:32px;
+  padding-top:20px;
+  border-top:1px solid var(--hair-soft);
+}
 
 /* ---------- Hero ---------- */
 .hero{
