@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-24T04:00:00+08:00",
+    "generatedAt": "2026-08-24T05:05:35+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-08-24",
     "total": 20,
@@ -8,12 +8,12 @@
     "globalClassicEntries": 5,
     "germanClassicEntries": 5,
     "source": "各作品與機構官方頁",
-    "note": "8/24 公共藝術固定 10＋5＋5；公開徵選另 5 則，德國 5 則。所有唯一來源均以實際瀏覽器驗證可直接顯示。",
+    "note": "8/24 公共藝術固定 10＋5＋5；公開徵選另 5 則、未混入公共藝術。官方／第一方來源、圖片、城市關鍵字與同城關聯均已核對。",
     "linkAudit": {
-      "checkedAt": "2026-08-24T08:00:00+08:00",
+      "checkedAt": "2026-08-24T05:05:35+08:00",
       "checkedUniqueSources": 16,
       "brokenOrBlockedReplaced": 2,
-      "rule": "發布前以實際瀏覽器逐一開啟並跟隨重新導向"
+      "rule": "發布前逐一核對官方／第一方來源與重新導向"
     }
   },
   "entries": [
@@ -536,7 +536,8 @@
       "classicDesc": "以文字提問把議會空間轉為持續思辨生命與制度的現場。",
       "relatedByCity": [
         "competition-2026-08-20-01",
-        "competition-2026-08-20-02"
+        "competition-2026-08-20-02",
+        "competition-2026-08-24-03"
       ]
     },
     {
@@ -568,7 +569,8 @@
       "classicDesc": "歷史年份與強烈繪畫語彙並置，讓國家記憶保持不穩定。",
       "relatedByCity": [
         "competition-2026-08-20-01",
-        "competition-2026-08-20-02"
+        "competition-2026-08-20-02",
+        "competition-2026-08-24-03"
       ]
     },
     {
@@ -600,7 +602,8 @@
       "classicDesc": "多層人物與歷史片段交疊，呈現德國記憶的衝突與回返。",
       "relatedByCity": [
         "competition-2026-08-20-01",
-        "competition-2026-08-20-02"
+        "competition-2026-08-20-02",
+        "competition-2026-08-24-03"
       ]
     },
     {
@@ -632,7 +635,8 @@
       "classicDesc": "寓言式人物關係把集體、孤立與社會選擇帶進議會視野。",
       "relatedByCity": [
         "competition-2026-08-20-01",
-        "competition-2026-08-20-02"
+        "competition-2026-08-20-02",
+        "competition-2026-08-24-03"
       ]
     },
     {
@@ -664,7 +668,8 @@
       "classicDesc": "四幅鋁板作品以連續線勢穿越會議空間，形成生命時間的總結。",
       "relatedByCity": [
         "competition-2026-08-20-01",
-        "competition-2026-08-20-02"
+        "competition-2026-08-20-02",
+        "competition-2026-08-24-03"
       ]
     }
   ]
