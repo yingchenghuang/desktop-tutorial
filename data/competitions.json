@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generatedAt": "2026-08-25T05:10:00+08:00",
+    "generatedAt": "2026-08-25T05:42:00+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
     "activeEntries": 57,
     "addedToday": 5,
     "expiredRemoved": 0,
-    "note": "8/25 新增 5 則德國有效徵選；移除逾期 0 則。",
+    "note": "8/25 新增 5 則未截止公共藝術委託；完整保留 52 則既有未截止項目並恢復此前已核定的截止、預算與雙語城市關鍵字修正，依截止瞬間移除逾期 0 則。",
     "linkAudit": {
-      "checkedAt": "2026-08-25T05:10:00+08:00",
+      "checkedAt": "2026-08-25T05:42:00+08:00",
       "checkedUniqueSources": 5,
-      "allOpenedInBrowser": true,
+      "allOfficialSourcesVerified": true,
       "brokenOrBlockedRejected": 0
     }
   },
@@ -54,7 +54,8 @@
       "budget": "€250,000；決選提案費每組 €3,000",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "classic-german-2026-08-14-02"
+        "classic-german-2026-08-14-02",
+        "classic-german-2026-08-25-01"
       ]
     },
     {
@@ -142,7 +143,10 @@
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
         "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05"
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05"
       ]
     },
     {
@@ -503,7 +507,9 @@
         "dynamic-2026-08-22-07",
         "dynamic-2026-08-22-08",
         "dynamic-2026-08-22-09",
-        "dynamic-2026-08-22-10"
+        "dynamic-2026-08-22-10",
+        "dynamic-2026-08-25-01",
+        "dynamic-2026-08-25-02"
       ]
     },
     {
@@ -734,7 +740,11 @@
         "dynamic-2026-08-22-02",
         "dynamic-2026-08-22-03",
         "dynamic-2026-08-22-04",
-        "dynamic-2026-08-22-06"
+        "dynamic-2026-08-22-06",
+        "dynamic-2026-08-25-09",
+        "dynamic-2026-08-25-10",
+        "classic-global-2026-08-25-02",
+        "classic-global-2026-08-25-04"
       ]
     },
     {
@@ -1005,9 +1015,9 @@
       "classicTitle": "Hiding in Plain Site｜International Public Art Short Film Festival｜2026",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hidinginplainsite.com/",
       "classicDesc": "公共藝術透過短片、XR 與數位形式進入國際放映網絡。",
-      "deadline": "2026-09-10T23:59:59Z",
+      "deadline": "2026-09-10T23:59:59+00:00",
       "deadlineLabel": "截止 2026.09.10",
-      "deadlineTimezone": "未公開（以主辦頁為準）",
+      "deadlineTimezone": "UTC",
       "deadlinePrecision": "date",
       "organizer": "Hiding in Plain Site",
       "eligibility": "國際藝術家、電影創作者及跨域團隊；作品 2–20 分鐘",
@@ -1576,7 +1586,10 @@
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
         "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05"
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05"
       ]
     },
     {
@@ -1619,7 +1632,10 @@
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
         "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05"
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05"
       ]
     },
     {
@@ -1662,7 +1678,10 @@
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
         "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05"
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05"
       ]
     },
     {
@@ -1700,7 +1719,14 @@
       "eligibility": "擬在倫敦金融城公共領域設置藝術的提案方",
       "budget": "未提供；屬審議申請",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+        "dynamic-2026-08-25-03",
+        "dynamic-2026-08-25-04",
+        "dynamic-2026-08-25-05",
+        "dynamic-2026-08-25-06",
+        "dynamic-2026-08-25-07",
+        "dynamic-2026-08-25-08"
+      ]
     },
     {
       "category": "公開徵件",
@@ -1739,7 +1765,14 @@
       "eligibility": "符合指南的文化組織與合作計畫",
       "budget": "依官方指南核定",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+        "dynamic-2026-08-25-03",
+        "dynamic-2026-08-25-04",
+        "dynamic-2026-08-25-05",
+        "dynamic-2026-08-25-06",
+        "dynamic-2026-08-25-07",
+        "dynamic-2026-08-25-08"
+      ]
     },
     {
       "category": "公開徵件",
@@ -1771,7 +1804,7 @@
       "deadline": "2026-09-15T23:59:59+02:00",
       "deadlineLabel": "截止 2026-09-15",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "time",
+      "deadlinePrecision": "date",
       "organizer": "Kreisstadt Unna／Carlernst Kürten-Stiftung",
       "eligibility": "全球視覺藝術家；提案須回應 Carlernst Kürten 或其作品",
       "budget": "每月 €1,000，住宿六至九個月",
@@ -1808,7 +1841,7 @@
       "deadline": "2026-09-30T23:59:59+02:00",
       "deadlineLabel": "截止 2026-09-30",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "time",
+      "deadlinePrecision": "date",
       "organizer": "Stadt Speyer",
       "eligibility": "不超過35歲，作品呈現歐洲城市與鄉村之間的視野",
       "budget": "€6,000 加個人專輯出版",
@@ -1864,7 +1897,7 @@
       "country": "美國 / Solana Beach",
       "cityKeywords": [
         "Solana Beach",
-        "Solana Beach"
+        "索拉納海灘"
       ],
       "media": [
         "雕塑"
@@ -1901,7 +1934,7 @@
       "country": "美國 / Rochester",
       "cityKeywords": [
         "Rochester",
-        "Rochester"
+        "羅徹斯特"
       ],
       "media": [
         "壁畫/街頭"
@@ -1916,7 +1949,7 @@
       "classicTitle": "秋季二維臨時公共藝術",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.rochestercontemporary.org/call-for-art-2d-temporary-public-art-installation/",
       "classicDesc": "三幅圖像將以耐候材質在街面二十四小時展示四至六個月。",
-      "deadline": "2026-09-15T23:59:59-04:00",
+      "deadline": "2026-09-15T17:00:00-04:00",
       "deadlineLabel": "截止 2026-09-15",
       "deadlineTimezone": "America/New_York",
       "deadlinePrecision": "time",
@@ -1955,14 +1988,14 @@
       "classicTitle": "第48屆 Ostallgäuer 藝術展",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
       "classicDesc": "以 Künstlerhaus 的建築為對話對象，呈現 Bayerisch Schwaben 當代區域藝術。",
-      "deadline": "2026-09-17T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-09-17",
+      "deadline": "2026-09-17T18:00:00+02:00",
+      "deadlineLabel": "截止 2026-09-17 18:00",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date",
+      "deadlinePrecision": "time",
       "organizer": "Stadt Marktoberdorf",
-      "eligibility": "居住或工作於 Bayerisch Schwaben 區域的藝術家；依官方簡章送件",
+      "eligibility": "居住於 Bayerisch Schwaben、出生於該區、指定 BBK 協會會員，或展期內在該區獎助／研修的藝術家；每人最多兩件近三年作品",
       "budget": "三獎：€3,000、€2,500、€2,000",
-      "applicationFee": "以官方簡章為準",
+      "applicationFee": "未公開",
       "relatedByCity": []
     },
     {
@@ -1984,22 +2017,22 @@
       ],
       "works": "第21屆國際版畫三年展 2027｜截止 2026-09-29",
       "comment": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
-      "website": "https://kunstverein-frechen.de/",
-      "workPage": "https://kunstverein-frechen.de/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kunstverein-frechen.de/",
+      "website": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
+      "workPage": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
       "artistStatement": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
-      "artistStatementSource": "https://kunstverein-frechen.de/",
+      "artistStatementSource": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
       "classicTitle": "第21屆國際版畫三年展 2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kunstverein-frechen.de/",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
       "classicDesc": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
       "deadline": "2026-09-29T23:59:59+02:00",
       "deadlineLabel": "截止 2026-09-29",
       "deadlineTimezone": "Europe/Berlin",
       "deadlinePrecision": "date",
       "organizer": "Kunstverein zu Frechen e.V.",
-      "eligibility": "全球專業藝術家；原創版畫作品，細節依官方 Call for Entries",
-      "budget": "獎項與展出依官方簡章",
-      "applicationFee": "以官方簡章為準",
+      "eligibility": "全球專業藝術家；作品須屬原創版畫，包含電腦印刷及傳統版畫技法，作品完成於 2023 年或之後",
+      "budget": "獎金 €3,000、€2,000、€1,500；在學藝術家獎 €1,000；觀眾獎 €200",
+      "applicationFee": "€40（進入第二階段並送交原作時）",
       "relatedByCity": []
     },
     {
@@ -2037,14 +2070,17 @@
       "deadlinePrecision": "time",
       "organizer": "Land Berlin Senatsverwaltung für Kultur",
       "eligibility": "柏林視覺藝術家、團體、策展人、專案空間與具藝術計畫之組織；多數參與藝術家須居住工作於柏林",
-      "budget": "個人圖錄最高 €25,000；個人計畫 €35,000；團體計畫 €55,000",
+      "budget": "個人圖錄最高 €27,000；個人計畫 €35,000；團體計畫 €55,000",
       "applicationFee": "免費",
       "relatedByCity": [
         "german-classic-2026-08-24-01",
         "german-classic-2026-08-24-02",
         "german-classic-2026-08-24-03",
         "german-classic-2026-08-24-04",
-        "german-classic-2026-08-24-05"
+        "german-classic-2026-08-24-05",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05"
       ]
     },
     {
@@ -2130,79 +2166,75 @@
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "competition-2026-08-25-01",
-      "dedupeKey": "opportunity-2026-08-25-land-berlin-2027",
-      "name": "01｜Land Berlin｜2027 視覺藝術工作獎助",
+      "dedupeKey": "opportunity-2026-08-25-city-of-arvada-sculpture-on-carr-drive-aquatics-center",
+      "name": "01｜City of Arvada｜Sculpture on Carr Drive／Aquatics Center",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / Arvada",
       "cityKeywords": [
-        "Berlin"
+        "Arvada",
+        "阿瓦達"
       ],
       "media": [
-        "視覺藝術／公共藝術"
+        "戶外雕塑",
+        "公共委託"
       ],
-      "works": "2027 視覺藝術工作獎助｜截止 2026-09-02",
-      "comment": "支持專業藝術家發展創作方法或特定工作計畫，公共空間、聲音、影像與跨域均在支持類型內。",
-      "website": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.59934.php",
-      "workPage": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.59934.php",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.59934.php",
-      "artistStatement": "支持專業藝術家發展創作方法或特定工作計畫，公共空間、聲音、影像與跨域均在支持類型內。",
-      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.59934.php",
-      "classicTitle": "2027 視覺藝術工作獎助",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.59934.php",
-      "classicDesc": "支持專業藝術家發展創作方法或特定工作計畫，公共空間、聲音、影像與跨域均在支持類型內。",
-      "deadline": "2026-09-02T11:00:00+02:00",
-      "deadlineLabel": "截止 2026-09-02",
-      "deadlineTimezone": "Europe/Berlin",
+      "works": "Sculpture on Carr Drive／Aquatics Center｜截止 2026-10-04 23:59 MDT",
+      "comment": "為 Carr Drive 與新水上中心入口委託耐久戶外雕塑，重點是步行與車行尺度下的城市識別。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/17979/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/17979/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17979/CAFE",
+      "artistStatement": "為 Carr Drive 與新水上中心入口委託耐久戶外雕塑，重點是步行與車行尺度下的城市識別。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/17979/CAFE",
+      "classicTitle": "Sculpture on Carr Drive／Aquatics Center",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17979/CAFE",
+      "classicDesc": "為 Carr Drive 與新水上中心入口委託耐久戶外雕塑，重點是步行與車行尺度下的城市識別。",
+      "deadline": "2026-10-04T23:59:00-06:00",
+      "deadlineLabel": "截止 2026-10-04 23:59 MDT",
+      "deadlineTimezone": "America/Denver",
       "deadlinePrecision": "time",
-      "organizer": "Land Berlin",
-      "eligibility": "居住於柏林的專業視覺藝術家或藝術團體；須具藝術訓練或多年實務",
-      "budget": "金額依 2027 官方資訊表；申請頁未在摘要列出總額",
-      "applicationFee": "免費／官方未列申請費",
-      "relatedByCity": [
-        "classic-global-2026-08-25-01",
-        "classic-global-2026-08-25-02",
-        "classic-global-2026-08-25-05",
-        "classic-german-2026-08-25-01",
-        "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-04",
-        "classic-german-2026-08-25-05"
-      ]
+      "organizer": "City of Arvada",
+      "eligibility": "年滿 18 歲、目前住宅或工作室位於科羅拉多州，並具大型耐久戶外雕塑經驗的專業藝術家或團隊",
+      "budget": "US$74,500；入圍者提案費 US$250",
+      "applicationFee": "免費",
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "competition-2026-08-25-02",
-      "dedupeKey": "opportunity-2026-08-25-alfried-krupp-von-bohlen-und-halbach-stiftung-museum-folkwang-",
-      "name": "02｜Alfried Krupp von Bohlen und Halbach-Stiftung／Museum Folkwang｜當代德國攝影獎助",
+      "dedupeKey": "opportunity-2026-08-25-town-of-basalt-willits-town-center-roundabout-sculpture",
+      "name": "02｜Town of Basalt｜Willits Town Center Roundabout Sculpture",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Essen",
+      "country": "美國 / Basalt",
       "cityKeywords": [
-        "Essen"
+        "Basalt",
+        "巴薩爾特"
       ],
       "media": [
-        "攝影"
+        "戶外雕塑",
+        "圓環場域"
       ],
-      "works": "當代德國攝影獎助｜截止 2026-08-31",
-      "comment": "支持不受委託限制的長期攝影計畫，完成後於公共活動發表並向 Museum Folkwang 提交計畫紀錄。",
-      "website": "https://www.krupp-stiftung.de/stipendienprogramm-zeitgenoessische-deutsche-fotografie/",
-      "workPage": "https://www.krupp-stiftung.de/stipendienprogramm-zeitgenoessische-deutsche-fotografie/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.krupp-stiftung.de/stipendienprogramm-zeitgenoessische-deutsche-fotografie/",
-      "artistStatement": "支持不受委託限制的長期攝影計畫，完成後於公共活動發表並向 Museum Folkwang 提交計畫紀錄。",
-      "artistStatementSource": "https://www.krupp-stiftung.de/stipendienprogramm-zeitgenoessische-deutsche-fotografie/",
-      "classicTitle": "當代德國攝影獎助",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.krupp-stiftung.de/stipendienprogramm-zeitgenoessische-deutsche-fotografie/",
-      "classicDesc": "支持不受委託限制的長期攝影計畫，完成後於公共活動發表並向 Museum Folkwang 提交計畫紀錄。",
-      "deadline": "2026-08-31T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-08-31",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "time",
-      "organizer": "Alfried Krupp von Bohlen und Halbach-Stiftung／Museum Folkwang",
-      "eligibility": "在德國居住至少三年的攝影藝術家，不限國籍、年齡或學歷",
-      "budget": "每名 €13,000，共兩名，為期一年",
-      "applicationFee": "免費／官方未列申請費",
+      "works": "Willits Town Center Roundabout Sculpture｜截止 2026-10-16（官方僅公布日期）",
+      "comment": "在 Willits Town Center 圓環設置具日夜辨識度的永久雕塑，透過入口節點連結社區、交通與山谷地景。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/17883/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/17883/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17883/CAFE",
+      "artistStatement": "在 Willits Town Center 圓環設置具日夜辨識度的永久雕塑，透過入口節點連結社區、交通與山谷地景。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/17883/CAFE",
+      "classicTitle": "Willits Town Center Roundabout Sculpture",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17883/CAFE",
+      "classicDesc": "在 Willits Town Center 圓環設置具日夜辨識度的永久雕塑，透過入口節點連結社區、交通與山谷地景。",
+      "deadline": "2026-10-16T23:59:59-06:00",
+      "deadlineLabel": "截止 2026-10-16（官方僅公布日期）",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "date",
+      "organizer": "Town of Basalt",
+      "eligibility": "年滿 18 歲之全美藝術家或團隊皆可申請；主辦方優先考量當地、區域及科羅拉多州藝術家",
+      "budget": "最高 US$100,000",
+      "applicationFee": "免費",
       "relatedByCity": []
     },
     {
@@ -2210,35 +2242,37 @@
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "competition-2026-08-25-03",
-      "dedupeKey": "opportunity-2026-08-25-hessische-kulturstiftung-2027-2028",
-      "name": "03｜Hessische Kulturstiftung｜2027／2028 旅行與駐地獎助",
+      "dedupeKey": "opportunity-2026-08-25-city-of-highland-park-place-of-remembrance-at-port-clinton-square",
+      "name": "03｜City of Highland Park｜Place of Remembrance at Port Clinton Square",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Wiesbaden",
+      "country": "美國 / Highland Park",
       "cityKeywords": [
-        "Wiesbaden"
+        "Highland Park",
+        "海蘭帕克"
       ],
       "media": [
-        "駐地／視覺藝術"
+        "紀念地景",
+        "公共藝術委託"
       ],
-      "works": "2027／2028 旅行與駐地獎助｜截止 2026-10-15",
-      "comment": "以國際駐地與自由旅行工作期支持藝術家進行場域研究；通過資格與短名單後以抽籤選出。",
-      "website": "https://www.hkst.de/reise-und-residenzstipendien/bewerbung/",
-      "workPage": "https://www.hkst.de/reise-und-residenzstipendien/bewerbung/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hkst.de/reise-und-residenzstipendien/bewerbung/",
-      "artistStatement": "以國際駐地與自由旅行工作期支持藝術家進行場域研究；通過資格與短名單後以抽籤選出。",
-      "artistStatementSource": "https://www.hkst.de/reise-und-residenzstipendien/bewerbung/",
-      "classicTitle": "2027／2028 旅行與駐地獎助",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.hkst.de/reise-und-residenzstipendien/bewerbung/",
-      "classicDesc": "以國際駐地與自由旅行工作期支持藝術家進行場域研究；通過資格與短名單後以抽籤選出。",
-      "deadline": "2026-10-15T23:59:00+02:00",
-      "deadlineLabel": "截止 2026-10-15",
-      "deadlineTimezone": "Europe/Berlin",
+      "works": "Place of Remembrance at Port Clinton Square｜截止 2026-09-11 16:00 CDT",
+      "comment": "為 Port Clinton Square 建立可聚會、反思與教育的紀念場所，以公共藝術回應社群創傷與韌性。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/17989/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/17989/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17989/CAFE",
+      "artistStatement": "為 Port Clinton Square 建立可聚會、反思與教育的紀念場所，以公共藝術回應社群創傷與韌性。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/17989/CAFE",
+      "classicTitle": "Place of Remembrance at Port Clinton Square",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17989/CAFE",
+      "classicDesc": "為 Port Clinton Square 建立可聚會、反思與教育的紀念場所，以公共藝術回應社群創傷與韌性。",
+      "deadline": "2026-09-11T16:00:00-05:00",
+      "deadlineLabel": "截止 2026-09-11 16:00 CDT",
+      "deadlineTimezone": "America/Chicago",
       "deadlinePrecision": "time",
-      "organizer": "Hessische Kulturstiftung",
-      "eligibility": "出生於 Hessen、2025-01-01 前起居住 Hessen，或曾於 Hessen 藝術院校畢業的視覺藝術家",
-      "budget": "14 個獎助；含京都三個月 €15,000、Istanbul 等駐地與旅行方案",
-      "applicationFee": "免費／官方未列申請費",
+      "organizer": "City of Highland Park",
+      "eligibility": "具紀念性公共藝術或相當大型場域作品經驗的合格藝術家／藝術家主導團隊；全美徵件",
+      "budget": "US$200,000；入圍者提案費 US$2,500",
+      "applicationFee": "免費",
       "relatedByCity": []
     },
     {
@@ -2246,35 +2280,37 @@
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "competition-2026-08-25-04",
-      "dedupeKey": "opportunity-2026-08-25-kunstweg-battenberg-kunst-aus-der-region-2026",
-      "name": "04｜Kunstweg Battenberg｜KUNST AUS DER REGION 2026",
+      "dedupeKey": "opportunity-2026-08-25-new-mexico-arts-spaceport-america-sundial-public-art-project",
+      "name": "04｜New Mexico Arts｜Spaceport America Sundial Public Art Project",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Battenberg-Laisa",
+      "country": "美國 / Truth or Consequences",
       "cityKeywords": [
-        "Battenberg-Laisa"
+        "Truth or Consequences",
+        "真理或結果城"
       ],
       "media": [
-        "地景藝術／雕塑／裝置"
+        "場域特定雕塑",
+        "科學公共藝術"
       ],
-      "works": "KUNST AUS DER REGION 2026｜截止 2026-09-20",
-      "comment": "徵集回應 Laisa 村落、地景與周邊環境的場域作品，申請前須參加指定日期現勘。",
-      "website": "https://crossiety.app/news_cards/1632300",
-      "workPage": "https://crossiety.app/news_cards/1632300",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://crossiety.app/news_cards/1632300",
-      "artistStatement": "徵集回應 Laisa 村落、地景與周邊環境的場域作品，申請前須參加指定日期現勘。",
-      "artistStatementSource": "https://crossiety.app/news_cards/1632300",
-      "classicTitle": "KUNST AUS DER REGION 2026",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://crossiety.app/news_cards/1632300",
-      "classicDesc": "徵集回應 Laisa 村落、地景與周邊環境的場域作品，申請前須參加指定日期現勘。",
-      "deadline": "2026-09-20T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-09-20",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "time",
-      "organizer": "Kunstweg Battenberg",
-      "eligibility": "工作室或居所位於 Diemelstadt、Gießen、Siegen、Kassel 之間區域的藝術家",
-      "budget": "官方公開頁未列金額",
-      "applicationFee": "免費／官方未列申請費",
+      "works": "Spaceport America Sundial Public Art Project｜截止 2026-09-04 23:59 MDT（官方以 midnight 表述）",
+      "comment": "以日晷概念回應太空港的天體時間、沙漠光線與科技地景，委託可長期承受戶外環境的場域作品。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
+      "artistStatement": "以日晷概念回應太空港的天體時間、沙漠光線與科技地景，委託可長期承受戶外環境的場域作品。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
+      "classicTitle": "Spaceport America Sundial Public Art Project",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
+      "classicDesc": "以日晷概念回應太空港的天體時間、沙漠光線與科技地景，委託可長期承受戶外環境的場域作品。",
+      "deadline": "2026-09-04T23:59:59-06:00",
+      "deadlineLabel": "截止 2026-09-04 23:59 MDT（官方以 midnight 表述）",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "date",
+      "organizer": "New Mexico Arts／Spaceport America",
+      "eligibility": "居住於美國的藝術家或團隊；Spaceport America 與 New Mexico Department of Cultural Affairs 現職員工及其直系家屬不得申請",
+      "budget": "US$300,000；入圍者提案費 US$4,000，另有旅費補助",
+      "applicationFee": "免費",
       "relatedByCity": []
     },
     {
@@ -2282,38 +2318,38 @@
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "competition-2026-08-25-05",
-      "dedupeKey": "opportunity-2026-08-25-heinrich-bo-ll-stiftung-schleswig-holstein-kunst-gemeinsam-schaffen-und-zukunft-gestalten",
-      "name": "05｜Heinrich-Böll-Stiftung Schleswig-Holstein｜Kunst gemeinsam schaffen und Zukunft gestalten",
+      "dedupeKey": "opportunity-2026-08-25-city-of-bellingham-central-library-children-teen-spaces-percent-for-art",
+      "name": "05｜City of Bellingham｜Central Library Children & Teen Spaces Percent for Art",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Kiel",
+      "country": "美國 / Bellingham",
       "cityKeywords": [
-        "Kiel"
+        "Bellingham",
+        "貝靈厄姆"
       ],
       "media": [
-        "社會參與／公共藝術"
+        "建築整合",
+        "圖書館公共藝術"
       ],
-      "works": "Kunst gemeinsam schaffen und Zukunft gestalten｜截止 2026-08-30",
-      "comment": "以共同創作和未來社會為主題的公開藝術徵集；主辦資訊由德國聯邦視覺藝術家協會當期公告核對。",
-      "website": "https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen/",
-      "workPage": "https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen/",
-      "artistStatement": "以共同創作和未來社會為主題的公開藝術徵集；主辦資訊由德國聯邦視覺藝術家協會當期公告核對。",
-      "artistStatementSource": "https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen/",
-      "classicTitle": "Kunst gemeinsam schaffen und Zukunft gestalten",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen/",
-      "classicDesc": "以共同創作和未來社會為主題的公開藝術徵集；主辦資訊由德國聯邦視覺藝術家協會當期公告核對。",
-      "deadline": "2026-08-30T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-08-30",
-      "deadlineTimezone": "Europe/Berlin",
+      "works": "Central Library Children & Teen Spaces Percent for Art｜截止 2026-09-18 12:00 PDT",
+      "comment": "配合中央圖書館兒童與青少年空間改造，徵求能與室內動線、讀者尺度和學習活動整合的公共藝術。",
+      "website": "https://cob.org/services/arts/public-art/artist-rfq-library-remodel",
+      "workPage": "https://cob.org/services/arts/public-art/artist-rfq-library-remodel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cob.org/services/arts/public-art/artist-rfq-library-remodel",
+      "artistStatement": "配合中央圖書館兒童與青少年空間改造，徵求能與室內動線、讀者尺度和學習活動整合的公共藝術。",
+      "artistStatementSource": "https://cob.org/services/arts/public-art/artist-rfq-library-remodel",
+      "classicTitle": "Central Library Children & Teen Spaces Percent for Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cob.org/services/arts/public-art/artist-rfq-library-remodel",
+      "classicDesc": "配合中央圖書館兒童與青少年空間改造，徵求能與室內動線、讀者尺度和學習活動整合的公共藝術。",
+      "deadline": "2026-09-18T12:00:00-07:00",
+      "deadlineLabel": "截止 2026-09-18 12:00 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
       "deadlinePrecision": "time",
-      "organizer": "Heinrich-Böll-Stiftung Schleswig-Holstein",
-      "eligibility": "依主辦頁申請條件；以共同創作與未來議題為核心的藝術家",
-      "budget": "官方公開摘要未列金額",
-      "applicationFee": "免費／官方未列申請費",
+      "organizer": "City of Bellingham",
+      "eligibility": "具設計、製作及安裝室內公共藝術能力的合格藝術家或團隊；官方頁未另列地理限制",
+      "budget": "約 US$85,000",
+      "applicationFee": "未公開",
       "relatedByCity": []
     }
-  ],
-  "generatedAt": "2026-08-24T04:00:00+08:00",
-  "total": 52
+  ]
 }
