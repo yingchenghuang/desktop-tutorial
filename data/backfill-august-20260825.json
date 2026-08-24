@@ -1,0 +1,615 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-25T04:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-25",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "各作品與機構官方頁",
+    "note": "8/25 公共藝術固定 10＋5＋5；公開徵選另新增德國 5 則。",
+    "linkAudit": {
+      "checkedAt": "2026-08-25T05:10:00+08:00",
+      "checkedUniqueSources": 4,
+      "brokenOrBlockedReplaced": 2,
+      "rule": "發布前逐一開啟並跟隨重新導向"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-01",
+      "dedupeKey": "art-2026-08-25-gregory-fields-south-park",
+      "name": "01｜Gregory Fields｜South Park 手工陶瓷地標柱",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "media": [
+        "陶瓷／公共地標"
+      ],
+      "works": "South Park 手工陶瓷地標柱",
+      "comment": "以手工陶磚映照 South Park 的多元社群，修復使地方工藝重新回到日常路徑。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Gregory Fields 透過陶瓷／公共地標回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "South Park 手工陶瓷地標柱",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "以手工陶磚映照 South Park 的多元社群，修復使地方工藝重新回到日常路徑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-02",
+      "dedupeKey": "art-2026-08-25-addie-boswell-seattle-municipal-tower",
+      "name": "02｜Addie Boswell｜Seattle Municipal Tower 室內公共藝術委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "media": [
+        "壁畫／建築整合"
+      ],
+      "works": "Seattle Municipal Tower 室內公共藝術委託",
+      "comment": "把市政辦公空間轉成可辨識社群生活與勞動經驗的公共內部。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "Addie Boswell 透過壁畫／建築整合回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "Seattle Municipal Tower 室內公共藝術委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "把市政辦公空間轉成可辨識社群生活與勞動經驗的公共內部。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-03",
+      "dedupeKey": "art-2026-08-25-elaine-mitchener-waterloo-sonic-stories",
+      "name": "03｜Elaine Mitchener｜Waterloo Sonic Stories 聲音委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "聲音藝術"
+      ],
+      "works": "Waterloo Sonic Stories 聲音委託",
+      "comment": "以聲音、記憶與城市中消失的文化場所，重畫滑鐵盧站的非物質地圖。",
+      "website": "https://art.tfl.gov.uk/projects/art-map/",
+      "workPage": "https://art.tfl.gov.uk/projects/art-map/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "artistStatement": "Elaine Mitchener 透過聲音藝術回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/art-map/",
+      "classicTitle": "Waterloo Sonic Stories 聲音委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "classicDesc": "以聲音、記憶與城市中消失的文化場所，重畫滑鐵盧站的非物質地圖。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-04",
+      "dedupeKey": "art-2026-08-25-jacqueline-poncelet-wrapper",
+      "name": "04｜Jacqueline Poncelet｜Wrapper",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "搪瓷建築立面"
+      ],
+      "works": "Wrapper",
+      "comment": "一千五百公尺的搪瓷圖樣包覆變電站，讓基礎設施成為街區尺度的圖像表面。",
+      "website": "https://art.tfl.gov.uk/projects/art-map/",
+      "workPage": "https://art.tfl.gov.uk/projects/art-map/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "artistStatement": "Jacqueline Poncelet 透過搪瓷建築立面回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/art-map/",
+      "classicTitle": "Wrapper",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "classicDesc": "一千五百公尺的搪瓷圖樣包覆變電站，讓基礎設施成為街區尺度的圖像表面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-05",
+      "dedupeKey": "art-2026-08-25-larry-achiampong-pan-african-flag-for-the-relic-travellers-alliance",
+      "name": "05｜Larry Achiampong｜PAN AFRICAN FLAG FOR THE RELIC TRAVELLERS’ ALLIANCE",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "識別系統／公共圖像"
+      ],
+      "works": "PAN AFRICAN FLAG FOR THE RELIC TRAVELLERS’ ALLIANCE",
+      "comment": "以泛非色彩重寫地鐵圓標，使交通識別也能承載跨國歷史與未來想像。",
+      "website": "https://art.tfl.gov.uk/projects/art-map/",
+      "workPage": "https://art.tfl.gov.uk/projects/art-map/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "artistStatement": "Larry Achiampong 透過識別系統／公共圖像回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/art-map/",
+      "classicTitle": "PAN AFRICAN FLAG FOR THE RELIC TRAVELLERS’ ALLIANCE",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "classicDesc": "以泛非色彩重寫地鐵圓標，使交通識別也能承載跨國歷史與未來想像。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-06",
+      "dedupeKey": "art-2026-08-25-alexandre-da-cunha-full-circle",
+      "name": "06｜Alexandre da Cunha｜Full Circle",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "動態雕塑／建築整合"
+      ],
+      "works": "Full Circle",
+      "comment": "巨型動態構件把工業物件、鐘擺節奏與通勤流線連成可循環閱讀的站體作品。",
+      "website": "https://art.tfl.gov.uk/projects/art-map/",
+      "workPage": "https://art.tfl.gov.uk/projects/art-map/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "artistStatement": "Alexandre da Cunha 透過動態雕塑／建築整合回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/art-map/",
+      "classicTitle": "Full Circle",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "classicDesc": "巨型動態構件把工業物件、鐘擺節奏與通勤流線連成可循環閱讀的站體作品。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-07",
+      "dedupeKey": "art-2026-08-25-zadie-xa-griffin-and-guardian",
+      "name": "07｜Zadie Xa｜Griffin and Guardian",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "馬賽克／建築整合"
+      ],
+      "works": "Griffin and Guardian",
+      "comment": "以守護者形象與跨文化神話，為 Aldgate East 建立鮮明的入口敘事。",
+      "website": "https://art.tfl.gov.uk/projects/art-map/",
+      "workPage": "https://art.tfl.gov.uk/projects/art-map/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "artistStatement": "Zadie Xa 透過馬賽克／建築整合回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/art-map/",
+      "classicTitle": "Griffin and Guardian",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "classicDesc": "以守護者形象與跨文化神話，為 Aldgate East 建立鮮明的入口敘事。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-08",
+      "dedupeKey": "art-2026-08-25-zadie-xa-underworlds-connect",
+      "name": "08｜Zadie Xa｜Underworlds Connect",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "公共裝置"
+      ],
+      "works": "Underworlds Connect",
+      "comment": "把地下移動視為不同世界相遇的通道，讓站體成為神話與城市現實的接點。",
+      "website": "https://art.tfl.gov.uk/projects/art-map/",
+      "workPage": "https://art.tfl.gov.uk/projects/art-map/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "artistStatement": "Zadie Xa 透過公共裝置回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/art-map/",
+      "classicTitle": "Underworlds Connect",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
+      "classicDesc": "把地下移動視為不同世界相遇的通道，讓站體成為神話與城市現實的接點。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-09",
+      "dedupeKey": "art-2026-08-25-ilana-harris-babou-between-tides",
+      "name": "09｜Ilana Harris-Babou｜Between Tides 公共海灘委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "海岸地景／裝置"
+      ],
+      "works": "Between Tides 公共海灘委託",
+      "comment": "從消費文化與照護日常切入海灘公共性，讓潮汐成為作品持續變動的合作者。",
+      "website": "https://www.publicartfund.org/exhibitions/browse/",
+      "workPage": "https://www.publicartfund.org/exhibitions/browse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "artistStatement": "Ilana Harris-Babou 透過海岸地景／裝置回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/browse/",
+      "classicTitle": "Between Tides 公共海灘委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "classicDesc": "從消費文化與照護日常切入海灘公共性，讓潮汐成為作品持續變動的合作者。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "dynamic-2026-08-25-10",
+      "dedupeKey": "art-2026-08-25-las-hermanas-iglesias-between-tides",
+      "name": "10｜Las Hermanas Iglesias｜Between Tides 公共海灘委託",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "海岸地景／社會參與"
+      ],
+      "works": "Between Tides 公共海灘委託",
+      "comment": "以姐妹協作、移民記憶與海岸材料，把 Rockaway Beach 轉成共享敘事場。",
+      "website": "https://www.publicartfund.org/exhibitions/browse/",
+      "workPage": "https://www.publicartfund.org/exhibitions/browse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "artistStatement": "Las Hermanas Iglesias 透過海岸地景／社會參與回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/browse/",
+      "classicTitle": "Between Tides 公共海灘委託",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
+      "classicDesc": "以姐妹協作、移民記憶與海岸材料，把 Rockaway Beach 轉成共享敘事場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "global-classic-2026-08-25-01",
+      "dedupeKey": "art-2026-08-25-luca-della-robbia-pazzi-madonna",
+      "name": "01｜Luca della Robbia｜Pazzi Madonna",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "義大利／德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "釉陶雕塑"
+      ],
+      "works": "Pazzi Madonna",
+      "comment": "釉陶的清澈色彩與親密姿態，使宗教雕塑在公共展示中保有日常溫度。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Luca della Robbia 透過釉陶雕塑回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Pazzi Madonna",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "釉陶的清澈色彩與親密姿態，使宗教雕塑在公共展示中保有日常溫度。",
+      "relatedByCity": [
+        "competition-2026-08-25-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "global-classic-2026-08-25-02",
+      "dedupeKey": "art-2026-08-25-giovanni-pisano-man-of-sorrows",
+      "name": "02｜Giovanni Pisano｜Man of Sorrows",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "義大利／德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "石雕"
+      ],
+      "works": "Man of Sorrows",
+      "comment": "壓縮姿態與強烈表情把敘事集中到身體，使中世紀雕塑產生近乎當代的情緒密度。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Giovanni Pisano 透過石雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Man of Sorrows",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "壓縮姿態與強烈表情把敘事集中到身體，使中世紀雕塑產生近乎當代的情緒密度。",
+      "relatedByCity": [
+        "competition-2026-08-25-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "global-classic-2026-08-25-03",
+      "dedupeKey": "art-2026-08-25-adriaen-de-vries-flora",
+      "name": "03｜Adriaen de Vries｜Flora",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "荷蘭／德國 / Düsseldorf",
+      "cityKeywords": [
+        "Düsseldorf",
+        "杜塞道夫"
+      ],
+      "media": [
+        "青銅雕塑"
+      ],
+      "works": "Flora",
+      "comment": "旋動身體與精密鑄造讓青銅保持流動感，呈現北方文藝復興雕塑的國際交換。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Adriaen de Vries 透過青銅雕塑回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Flora",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "旋動身體與精密鑄造讓青銅保持流動感，呈現北方文藝復興雕塑的國際交換。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "global-classic-2026-08-25-04",
+      "dedupeKey": "art-2026-08-25-balthasar-permoser-damnation",
+      "name": "04｜Balthasar Permoser｜Damnation",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "德國 / Düsseldorf",
+      "cityKeywords": [
+        "Düsseldorf",
+        "杜塞道夫"
+      ],
+      "media": [
+        "石雕"
+      ],
+      "works": "Damnation",
+      "comment": "扭曲的表情與肌理把精神張力推至極限，讓巴洛克雕塑像一場凝固的劇場。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Balthasar Permoser 透過石雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Damnation",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "扭曲的表情與肌理把精神張力推至極限，讓巴洛克雕塑像一場凝固的劇場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "global-classic-2026-08-25-05",
+      "dedupeKey": "art-2026-08-25-presbyter-martinus-madonna",
+      "name": "05｜Presbyter Martinus｜Madonna",
+      "tier": "全球經典作品",
+      "region": "西方",
+      "country": "義大利／德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "中世紀雕塑"
+      ],
+      "works": "Madonna",
+      "comment": "作品以正面性和象徵秩序建立觀看關係，保存早期歐洲雕塑的禮儀尺度。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Presbyter Martinus 透過中世紀雕塑回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Madonna",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "作品以正面性和象徵秩序建立觀看關係，保存早期歐洲雕塑的禮儀尺度。",
+      "relatedByCity": [
+        "competition-2026-08-25-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "german-classic-2026-08-25-01",
+      "dedupeKey": "art-2026-08-25-michel-erhart-schutzmantelmadonna",
+      "name": "01｜Michel Erhart｜Schutzmantelmadonna",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "木雕"
+      ],
+      "works": "Schutzmantelmadonna",
+      "comment": "張開斗篷把群體包覆於同一形體，以雕塑清楚表達保護、共同體與空間秩序。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Michel Erhart 透過木雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Schutzmantelmadonna",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "張開斗篷把群體包覆於同一形體，以雕塑清楚表達保護、共同體與空間秩序。",
+      "relatedByCity": [
+        "competition-2026-08-25-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "german-classic-2026-08-25-02",
+      "dedupeKey": "art-2026-08-25-tilman-riemenschneider-late-gothic-altar-figures",
+      "name": "02｜Tilman Riemenschneider｜Late Gothic Altar Figures",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "慕尼黑"
+      ],
+      "media": [
+        "木雕"
+      ],
+      "works": "Late Gothic Altar Figures",
+      "comment": "以未上彩木材、細密衣褶與克制表情，使材質本身成為晚期哥德雕塑的光線。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Tilman Riemenschneider 透過木雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Late Gothic Altar Figures",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "以未上彩木材、細密衣褶與克制表情，使材質本身成為晚期哥德雕塑的光線。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "german-classic-2026-08-25-03",
+      "dedupeKey": "art-2026-08-25-hans-bru-ggemann-bordesholm-altar-sculptures",
+      "name": "03｜Hans Brüggemann｜Bordesholm Altar Sculptures",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "木雕祭壇"
+      ],
+      "works": "Bordesholm Altar Sculptures",
+      "comment": "多人物場景在建築般的框架中層層展開，將敘事、工藝與觀看路徑整合。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Hans Brüggemann 透過木雕祭壇回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Bordesholm Altar Sculptures",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "多人物場景在建築般的框架中層層展開，將敘事、工藝與觀看路徑整合。",
+      "relatedByCity": [
+        "competition-2026-08-25-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "german-classic-2026-08-25-04",
+      "dedupeKey": "art-2026-08-25-hans-multscher-late-gothic-figure-sculpture",
+      "name": "04｜Hans Multscher｜Late Gothic Figure Sculpture",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "木雕／石雕"
+      ],
+      "works": "Late Gothic Figure Sculpture",
+      "comment": "寫實面貌與身體重量讓神聖人物具有人間存在感，標誌德語區雕塑的轉折。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Hans Multscher 透過木雕／石雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Late Gothic Figure Sculpture",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "寫實面貌與身體重量讓神聖人物具有人間存在感，標誌德語區雕塑的轉折。",
+      "relatedByCity": [
+        "competition-2026-08-25-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "german-classic-2026-08-25-05",
+      "dedupeKey": "art-2026-08-25-niclaus-gerhaert-van-leyden-late-gothic-portrait-sculpture",
+      "name": "05｜Niclaus Gerhaert van Leyden｜Late Gothic Portrait Sculpture",
+      "tier": "德國經典作品",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "石雕／木雕"
+      ],
+      "works": "Late Gothic Portrait Sculpture",
+      "comment": "深刻皺褶與心理刻畫突破類型化肖像，建立北方雕塑對個體性的敏銳觀察。",
+      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "artistStatement": "Niclaus Gerhaert van Leyden 透過石雕／木雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
+      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicTitle": "Late Gothic Portrait Sculpture",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
+      "classicDesc": "深刻皺褶與心理刻畫突破類型化肖像，建立北方雕塑對個體性的敏銳觀察。",
+      "relatedByCity": [
+        "competition-2026-08-25-01"
+      ]
+    }
+  ]
+}
