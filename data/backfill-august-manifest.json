@@ -24,11 +24,11 @@
     "backfill-august-20260824.json",
     "backfill-august-20260825.json"
   ],
-  "expectedEntries": 470,
-  "statementEntries": 470,
-  "statementSourceEntries": 470,
+  "expectedEntries": 450,
+  "statementEntries": 450,
+  "statementSourceEntries": 450,
   "statementBacklog": 0,
   "note": "8/25 公共藝術 10＋5＋5，共 20 則；公開徵選另新增德國 5 則。",
-  "imageEntries": 470,
+  "imageEntries": 450,
   "imageBacklog": 0
 }
