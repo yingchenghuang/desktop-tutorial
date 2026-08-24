@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-25-public-art-and-competitions-r32",
-  "generatedAt": "2026-08-25T05:10:00+08:00",
+  "version": "2026-08-25-public-art-and-competitions-r34",
+  "generatedAt": "2026-08-25T05:42:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -28,7 +28,7 @@
   "statementEntries": 450,
   "statementSourceEntries": 450,
   "statementBacklog": 0,
-  "note": "8/25 公共藝術 10＋5＋5，共 20 則；公開徵選另新增德國 5 則。",
+  "note": "8/25 公共藝術新增 20 則，配置 10／5／5；10 則經典均為已實現公共藝術、紀念地景或 Kunst am Bau，競圖另新增 5 則，不計入公共藝術。",
   "imageEntries": 450,
   "imageBacklog": 0
 }
