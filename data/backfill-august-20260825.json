@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-08-25T04:00:00+08:00",
+    "generatedAt": "2026-08-25T05:42:00+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-08-25",
     "total": 20,
@@ -8,12 +8,12 @@
     "globalClassicEntries": 5,
     "germanClassicEntries": 5,
     "source": "各作品與機構官方頁",
-    "note": "8/25 公共藝術固定 10＋5＋5；公開徵選另新增德國 5 則。",
+    "note": "8/25 公共藝術固定 10＋5＋5；競圖另新增 5 則，不計入公共藝術 20 則。",
     "linkAudit": {
-      "checkedAt": "2026-08-25T05:10:00+08:00",
-      "checkedUniqueSources": 4,
-      "brokenOrBlockedReplaced": 2,
-      "rule": "發布前逐一開啟並跟隨重新導向"
+      "checkedAt": "2026-08-25T05:42:00+08:00",
+      "checkedUniqueSources": 13,
+      "brokenOrBlockedReplaced": 10,
+      "rule": "發布前逐一核對官方／第一方頁，移除非公共藝術館藏項目"
     }
   },
   "entries": [
@@ -44,7 +44,9 @@
       "classicTitle": "South Park 手工陶瓷地標柱",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
       "classicDesc": "以手工陶磚映照 South Park 的多元社群，修復使地方工藝重新回到日常路徑。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -73,7 +75,9 @@
       "classicTitle": "Seattle Municipal Tower 室內公共藝術委託",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
       "classicDesc": "把市政辦公空間轉成可辨識社群生活與勞動經驗的公共內部。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-12-02"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -102,7 +106,10 @@
       "classicTitle": "Waterloo Sonic Stories 聲音委託",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
       "classicDesc": "以聲音、記憶與城市中消失的文化場所，重畫滑鐵盧站的非物質地圖。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -131,7 +138,10 @@
       "classicTitle": "Wrapper",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
       "classicDesc": "一千五百公尺的搪瓷圖樣包覆變電站，讓基礎設施成為街區尺度的圖像表面。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -160,7 +170,10 @@
       "classicTitle": "PAN AFRICAN FLAG FOR THE RELIC TRAVELLERS’ ALLIANCE",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
       "classicDesc": "以泛非色彩重寫地鐵圓標，使交通識別也能承載跨國歷史與未來想像。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -189,7 +202,10 @@
       "classicTitle": "Full Circle",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
       "classicDesc": "巨型動態構件把工業物件、鐘擺節奏與通勤流線連成可循環閱讀的站體作品。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -218,7 +234,10 @@
       "classicTitle": "Griffin and Guardian",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
       "classicDesc": "以守護者形象與跨文化神話，為 Aldgate East 建立鮮明的入口敘事。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -247,7 +266,10 @@
       "classicTitle": "Underworlds Connect",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/art-map/",
       "classicDesc": "把地下移動視為不同世界相遇的通道，讓站體成為神話與城市現實的接點。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -276,7 +298,9 @@
       "classicTitle": "Between Tides 公共海灘委託",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
       "classicDesc": "從消費文化與照護日常切入海灘公共性，讓潮汐成為作品持續變動的合作者。",
-      "relatedByCity": []
+      "relatedByCity": [
+        "competition-2026-08-13-05"
+      ]
     },
     {
       "category": "作品/展覽",
@@ -305,68 +329,68 @@
       "classicTitle": "Between Tides 公共海灘委託",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/browse/",
       "classicDesc": "以姐妹協作、移民記憶與海岸材料，把 Rockaway Beach 轉成共享敘事場。",
-      "relatedByCity": []
-    },
-    {
-      "category": "作品/展覽",
-      "status": "官方來源",
-      "updated": "2026-08-25",
-      "id": "classic-global-2026-08-25-01",
-      "dedupeKey": "art-2026-08-25-luca-della-robbia-pazzi-madonna",
-      "name": "全球經典01｜Luca della Robbia｜Pazzi Madonna",
-      "tier": "經典檔案庫",
-      "region": "西方",
-      "country": "義大利／德國 / Berlin",
-      "cityKeywords": [
-        "Berlin",
-        "柏林"
-      ],
-      "media": [
-        "釉陶雕塑"
-      ],
-      "works": "Pazzi Madonna",
-      "comment": "釉陶的清澈色彩與親密姿態，使宗教雕塑在公共展示中保有日常溫度。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Luca della Robbia 透過釉陶雕塑回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Pazzi Madonna",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "釉陶的清澈色彩與親密姿態，使宗教雕塑在公共展示中保有日常溫度。",
       "relatedByCity": [
-        "competition-2026-08-25-01"
+        "competition-2026-08-13-05"
       ]
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-25",
-      "id": "classic-global-2026-08-25-02",
-      "dedupeKey": "art-2026-08-25-giovanni-pisano-man-of-sorrows",
-      "name": "全球經典02｜Giovanni Pisano｜Man of Sorrows",
+      "id": "classic-global-2026-08-25-01",
+      "dedupeKey": "art-2026-08-25-maya-lin-vietnam-veterans-memorial",
+      "name": "全球經典01｜Maya Lin｜Vietnam Veterans Memorial",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "義大利／德國 / Berlin",
+      "country": "美國 / Washington, D.C.",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Washington, D.C.",
+        "華盛頓特區"
       ],
       "media": [
-        "石雕"
+        "黑色花崗岩／紀念地景"
       ],
-      "works": "Man of Sorrows",
-      "comment": "壓縮姿態與強烈表情把敘事集中到身體，使中世紀雕塑產生近乎當代的情緒密度。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Giovanni Pisano 透過石雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Man of Sorrows",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "壓縮姿態與強烈表情把敘事集中到身體，使中世紀雕塑產生近乎當代的情緒密度。",
+      "works": "Vietnam Veterans Memorial｜1982",
+      "comment": "兩道拋光黑色花崗岩牆切入地面，以姓名、反射與緩降路徑，把國家紀念轉化為個人哀悼與共同記憶。",
+      "website": "https://www.nps.gov/places/000/vietnam-veterans-memorial.htm",
+      "workPage": "https://www.nps.gov/places/000/vietnam-veterans-memorial.htm",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nps.gov/places/000/vietnam-veterans-memorial.htm",
+      "artistStatement": "Maya Lin 讓紀念碑以地景切口而非英雄雕像發聲；訪客在下降、觸摸姓名與鏡面反射中同時面對缺席者與自己。",
+      "artistStatementSource": "https://www.nps.gov/places/000/vietnam-veterans-memorial.htm",
+      "classicTitle": "Vietnam Veterans Memorial",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nps.gov/places/000/vietnam-veterans-memorial.htm",
+      "classicDesc": "兩道拋光黑色花崗岩牆切入地面，以姓名、反射與緩降路徑，把國家紀念轉化為個人哀悼與共同記憶。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "classic-global-2026-08-25-02",
+      "dedupeKey": "art-2026-08-25-richard-serra-tilted-arc",
+      "name": "全球經典02｜Richard Serra｜Tilted Arc",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "耐候鋼／場域特定雕塑"
+      ],
+      "works": "Tilted Arc｜1981–1989",
+      "comment": "120 英尺長的弧形鋼牆迫使行人改變穿越聯邦廣場的路徑；1989 年移除更使作品成為公共委託、使用權與作者性的經典爭論。",
+      "website": "https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/jacob-javits-federal-building-james-watson-cit-new-york-ny",
+      "workPage": "https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/jacob-javits-federal-building-james-watson-cit-new-york-ny",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/jacob-javits-federal-building-james-watson-cit-new-york-ny",
+      "artistStatement": "Richard Serra 以身體移動作為作品材料：雕塑不是可任意搬移的物件，而是對特定廣場、尺度與通行關係的重構。",
+      "artistStatementSource": "https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/jacob-javits-federal-building-james-watson-cit-new-york-ny",
+      "classicTitle": "Tilted Arc",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.gsa.gov/real-estate/explore-historic-buildings/find-a-historic-federal-building/jacob-javits-federal-building-james-watson-cit-new-york-ny",
+      "classicDesc": "120 英尺長的弧形鋼牆迫使行人改變穿越聯邦廣場的路徑；1989 年移除更使作品成為公共委託、使用權與作者性的經典爭論。",
       "relatedByCity": [
-        "competition-2026-08-25-01"
+        "competition-2026-08-13-05"
       ]
     },
     {
@@ -374,28 +398,28 @@
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "classic-global-2026-08-25-03",
-      "dedupeKey": "art-2026-08-25-adriaen-de-vries-flora",
-      "name": "全球經典03｜Adriaen de Vries｜Flora",
+      "dedupeKey": "art-2026-08-25-maya-lin-wave-field",
+      "name": "全球經典03｜Maya Lin｜Wave Field",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "荷蘭／德國 / Düsseldorf",
+      "country": "美國 / Ann Arbor",
       "cityKeywords": [
-        "Düsseldorf",
-        "杜塞道夫"
+        "Ann Arbor",
+        "安娜堡"
       ],
       "media": [
-        "青銅雕塑"
+        "土方／地景雕塑"
       ],
-      "works": "Flora",
-      "comment": "旋動身體與精密鑄造讓青銅保持流動感，呈現北方文藝復興雕塑的國際交換。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Adriaen de Vries 透過青銅雕塑回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Flora",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "旋動身體與精密鑄造讓青銅保持流動感，呈現北方文藝復興雕塑的國際交換。",
+      "works": "Wave Field｜1995",
+      "comment": "90×90 英尺的純土方被塑成規律波面，將流體力學與紀念性嵌入校園草地，使行走本身成為觀看方式。",
+      "website": "https://umma.umich.edu/objects/wave-field-aps1995-1/",
+      "workPage": "https://umma.umich.edu/objects/wave-field-aps1995-1/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://umma.umich.edu/objects/wave-field-aps1995-1/",
+      "artistStatement": "Maya Lin 以自然波形和航空工程語彙把地表轉成低伏雕塑，讓紀念物不靠垂直地標，而靠身體穿越地形被感知。",
+      "artistStatementSource": "https://umma.umich.edu/objects/wave-field-aps1995-1/",
+      "classicTitle": "Wave Field",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://umma.umich.edu/objects/wave-field-aps1995-1/",
+      "classicDesc": "90×90 英尺的純土方被塑成規律波面，將流體力學與紀念性嵌入校園草地，使行走本身成為觀看方式。",
       "relatedByCity": []
     },
     {
@@ -403,90 +427,90 @@
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "classic-global-2026-08-25-04",
-      "dedupeKey": "art-2026-08-25-balthasar-permoser-damnation",
-      "name": "全球經典04｜Balthasar Permoser｜Damnation",
+      "dedupeKey": "art-2026-08-25-christo-and-jeanne-claude-the-gates",
+      "name": "全球經典04｜Christo and Jeanne-Claude｜The Gates",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "德國 / Düsseldorf",
+      "country": "美國 / New York",
       "cityKeywords": [
-        "Düsseldorf",
-        "杜塞道夫"
+        "New York",
+        "紐約"
       ],
       "media": [
-        "石雕"
+        "鋼構／藏紅花色尼龍／暫時性裝置"
       ],
-      "works": "Damnation",
-      "comment": "扭曲的表情與肌理把精神張力推至極限，讓巴洛克雕塑像一場凝固的劇場。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Balthasar Permoser 透過石雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Damnation",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "扭曲的表情與肌理把精神張力推至極限，讓巴洛克雕塑像一場凝固的劇場。",
-      "relatedByCity": []
-    },
-    {
-      "category": "作品/展覽",
-      "status": "官方來源",
-      "updated": "2026-08-25",
-      "id": "classic-global-2026-08-25-05",
-      "dedupeKey": "art-2026-08-25-presbyter-martinus-madonna",
-      "name": "全球經典05｜Presbyter Martinus｜Madonna",
-      "tier": "經典檔案庫",
-      "region": "西方",
-      "country": "義大利／德國 / Berlin",
-      "cityKeywords": [
-        "Berlin",
-        "柏林"
-      ],
-      "media": [
-        "中世紀雕塑"
-      ],
-      "works": "Madonna",
-      "comment": "作品以正面性和象徵秩序建立觀看關係，保存早期歐洲雕塑的禮儀尺度。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Presbyter Martinus 透過中世紀雕塑回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Madonna",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "作品以正面性和象徵秩序建立觀看關係，保存早期歐洲雕塑的禮儀尺度。",
+      "works": "The Gates｜2005",
+      "comment": "7,503 座藏紅花色門架沿中央公園 23 英里步道展開十六天，把冬季公園的行走、風與人潮變成集體事件。",
+      "website": "https://christojeanneclaude.net/artworks/the-gates/",
+      "workPage": "https://christojeanneclaude.net/artworks/the-gates/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://christojeanneclaude.net/artworks/the-gates/",
+      "artistStatement": "Christo 與 Jeanne-Claude 以暫時性、可回收構件和長期公共協商改寫中央公園；作品的時間、行政過程與城市參與同屬創作。",
+      "artistStatementSource": "https://christojeanneclaude.net/artworks/the-gates/",
+      "classicTitle": "The Gates",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://christojeanneclaude.net/artworks/the-gates/",
+      "classicDesc": "7,503 座藏紅花色門架沿中央公園 23 英里步道展開十六天，把冬季公園的行走、風與人潮變成集體事件。",
       "relatedByCity": [
-        "competition-2026-08-25-01"
+        "competition-2026-08-13-05"
       ]
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-25",
-      "id": "classic-german-2026-08-25-01",
-      "dedupeKey": "art-2026-08-25-michel-erhart-schutzmantelmadonna",
-      "name": "德國經典01｜Michel Erhart｜Schutzmantelmadonna",
+      "id": "classic-global-2026-08-25-05",
+      "dedupeKey": "art-2026-08-25-jaume-plensa-crown-fountain",
+      "name": "全球經典05｜Jaume Plensa｜Crown Fountain",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / Chicago",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Chicago",
+        "芝加哥"
       ],
       "media": [
-        "木雕"
+        "玻璃磚／LED 影像／水景"
       ],
-      "works": "Schutzmantelmadonna",
-      "comment": "張開斗篷把群體包覆於同一形體，以雕塑清楚表達保護、共同體與空間秩序。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Michel Erhart 透過木雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Schutzmantelmadonna",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "張開斗篷把群體包覆於同一形體，以雕塑清楚表達保護、共同體與空間秩序。",
+      "works": "Crown Fountain｜2004",
+      "comment": "兩座五十英尺玻璃塔播放芝加哥居民面孔並吐水至淺池，將肖像、遊戲與城市多樣性結合為可進入的公共水景。",
+      "website": "https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcrownfountaininmillenniumpark.html",
+      "workPage": "https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcrownfountaininmillenniumpark.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcrownfountaininmillenniumpark.html",
+      "artistStatement": "Jaume Plensa 將城市居民的臉轉為紀念性立面，同時讓水面保持可觸摸、可嬉戲，使公共藝術既是圖像也是日常社交場。",
+      "artistStatementSource": "https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcrownfountaininmillenniumpark.html",
+      "classicTitle": "Crown Fountain",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.chicago.gov/city/en/depts/dca/supp_info/chicago_s_publicartcrownfountaininmillenniumpark.html",
+      "classicDesc": "兩座五十英尺玻璃塔播放芝加哥居民面孔並吐水至淺池，將肖像、遊戲與城市多樣性結合為可進入的公共水景。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "classic-german-2026-08-25-01",
+      "dedupeKey": "art-2026-08-25-dani-karavan-stra-e-der-menschenrechte",
+      "name": "德國經典01｜Dani Karavan｜Straße der Menschenrechte",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Nuremberg",
+      "cityKeywords": [
+        "Nuremberg",
+        "紐倫堡"
+      ],
+      "media": [
+        "混凝土柱列／文字／步行環境"
+      ],
+      "works": "Straße der Menschenrechte｜1993",
+      "comment": "二十七根白色圓柱、地板與拱門刻寫《世界人權宣言》，把博物館入口通道變成城市持續實踐人權的公共軸線。",
+      "website": "https://www.nuernberg.de/internet/menschenrechte/strasse_der_menschrechte.html",
+      "workPage": "https://www.nuernberg.de/internet/menschenrechte/strasse_der_menschrechte.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nuernberg.de/internet/menschenrechte/strasse_der_menschrechte.html",
+      "artistStatement": "Dani Karavan 將人權條文以德文與不同語言置入可步行的柱列，讓歷史反省不被封存在館內，而成為每天穿越的城市經驗。",
+      "artistStatementSource": "https://www.nuernberg.de/internet/menschenrechte/strasse_der_menschrechte.html",
+      "classicTitle": "Straße der Menschenrechte",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nuernberg.de/internet/menschenrechte/strasse_der_menschrechte.html",
+      "classicDesc": "二十七根白色圓柱、地板與拱門刻寫《世界人權宣言》，把博物館入口通道變成城市持續實踐人權的公共軸線。",
       "relatedByCity": [
-        "competition-2026-08-25-01"
+        "competition-2026-08-11-02"
       ]
     },
     {
@@ -494,37 +518,8 @@
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "classic-german-2026-08-25-02",
-      "dedupeKey": "art-2026-08-25-tilman-riemenschneider-late-gothic-altar-figures",
-      "name": "德國經典02｜Tilman Riemenschneider｜Late Gothic Altar Figures",
-      "tier": "經典檔案庫",
-      "region": "西方",
-      "country": "德國 / Munich",
-      "cityKeywords": [
-        "Munich",
-        "慕尼黑"
-      ],
-      "media": [
-        "木雕"
-      ],
-      "works": "Late Gothic Altar Figures",
-      "comment": "以未上彩木材、細密衣褶與克制表情，使材質本身成為晚期哥德雕塑的光線。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Tilman Riemenschneider 透過木雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Late Gothic Altar Figures",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "以未上彩木材、細密衣褶與克制表情，使材質本身成為晚期哥德雕塑的光線。",
-      "relatedByCity": []
-    },
-    {
-      "category": "作品/展覽",
-      "status": "官方來源",
-      "updated": "2026-08-25",
-      "id": "classic-german-2026-08-25-03",
-      "dedupeKey": "art-2026-08-25-hans-bru-ggemann-bordesholm-altar-sculptures",
-      "name": "德國經典03｜Hans Brüggemann｜Bordesholm Altar Sculptures",
+      "dedupeKey": "art-2026-08-25-gerhard-richter-schwarz-rot-gold",
+      "name": "德國經典02｜Gerhard Richter｜Schwarz, Rot, Gold",
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / Berlin",
@@ -533,20 +528,59 @@
         "柏林"
       ],
       "media": [
-        "木雕祭壇"
+        "彩釉玻璃／建築整合"
       ],
-      "works": "Bordesholm Altar Sculptures",
-      "comment": "多人物場景在建築般的框架中層層展開，將敘事、工藝與觀看路徑整合。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Hans Brüggemann 透過木雕祭壇回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Bordesholm Altar Sculptures",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "多人物場景在建築般的框架中層層展開，將敘事、工藝與觀看路徑整合。",
+      "works": "Schwarz, Rot, Gold｜1998/1999",
+      "comment": "六塊背面彩釉玻璃形成二十一公尺高的黑紅金色帶，在國會透明建築中把國旗符號化為克制、可反思的色域。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/richter/schwarz-rot-gold-199160",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/richter/schwarz-rot-gold-199160",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/richter/schwarz-rot-gold-199160",
+      "artistStatement": "Gerhard Richter 以工業玻璃和國家色彩回應國會入口，既拒絕具象歷史圖像，也讓民主象徵在建築尺度中保持開放解讀。",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/richter/schwarz-rot-gold-199160",
+      "classicTitle": "Schwarz, Rot, Gold",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/besuche/kunst/kuenstler/richter/schwarz-rot-gold-199160",
+      "classicDesc": "六塊背面彩釉玻璃形成二十一公尺高的黑紅金色帶，在國會透明建築中把國旗符號化為克制、可反思的色域。",
       "relatedByCity": [
-        "competition-2026-08-25-01"
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-25",
+      "id": "classic-german-2026-08-25-03",
+      "dedupeKey": "art-2026-08-25-ulrich-ru-ckriem-doppel-skulptur-boden-relief",
+      "name": "德國經典03｜Ulrich Rückriem｜Doppel-Skulptur-Boden-Relief",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "諾曼第花崗岩／庭院地景"
+      ],
+      "works": "Doppel-Skulptur-Boden-Relief｜1999",
+      "comment": "兩組花崗岩各切成五塊並依原位重組，與國會南庭院鋪面線對齊；天然與拋光表面讓雕塑像地板、井與建築的延伸。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists/rueckriem_inhalt-370216",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists/rueckriem_inhalt-370216",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists/rueckriem_inhalt-370216",
+      "artistStatement": "Ulrich Rückriem 讓切割、分離與復位的製作痕跡成為作品結構，並以石材比例直接回應國會建築的粗面砌石與庭院秩序。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists/rueckriem_inhalt-370216",
+      "classicTitle": "Doppel-Skulptur-Boden-Relief",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists/rueckriem_inhalt-370216",
+      "classicDesc": "兩組花崗岩各切成五塊並依原位重組，與國會南庭院鋪面線對齊；天然與拋光表面讓雕塑像地板、井與建築的延伸。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
       ]
     },
     {
@@ -554,39 +588,37 @@
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "classic-german-2026-08-25-04",
-      "dedupeKey": "art-2026-08-25-hans-multscher-late-gothic-figure-sculpture",
-      "name": "德國經典04｜Hans Multscher｜Late Gothic Figure Sculpture",
+      "dedupeKey": "art-2026-08-25-rebecca-horn-concert-for-buchenwald",
+      "name": "德國經典04｜Rebecca Horn｜Concert for Buchenwald",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "德國 / Weimar",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Weimar",
+        "威瑪"
       ],
       "media": [
-        "木雕／石雕"
+        "舊樂器／皮箱／鐵軌／空間裝置"
       ],
-      "works": "Late Gothic Figure Sculpture",
-      "comment": "寫實面貌與身體重量讓神聖人物具有人間存在感，標誌德語區雕塑的轉折。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Hans Multscher 透過木雕／石雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Late Gothic Figure Sculpture",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "寫實面貌與身體重量讓神聖人物具有人間存在感，標誌德語區雕塑的轉折。",
-      "relatedByCity": [
-        "competition-2026-08-25-01"
-      ]
+      "works": "Concert for Buchenwald｜1999",
+      "comment": "舊樂器與皮箱堆在短軌上，為布亨瓦德構成沒有演奏者的「沉默音樂會」；作品與威瑪舊電廠車庫不可分割。",
+      "website": "https://www.klassik-stiftung.de/en/concert-for-buchenwald/",
+      "workPage": "https://www.klassik-stiftung.de/en/concert-for-buchenwald/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.klassik-stiftung.de/en/concert-for-buchenwald/",
+      "artistStatement": "Rebecca Horn 以缺席的聲音和使用過的樂器指向個別生命，使一百五十平方公尺的無窗房間成為場所記憶而非再現式紀念。",
+      "artistStatementSource": "https://www.klassik-stiftung.de/en/concert-for-buchenwald/",
+      "classicTitle": "Concert for Buchenwald",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.klassik-stiftung.de/en/concert-for-buchenwald/",
+      "classicDesc": "舊樂器與皮箱堆在短軌上，為布亨瓦德構成沒有演奏者的「沉默音樂會」；作品與威瑪舊電廠車庫不可分割。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-25",
       "id": "classic-german-2026-08-25-05",
-      "dedupeKey": "art-2026-08-25-niclaus-gerhaert-van-leyden-late-gothic-portrait-sculpture",
-      "name": "德國經典05｜Niclaus Gerhaert van Leyden｜Late Gothic Portrait Sculpture",
+      "dedupeKey": "art-2026-08-25-hans-haacke-der-bevo-lkerung",
+      "name": "德國經典05｜Hans Haacke｜DER BEVÖLKERUNG",
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / Berlin",
@@ -595,20 +627,24 @@
         "柏林"
       ],
       "media": [
-        "石雕／木雕"
+        "木槽／土壤／植物／霓虹文字"
       ],
-      "works": "Late Gothic Portrait Sculpture",
-      "comment": "深刻皺褶與心理刻畫突破類型化肖像，建立北方雕塑對個體性的敏銳觀察。",
-      "website": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "workPage": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "artistStatement": "Niclaus Gerhaert van Leyden 透過石雕／木雕回應場所的歷史、尺度與公共觀看條件；本條依官方館藏或計畫頁整理。",
-      "artistStatementSource": "https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicTitle": "Late Gothic Portrait Sculpture",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.smb.museum/en/museums-institutions/skulpturensammlung/collections-research/collection/",
-      "classicDesc": "深刻皺褶與心理刻畫突破類型化肖像，建立北方雕塑對個體性的敏銳觀察。",
+      "works": "DER BEVÖLKERUNG｜1999/2000",
+      "comment": "國會議員帶來各選區土壤，圍繞「致居民」霓虹字形成持續演替的生態系，直接回應國會外牆「致德意志人民」銘文。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists/haacke_inhalt-369950",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists/haacke_inhalt-369950",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists/haacke_inhalt-369950",
+      "artistStatement": "Hans Haacke 將代表政治、語言與生物生長結合成長期公共過程；異質土壤及自行萌生的物種使作品拒絕固定完成狀態。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists/haacke_inhalt-369950",
+      "classicTitle": "DER BEVÖLKERUNG",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists/haacke_inhalt-369950",
+      "classicDesc": "國會議員帶來各選區土壤，圍繞「致居民」霓虹字形成持續演替的生態系，直接回應國會外牆「致德意志人民」銘文。",
       "relatedByCity": [
-        "competition-2026-08-25-01"
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
       ]
     }
   ]
