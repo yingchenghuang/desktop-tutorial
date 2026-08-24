@@ -140,13 +140,54 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   letter-spacing:.025em;
   color:var(--ink);
 }
-.masthead-note p:last-child{
+.masthead-description{
   margin:0;
   max-width:30em;
   font-size:14px;
   line-height:1.95;
   letter-spacing:.015em;
 }
+.masthead-note .site-network{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:12px;
+  margin-top:28px;
+  padding-top:18px;
+  border-top:1px solid var(--hair);
+}
+.masthead-note .site-network a{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  min-height:48px;
+  padding:11px 13px;
+  border:1px solid var(--hair);
+  background:rgba(0,0,0,.018);
+  color:var(--ink);
+  font-size:11px;
+  font-weight:600;
+  line-height:1.35;
+  letter-spacing:.08em;
+  text-decoration:none;
+  white-space:nowrap;
+  transition:color .2s ease,border-color .2s ease,background-color .2s ease;
+}
+.masthead-note .site-network a span:last-child{
+  color:var(--blue);
+  font-size:15px;
+  line-height:1;
+  transition:transform .2s ease;
+}
+.masthead-note .site-network a:hover,
+.masthead-note .site-network a:focus-visible{
+  border-color:var(--blue);
+  background:rgba(21,38,250,.035);
+  color:var(--blue);
+  outline:none;
+}
+.masthead-note .site-network a:hover span:last-child,
+.masthead-note .site-network a:focus-visible span:last-child{transform:translate(2px,-2px)}
 
 /* ---------- Hero ---------- */
 .hero{
@@ -890,7 +931,8 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   }
   .masthead-note{margin-top:28px}
   .masthead-title{font-size:18px;margin-bottom:12px}
-  .masthead-note p:last-child{font-size:13px;line-height:1.8}
+  .masthead-description{font-size:13px;line-height:1.8}
+  .masthead-note .site-network{margin-top:22px;padding-top:14px}
   .toplinks{gap:14px}
   .toplinks a{font-size:10px;letter-spacing:.12em}
   .brand{font-size:13px;letter-spacing:.1em}
@@ -902,6 +944,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
 }
 @media (max-width:440px){
   .masthead h1{font-size:clamp(44px,15vw,66px)}
+  .masthead-note .site-network{grid-template-columns:1fr;gap:8px}
   .topbar-inner{gap:12px}
   .toplinks{gap:10px}
   .toplinks.left a:nth-child(2){display:none}
