@@ -1,19 +1,20 @@
 {
   "meta": {
-    "generatedAt": "2026-08-26T07:20:00+08:00",
+    "generatedAt": "2026-08-26T08:40:00+08:00",
     "timezone": "Asia/Taipei",
     "dailyTarget": 5,
     "source": "各主辦機構官方徵件頁",
     "activeEntries": 62,
     "addedToday": 5,
     "expiredRemoved": 0,
-    "note": "8/26 新增 5 則仍有效德國徵件；依截止瞬間移除逾期 0 則。",
+    "note": "8/25 新增 5 則未截止公共藝術委託；完整保留 52 則既有未截止項目並恢復此前已核定的截止、預算與雙語城市關鍵字修正，依截止瞬間移除逾期 0 則。",
     "linkAudit": {
-      "checkedAt": "2026-08-26T07:20:00+08:00",
+      "checkedAt": "2026-08-25T05:42:00+08:00",
       "checkedUniqueSources": 5,
       "allOfficialSourcesVerified": true,
-      "brokenOrBlockedRejected": 1
-    }
+      "brokenOrBlockedRejected": 0
+    },
+    "date": "2026-08-26"
   },
   "entries": [
     {
@@ -146,7 +147,9 @@
         "german-classic-2026-08-22-05",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05"
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04"
       ]
     },
     {
@@ -509,7 +512,10 @@
         "dynamic-2026-08-22-09",
         "dynamic-2026-08-22-10",
         "dynamic-2026-08-25-01",
-        "dynamic-2026-08-25-02"
+        "dynamic-2026-08-25-02",
+        "dynamic-2026-08-26-03",
+        "dynamic-2026-08-26-04",
+        "dynamic-2026-08-26-05"
       ]
     },
     {
@@ -1589,7 +1595,9 @@
         "german-classic-2026-08-22-05",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05"
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04"
       ]
     },
     {
@@ -1635,7 +1643,9 @@
         "german-classic-2026-08-22-05",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05"
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04"
       ]
     },
     {
@@ -1681,7 +1691,9 @@
         "german-classic-2026-08-22-05",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05"
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04"
       ]
     },
     {
@@ -2080,7 +2092,9 @@
         "german-classic-2026-08-24-05",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05"
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04"
       ]
     },
     {
@@ -2356,91 +2370,75 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "competition-2026-08-26-01",
-      "dedupeKey": "opportunity-2026-08-26-land-berlin-kofinanzierungsfonds-ii-2026",
-      "name": "01｜Land Berlin｜Kofinanzierungsfonds II/2026",
+      "dedupeKey": "opportunity-2026-08-26-escondido-creek-trail-public-art-projects",
+      "name": "01｜City of Escondido Public Art Commission｜Escondido Creek Trail Public Art Projects",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / Escondido",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Escondido",
+        "埃斯孔迪多"
       ],
       "media": [
-        "跨領域藝術",
-        "文化計畫"
+        "雕塑",
+        "壁畫/街頭"
       ],
-      "works": "Kofinanzierungsfonds II/2026｜截止 2026-09-28 14:00 CEST",
-      "comment": "協助柏林自由藝術場景取得主要資助所要求的配套資金，計畫需在柏林可見。",
-      "website": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kofinanzierungsfonds/artikel.1563270.php",
-      "workPage": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kofinanzierungsfonds/artikel.1563270.php",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kofinanzierungsfonds/artikel.1563270.php",
-      "artistStatement": "協助柏林自由藝術場景取得主要資助所要求的配套資金，計畫需在柏林可見。",
-      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kofinanzierungsfonds/artikel.1563270.php",
-      "classicTitle": "Kofinanzierungsfonds II/2026",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kofinanzierungsfonds/artikel.1563270.php",
-      "classicDesc": "協助柏林自由藝術場景取得主要資助所要求的配套資金，計畫需在柏林可見。",
-      "deadline": "2026-09-28T14:00:00+02:00",
-      "deadlineLabel": "截止 2026-09-28 14:00 CEST",
-      "deadlineTimezone": "Europe/Berlin",
+      "works": "Escondido Creek Trail Public Art Projects｜截止 2026-09-08 17:00 PDT",
+      "comment": "以 Flora & Fauna 為題，在 Escondido Creek Trail 委託一件雕塑、建築壁畫、3–5 件河道壁畫及控制箱壁畫。",
+      "website": "https://escondido.gov/DocumentCenter/View/9937",
+      "workPage": "https://escondido.gov/DocumentCenter/View/9937",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://escondido.gov/DocumentCenter/View/9937",
+      "artistStatement": "以 Flora & Fauna 為題，在 Escondido Creek Trail 委託一件雕塑、建築壁畫、3–5 件河道壁畫及控制箱壁畫。",
+      "artistStatementSource": "https://escondido.gov/DocumentCenter/View/9937",
+      "classicTitle": "Escondido Creek Trail Public Art Projects",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://escondido.gov/DocumentCenter/View/9937",
+      "classicDesc": "以 Flora & Fauna 為題，在 Escondido Creek Trail 委託一件雕塑、建築壁畫、3–5 件河道壁畫及控制箱壁畫。",
+      "deadline": "2026-09-08T17:00:00-07:00",
+      "deadlineLabel": "截止 2026-09-08 17:00 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
       "deadlinePrecision": "time",
-      "organizer": "Land Berlin",
-      "eligibility": "專業藝術工作者、自由團體及與自由場景合作的機構；主要居所或組織所在地須在柏林，且多數參與者居於柏林",
-      "budget": "最高以主要資助方要求的配套金額為限",
-      "applicationFee": "免費",
-      "relatedByCity": [
-        "dynamic-2026-08-26-01",
-        "dynamic-2026-08-26-02",
-        "dynamic-2026-08-26-03",
-        "dynamic-2026-08-26-04",
-        "dynamic-2026-08-26-05",
-        "dynamic-2026-08-26-06",
-        "dynamic-2026-08-26-07",
-        "dynamic-2026-08-26-08",
-        "dynamic-2026-08-26-09",
-        "dynamic-2026-08-26-10",
-        "classic-german-2026-08-26-01",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-03",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-26-05"
-      ]
+      "organizer": "City of Escondido Public Art Commission",
+      "eligibility": "專業藝術家或藝術團隊；各子項須依官方簡章提交對應設計、預算與維護資料",
+      "budget": "雕塑 US$30,000；NHC 壁畫 US$150,000；河道壁畫合計 US$100,000；控制箱壁畫 US$1,500",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "competition-2026-08-26-02",
-      "dedupeKey": "opportunity-2026-08-26-bbk-bayern-starter-foerderprogramm",
-      "name": "02｜BBK Bayern｜STARTER-Förderprogramm",
+      "dedupeKey": "opportunity-2026-08-26-aqua-crest-aquatic-complex-tile-art-commission",
+      "name": "02｜Palm Beach County Art in Public Places｜Aqua Crest Aquatic Complex Tile Art Commission",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Munich",
+      "country": "美國 / Delray Beach",
       "cityKeywords": [
-        "Munich",
-        "慕尼黑"
+        "Delray Beach",
+        "德爾雷比奇"
       ],
       "media": [
-        "視覺藝術",
-        "創意計畫"
+        "建築/場域",
+        "裝置"
       ],
-      "works": "STARTER-Förderprogramm｜截止 2026-08-31（CEST）",
-      "comment": "由巴伐利亞六所藝術院校支持早期創意：25 組進入概念階段，最終 10 組獲小額執行資助與陪伴。",
-      "website": "https://www.bbk-bayern.de/aktuelles/ausschreibung-starter-frderprogramm",
-      "workPage": "https://www.bbk-bayern.de/aktuelles/ausschreibung-starter-frderprogramm",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bayern.de/aktuelles/ausschreibung-starter-frderprogramm",
-      "artistStatement": "由巴伐利亞六所藝術院校支持早期創意：25 組進入概念階段，最終 10 組獲小額執行資助與陪伴。",
-      "artistStatementSource": "https://www.bbk-bayern.de/aktuelles/ausschreibung-starter-frderprogramm",
-      "classicTitle": "STARTER-Förderprogramm",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bayern.de/aktuelles/ausschreibung-starter-frderprogramm",
-      "classicDesc": "由巴伐利亞六所藝術院校支持早期創意：25 組進入概念階段，最終 10 組獲小額執行資助與陪伴。",
-      "deadline": "2026-08-31T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-08-31（CEST）",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date-only",
-      "organizer": "BBK Bayern",
-      "eligibility": "巴伐利亞六所藝術院校之學生、畢業生與藝術／學術工作人員，可個人或團隊提出早期構想",
-      "budget": "10 組各最高 €3,000，另含教練與網絡支持",
-      "applicationFee": "免費",
+      "works": "Aqua Crest Aquatic Complex Tile Art Commission｜截止 2026-10-19 23:59 EDT",
+      "comment": "徵求磁磚媒材藝術家為整建中的水上運動中心入口建築設計、許可、製作並安裝耐候牆面藝術。",
+      "website": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "workPage": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "artistStatement": "徵求磁磚媒材藝術家為整建中的水上運動中心入口建築設計、許可、製作並安裝耐候牆面藝術。",
+      "artistStatementSource": "https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "classicTitle": "Aqua Crest Aquatic Complex Tile Art Commission",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://discover.pbc.gov/fdo/art/pages/calls-to-artists.aspx",
+      "classicDesc": "徵求磁磚媒材藝術家為整建中的水上運動中心入口建築設計、許可、製作並安裝耐候牆面藝術。",
+      "deadline": "2026-10-19T23:59:00-04:00",
+      "deadlineLabel": "截止 2026-10-19 23:59 EDT",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "time",
+      "organizer": "Palm Beach County Art in Public Places",
+      "eligibility": "藝術家或藝術團隊；須具可整合建築牆面的陶瓷、瓷器、陶土、石材或玻璃磁磚實務能力",
+      "budget": "US$348,000",
+      "applicationFee": "未公開",
       "relatedByCity": []
     },
     {
@@ -2448,145 +2446,115 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "competition-2026-08-26-03",
-      "dedupeKey": "opportunity-2026-08-26-bbk-gerstaecker-foerderfonds-2026-27",
-      "name": "03｜BBK Bundesverband / Gerstaecker｜Gerstaecker Förderfonds 2026/27",
+      "dedupeKey": "opportunity-2026-08-26-one-stop-shop-public-art-project",
+      "name": "03｜City of Sarasota｜One Stop Shop Public Art Project",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / Sarasota",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Sarasota",
+        "薩拉索塔"
       ],
       "media": [
-        "視覺藝術",
-        "參與式計畫"
+        "建築/場域",
+        "雕塑"
       ],
-      "works": "Gerstaecker Förderfonds 2026/27｜截止 2026-09-30（CEST）",
-      "comment": "第二屆基金支持 BBK 地方協會於 2027 年推動跨域、展覽或參與式藝術計畫。",
-      "website": "https://www.bbk-bundesverband.de/gerstaecker-foerderfonds-fuer-bbk-verbaende",
-      "workPage": "https://www.bbk-bundesverband.de/gerstaecker-foerderfonds-fuer-bbk-verbaende",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bundesverband.de/gerstaecker-foerderfonds-fuer-bbk-verbaende",
-      "artistStatement": "第二屆基金支持 BBK 地方協會於 2027 年推動跨域、展覽或參與式藝術計畫。",
-      "artistStatementSource": "https://www.bbk-bundesverband.de/gerstaecker-foerderfonds-fuer-bbk-verbaende",
-      "classicTitle": "Gerstaecker Förderfonds 2026/27",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bundesverband.de/gerstaecker-foerderfonds-fuer-bbk-verbaende",
-      "classicDesc": "第二屆基金支持 BBK 地方協會於 2027 年推動跨域、展覽或參與式藝術計畫。",
-      "deadline": "2026-09-30T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-09-30（CEST）",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date-only",
-      "organizer": "BBK Bundesverband / Gerstaecker",
-      "eligibility": "BBK Bundesverband 所屬各地方協會，以 2027 年藝術計畫申請",
-      "budget": "總額 €15,000，分配至少 6 個 BBK 計畫",
+      "works": "One Stop Shop Public Art Project｜截止 2026-08-31（EDT）",
+      "comment": "為市中心 One Stop Shop civic building 徵求耐久的戶外場域特定作品，可為單件大型裝置、系列構件或多立面整合方案。",
+      "website": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "workPage": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "artistStatement": "為市中心 One Stop Shop civic building 徵求耐久的戶外場域特定作品，可為單件大型裝置、系列構件或多立面整合方案。",
+      "artistStatementSource": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "classicTitle": "One Stop Shop Public Art Project",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "classicDesc": "為市中心 One Stop Shop civic building 徵求耐久的戶外場域特定作品，可為單件大型裝置、系列構件或多立面整合方案。",
+      "deadline": "2026-08-31T23:59:59-04:00",
+      "deadlineLabel": "截止 2026-08-31（EDT）",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "date",
+      "organizer": "City of Sarasota",
+      "eligibility": "具相近規模公共藝術完成經驗的專業藝術家或藝術團隊；City 2024–2026 Artist Roster 成員亦獲鼓勵申請",
+      "budget": "最高 US$100,000，含設計、工程、製作、安裝、燈光、旅行及全部費用",
       "applicationFee": "免費",
-      "relatedByCity": [
-        "dynamic-2026-08-26-01",
-        "dynamic-2026-08-26-02",
-        "dynamic-2026-08-26-03",
-        "dynamic-2026-08-26-04",
-        "dynamic-2026-08-26-05",
-        "dynamic-2026-08-26-06",
-        "dynamic-2026-08-26-07",
-        "dynamic-2026-08-26-08",
-        "dynamic-2026-08-26-09",
-        "dynamic-2026-08-26-10",
-        "classic-german-2026-08-26-01",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-03",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-26-05"
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "competition-2026-08-26-04",
-      "dedupeKey": "opportunity-2026-08-26-bbk-wir-koennen-kunst-second-round-2026",
-      "name": "04｜BBK Bundesverband｜Wir können Kunst：第二輪 2026",
+      "dedupeKey": "opportunity-2026-08-26-fire-station-604-public-art-project",
+      "name": "04｜Scottsdale Public Art｜Fire Station 604 Public Art Project",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / Scottsdale",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Scottsdale",
+        "斯科茲代爾"
       ],
       "media": [
-        "文化教育",
-        "視覺藝術"
+        "雕塑",
+        "建築/場域"
       ],
-      "works": "Wir können Kunst：第二輪 2026｜截止 2026-09-30（CEST）",
-      "comment": "支持地方聯盟與專業視覺藝術家為教育機會受限的 3–18 歲兒少設計校外藝術計畫。",
-      "website": "https://www.bbk-bundesverband.de/projekte/wir-koennen-kunst-kultur-macht-stark/",
-      "workPage": "https://www.bbk-bundesverband.de/projekte/wir-koennen-kunst-kultur-macht-stark/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bundesverband.de/projekte/wir-koennen-kunst-kultur-macht-stark/",
-      "artistStatement": "支持地方聯盟與專業視覺藝術家為教育機會受限的 3–18 歲兒少設計校外藝術計畫。",
-      "artistStatementSource": "https://www.bbk-bundesverband.de/projekte/wir-koennen-kunst-kultur-macht-stark/",
-      "classicTitle": "Wir können Kunst：第二輪 2026",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bundesverband.de/projekte/wir-koennen-kunst-kultur-macht-stark/",
-      "classicDesc": "支持地方聯盟與專業視覺藝術家為教育機會受限的 3–18 歲兒少設計校外藝術計畫。",
-      "deadline": "2026-09-30T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-09-30（CEST）",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date-only",
-      "organizer": "BBK Bundesverband",
-      "eligibility": "德國地方合作聯盟提出校外視覺藝術教育計畫，服務教育機會受限的 3–18 歲兒少，並由專業視覺藝術家執行",
-      "budget": "2026 下半年總資助額 €620,000",
+      "works": "Fire Station 604 Public Art Project｜截止 2026-09-14 23:59 MST（Arizona）",
+      "comment": "為新建 Fire Station 604 委託永久戶外藝術，優先考量大型金屬、雕塑與混合媒材，並須納入社群及利害關係人參與。",
+      "website": "https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/fire-station-604-public-art-project-call-for-artistsrequest-for-qualifications-rfq/",
+      "workPage": "https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/fire-station-604-public-art-project-call-for-artistsrequest-for-qualifications-rfq/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/fire-station-604-public-art-project-call-for-artistsrequest-for-qualifications-rfq/",
+      "artistStatement": "為新建 Fire Station 604 委託永久戶外藝術，優先考量大型金屬、雕塑與混合媒材，並須納入社群及利害關係人參與。",
+      "artistStatementSource": "https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/fire-station-604-public-art-project-call-for-artistsrequest-for-qualifications-rfq/",
+      "classicTitle": "Fire Station 604 Public Art Project",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://scottsdalearts.org/explore-scottsdale-arts/public-art/artist-opportunities/fire-station-604-public-art-project-call-for-artistsrequest-for-qualifications-rfq/",
+      "classicDesc": "為新建 Fire Station 604 委託永久戶外藝術，優先考量大型金屬、雕塑與混合媒材，並須納入社群及利害關係人參與。",
+      "deadline": "2026-09-14T23:59:00-07:00",
+      "deadlineLabel": "截止 2026-09-14 23:59 MST（Arizona）",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "Scottsdale Public Art",
+      "eligibility": "在亞利桑那州生活與工作的藝術家；鼓勵具相近預算與規模之設計、製作及安裝經驗者申請",
+      "budget": "US$80,000",
       "applicationFee": "免費",
-      "relatedByCity": [
-        "dynamic-2026-08-26-01",
-        "dynamic-2026-08-26-02",
-        "dynamic-2026-08-26-03",
-        "dynamic-2026-08-26-04",
-        "dynamic-2026-08-26-05",
-        "dynamic-2026-08-26-06",
-        "dynamic-2026-08-26-07",
-        "dynamic-2026-08-26-08",
-        "dynamic-2026-08-26-09",
-        "dynamic-2026-08-26-10",
-        "classic-german-2026-08-26-01",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-03",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-26-05"
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "competition-2026-08-26-05",
-      "dedupeKey": "opportunity-2026-08-26-stiftung-kunstfonds-plattformen-2026",
-      "name": "05｜Stiftung Kunstfonds｜KUNSTFONDS_Plattformen 2026",
+      "dedupeKey": "opportunity-2026-08-26-barber-park-recreation-center-rfq",
+      "name": "05｜Orange County Arts & Cultural Affairs｜Barber Park Recreation Center RFQ",
       "tier": "競圖資料庫",
       "region": "西方",
-      "country": "德國 / Bonn",
+      "country": "美國 / Orlando",
       "cityKeywords": [
-        "Bonn",
-        "波昂"
+        "Orlando",
+        "奧蘭多",
+        "Orange County",
+        "橘郡"
       ],
       "media": [
-        "當代藝術",
-        "展覽／策展"
+        "建築/場域",
+        "裝置"
       ],
-      "works": "KUNSTFONDS_Plattformen 2026｜截止 2026-08-31 24:00 CEST",
-      "comment": "支持當代視覺藝術機構、空間、獨立策展人與團體，以實體場域推動展覽、論壇或創新形式。",
-      "website": "https://www.kunstfonds.de/foerderung/kunstfonds-plattformen/bewerbung-und-vergabe",
-      "workPage": "https://www.kunstfonds.de/foerderung/kunstfonds-plattformen/bewerbung-und-vergabe",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kunstfonds.de/foerderung/kunstfonds-plattformen/bewerbung-und-vergabe",
-      "artistStatement": "支持當代視覺藝術機構、空間、獨立策展人與團體，以實體場域推動展覽、論壇或創新形式。",
-      "artistStatementSource": "https://www.kunstfonds.de/foerderung/kunstfonds-plattformen/bewerbung-und-vergabe",
-      "classicTitle": "KUNSTFONDS_Plattformen 2026",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kunstfonds.de/foerderung/kunstfonds-plattformen/bewerbung-und-vergabe",
-      "classicDesc": "支持當代視覺藝術機構、空間、獨立策展人與團體，以實體場域推動展覽、論壇或創新形式。",
-      "deadline": "2026-08-31T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-08-31 24:00 CEST",
-      "deadlineTimezone": "Europe/Berlin",
+      "works": "Barber Park Recreation Center RFQ｜截止 2026-09-09 23:59 EDT",
+      "comment": "Orange County 以建設經費百分比支持原創場域特定公共藝術，本案為 Barber Park Recreation Center 的公開資格徵選。",
+      "website": "https://www.orangecountyfl.net/ArtsCulture.aspx",
+      "workPage": "https://www.orangecountyfl.net/ArtsCulture.aspx",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.orangecountyfl.net/ArtsCulture.aspx",
+      "artistStatement": "Orange County 以建設經費百分比支持原創場域特定公共藝術，本案為 Barber Park Recreation Center 的公開資格徵選。",
+      "artistStatementSource": "https://www.orangecountyfl.net/ArtsCulture.aspx",
+      "classicTitle": "Barber Park Recreation Center RFQ",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.orangecountyfl.net/ArtsCulture.aspx",
+      "classicDesc": "Orange County 以建設經費百分比支持原創場域特定公共藝術，本案為 Barber Park Recreation Center 的公開資格徵選。",
+      "deadline": "2026-09-09T23:59:00-04:00",
+      "deadlineLabel": "截止 2026-09-09 23:59 EDT",
+      "deadlineTimezone": "America/New_York",
       "deadlinePrecision": "time",
-      "organizer": "Stiftung Kunstfonds",
-      "eligibility": "在德國推動當代視覺藝術之機構、藝術空間、獨立策展人或團體；計畫須於實體場域發生",
-      "budget": "€10,000–€80,000；至少 20% 自籌",
-      "applicationFee": "免費",
+      "organizer": "Orange County Arts & Cultural Affairs",
+      "eligibility": "未公開",
+      "budget": "未公開",
+      "applicationFee": "未公開",
       "relatedByCity": []
     }
   ]
