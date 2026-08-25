@@ -1,19 +1,19 @@
 {
   "meta": {
-    "generatedAt": "2026-08-26T07:20:00+08:00",
+    "generatedAt": "2026-08-26T08:40:00+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-08-26",
     "total": 20,
     "dynamicEntries": 10,
     "globalClassicEntries": 5,
     "germanClassicEntries": 5,
-    "source": "德國聯邦議院與美國國家藝廊官方頁",
-    "note": "8/26 公共藝術固定 10＋5＋5；已捨棄無法在實際瀏覽器完成載入的 GSA 候選頁。競圖另新增 5 則。",
+    "source": "Public Art Fund、Seattle Office of Arts & Culture、NYC DCLA、NGA、Museum der 1000 Orte 官方資料",
+    "note": "8/26 公共藝術固定 10＋5＋5；競圖另新增 5 則，未混入一般補助。",
     "linkAudit": {
-      "checkedAt": "2026-08-26T07:20:00+08:00",
-      "checkedUniqueSources": 2,
-      "brokenOrBlockedReplaced": 10,
-      "rule": "發布前以官方頁核對；無法載入的候選作品整批替換"
+      "checkedAt": "2026-08-26T08:40:00+08:00",
+      "checkedUniqueSources": 11,
+      "brokenOrBlockedReplaced": 15,
+      "rule": "以官方或第一方作品頁核對；競圖限公共藝術與建築整合委託"
     }
   },
   "entries": [
@@ -22,98 +22,93 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-01",
-      "dedupeKey": "art-2026-08-26-georg-baselitz-friedrichs-woman-on-the-abyss---friedrichs-melancholy",
-      "name": "Georg Baselitz｜Friedrich’s Woman on the Abyss / Friedrich’s Melancholy",
+      "dedupeKey": "art-2026-08-26-moko-fukuyama-ilana-harris-babou-las-hermanas-iglesias-carlos-h-matos-amalia-pica-superflex-between-tides",
+      "name": "Moko Fukuyama、Ilana Harris-Babou、Las Hermanas Iglesias、Carlos H. Matos、Amalia Pica、SUPERFLEX｜Between Tides",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / New York City",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "New York City",
+        "紐約市",
+        "Queens",
+        "皇后區"
       ],
       "media": [
-        "油彩／畫布／建築整合"
+        "雕塑",
+        "社會參與"
       ],
-      "works": "Friedrich’s Woman on the Abyss / Friedrich’s Melancholy｜1998–1999",
-      "comment": "將卡斯帕・大衛・弗里德里希的浪漫主義母題倒置，讓觀看先面對構圖與色塊，再返回國會建築中的歷史記憶。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "將卡斯帕・大衛・弗里德里希的浪漫主義母題倒置，讓觀看先面對構圖與色塊，再返回國會建築中的歷史記憶。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Friedrich’s Woman on the Abyss / Friedrich’s Melancholy",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "將卡斯帕・大衛・弗里德里希的浪漫主義母題倒置，讓觀看先面對構圖與色塊，再返回國會建築中的歷史記憶。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Between Tides｜2026；展期 6/27–9/13",
+      "comment": "六組新委託乒乓球桌直接嵌入 Rockaway Beach 沙灘，讓遊戲、海岸生態與皇后區多元社群在可使用的雕塑中相遇。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "六組新委託乒乓球桌直接嵌入 Rockaway Beach 沙灘，讓遊戲、海岸生態與皇后區多元社群在可使用的雕塑中相遇。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "Between Tides",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "六組新委託乒乓球桌直接嵌入 Rockaway Beach 沙灘，讓遊戲、海岸生態與皇后區多元社群在可使用的雕塑中相遇。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-02",
-      "dedupeKey": "art-2026-08-26-grisha-bruskin-life-above-all",
-      "name": "Grisha Bruskin｜Life Above All",
+      "dedupeKey": "art-2026-08-26-gabriel-orozco-public-nature",
+      "name": "Gabriel Orozco｜Public Nature",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / New York City",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "New York City",
+        "紐約市"
       ],
       "media": [
-        "繪畫組件／牆面裝置"
+        "光/影像/投影",
+        "建築/場域"
       ],
-      "works": "Life Above All｜1999",
-      "comment": "115 幅如聖像壁般排列的圖像，反諷蘇聯政治神話與雕塑崇拜，將意識形態的符號系統帶入議會空間。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "115 幅如聖像壁般排列的圖像，反諷蘇聯政治神話與雕塑崇拜，將意識形態的符號系統帶入議會空間。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Life Above All",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "115 幅如聖像壁般排列的圖像，反諷蘇聯政治神話與雕塑崇拜，將意識形態的符號系統帶入議會空間。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Public Nature｜2026；展期 7/8–9/6",
+      "comment": "十幅為公車候車亭量身創作的攝影，把城市偶遇、微型介入與通勤視線轉化為橫跨紐約、芝加哥與波士頓的公共展覽。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "artistStatement": "十幅為公車候車亭量身創作的攝影，把城市偶遇、微型介入與通勤視線轉化為橫跨紐約、芝加哥與波士頓的公共展覽。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicTitle": "Public Nature",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2026-exhibitions/",
+      "classicDesc": "十幅為公車候車亭量身創作的攝影，把城市偶遇、微型介入與通勤視線轉化為橫跨紐約、芝加哥與波士頓的公共展覽。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-03",
-      "dedupeKey": "art-2026-08-26-hanne-darboven-12-months,-work-for-europe",
-      "name": "Hanne Darboven｜12 Months, Work for Europe",
+      "dedupeKey": "art-2026-08-26-future-arts-future-arts-way-other-earth",
+      "name": "Future Arts｜Future Arts Way: Other Earth",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / Seattle",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Seattle",
+        "西雅圖"
       ],
       "media": [
-        "紙本記號／十二聯屏"
+        "數位/互動",
+        "社會參與"
       ],
-      "works": "12 Months, Work for Europe｜1997–1999",
-      "comment": "以逐日書寫的數字記錄 1997 年，把個人時間的重複勞動轉化為歐洲制度發展的公共年表。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "以逐日書寫的數字記錄 1997 年，把個人時間的重複勞動轉化為歐洲制度發展的公共年表。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "12 Months, Work for Europe",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "以逐日書寫的數字記錄 1997 年，把個人時間的重複勞動轉化為歐洲制度發展的公共年表。",
+      "works": "Future Arts Way: Other Earth｜2026；6–12月",
+      "comment": "長約 2.5 英里的城市級擴增實境路徑以 35 個以上節點串聯 Coast Salish 知識、非裔未來主義與生態敘事，全天候免費開放。",
+      "website": "https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "artistStatement": "長約 2.5 英里的城市級擴增實境路徑以 35 個以上節點串聯 Coast Salish 知識、非裔未來主義與生態敘事，全天候免費開放。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "classicTitle": "Future Arts Way: Other Earth",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/28/future-arts-way-other-earth-transforms-downtown-seattle-into-a-2-5-mile-augmented-reality-art-experience/",
+      "classicDesc": "長約 2.5 英里的城市級擴增實境路徑以 35 個以上節點串聯 Coast Salish 知識、非裔未來主義與生態敘事，全天候免費開放。",
       "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
+        "competition-2026-08-12-02"
       ]
     },
     {
@@ -121,32 +116,31 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-04",
-      "dedupeKey": "art-2026-08-26-tacita-dean-the-daughter-of-the-regiment",
-      "name": "Tacita Dean｜The Daughter of the Regiment",
+      "dedupeKey": "art-2026-08-26-will-schlough-on-the-fence",
+      "name": "Will Schlough｜On the Fence",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / Seattle",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Seattle",
+        "西雅圖"
       ],
       "media": [
-        "攝影／電影物件／裝置"
+        "壁畫/街頭",
+        "建築/場域"
       ],
-      "works": "The Daughter of the Regiment｜1999–2000",
-      "comment": "以消逝、遺失與記憶為線索，讓歌劇與影像史的碎片在議會建築中形成一處時間考古。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "以消逝、遺失與記憶為線索，讓歌劇與影像史的碎片在議會建築中形成一處時間考古。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "The Daughter of the Regiment",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "以消逝、遺失與記憶為線索，讓歌劇與影像史的碎片在議會建築中形成一處時間考古。",
+      "works": "On the Fence｜2026",
+      "comment": "一英里長的板件壁畫包覆 E Marginal Way 自行車道護欄，沿移動方向展開連續場景，將交通基礎設施變成可閱讀的城市敘事。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "一英里長的板件壁畫包覆 E Marginal Way 自行車道護欄，沿移動方向展開連續場景，將交通基礎設施變成可閱讀的城市敘事。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "On the Fence",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "一英里長的板件壁畫包覆 E Marginal Way 自行車道護欄，沿移動方向展開連續場景，將交通基礎設施變成可閱讀的城市敘事。",
       "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
+        "competition-2026-08-12-02"
       ]
     },
     {
@@ -154,32 +148,31 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-05",
-      "dedupeKey": "art-2026-08-26-jenny-holzer-installation-fur-reichstagsgebaude",
-      "name": "Jenny Holzer｜Installation für Reichstagsgebäude",
+      "dedupeKey": "art-2026-08-26-cc-stencil-alex-siniscalchi-fourth-avenue-tall-curb-mural",
+      "name": "CC Stencil（Alex Siniscalchi）｜Fourth Avenue Tall Curb Mural",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / Seattle",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Seattle",
+        "西雅圖"
       ],
       "media": [
-        "LED 文字裝置"
+        "壁畫/街頭",
+        "建築/場域"
       ],
-      "works": "Installation für Reichstagsgebäude｜1999",
-      "comment": "1871 至 1999 年議員演說沿入口柱面向上流動，讓政治語言以持續更新的光帶成為建築的一部分。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "1871 至 1999 年議員演說沿入口柱面向上流動，讓政治語言以持續更新的光帶成為建築的一部分。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Installation für Reichstagsgebäude",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "1871 至 1999 年議員演說沿入口柱面向上流動，讓政治語言以持續更新的光帶成為建築的一部分。",
+      "works": "Fourth Avenue Tall Curb Mural｜2026",
+      "comment": "以 Fourth Avenue 自行車道高緣石為畫布，測試公共藝術如何直接融入道路安全設施並提升日常通勤環境。",
+      "website": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "workPage": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "artistStatement": "以 Fourth Avenue 自行車道高緣石為畫布，測試公共藝術如何直接融入道路安全設施並提升日常通勤環境。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicTitle": "Fourth Avenue Tall Curb Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/07/08/public-art-quarterly-2026-summer-edition/",
+      "classicDesc": "以 Fourth Avenue 自行車道高緣石為畫布，測試公共藝術如何直接融入道路安全設施並提升日常通勤環境。",
       "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
+        "competition-2026-08-12-02"
       ]
     },
     {
@@ -187,165 +180,160 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-06",
-      "dedupeKey": "art-2026-08-26-dani-karavan-basic-law-49-(grundgesetz-49)",
-      "name": "Dani Karavan｜Basic Law 49 (Grundgesetz 49)",
+      "dedupeKey": "art-2026-08-26-venazir-martinez-the-shaping-of-new-york",
+      "name": "Venazir Martinez｜The Shaping of New York",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / New York City",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "New York City",
+        "紐約市",
+        "Queens",
+        "皇后區"
       ],
       "media": [
-        "玻璃碑／耐候鋼／地景"
+        "壁畫/街頭",
+        "建築/場域"
       ],
-      "works": "Basic Law 49 (Grundgesetz 49)｜1998–2003",
-      "comment": "在臨施普雷河的庭院以玻璃界面刻錄基本法條文，將透明邊界、法治與公共通行並置。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "在臨施普雷河的庭院以玻璃界面刻錄基本法條文，將透明邊界、法治與公共通行並置。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Basic Law 49 (Grundgesetz 49)",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "在臨施普雷河的庭院以玻璃界面刻錄基本法條文，將透明邊界、法治與公共通行並置。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "The Shaping of New York｜2026",
+      "comment": "630 英尺長的 City Canvas 圍籬作品以移民、勞動者與文化工作者的故事包圍 Willets Point 大型建設現場，使施工邊界成為可見的城市記憶。",
+      "website": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-4-16-At-Willets-Point-DCLA-EDC-and-QDG-Unveil-Massive-600-Foot-Public-Art-Installation-Highlighting-Immigrant-Stories-by-Artist-Venazir-Martinez.page",
+      "workPage": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-4-16-At-Willets-Point-DCLA-EDC-and-QDG-Unveil-Massive-600-Foot-Public-Art-Installation-Highlighting-Immigrant-Stories-by-Artist-Venazir-Martinez.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-4-16-At-Willets-Point-DCLA-EDC-and-QDG-Unveil-Massive-600-Foot-Public-Art-Installation-Highlighting-Immigrant-Stories-by-Artist-Venazir-Martinez.page",
+      "artistStatement": "630 英尺長的 City Canvas 圍籬作品以移民、勞動者與文化工作者的故事包圍 Willets Point 大型建設現場，使施工邊界成為可見的城市記憶。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-4-16-At-Willets-Point-DCLA-EDC-and-QDG-Unveil-Massive-600-Foot-Public-Art-Installation-Highlighting-Immigrant-Stories-by-Artist-Venazir-Martinez.page",
+      "classicTitle": "The Shaping of New York",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-4-16-At-Willets-Point-DCLA-EDC-and-QDG-Unveil-Massive-600-Foot-Public-Art-Installation-Highlighting-Immigrant-Stories-by-Artist-Venazir-Martinez.page",
+      "classicDesc": "630 英尺長的 City Canvas 圍籬作品以移民、勞動者與文化工作者的故事包圍 Willets Point 大型建設現場，使施工邊界成為可見的城市記憶。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-07",
-      "dedupeKey": "art-2026-08-26-ellsworth-kelly-berlin-panels-2000",
-      "name": "Ellsworth Kelly｜Berlin Panels 2000",
+      "dedupeKey": "art-2026-08-26-daru-jung-hyang-kim-sunbursts-in-the-garden-of-dreams",
+      "name": "Daru Jung Hyang Kim｜Sunbursts in the Garden of Dreams",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / New York City",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "New York City",
+        "紐約市",
+        "Queens",
+        "皇后區"
       ],
       "media": [
-        "彩色鋁板／建築立面"
+        "建築/場域",
+        "裝置"
       ],
-      "works": "Berlin Panels 2000｜1998–2001",
-      "comment": "四片純色鋁板嵌入 Paul Löbe Building 西立面，以硬邊色域回應大型公共建築的尺度與節奏。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "四片純色鋁板嵌入 Paul Löbe Building 西立面，以硬邊色域回應大型公共建築的尺度與節奏。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Berlin Panels 2000",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "四片純色鋁板嵌入 Paul Löbe Building 西立面，以硬邊色域回應大型公共建築的尺度與節奏。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Sunbursts in the Garden of Dreams｜2025；2026持續設置",
+      "comment": "為皇后區 P.S. 26 增建校舍完成的永久建築整合作品，讓學生日常動線成為光線、自然意象與想像力的公共場域。",
+      "website": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "workPage": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "artistStatement": "為皇后區 P.S. 26 增建校舍完成的永久建築整合作品，讓學生日常動線成為光線、自然意象與想像力的公共場域。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "classicTitle": "Sunbursts in the Garden of Dreams",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "classicDesc": "為皇后區 P.S. 26 增建校舍完成的永久建築整合作品，讓學生日常動線成為光線、自然意象與想像力的公共場域。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-08",
-      "dedupeKey": "art-2026-08-26-anselm-kiefer-only-with-wind-with-time-and-with-sound",
-      "name": "Anselm Kiefer｜Only with wind with time and with sound",
+      "dedupeKey": "art-2026-08-26-jessica-maffia-ode-to-the-wild",
+      "name": "Jessica Maffia｜Ode to the Wild",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / New York City",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "New York City",
+        "紐約市",
+        "Staten Island",
+        "史泰登島"
       ],
       "media": [
-        "混合媒材繪畫"
+        "建築/場域",
+        "裝置"
       ],
-      "works": "Only with wind with time and with sound｜1999",
-      "comment": "崩解的泥磚塔如考古遺址，將文明起源、毀滅與重建的時間層疊帶入國會接待空間。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "崩解的泥磚塔如考古遺址，將文明起源、毀滅與重建的時間層疊帶入國會接待空間。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Only with wind with time and with sound",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "崩解的泥磚塔如考古遺址，將文明起源、毀滅與重建的時間層疊帶入國會接待空間。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Ode to the Wild｜2025；2026持續設置",
+      "comment": "為 Janice Blanchard Campus 創作的永久公共學校委託，以野性自然的視覺語彙回應新校舍及學生共同使用的建築空間。",
+      "website": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "workPage": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "artistStatement": "為 Janice Blanchard Campus 創作的永久公共學校委託，以野性自然的視覺語彙回應新校舍及學生共同使用的建築空間。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "classicTitle": "Ode to the Wild",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "classicDesc": "為 Janice Blanchard Campus 創作的永久公共學校委託，以野性自然的視覺語彙回應新校舍及學生共同使用的建築空間。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-09",
-      "dedupeKey": "art-2026-08-26-christiane-mobus-four-rowing-eights",
-      "name": "Christiane Möbus｜Four Rowing Eights",
+      "dedupeKey": "art-2026-08-26-therman-statom-novella",
+      "name": "Therman Statom｜Novella",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / New York City",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "New York City",
+        "紐約市",
+        "Queens",
+        "皇后區"
       ],
       "media": [
-        "懸吊划艇／機械裝置"
+        "裝置",
+        "建築/場域"
       ],
-      "works": "Four Rowing Eights｜2001",
-      "comment": "四艘不同色彩的八人賽艇以各自節奏升降，隊形持續改變，也把柏林水系與集體協作引入室內。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "四艘不同色彩的八人賽艇以各自節奏升降，隊形持續改變，也把柏林水系與集體協作引入室內。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Four Rowing Eights",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "四艘不同色彩的八人賽艇以各自節奏升降，隊形持續改變，也把柏林水系與集體協作引入室內。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Novella｜2025；2026持續設置",
+      "comment": "在皇后區 P.S. 160 增建校舍中以玻璃與空間敘事整合建築，讓作品成為師生每日閱讀、穿行與重新想像的永久場域。",
+      "website": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "workPage": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "artistStatement": "在皇后區 P.S. 160 增建校舍中以玻璃與空間敘事整合建築，讓作品成為師生每日閱讀、穿行與重新想像的永久場域。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "classicTitle": "Novella",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "classicDesc": "在皇后區 P.S. 160 增建校舍中以玻璃與空間敘事整合建築，讓作品成為師生每日閱讀、穿行與重新想像的永久場域。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "dynamic-2026-08-26-10",
-      "dedupeKey": "art-2026-08-26-jorge-pardo-untitled-(restaurant)",
-      "name": "Jorge Pardo｜Untitled (Restaurant)",
+      "dedupeKey": "art-2026-08-26-jing-wei-recess",
+      "name": "Jing Wei｜Recess",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "美國 / New York City",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "New York City",
+        "紐約市",
+        "Staten Island",
+        "史泰登島"
       ],
       "media": [
-        "燈光／室內建築整合"
+        "建築/場域",
+        "裝置"
       ],
-      "works": "Untitled (Restaurant)｜1998–2002",
-      "comment": "球形燈具從 Paul Löbe Building 向施普雷河發出彩光，使餐廳、城市夜景與公共建築成為同一件環境作品。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "球形燈具從 Paul Löbe Building 向施普雷河發出彩光，使餐廳、城市夜景與公共建築成為同一件環境作品。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Untitled (Restaurant)",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "球形燈具從 Paul Löbe Building 向施普雷河發出彩光，使餐廳、城市夜景與公共建築成為同一件環境作品。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Recess｜2025；2026持續設置",
+      "comment": "印刷鋁複合板與瓷釉圖像描繪遊戲、製作與自然，永久置入 P.S. 5 增建校舍，將課間經驗轉化為公共視覺環境。",
+      "website": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "workPage": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "artistStatement": "印刷鋁複合板與瓷釉圖像描繪遊戲、製作與自然，永久置入 P.S. 5 增建校舍，將課間經驗轉化為公共視覺環境。",
+      "artistStatementSource": "https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "classicTitle": "Recess",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-1-28-Public-Art-for-Public-Schools-Celebrating-Five-New-Installations.page",
+      "classicDesc": "印刷鋁複合板與瓷釉圖像描繪遊戲、製作與自然，永久置入 P.S. 5 增建校舍，將課間經驗轉化為公共視覺環境。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
@@ -497,41 +485,37 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "classic-german-2026-08-26-01",
-      "dedupeKey": "art-2026-08-26-hans-peter-adamski-der-gordische-knoten",
-      "name": "德國經典01｜Hans Peter Adamski｜Der Gordische Knoten",
+      "dedupeKey": "art-2026-08-26-henry-moore-large-two-forms",
+      "name": "德國經典01｜Henry Moore｜Large Two Forms",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "德國 / Bonn",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Bonn",
+        "波昂"
       ],
       "media": [
-        "牆面繪畫／建築整合"
+        "雕塑"
       ],
-      "works": "Der Gordische Knoten｜1999–2001",
-      "comment": "四道灰、紫與黑色扭帶沿採光井貫穿樓層，把戈爾迪之結的寓意轉成議會建築中的垂直動勢。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "四道灰、紫與黑色扭帶沿採光井貫穿樓層，把戈爾迪之結的寓意轉成議會建築中的垂直動勢。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Der Gordische Knoten",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "四道灰、紫與黑色扭帶沿採光井貫穿樓層，把戈爾迪之結的寓意轉成議會建築中的垂直動勢。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Large Two Forms｜1979",
+      "comment": "兩個相向的有機青銅量體在前聯邦總理府前形成可繞行的開口與連結意象，成為聯邦德國早期 Kunst am Bau 最具辨識度的案例之一。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/large-two-forms",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/large-two-forms",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/large-two-forms",
+      "artistStatement": "兩個相向的有機青銅量體在前聯邦總理府前形成可繞行的開口與連結意象，成為聯邦德國早期 Kunst am Bau 最具辨識度的案例之一。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/large-two-forms",
+      "classicTitle": "Large Two Forms",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/large-two-forms",
+      "classicDesc": "兩個相向的有機青銅量體在前聯邦總理府前形成可繞行的開口與連結意象，成為聯邦德國早期 Kunst am Bau 最具辨識度的案例之一。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "classic-german-2026-08-26-02",
-      "dedupeKey": "art-2026-08-26-christian-boltanski-archive-of-german-members-of-parliament",
-      "name": "德國經典02｜Christian Boltanski｜Archive of German Members of Parliament",
+      "dedupeKey": "art-2026-08-26-gunther-uecker-schweigeskulptur-wassertropfen",
+      "name": "德國經典02｜Günther Uecker｜Schweigeskulptur (Wassertropfen)",
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / Berlin",
@@ -540,22 +524,25 @@
         "柏林"
       ],
       "media": [
-        "金屬盒／檔案裝置"
+        "裝置",
+        "聲音/霧/水"
       ],
-      "works": "Archive of German Members of Parliament｜1999",
-      "comment": "約五千個金屬盒承載自 1919 年起民選議員姓名，以匿名檔案形式讓民主制度的個人歷史可被看見。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "約五千個金屬盒承載自 1919 年起民選議員姓名，以匿名檔案形式讓民主制度的個人歷史可被看見。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Archive of German Members of Parliament",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "約五千個金屬盒承載自 1919 年起民選議員姓名，以匿名檔案形式讓民主制度的個人歷史可被看見。",
+      "works": "Schweigeskulptur (Wassertropfen)｜1981",
+      "comment": "同心圓青銅水池原欲以落水與漣漪把專注、沉默與閱讀連結；即使水機制未能長期運轉，仍保留場所特定的冥想結構。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schweigeskulptur-wassertropfen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schweigeskulptur-wassertropfen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schweigeskulptur-wassertropfen",
+      "artistStatement": "同心圓青銅水池原欲以落水與漣漪把專注、沉默與閱讀連結；即使水機制未能長期運轉，仍保留場所特定的冥想結構。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schweigeskulptur-wassertropfen",
+      "classicTitle": "Schweigeskulptur (Wassertropfen)",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schweigeskulptur-wassertropfen",
+      "classicDesc": "同心圓青銅水池原欲以落水與漣漪把專注、沉默與閱讀連結；即使水機制未能長期運轉，仍保留場所特定的冥想結構。",
       "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
       ]
     },
     {
@@ -563,41 +550,37 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "classic-german-2026-08-26-03",
-      "dedupeKey": "art-2026-08-26-angela-bulloch-seats-of-power---spheres-of-influence",
-      "name": "德國經典03｜Angela Bulloch｜Seats of Power – Spheres of Influence",
+      "dedupeKey": "art-2026-08-26-olaf-metzel-meistdeutigkeit",
+      "name": "德國經典03｜Olaf Metzel｜Meistdeutigkeit",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "德國 / Bonn",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Bonn",
+        "波昂"
       ],
       "media": [
-        "座椅／感應器／燈光"
+        "雕塑"
       ],
-      "works": "Seats of Power – Spheres of Influence｜2001",
-      "comment": "訪客坐上彩色長椅便在下一層點亮同色光球，卻無法直接看見結果，巧妙呈現權力與影響的距離。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "訪客坐上彩色長椅便在下一層點亮同色光球，卻無法直接看見結果，巧妙呈現權力與影響的距離。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Seats of Power – Spheres of Influence",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "訪客坐上彩色長椅便在下一層點亮同色光球，卻無法直接看見結果，巧妙呈現權力與影響的距離。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Meistdeutigkeit｜1996",
+      "comment": "七米半高的鋼製自行車架被堆疊成倒錐體，在前國會入口前把日常秩序轉成不穩定、多義而帶諷刺性的民主空間標記。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/meistdeutigkeit",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/meistdeutigkeit",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/meistdeutigkeit",
+      "artistStatement": "七米半高的鋼製自行車架被堆疊成倒錐體，在前國會入口前把日常秩序轉成不穩定、多義而帶諷刺性的民主空間標記。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/meistdeutigkeit",
+      "classicTitle": "Meistdeutigkeit",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/meistdeutigkeit",
+      "classicDesc": "七米半高的鋼製自行車架被堆疊成倒錐體，在前國會入口前把日常秩序轉成不穩定、多義而帶諷刺性的民主空間標記。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "classic-german-2026-08-26-04",
-      "dedupeKey": "art-2026-08-26-jorg-herold-lichtschleife-mit-datumsgrenze",
-      "name": "德國經典04｜Jörg Herold｜Lichtschleife mit Datumsgrenze",
+      "dedupeKey": "art-2026-08-26-thorsten-goldberg-cumulus-berlin",
+      "name": "德國經典04｜Thorsten Goldberg｜Cumulus Berlin",
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "德國 / Berlin",
@@ -606,22 +589,25 @@
         "柏林"
       ],
       "media": [
-        "燈光／文字／建築裝置"
+        "雕塑",
+        "建築/場域"
       ],
-      "works": "Lichtschleife mit Datumsgrenze｜2001",
-      "comment": "以光帶和日期界線穿越議會空間，將歷史時間、建築動線與持續發生的政治當下疊合。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "以光帶和日期界線穿越議會空間，將歷史時間、建築動線與持續發生的政治當下疊合。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Lichtschleife mit Datumsgrenze",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "以光帶和日期界線穿越議會空間，將歷史時間、建築動線與持續發生的政治當下疊合。",
+      "works": "Cumulus Berlin｜2010",
+      "comment": "可旋轉、擺動的白色雲體懸在農業部庭院上方，以天候與光影讓封閉建築中庭出現一段幽默的微型自然循環。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/cumulus-berlin",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/cumulus-berlin",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/cumulus-berlin",
+      "artistStatement": "可旋轉、擺動的白色雲體懸在農業部庭院上方，以天候與光影讓封閉建築中庭出現一段幽默的微型自然循環。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/cumulus-berlin",
+      "classicTitle": "Cumulus Berlin",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/cumulus-berlin",
+      "classicDesc": "可旋轉、擺動的白色雲體懸在農業部庭院上方，以天候與光影讓封閉建築中庭出現一段幽默的微型自然循環。",
       "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
       ]
     },
     {
@@ -629,33 +615,30 @@
       "status": "官方來源",
       "updated": "2026-08-26",
       "id": "classic-german-2026-08-26-05",
-      "dedupeKey": "art-2026-08-26-imi-knoebel-red-yellow-white-blue-1-4",
-      "name": "德國經典05｜Imi Knoebel｜Red Yellow White Blue 1–4",
+      "dedupeKey": "art-2026-08-26-tadashi-kawamata-nest",
+      "name": "德國經典05｜Tadashi Kawamata｜Nest",
       "tier": "經典檔案庫",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "德國 / Bonn",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Bonn",
+        "波昂"
       ],
       "media": [
-        "彩色牆面物件"
+        "裝置",
+        "建築/場域"
       ],
-      "works": "Red Yellow White Blue 1–4｜2001–2003",
-      "comment": "四組紅、黃、白、藍的幾何構件直接回應建築比例，使原色與留白在接待大廳形成清晰節奏。",
-      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "artistStatement": "四組紅、黃、白、藍的幾何構件直接回應建築比例，使原色與留白在接待大廳形成清晰節奏。",
-      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicTitle": "Red Yellow White Blue 1–4",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
-      "classicDesc": "四組紅、黃、白、藍的幾何構件直接回應建築比例，使原色與留白在接待大廳形成清晰節奏。",
-      "relatedByCity": [
-        "competition-2026-08-26-01",
-        "competition-2026-08-26-03",
-        "competition-2026-08-26-04"
-      ]
+      "works": "Nest｜2012",
+      "comment": "粗鋸落葉松板在 UN 氣候秘書處中庭構成過大的巢，讓脆弱、庇護與氣候危機的想像反向擾動現代建築的理性秩序。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "artistStatement": "粗鋸落葉松板在 UN 氣候秘書處中庭構成過大的巢，讓脆弱、庇護與氣候危機的想像反向擾動現代建築的理性秩序。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "classicTitle": "Nest",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "classicDesc": "粗鋸落葉松板在 UN 氣候秘書處中庭構成過大的巢，讓脆弱、庇護與氣候危機的想像反向擾動現代建築的理性秩序。",
+      "relatedByCity": []
     }
   ]
 }
