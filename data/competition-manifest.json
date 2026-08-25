@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-26-competition-r23",
-  "generatedAt": "2026-08-26T07:20:00+08:00",
+  "version": "2026-08-26-competition-r24",
+  "generatedAt": "2026-08-26T08:40:00+08:00",
   "files": [
     "competitions.json"
   ],
@@ -10,5 +10,5 @@
   "deadlineTimezoneEntries": 62,
   "deadlinePrecisionEntries": 62,
   "cityKeywordEntries": 62,
-  "note": "2026-08-26 新增 5 則未截止德國徵件；移除逾期 0 則。62 筆截止、時區、城市與必要欄位完整。"
+  "note": "2026-08-26 新增 5 則公共藝術／Kunst am Bau／空間委託；保留既有有效競圖 57 則，移除逾期 0 則。62 筆截止、時區、城市與必要欄位完整。"
 }
