@@ -1,0 +1,661 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-26T07:20:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-26",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "德國聯邦議院與美國國家藝廊官方頁",
+    "note": "8/26 公共藝術固定 10＋5＋5；已捨棄無法在實際瀏覽器完成載入的 GSA 候選頁。競圖另新增 5 則。",
+    "linkAudit": {
+      "checkedAt": "2026-08-26T07:20:00+08:00",
+      "checkedUniqueSources": 2,
+      "brokenOrBlockedReplaced": 10,
+      "rule": "發布前以官方頁核對；無法載入的候選作品整批替換"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-01",
+      "dedupeKey": "art-2026-08-26-georg-baselitz-friedrichs-woman-on-the-abyss---friedrichs-melancholy",
+      "name": "Georg Baselitz｜Friedrich’s Woman on the Abyss / Friedrich’s Melancholy",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "油彩／畫布／建築整合"
+      ],
+      "works": "Friedrich’s Woman on the Abyss / Friedrich’s Melancholy｜1998–1999",
+      "comment": "將卡斯帕・大衛・弗里德里希的浪漫主義母題倒置，讓觀看先面對構圖與色塊，再返回國會建築中的歷史記憶。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "將卡斯帕・大衛・弗里德里希的浪漫主義母題倒置，讓觀看先面對構圖與色塊，再返回國會建築中的歷史記憶。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Friedrich’s Woman on the Abyss / Friedrich’s Melancholy",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "將卡斯帕・大衛・弗里德里希的浪漫主義母題倒置，讓觀看先面對構圖與色塊，再返回國會建築中的歷史記憶。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-02",
+      "dedupeKey": "art-2026-08-26-grisha-bruskin-life-above-all",
+      "name": "Grisha Bruskin｜Life Above All",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "繪畫組件／牆面裝置"
+      ],
+      "works": "Life Above All｜1999",
+      "comment": "115 幅如聖像壁般排列的圖像，反諷蘇聯政治神話與雕塑崇拜，將意識形態的符號系統帶入議會空間。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "115 幅如聖像壁般排列的圖像，反諷蘇聯政治神話與雕塑崇拜，將意識形態的符號系統帶入議會空間。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Life Above All",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "115 幅如聖像壁般排列的圖像，反諷蘇聯政治神話與雕塑崇拜，將意識形態的符號系統帶入議會空間。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-03",
+      "dedupeKey": "art-2026-08-26-hanne-darboven-12-months,-work-for-europe",
+      "name": "Hanne Darboven｜12 Months, Work for Europe",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "紙本記號／十二聯屏"
+      ],
+      "works": "12 Months, Work for Europe｜1997–1999",
+      "comment": "以逐日書寫的數字記錄 1997 年，把個人時間的重複勞動轉化為歐洲制度發展的公共年表。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "以逐日書寫的數字記錄 1997 年，把個人時間的重複勞動轉化為歐洲制度發展的公共年表。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "12 Months, Work for Europe",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "以逐日書寫的數字記錄 1997 年，把個人時間的重複勞動轉化為歐洲制度發展的公共年表。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-04",
+      "dedupeKey": "art-2026-08-26-tacita-dean-the-daughter-of-the-regiment",
+      "name": "Tacita Dean｜The Daughter of the Regiment",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "攝影／電影物件／裝置"
+      ],
+      "works": "The Daughter of the Regiment｜1999–2000",
+      "comment": "以消逝、遺失與記憶為線索，讓歌劇與影像史的碎片在議會建築中形成一處時間考古。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "以消逝、遺失與記憶為線索，讓歌劇與影像史的碎片在議會建築中形成一處時間考古。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "The Daughter of the Regiment",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "以消逝、遺失與記憶為線索，讓歌劇與影像史的碎片在議會建築中形成一處時間考古。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-05",
+      "dedupeKey": "art-2026-08-26-jenny-holzer-installation-fur-reichstagsgebaude",
+      "name": "Jenny Holzer｜Installation für Reichstagsgebäude",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "LED 文字裝置"
+      ],
+      "works": "Installation für Reichstagsgebäude｜1999",
+      "comment": "1871 至 1999 年議員演說沿入口柱面向上流動，讓政治語言以持續更新的光帶成為建築的一部分。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "1871 至 1999 年議員演說沿入口柱面向上流動，讓政治語言以持續更新的光帶成為建築的一部分。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Installation für Reichstagsgebäude",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "1871 至 1999 年議員演說沿入口柱面向上流動，讓政治語言以持續更新的光帶成為建築的一部分。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-06",
+      "dedupeKey": "art-2026-08-26-dani-karavan-basic-law-49-(grundgesetz-49)",
+      "name": "Dani Karavan｜Basic Law 49 (Grundgesetz 49)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "玻璃碑／耐候鋼／地景"
+      ],
+      "works": "Basic Law 49 (Grundgesetz 49)｜1998–2003",
+      "comment": "在臨施普雷河的庭院以玻璃界面刻錄基本法條文，將透明邊界、法治與公共通行並置。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "在臨施普雷河的庭院以玻璃界面刻錄基本法條文，將透明邊界、法治與公共通行並置。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Basic Law 49 (Grundgesetz 49)",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "在臨施普雷河的庭院以玻璃界面刻錄基本法條文，將透明邊界、法治與公共通行並置。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-07",
+      "dedupeKey": "art-2026-08-26-ellsworth-kelly-berlin-panels-2000",
+      "name": "Ellsworth Kelly｜Berlin Panels 2000",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "彩色鋁板／建築立面"
+      ],
+      "works": "Berlin Panels 2000｜1998–2001",
+      "comment": "四片純色鋁板嵌入 Paul Löbe Building 西立面，以硬邊色域回應大型公共建築的尺度與節奏。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "四片純色鋁板嵌入 Paul Löbe Building 西立面，以硬邊色域回應大型公共建築的尺度與節奏。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Berlin Panels 2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "四片純色鋁板嵌入 Paul Löbe Building 西立面，以硬邊色域回應大型公共建築的尺度與節奏。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-08",
+      "dedupeKey": "art-2026-08-26-anselm-kiefer-only-with-wind-with-time-and-with-sound",
+      "name": "Anselm Kiefer｜Only with wind with time and with sound",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "混合媒材繪畫"
+      ],
+      "works": "Only with wind with time and with sound｜1999",
+      "comment": "崩解的泥磚塔如考古遺址，將文明起源、毀滅與重建的時間層疊帶入國會接待空間。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "崩解的泥磚塔如考古遺址，將文明起源、毀滅與重建的時間層疊帶入國會接待空間。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Only with wind with time and with sound",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "崩解的泥磚塔如考古遺址，將文明起源、毀滅與重建的時間層疊帶入國會接待空間。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-09",
+      "dedupeKey": "art-2026-08-26-christiane-mobus-four-rowing-eights",
+      "name": "Christiane Möbus｜Four Rowing Eights",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "懸吊划艇／機械裝置"
+      ],
+      "works": "Four Rowing Eights｜2001",
+      "comment": "四艘不同色彩的八人賽艇以各自節奏升降，隊形持續改變，也把柏林水系與集體協作引入室內。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "四艘不同色彩的八人賽艇以各自節奏升降，隊形持續改變，也把柏林水系與集體協作引入室內。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Four Rowing Eights",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "四艘不同色彩的八人賽艇以各自節奏升降，隊形持續改變，也把柏林水系與集體協作引入室內。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "dynamic-2026-08-26-10",
+      "dedupeKey": "art-2026-08-26-jorge-pardo-untitled-(restaurant)",
+      "name": "Jorge Pardo｜Untitled (Restaurant)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "燈光／室內建築整合"
+      ],
+      "works": "Untitled (Restaurant)｜1998–2002",
+      "comment": "球形燈具從 Paul Löbe Building 向施普雷河發出彩光，使餐廳、城市夜景與公共建築成為同一件環境作品。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "球形燈具從 Paul Löbe Building 向施普雷河發出彩光，使餐廳、城市夜景與公共建築成為同一件環境作品。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Untitled (Restaurant)",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "球形燈具從 Paul Löbe Building 向施普雷河發出彩光，使餐廳、城市夜景與公共建築成為同一件環境作品。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-global-2026-08-26-01",
+      "dedupeKey": "art-2026-08-26-louise-bourgeois-spider",
+      "name": "全球經典01｜Louise Bourgeois｜Spider",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "青銅／不鏽鋼／花崗岩"
+      ],
+      "works": "Spider｜1996；鑄造 1997",
+      "comment": "巨型蜘蛛兼具威脅與保護性，將母性、織造與記憶轉化為可穿行的公共尺度。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "巨型蜘蛛兼具威脅與保護性，將母性、織造與記憶轉化為可穿行的公共尺度。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "Spider",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "巨型蜘蛛兼具威脅與保護性，將母性、織造與記憶轉化為可穿行的公共尺度。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-global-2026-08-26-02",
+      "dedupeKey": "art-2026-08-26-roy-lichtenstein-house-i",
+      "name": "全球經典02｜Roy Lichtenstein｜House I",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "彩繪鋁材"
+      ],
+      "works": "House I｜1996–1998",
+      "comment": "以透視錯視讓房屋立面在行走中反向旋轉，將漫畫式線條變成花園裡的觀看機器。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "以透視錯視讓房屋立面在行走中反向旋轉，將漫畫式線條變成花園裡的觀看機器。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "House I",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "以透視錯視讓房屋立面在行走中反向旋轉，將漫畫式線條變成花園裡的觀看機器。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-global-2026-08-26-03",
+      "dedupeKey": "art-2026-08-26-tony-smith-moondog",
+      "name": "全球經典03｜Tony Smith｜Moondog",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "鋼／黑色塗裝"
+      ],
+      "works": "Moondog｜1964；製作 1998–1999",
+      "comment": "由四面體與稜角組成的黑色量體在草地上展開，介於建築骨架、動物與純粹幾何之間。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "由四面體與稜角組成的黑色量體在草地上展開，介於建築骨架、動物與純粹幾何之間。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "Moondog",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "由四面體與稜角組成的黑色量體在草地上展開，介於建築骨架、動物與純粹幾何之間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-global-2026-08-26-04",
+      "dedupeKey": "art-2026-08-26-roxy-paine-graft",
+      "name": "全球經典04｜Roxy Paine｜Graft",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "不鏽鋼"
+      ],
+      "works": "Graft｜2008–2009",
+      "comment": "兩種樹形在同一樹幹上嫁接，光滑工業表面與扭曲枝椏讓自然、疾病及人工控制互相纏繞。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "兩種樹形在同一樹幹上嫁接，光滑工業表面與扭曲枝椏讓自然、疾病及人工控制互相纏繞。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "Graft",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "兩種樹形在同一樹幹上嫁接，光滑工業表面與扭曲枝椏讓自然、疾病及人工控制互相纏繞。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-global-2026-08-26-05",
+      "dedupeKey": "art-2026-08-26-ellsworth-kelly-stele-ii",
+      "name": "全球經典05｜Ellsworth Kelly｜Stele II",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "華盛頓特區"
+      ],
+      "media": [
+        "耐候鋼"
+      ],
+      "works": "Stele II｜1973",
+      "comment": "垂直鋼板以極少的形體切分天空與地面，讓重量、比例與觀者移動成為作品內容。",
+      "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "artistStatement": "垂直鋼板以極少的形體切分天空與地面，讓重量、比例與觀者移動成為作品內容。",
+      "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicTitle": "Stele II",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicDesc": "垂直鋼板以極少的形體切分天空與地面，讓重量、比例與觀者移動成為作品內容。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-german-2026-08-26-01",
+      "dedupeKey": "art-2026-08-26-hans-peter-adamski-der-gordische-knoten",
+      "name": "德國經典01｜Hans Peter Adamski｜Der Gordische Knoten",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "牆面繪畫／建築整合"
+      ],
+      "works": "Der Gordische Knoten｜1999–2001",
+      "comment": "四道灰、紫與黑色扭帶沿採光井貫穿樓層，把戈爾迪之結的寓意轉成議會建築中的垂直動勢。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "四道灰、紫與黑色扭帶沿採光井貫穿樓層，把戈爾迪之結的寓意轉成議會建築中的垂直動勢。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Der Gordische Knoten",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "四道灰、紫與黑色扭帶沿採光井貫穿樓層，把戈爾迪之結的寓意轉成議會建築中的垂直動勢。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-german-2026-08-26-02",
+      "dedupeKey": "art-2026-08-26-christian-boltanski-archive-of-german-members-of-parliament",
+      "name": "德國經典02｜Christian Boltanski｜Archive of German Members of Parliament",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "金屬盒／檔案裝置"
+      ],
+      "works": "Archive of German Members of Parliament｜1999",
+      "comment": "約五千個金屬盒承載自 1919 年起民選議員姓名，以匿名檔案形式讓民主制度的個人歷史可被看見。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "約五千個金屬盒承載自 1919 年起民選議員姓名，以匿名檔案形式讓民主制度的個人歷史可被看見。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Archive of German Members of Parliament",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "約五千個金屬盒承載自 1919 年起民選議員姓名，以匿名檔案形式讓民主制度的個人歷史可被看見。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-german-2026-08-26-03",
+      "dedupeKey": "art-2026-08-26-angela-bulloch-seats-of-power---spheres-of-influence",
+      "name": "德國經典03｜Angela Bulloch｜Seats of Power – Spheres of Influence",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "座椅／感應器／燈光"
+      ],
+      "works": "Seats of Power – Spheres of Influence｜2001",
+      "comment": "訪客坐上彩色長椅便在下一層點亮同色光球，卻無法直接看見結果，巧妙呈現權力與影響的距離。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "訪客坐上彩色長椅便在下一層點亮同色光球，卻無法直接看見結果，巧妙呈現權力與影響的距離。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Seats of Power – Spheres of Influence",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "訪客坐上彩色長椅便在下一層點亮同色光球，卻無法直接看見結果，巧妙呈現權力與影響的距離。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-german-2026-08-26-04",
+      "dedupeKey": "art-2026-08-26-jorg-herold-lichtschleife-mit-datumsgrenze",
+      "name": "德國經典04｜Jörg Herold｜Lichtschleife mit Datumsgrenze",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "燈光／文字／建築裝置"
+      ],
+      "works": "Lichtschleife mit Datumsgrenze｜2001",
+      "comment": "以光帶和日期界線穿越議會空間，將歷史時間、建築動線與持續發生的政治當下疊合。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "以光帶和日期界線穿越議會空間，將歷史時間、建築動線與持續發生的政治當下疊合。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Lichtschleife mit Datumsgrenze",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "以光帶和日期界線穿越議會空間，將歷史時間、建築動線與持續發生的政治當下疊合。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-26",
+      "id": "classic-german-2026-08-26-05",
+      "dedupeKey": "art-2026-08-26-imi-knoebel-red-yellow-white-blue-1-4",
+      "name": "德國經典05｜Imi Knoebel｜Red Yellow White Blue 1–4",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "彩色牆面物件"
+      ],
+      "works": "Red Yellow White Blue 1–4｜2001–2003",
+      "comment": "四組紅、黃、白、藍的幾何構件直接回應建築比例，使原色與留白在接待大廳形成清晰節奏。",
+      "website": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "workPage": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "artistStatement": "四組紅、黃、白、藍的幾何構件直接回應建築比例，使原色與留白在接待大廳形成清晰節奏。",
+      "artistStatementSource": "https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicTitle": "Red Yellow White Blue 1–4",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bundestag.de/en/visittheBundestag/art/artists",
+      "classicDesc": "四組紅、黃、白、藍的幾何構件直接回應建築比例，使原色與留白在接待大廳形成清晰節奏。",
+      "relatedByCity": [
+        "competition-2026-08-26-01",
+        "competition-2026-08-26-03",
+        "competition-2026-08-26-04"
+      ]
+    }
+  ]
+}

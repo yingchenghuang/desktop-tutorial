@@ -1,14 +1,14 @@
 {
-  "version": "2026-08-25-competition-r22",
-  "generatedAt": "2026-08-25T05:42:00+08:00",
+  "version": "2026-08-26-competition-r23",
+  "generatedAt": "2026-08-26T07:20:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 57,
+  "activeEntries": 62,
   "addedToday": 5,
   "expiredRemoved": 0,
-  "deadlineTimezoneEntries": 57,
-  "deadlinePrecisionEntries": 57,
-  "cityKeywordEntries": 57,
-  "note": "2026-08-25 新增 5 則未截止公共藝術委託；完整保留 52 則既有有效項目、移除逾期 0 則。57 筆 deadline 皆可解析且含時區，城市關鍵字與必要欄位完整。"
+  "deadlineTimezoneEntries": 62,
+  "deadlinePrecisionEntries": 62,
+  "cityKeywordEntries": 62,
+  "note": "2026-08-26 新增 5 則未截止德國徵件；移除逾期 0 則。62 筆截止、時區、城市與必要欄位完整。"
 }

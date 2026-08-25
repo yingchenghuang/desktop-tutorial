@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-25-public-art-and-competitions-r34",
-  "generatedAt": "2026-08-25T05:42:00+08:00",
+  "version": "2026-08-26-public-art-and-competitions-r36",
+  "generatedAt": "2026-08-26T07:20:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -22,13 +22,14 @@
     "backfill-august-20260822.json",
     "backfill-august-20260823.json",
     "backfill-august-20260824.json",
-    "backfill-august-20260825.json"
+    "backfill-august-20260825.json",
+    "backfill-august-20260826.json"
   ],
-  "expectedEntries": 450,
-  "statementEntries": 450,
-  "statementSourceEntries": 450,
+  "expectedEntries": 470,
+  "statementEntries": 470,
+  "statementSourceEntries": 470,
   "statementBacklog": 0,
-  "note": "8/25 公共藝術新增 20 則，配置 10／5／5；10 則經典均為已實現公共藝術、紀念地景或 Kunst am Bau，競圖另新增 5 則，不計入公共藝術。",
-  "imageEntries": 450,
+  "note": "8/26 公共藝術新增 20 則，配置 10／5／5；競圖另新增 5 則且全數為德國有效案件。",
+  "imageEntries": 470,
   "imageBacklog": 0
 }
