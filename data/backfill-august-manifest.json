@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-26-public-art-and-competitions-r36",
-  "generatedAt": "2026-08-26T07:20:00+08:00",
+  "version": "2026-08-26-public-art-r37",
+  "generatedAt": "2026-08-26T08:40:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -29,7 +29,7 @@
   "statementEntries": 470,
   "statementSourceEntries": 470,
   "statementBacklog": 0,
-  "note": "8/26 公共藝術新增 20 則，配置 10／5／5；競圖另新增 5 則且全數為德國有效案件。",
+  "note": "8/26 公共藝術新增 20 則，配置 10／5／5；德國經典優先採 Museum der 1000 Orte；競圖另新增 5 則且未混入一般補助。",
   "imageEntries": 470,
   "imageBacklog": 0
 }
