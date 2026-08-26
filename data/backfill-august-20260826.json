@@ -14,6 +14,12 @@
       "checkedUniqueSources": 11,
       "brokenOrBlockedReplaced": 15,
       "rule": "以官方或第一方作品頁核對；競圖限公共藝術與建築整合委託"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-08-27T04:20:00+08:00",
+      "directOfficialImages": 5,
+      "replacedSecurityCheckScreenshots": 5,
+      "rule": "全球經典使用 NGA 官方 IIIF 作品圖，不使用網頁截圖服務"
     }
   },
   "entries": [
@@ -356,11 +362,11 @@
       "comment": "巨型蜘蛛兼具威脅與保護性，將母性、織造與記憶轉化為可穿行的公共尺度。",
       "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://api.nga.gov/iiif/4a25ee06-b017-4c75-9534-0bbacadd6e5d__900/full/,700/0/default.jpg",
       "artistStatement": "巨型蜘蛛兼具威脅與保護性，將母性、織造與記憶轉化為可穿行的公共尺度。",
       "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "classicTitle": "Spider",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicImage": "https://api.nga.gov/iiif/4a25ee06-b017-4c75-9534-0bbacadd6e5d__900/full/,700/0/default.jpg",
       "classicDesc": "巨型蜘蛛兼具威脅與保護性，將母性、織造與記憶轉化為可穿行的公共尺度。",
       "relatedByCity": []
     },
@@ -385,11 +391,11 @@
       "comment": "以透視錯視讓房屋立面在行走中反向旋轉，將漫畫式線條變成花園裡的觀看機器。",
       "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://api.nga.gov/iiif/3f7bf5bd-06c4-4596-8918-b575c56ebd40__900/full/,700/0/default.jpg",
       "artistStatement": "以透視錯視讓房屋立面在行走中反向旋轉，將漫畫式線條變成花園裡的觀看機器。",
       "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "classicTitle": "House I",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicImage": "https://api.nga.gov/iiif/3f7bf5bd-06c4-4596-8918-b575c56ebd40__900/full/,700/0/default.jpg",
       "classicDesc": "以透視錯視讓房屋立面在行走中反向旋轉，將漫畫式線條變成花園裡的觀看機器。",
       "relatedByCity": []
     },
@@ -414,11 +420,11 @@
       "comment": "由四面體與稜角組成的黑色量體在草地上展開，介於建築骨架、動物與純粹幾何之間。",
       "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://api.nga.gov/iiif/cb0b9b0e-7283-4214-a9a0-50e08d408c2a__900/full/,700/0/default.jpg",
       "artistStatement": "由四面體與稜角組成的黑色量體在草地上展開，介於建築骨架、動物與純粹幾何之間。",
       "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "classicTitle": "Moondog",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicImage": "https://api.nga.gov/iiif/cb0b9b0e-7283-4214-a9a0-50e08d408c2a__900/full/,700/0/default.jpg",
       "classicDesc": "由四面體與稜角組成的黑色量體在草地上展開，介於建築骨架、動物與純粹幾何之間。",
       "relatedByCity": []
     },
@@ -443,11 +449,11 @@
       "comment": "兩種樹形在同一樹幹上嫁接，光滑工業表面與扭曲枝椏讓自然、疾病及人工控制互相纏繞。",
       "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://api.nga.gov/iiif/bf563e4c-ddb5-42db-bd96-4103014013a7__900/full/,700/0/default.jpg",
       "artistStatement": "兩種樹形在同一樹幹上嫁接，光滑工業表面與扭曲枝椏讓自然、疾病及人工控制互相纏繞。",
       "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "classicTitle": "Graft",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicImage": "https://api.nga.gov/iiif/bf563e4c-ddb5-42db-bd96-4103014013a7__900/full/,700/0/default.jpg",
       "classicDesc": "兩種樹形在同一樹幹上嫁接，光滑工業表面與扭曲枝椏讓自然、疾病及人工控制互相纏繞。",
       "relatedByCity": []
     },
@@ -472,11 +478,11 @@
       "comment": "垂直鋼板以極少的形體切分天空與地面，讓重量、比例與觀者移動成為作品內容。",
       "website": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "workPage": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "photo": "https://api.nga.gov/iiif/65ac6a71-e86a-4e57-aec5-5695a27c51d1__900/full/,700/0/default.jpg",
       "artistStatement": "垂直鋼板以極少的形體切分天空與地面，讓重量、比例與觀者移動成為作品內容。",
       "artistStatementSource": "https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
       "classicTitle": "Stele II",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nga.gov/visit/sculpture-garden-self-guided-tour",
+      "classicImage": "https://api.nga.gov/iiif/65ac6a71-e86a-4e57-aec5-5695a27c51d1__900/full/,700/0/default.jpg",
       "classicDesc": "垂直鋼板以極少的形體切分天空與地面，讓重量、比例與觀者移動成為作品內容。",
       "relatedByCity": []
     },

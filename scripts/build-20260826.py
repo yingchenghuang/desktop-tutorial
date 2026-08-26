@@ -67,13 +67,31 @@ entries = [art_entry(*x, category="dynamic") for x in dynamic_specs]
 entries += [art_entry(*x, category="global") for x in global_specs]
 entries += [art_entry(*x, category="german") for x in german_specs]
 
+# Use NGA's direct first-party IIIF images. Screenshot proxies capture the
+# security-check screen instead of the artwork itself.
+nga_images = {
+    "Spider": "https://api.nga.gov/iiif/4a25ee06-b017-4c75-9534-0bbacadd6e5d__900/full/,700/0/default.jpg",
+    "House I": "https://api.nga.gov/iiif/3f7bf5bd-06c4-4596-8918-b575c56ebd40__900/full/,700/0/default.jpg",
+    "Moondog": "https://api.nga.gov/iiif/cb0b9b0e-7283-4214-a9a0-50e08d408c2a__900/full/,700/0/default.jpg",
+    "Graft": "https://api.nga.gov/iiif/bf563e4c-ddb5-42db-bd96-4103014013a7__900/full/,700/0/default.jpg",
+    "Stele II": "https://api.nga.gov/iiif/65ac6a71-e86a-4e57-aec5-5695a27c51d1__900/full/,700/0/default.jpg",
+}
+for entry in entries:
+    direct_image = nga_images.get(entry["classicTitle"])
+    if direct_image:
+        entry["photo"] = direct_image
+        entry["classicImage"] = direct_image
+
 daily = {
     "meta": {"generatedAt": STAMP, "timezone": "Asia/Taipei", "date": DATE, "total": 20,
              "dynamicEntries": 10, "globalClassicEntries": 5, "germanClassicEntries": 5,
              "source": "德國聯邦議院與美國國家藝廊官方頁",
              "note": "8/26 公共藝術固定 10＋5＋5；已捨棄無法在實際瀏覽器完成載入的 GSA 候選頁。競圖另新增 5 則。",
              "linkAudit": {"checkedAt": STAMP, "checkedUniqueSources": 2, "brokenOrBlockedReplaced": 10,
-                           "rule": "發布前以官方頁核對；無法載入的候選作品整批替換"}},
+                           "rule": "發布前以官方頁核對；無法載入的候選作品整批替換"},
+             "imageAudit": {"checkedAt": "2026-08-27T04:20:00+08:00", "directOfficialImages": 5,
+                            "replacedSecurityCheckScreenshots": 5,
+                            "rule": "全球經典使用 NGA 官方 IIIF 作品圖，不使用網頁截圖服務"}},
     "entries": entries,
 }
 
