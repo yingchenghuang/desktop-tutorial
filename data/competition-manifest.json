@@ -1,14 +1,14 @@
 {
-  "version": "2026-08-26-competition-r25",
-  "generatedAt": "2026-08-26T05:00:00+08:00",
+  "version": "2026-08-27-competition-r26",
+  "generatedAt": "2026-08-27T05:00:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 62,
+  "activeEntries": 67,
   "addedToday": 5,
   "expiredRemoved": 0,
-  "deadlineTimezoneEntries": 62,
-  "deadlinePrecisionEntries": 62,
-  "cityKeywordEntries": 62,
-  "note": "2026-08-26 新增 5 則經語意去重的公共藝術委託；保留既有有效競圖 57 則，移除逾期 0 則。62 筆截止、時區、城市與必要欄位完整。"
+  "deadlineTimezoneEntries": 67,
+  "deadlinePrecisionEntries": 67,
+  "cityKeywordEntries": 67,
+  "note": "2026-08-27 新增5則經語意去重的公共藝術委託；保留既有有效競圖62則，移除逾期0則。67筆截止、時區、城市與必要欄位皆完整。"
 }
