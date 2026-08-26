@@ -7,11 +7,11 @@
     "dynamicEntries": 10,
     "globalClassicEntries": 5,
     "germanClassicEntries": 5,
-    "source": "SF Arts Commission、Public Art Fund、Photoville、Sing for Hope、Chicago DCASE、NYC Parks、Rothko Chapel、SF Recreation and Parks、Museum der 1000 Orte 官方資料",
+    "source": "SF Arts Commission、Photoville、Sing for Hope、Chicago DCASE、NYC Parks、Rothko Chapel、SF Recreation and Parks、Museum der 1000 Orte 官方資料",
     "note": "8/27 公共藝術固定 10＋5＋5；競圖另新增 5 則，未混入公共藝術20則。",
     "linkAudit": {
       "checkedAt": "2026-08-27T05:00:00+08:00",
-      "checkedUniqueSources": 14,
+      "checkedUniqueSources": 13,
       "brokenOrBlockedReplaced": 0,
       "rule": "以官方或第一方作品頁核對；競圖限公共藝術、建築整合委託與公共空間計畫"
     },
@@ -61,29 +61,31 @@
       "status": "官方來源",
       "updated": "2026-08-27",
       "id": "current-2026-08-27-02",
-      "dedupeKey": "art-2026-08-27-cannupa-luger-attrition",
-      "name": "02｜Cannupa Hanska Luger｜Attrition",
+      "dedupeKey": "art-2026-08-27-stefan-falke-reflecting-new-york",
+      "name": "02｜Stefan Falke｜Reflecting New York",
       "tier": "動態情報層",
       "region": "西方",
       "country": "美國 / New York City",
       "cityKeywords": [
         "New York City",
-        "紐約市"
+        "紐約市",
+        "Manhattan",
+        "曼哈頓"
       ],
       "media": [
-        "雕塑",
-        "裝置"
+        "攝影",
+        "暫時性裝置"
       ],
-      "works": "Attrition｜2026",
-      "comment": "以工業材料重構北美野牛及殖民耗損史，讓被掩埋的原住民族記憶以公共尺度重新進入城市空間。",
-      "website": "https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
-      "workPage": "https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
-      "artistStatement": "以工業材料重構北美野牛及殖民耗損史，讓被掩埋的原住民族記憶以公共尺度重新進入城市空間。",
-      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
-      "classicTitle": "Attrition",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
-      "classicDesc": "以工業材料重構北美野牛及殖民耗損史，讓被掩埋的原住民族記憶以公共尺度重新進入城市空間。",
+      "works": "Reflecting New York｜2026",
+      "comment": "Bella Abzug Park 的戶外攝影以手持鏡面把遠方建築折入畫面，讓城市景觀在一次觀看中生成第二層空間與意外視角。",
+      "website": "https://photoville.nyc/",
+      "workPage": "https://photoville.nyc/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://photoville.nyc/",
+      "artistStatement": "Bella Abzug Park 的戶外攝影以手持鏡面把遠方建築折入畫面，讓城市景觀在一次觀看中生成第二層空間與意外視角。",
+      "artistStatementSource": "https://photoville.nyc/",
+      "classicTitle": "Reflecting New York",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://photoville.nyc/",
+      "classicDesc": "Bella Abzug Park 的戶外攝影以手持鏡面把遠方建築折入畫面，讓城市景觀在一次觀看中生成第二層空間與意外視角。",
       "relatedByCity": []
     },
     {
