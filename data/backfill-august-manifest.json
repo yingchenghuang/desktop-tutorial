@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-26-public-art-r37",
-  "generatedAt": "2026-08-26T08:40:00+08:00",
+  "version": "2026-08-27-public-art-r38",
+  "generatedAt": "2026-08-27T05:00:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -23,13 +23,14 @@
     "backfill-august-20260823.json",
     "backfill-august-20260824.json",
     "backfill-august-20260825.json",
-    "backfill-august-20260826.json"
+    "backfill-august-20260826.json",
+    "backfill-august-20260827.json"
   ],
-  "expectedEntries": 470,
+  "expectedEntries": 490,
   "statementEntries": 470,
   "statementSourceEntries": 470,
   "statementBacklog": 0,
-  "note": "8/26 公共藝術新增 20 則，配置 10／5／5；德國經典優先採 Museum der 1000 Orte；競圖另新增 5 則且未混入一般補助。",
-  "imageEntries": 470,
+  "note": "2026-08-27 新增固定20則公共藝術（10當期／5全球經典／5德國德語經典）；競圖維持獨立資料庫。",
+  "imageEntries": 490,
   "imageBacklog": 0
 }
