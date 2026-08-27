@@ -1,0 +1,698 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-28T05:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-28",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "NYC Sanitation、SF.gov、NYC Parks、Museum der 1000 Orte 官方資料",
+    "note": "8/28 公共藝術固定 10＋5＋5；公開徵選另新增 5 則且維持獨立資料庫。",
+    "linkAudit": {
+      "checkedAt": "2026-08-28T05:00:00+08:00",
+      "checkedUniqueSources": 13,
+      "brokenOrBlockedReplaced": 1,
+      "rule": "實際瀏覽器開啟官方頁；失效或安全驗證頁不發布"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-08-28T05:00:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "每筆具官方圖或經可開啟官方頁產生的預覽圖"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-01",
+      "dedupeKey": "art-2026-08-28-marieke-perchik-bender-this-machine-cleans-cities",
+      "name": "01｜Marieke Perchik Bender｜這台機器清潔城市！ This Machine Cleans Cities!",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "移動公共藝術",
+        "彩繪",
+        "環境設計"
+      ],
+      "works": "This Machine Cleans Cities!｜2026",
+      "comment": "以鯊魚嘴般的車頭圖像把清潔車轉化為城市循環系統的醒目符號，並將第一線清潔人員的日常勞動帶入公共視野。",
+      "website": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "workPage": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "photo": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "artistStatement": "以鯊魚嘴般的車頭圖像把清潔車轉化為城市循環系統的醒目符號，並將第一線清潔人員的日常勞動帶入公共視野。",
+      "artistStatementSource": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "classicTitle": "This Machine Cleans Cities!",
+      "classicImage": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "classicDesc": "以鯊魚嘴般的車頭圖像把清潔車轉化為城市循環系統的醒目符號，並將第一線清潔人員的日常勞動帶入公共視野。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-02",
+      "dedupeKey": "art-2026-08-28-lauren-stewart-keep-clean-keep-green",
+      "name": "02｜Lauren Stewart｜保持潔淨，保持綠意 Keep Clean, Keep Green",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "移動公共藝術",
+        "手繪",
+        "環境設計"
+      ],
+      "works": "Keep Clean, Keep Green｜2026",
+      "comment": "以自由女神與手繪城市意象向清潔隊員致敬，讓大型市政車輛成為傳遞乾淨、綠色城市想像的流動看板。",
+      "website": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "workPage": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "photo": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "artistStatement": "以自由女神與手繪城市意象向清潔隊員致敬，讓大型市政車輛成為傳遞乾淨、綠色城市想像的流動看板。",
+      "artistStatementSource": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "classicTitle": "Keep Clean, Keep Green",
+      "classicImage": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "classicDesc": "以自由女神與手繪城市意象向清潔隊員致敬，讓大型市政車輛成為傳遞乾淨、綠色城市想像的流動看板。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-03",
+      "dedupeKey": "art-2026-08-28-allison-bouganim-letters-from-the-city",
+      "name": "03｜Allison Bouganim｜城市來信 Letters from the City",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "移動公共藝術",
+        "彩繪",
+        "社區敘事"
+      ],
+      "works": "Letters from the City｜2026",
+      "comment": "把被丟棄物件視為居民寄給城市的信件，以郵票般的構圖提醒觀看者：垃圾也保存了社區生活與交換的痕跡。",
+      "website": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "workPage": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "photo": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "artistStatement": "把被丟棄物件視為居民寄給城市的信件，以郵票般的構圖提醒觀看者：垃圾也保存了社區生活與交換的痕跡。",
+      "artistStatementSource": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "classicTitle": "Letters from the City",
+      "classicImage": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "classicDesc": "把被丟棄物件視為居民寄給城市的信件，以郵票般的構圖提醒觀看者：垃圾也保存了社區生活與交換的痕跡。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-04",
+      "dedupeKey": "art-2026-08-28-thought-matter-care-in-motion",
+      "name": "04｜Thought Matter｜移動中的照護 Care in Motion",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "移動公共藝術",
+        "平面設計",
+        "文字藝術"
+      ],
+      "works": "Care in Motion｜2026",
+      "comment": "以強烈字體與公民圖像放大清潔工作的可見性，將維護城市視為持續移動、可被共同感知的照護行動。",
+      "website": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "workPage": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "photo": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "artistStatement": "以強烈字體與公民圖像放大清潔工作的可見性，將維護城市視為持續移動、可被共同感知的照護行動。",
+      "artistStatementSource": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "classicTitle": "Care in Motion",
+      "classicImage": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "classicDesc": "以強烈字體與公民圖像放大清潔工作的可見性，將維護城市視為持續移動、可被共同感知的照護行動。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-05",
+      "dedupeKey": "art-2026-08-28-catherine-witherwax-game-over",
+      "name": "05｜Catherine Witherwax｜遊戲結束 Game Over",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "移動公共藝術",
+        "彩繪",
+        "流行文化"
+      ],
+      "works": "Game Over｜2026",
+      "comment": "借用吃豆人遊戲語彙串連食物垃圾、街道與鼠患議題，以幽默而直接的視覺節奏凸顯城市清潔的重要性。",
+      "website": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "workPage": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "photo": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "artistStatement": "借用吃豆人遊戲語彙串連食物垃圾、街道與鼠患議題，以幽默而直接的視覺節奏凸顯城市清潔的重要性。",
+      "artistStatementSource": "https://www.nyc.gov/site/dsny/news/26-021/nyc-sanitation-sanitation-foundation-five-new-trucks-art-featuring-local-artists",
+      "classicTitle": "Game Over",
+      "classicImage": "https://www.nyc.gov/assets/dsny/images/content/hero/2026/trucks-of-art.jpg",
+      "classicDesc": "借用吃豆人遊戲語彙串連食物垃圾、街道與鼠患議題，以幽默而直接的視覺節奏凸顯城市清潔的重要性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-06",
+      "dedupeKey": "art-2026-08-28-vida-kuang-bridge-based-actions",
+      "name": "06｜Vida Kuang｜橋樑行動 Bridge-Based Actions",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco",
+      "cityKeywords": [
+        "San Francisco",
+        "舊金山"
+      ],
+      "media": [
+        "海報",
+        "插畫",
+        "交通節點"
+      ],
+      "works": "Bridge-Based Actions｜2026",
+      "comment": "把 1989 年愛滋行動、2016 年 Black Lives Matter 與 2024 年巴勒斯坦聲援的橋梁抗議並置，呈現基礎設施如何成為集體發聲的平台。",
+      "website": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "workPage": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "artistStatement": "把 1989 年愛滋行動、2016 年 Black Lives Matter 與 2024 年巴勒斯坦聲援的橋梁抗議並置，呈現基礎設施如何成為集體發聲的平台。",
+      "artistStatementSource": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicTitle": "Bridge-Based Actions",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicDesc": "把 1989 年愛滋行動、2016 年 Black Lives Matter 與 2024 年巴勒斯坦聲援的橋梁抗議並置，呈現基礎設施如何成為集體發聲的平台。",
+      "relatedByCity": [
+        "competition-2026-08-11-09",
+        "competition-2026-08-26-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-07",
+      "dedupeKey": "art-2026-08-28-vida-kuang-labor-rights",
+      "name": "07｜Vida Kuang｜勞動權利 Labor Rights",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco",
+      "cityKeywords": [
+        "San Francisco",
+        "舊金山"
+      ],
+      "media": [
+        "海報",
+        "插畫",
+        "公共史"
+      ],
+      "works": "Labor Rights｜2026",
+      "comment": "以 1974 年 Jung Sai 成衣工人罷工對照 2024 年 Teamsters 勞動行動，將跨世代的組織經驗帶回每日通勤路徑。",
+      "website": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "workPage": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "artistStatement": "以 1974 年 Jung Sai 成衣工人罷工對照 2024 年 Teamsters 勞動行動，將跨世代的組織經驗帶回每日通勤路徑。",
+      "artistStatementSource": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicTitle": "Labor Rights",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicDesc": "以 1974 年 Jung Sai 成衣工人罷工對照 2024 年 Teamsters 勞動行動，將跨世代的組織經驗帶回每日通勤路徑。",
+      "relatedByCity": [
+        "competition-2026-08-11-09",
+        "competition-2026-08-26-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-08",
+      "dedupeKey": "art-2026-08-28-vida-kuang-iris-canada",
+      "name": "08｜Vida Kuang｜艾瑞絲・加拿大 Iris Canada",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco",
+      "cityKeywords": [
+        "San Francisco",
+        "舊金山"
+      ],
+      "media": [
+        "海報",
+        "插畫",
+        "住宅正義"
+      ],
+      "works": "Iris Canada｜2026",
+      "comment": "以 Iris Canada 的生命與居住抗爭作為住宅正義象徵，讓個人故事在街道海報中指向城市更新與長者居住權。",
+      "website": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "workPage": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "artistStatement": "以 Iris Canada 的生命與居住抗爭作為住宅正義象徵，讓個人故事在街道海報中指向城市更新與長者居住權。",
+      "artistStatementSource": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicTitle": "Iris Canada",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicDesc": "以 Iris Canada 的生命與居住抗爭作為住宅正義象徵，讓個人故事在街道海報中指向城市更新與長者居住權。",
+      "relatedByCity": [
+        "competition-2026-08-11-09",
+        "competition-2026-08-26-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-09",
+      "dedupeKey": "art-2026-08-28-vida-kuang-occupy-general-strike",
+      "name": "09｜Vida Kuang｜佔領／總罷工 Occupy / General Strike",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco",
+      "cityKeywords": [
+        "San Francisco",
+        "舊金山"
+      ],
+      "media": [
+        "海報",
+        "插畫",
+        "公共史"
+      ],
+      "works": "Occupy / General Strike｜2026",
+      "comment": "將 1934 年舊金山大罷工與 2011 年 Occupy 運動並列，顯示不同年代如何反覆以城市公共空間組織共同訴求。",
+      "website": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "workPage": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "artistStatement": "將 1934 年舊金山大罷工與 2011 年 Occupy 運動並列，顯示不同年代如何反覆以城市公共空間組織共同訴求。",
+      "artistStatementSource": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicTitle": "Occupy / General Strike",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicDesc": "將 1934 年舊金山大罷工與 2011 年 Occupy 運動並列，顯示不同年代如何反覆以城市公共空間組織共同訴求。",
+      "relatedByCity": [
+        "competition-2026-08-11-09",
+        "competition-2026-08-26-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "current-2026-08-28-10",
+      "dedupeKey": "art-2026-08-28-vida-kuang-sf-state-student-movements",
+      "name": "10｜Vida Kuang｜舊金山州立大學學生運動 SF State Student Movements",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco",
+      "cityKeywords": [
+        "San Francisco",
+        "舊金山"
+      ],
+      "media": [
+        "海報",
+        "插畫",
+        "學生運動"
+      ],
+      "works": "SF State Student Movements｜2026",
+      "comment": "從 1968 年第三世界解放陣線延伸至 2024 年校園營地，把族群研究、反戰與學生自治的歷史編成一條可閱讀的城市時間線。",
+      "website": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "workPage": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "artistStatement": "從 1968 年第三世界解放陣線延伸至 2024 年校園營地，把族群研究、反戰與學生自治的歷史編成一條可閱讀的城市時間線。",
+      "artistStatementSource": "https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicTitle": "SF State Student Movements",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/living-histories-of-resistance-and-community",
+      "classicDesc": "從 1968 年第三世界解放陣線延伸至 2024 年校園營地，把族群研究、反戰與學生自治的歷史編成一條可閱讀的城市時間線。",
+      "relatedByCity": [
+        "competition-2026-08-11-09",
+        "competition-2026-08-26-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "global-classic-2026-08-28-01",
+      "dedupeKey": "art-2026-08-28-frederick-roth-balto",
+      "name": "全球經典01｜Frederick George Richard Roth｜巴爾托 Balto",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "青銅",
+        "紀念雕塑"
+      ],
+      "works": "Balto｜1925",
+      "comment": "英雄雪橇犬昂首立於岩座，長年被遊客撫摸而發亮的青銅表面，使紀念雕塑同時記錄公共互動與城市情感。",
+      "website": "https://www.nycgovparks.org/parks/central-park/monuments/75",
+      "workPage": "https://www.nycgovparks.org/parks/central-park/monuments/75",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/central-park/monuments/75",
+      "artistStatement": "英雄雪橇犬昂首立於岩座，長年被遊客撫摸而發亮的青銅表面，使紀念雕塑同時記錄公共互動與城市情感。",
+      "artistStatementSource": "https://www.nycgovparks.org/parks/central-park/monuments/75",
+      "classicTitle": "Balto",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/central-park/monuments/75",
+      "classicDesc": "英雄雪橇犬昂首立於岩座，長年被遊客撫摸而發亮的青銅表面，使紀念雕塑同時記錄公共互動與城市情感。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "global-classic-2026-08-28-02",
+      "dedupeKey": "art-2026-08-28-bessie-potter-vonnoh-burnett-fountain",
+      "name": "全球經典02｜Bessie Potter Vonnoh｜伯內特紀念噴泉 Burnett Memorial Fountain",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "青銅",
+        "噴泉",
+        "紀念雕塑"
+      ],
+      "works": "Burnett Memorial Fountain｜1936",
+      "comment": "以孩童、鳥與花園般的噴泉構成向作家 Frances Hodgson Burnett 致意的靜謐場景，將文學想像嵌入公園步行經驗。",
+      "website": "https://www.nycgovparks.org/parks/central-park/monuments/196",
+      "workPage": "https://www.nycgovparks.org/parks/central-park/monuments/196",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/central-park/monuments/196",
+      "artistStatement": "以孩童、鳥與花園般的噴泉構成向作家 Frances Hodgson Burnett 致意的靜謐場景，將文學想像嵌入公園步行經驗。",
+      "artistStatementSource": "https://www.nycgovparks.org/parks/central-park/monuments/196",
+      "classicTitle": "Burnett Memorial Fountain",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/central-park/monuments/196",
+      "classicDesc": "以孩童、鳥與花園般的噴泉構成向作家 Frances Hodgson Burnett 致意的靜謐場景，將文學想像嵌入公園步行經驗。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "global-classic-2026-08-28-03",
+      "dedupeKey": "art-2026-08-28-dolly-hellman-perutz-bird-flying-machine",
+      "name": "全球經典03｜Dolly Hellman Perutz｜飛鳥機器 Bird Flying Machine",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "青銅",
+        "現代雕塑"
+      ],
+      "works": "Bird Flying Machine｜1991",
+      "comment": "鳥首、足部與焊接青銅羽片組成介於生物與機械之間的奇異形體，在遊戲場邊建立可親近的現代雕塑節點。",
+      "website": "https://www.nycgovparks.org/parks/central-park/monuments/118",
+      "workPage": "https://www.nycgovparks.org/parks/central-park/monuments/118",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/central-park/monuments/118",
+      "artistStatement": "鳥首、足部與焊接青銅羽片組成介於生物與機械之間的奇異形體，在遊戲場邊建立可親近的現代雕塑節點。",
+      "artistStatementSource": "https://www.nycgovparks.org/parks/central-park/monuments/118",
+      "classicTitle": "Bird Flying Machine",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/central-park/monuments/118",
+      "classicDesc": "鳥首、足部與焊接青銅羽片組成介於生物與機械之間的奇異形體，在遊戲場邊建立可親近的現代雕塑節點。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "global-classic-2026-08-28-04",
+      "dedupeKey": "art-2026-08-28-ancient-egyptian-obelisk",
+      "name": "全球經典04｜Ancient Egyptian｜埃及方尖碑 Egyptian Obelisk",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "花崗岩",
+        "方尖碑",
+        "歷史紀念物"
+      ],
+      "works": "Egyptian Obelisk（Cleopatra's Needle）｜約西元前 1461；紐約設置 1881",
+      "comment": "古埃及花崗岩方尖碑跨越時代與地理後進入現代公園，讓公共空間同時承載帝國史、遷移史與保存倫理。",
+      "website": "https://www.nycgovparks.org/parks/central-park/monuments/1129",
+      "workPage": "https://www.nycgovparks.org/parks/central-park/monuments/1129",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/central-park/monuments/1129",
+      "artistStatement": "古埃及花崗岩方尖碑跨越時代與地理後進入現代公園，讓公共空間同時承載帝國史、遷移史與保存倫理。",
+      "artistStatementSource": "https://www.nycgovparks.org/parks/central-park/monuments/1129",
+      "classicTitle": "Egyptian Obelisk（Cleopatra's Needle）",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/central-park/monuments/1129",
+      "classicDesc": "古埃及花崗岩方尖碑跨越時代與地理後進入現代公園，讓公共空間同時承載帝國史、遷移史與保存倫理。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "global-classic-2026-08-28-05",
+      "dedupeKey": "art-2026-08-28-ruth-inge-hardison-jackie-robinson",
+      "name": "全球經典05｜Ruth Inge Hardison｜傑基・羅賓森 Jackie Robinson",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Harlem",
+        "哈林"
+      ],
+      "media": [
+        "青銅",
+        "肖像",
+        "紀念雕塑"
+      ],
+      "works": "Jackie Robinson｜1981",
+      "comment": "精簡而有力的半身像紀念 Jackie Robinson 打破職業棒球種族界線的歷史，把體育成就與公民權意義帶入哈林公共地景。",
+      "website": "https://www.nycgovparks.org/parks/historic-harlem-parks/monuments/1356",
+      "workPage": "https://www.nycgovparks.org/parks/historic-harlem-parks/monuments/1356",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/historic-harlem-parks/monuments/1356",
+      "artistStatement": "精簡而有力的半身像紀念 Jackie Robinson 打破職業棒球種族界線的歷史，把體育成就與公民權意義帶入哈林公共地景。",
+      "artistStatementSource": "https://www.nycgovparks.org/parks/historic-harlem-parks/monuments/1356",
+      "classicTitle": "Jackie Robinson",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nycgovparks.org/parks/historic-harlem-parks/monuments/1356",
+      "classicDesc": "精簡而有力的半身像紀念 Jackie Robinson 打破職業棒球種族界線的歷史，把體育成就與公民權意義帶入哈林公共地景。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "german-classic-2026-08-28-01",
+      "dedupeKey": "art-2026-08-28-lothar-baumgarten-o-t-1999",
+      "name": "德國經典01｜Lothar Baumgarten｜無題 o. T.",
+      "tier": "德國經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "水磨石",
+        "彩釉陶板",
+        "建築整合"
+      ],
+      "works": "o. T.｜1999",
+      "comment": "以水磨石地坪與 180 片彩釉陶板把語言、地理與權力關係嵌入聯邦總統府，使建築通行空間成為可被踩踏閱讀的政治地圖。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-17",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-17",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-17",
+      "artistStatement": "以水磨石地坪與 180 片彩釉陶板把語言、地理與權力關係嵌入聯邦總統府，使建築通行空間成為可被踩踏閱讀的政治地圖。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-17",
+      "classicTitle": "o. T.",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-17",
+      "classicDesc": "以水磨石地坪與 180 片彩釉陶板把語言、地理與權力關係嵌入聯邦總統府，使建築通行空間成為可被踩踏閱讀的政治地圖。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "german-classic-2026-08-28-02",
+      "dedupeKey": "art-2026-08-28-rebecca-horn-die-drei-grazien",
+      "name": "德國經典02｜Rebecca Horn｜三美神 Die drei Grazien",
+      "tier": "德國經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "黃銅",
+        "動力裝置",
+        "霓虹",
+        "鏡面"
+      ],
+      "works": "Die drei Grazien｜2000",
+      "comment": "三組黃銅桿、馬達、藍色霓虹與鏡面形成緩慢而儀式性的動力編舞，為聯邦參議院的制度空間引入身體感與不穩定反射。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-drei-grazien",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-drei-grazien",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-drei-grazien",
+      "artistStatement": "三組黃銅桿、馬達、藍色霓虹與鏡面形成緩慢而儀式性的動力編舞，為聯邦參議院的制度空間引入身體感與不穩定反射。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-drei-grazien",
+      "classicTitle": "Die drei Grazien",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-drei-grazien",
+      "classicDesc": "三組黃銅桿、馬達、藍色霓虹與鏡面形成緩慢而儀式性的動力編舞，為聯邦參議院的制度空間引入身體感與不穩定反射。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "german-classic-2026-08-28-03",
+      "dedupeKey": "art-2026-08-28-sunkoo-kang-statue-of-limitations",
+      "name": "德國經典03｜Sunkoo Kang｜限制之像 Statue of Limitations",
+      "tier": "德國經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Humboldt Forum",
+        "洪堡論壇"
+      ],
+      "media": [
+        "雕塑",
+        "歷史介入",
+        "殖民記憶"
+      ],
+      "works": "Statue of Limitations｜2020",
+      "comment": "以尚未完成般的雕像語彙介入洪堡論壇，讓殖民收藏、紀念物權力與缺席的歷史成為公共空間中無法被簡化的問題。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statue-of-limitations",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statue-of-limitations",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statue-of-limitations",
+      "artistStatement": "以尚未完成般的雕像語彙介入洪堡論壇，讓殖民收藏、紀念物權力與缺席的歷史成為公共空間中無法被簡化的問題。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statue-of-limitations",
+      "classicTitle": "Statue of Limitations",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statue-of-limitations",
+      "classicDesc": "以尚未完成般的雕像語彙介入洪堡論壇，讓殖民收藏、紀念物權力與缺席的歷史成為公共空間中無法被簡化的問題。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "german-classic-2026-08-28-04",
+      "dedupeKey": "art-2026-08-28-annabau-via-lewandowsky-nagelschatten",
+      "name": "德國經典04｜ANNABAU × Via Lewandowsky｜無題（釘影） o. T.（Nagelschatten）",
+      "tier": "德國經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "光影",
+        "建築整合",
+        "觀念藝術"
+      ],
+      "works": "o. T.（Nagelschatten）｜2020",
+      "comment": "以建築構件投下如巨大釘子的陰影，作品不另佔據空間，而是在日照變化中讓牆面、時間與觀看角度共同完成形象。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "artistStatement": "以建築構件投下如巨大釘子的陰影，作品不另佔據空間，而是在日照變化中讓牆面、時間與觀看角度共同完成形象。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "classicTitle": "o. T.（Nagelschatten）",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "classicDesc": "以建築構件投下如巨大釘子的陰影，作品不另佔據空間，而是在日照變化中讓牆面、時間與觀看角度共同完成形象。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-28",
+      "id": "german-classic-2026-08-28-05",
+      "dedupeKey": "art-2026-08-28-otto-herbert-hajek-platzartikulation",
+      "name": "德國經典05｜Otto Herbert Hajek｜廣場構成 Platzartikulation",
+      "tier": "德國經典",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波恩"
+      ],
+      "media": [
+        "混凝土",
+        "鋼",
+        "彩色瀝青",
+        "廣場藝術"
+      ],
+      "works": "Platzartikulation｜1976",
+      "comment": "以混凝土、石材、彩色瀝青與鋼構把廣場切分為可行走的色彩秩序，使雕塑不再是單件物體，而成為組織城市活動的空間系統。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
+      "artistStatement": "以混凝土、石材、彩色瀝青與鋼構把廣場切分為可行走的色彩秩序，使雕塑不再是單件物體，而成為組織城市活動的空間系統。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
+      "classicTitle": "Platzartikulation",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
+      "classicDesc": "以混凝土、石材、彩色瀝青與鋼構把廣場切分為可行走的色彩秩序，使雕塑不再是單件物體，而成為組織城市活動的空間系統。",
+      "relatedByCity": []
+    }
+  ]
+}
