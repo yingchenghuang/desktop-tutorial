@@ -1,21 +1,21 @@
 {
   "meta": {
-    "generatedAt": "2026-08-28T05:00:00+08:00",
+    "generatedAt": "2026-08-29T04:53:24+08:00",
     "timezone": "Asia/Taipei",
+    "date": "2026-08-29",
     "dailyTarget": 5,
-    "source": "各主辦機構官方徵件頁",
-    "activeEntries": 72,
+    "source": "各主辦機構、地方政府或專業藝術家協會官方頁",
+    "activeEntries": 77,
     "addedToday": 5,
     "expiredRemoved": 0,
-    "note": "保留 67 筆未截止既有資料，移除 0 筆逾期；今日新增 5 筆已逐頁驗證的德國公共藝術徵選。",
+    "note": "今日新增 5 筆已逐頁驗證的公開徵選，其中德國 3 筆；移除逾期 0 筆。",
     "linkAudit": {
-      "checkedAt": "2026-08-28T05:00:00+08:00",
+      "checkedAt": "2026-08-29T04:53:24+08:00",
       "missingCityKeywords": 0,
       "invalidRelatedByCity": 0,
       "uniqueNewSourcesChecked": 5,
-      "blockedSourceReplaced": 1
-    },
-    "date": "2026-08-28"
+      "blockedSourceReplaced": 0
+    }
   },
   "entries": [
     {
@@ -56,8 +56,8 @@
       "budget": "€250,000；決選提案費每組 €3,000",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "classic-german-2026-08-14-02",
-        "classic-german-2026-08-25-01"
+        "classic-german-2026-08-25-01",
+        "classic-german-2026-08-14-02"
       ]
     },
     {
@@ -97,7 +97,9 @@
       "eligibility": "資格細節依正式競賽文件",
       "budget": "€250,000；第二階段提案費每組 €3,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -137,45 +139,49 @@
       "budget": "總額 €300,000；最多兩件、每件上限 €150,000",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "classic-german-2026-08-12-02",
-        "classic-german-2026-08-15-01",
-        "classic-german-2026-08-15-02",
-        "classic-german-2026-08-15-05",
-        "classic-german-2026-08-20-01",
-        "classic-german-2026-08-20-02",
-        "classic-german-2026-08-20-03",
-        "classic-german-2026-08-20-04",
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
         "classic-german-2026-08-21-03",
         "classic-german-2026-08-21-04",
         "classic-german-2026-08-21-05",
-        "german-classic-2026-08-22-01",
-        "german-classic-2026-08-22-02",
-        "german-classic-2026-08-22-03",
-        "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "german-classic-2026-08-23-01",
-        "german-classic-2026-08-23-02",
-        "german-classic-2026-08-23-03",
-        "german-classic-2026-08-23-04",
-        "german-classic-2026-08-23-05",
+        "classic-german-2026-08-20-01",
+        "classic-german-2026-08-20-02",
+        "classic-german-2026-08-20-03",
+        "classic-german-2026-08-20-04",
+        "classic-german-2026-08-27-01",
+        "classic-german-2026-08-27-03",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-12-02",
+        "classic-german-2026-08-28-01",
+        "classic-german-2026-08-28-02",
+        "classic-german-2026-08-28-03",
+        "classic-german-2026-08-28-04",
         "german-classic-2026-08-24-01",
         "german-classic-2026-08-24-02",
         "german-classic-2026-08-24-03",
         "german-classic-2026-08-24-04",
         "german-classic-2026-08-24-05",
-        "classic-german-2026-08-25-02",
-        "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-27-01",
-        "classic-german-2026-08-27-03",
-        "classic-german-2026-08-28-01",
-        "classic-german-2026-08-28-02",
-        "classic-german-2026-08-28-03",
-        "classic-german-2026-08-28-04"
+        "classic-german-2026-08-15-01",
+        "classic-german-2026-08-15-02",
+        "classic-german-2026-08-15-05",
+        "german-classic-2026-08-23-01",
+        "german-classic-2026-08-23-02",
+        "german-classic-2026-08-23-03",
+        "german-classic-2026-08-23-04",
+        "german-classic-2026-08-23-05",
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04"
       ]
     },
     {
@@ -215,7 +221,9 @@
       "eligibility": "未公開",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -254,7 +262,9 @@
       "eligibility": "未公開",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -294,7 +304,9 @@
       "eligibility": "現居奧地利的專業藝術家",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -380,7 +392,9 @@
       "eligibility": "藝術家自有、可直接安裝且適合無人看管戶外場域的原創作品",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -419,7 +433,9 @@
       "eligibility": "完整地域與經驗資格未公開",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -458,7 +474,9 @@
       "eligibility": "18 歲以上藝術家；Northern Virginia 居民優先",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -497,7 +515,9 @@
       "eligibility": "全球 18 歲以上藝術家；作品材料須適合長期展示",
       "budget": "首獎 US$45,000；銀獎 US$25,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -537,10 +557,6 @@
       "budget": "每案最高 US$5,000",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "dynamic-2026-08-12-03",
-        "dynamic-2026-08-12-06",
-        "dynamic-2026-08-12-10",
-        "classic-global-2026-08-15-02",
         "dynamic-2026-08-21-01",
         "dynamic-2026-08-21-02",
         "dynamic-2026-08-21-03",
@@ -551,21 +567,25 @@
         "dynamic-2026-08-21-08",
         "dynamic-2026-08-21-09",
         "dynamic-2026-08-21-10",
-        "dynamic-2026-08-22-07",
-        "dynamic-2026-08-22-08",
-        "dynamic-2026-08-22-09",
-        "dynamic-2026-08-22-10",
+        "dynamic-2026-08-26-03",
+        "dynamic-2026-08-26-04",
+        "dynamic-2026-08-26-05",
+        "dynamic-2026-08-25-01",
+        "dynamic-2026-08-25-02",
+        "dynamic-2026-08-12-03",
+        "dynamic-2026-08-12-06",
+        "dynamic-2026-08-12-10",
+        "classic-global-2026-08-15-02",
         "dynamic-2026-08-23-01",
         "dynamic-2026-08-23-02",
         "dynamic-2026-08-23-03",
         "dynamic-2026-08-23-04",
         "dynamic-2026-08-23-05",
         "dynamic-2026-08-23-10",
-        "dynamic-2026-08-25-01",
-        "dynamic-2026-08-25-02",
-        "dynamic-2026-08-26-03",
-        "dynamic-2026-08-26-04",
-        "dynamic-2026-08-26-05"
+        "dynamic-2026-08-22-07",
+        "dynamic-2026-08-22-08",
+        "dynamic-2026-08-22-09",
+        "dynamic-2026-08-22-10"
       ]
     },
     {
@@ -605,7 +625,9 @@
       "eligibility": "專業藝術家與藝術團隊",
       "budget": "US$165,000；最多三組決選者各獲 US$1,500 及旅宿",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -645,7 +667,9 @@
       "eligibility": "藝術家與藝術團隊",
       "budget": "US$100,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -684,7 +708,9 @@
       "eligibility": "具大型建築整合磁磚藝術經驗的成年專業藝術家或團隊",
       "budget": "US$348,000；三組入圍者各獲 US$1,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -723,7 +749,9 @@
       "eligibility": "專業藝術家或藝術家團隊；詳細資格依官方 RFQ",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -765,16 +793,18 @@
       "budget": "未公開",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "dynamic-2026-08-12-01",
-        "dynamic-2026-08-12-02",
-        "dynamic-2026-08-12-04",
-        "dynamic-2026-08-12-05",
-        "dynamic-2026-08-12-07",
-        "dynamic-2026-08-12-08",
-        "dynamic-2026-08-12-09",
-        "classic-global-2026-08-12-02",
-        "classic-global-2026-08-12-03",
-        "classic-global-2026-08-12-04",
+        "classic-global-2026-08-21-01",
+        "classic-global-2026-08-21-02",
+        "classic-global-2026-08-21-03",
+        "classic-global-2026-08-21-04",
+        "classic-global-2026-08-21-05",
+        "classic-global-2026-08-20-03",
+        "current-2026-08-27-02",
+        "current-2026-08-27-04",
+        "dynamic-2026-08-25-09",
+        "dynamic-2026-08-25-10",
+        "classic-global-2026-08-25-02",
+        "classic-global-2026-08-25-04",
         "dynamic-2026-08-13-01",
         "dynamic-2026-08-13-02",
         "dynamic-2026-08-13-03",
@@ -786,37 +816,16 @@
         "dynamic-2026-08-13-09",
         "dynamic-2026-08-13-10",
         "classic-global-2026-08-13-05",
-        "dynamic-2026-08-14-02",
-        "dynamic-2026-08-14-08",
-        "dynamic-2026-08-14-09",
-        "dynamic-2026-08-14-10",
-        "dynamic-2026-08-15-01",
-        "dynamic-2026-08-15-02",
-        "classic-global-2026-08-20-03",
-        "classic-global-2026-08-21-01",
-        "classic-global-2026-08-21-02",
-        "classic-global-2026-08-21-03",
-        "classic-global-2026-08-21-04",
-        "classic-global-2026-08-21-05",
-        "dynamic-2026-08-22-01",
-        "dynamic-2026-08-22-02",
-        "dynamic-2026-08-22-03",
-        "dynamic-2026-08-22-04",
-        "dynamic-2026-08-22-06",
-        "global-classic-2026-08-22-01",
-        "global-classic-2026-08-22-02",
-        "global-classic-2026-08-22-03",
-        "global-classic-2026-08-22-04",
-        "global-classic-2026-08-22-05",
-        "dynamic-2026-08-23-06",
-        "dynamic-2026-08-23-07",
-        "dynamic-2026-08-23-08",
-        "dynamic-2026-08-23-09",
-        "global-classic-2026-08-23-01",
-        "global-classic-2026-08-23-02",
-        "global-classic-2026-08-23-03",
-        "global-classic-2026-08-23-04",
-        "global-classic-2026-08-23-05",
+        "dynamic-2026-08-12-01",
+        "dynamic-2026-08-12-02",
+        "dynamic-2026-08-12-04",
+        "dynamic-2026-08-12-05",
+        "dynamic-2026-08-12-07",
+        "dynamic-2026-08-12-08",
+        "dynamic-2026-08-12-09",
+        "classic-global-2026-08-12-02",
+        "classic-global-2026-08-12-03",
+        "classic-global-2026-08-12-04",
         "dynamic-2026-08-24-01",
         "dynamic-2026-08-24-02",
         "dynamic-2026-08-24-03",
@@ -832,12 +841,31 @@
         "global-classic-2026-08-24-03",
         "global-classic-2026-08-24-04",
         "global-classic-2026-08-24-05",
-        "dynamic-2026-08-25-09",
-        "dynamic-2026-08-25-10",
-        "classic-global-2026-08-25-02",
-        "classic-global-2026-08-25-04",
-        "current-2026-08-27-02",
-        "current-2026-08-27-04"
+        "dynamic-2026-08-15-01",
+        "dynamic-2026-08-15-02",
+        "dynamic-2026-08-23-06",
+        "dynamic-2026-08-23-07",
+        "dynamic-2026-08-23-08",
+        "dynamic-2026-08-23-09",
+        "global-classic-2026-08-23-01",
+        "global-classic-2026-08-23-02",
+        "global-classic-2026-08-23-03",
+        "global-classic-2026-08-23-04",
+        "global-classic-2026-08-23-05",
+        "dynamic-2026-08-22-01",
+        "dynamic-2026-08-22-02",
+        "dynamic-2026-08-22-03",
+        "dynamic-2026-08-22-04",
+        "dynamic-2026-08-22-06",
+        "global-classic-2026-08-22-01",
+        "global-classic-2026-08-22-02",
+        "global-classic-2026-08-22-03",
+        "global-classic-2026-08-22-04",
+        "global-classic-2026-08-22-05",
+        "dynamic-2026-08-14-02",
+        "dynamic-2026-08-14-08",
+        "dynamic-2026-08-14-09",
+        "dynamic-2026-08-14-10"
       ]
     },
     {
@@ -877,7 +905,9 @@
       "eligibility": "18 歲以上專業藝術家或團隊；公開申請，優先考量 Rancho Cucamonga／Inland Empire 地區",
       "budget": "每座標記 US$1,500（含設計、材料與施作）",
       "applicationFee": "無",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -917,7 +947,9 @@
       "eligibility": "藝術家、建築師、設計師、建造者等創意團隊；全員滿 18 歲，主申請人須居住於 Roaring Fork Valley",
       "budget": "總預算 US$50,000；三組決選各 US$1,000 提案費",
       "applicationFee": "無",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -956,7 +988,9 @@
       "eligibility": "亞利桑那州藝術家或藝術家團隊",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -996,7 +1030,9 @@
       "eligibility": "West Valley 藝術家",
       "budget": "提供藝術家酬金、用品與材料；金額未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1035,7 +1071,9 @@
       "eligibility": "Surprise 在地學生藝術社團或科學社團；社團領導、教育者及直接合作的藝術家可申請",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1074,7 +1112,9 @@
       "eligibility": "居住於 Calgary / Treaty 7 地區、年滿 18 歲，具公共藝術或社區實務之藝術家",
       "budget": "簡報 C$541；準備 C$400；C$40/小時；材料最高 C$200",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1116,7 +1156,9 @@
       "eligibility": "國際藝術家、電影創作者及跨域團隊；作品 2–20 分鐘",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1157,7 +1199,9 @@
       "eligibility": "專業藝術家或藝術家團隊；完整地域與經驗資格依 RFQ",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1198,7 +1242,9 @@
       "eligibility": "加拿大藝術家或藝術家團隊",
       "budget": "多個項目；金額依各 RFQ；入圍者有提案酬金",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1238,7 +1284,9 @@
       "eligibility": "藝術家、創意工作者、建築師、設計師、團體及 First Nations 創作者",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1278,7 +1326,9 @@
       "eligibility": "藝術家或藝術家團隊；完整資格依官方 RFP",
       "budget": "US$1,000–230,000，依作品項目",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1317,7 +1367,9 @@
       "eligibility": "具相近尺度公共藝術經驗的藝術家或團隊",
       "budget": "US$80,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1357,7 +1409,9 @@
       "eligibility": "居住、工作於 Westminster 或與社區具密切連結的藝術家、團體與學校團隊",
       "budget": "每件 US$750 材料津貼",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1397,7 +1451,9 @@
       "eligibility": "專業藝術家或藝術家團隊；完整地域資格依 RFQ",
       "budget": "US$150,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1436,7 +1492,9 @@
       "eligibility": "Frisco 與周邊地區藝術家；市府員工及遴選相關人員依規定不得參加",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1479,7 +1537,9 @@
       "relatedByCity": [
         "classic-german-2026-08-12-01",
         "classic-german-2026-08-15-03",
-        "classic-german-2026-08-15-04"
+        "classic-german-2026-08-15-04",
+        "current-2026-08-29-09",
+        "current-2026-08-29-10"
       ]
     },
     {
@@ -1521,7 +1581,9 @@
       "eligibility": "各藝術領域的藝術家與藝術團隊；須提出與學生及教師共同發展的參與式計畫",
       "budget": "藝術家費 €4,400，另有材料與旅費預算",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1561,7 +1623,9 @@
       "eligibility": "國內外藝術家、創作者、設計師與建築師",
       "budget": "首獎 €5,000、二獎 €3,000、三獎 €1,000；另承諾購藏並實現獲選設計",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1601,7 +1665,9 @@
       "eligibility": "英國居民，不限年齡；原創 2D 或 3D 作品，攝影除外",
       "budget": "成人組首獎 £250、第二名 £100；未成年組首獎 £100、第二名 £50；另有觀眾票選 £50 美術材料券",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1641,7 +1707,9 @@
       "eligibility": "阿賓登在地藝術家、攝影者、內容創作者與其他創作者；須為二維作品",
       "budget": "未公開；入選實體展或數位展覽",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -1679,45 +1747,49 @@
       "budget": "官方頁未列本輪單筆金額",
       "applicationFee": "免費",
       "relatedByCity": [
-        "classic-german-2026-08-12-02",
-        "classic-german-2026-08-15-01",
-        "classic-german-2026-08-15-02",
-        "classic-german-2026-08-15-05",
-        "classic-german-2026-08-20-01",
-        "classic-german-2026-08-20-02",
-        "classic-german-2026-08-20-03",
-        "classic-german-2026-08-20-04",
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
         "classic-german-2026-08-21-03",
         "classic-german-2026-08-21-04",
         "classic-german-2026-08-21-05",
-        "german-classic-2026-08-22-01",
-        "german-classic-2026-08-22-02",
-        "german-classic-2026-08-22-03",
-        "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "german-classic-2026-08-23-01",
-        "german-classic-2026-08-23-02",
-        "german-classic-2026-08-23-03",
-        "german-classic-2026-08-23-04",
-        "german-classic-2026-08-23-05",
+        "classic-german-2026-08-20-01",
+        "classic-german-2026-08-20-02",
+        "classic-german-2026-08-20-03",
+        "classic-german-2026-08-20-04",
+        "classic-german-2026-08-27-01",
+        "classic-german-2026-08-27-03",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-12-02",
+        "classic-german-2026-08-28-01",
+        "classic-german-2026-08-28-02",
+        "classic-german-2026-08-28-03",
+        "classic-german-2026-08-28-04",
         "german-classic-2026-08-24-01",
         "german-classic-2026-08-24-02",
         "german-classic-2026-08-24-03",
         "german-classic-2026-08-24-04",
         "german-classic-2026-08-24-05",
-        "classic-german-2026-08-25-02",
-        "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-27-01",
-        "classic-german-2026-08-27-03",
-        "classic-german-2026-08-28-01",
-        "classic-german-2026-08-28-02",
-        "classic-german-2026-08-28-03",
-        "classic-german-2026-08-28-04"
+        "classic-german-2026-08-15-01",
+        "classic-german-2026-08-15-02",
+        "classic-german-2026-08-15-05",
+        "german-classic-2026-08-23-01",
+        "german-classic-2026-08-23-02",
+        "german-classic-2026-08-23-03",
+        "german-classic-2026-08-23-04",
+        "german-classic-2026-08-23-05",
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04"
       ]
     },
     {
@@ -1756,45 +1828,49 @@
       "budget": "依城市與期程提供駐村獎助",
       "applicationFee": "免費",
       "relatedByCity": [
-        "classic-german-2026-08-12-02",
-        "classic-german-2026-08-15-01",
-        "classic-german-2026-08-15-02",
-        "classic-german-2026-08-15-05",
-        "classic-german-2026-08-20-01",
-        "classic-german-2026-08-20-02",
-        "classic-german-2026-08-20-03",
-        "classic-german-2026-08-20-04",
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
         "classic-german-2026-08-21-03",
         "classic-german-2026-08-21-04",
         "classic-german-2026-08-21-05",
-        "german-classic-2026-08-22-01",
-        "german-classic-2026-08-22-02",
-        "german-classic-2026-08-22-03",
-        "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "german-classic-2026-08-23-01",
-        "german-classic-2026-08-23-02",
-        "german-classic-2026-08-23-03",
-        "german-classic-2026-08-23-04",
-        "german-classic-2026-08-23-05",
+        "classic-german-2026-08-20-01",
+        "classic-german-2026-08-20-02",
+        "classic-german-2026-08-20-03",
+        "classic-german-2026-08-20-04",
+        "classic-german-2026-08-27-01",
+        "classic-german-2026-08-27-03",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-12-02",
+        "classic-german-2026-08-28-01",
+        "classic-german-2026-08-28-02",
+        "classic-german-2026-08-28-03",
+        "classic-german-2026-08-28-04",
         "german-classic-2026-08-24-01",
         "german-classic-2026-08-24-02",
         "german-classic-2026-08-24-03",
         "german-classic-2026-08-24-04",
         "german-classic-2026-08-24-05",
-        "classic-german-2026-08-25-02",
-        "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-27-01",
-        "classic-german-2026-08-27-03",
-        "classic-german-2026-08-28-01",
-        "classic-german-2026-08-28-02",
-        "classic-german-2026-08-28-03",
-        "classic-german-2026-08-28-04"
+        "classic-german-2026-08-15-01",
+        "classic-german-2026-08-15-02",
+        "classic-german-2026-08-15-05",
+        "german-classic-2026-08-23-01",
+        "german-classic-2026-08-23-02",
+        "german-classic-2026-08-23-03",
+        "german-classic-2026-08-23-04",
+        "german-classic-2026-08-23-05",
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04"
       ]
     },
     {
@@ -1833,45 +1909,49 @@
       "budget": "本輪總額 €620,000",
       "applicationFee": "免費",
       "relatedByCity": [
-        "classic-german-2026-08-12-02",
-        "classic-german-2026-08-15-01",
-        "classic-german-2026-08-15-02",
-        "classic-german-2026-08-15-05",
-        "classic-german-2026-08-20-01",
-        "classic-german-2026-08-20-02",
-        "classic-german-2026-08-20-03",
-        "classic-german-2026-08-20-04",
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
         "classic-german-2026-08-21-03",
         "classic-german-2026-08-21-04",
         "classic-german-2026-08-21-05",
-        "german-classic-2026-08-22-01",
-        "german-classic-2026-08-22-02",
-        "german-classic-2026-08-22-03",
-        "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "german-classic-2026-08-23-01",
-        "german-classic-2026-08-23-02",
-        "german-classic-2026-08-23-03",
-        "german-classic-2026-08-23-04",
-        "german-classic-2026-08-23-05",
+        "classic-german-2026-08-20-01",
+        "classic-german-2026-08-20-02",
+        "classic-german-2026-08-20-03",
+        "classic-german-2026-08-20-04",
+        "classic-german-2026-08-27-01",
+        "classic-german-2026-08-27-03",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-12-02",
+        "classic-german-2026-08-28-01",
+        "classic-german-2026-08-28-02",
+        "classic-german-2026-08-28-03",
+        "classic-german-2026-08-28-04",
         "german-classic-2026-08-24-01",
         "german-classic-2026-08-24-02",
         "german-classic-2026-08-24-03",
         "german-classic-2026-08-24-04",
         "german-classic-2026-08-24-05",
-        "classic-german-2026-08-25-02",
-        "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-27-01",
-        "classic-german-2026-08-27-03",
-        "classic-german-2026-08-28-01",
-        "classic-german-2026-08-28-02",
-        "classic-german-2026-08-28-03",
-        "classic-german-2026-08-28-04"
+        "classic-german-2026-08-15-01",
+        "classic-german-2026-08-15-02",
+        "classic-german-2026-08-15-05",
+        "german-classic-2026-08-23-01",
+        "german-classic-2026-08-23-02",
+        "german-classic-2026-08-23-03",
+        "german-classic-2026-08-23-04",
+        "german-classic-2026-08-23-05",
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04"
       ]
     },
     {
@@ -1910,8 +1990,13 @@
       "budget": "未提供；屬審議申請",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "dynamic-2026-08-14-01",
-        "dynamic-2026-08-14-03",
+        "classic-global-2026-08-20-05",
+        "dynamic-2026-08-25-03",
+        "dynamic-2026-08-25-04",
+        "dynamic-2026-08-25-05",
+        "dynamic-2026-08-25-06",
+        "dynamic-2026-08-25-07",
+        "dynamic-2026-08-25-08",
         "dynamic-2026-08-15-03",
         "dynamic-2026-08-15-04",
         "dynamic-2026-08-15-05",
@@ -1920,13 +2005,19 @@
         "dynamic-2026-08-15-08",
         "dynamic-2026-08-15-09",
         "dynamic-2026-08-15-10",
-        "classic-global-2026-08-20-05",
-        "dynamic-2026-08-25-03",
-        "dynamic-2026-08-25-04",
-        "dynamic-2026-08-25-05",
-        "dynamic-2026-08-25-06",
-        "dynamic-2026-08-25-07",
-        "dynamic-2026-08-25-08"
+        "dynamic-2026-08-14-01",
+        "dynamic-2026-08-14-03",
+        "current-2026-08-29-01",
+        "current-2026-08-29-02",
+        "current-2026-08-29-03",
+        "current-2026-08-29-04",
+        "current-2026-08-29-05",
+        "current-2026-08-29-06",
+        "classic-global-2026-08-29-01",
+        "classic-global-2026-08-29-02",
+        "classic-global-2026-08-29-03",
+        "classic-global-2026-08-29-04",
+        "classic-global-2026-08-29-05"
       ]
     },
     {
@@ -1967,8 +2058,13 @@
       "budget": "依官方指南核定",
       "applicationFee": "免費",
       "relatedByCity": [
-        "dynamic-2026-08-14-01",
-        "dynamic-2026-08-14-03",
+        "classic-global-2026-08-20-05",
+        "dynamic-2026-08-25-03",
+        "dynamic-2026-08-25-04",
+        "dynamic-2026-08-25-05",
+        "dynamic-2026-08-25-06",
+        "dynamic-2026-08-25-07",
+        "dynamic-2026-08-25-08",
         "dynamic-2026-08-15-03",
         "dynamic-2026-08-15-04",
         "dynamic-2026-08-15-05",
@@ -1977,13 +2073,19 @@
         "dynamic-2026-08-15-08",
         "dynamic-2026-08-15-09",
         "dynamic-2026-08-15-10",
-        "classic-global-2026-08-20-05",
-        "dynamic-2026-08-25-03",
-        "dynamic-2026-08-25-04",
-        "dynamic-2026-08-25-05",
-        "dynamic-2026-08-25-06",
-        "dynamic-2026-08-25-07",
-        "dynamic-2026-08-25-08"
+        "dynamic-2026-08-14-01",
+        "dynamic-2026-08-14-03",
+        "current-2026-08-29-01",
+        "current-2026-08-29-02",
+        "current-2026-08-29-03",
+        "current-2026-08-29-04",
+        "current-2026-08-29-05",
+        "current-2026-08-29-06",
+        "classic-global-2026-08-29-01",
+        "classic-global-2026-08-29-02",
+        "classic-global-2026-08-29-03",
+        "classic-global-2026-08-29-04",
+        "classic-global-2026-08-29-05"
       ]
     },
     {
@@ -2021,7 +2123,9 @@
       "eligibility": "全球視覺藝術家；提案須回應 Carlernst Kürten 或其作品",
       "budget": "每月 €1,000，住宿六至九個月",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2058,7 +2162,9 @@
       "eligibility": "不超過35歲，作品呈現歐洲城市與鄉村之間的視野",
       "budget": "€6,000 加個人專輯出版",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2095,7 +2201,9 @@
       "eligibility": "出生於 Hessen、2025年前居住 Hessen，或畢業於 Hessen 藝術院校之視覺藝術家",
       "budget": "12個旅行、7個駐村及2個日本組合獎助；個別金額依指南",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2132,7 +2240,9 @@
       "eligibility": "已完成且可在沿海戶外環境展示至少兩年的雕塑；每案一件",
       "budget": "每件兩年借展 US$3,000",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2169,7 +2279,9 @@
       "eligibility": "全球視覺藝術家；提交三幅可製成大型戶外圖像的作品",
       "budget": "US$400 展示與使用費；製作安裝費由主辦負擔",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2208,7 +2320,9 @@
       "eligibility": "居住於 Bayerisch Schwaben、出生於該區、指定 BBK 協會會員，或展期內在該區獎助／研修的藝術家；每人最多兩件近三年作品",
       "budget": "三獎：€3,000、€2,500、€2,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2245,7 +2359,9 @@
       "eligibility": "全球專業藝術家；作品須屬原創版畫，包含電腦印刷及傳統版畫技法，作品完成於 2023 年或之後",
       "budget": "獎金 €3,000、€2,000、€1,500；在學藝術家獎 €1,000；觀眾獎 €200",
       "applicationFee": "€40（進入第二階段並送交原作時）",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2285,45 +2401,49 @@
       "budget": "個人圖錄最高 €27,000；個人計畫 €35,000；團體計畫 €55,000",
       "applicationFee": "免費",
       "relatedByCity": [
-        "classic-german-2026-08-12-02",
-        "classic-german-2026-08-15-01",
-        "classic-german-2026-08-15-02",
-        "classic-german-2026-08-15-05",
-        "classic-german-2026-08-20-01",
-        "classic-german-2026-08-20-02",
-        "classic-german-2026-08-20-03",
-        "classic-german-2026-08-20-04",
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
         "classic-german-2026-08-21-03",
         "classic-german-2026-08-21-04",
         "classic-german-2026-08-21-05",
-        "german-classic-2026-08-22-01",
-        "german-classic-2026-08-22-02",
-        "german-classic-2026-08-22-03",
-        "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "german-classic-2026-08-23-01",
-        "german-classic-2026-08-23-02",
-        "german-classic-2026-08-23-03",
-        "german-classic-2026-08-23-04",
-        "german-classic-2026-08-23-05",
+        "classic-german-2026-08-20-01",
+        "classic-german-2026-08-20-02",
+        "classic-german-2026-08-20-03",
+        "classic-german-2026-08-20-04",
+        "classic-german-2026-08-27-01",
+        "classic-german-2026-08-27-03",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-12-02",
+        "classic-german-2026-08-28-01",
+        "classic-german-2026-08-28-02",
+        "classic-german-2026-08-28-03",
+        "classic-german-2026-08-28-04",
         "german-classic-2026-08-24-01",
         "german-classic-2026-08-24-02",
         "german-classic-2026-08-24-03",
         "german-classic-2026-08-24-04",
         "german-classic-2026-08-24-05",
-        "classic-german-2026-08-25-02",
-        "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-27-01",
-        "classic-german-2026-08-27-03",
-        "classic-german-2026-08-28-01",
-        "classic-german-2026-08-28-02",
-        "classic-german-2026-08-28-03",
-        "classic-german-2026-08-28-04"
+        "classic-german-2026-08-15-01",
+        "classic-german-2026-08-15-02",
+        "classic-german-2026-08-15-05",
+        "german-classic-2026-08-23-01",
+        "german-classic-2026-08-23-02",
+        "german-classic-2026-08-23-03",
+        "german-classic-2026-08-23-04",
+        "german-classic-2026-08-23-05",
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04"
       ]
     },
     {
@@ -2364,8 +2484,8 @@
       "budget": "€10,000；另可提供每月最高 €500 住宿／交通補助及免費工作室",
       "applicationFee": "免費",
       "relatedByCity": [
-        "classic-german-2026-08-14-03",
-        "classic-german-2026-08-20-05"
+        "classic-german-2026-08-20-05",
+        "classic-german-2026-08-14-03"
       ]
     },
     {
@@ -2405,7 +2525,9 @@
       "eligibility": "從事雕塑、裝置或物件藝術的專業女性藝術家，且為十二歲以下子女之母",
       "budget": "€500；住宿與兒童照護免費，另提供工作坊與個別材料協助",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2443,7 +2565,9 @@
       "eligibility": "年滿 18 歲、目前住宅或工作室位於科羅拉多州，並具大型耐久戶外雕塑經驗的專業藝術家或團隊",
       "budget": "US$74,500；入圍者提案費 US$250",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2481,7 +2605,9 @@
       "eligibility": "年滿 18 歲之全美藝術家或團隊皆可申請；主辦方優先考量當地、區域及科羅拉多州藝術家",
       "budget": "最高 US$100,000",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2519,7 +2645,9 @@
       "eligibility": "具紀念性公共藝術或相當大型場域作品經驗的合格藝術家／藝術家主導團隊；全美徵件",
       "budget": "US$200,000；入圍者提案費 US$2,500",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2557,7 +2685,9 @@
       "eligibility": "居住於美國的藝術家或團隊；Spaceport America 與 New Mexico Department of Cultural Affairs 現職員工及其直系家屬不得申請",
       "budget": "US$300,000；入圍者提案費 US$4,000，另有旅費補助",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2595,7 +2725,9 @@
       "eligibility": "具設計、製作及安裝室內公共藝術能力的合格藝術家或團隊；官方頁未另列地理限制",
       "budget": "約 US$85,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2665,7 +2797,9 @@
       "artistStatementSource": "https://www.dfwairport.com/explore/art/callc3/",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.dfwairport.com/explore/art/callc3/",
       "classicDesc": "DFW 機場徵集既有短篇動態影像或動畫，重新格式化後於第 C 航廈七組行李轉盤 LED 螢幕輪播，作品最長一分鐘且不得含聲音。",
-      "relatedByCity": [],
+      "relatedByCity": [
+
+      ],
       "applicationFee": "未公開",
       "id": "competition-2026-08-26-02",
       "dedupeKey": "opportunity-2026-08-26-dfw-terminal-c-existing-digital-artwork",
@@ -2707,7 +2841,9 @@
       "artistStatementSource": "https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
       "classicDesc": "Miami-Dade 公共藝術計畫與機場部門將建立 30–40 位藝術家短名單，於至少兩年期間競逐機場大型資本改善計畫中的多處公共藝術委託。",
-      "relatedByCity": [],
+      "relatedByCity": [
+
+      ],
       "applicationFee": "未公開",
       "id": "competition-2026-08-26-03",
       "dedupeKey": "opportunity-2026-08-26-miami-international-airport-capital-improvement-public-art",
@@ -2749,7 +2885,9 @@
       "artistStatementSource": "https://lexarts.org/connect/artist-and-industry-opportunities/",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://lexarts.org/connect/artist-and-industry-opportunities/",
       "classicDesc": "LexArts 與 Central Bank Center 徵求大型場域公共藝術資格，作品將設於 Lexington 市中心 Central Bank Center 與 Rupp Arena 西側立面，形塑城市地標。",
-      "relatedByCity": [],
+      "relatedByCity": [
+
+      ],
       "applicationFee": "未公開",
       "id": "competition-2026-08-26-04",
       "dedupeKey": "opportunity-2026-08-26-central-bank-center-rupp-arena-public-art-rfq",
@@ -2808,7 +2946,9 @@
       "eligibility": "未公開",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2846,7 +2986,9 @@
       "eligibility": "藝術家；須完成市府投標註冊並提交PDF提案",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2885,7 +3027,9 @@
       "eligibility": "專業視覺藝術家，且過去未曾在 Zoetermeer 創作作品",
       "budget": "最高 €90,000（未稅）；入圍概念費每人 €3,000",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2924,7 +3068,9 @@
       "eligibility": "視覺藝術家；地方、區域及全國申請者皆納入遴選，至少一席給新進藝術家",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -2962,7 +3108,9 @@
       "eligibility": "地方政府、州政府機關、受資助藝術組織及社區團體；個人藝術家不得直接申請",
       "budget": "最高 AUD 15,000；委託型計畫須至少50%配比",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -3001,7 +3149,9 @@
       "eligibility": "Wabanaki 藝術家或由 Wabanaki 成員主導的團隊",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -3042,7 +3192,9 @@
       "eligibility": "具專業實績的視覺藝術家；採公開預選後之非公開競賽",
       "budget": "€50,000（含稅、材料與藝術家費）",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -3084,8 +3236,8 @@
       "budget": "公開頁未揭露；以完整 Exposé 為準",
       "applicationFee": "免費",
       "relatedByCity": [
-        "classic-german-2026-08-14-03",
-        "classic-german-2026-08-20-05"
+        "classic-german-2026-08-20-05",
+        "classic-german-2026-08-14-03"
       ]
     },
     {
@@ -3127,7 +3279,9 @@
       "eligibility": "德國境內具專業實績的藝術家或設計者；細節依正式文件",
       "budget": "公開頁未揭露",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -3168,7 +3322,9 @@
       "eligibility": "專業藝術家及藝術、應用藝術相關科系學生；不限地區",
       "budget": "€6,000（含藝術家費、材料與運輸）",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+
+      ]
     },
     {
       "category": "公開徵件",
@@ -3211,7 +3367,253 @@
       "relatedByCity": [
         "classic-german-2026-08-12-01",
         "classic-german-2026-08-15-03",
-        "classic-german-2026-08-15-04"
+        "classic-german-2026-08-15-04",
+        "current-2026-08-29-09",
+        "current-2026-08-29-10"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "competition-2026-08-29-01",
+      "dedupeKey": "opportunity-2026-08-29-munich-public-art-annuale-2027-open-spaces",
+      "name": "01｜Public Art München｜Annuale 2027 Open Spaces",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "München",
+        "Munich",
+        "慕尼黑"
+      ],
+      "media": [
+        "公共空間",
+        "跨媒介",
+        "暫時性藝術"
+      ],
+      "works": "慕尼黑公共空間提案｜截止 2026.11.26",
+      "comment": "主題為 Open Spaces，不限當代藝術媒介與特定場址；入選作品須於 2027 年在慕尼黑公共空間免費呈現。",
+      "website": "https://www.publicartmuenchen.de/wp-content/uploads/2026/08/Annuale-2027_openspaces_call_ENG.pdf",
+      "workPage": "https://www.publicartmuenchen.de/wp-content/uploads/2026/08/Annuale-2027_openspaces_call_ENG.pdf",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartmuenchen.de/wp-content/uploads/2026/08/Annuale-2027_openspaces_call_ENG.pdf",
+      "artistStatement": "主題為 Open Spaces，不限當代藝術媒介與特定場址；入選作品須於 2027 年在慕尼黑公共空間免費呈現。",
+      "artistStatementSource": "https://www.publicartmuenchen.de/wp-content/uploads/2026/08/Annuale-2027_openspaces_call_ENG.pdf",
+      "classicTitle": "Public Art München｜Annuale 2027 Open Spaces",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartmuenchen.de/wp-content/uploads/2026/08/Annuale-2027_openspaces_call_ENG.pdf",
+      "classicDesc": "主題為 Open Spaces，不限當代藝術媒介與特定場址；入選作品須於 2027 年在慕尼黑公共空間免費呈現。",
+      "deadline": "2026-11-26T23:59:59+01:00",
+      "deadlineLabel": "截止 2026.11.26",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Landeshauptstadt München Kulturreferat / Public Art München",
+      "eligibility": "居住於慕尼黑 S-Bahn 區域的藝術家；每人限一件提案",
+      "budget": "每案最高 €15,000（含稅），最多實現 5 件",
+      "applicationFee": "免費",
+      "relatedByCity": [
+        "classic-german-2026-08-12-01",
+        "classic-german-2026-08-15-03",
+        "classic-german-2026-08-15-04",
+        "current-2026-08-29-09",
+        "current-2026-08-29-10"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "competition-2026-08-29-02",
+      "dedupeKey": "opportunity-2026-08-29-koeln-marie-luise-nikuta-platz",
+      "name": "02｜Köln｜Marie-Luise-Nikuta-Platz 紀念場所設計",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Köln",
+      "cityKeywords": [
+        "Köln",
+        "Cologne",
+        "科隆"
+      ],
+      "media": [
+        "紀念藝術",
+        "廣場設計",
+        "公共雕塑"
+      ],
+      "works": "永久紀念場所概念競賽｜截止 2026.11.11",
+      "comment": "為科隆市中心廣場徵求可永久紀念 Marie-Luise Nikuta 生平與創作的藝術／美學概念，允許雕塑、地坪與整合式設計。",
+      "website": "https://www.bbk-sachsenanhalt.de/en/call-for-entries-do-your-own-thing/",
+      "workPage": "https://www.bbk-sachsenanhalt.de/en/call-for-entries-do-your-own-thing/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-sachsenanhalt.de/en/call-for-entries-do-your-own-thing/",
+      "artistStatement": "為科隆市中心廣場徵求可永久紀念 Marie-Luise Nikuta 生平與創作的藝術／美學概念，允許雕塑、地坪與整合式設計。",
+      "artistStatementSource": "https://www.bbk-sachsenanhalt.de/en/call-for-entries-do-your-own-thing/",
+      "classicTitle": "Köln｜Marie-Luise-Nikuta-Platz 紀念場所設計",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-sachsenanhalt.de/en/call-for-entries-do-your-own-thing/",
+      "classicDesc": "為科隆市中心廣場徵求可永久紀念 Marie-Luise Nikuta 生平與創作的藝術／美學概念，允許雕塑、地坪與整合式設計。",
+      "deadline": "2026-11-11T23:59:59+01:00",
+      "deadlineLabel": "截止 2026.11.11",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Levve Un Levve Losse e.V. / Freundeskreis Marie-Luise Nikuta",
+      "eligibility": "個人、法人、藝術家、設計師、建築師、學生及跨領域團隊；每人／團隊最多兩案",
+      "budget": "總獎金 €5,000：€2,500／€1,500／€1,000",
+      "applicationFee": "免費",
+      "relatedByCity": [
+        "classic-german-2026-08-20-05",
+        "classic-german-2026-08-14-03"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "competition-2026-08-29-03",
+      "dedupeKey": "opportunity-2026-08-29-kunstweg-battenberg-laisa",
+      "name": "03｜Kunstweg Battenberg｜Kunst aus der Region 2026",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Battenberg-Laisa",
+      "cityKeywords": [
+        "Battenberg",
+        "Laisa",
+        "巴滕貝格",
+        "萊薩"
+      ],
+      "media": [
+        "地景藝術",
+        "公共步道",
+        "場域介入"
+      ],
+      "works": "Laisa 藝術步道場域作品｜截止 2026.09.20",
+      "comment": "徵求沿 Laisa 藝術步道發展的在地性作品與介入，媒介可含繪畫、雕塑與裝置，須回應村落、地景與周邊環境。",
+      "website": "https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen",
+      "workPage": "https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen",
+      "artistStatement": "徵求沿 Laisa 藝術步道發展的在地性作品與介入，媒介可含繪畫、雕塑與裝置，須回應村落、地景與周邊環境。",
+      "artistStatementSource": "https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen",
+      "classicTitle": "Kunstweg Battenberg｜Kunst aus der Region 2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bundesverband.de/ausschreibungen/aktuelle-ausschreibungen",
+      "classicDesc": "徵求沿 Laisa 藝術步道發展的在地性作品與介入，媒介可含繪畫、雕塑與裝置，須回應村落、地景與周邊環境。",
+      "deadline": "2026-09-20T23:59:59+02:00",
+      "deadlineLabel": "截止 2026.09.20",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Kunstweg Battenberg",
+      "eligibility": "居住或工作室位於 Diemelstadt、Gießen、Siegen 與 Kassel 之間區域的藝術家；需參與現地踏查",
+      "budget": "公開頁未揭露",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "competition-2026-08-29-04",
+      "dedupeKey": "opportunity-2026-08-29-redmond-lights-temporary-public-art",
+      "name": "04｜City of Redmond｜Redmond Lights Temporary Public Art",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Redmond",
+      "cityKeywords": [
+        "Redmond",
+        "雷德蒙德"
+      ],
+      "media": [
+        "光藝術",
+        "暫時性公共藝術",
+        "互動裝置"
+      ],
+      "works": "冬季公園發光藝術｜截止 2026.08.30 23:00 PDT",
+      "comment": "徵求可在 Downtown Park 或 Esterra Park 展出一個月的防水、獨立式發光作品，可使用 LED、投影、AR、感測器與非擴音聲音。",
+      "website": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "workPage": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "artistStatement": "徵求可在 Downtown Park 或 Esterra Park 展出一個月的防水、獨立式發光作品，可使用 LED、投影、AR、感測器與非擴音聲音。",
+      "artistStatementSource": "https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "classicTitle": "City of Redmond｜Redmond Lights Temporary Public Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.redmond.gov/FormCenter/Parks-Recreation-11/2026-Redmond-Lights-Temporary-Public-Art-290",
+      "classicDesc": "徵求可在 Downtown Park 或 Esterra Park 展出一個月的防水、獨立式發光作品，可使用 LED、投影、AR、感測器與非擴音聲音。",
+      "deadline": "2026-08-30T23:00:00-07:00",
+      "deadlineLabel": "截止 2026.08.30 23:00 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Redmond Arts & Culture",
+      "eligibility": "藝術家或藝術團隊；每人／團隊限一件新作或既有暫時性發光作品",
+      "budget": "每案最高 US$5,000",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "competition-2026-08-29-05",
+      "dedupeKey": "opportunity-2026-08-29-seattle-arts-king-street-station-2027",
+      "name": "05｜Seattle OAC｜ARTS at King Street Station 2027 Exhibitions",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Seattle",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖",
+        "King Street Station",
+        "國王街車站"
+      ],
+      "media": [
+        "公共文化空間",
+        "策展",
+        "跨媒介展覽"
+      ],
+      "works": "2027 公共展覽與相關活動｜截止 2026.09.29 17:00 PDT",
+      "comment": "邀請藝術家、策展人、組織與社區團體在歷史車站上層公共文化空間提出免費展覽與相關活動，優先支持受制度性壓迫影響的社群。",
+      "website": "https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
+      "workPage": "https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
+      "artistStatement": "邀請藝術家、策展人、組織與社區團體在歷史車站上層公共文化空間提出免費展覽與相關活動，優先支持受制度性壓迫影響的社群。",
+      "artistStatementSource": "https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
+      "classicTitle": "Seattle OAC｜ARTS at King Street Station 2027 Exhibitions",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
+      "classicDesc": "邀請藝術家、策展人、組織與社區團體在歷史車站上層公共文化空間提出免費展覽與相關活動，優先支持受制度性壓迫影響的社群。",
+      "deadline": "2026-09-29T17:00:00-07:00",
+      "deadlineLabel": "截止 2026.09.29 17:00 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "Seattle Office of Arts & Culture",
+      "eligibility": "位於西雅圖、與城市有深厚連結並經常在當地呈現作品的藝術家、策展人、組織或社區團體",
+      "budget": "每案最高 US$20,000",
+      "applicationFee": "免費",
+      "relatedByCity": [
+        "dynamic-2026-08-21-01",
+        "dynamic-2026-08-21-02",
+        "dynamic-2026-08-21-03",
+        "dynamic-2026-08-21-04",
+        "dynamic-2026-08-21-05",
+        "dynamic-2026-08-21-06",
+        "dynamic-2026-08-21-07",
+        "dynamic-2026-08-21-08",
+        "dynamic-2026-08-21-09",
+        "dynamic-2026-08-21-10",
+        "dynamic-2026-08-26-03",
+        "dynamic-2026-08-26-04",
+        "dynamic-2026-08-26-05",
+        "dynamic-2026-08-25-01",
+        "dynamic-2026-08-25-02",
+        "dynamic-2026-08-12-03",
+        "dynamic-2026-08-12-06",
+        "dynamic-2026-08-12-10",
+        "classic-global-2026-08-15-02",
+        "dynamic-2026-08-23-01",
+        "dynamic-2026-08-23-02",
+        "dynamic-2026-08-23-03",
+        "dynamic-2026-08-23-04",
+        "dynamic-2026-08-23-05",
+        "dynamic-2026-08-23-10",
+        "dynamic-2026-08-22-07",
+        "dynamic-2026-08-22-08",
+        "dynamic-2026-08-22-09",
+        "dynamic-2026-08-22-10"
       ]
     }
   ],

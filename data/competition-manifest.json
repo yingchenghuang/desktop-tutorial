@@ -1,14 +1,14 @@
 {
-  "version": "2026-08-27-competition-r26",
-  "generatedAt": "2026-08-27T05:00:00+08:00",
+  "version": "2026-08-29-competition-r27",
+  "generatedAt": "2026-08-29T04:53:24+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 67,
+  "activeEntries": 77,
   "addedToday": 5,
   "expiredRemoved": 0,
-  "deadlineTimezoneEntries": 67,
-  "deadlinePrecisionEntries": 67,
-  "cityKeywordEntries": 67,
-  "note": "2026-08-27 新增5則經語意去重的公共藝術委託；保留既有有效競圖62則，移除逾期0則。67筆截止、時區、城市與必要欄位皆完整。"
+  "deadlineTimezoneEntries": 77,
+  "deadlinePrecisionEntries": 77,
+  "cityKeywordEntries": 77,
+  "note": "2026-08-29 新增5則公開徵選（德國3則），移除逾期0則；來源均已實際開啟驗證。"
 }

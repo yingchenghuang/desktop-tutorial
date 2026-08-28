@@ -1,0 +1,744 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-29T04:53:24+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-29",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "TfL Art on the Underground、NYC Mayor's Office、Public Art München、Museum der 1000 Orte 官方資料",
+    "note": "8/29 公共藝術固定 10＋5＋5；公開徵選另新增 5 則（德國 3 則）。",
+    "linkAudit": {
+      "checkedAt": "2026-08-29T04:53:24+08:00",
+      "checkedUniqueSources": 13,
+      "brokenOrBlockedReplaced": 1,
+      "rule": "實際瀏覽器開啟官方頁；空白、失效、安全驗證或登入牆不發布"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-08-29T04:53:24+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "每筆使用可開啟官方頁的預覽圖；Notion 置於標題下方正文"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-01",
+      "dedupeKey": "art-2026-08-29-darren-almond-horizon-shadow-time-line",
+      "name": "01｜Darren Almond｜地平線、影線、時間線",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "公共藝術",
+        "影像裝置",
+        "交通空間"
+      ],
+      "works": "Horizon Line, Shadow Line, Time Line｜2017",
+      "comment": "把地平線、影子與時間的測量並置於伊麗莎白線日常動線，讓通勤尺度轉化為對移動與持續時間的感知。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "把地平線、影子與時間的測量並置於伊麗莎白線日常動線，讓通勤尺度轉化為對移動與持續時間的感知。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "Horizon Line, Shadow Line, Time Line",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "把地平線、影子與時間的測量並置於伊麗莎白線日常動線，讓通勤尺度轉化為對移動與持續時間的感知。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-02",
+      "dedupeKey": "art-2026-08-29-douglas-gordon-undergroundoverheard",
+      "name": "02｜Douglas Gordon｜地下所聞",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "聲音藝術",
+        "公共藝術",
+        "交通空間"
+      ],
+      "works": "undergroundoverheard｜2024",
+      "comment": "以聲音介入地下交通節點，把偶然聽見的語言、空間回響與乘客移動編成一段無形的城市肖像。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "以聲音介入地下交通節點，把偶然聽見的語言、空間回響與乘客移動編成一段無形的城市肖像。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "undergroundoverheard",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "以聲音介入地下交通節點，把偶然聽見的語言、空間回響與乘客移動編成一段無形的城市肖像。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-03",
+      "dedupeKey": "art-2026-08-29-yayoi-kusama-infinite-accumulation",
+      "name": "03｜草間彌生 Yayoi Kusama｜無限累積",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Liverpool Street",
+        "利物浦街"
+      ],
+      "media": [
+        "公共雕塑",
+        "不鏽鋼",
+        "交通空間"
+      ],
+      "works": "Infinite Accumulation｜2024",
+      "comment": "銀色圓點與彎曲構件在車站入口聚合成可穿越的雕塑，把草間彌生的無限增殖語彙放大為城市門廊。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "銀色圓點與彎曲構件在車站入口聚合成可穿越的雕塑，把草間彌生的無限增殖語彙放大為城市門廊。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "Infinite Accumulation",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "銀色圓點與彎曲構件在車站入口聚合成可穿越的雕塑，把草間彌生的無限增殖語彙放大為城市門廊。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-04",
+      "dedupeKey": "art-2026-08-29-conrad-shawcross-manifold-major-third",
+      "name": "04｜Conrad Shawcross｜流形（大三度）5:4",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Liverpool Street",
+        "利物浦街"
+      ],
+      "media": [
+        "公共雕塑",
+        "幾何結構",
+        "交通空間"
+      ],
+      "works": "Manifold (Major Third) 5:4｜2023",
+      "comment": "以音程比例生成扭轉幾何，讓數學、音樂與工程結構在車站尺度中交會，形成行走時不斷變形的觀看。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "以音程比例生成扭轉幾何，讓數學、音樂與工程結構在車站尺度中交會，形成行走時不斷變形的觀看。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "Manifold (Major Third) 5:4",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "以音程比例生成扭轉幾何，讓數學、音樂與工程結構在車站尺度中交會，形成行走時不斷變形的觀看。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-05",
+      "dedupeKey": "art-2026-08-29-michal-rovner-transitions",
+      "name": "05｜Michal Rovner｜轉場",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Canary Wharf",
+        "金絲雀碼頭"
+      ],
+      "media": [
+        "影像藝術",
+        "建築整合",
+        "交通空間"
+      ],
+      "works": "Transitions｜2021",
+      "comment": "反覆移動的人形影像被嵌入車站建築，使群體流動與個體匿名性在通勤者的真實步伐旁同步發生。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "反覆移動的人形影像被嵌入車站建築，使群體流動與個體匿名性在通勤者的真實步伐旁同步發生。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "Transitions",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "反覆移動的人形影像被嵌入車站建築，使群體流動與個體匿名性在通勤者的真實步伐旁同步發生。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-06",
+      "dedupeKey": "art-2026-08-29-sonia-boyce-newham-trackside-wall",
+      "name": "06｜Sonia Boyce｜紐漢軌道牆",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Newham",
+        "紐漢"
+      ],
+      "media": [
+        "壁畫",
+        "公共藝術",
+        "鐵路地景"
+      ],
+      "works": "Newham Trackside Wall｜2021",
+      "comment": "把在地圖像與節奏延伸到鐵路沿線長牆，讓高速掠過的視線仍能讀到紐漢社區的文化能量。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "把在地圖像與節奏延伸到鐵路沿線長牆，讓高速掠過的視線仍能讀到紐漢社區的文化能量。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "Newham Trackside Wall",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "把在地圖像與節奏延伸到鐵路沿線長牆，讓高速掠過的視線仍能讀到紐漢社區的文化能量。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-07",
+      "dedupeKey": "art-2026-08-29-angel-garcia-walton-playground-mural",
+      "name": "07｜Angel Garcia｜Walton Playground 社區壁畫",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Bronx",
+        "布朗克斯"
+      ],
+      "media": [
+        "社區壁畫",
+        "青年共創",
+        "公園"
+      ],
+      "works": "Walton Playground Community Mural｜2026",
+      "comment": "由專業教學藝術家、青年與居民共同完成 880 平方英尺壁畫，把世界盃的城市能量轉化為 Fordham Heights 可長期共有的公共記憶。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "由專業教學藝術家、青年與居民共同完成 880 平方英尺壁畫，把世界盃的城市能量轉化為 Fordham Heights 可長期共有的公共記憶。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Walton Playground Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "由專業教學藝術家、青年與居民共同完成 880 平方英尺壁畫，把世界盃的城市能量轉化為 Fordham Heights 可長期共有的公共記憶。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-08",
+      "dedupeKey": "art-2026-08-29-vash-franz-sigel-park-mural",
+      "name": "08｜VASH｜Franz Sigel Park 社區壁畫",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Bronx",
+        "布朗克斯"
+      ],
+      "media": [
+        "社區壁畫",
+        "青年共創",
+        "公園"
+      ],
+      "works": "Franz Sigel Park Community Mural｜2026",
+      "comment": "1,200 平方英尺牆面由南布朗克斯社區共同參與繪製，以大型公共圖像慶祝多語、多文化的城市歸屬。",
+      "website": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "workPage": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "artistStatement": "1,200 平方英尺牆面由南布朗克斯社區共同參與繪製，以大型公共圖像慶祝多語、多文化的城市歸屬。",
+      "artistStatementSource": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicTitle": "Franz Sigel Park Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani--groundswell-community-mural-project-announce-12-c",
+      "classicDesc": "1,200 平方英尺牆面由南布朗克斯社區共同參與繪製，以大型公共圖像慶祝多語、多文化的城市歸屬。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-09",
+      "dedupeKey": "art-2026-08-29-christine-sun-kim-thomas-mader-abc",
+      "name": "09｜Christine Sun Kim × Thomas Mader｜ABC：永遠保持溝通",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "München",
+        "Munich",
+        "慕尼黑"
+      ],
+      "media": [
+        "公共藝術",
+        "手語",
+        "表演與裝置"
+      ],
+      "works": "ABC (Always Be Communicating)｜2026",
+      "comment": "從手語、聲音政治與身體互動出發，將公共空間視為溝通權力可被重新協商的現場。",
+      "website": "https://www.publicartmuenchen.de/en/",
+      "workPage": "https://www.publicartmuenchen.de/en/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartmuenchen.de/en/",
+      "artistStatement": "從手語、聲音政治與身體互動出發，將公共空間視為溝通權力可被重新協商的現場。",
+      "artistStatementSource": "https://www.publicartmuenchen.de/en/",
+      "classicTitle": "ABC (Always Be Communicating)",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartmuenchen.de/en/",
+      "classicDesc": "從手語、聲音政治與身體互動出發，將公共空間視為溝通權力可被重新協商的現場。",
+      "relatedByCity": [
+        "competition-2026-08-21-01",
+        "competition-2026-08-28-05",
+        "competition-2026-08-29-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "current-2026-08-29-10",
+      "dedupeKey": "art-2026-08-29-various-artists-billboard-goes-neuperlach",
+      "name": "10｜多位藝術家｜Billboard goes Neuperlach",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "München",
+        "Munich",
+        "慕尼黑",
+        "Neuperlach",
+        "諾伊佩拉赫"
+      ],
+      "media": [
+        "藝術海報",
+        "公共空間",
+        "輪替展覽"
+      ],
+      "works": "Billboard goes Neuperlach｜2026",
+      "comment": "把大型藝術海報牆移至 Hanns-Seidel-Platz，以可輪替、可遠觀的圖像介面嵌入日常廣場，擴張非博物館式觀看。",
+      "website": "https://www.publicartmuenchen.de/en/",
+      "workPage": "https://www.publicartmuenchen.de/en/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartmuenchen.de/en/",
+      "artistStatement": "把大型藝術海報牆移至 Hanns-Seidel-Platz，以可輪替、可遠觀的圖像介面嵌入日常廣場，擴張非博物館式觀看。",
+      "artistStatementSource": "https://www.publicartmuenchen.de/en/",
+      "classicTitle": "Billboard goes Neuperlach",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartmuenchen.de/en/",
+      "classicDesc": "把大型藝術海報牆移至 Hanns-Seidel-Platz，以可輪替、可遠觀的圖像介面嵌入日常廣場，擴張非博物館式觀看。",
+      "relatedByCity": [
+        "competition-2026-08-21-01",
+        "competition-2026-08-28-05",
+        "competition-2026-08-29-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-global-2026-08-29-01",
+      "dedupeKey": "art-2026-08-29-richard-wright-no-title-crossrail",
+      "name": "全球經典01｜Richard Wright｜無題",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Tottenham Court Road",
+        "托登罕宮路"
+      ],
+      "media": [
+        "壁畫",
+        "建築整合",
+        "交通空間"
+      ],
+      "works": "No Title｜2018",
+      "comment": "金箔般的細密幾何將車站天花與牆面轉化為光線載體；作品不以獨立物件出現，而是讓建築本身成為繪畫。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "金箔般的細密幾何將車站天花與牆面轉化為光線載體；作品不以獨立物件出現，而是讓建築本身成為繪畫。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "No Title",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "金箔般的細密幾何將車站天花與牆面轉化為光線載體；作品不以獨立物件出現，而是讓建築本身成為繪畫。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-global-2026-08-29-02",
+      "dedupeKey": "art-2026-08-29-spencer-finch-a-cloud-index",
+      "name": "全球經典02｜Spencer Finch｜雲朵索引",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Paddington",
+        "帕丁頓"
+      ],
+      "media": [
+        "玻璃藝術",
+        "建築整合",
+        "氣象圖像"
+      ],
+      "works": "A Cloud Index｜2016",
+      "comment": "以玻璃頂棚中的雲形圖譜回應英國多變天候，乘客抬頭即可在交通基礎設施內觀看一座透明的氣象檔案。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "以玻璃頂棚中的雲形圖譜回應英國多變天候，乘客抬頭即可在交通基礎設施內觀看一座透明的氣象檔案。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "A Cloud Index",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "以玻璃頂棚中的雲形圖譜回應英國多變天候，乘客抬頭即可在交通基礎設施內觀看一座透明的氣象檔案。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-global-2026-08-29-03",
+      "dedupeKey": "art-2026-08-29-simon-periton-avalanche",
+      "name": "全球經典03｜Simon Periton｜雪崩",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Farringdon",
+        "法靈頓"
+      ],
+      "media": [
+        "金屬切割",
+        "建築整合",
+        "公共藝術"
+      ],
+      "works": "Avalanche｜2016",
+      "comment": "以紙雕般的切割金屬圖樣覆疊城市與自然意象，讓車站立面在近看與遠觀之間呈現不同密度。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "以紙雕般的切割金屬圖樣覆疊城市與自然意象，讓車站立面在近看與遠觀之間呈現不同密度。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "Avalanche",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "以紙雕般的切割金屬圖樣覆疊城市與自然意象，讓車站立面在近看與遠觀之間呈現不同密度。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-global-2026-08-29-04",
+      "dedupeKey": "art-2026-08-29-simon-periton-spectre",
+      "name": "全球經典04｜Simon Periton｜幽靈",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Farringdon",
+        "法靈頓"
+      ],
+      "media": [
+        "金屬切割",
+        "建築整合",
+        "公共藝術"
+      ],
+      "works": "Spectre｜2016",
+      "comment": "鏤空紋樣像影子依附於建築表皮，將歷史裝飾、都市植被與當代交通的速度疊合為一層可穿透的視覺。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "鏤空紋樣像影子依附於建築表皮，將歷史裝飾、都市植被與當代交通的速度疊合為一層可穿透的視覺。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "Spectre",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "鏤空紋樣像影子依附於建築表皮，將歷史裝飾、都市植被與當代交通的速度疊合為一層可穿透的視覺。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-global-2026-08-29-05",
+      "dedupeKey": "art-2026-08-29-chantal-joffe-sunday-afternoon-whitechapel",
+      "name": "全球經典05｜Chantal Joffe｜懷特查珀的星期日下午",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Whitechapel",
+        "懷特查珀"
+      ],
+      "media": [
+        "群像壁畫",
+        "社區肖像",
+        "交通空間"
+      ],
+      "works": "A Sunday Afternoon in Whitechapel｜2018",
+      "comment": "以大型群像描繪懷特查珀居民，將個別表情與社區日常帶入車站，使公共運輸空間也具有在地肖像畫的親密感。",
+      "website": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "workPage": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "artistStatement": "以大型群像描繪懷特查珀居民，將個別表情與社區日常帶入車站，使公共運輸空間也具有在地肖像畫的親密感。",
+      "artistStatementSource": "https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicTitle": "A Sunday Afternoon in Whitechapel",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/crossrailartprogramme/",
+      "classicDesc": "以大型群像描繪懷特查珀居民，將個別表情與社區日常帶入車站，使公共運輸空間也具有在地肖像畫的親密感。",
+      "relatedByCity": [
+        "competition-2026-08-22-04",
+        "competition-2026-08-22-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-german-2026-08-29-01",
+      "dedupeKey": "art-2026-08-29-gunda-foerster-tunnel",
+      "name": "德國經典01｜Gunda Förster｜TUNNEL",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "光藝術",
+        "LED",
+        "建築整合"
+      ],
+      "works": "TUNNEL｜2012",
+      "comment": "43 組黃橙色 LED 光門沿地下通道調整節奏與密度，既回應隧道轉折，也以溫暖光線重新組織封閉空間的心理感受。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "artistStatement": "43 組黃橙色 LED 光門沿地下通道調整節奏與密度，既回應隧道轉折，也以溫暖光線重新組織封閉空間的心理感受。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "classicTitle": "TUNNEL",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "classicDesc": "43 組黃橙色 LED 光門沿地下通道調整節奏與密度，既回應隧道轉折，也以溫暖光線重新組織封閉空間的心理感受。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-german-2026-08-29-02",
+      "dedupeKey": "art-2026-08-29-felix-droese-stiere",
+      "name": "德國經典02｜Felix Droese｜公牛群 Stiere",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "壁畫",
+        "壓克力",
+        "建築整合"
+      ],
+      "works": "Stiere｜1999",
+      "comment": "八幅等身以上公牛壁畫以藍、紅、黃、黑、青銅與牛糞反覆出現，把力量、勞動與神話的多義性帶入聯邦勞動部走廊。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stiere",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stiere",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stiere",
+      "artistStatement": "八幅等身以上公牛壁畫以藍、紅、黃、黑、青銅與牛糞反覆出現，把力量、勞動與神話的多義性帶入聯邦勞動部走廊。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stiere",
+      "classicTitle": "Stiere",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stiere",
+      "classicDesc": "八幅等身以上公牛壁畫以藍、紅、黃、黑、青銅與牛糞反覆出現，把力量、勞動與神話的多義性帶入聯邦勞動部走廊。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-german-2026-08-29-03",
+      "dedupeKey": "art-2026-08-29-franka-hoernschemeyer-bfd",
+      "name": "德國經典03｜Franka Hörnschemeyer｜BFD 空間迷宮",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "空間雕塑",
+        "金屬格柵",
+        "可進入裝置"
+      ],
+      "works": "BFD - bündig fluchtend dicht (Raumlabyrinth)｜2001",
+      "comment": "紅黃鐵格柵交錯成可進入的庭院迷宮，五個門洞、通道、死路與封閉空間把民主建築的通行秩序轉成身體經驗。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bfd-bundig-fluchtend-dicht-raumlabyrinth",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bfd-bundig-fluchtend-dicht-raumlabyrinth",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bfd-bundig-fluchtend-dicht-raumlabyrinth",
+      "artistStatement": "紅黃鐵格柵交錯成可進入的庭院迷宮，五個門洞、通道、死路與封閉空間把民主建築的通行秩序轉成身體經驗。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bfd-bundig-fluchtend-dicht-raumlabyrinth",
+      "classicTitle": "BFD - bündig fluchtend dicht (Raumlabyrinth)",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bfd-bundig-fluchtend-dicht-raumlabyrinth",
+      "classicDesc": "紅黃鐵格柵交錯成可進入的庭院迷宮，五個門洞、通道、死路與封閉空間把民主建築的通行秩序轉成身體經驗。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-german-2026-08-29-04",
+      "dedupeKey": "art-2026-08-29-veronika-kellndorfer-le-regard",
+      "name": "德國經典04｜Veronika Kellndorfer｜外部凝視／內部凝視",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "攝影絹印",
+        "玻璃立面",
+        "建築整合"
+      ],
+      "works": "le regard extérieur / le regard intérieur｜2010",
+      "comment": "把六〇年代住宅樓梯影像半透明絹印於玻璃南立面與門廳，使真實樓梯、攝影透視與城市反射彼此錯位。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/le-regard-exterieur-le-regard-interieur",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/le-regard-exterieur-le-regard-interieur",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/le-regard-exterieur-le-regard-interieur",
+      "artistStatement": "把六〇年代住宅樓梯影像半透明絹印於玻璃南立面與門廳，使真實樓梯、攝影透視與城市反射彼此錯位。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/le-regard-exterieur-le-regard-interieur",
+      "classicTitle": "le regard extérieur / le regard intérieur",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/le-regard-exterieur-le-regard-interieur",
+      "classicDesc": "把六〇年代住宅樓梯影像半透明絹印於玻璃南立面與門廳，使真實樓梯、攝影透視與城市反射彼此錯位。",
+      "relatedByCity": [
+        "competition-2026-08-11-04",
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "classic-german-2026-08-29-05",
+      "dedupeKey": "art-2026-08-29-gabriele-grosse-arachnura-celeste",
+      "name": "德國經典05｜Gabriele Grosse｜天體蜘蛛 Arachnura Celeste",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "掛毯",
+        "纖維藝術",
+        "建築整合"
+      ],
+      "works": "Arachnura Celeste｜1979",
+      "comment": "以大型掛毯把抽象天體與蛛網般結構帶入會議餐敘空間，柔性纖維在現代行政建築中形成兼具代表性與觸覺感的焦點。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "artistStatement": "以大型掛毯把抽象天體與蛛網般結構帶入會議餐敘空間，柔性纖維在現代行政建築中形成兼具代表性與觸覺感的焦點。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "classicTitle": "Arachnura Celeste",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "classicDesc": "以大型掛毯把抽象天體與蛛網般結構帶入會議餐敘空間，柔性纖維在現代行政建築中形成兼具代表性與觸覺感的焦點。",
+      "relatedByCity": [
+
+      ]
+    }
+  ]
+}
