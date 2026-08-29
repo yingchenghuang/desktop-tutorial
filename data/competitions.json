@@ -1,20 +1,20 @@
 {
   "meta": {
-    "generatedAt": "2026-08-29T05:12:13+08:00",
+    "generatedAt": "2026-08-30T05:06:38+08:00",
     "timezone": "Asia/Taipei",
-    "date": "2026-08-29",
+    "date": "2026-08-30",
     "dailyTarget": 5,
-    "source": "各主辦機構、地方政府或專業藝術家協會官方頁",
-    "activeEntries": 77,
+    "source": "各主辦機構、地方政府或公共文化機構官方頁",
+    "activeEntries": 81,
     "addedToday": 5,
-    "expiredRemoved": 0,
-    "note": "保留72筆未截止既有資料，移除逾期0筆；今日新增5筆去重資料，撤換重複 Redmond 案並校正官方來源與未公開欄位。",
+    "expiredRemoved": 1,
+    "note": "今日新增 5 筆已逐頁驗證的公開徵選，其中德國 3 筆；移除逾期 1 筆。",
     "linkAudit": {
-      "checkedAt": "2026-08-29T05:12:13+08:00",
+      "checkedAt": "2026-08-30T05:06:38+08:00",
       "missingCityKeywords": 0,
       "invalidRelatedByCity": 0,
       "uniqueNewSourcesChecked": 5,
-      "blockedSourceReplaced": 0
+      "blockedSourceReplaced": 1
     }
   },
   "entries": [
@@ -99,89 +99,6 @@
       "applicationFee": "未公開",
       "relatedByCity": [
 
-      ]
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-11",
-      "id": "competition-2026-08-11-04",
-      "dedupeKey": "opportunity-2026-08-11-schadow-gymnasium-berlin-kunst-am-bau",
-      "name": "04｜Kunst am Bau｜Schadow-Gymnasium Berlin",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "德國 / Berlin-Zehlendorf",
-      "cityKeywords": [
-        "Berlin",
-        "Zehlendorf"
-      ],
-      "media": [
-        "Kunst am Bau",
-        "裝置",
-        "建築/場域"
-      ],
-      "works": "校園新建與整建 Bauteil C｜總額 €300,000｜截止 2026.08.28 23:59",
-      "comment": "德國全境開放的兩階段競賽，最多實現兩位作者作品，每件上限 €150,000。場域含餐廳、自然科學、十年級與三用體育館，適合發展跨學習與運動動線的整合介入。",
-      "website": "https://www.bbk-sachsenanhalt.de/kab-schadow-gymnasium-berlin/",
-      "workPage": "https://www.bbk-sachsenanhalt.de/kab-schadow-gymnasium-berlin/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-sachsenanhalt.de/kab-schadow-gymnasium-berlin/",
-      "artistStatement": "兩件作品並置的制度設計，要求提案同時思考個別辨識度、建築整體性與校園日常的長期共存。",
-      "artistStatementSource": "https://www.bbk-sachsenanhalt.de/kab-schadow-gymnasium-berlin/",
-      "classicTitle": "Schadow-Gymnasium Kunst am Bau｜2026",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-sachsenanhalt.de/kab-schadow-gymnasium-berlin/",
-      "classicDesc": "以兩件作品介入科學、餐飲與運動交織的校園新空間。",
-      "deadline": "2026-08-28T23:59:59+02:00",
-      "deadlineLabel": "截止 2026.08.28",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date",
-      "organizer": "Land Berlin",
-      "eligibility": "德國全境專業藝術家",
-      "budget": "總額 €300,000；最多兩件、每件上限 €150,000",
-      "applicationFee": "未公開",
-      "relatedByCity": [
-        "classic-german-2026-08-21-01",
-        "classic-german-2026-08-21-02",
-        "classic-german-2026-08-21-03",
-        "classic-german-2026-08-21-04",
-        "classic-german-2026-08-21-05",
-        "classic-german-2026-08-20-01",
-        "classic-german-2026-08-20-02",
-        "classic-german-2026-08-20-03",
-        "classic-german-2026-08-20-04",
-        "classic-german-2026-08-27-01",
-        "classic-german-2026-08-27-03",
-        "classic-german-2026-08-26-02",
-        "classic-german-2026-08-26-04",
-        "classic-german-2026-08-25-02",
-        "classic-german-2026-08-25-03",
-        "classic-german-2026-08-25-05",
-        "classic-german-2026-08-12-02",
-        "classic-german-2026-08-28-01",
-        "classic-german-2026-08-28-02",
-        "classic-german-2026-08-28-03",
-        "classic-german-2026-08-28-04",
-        "german-classic-2026-08-24-01",
-        "german-classic-2026-08-24-02",
-        "german-classic-2026-08-24-03",
-        "german-classic-2026-08-24-04",
-        "german-classic-2026-08-24-05",
-        "classic-german-2026-08-15-01",
-        "classic-german-2026-08-15-02",
-        "classic-german-2026-08-15-05",
-        "german-classic-2026-08-23-01",
-        "german-classic-2026-08-23-02",
-        "german-classic-2026-08-23-03",
-        "german-classic-2026-08-23-04",
-        "german-classic-2026-08-23-05",
-        "german-classic-2026-08-22-01",
-        "german-classic-2026-08-22-02",
-        "german-classic-2026-08-22-03",
-        "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "classic-german-2026-08-29-01",
-        "classic-german-2026-08-29-02",
-        "classic-german-2026-08-29-03",
-        "classic-german-2026-08-29-04"
       ]
     },
     {
@@ -750,7 +667,15 @@
       "budget": "未公開",
       "applicationFee": "未公開",
       "relatedByCity": [
-
+        "current-2026-08-30-01",
+        "current-2026-08-30-02",
+        "current-2026-08-30-03",
+        "current-2026-08-30-04",
+        "current-2026-08-30-05",
+        "current-2026-08-30-06",
+        "current-2026-08-30-07",
+        "current-2026-08-30-08",
+        "current-2026-08-30-09"
       ]
     },
     {
@@ -1535,11 +1460,11 @@
       "budget": "獎金與作品目錄總值約 €30,000；三名得主並於 Haus der Kunst 展出",
       "applicationFee": "未公開",
       "relatedByCity": [
+        "current-2026-08-29-09",
+        "current-2026-08-29-10",
         "classic-german-2026-08-12-01",
         "classic-german-2026-08-15-03",
-        "classic-german-2026-08-15-04",
-        "current-2026-08-29-09",
-        "current-2026-08-29-10"
+        "classic-german-2026-08-15-04"
       ]
     },
     {
@@ -1758,11 +1683,17 @@
         "classic-german-2026-08-20-04",
         "classic-german-2026-08-27-01",
         "classic-german-2026-08-27-03",
+        "classic-german-2026-08-30-02",
+        "classic-german-2026-08-30-05",
         "classic-german-2026-08-26-02",
         "classic-german-2026-08-26-04",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
         "classic-german-2026-08-25-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-28-01",
         "classic-german-2026-08-28-02",
@@ -1785,11 +1716,7 @@
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
         "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "classic-german-2026-08-29-01",
-        "classic-german-2026-08-29-02",
-        "classic-german-2026-08-29-03",
-        "classic-german-2026-08-29-04"
+        "german-classic-2026-08-22-05"
       ]
     },
     {
@@ -1839,11 +1766,17 @@
         "classic-german-2026-08-20-04",
         "classic-german-2026-08-27-01",
         "classic-german-2026-08-27-03",
+        "classic-german-2026-08-30-02",
+        "classic-german-2026-08-30-05",
         "classic-german-2026-08-26-02",
         "classic-german-2026-08-26-04",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
         "classic-german-2026-08-25-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-28-01",
         "classic-german-2026-08-28-02",
@@ -1866,11 +1799,7 @@
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
         "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "classic-german-2026-08-29-01",
-        "classic-german-2026-08-29-02",
-        "classic-german-2026-08-29-03",
-        "classic-german-2026-08-29-04"
+        "german-classic-2026-08-22-05"
       ]
     },
     {
@@ -1920,11 +1849,17 @@
         "classic-german-2026-08-20-04",
         "classic-german-2026-08-27-01",
         "classic-german-2026-08-27-03",
+        "classic-german-2026-08-30-02",
+        "classic-german-2026-08-30-05",
         "classic-german-2026-08-26-02",
         "classic-german-2026-08-26-04",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
         "classic-german-2026-08-25-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-28-01",
         "classic-german-2026-08-28-02",
@@ -1947,11 +1882,7 @@
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
         "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "classic-german-2026-08-29-01",
-        "classic-german-2026-08-29-02",
-        "classic-german-2026-08-29-03",
-        "classic-german-2026-08-29-04"
+        "german-classic-2026-08-22-05"
       ]
     },
     {
@@ -1997,16 +1928,6 @@
         "dynamic-2026-08-25-06",
         "dynamic-2026-08-25-07",
         "dynamic-2026-08-25-08",
-        "dynamic-2026-08-15-03",
-        "dynamic-2026-08-15-04",
-        "dynamic-2026-08-15-05",
-        "dynamic-2026-08-15-06",
-        "dynamic-2026-08-15-07",
-        "dynamic-2026-08-15-08",
-        "dynamic-2026-08-15-09",
-        "dynamic-2026-08-15-10",
-        "dynamic-2026-08-14-01",
-        "dynamic-2026-08-14-03",
         "current-2026-08-29-01",
         "current-2026-08-29-02",
         "current-2026-08-29-03",
@@ -2017,7 +1938,17 @@
         "classic-global-2026-08-29-02",
         "classic-global-2026-08-29-03",
         "classic-global-2026-08-29-04",
-        "classic-global-2026-08-29-05"
+        "classic-global-2026-08-29-05",
+        "dynamic-2026-08-15-03",
+        "dynamic-2026-08-15-04",
+        "dynamic-2026-08-15-05",
+        "dynamic-2026-08-15-06",
+        "dynamic-2026-08-15-07",
+        "dynamic-2026-08-15-08",
+        "dynamic-2026-08-15-09",
+        "dynamic-2026-08-15-10",
+        "dynamic-2026-08-14-01",
+        "dynamic-2026-08-14-03"
       ]
     },
     {
@@ -2065,16 +1996,6 @@
         "dynamic-2026-08-25-06",
         "dynamic-2026-08-25-07",
         "dynamic-2026-08-25-08",
-        "dynamic-2026-08-15-03",
-        "dynamic-2026-08-15-04",
-        "dynamic-2026-08-15-05",
-        "dynamic-2026-08-15-06",
-        "dynamic-2026-08-15-07",
-        "dynamic-2026-08-15-08",
-        "dynamic-2026-08-15-09",
-        "dynamic-2026-08-15-10",
-        "dynamic-2026-08-14-01",
-        "dynamic-2026-08-14-03",
         "current-2026-08-29-01",
         "current-2026-08-29-02",
         "current-2026-08-29-03",
@@ -2085,7 +2006,17 @@
         "classic-global-2026-08-29-02",
         "classic-global-2026-08-29-03",
         "classic-global-2026-08-29-04",
-        "classic-global-2026-08-29-05"
+        "classic-global-2026-08-29-05",
+        "dynamic-2026-08-15-03",
+        "dynamic-2026-08-15-04",
+        "dynamic-2026-08-15-05",
+        "dynamic-2026-08-15-06",
+        "dynamic-2026-08-15-07",
+        "dynamic-2026-08-15-08",
+        "dynamic-2026-08-15-09",
+        "dynamic-2026-08-15-10",
+        "dynamic-2026-08-14-01",
+        "dynamic-2026-08-14-03"
       ]
     },
     {
@@ -2412,11 +2343,17 @@
         "classic-german-2026-08-20-04",
         "classic-german-2026-08-27-01",
         "classic-german-2026-08-27-03",
+        "classic-german-2026-08-30-02",
+        "classic-german-2026-08-30-05",
         "classic-german-2026-08-26-02",
         "classic-german-2026-08-26-04",
         "classic-german-2026-08-25-02",
         "classic-german-2026-08-25-03",
         "classic-german-2026-08-25-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-28-01",
         "classic-german-2026-08-28-02",
@@ -2439,11 +2376,7 @@
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
         "german-classic-2026-08-22-04",
-        "german-classic-2026-08-22-05",
-        "classic-german-2026-08-29-01",
-        "classic-german-2026-08-29-02",
-        "classic-german-2026-08-29-03",
-        "classic-german-2026-08-29-04"
+        "german-classic-2026-08-22-05"
       ]
     },
     {
@@ -3365,11 +3298,11 @@
       "budget": "未公開；主辦方表示提供製作支援與合作資源，但未列固定金額",
       "applicationFee": "未公開",
       "relatedByCity": [
+        "current-2026-08-29-09",
+        "current-2026-08-29-10",
         "classic-german-2026-08-12-01",
         "classic-german-2026-08-15-03",
-        "classic-german-2026-08-15-04",
-        "current-2026-08-29-09",
-        "current-2026-08-29-10"
+        "classic-german-2026-08-15-04"
       ]
     },
     {
@@ -3411,11 +3344,11 @@
       "budget": "每案最高 €15,000（含稅），最多實現 5 件",
       "applicationFee": "免費",
       "relatedByCity": [
+        "current-2026-08-29-09",
+        "current-2026-08-29-10",
         "classic-german-2026-08-12-01",
         "classic-german-2026-08-15-03",
-        "classic-german-2026-08-15-04",
-        "current-2026-08-29-09",
-        "current-2026-08-29-10"
+        "classic-german-2026-08-15-04"
       ]
     },
     {
@@ -3614,6 +3547,220 @@
         "dynamic-2026-08-22-08",
         "dynamic-2026-08-22-09",
         "dynamic-2026-08-22-10"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "competition-2026-08-30-01",
+      "dedupeKey": "opportunity-2026-08-30-kuenstlergut-proesitz-sculpture-symposium",
+      "name": "01｜Künstlergut Prösitz｜雕塑家母親一個月創作獎助",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Grimma-Prösitz",
+      "cityKeywords": [
+        "Grimma",
+        "Prösitz",
+        "格林馬",
+        "普勒西茨"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "物件藝術",
+        "藝術駐村"
+      ],
+      "works": "四週雕塑／裝置創作獎助｜截止 2026.11.30",
+      "comment": "為同時身為母親的專業女性藝術家提供四週工作室、住宿與兒童照護，支持雕塑、裝置及物件藝術的實驗創作。",
+      "website": "https://www.kuenstlergut-proesitz.de/symposium/",
+      "workPage": "https://www.kuenstlergut-proesitz.de/symposium/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kuenstlergut-proesitz.de/symposium/",
+      "artistStatement": "為同時身為母親的專業女性藝術家提供四週工作室、住宿與兒童照護，支持雕塑、裝置及物件藝術的實驗創作。",
+      "artistStatementSource": "https://www.kuenstlergut-proesitz.de/symposium/",
+      "classicTitle": "Künstlergut Prösitz｜雕塑家母親一個月創作獎助",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kuenstlergut-proesitz.de/symposium/",
+      "classicDesc": "為同時身為母親的專業女性藝術家提供四週工作室、住宿與兒童照護，支持雕塑、裝置及物件藝術的實驗創作。",
+      "deadline": "2026-11-30T23:59:59+01:00",
+      "deadlineLabel": "截止 2026.11.30",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Künstlergut Prösitz e.V.",
+      "eligibility": "從事雕塑、立體、裝置或物件藝術的專業女性藝術家，且為母親；可攜 12 歲以下子女",
+      "budget": "€500 獎助；免費住宿、兒童照護、工作室與部分材料支援",
+      "applicationFee": "免費；僅接受郵寄紙本資料",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "competition-2026-08-30-02",
+      "dedupeKey": "opportunity-2026-08-30-atelier-josepha-residency-2027",
+      "name": "02｜Atelier Josepha｜波羅的海藝術駐村 2027",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Ahrenshoop",
+      "cityKeywords": [
+        "Ahrenshoop",
+        "阿倫斯霍普",
+        "Baltic Sea",
+        "波羅的海"
+      ],
+      "media": [
+        "跨媒介",
+        "藝術駐村",
+        "場域研究"
+      ],
+      "works": "三週秋冬藝術駐村｜截止 2026.10.01",
+      "comment": "徵求研究波羅的海區域歷史與當代條件的藝術家，於 2027 秋冬進行三週創作，並在 Atelier Josepha 展示成果。",
+      "website": "https://www.josepha.org/call/",
+      "workPage": "https://www.josepha.org/call/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.josepha.org/call/",
+      "artistStatement": "徵求研究波羅的海區域歷史與當代條件的藝術家，於 2027 秋冬進行三週創作，並在 Atelier Josepha 展示成果。",
+      "artistStatementSource": "https://www.josepha.org/call/",
+      "classicTitle": "Atelier Josepha｜波羅的海藝術駐村 2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.josepha.org/call/",
+      "classicDesc": "徵求研究波羅的海區域歷史與當代條件的藝術家，於 2027 秋冬進行三週創作，並在 Atelier Josepha 展示成果。",
+      "deadline": "2026-10-01T23:59:59+02:00",
+      "deadlineLabel": "截止 2026.10.01",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Atelier Josepha / Crazy4Culture e.V.",
+      "eligibility": "國際藝術家；提案須回應波羅的海區域的歷史、文化或當代議題",
+      "budget": "提供三週工作室、鄰近住宿與成果展機會；官方頁未揭露現金津貼",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "competition-2026-08-30-03",
+      "dedupeKey": "opportunity-2026-08-30-das-minsk-culinary-residency",
+      "name": "03｜DAS MINSK｜Culinary Residency 2027",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Potsdam",
+      "cityKeywords": [
+        "Potsdam",
+        "波茨坦"
+      ],
+      "media": [
+        "社會參與",
+        "飲食藝術",
+        "跨領域駐村"
+      ],
+      "works": "藝術與飲食跨域駐村｜截止 2026.09.19 23:59 CEST",
+      "comment": "以博物館前身餐廳的歷史為起點，徵求把烹飪視為文化與藝術實踐的公共計畫，成果須進入博物館公共節目並與觀眾互動。",
+      "website": "https://dasminsk.de/residency",
+      "workPage": "https://dasminsk.de/residency",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://dasminsk.de/residency",
+      "artistStatement": "以博物館前身餐廳的歷史為起點，徵求把烹飪視為文化與藝術實踐的公共計畫，成果須進入博物館公共節目並與觀眾互動。",
+      "artistStatementSource": "https://dasminsk.de/residency",
+      "classicTitle": "DAS MINSK｜Culinary Residency 2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://dasminsk.de/residency",
+      "classicDesc": "以博物館前身餐廳的歷史為起點，徵求把烹飪視為文化與藝術實踐的公共計畫，成果須進入博物館公共節目並與觀眾互動。",
+      "deadline": "2026-09-19T23:59:00+02:00",
+      "deadlineLabel": "截止 2026.09.19 23:59 CEST",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "DAS MINSK Kunsthaus in Potsdam",
+      "eligibility": "廚師、藝術家、食物設計師及跨領域實踐者；國際申請者可投件",
+      "budget": "提供住宿、Deutschlandticket、展覽與工作空間，並可承擔提案製作費；現金津貼未公開",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "competition-2026-08-30-04",
+      "dedupeKey": "opportunity-2026-08-30-auburn-fire-hydrant-art",
+      "name": "04｜City of Auburn｜消防栓公共藝術計畫",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Auburn",
+      "cityKeywords": [
+        "Auburn",
+        "奧本",
+        "Downtown Auburn",
+        "奧本市中心"
+      ],
+      "media": [
+        "公共藝術",
+        "彩繪",
+        "街道設施"
+      ],
+      "works": "市中心消防栓彩繪設計｜截止 2026.09.09 23:59 PDT",
+      "comment": "藝術家可認養市中心消防栓並提出一至三款彩繪設計，鼓勵回應奧本的地方歷史、環境與街區特色。",
+      "website": "https://www.auburnwa.gov/city_hall/parks_arts_recreation/arts_and_entertainment/calls_to_artists_and_opportunities",
+      "workPage": "https://www.auburnwa.gov/city_hall/parks_arts_recreation/arts_and_entertainment/calls_to_artists_and_opportunities",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.auburnwa.gov/city_hall/parks_arts_recreation/arts_and_entertainment/calls_to_artists_and_opportunities",
+      "artistStatement": "藝術家可認養市中心消防栓並提出一至三款彩繪設計，鼓勵回應奧本的地方歷史、環境與街區特色。",
+      "artistStatementSource": "https://www.auburnwa.gov/city_hall/parks_arts_recreation/arts_and_entertainment/calls_to_artists_and_opportunities",
+      "classicTitle": "City of Auburn｜消防栓公共藝術計畫",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.auburnwa.gov/city_hall/parks_arts_recreation/arts_and_entertainment/calls_to_artists_and_opportunities",
+      "classicDesc": "藝術家可認養市中心消防栓並提出一至三款彩繪設計，鼓勵回應奧本的地方歷史、環境與街區特色。",
+      "deadline": "2026-09-09T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.09.09 23:59 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "Downtown Auburn Cooperative × City of Auburn × Auburn Arts Commission",
+      "eligibility": "Washington 州 Pierce 或 King County 藝術家；奧本在地藝術家優先",
+      "budget": "每位入選藝術家 US$400",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "competition-2026-08-30-05",
+      "dedupeKey": "opportunity-2026-08-30-city-davis-skate-park-mosaic-steps",
+      "name": "05｜City of Davis｜Skate Park 馬賽克階梯",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Davis",
+      "cityKeywords": [
+        "Davis",
+        "戴維斯",
+        "Community Park"
+      ],
+      "media": [
+        "公共藝術",
+        "馬賽克",
+        "陶瓷",
+        "公園"
+      ],
+      "works": "23 階戶外馬賽克公共藝術｜截止 2026.10.01 17:00 PDT",
+      "comment": "為新整建滑板公園的 23 個階梯立面徵求耐候陶瓷、玻璃或磁磚馬賽克，作品將成為引導訪客進入場地的永久視覺焦點。",
+      "website": "https://www.cityofdavis.org/Home/Components/News/News/9322/2985?backlist=%2F",
+      "workPage": "https://www.cityofdavis.org/Home/Components/News/News/9322/2985?backlist=%2F",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofdavis.org/Home/Components/News/News/9322/2985?backlist=%2F",
+      "artistStatement": "為新整建滑板公園的 23 個階梯立面徵求耐候陶瓷、玻璃或磁磚馬賽克，作品將成為引導訪客進入場地的永久視覺焦點。",
+      "artistStatementSource": "https://www.cityofdavis.org/Home/Components/News/News/9322/2985?backlist=%2F",
+      "classicTitle": "City of Davis｜Skate Park 馬賽克階梯",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofdavis.org/Home/Components/News/News/9322/2985?backlist=%2F",
+      "classicDesc": "為新整建滑板公園的 23 個階梯立面徵求耐候陶瓷、玻璃或磁磚馬賽克，作品將成為引導訪客進入場地的永久視覺焦點。",
+      "deadline": "2026-10-01T17:00:00-07:00",
+      "deadlineLabel": "截止 2026.10.01 17:00 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Davis Civic Arts Advisory Board",
+      "eligibility": "具資格的個人藝術家或藝術團隊；須能設計、製作與安裝戶外永久馬賽克",
+      "budget": "最高 US$28,000，含設計、材料、製作與安裝",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
       ]
     }
   ],

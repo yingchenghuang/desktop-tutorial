@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "generatedAt": "2026-08-30T05:06:38+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-08-30",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "LA Metro Art、NYC DOT、Central Park Conservancy、Museum der 1000 Orte 官方資料",
+    "note": "8/30 公共藝術固定 10＋5＋5；公開徵選另新增 5 則（德國 3 則）。",
+    "linkAudit": {
+      "checkedAt": "2026-08-30T05:06:38+08:00",
+      "checkedUniqueSources": 12,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "實際瀏覽器開啟官方頁；空白、失效、安全驗證或登入牆不發布"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-08-30T05:06:38+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "每筆使用可開啟官方頁的頁面預覽圖；Notion 置於標題下方正文"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-01",
+      "dedupeKey": "art-2026-08-30-eamon-ore-giron-infinite-landscape",
+      "name": "01｜Eamon Ore-Giron｜無限地景：洛杉磯永遠",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/La Brea"
+      ],
+      "media": [
+        "公共藝術",
+        "建築整合",
+        "交通空間"
+      ],
+      "works": "Infinite Landscape: Los Ángeles Para Siempre｜2026 進行中",
+      "comment": "以連續幾何與加州色彩把車站牆面轉化成流動地景，讓乘客在地下仍能感知洛杉磯的光線、文化與尺度。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "以連續幾何與加州色彩把車站牆面轉化成流動地景，讓乘客在地下仍能感知洛杉磯的光線、文化與尺度。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "Infinite Landscape: Los Ángeles Para Siempre",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "以連續幾何與加州色彩把車站牆面轉化成流動地景，讓乘客在地下仍能感知洛杉磯的光線、文化與尺度。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-02",
+      "dedupeKey": "art-2026-08-30-fran-siegel-reorientation",
+      "name": "02｜Fran Siegel｜重新定向",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/La Brea"
+      ],
+      "media": [
+        "公共藝術",
+        "繪圖",
+        "建築整合"
+      ],
+      "works": "Re:Orientation｜2026 進行中",
+      "comment": "將城市地圖、建築碎片與手繪線索層疊成新的方向系統，邀請乘客從交通節點重新辨認洛杉磯。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "將城市地圖、建築碎片與手繪線索層疊成新的方向系統，邀請乘客從交通節點重新辨認洛杉磯。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "Re:Orientation",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "將城市地圖、建築碎片與手繪線索層疊成新的方向系統，邀請乘客從交通節點重新辨認洛杉磯。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-03",
+      "dedupeKey": "art-2026-08-30-mark-dean-veca-miracle-la-brea",
+      "name": "03｜Mark Dean Veca｜La Brea 奇蹟",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/La Brea"
+      ],
+      "media": [
+        "壁畫",
+        "圖像設計",
+        "交通空間"
+      ],
+      "works": "Miracle of La Brea｜2026 進行中",
+      "comment": "以密集的有機線條放大在地歷史與街區想像，使車站成為一幅可被日常穿越的都市壁畫。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "以密集的有機線條放大在地歷史與街區想像，使車站成為一幅可被日常穿越的都市壁畫。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "Miracle of La Brea",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "以密集的有機線條放大在地歷史與街區想像，使車站成為一幅可被日常穿越的都市壁畫。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-04",
+      "dedupeKey": "art-2026-08-30-karl-haendel-hands-and-things",
+      "name": "04｜Karl Haendel｜手與物件",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/Fairfax"
+      ],
+      "media": [
+        "公共藝術",
+        "素描",
+        "建築整合"
+      ],
+      "works": "Hands and Things｜2026 進行中",
+      "comment": "以放大的手勢與日常物件建立非語言敘事，讓通勤者在不同觀看距離中讀到協作、觸碰與城市勞動。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "以放大的手勢與日常物件建立非語言敘事，讓通勤者在不同觀看距離中讀到協作、觸碰與城市勞動。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "Hands and Things",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "以放大的手勢與日常物件建立非語言敘事，讓通勤者在不同觀看距離中讀到協作、觸碰與城市勞動。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-05",
+      "dedupeKey": "art-2026-08-30-ken-gonzales-day-urban-excavation",
+      "name": "05｜Ken Gonzales-Day｜都市挖掘",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/Fairfax"
+      ],
+      "media": [
+        "攝影",
+        "公共藝術",
+        "檔案研究"
+      ],
+      "works": "Urban Excavation: Ancestors, Avatars, Bodhisattvas, Buddhas, Casts, Copies, Deities, Figures, Funerary Objects, Gods, Guardians, Mermaids, Metaphors, Mothers, Possessions, Sages, Spirits, Symbols, and Other Objects｜2026 進行中",
+      "comment": "以博物館藏品與城市文化史的多重影像重組觀看秩序，追問物件如何被收藏、命名與賦予權力。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "以博物館藏品與城市文化史的多重影像重組觀看秩序，追問物件如何被收藏、命名與賦予權力。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "Urban Excavation: Ancestors, Avatars, Bodhisattvas, Buddhas, Casts, Copies, Deities, Figures, Funerary Objects, Gods, Guardians, Mermaids, Metaphors, Mothers, Possessions, Sages, Spirits, Symbols, and Other Objects",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "以博物館藏品與城市文化史的多重影像重組觀看秩序，追問物件如何被收藏、命名與賦予權力。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-06",
+      "dedupeKey": "art-2026-08-30-susan-silton-we-our-us",
+      "name": "06｜Susan Silton｜我們／我們的／我們",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/Fairfax"
+      ],
+      "media": [
+        "文字藝術",
+        "公共藝術",
+        "社會參與"
+      ],
+      "works": "WE,OUR,US｜2026 進行中",
+      "comment": "以最基本的群體代名詞構成車站中的公共宣言，提醒每一次移動都同時涉及個人、共同體與歸屬。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "以最基本的群體代名詞構成車站中的公共宣言，提醒每一次移動都同時涉及個人、共同體與歸屬。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "WE,OUR,US",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "以最基本的群體代名詞構成車站中的公共宣言，提醒每一次移動都同時涉及個人、共同體與歸屬。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-07",
+      "dedupeKey": "art-2026-08-30-todd-gray-mining-archive",
+      "name": "07｜Todd Gray｜挖掘檔案：建築師 S. Charles Lee",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/La Cienega"
+      ],
+      "media": [
+        "攝影裝置",
+        "檔案藝術",
+        "交通空間"
+      ],
+      "works": "Mining the Archive: S. Charles Lee, Architect｜2026 進行中",
+      "comment": "從戲院建築檔案挖掘城市娛樂史，把被忽略的影像重新帶進洛杉磯當代公共運輸空間。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "從戲院建築檔案挖掘城市娛樂史，把被忽略的影像重新帶進洛杉磯當代公共運輸空間。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "Mining the Archive: S. Charles Lee, Architect",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "從戲院建築檔案挖掘城市娛樂史，把被忽略的影像重新帶進洛杉磯當代公共運輸空間。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-08",
+      "dedupeKey": "art-2026-08-30-mariana-castillo-deball-four-pleated-landscapes",
+      "name": "08｜Mariana Castillo Deball｜四幅褶皺地景",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/La Cienega"
+      ],
+      "media": [
+        "公共藝術",
+        "地景圖像",
+        "建築整合"
+      ],
+      "works": "Four Pleated Landscapes: Fossil Ground, Woven Cienega, Medicinal Flora, and Urban Desert Fauna｜2026 進行中",
+      "comment": "以化石地層、編織濕地、藥用植物與都市荒漠動物四組圖像，將地下車站變成可展開的地方知識褶頁。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "以化石地層、編織濕地、藥用植物與都市荒漠動物四組圖像，將地下車站變成可展開的地方知識褶頁。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "Four Pleated Landscapes: Fossil Ground, Woven Cienega, Medicinal Flora, and Urban Desert Fauna",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "以化石地層、編織濕地、藥用植物與都市荒漠動物四組圖像，將地下車站變成可展開的地方知識褶頁。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-09",
+      "dedupeKey": "art-2026-08-30-soo-kim-night-quartz",
+      "name": "09｜Soo Kim｜夜／石英",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "Wilshire/La Cienega"
+      ],
+      "media": [
+        "攝影",
+        "光影裝置",
+        "交通空間"
+      ],
+      "works": "Night / Quartz｜2026 進行中",
+      "comment": "以切割、反轉與透光影像連結夜色和礦物結晶，使車站牆面隨視角和照明產生不穩定的層次。",
+      "website": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "workPage": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "artistStatement": "以切割、反轉與透光影像連結夜色和礦物結晶，使車站牆面隨視角和照明產生不穩定的層次。",
+      "artistStatementSource": "https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicTitle": "Night / Quartz",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.metro.net/artworks/in-the-works/works-dlsep/",
+      "classicDesc": "以切割、反轉與透光影像連結夜色和礦物結晶，使車站牆面隨視角和照明產生不穩定的層次。",
+      "relatedByCity": [
+        "competition-2026-08-13-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "current-2026-08-30-10",
+      "dedupeKey": "art-2026-08-30-kevin-cincotta-mcguinness-boulevard-mural",
+      "name": "10｜Kevin Cincotta｜McGuinness Boulevard 社區壁畫",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Brooklyn",
+        "布魯克林",
+        "Greenpoint",
+        "綠點"
+      ],
+      "media": [
+        "街道壁畫",
+        "社區參與",
+        "交通安全"
+      ],
+      "works": "McGuinness Boulevard Community Mural｜2026",
+      "comment": "以居民意見發展綠點歷史與未來的抽象圖像，將新增行人空間與自行車安全設施轉化為可停留的公共場域。",
+      "website": "https://home4.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "workPage": "https://home4.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://home4.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "artistStatement": "以居民意見發展綠點歷史與未來的抽象圖像，將新增行人空間與自行車安全設施轉化為可停留的公共場域。",
+      "artistStatementSource": "https://home4.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "classicTitle": "McGuinness Boulevard Community Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://home4.nyc.gov/html/dot/html/pr2026/community-inspired-artwork-helps-transform-mcguinness-blvd.shtml",
+      "classicDesc": "以居民意見發展綠點歷史與未來的抽象圖像，將新增行人空間與自行車安全設施轉化為可停留的公共場域。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-global-2026-08-30-01",
+      "dedupeKey": "art-2026-08-30-jose-de-creeft-alice-in-wonderland",
+      "name": "全球經典01｜José de Creeft｜愛麗絲夢遊仙境",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "兒童文化"
+      ],
+      "works": "Alice in Wonderland｜1959",
+      "comment": "愛麗絲與仙境角色群聚在巨大蘑菇上，雕塑刻意允許孩子攀爬，使紀念物成為能被身體直接使用的公共想像。",
+      "website": "https://www.centralparknyc.org/locations/alice-in-wonderland",
+      "workPage": "https://www.centralparknyc.org/locations/alice-in-wonderland",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/alice-in-wonderland",
+      "artistStatement": "愛麗絲與仙境角色群聚在巨大蘑菇上，雕塑刻意允許孩子攀爬，使紀念物成為能被身體直接使用的公共想像。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/alice-in-wonderland",
+      "classicTitle": "Alice in Wonderland",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/alice-in-wonderland",
+      "classicDesc": "愛麗絲與仙境角色群聚在巨大蘑菇上，雕塑刻意允許孩子攀爬，使紀念物成為能被身體直接使用的公共想像。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-global-2026-08-30-02",
+      "dedupeKey": "art-2026-08-30-emma-stebbins-angel-of-the-waters",
+      "name": "全球經典02｜Emma Stebbins｜水之天使／貝塞斯達噴泉",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "水景"
+      ],
+      "works": "Angel of the Waters / Bethesda Fountain｜1873",
+      "comment": "天使、百合與四位小天使把克羅頓引水道帶來潔淨用水的歷史轉成治癒寓言；也是中央公園唯一由園方原始委託的藝術品。",
+      "website": "https://www.centralparknyc.org/locations/bethesda-fountain",
+      "workPage": "https://www.centralparknyc.org/locations/bethesda-fountain",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/bethesda-fountain",
+      "artistStatement": "天使、百合與四位小天使把克羅頓引水道帶來潔淨用水的歷史轉成治癒寓言；也是中央公園唯一由園方原始委託的藝術品。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/bethesda-fountain",
+      "classicTitle": "Angel of the Waters / Bethesda Fountain",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/bethesda-fountain",
+      "classicDesc": "天使、百合與四位小天使把克羅頓引水道帶來潔淨用水的歷史轉成治癒寓言；也是中央公園唯一由園方原始委託的藝術品。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-global-2026-08-30-03",
+      "dedupeKey": "art-2026-08-30-georg-lober-hans-christian-andersen",
+      "name": "全球經典03｜Georg Lober｜安徒生紀念像",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "文學紀念"
+      ],
+      "works": "Hans Christian Andersen｜1956",
+      "comment": "安徒生打開《醜小鴨》向腳邊鴨子朗讀，親近的坐姿讓兒童可攀上膝頭，並延伸出自 1957 年持續至今的夏季說故事傳統。",
+      "website": "https://www.centralparknyc.org/locations/hans-christian-andersen",
+      "workPage": "https://www.centralparknyc.org/locations/hans-christian-andersen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/hans-christian-andersen",
+      "artistStatement": "安徒生打開《醜小鴨》向腳邊鴨子朗讀，親近的坐姿讓兒童可攀上膝頭，並延伸出自 1957 年持續至今的夏季說故事傳統。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/hans-christian-andersen",
+      "classicTitle": "Hans Christian Andersen",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/hans-christian-andersen",
+      "classicDesc": "安徒生打開《醜小鴨》向腳邊鴨子朗讀，親近的坐姿讓兒童可攀上膝頭，並延伸出自 1957 年持續至今的夏季說故事傳統。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-global-2026-08-30-04",
+      "dedupeKey": "art-2026-08-30-augustus-saint-gaudens-william-sherman",
+      "name": "全球經典04｜Augustus Saint-Gaudens｜威廉・謝爾曼紀念碑",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園",
+        "Grand Army Plaza"
+      ],
+      "media": [
+        "騎馬雕像",
+        "鍍金青銅",
+        "紀念性公共藝術"
+      ],
+      "works": "William Tecumseh Sherman｜1903",
+      "comment": "勝利女神引領騎馬將軍的 24 英尺高群像以金色強化都市門戶感，而模特 Hettie Anderson 的身分也讓作品承載更複雜的再觀看。",
+      "website": "https://www.centralparknyc.org/locations/william-tecumseh-sherman",
+      "workPage": "https://www.centralparknyc.org/locations/william-tecumseh-sherman",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/william-tecumseh-sherman",
+      "artistStatement": "勝利女神引領騎馬將軍的 24 英尺高群像以金色強化都市門戶感，而模特 Hettie Anderson 的身分也讓作品承載更複雜的再觀看。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/william-tecumseh-sherman",
+      "classicTitle": "William Tecumseh Sherman",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/william-tecumseh-sherman",
+      "classicDesc": "勝利女神引領騎馬將軍的 24 英尺高群像以金色強化都市門戶感，而模特 Hettie Anderson 的身分也讓作品承載更複雜的再觀看。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-global-2026-08-30-05",
+      "dedupeKey": "art-2026-08-30-robert-graham-duke-ellington",
+      "name": "全球經典05｜Robert Graham｜艾靈頓公爵紀念像",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park North",
+        "中央公園北側",
+        "Harlem",
+        "哈林"
+      ],
+      "media": [
+        "公共雕塑",
+        "音樂紀念",
+        "青銅"
+      ],
+      "works": "Duke Ellington｜1997",
+      "comment": "艾靈頓與鋼琴高踞由三組女性形象支撐的平台，紀念碑以戲劇化尺度標記哈林門戶，也把音樂家的公共文化地位具象化。",
+      "website": "https://www.centralparknyc.org/locations/duke-ellington",
+      "workPage": "https://www.centralparknyc.org/locations/duke-ellington",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/duke-ellington",
+      "artistStatement": "艾靈頓與鋼琴高踞由三組女性形象支撐的平台，紀念碑以戲劇化尺度標記哈林門戶，也把音樂家的公共文化地位具象化。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/duke-ellington",
+      "classicTitle": "Duke Ellington",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/duke-ellington",
+      "classicDesc": "艾靈頓與鋼琴高踞由三組女性形象支撐的平台，紀念碑以戲劇化尺度標記哈林門戶，也把音樂家的公共文化地位具象化。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-german-2026-08-30-01",
+      "dedupeKey": "art-2026-08-30-renate-wolff-grosse-reise",
+      "name": "德國經典01｜Renate Wolff｜大旅行 Große Reise",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Mexico City",
+      "cityKeywords": [
+        "Mexico City",
+        "墨西哥城"
+      ],
+      "media": [
+        "空間繪畫",
+        "金箔",
+        "使館藝術"
+      ],
+      "works": "Große Reise｜2006",
+      "comment": "蒲公英與德國樹葉圖像跨越牆面和天花，與綠色、金色抽象色塊並置，在墨西哥的德國使館中建立雙重文化記憶。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise",
+      "artistStatement": "蒲公英與德國樹葉圖像跨越牆面和天花，與綠色、金色抽象色塊並置，在墨西哥的德國使館中建立雙重文化記憶。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise",
+      "classicTitle": "Große Reise",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise",
+      "classicDesc": "蒲公英與德國樹葉圖像跨越牆面和天花，與綠色、金色抽象色塊並置，在墨西哥的德國使館中建立雙重文化記憶。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-german-2026-08-30-02",
+      "dedupeKey": "art-2026-08-30-trak-wendisch-seiltanzer",
+      "name": "德國經典02｜TRAK Wendisch｜走鋼索者 Seiltänzer",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "公共雕塑",
+        "鋁鑄造",
+        "懸吊裝置"
+      ],
+      "works": "Seiltänzer｜2001",
+      "comment": "兩個纖細鋁鑄人形在 21 公尺高的庭院鋼索上平衡，以脆弱卻專注的姿態對照外交建築的權力網格。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/seiltanzer",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/seiltanzer",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/seiltanzer",
+      "artistStatement": "兩個纖細鋁鑄人形在 21 公尺高的庭院鋼索上平衡，以脆弱卻專注的姿態對照外交建築的權力網格。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/seiltanzer",
+      "classicTitle": "Seiltänzer",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/seiltanzer",
+      "classicDesc": "兩個纖細鋁鑄人形在 21 公尺高的庭院鋼索上平衡，以脆弱卻專注的姿態對照外交建築的權力網格。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-german-2026-08-30-03",
+      "dedupeKey": "art-2026-08-30-mark-di-suvero-lallume",
+      "name": "德國經典03｜Mark di Suvero｜燃起者 L’Allumé",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "公共雕塑",
+        "鋼構",
+        "動態平衡"
+      ],
+      "works": "L’Allumé｜1992",
+      "comment": "巨型鋼樑以斜向支點交錯，將工業材料轉成似乎隨時會啟動的空間構圖，身體繞行時可感到重量與平衡持續變化。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lallume",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lallume",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lallume",
+      "artistStatement": "巨型鋼樑以斜向支點交錯，將工業材料轉成似乎隨時會啟動的空間構圖，身體繞行時可感到重量與平衡持續變化。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lallume",
+      "classicTitle": "L’Allumé",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lallume",
+      "classicDesc": "巨型鋼樑以斜向支點交錯，將工業材料轉成似乎隨時會啟動的空間構圖，身體繞行時可感到重量與平衡持續變化。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-german-2026-08-30-04",
+      "dedupeKey": "art-2026-08-30-manuel-franke-zeitenklammer",
+      "name": "德國經典04｜Manuel Franke｜時間括弧 Zeitenklammer",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "建築整合",
+        "空間裝置",
+        "時間性藝術"
+      ],
+      "works": "Zeitenklammer｜1997",
+      "comment": "作品以介入建築結構的方式把不同歷史層次扣合，讓行政空間中的日常行走成為閱讀材料、節點與時間痕跡的過程。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitenklammer",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitenklammer",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitenklammer",
+      "artistStatement": "作品以介入建築結構的方式把不同歷史層次扣合，讓行政空間中的日常行走成為閱讀材料、節點與時間痕跡的過程。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitenklammer",
+      "classicTitle": "Zeitenklammer",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitenklammer",
+      "classicDesc": "作品以介入建築結構的方式把不同歷史層次扣合，讓行政空間中的日常行走成為閱讀材料、節點與時間痕跡的過程。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-08-30",
+      "id": "classic-german-2026-08-30-05",
+      "dedupeKey": "art-2026-08-30-annette-sauermann-doppelspirale",
+      "name": "德國經典05｜Annette Sauermann｜雙螺旋 Doppelspirale",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "空間雕塑",
+        "螺旋結構",
+        "建築整合"
+      ],
+      "works": "Doppelspirale｜2001",
+      "comment": "相互纏繞的雙螺旋把線性通行轉成環繞式觀看；形式在科學模型、植物生長與建築動線之間保持開放聯想。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "artistStatement": "相互纏繞的雙螺旋把線性通行轉成環繞式觀看；形式在科學模型、植物生長與建築動線之間保持開放聯想。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "classicTitle": "Doppelspirale",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "classicDesc": "相互纏繞的雙螺旋把線性通行轉成環繞式觀看；形式在科學模型、植物生長與建築動線之間保持開放聯想。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03"
+      ]
+    }
+  ]
+}

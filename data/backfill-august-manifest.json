@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-29-public-art-r41",
-  "generatedAt": "2026-08-29T04:53:24+08:00",
+  "version": "2026-08-30-public-art-r42",
+  "generatedAt": "2026-08-30T05:06:38+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -26,13 +26,14 @@
     "backfill-august-20260826.json",
     "backfill-august-20260827.json",
     "backfill-august-20260828.json",
-    "backfill-august-20260829.json"
+    "backfill-august-20260829.json",
+    "backfill-august-20260830.json"
   ],
-  "expectedEntries": 530,
-  "statementEntries": 530,
-  "statementSourceEntries": 530,
+  "expectedEntries": 550,
+  "statementEntries": 550,
+  "statementSourceEntries": 550,
   "statementBacklog": 0,
-  "note": "2026-08-29 新增固定20則公共藝術（10當期／5全球經典／5德國經典）；公開徵選新增5則（德國3則）。",
-  "imageEntries": 530,
+  "note": "2026-08-30 新增固定20則公共藝術（10當期／5全球經典／5德國經典）；公開徵選新增5則（德國3則）。",
+  "imageEntries": 550,
   "imageBacklog": 0
 }

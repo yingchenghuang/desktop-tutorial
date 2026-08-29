@@ -1,14 +1,14 @@
 {
-  "version": "2026-08-29-competition-r28",
-  "generatedAt": "2026-08-29T05:12:13+08:00",
+  "version": "2026-08-30-competition-r28",
+  "generatedAt": "2026-08-30T05:06:38+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 77,
+  "activeEntries": 81,
   "addedToday": 5,
-  "expiredRemoved": 0,
-  "deadlineTimezoneEntries": 77,
-  "deadlinePrecisionEntries": 77,
-  "cityKeywordEntries": 77,
-  "note": "2026-08-29 新增5則去重後公開徵選，保留既有有效競圖72則，移除逾期0則；撤換重複 Redmond 案，並修正科隆、Battenberg 與8月28日舊案的官方來源及未公開欄位。"
+  "expiredRemoved": 1,
+  "deadlineTimezoneEntries": 81,
+  "deadlinePrecisionEntries": 81,
+  "cityKeywordEntries": 81,
+  "note": "2026-08-30 新增5則公開徵選（德國3則），移除逾期1則；來源均已實際開啟驗證。"
 }
