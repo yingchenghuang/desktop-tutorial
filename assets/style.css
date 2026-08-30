@@ -392,7 +392,11 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
 .search input::placeholder{color:var(--ink-3)}
 .search input:focus{outline:none}
 .search input::-webkit-search-cancel-button{-webkit-appearance:none}
-.seg{display:flex;gap:clamp(14px,1.7vw,24px);white-space:nowrap}
+.seg{
+  display:flex;gap:clamp(14px,1.7vw,24px);white-space:nowrap;
+  max-width:100%;overflow-x:auto;scrollbar-width:none;
+}
+.seg::-webkit-scrollbar{display:none}
 .seg button{
   display:inline-flex;align-items:center;gap:7px;
   font-size:11px;font-weight:600;
@@ -522,6 +526,15 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   letter-spacing:.14em;text-transform:uppercase;
   color:var(--ink-3);
 }
+#global-exhibitions .archive-group-head{
+  border-bottom-color:var(--blue);
+}
+#global-exhibitions .archive-group-head h2{
+  display:flex;align-items:center;gap:12px;
+}
+#global-exhibitions .archive-group-head h2::after{
+  content:"";width:9px;height:9px;border-radius:50%;background:var(--blue);
+}
 .archive-group-grid{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(285px,1fr));
@@ -602,7 +615,13 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   color:var(--blue);
   font-size:10px;letter-spacing:.16em;
 }
-.card-meta .tiermark.competition{background:#111;color:#fff}
+.card-meta .tiermark.competition,
+.card-meta .tiermark.exhibition{
+  padding:3px 6px;
+  color:#fff;
+}
+.card-meta .tiermark.competition{background:#111}
+.card-meta .tiermark.exhibition{background:var(--blue)}
 .city-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}
 .city-tags i{font-style:normal;font-size:10px;letter-spacing:.04em;color:var(--blue)}
 .badge.deadline{background:#111;color:#fff;border-color:#111}
@@ -695,6 +714,10 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
 .badge::before{content:"";width:7px;height:7px;border-radius:50%;background:var(--ink);flex:none}
 .badge.dyn{color:var(--blue)}
 .badge.dyn::before{background:var(--blue)}
+.badge.exhibition{color:var(--blue)}
+.badge.exhibition::before{background:var(--blue)}
+.badge.exhibition-status{color:var(--ink)}
+.badge.exhibition-status::before{background:var(--ink)}
 .badge.official::before{background:var(--blue)}
 .badge.trusted::before{background:var(--ink)}
 .badge.watch::before{background:transparent;box-shadow:inset 0 0 0 1.5px var(--ink-3)}

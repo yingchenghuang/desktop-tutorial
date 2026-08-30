@@ -3,7 +3,7 @@
   'use strict';
 
   var REGION_ORDER = ['全球', '西方', '東亞', '南亞/中東', '非洲', '拉丁美洲', '大洋洲'];
-  var CAT_ORDER = ['公開徵件', '藝術家', '作品/展覽', '藝術節', '機構', '平台', '媒體/資料庫'];
+  var CAT_ORDER = ['公開徵件', '國際展覽', '藝術家', '作品/展覽', '藝術節', '機構', '平台', '媒體/資料庫'];
   var MEDIA_ORDER = ['雕塑', '裝置', '地景/大地藝術', '光/影像/投影', '數位/互動', '聲音/霧/水', '壁畫/街頭', '社會參與', '建築/場域', '紀念性公共藝術', '平台/策展'];
   var STATUS_ORDER = ['官方來源', '可信二手來源', '追蹤'];
 
@@ -146,6 +146,16 @@
       eligibility: text(raw.eligibility),
       budget: text(raw.budget),
       applicationFee: text(raw.applicationFee),
+      exhibitionType: text(raw.exhibitionType),
+      exhibitionStatus: text(raw.exhibitionStatus),
+      startDate: text(raw.startDate),
+      endDate: text(raw.endDate),
+      edition: text(raw.edition),
+      curator: text(raw.curator),
+      venue: text(raw.venue),
+      admission: text(raw.admission),
+      curatorStatement: text(raw.curatorStatement),
+      curatorStatementSource: text(raw.curatorStatementSource),
       relatedByCity: toArray(raw.relatedByCity),
       cityKeywords: toArray(raw.cityKeywords).concat(cityKeywords(raw)).filter(function (v, i, a) { return a.indexOf(v) === i; }),
       rank: parsed.rank,
@@ -155,6 +165,8 @@
     entry.searchText = [
       entry.name, entry.displayName, entry.subName, entry.country, entry.works, entry.comment,
       entry.artistStatement,
+      entry.curatorStatement, entry.exhibitionType, entry.exhibitionStatus, entry.edition,
+      entry.curator, entry.venue, entry.admission, entry.startDate, entry.endDate,
       entry.classicTitle, entry.classicDesc, entry.category, entry.tier, entry.region,
       entry.status, entry.media.join(' '), entry.cityKeywords.join(' '), entry.deadlineLabel
     ].join(' ').toLowerCase();
@@ -188,6 +200,7 @@
   function rankWeight(e) {
     if (e.rank) return parseInt(e.rank, 10);
     if (e.tier === '動態情報層') return 50;
+    if (e.tier === '全球重要展覽') return 70;
     return 120;
   }
 
@@ -253,8 +266,11 @@
       : '';
     var rank = e.rank ? esc(e.rank) : String(i + 1).padStart(2, '0');
     var tier = e.tier === '動態情報層' ? '<em class="tiermark">動態</em>' :
-      (e.tier === '競圖資料庫' ? '<em class="tiermark competition">公開徵選</em>' : '');
+      (e.tier === '競圖資料庫' ? '<em class="tiermark competition">公開徵選</em>' :
+        (e.tier === '全球重要展覽' ? '<em class="tiermark exhibition">重要展覽</em>' : ''));
     var cities = e.cityKeywords.length ? '<span class="city-tags">' + e.cityKeywords.slice(0, 2).map(function (city) { return '<i>#' + esc(city) + '</i>'; }).join('') + '</span>' : '';
+    var cardDate = e.deadlineLabel ? e.deadlineLabel :
+      (e.startDate && e.endDate ? displayDate(e.startDate) + '—' + displayDate(e.endDate) : displayDate(e.updated));
 
     return '<button class="card enter" style="--i:' + Math.min(i, 14) + '" data-id="' + esc(e.id) + '">' +
       '<span class="card-head">' +
@@ -267,7 +283,7 @@
       '<span class="card-body">' +
         '<h3 class="card-name">' + esc(e.displayName) + '</h3>' +
         (e.subName ? '<p class="card-sub">' + esc(e.subName) + '</p>' : '') +
-        '<p class="card-country">' + esc(e.country) + ' · ' + (e.deadlineLabel ? esc(e.deadlineLabel) : displayDate(e.updated)) + '</p>' +
+        '<p class="card-country">' + esc(e.country) + ' · ' + esc(cardDate) + '</p>' +
         cities +
         '<p class="card-comment">' + esc(e.comment) + '</p>' +
       '</span>' +
@@ -303,6 +319,12 @@
         entries: list.filter(function (e) {
           return e.tier === '經典檔案庫' && isGermanClassic(e);
         })
+      },
+      {
+        id: 'global-exhibitions',
+        title: '全球重要展覽',
+        note: 'Global exhibitions',
+        entries: list.filter(function (e) { return e.tier === '全球重要展覽'; })
       },
       {
         id: 'dynamic-art',
@@ -429,10 +451,12 @@
     var e = DATA.find(function (x) { return x.id === id; });
     if (!e) return;
 
-    var badges = '<span class="badge ' + (e.tier === '經典檔案庫' ? 'classic' : 'dyn') + '">' + esc(e.tier) + '</span>' +
+    var tierBadgeClass = e.tier === '全球重要展覽' ? 'exhibition' : (e.tier === '經典檔案庫' ? 'classic' : 'dyn');
+    var badges = '<span class="badge ' + tierBadgeClass + '">' + esc(e.tier) + '</span>' +
       '<span class="badge ' + statusClass(e.status) + '">' + esc(e.status) + '</span>' +
       (e.deadlineLabel ? '<span class="badge deadline">' + esc(e.deadlineLabel) + '</span>' : '') +
-      (e.rank ? '<span class="badge dyn">關注度 ' + esc(e.rank) + '</span>' : '');
+      (e.exhibitionStatus ? '<span class="badge exhibition-status">' + esc(e.exhibitionStatus) + '</span>' : '') +
+      (e.rank && e.tier === '動態情報層' ? '<span class="badge dyn">關注度 ' + esc(e.rank) + '</span>' : '');
 
     var fig = e.classicImage
       ? '<figure><img referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.closest(\'figure\').style.display=\'none\'">' +
@@ -454,11 +478,29 @@
           .map(function (value) { return esc(value); }).join('<em>·</em>') + '</p></div>'
       : '';
 
+    var exhibitionDetails = e.tier === '全球重要展覽'
+      ? '<div class="block"><div class="block-label">展覽資訊</div><p class="works-line">' +
+        [e.exhibitionType || '國際展覽', e.edition || '屆次未標記',
+          (e.startDate && e.endDate ? displayDate(e.startDate) + '—' + displayDate(e.endDate) : '展期未標記'),
+          '主辦 ' + (e.organizer || '未標記'), '策展 ' + (e.curator || '未標記'),
+          '場地 ' + (e.venue || '未標記'), '入場 ' + (e.admission || '依官方公告')]
+          .map(function (value) { return esc(value); }).join('<em>·</em>') + '</p></div>'
+      : '';
+
     var artistStatement = e.artistStatement
       ? '<div class="block statement-block"><div class="block-label">創作者創作論述</div>' +
         '<p class="artist-statement">' + esc(e.artistStatement) + '</p>' +
         (e.artistStatementSource
           ? '<a class="statement-source" href="' + esc(e.artistStatementSource) + '" target="_blank" rel="noopener">第一方論述來源</a>'
+          : '') +
+        '</div>'
+      : '';
+
+    var curatorStatement = e.curatorStatement
+      ? '<div class="block statement-block"><div class="block-label">策展論述</div>' +
+        '<p class="artist-statement">' + esc(e.curatorStatement) + '</p>' +
+        (e.curatorStatementSource
+          ? '<a class="statement-source" href="' + esc(e.curatorStatementSource) + '" target="_blank" rel="noopener">官方策展論述</a>'
           : '') +
         '</div>'
       : '';
@@ -476,7 +518,7 @@
 
     var related = DATA.filter(function (candidate) {
       if (candidate.id === e.id) return false;
-      var crossDatabase = (e.tier === '競圖資料庫') !== (candidate.tier === '競圖資料庫');
+      var crossDatabase = e.tier !== candidate.tier;
       return crossDatabase && candidate.cityKeywords.some(function (city) { return e.cityKeywords.indexOf(city) >= 0; });
     }).slice(0, 6);
     var relatedHtml = related.length
@@ -497,7 +539,7 @@
       fig +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      artistStatement + works + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
+      curatorStatement + artistStatement + works + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
@@ -609,20 +651,27 @@
 
   Promise.all([
     fetch('data/artists.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/exhibitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/competitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
-    fetch('data/competition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    fetch('data/competition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/exhibition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
   ])
     .then(function (payloads) {
       var json = payloads[0];
-      var competitions = payloads[1];
+      var exhibitions = payloads[1];
+      var competitions = payloads[2];
       META = json.meta || {};
-      META.competitionManifestVersion = payloads[2].version || '';
-      var rawEntries = (Array.isArray(json) ? json : (json.entries || [])).concat((competitions.entries || []).filter(function (entry) { return !isExpired(entry); }));
+      META.competitionManifestVersion = payloads[3].version || '';
+      META.exhibitionManifestVersion = payloads[4].version || '';
+      META.exhibitionTotal = (exhibitions.entries || []).length;
+      var rawEntries = (Array.isArray(json) ? json : (json.entries || []))
+        .concat(exhibitions.entries || [])
+        .concat((competitions.entries || []).filter(function (entry) { return !isExpired(entry); }));
       DATA = rawEntries.map(normalizeEntry).filter(function (e) { return e.name && e.name !== '未命名條目'; });
       DATA.forEach(function (entry) {
         entry.relatedByCity = DATA.filter(function (candidate) {
           if (candidate.id === entry.id) return false;
-          var crossDatabase = (entry.tier === '競圖資料庫') !== (candidate.tier === '競圖資料庫');
+          var crossDatabase = entry.tier !== candidate.tier;
           return crossDatabase && candidate.cityKeywords.some(function (city) { return entry.cityKeywords.indexOf(city) >= 0; });
         }).map(function (candidate) { return candidate.id; });
       });

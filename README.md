@@ -8,6 +8,9 @@
 - `assets/style.css`：視覺系統與響應式排版
 - `assets/app.js`：資料載入、搜尋、篩選、詳細面板
 - `data/artists.json`：網站使用的公開資料
+- `data/exhibitions.json`：每日 5 篇全球重要展覽的獨立資料層
+- `data/exhibition-manifest.json`：全球重要展覽版本、數量與圖片稽核
+- `data/competitions.json`：仍在有效期限內的公開徵選
 - `scripts/sync-notion.mjs`：Notion API 同步腳本
 - `.github/workflows/sync-notion.yml`：每日同步排程
 
@@ -30,6 +33,8 @@
    `d1232d1e8e284745a0d14cd7d911ec62`
 
 排程會在台北時間每日 06:00 同步 Notion，並提交更新後的 `data/artists.json`。需要立即更新時，到 GitHub **Actions → 每日同步 Notion → Run workflow** 手動執行。
+
+每日內容規格另固定為公共藝術 20 則（動態 10、全球經典 5、德國經典 5）、有效公開徵選 5 則，以及獨立的全球重要展覽 5 篇。全球重要展覽須包含展期、類型、屆次、主辦、策展、場地、城市關鍵字、策展論述、官方來源與可顯示圖片；前台以「全球重要展覽」獨立篩選與區塊呈現，不混入全球經典作品。
 
 ## 本地預覽
 

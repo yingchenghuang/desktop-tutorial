@@ -1,0 +1,13 @@
+{
+  "version": "2026-08-31-global-exhibitions-r1",
+  "generatedAt": "2026-08-31T06:10:00+08:00",
+  "files": [
+    "exhibitions.json"
+  ],
+  "dailyTarget": 5,
+  "totalEntries": 5,
+  "addedToday": 5,
+  "officialSourceEntries": 5,
+  "imageEntries": 5,
+  "note": "2026-08-31 建立全球重要展覽獨立資料層，新增 5 篇；不計入全球經典作品。實際瀏覽器健檢後，以可正常顯示的主辦方替代頁換掉 2 個逾時或空白網址。"
+}
