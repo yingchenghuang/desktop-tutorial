@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-31-public-art-r43",
-  "generatedAt": "2026-08-31T18:01:00+08:00",
+  "version": "2026-08-31-public-art-r44-vienna",
+  "generatedAt": "2026-08-31T18:50:00+08:00",
   "files": [
     "backfill-august-20260801.json",
     "backfill-august-20260802.json",
@@ -28,13 +28,14 @@
     "backfill-august-20260828.json",
     "backfill-august-20260829.json",
     "backfill-august-20260830.json",
-    "backfill-august-20260831.json"
+    "backfill-august-20260831.json",
+    "backfill-august-20260831-vienna.json"
   ],
-  "expectedEntries": 570,
-  "statementEntries": 570,
-  "statementSourceEntries": 570,
+  "expectedEntries": 576,
+  "statementEntries": 576,
+  "statementSourceEntries": 576,
   "statementBacklog": 0,
-  "note": "2026-08-31 新增固定20則公共藝術（10動態／5全球經典／5德國經典）；另有全球重要展覽5篇與有效公開徵選5則。",
-  "imageEntries": 570,
+  "note": "2026-08-31 固定日更為20則公共藝術（10動態／5全球經典／5德國經典），另有全球重要展覽5篇與有效公開徵選5則；依使用者指定再加入 KÖR Wien 機構主檔1筆與維也納官方案例5筆。",
+  "imageEntries": 576,
   "imageBacklog": 0
 }
