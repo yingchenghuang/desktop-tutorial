@@ -1,0 +1,14 @@
+{
+  "version": "2026-09-01-public-art-r45",
+  "generatedAt": "2026-09-01T04:20:16+08:00",
+  "files": [
+    "backfill-september-20260901.json"
+  ],
+  "expectedEntries": 20,
+  "statementEntries": 20,
+  "statementSourceEntries": 20,
+  "statementBacklog": 0,
+  "imageEntries": 20,
+  "imageBacklog": 0,
+  "note": "2026-09-01 新增固定 20 則公共藝術（10 動態／5 全球經典／5 德國經典）。"
+}

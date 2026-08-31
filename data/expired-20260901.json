@@ -1,0 +1,45 @@
+{
+  "archivedAt": "2026-09-01T04:20:16+08:00",
+  "entries": [
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-27",
+      "id": "competition-2026-08-27-01",
+      "dedupeKey": "opportunity-2026-08-27-south-portland-greenbelt-murals",
+      "name": "01｜South Portland｜Greenbelt Art Trail Murals",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / South Portland",
+      "cityKeywords": [
+        "South Portland",
+        "南波特蘭"
+      ],
+      "media": [
+        "壁畫",
+        "公共步道"
+      ],
+      "works": "Greenbelt 公共藝術步道 4×8 呎雙面壁畫｜截止 2026.08.31 14:00",
+      "comment": "城市公共藝術委員會徵求藝術家在綠帶步道木製畫面上創作壁畫；須先於市府投標系統註冊並提交概念與過往作品。",
+      "website": "https://southportland.gov/bids.aspx?bidID=81",
+      "workPage": "https://southportland.gov/bids.aspx?bidID=81",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://southportland.gov/bids.aspx?bidID=81",
+      "artistStatement": "城市公共藝術委員會徵求藝術家在綠帶步道木製畫面上創作壁畫；須先於市府投標系統註冊並提交概念與過往作品。",
+      "artistStatementSource": "https://southportland.gov/bids.aspx?bidID=81",
+      "classicTitle": "South Portland｜Greenbelt Art Trail Murals",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://southportland.gov/bids.aspx?bidID=81",
+      "classicDesc": "城市公共藝術委員會徵求藝術家在綠帶步道木製畫面上創作壁畫；須先於市府投標系統註冊並提交概念與過往作品。",
+      "deadline": "2026-08-31T14:00:00-04:00",
+      "deadlineLabel": "截止 2026.08.31",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "time",
+      "organizer": "City of South Portland Public Arts Committee",
+      "eligibility": "藝術家；須完成市府投標註冊並提交PDF提案",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": [
+
+      ]
+    }
+  ]
+}

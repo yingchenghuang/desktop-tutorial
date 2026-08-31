@@ -1,0 +1,758 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-01T04:20:16+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-01",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte、Central Park Conservancy 官方頁",
+    "note": "9/1 公共藝術固定 10＋5＋5；另有德國公開徵選 5 則與全球重要展覽 5 篇。",
+    "linkAudit": {
+      "checkedAt": "2026-09-01T04:20:16+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "發布前實際瀏覽器逐一開啟官方來源"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-01T04:20:16+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "以可載入的官方頁預覽截圖顯示；Notion 圖片置於標題下方正文"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-01",
+      "dedupeKey": "art-2026-09-01-florentina-holzinger-pfingstspiel",
+      "name": "01｜Florentina Holzinger｜Pfingstspiel 五旬節遊戲",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "表演藝術",
+        "公共空間",
+        "身體藝術"
+      ],
+      "works": "Pfingstspiel / Pentecost Play｜2026",
+      "comment": "以身體、儀式與群體行動介入維也納公共場域，讓節慶傳統成為重新協商觀看、權力與城市共同體的現場。",
+      "website": "https://www.koer.or.at/projects/pfingstspiel-pentecost-play/",
+      "workPage": "https://www.koer.or.at/projects/pfingstspiel-pentecost-play/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/pfingstspiel-pentecost-play/",
+      "artistStatement": "以身體、儀式與群體行動介入維也納公共場域，讓節慶傳統成為重新協商觀看、權力與城市共同體的現場。",
+      "artistStatementSource": "https://www.koer.or.at/projects/pfingstspiel-pentecost-play/",
+      "classicTitle": "Pfingstspiel / Pentecost Play｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/pfingstspiel-pentecost-play/",
+      "classicDesc": "以身體、儀式與群體行動介入維也納公共場域，讓節慶傳統成為重新協商觀看、權力與城市共同體的現場。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-02",
+      "dedupeKey": "art-2026-09-01-claudia-maerzendorfer-chicken-duck-egg",
+      "name": "02｜Claudia Märzendorfer｜A Chicken Can't Lay a Duck Egg",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共裝置",
+        "雕塑",
+        "社會寓言"
+      ],
+      "works": "A Chicken Can't Lay a Duck Egg｜2026",
+      "comment": "以看似荒謬的命題檢視城市規範與期待如何塑造個體，作品把日常語句轉成可被共同討論的公共寓言。",
+      "website": "https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "workPage": "https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "artistStatement": "以看似荒謬的命題檢視城市規範與期待如何塑造個體，作品把日常語句轉成可被共同討論的公共寓言。",
+      "artistStatementSource": "https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "classicTitle": "A Chicken Can't Lay a Duck Egg｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "classicDesc": "以看似荒謬的命題檢視城市規範與期待如何塑造個體，作品把日常語句轉成可被共同討論的公共寓言。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-03",
+      "dedupeKey": "art-2026-09-01-francesca-aldegani-happy-medium",
+      "name": "03｜Francesca Aldegani｜The Happy Medium",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共裝置",
+        "雕塑",
+        "場域藝術"
+      ],
+      "works": "The Happy Medium｜2026",
+      "comment": "作品在平衡、妥協與愉悅之間保留張力，透過城市尺度的構造提醒公共空間從來不是單一立場的容器。",
+      "website": "https://www.koer.or.at/projects/the-happy-medium/",
+      "workPage": "https://www.koer.or.at/projects/the-happy-medium/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/the-happy-medium/",
+      "artistStatement": "作品在平衡、妥協與愉悅之間保留張力，透過城市尺度的構造提醒公共空間從來不是單一立場的容器。",
+      "artistStatementSource": "https://www.koer.or.at/projects/the-happy-medium/",
+      "classicTitle": "The Happy Medium｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/the-happy-medium/",
+      "classicDesc": "作品在平衡、妥協與愉悅之間保留張力，透過城市尺度的構造提醒公共空間從來不是單一立場的容器。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-04",
+      "dedupeKey": "art-2026-09-01-folke-koebberling-maaaaash",
+      "name": "04｜Folke Köbberling｜Maaaaash!",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "再生材料",
+        "公共裝置",
+        "社會參與"
+      ],
+      "works": "Maaaaash!｜2026",
+      "comment": "以再利用與集體勞動回應城市資源消耗，讓材料的磨損、重組與使用痕跡成為公共生活的一部分。",
+      "website": "https://www.koer.or.at/projects/maaaaash/",
+      "workPage": "https://www.koer.or.at/projects/maaaaash/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/maaaaash/",
+      "artistStatement": "以再利用與集體勞動回應城市資源消耗，讓材料的磨損、重組與使用痕跡成為公共生活的一部分。",
+      "artistStatementSource": "https://www.koer.or.at/projects/maaaaash/",
+      "classicTitle": "Maaaaash!｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/maaaaash/",
+      "classicDesc": "以再利用與集體勞動回應城市資源消耗，讓材料的磨損、重組與使用痕跡成為公共生活的一部分。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-05",
+      "dedupeKey": "art-2026-09-01-johanna-dohnal-ar-pioneer",
+      "name": "05｜KÖR Wien｜Remembering a Pioneer：Johanna Dohnal AR",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "擴增實境",
+        "數位紀念",
+        "公共史"
+      ],
+      "works": "Remembering a Pioneer — Johanna Dohnal in AR｜2026",
+      "comment": "透過擴增實境把奧地利女性政治史帶回城市現場，使紀念不只是一座固定物件，而是可被重新進入與更新的公共敘事。",
+      "website": "https://www.koer.or.at/projects/remembering-a-pioneer/",
+      "workPage": "https://www.koer.or.at/projects/remembering-a-pioneer/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/remembering-a-pioneer/",
+      "artistStatement": "透過擴增實境把奧地利女性政治史帶回城市現場，使紀念不只是一座固定物件，而是可被重新進入與更新的公共敘事。",
+      "artistStatementSource": "https://www.koer.or.at/projects/remembering-a-pioneer/",
+      "classicTitle": "Remembering a Pioneer — Johanna Dohnal in AR｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/remembering-a-pioneer/",
+      "classicDesc": "透過擴增實境把奧地利女性政治史帶回城市現場，使紀念不只是一座固定物件，而是可被重新進入與更新的公共敘事。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-06",
+      "dedupeKey": "art-2026-09-01-tim-trantenroth-untitled",
+      "name": "06｜Tim Trantenroth｜無題：Schlüterhof 幾何牆畫",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Humboldt Forum",
+        "洪堡論壇"
+      ],
+      "media": [
+        "壁畫",
+        "幾何抽象",
+        "建築整合"
+      ],
+      "works": "o. T.｜2022",
+      "comment": "大型幾何網格跨越洪堡論壇兩層樓梯牆面，藉由錯視、比例與建築邊界，讓移動中的觀者重新判讀表面與深度。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-18",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-18",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-18",
+      "artistStatement": "大型幾何網格跨越洪堡論壇兩層樓梯牆面，藉由錯視、比例與建築邊界，讓移動中的觀者重新判讀表面與深度。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-18",
+      "classicTitle": "o. T.｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-18",
+      "classicDesc": "大型幾何網格跨越洪堡論壇兩層樓梯牆面，藉由錯視、比例與建築邊界，讓移動中的觀者重新判讀表面與深度。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-07",
+      "dedupeKey": "art-2026-09-01-emeka-ogboh-kosmos",
+      "name": "07｜Emeka Ogboh｜Der Kosmos — Things fall apart",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Humboldt Forum",
+        "洪堡論壇"
+      ],
+      "media": [
+        "聲音裝置",
+        "殖民史",
+        "建築整合"
+      ],
+      "works": "Der Kosmos — Things fall apart｜2021",
+      "comment": "聲音作品在重建王宮的空間中處理殖民史與知識權力，讓聽覺成為質疑博物館敘事與城市記憶的方法。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-kosmos-things-fall-apart",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-kosmos-things-fall-apart",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-kosmos-things-fall-apart",
+      "artistStatement": "聲音作品在重建王宮的空間中處理殖民史與知識權力，讓聽覺成為質疑博物館敘事與城市記憶的方法。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-kosmos-things-fall-apart",
+      "classicTitle": "Der Kosmos — Things fall apart｜2021",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-kosmos-things-fall-apart",
+      "classicDesc": "聲音作品在重建王宮的空間中處理殖民史與知識權力，讓聽覺成為質疑博物館敘事與城市記憶的方法。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-08",
+      "dedupeKey": "art-2026-09-01-beerenpetry-262-klinken",
+      "name": "08｜BeerenPetry｜262 Klinken 門把介入",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Rosa-Luxemburg-Stiftung"
+      ],
+      "media": [
+        "建築整合",
+        "互動裝置",
+        "日常物件"
+      ],
+      "works": "262 Klinken｜2021",
+      "comment": "262 個彼此不同的門把分布於辦公與諮詢空間，透過每日觸碰讓制度建築中的差異、接觸與通行被身體感知。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/262-klinken",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/262-klinken",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/262-klinken",
+      "artistStatement": "262 個彼此不同的門把分布於辦公與諮詢空間，透過每日觸碰讓制度建築中的差異、接觸與通行被身體感知。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/262-klinken",
+      "classicTitle": "262 Klinken｜2021",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/262-klinken",
+      "classicDesc": "262 個彼此不同的門把分布於辦公與諮詢空間，透過每日觸碰讓制度建築中的差異、接觸與通行被身體感知。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-09",
+      "dedupeKey": "art-2026-09-01-schiffers-sprenger-insurgentes-sur",
+      "name": "09｜Schiffers und Sprenger｜Insurgentes sur",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Humboldt Forum",
+        "洪堡論壇"
+      ],
+      "media": [
+        "影像裝置",
+        "建築整合",
+        "殖民史"
+      ],
+      "works": "Insurgentes sur｜2021",
+      "comment": "作品以重疊影像與不穩定意義介入洪堡論壇，在可見與不可見之間追問殖民物件、歷史圖像和當代建築如何彼此覆寫。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insurgentes-sur",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insurgentes-sur",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insurgentes-sur",
+      "artistStatement": "作品以重疊影像與不穩定意義介入洪堡論壇，在可見與不可見之間追問殖民物件、歷史圖像和當代建築如何彼此覆寫。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insurgentes-sur",
+      "classicTitle": "Insurgentes sur｜2021",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insurgentes-sur",
+      "classicDesc": "作品以重疊影像與不穩定意義介入洪堡論壇，在可見與不可見之間追問殖民物件、歷史圖像和當代建築如何彼此覆寫。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "current-2026-09-01-10",
+      "dedupeKey": "art-2026-09-01-stefan-sous-zeitmaschine",
+      "name": "10｜Stefan Sous｜Zeitmaschine 時光機",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "公共雕塑",
+        "金屬裝置",
+        "建築整合"
+      ],
+      "works": "Zeitmaschine｜2020",
+      "comment": "工業性構件被組成近似儀器的公共雕塑，既指向技術進步，也讓聯邦建築中的時間、制度與記憶形成開放聯想。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitmaschine",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitmaschine",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitmaschine",
+      "artistStatement": "工業性構件被組成近似儀器的公共雕塑，既指向技術進步，也讓聯邦建築中的時間、制度與記憶形成開放聯想。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitmaschine",
+      "classicTitle": "Zeitmaschine｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitmaschine",
+      "classicDesc": "工業性構件被組成近似儀器的公共雕塑，既指向技術進步，也讓聯邦建築中的時間、制度與記憶形成開放聯想。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-global-2026-09-01-01",
+      "dedupeKey": "art-2026-09-01-george-simonds-falconer",
+      "name": "全球經典01｜George Blackall Simonds｜The Falconer 放鷹者",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "動物題材"
+      ],
+      "works": "The Falconer｜1875",
+      "comment": "男子站在岩丘上高舉手臂放飛獵鷹，垂直動勢把公園的自然地形、狩獵想像與十九世紀公共雕塑傳統連成一體。",
+      "website": "https://www.centralparknyc.org/locations/the-falconer",
+      "workPage": "https://www.centralparknyc.org/locations/the-falconer",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/the-falconer",
+      "artistStatement": "男子站在岩丘上高舉手臂放飛獵鷹，垂直動勢把公園的自然地形、狩獵想像與十九世紀公共雕塑傳統連成一體。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/the-falconer",
+      "classicTitle": "The Falconer｜1875",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/the-falconer",
+      "classicDesc": "男子站在岩丘上高舉手臂放飛獵鷹，垂直動勢把公園的自然地形、狩獵想像與十九世紀公共雕塑傳統連成一體。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-global-2026-09-01-02",
+      "dedupeKey": "art-2026-09-01-gaetano-russo-columbus-circle",
+      "name": "全球經典02｜Gaetano Russo｜Columbus Circle Monument",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Columbus Circle",
+        "哥倫布圓環"
+      ],
+      "media": [
+        "紀念碑",
+        "大理石",
+        "都市地標"
+      ],
+      "works": "Columbus Circle Monument｜1892",
+      "comment": "大理石人物立於高柱頂端，船隻浮雕與持地球的翼像共同構成城市圓環的視覺中心；其移民紀念脈絡也持續接受當代重新檢視。",
+      "website": "https://www.centralparknyc.org/locations/columbus-circle-monument",
+      "workPage": "https://www.centralparknyc.org/locations/columbus-circle-monument",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/columbus-circle-monument",
+      "artistStatement": "大理石人物立於高柱頂端，船隻浮雕與持地球的翼像共同構成城市圓環的視覺中心；其移民紀念脈絡也持續接受當代重新檢視。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/columbus-circle-monument",
+      "classicTitle": "Columbus Circle Monument｜1892",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/columbus-circle-monument",
+      "classicDesc": "大理石人物立於高柱頂端，船隻浮雕與持地球的翼像共同構成城市圓環的視覺中心；其移民紀念脈絡也持續接受當代重新檢視。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-global-2026-09-01-03",
+      "dedupeKey": "art-2026-09-01-carl-conrads-alexander-hamilton",
+      "name": "全球經典03｜Carl H. Conrads｜Alexander Hamilton",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "花崗岩",
+        "人物雕塑"
+      ],
+      "works": "Alexander Hamilton｜1880",
+      "comment": "整體以花崗岩雕成的漢密爾頓手持文件、另一手置於背心，將政治人物的辯論與建國形象嵌入公園步行路徑。",
+      "website": "https://www.centralparknyc.org/locations/alexander-hamilton",
+      "workPage": "https://www.centralparknyc.org/locations/alexander-hamilton",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/alexander-hamilton",
+      "artistStatement": "整體以花崗岩雕成的漢密爾頓手持文件、另一手置於背心，將政治人物的辯論與建國形象嵌入公園步行路徑。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/alexander-hamilton",
+      "classicTitle": "Alexander Hamilton｜1880",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/alexander-hamilton",
+      "classicDesc": "整體以花崗岩雕成的漢密爾頓手持文件、另一手置於背心，將政治人物的辯論與建國形象嵌入公園步行路徑。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-global-2026-09-01-04",
+      "dedupeKey": "art-2026-09-01-frederick-roth-balto",
+      "name": "全球經典04｜Frederick Roth｜Balto 雪橇犬紀念像",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "動物紀念"
+      ],
+      "works": "Balto｜1925",
+      "comment": "紀念 1925 年阿拉斯加血清接力的雪橇犬英雄；長年被孩童觸摸與攀爬的表面，使公共記憶透過身體接觸延續。",
+      "website": "https://www.centralparknyc.org/locations/balto-statue",
+      "workPage": "https://www.centralparknyc.org/locations/balto-statue",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/balto-statue",
+      "artistStatement": "紀念 1925 年阿拉斯加血清接力的雪橇犬英雄；長年被孩童觸摸與攀爬的表面，使公共記憶透過身體接觸延續。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/balto-statue",
+      "classicTitle": "Balto｜1925",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/balto-statue",
+      "classicDesc": "紀念 1925 年阿拉斯加血清接力的雪橇犬英雄；長年被孩童觸摸與攀爬的表面，使公共記憶透過身體接觸延續。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-global-2026-09-01-05",
+      "dedupeKey": "art-2026-09-01-jqa-ward-indian-hunter",
+      "name": "全球經典05｜John Quincy Adams Ward｜Indian Hunter",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "狩獵題材"
+      ],
+      "works": "Indian Hunter｜1869",
+      "comment": "獵人與犬以低伏、前進的動勢構成公園早期青銅群像；今日閱讀同時須面對十九世紀對原住民形象的理想化與類型化。",
+      "website": "https://www.centralparknyc.org/locations/indian-hunter",
+      "workPage": "https://www.centralparknyc.org/locations/indian-hunter",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/indian-hunter",
+      "artistStatement": "獵人與犬以低伏、前進的動勢構成公園早期青銅群像；今日閱讀同時須面對十九世紀對原住民形象的理想化與類型化。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/indian-hunter",
+      "classicTitle": "Indian Hunter｜1869",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/indian-hunter",
+      "classicDesc": "獵人與犬以低伏、前進的動勢構成公園早期青銅群像；今日閱讀同時須面對十九世紀對原住民形象的理想化與類型化。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-german-2026-09-01-01",
+      "dedupeKey": "art-2026-09-01-fritz-koenig-maternitas",
+      "name": "德國經典01｜Fritz Koenig｜Mutter und Kind／Maternitas",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "抽象人物"
+      ],
+      "works": "Mutter und Kind / Maternitas｜1964",
+      "comment": "Koenig 以壓縮的人體體塊和幾何結構表現母子依存，克制的形式讓親密關係與建築尺度在公共空間中保持張力。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas",
+      "artistStatement": "Koenig 以壓縮的人體體塊和幾何結構表現母子依存，克制的形式讓親密關係與建築尺度在公共空間中保持張力。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas",
+      "classicTitle": "Mutter und Kind / Maternitas｜1964",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas",
+      "classicDesc": "Koenig 以壓縮的人體體塊和幾何結構表現母子依存，克制的形式讓親密關係與建築尺度在公共空間中保持張力。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-german-2026-09-01-02",
+      "dedupeKey": "art-2026-09-01-kornbrust-lechner-robert-schuman-platz",
+      "name": "德國經典02｜Kornbrust／Lechner｜Robert-Schuman-Platz 廣場設計",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "Robert-Schuman-Platz"
+      ],
+      "media": [
+        "地景設計",
+        "石材雕塑",
+        "都市廣場"
+      ],
+      "works": "Platzgestaltung Robert-Schuman-Platz｜1987",
+      "comment": "雕塑與鋪面不再各自獨立，而以整體地景組織入口、停留和步行，使聯邦辦公區的前庭成為可使用的城市空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzgestaltung-robert-schuman-platz",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzgestaltung-robert-schuman-platz",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzgestaltung-robert-schuman-platz",
+      "artistStatement": "雕塑與鋪面不再各自獨立，而以整體地景組織入口、停留和步行，使聯邦辦公區的前庭成為可使用的城市空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzgestaltung-robert-schuman-platz",
+      "classicTitle": "Platzgestaltung Robert-Schuman-Platz｜1987",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzgestaltung-robert-schuman-platz",
+      "classicDesc": "雕塑與鋪面不再各自獨立，而以整體地景組織入口、停留和步行，使聯邦辦公區的前庭成為可使用的城市空間。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-german-2026-09-01-03",
+      "dedupeKey": "art-2026-09-01-leo-kornbrust-untitled-sphere",
+      "name": "德國經典03｜Leo Kornbrust｜o. T.（Kugel）無題球體",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "公共雕塑",
+        "石材",
+        "幾何抽象"
+      ],
+      "works": "o. T. (Kugel)｜1989",
+      "comment": "球體以極簡幾何和厚重石材建立穩定中心，觀者繞行時，光線、接縫與周圍建築比例持續改變其視覺重量。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-kugel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-kugel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-kugel",
+      "artistStatement": "球體以極簡幾何和厚重石材建立穩定中心，觀者繞行時，光線、接縫與周圍建築比例持續改變其視覺重量。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-kugel",
+      "classicTitle": "o. T. (Kugel)｜1989",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-kugel",
+      "classicDesc": "球體以極簡幾何和厚重石材建立穩定中心，觀者繞行時，光線、接縫與周圍建築比例持續改變其視覺重量。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-german-2026-09-01-04",
+      "dedupeKey": "art-2026-09-01-leo-kornbrust-stone-group",
+      "name": "德國經典04｜Leo Kornbrust｜Steingruppe im Pausengarten",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "公共雕塑",
+        "石材",
+        "庭園"
+      ],
+      "works": "Steingruppe im Pausengarten｜1980",
+      "comment": "多件石體以群落方式配置在休憩庭園中，既可視為抽象雕塑，也像一組重新編排的地形節點，引導人們停留與穿行。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steingruppe-im-pausengarten",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steingruppe-im-pausengarten",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steingruppe-im-pausengarten",
+      "artistStatement": "多件石體以群落方式配置在休憩庭園中，既可視為抽象雕塑，也像一組重新編排的地形節點，引導人們停留與穿行。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steingruppe-im-pausengarten",
+      "classicTitle": "Steingruppe im Pausengarten｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steingruppe-im-pausengarten",
+      "classicDesc": "多件石體以群落方式配置在休憩庭園中，既可視為抽象雕塑，也像一組重新編排的地形節點，引導人們停留與穿行。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-01",
+      "id": "classic-german-2026-09-01-05",
+      "dedupeKey": "art-2026-09-01-leo-kornbrust-innere-linie",
+      "name": "德國經典05｜Leo Kornbrust｜Innere Linie 內在線",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "公共雕塑",
+        "石材",
+        "文字／線刻"
+      ],
+      "works": "Innere Linie｜1993",
+      "comment": "沉重石體被一條精確的內在線切分，最小的介入改變整體尺度與方向，使材料內部的張力成為觀看核心。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/innere-linie",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/innere-linie",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/innere-linie",
+      "artistStatement": "沉重石體被一條精確的內在線切分，最小的介入改變整體尺度與方向，使材料內部的張力成為觀看核心。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/innere-linie",
+      "classicTitle": "Innere Linie｜1993",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/innere-linie",
+      "classicDesc": "沉重石體被一條精確的內在線切分，最小的介入改變整體尺度與方向，使材料內部的張力成為觀看核心。",
+      "relatedByCity": [
+
+      ]
+    }
+  ]
+}
