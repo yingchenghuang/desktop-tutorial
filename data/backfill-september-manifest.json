@@ -1,15 +1,16 @@
 {
-  "version": "2026-09-02-public-art-r46",
-  "generatedAt": "2026-09-02T11:25:29+08:00",
+  "version": "2026-09-03-public-art-r56",
+  "generatedAt": "2026-09-03T04:20:24+08:00",
   "files": [
     "backfill-september-20260901.json",
-    "backfill-september-20260902.json"
+    "backfill-september-20260902.json",
+    "backfill-september-20260903.json"
   ],
-  "expectedEntries": 40,
-  "statementEntries": 40,
-  "statementSourceEntries": 40,
+  "expectedEntries": 60,
+  "statementEntries": 60,
+  "statementSourceEntries": 60,
   "statementBacklog": 0,
-  "imageEntries": 40,
+  "imageEntries": 60,
   "imageBacklog": 0,
-  "note": "截至 2026-09-02 累計 40 則；今日新增固定 20 則公共藝術（10 動態／5 全球經典／5 德國經典）。"
+  "note": "截至 2026-09-03 累計 60 則；今日新增固定 20 則公共藝術（10 動態／5 全球經典／5 德國經典）。"
 }
