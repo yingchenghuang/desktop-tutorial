@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-09-02T11:25:29+08:00",
+    "generatedAt": "2026-09-01T05:18:00+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-09-02",
     "dailyTarget": 5,
     "source": "Land Berlin 官方徵件與申請時程頁",
     "activeEntries": 87,
     "addedToday": 5,
-    "expiredRemoved": 6,
-    "note": "9/2 新增 5 筆有效德國公開徵選；精確截止檢查移除 6 筆。",
+    "expiredRemoved": 1,
+    "note": "9/1 新增 5 筆有效德國公開徵選；精確截止檢查移除 1 筆；二次核對補正 5 筆資格、預算、申請費與直接官方頁。",
     "linkAudit": {
       "checkedAt": "2026-09-02T11:25:29+08:00",
       "missingCityKeywords": 0,
@@ -99,9 +99,7 @@
       "eligibility": "資格細節依正式競賽文件",
       "budget": "€250,000；第二階段提案費每組 €3,000",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -140,9 +138,7 @@
       "eligibility": "未公開",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -181,9 +177,7 @@
       "eligibility": "未公開",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -223,9 +217,7 @@
       "eligibility": "現居奧地利的專業藝術家",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -311,9 +303,7 @@
       "eligibility": "藝術家自有、可直接安裝且適合無人看管戶外場域的原創作品",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -352,9 +342,7 @@
       "eligibility": "完整地域與經驗資格未公開",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -393,9 +381,7 @@
       "eligibility": "18 歲以上藝術家；Northern Virginia 居民優先",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -434,9 +420,86 @@
       "eligibility": "全球 18 歲以上藝術家；作品材料須適合長期展示",
       "budget": "首獎 US$45,000；銀獎 US$25,000",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "competition-2026-08-12-03",
+      "dedupeKey": "opportunity-2026-08-12-surprise-police-substation-artwork",
+      "name": "17｜City of Surprise｜Police Substation Artwork",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Surprise, Arizona",
+      "cityKeywords": [
+        "Surprise",
+        "Phoenix"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "光/影像/投影"
+      ],
+      "works": "警察分局外牆永久公共藝術｜US$165,000｜截止 2026.08.31 23:59 Arizona Time",
+      "comment": "開放專業藝術家與團隊，徵求可附著於 154 英尺長外牆、適應索諾蘭沙漠的耐久作品。最多三組決選者各獲 US$1,500 及旅宿，作品需回應服務、正直與正義。",
+      "website": "https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829",
+      "workPage": "https://content.civicplus.com/api/assets/az-surprise/d22f17ba-10fc-4973-acdc-1b5fe4c358be",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829",
+      "artistStatement": "外牆既是高速通行者看到的城市門面，也是公權力與社區關係的界面，作品須兼顧象徵、耐候與日夜辨識。",
+      "artistStatementSource": "https://content.civicplus.com/api/assets/az-surprise/d22f17ba-10fc-4973-acdc-1b5fe4c358be",
+      "classicTitle": "Police Substation Artwork",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://surpriseaz.gov/artist-calls?contentId=c86ebeaa-f905-442e-bec8-a5037ab3d52b&viewAll=8ee7b603-25d9-40bb-9163-5ee1b94cc829",
+      "classicDesc": "在沙漠氣候中建立兼具服務與社區意義的分局地標。",
+      "deadline": "2026-08-31T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.08.31",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "City of Surprise Arts & Culture Division",
+      "eligibility": "專業藝術家與藝術團隊",
+      "budget": "US$165,000；最多三組決選者各獲 US$1,500 及旅宿",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-12",
+      "id": "competition-2026-08-12-04",
+      "dedupeKey": "opportunity-2026-08-12-sarasota-one-stop-shop-public-art",
+      "name": "18｜City of Sarasota｜One Stop Shop Public Art",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Sarasota, Florida",
+      "cityKeywords": [
+        "Sarasota",
+        "薩拉索塔"
+      ],
+      "media": [
+        "雕塑",
+        "壁畫/街頭",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "One Stop Shop 公共藝術｜US$100,000｜截止 2026.08.31 23:59 EDT",
+      "comment": "開放藝術家與團隊提交資格，可採雕塑、建築整合、壁畫、浮雕、馬賽克、光或混合媒材。九月由利害關係人評審選出三組決選者。",
+      "website": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "workPage": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "artistStatement": "市政單一服務窗口需要跨媒材作品把行政效率轉成可辨識、友善且具地方感的公共空間經驗。",
+      "artistStatementSource": "https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "classicTitle": "One Stop Shop Public Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sarasotafl.gov/Department-Pages/Planning/Public-Art/Public-Art-Projects/One-Stop-Shop-Call-for-Artists",
+      "classicDesc": "以多元媒材介入新的市政整合服務場域。",
+      "deadline": "2026-08-31T23:59:59-04:00",
+      "deadlineLabel": "截止 2026.08.31",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "date",
+      "organizer": "City of Sarasota Public Art Program",
+      "eligibility": "藝術家與藝術團隊",
+      "budget": "US$100,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -475,9 +538,7 @@
       "eligibility": "具大型建築整合磁磚藝術經驗的成年專業藝術家或團隊",
       "budget": "US$348,000；三組入圍者各獲 US$1,000",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -681,9 +742,7 @@
       "eligibility": "18 歲以上專業藝術家或團隊；公開申請，優先考量 Rancho Cucamonga／Inland Empire 地區",
       "budget": "每座標記 US$1,500（含設計、材料與施作）",
       "applicationFee": "無",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -723,9 +782,46 @@
       "eligibility": "藝術家、建築師、設計師、建造者等創意團隊；全員滿 18 歲，主申請人須居住於 Roaring Fork Valley",
       "budget": "總預算 US$50,000；三組決選各 US$1,000 提案費",
       "applicationFee": "無",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-14",
+      "id": "competition-2026-08-14-03",
+      "dedupeKey": "opportunity-2026-08-14-surprise-hola-vista-center-acoustic-art",
+      "name": "27｜City of Surprise｜Vista Center HOLA Acoustic Artwork",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Surprise",
+      "cityKeywords": [
+        "Surprise",
+        "瑟普賴斯",
+        "Phoenix"
+      ],
+      "media": [
+        "建築/場域",
+        "裝置"
+      ],
+      "works": "Vista Center for the Arts 室內吸音 2D 公共藝術｜至少展出兩年｜截止 2026.08.31 23:59",
+      "comment": "為劇院設計、製作並安裝兼具聲學功能的二維作品；不要求聲學工程經驗，但須以藝術資格與可執行性回應空間。",
+      "website": "https://www.surprisearts.com/opportunities/artist-calls",
+      "workPage": "https://www.surprisearts.com/opportunities/artist-calls",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "artistStatement": "把吸音需求轉化為作品表面、材質與尺度策略，使功能性建材成為觀眾可辨識的公共藝術。",
+      "artistStatementSource": "https://www.surprisearts.com/opportunities/artist-calls",
+      "classicTitle": "FY2027 HOLA｜Vista Center for the Arts",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "classicDesc": "以吸音功能與平面構成介入劇院室內公共空間。",
+      "deadline": "2026-08-31T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.08.31 23:59 MST",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "City of Surprise / Surprise Arts",
+      "eligibility": "亞利桑那州藝術家或藝術家團隊",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -764,9 +860,7 @@
       "eligibility": "Surprise 在地學生藝術社團或科學社團；社團領導、教育者及直接合作的藝術家可申請",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -805,9 +899,7 @@
       "eligibility": "居住於 Calgary / Treaty 7 地區、年滿 18 歲，具公共藝術或社區實務之藝術家",
       "budget": "簡報 C$541；準備 C$400；C$40/小時；材料最高 C$200",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -849,9 +941,7 @@
       "eligibility": "國際藝術家、電影創作者及跨域團隊；作品 2–20 分鐘",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -892,9 +982,7 @@
       "eligibility": "專業藝術家或藝術家團隊；完整地域與經驗資格依 RFQ",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -935,9 +1023,7 @@
       "eligibility": "加拿大藝術家或藝術家團隊",
       "budget": "多個項目；金額依各 RFQ；入圍者有提案酬金",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -977,9 +1063,7 @@
       "eligibility": "藝術家、創意工作者、建築師、設計師、團體及 First Nations 創作者",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1019,9 +1103,7 @@
       "eligibility": "藝術家或藝術家團隊；完整資格依官方 RFP",
       "budget": "US$1,000–230,000，依作品項目",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1060,9 +1142,7 @@
       "eligibility": "具相近尺度公共藝術經驗的藝術家或團隊",
       "budget": "US$80,000",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1102,9 +1182,7 @@
       "eligibility": "居住、工作於 Westminster 或與社區具密切連結的藝術家、團體與學校團隊",
       "budget": "每件 US$750 材料津貼",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1144,9 +1222,7 @@
       "eligibility": "專業藝術家或藝術家團隊；完整地域資格依 RFQ",
       "budget": "US$150,000",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1185,9 +1261,7 @@
       "eligibility": "Frisco 與周邊地區藝術家；市府員工及遴選相關人員依規定不得參加",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1274,9 +1348,7 @@
       "eligibility": "各藝術領域的藝術家與藝術團隊；須提出與學生及教師共同發展的參與式計畫",
       "budget": "藝術家費 €4,400，另有材料與旅費預算",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1316,9 +1388,7 @@
       "eligibility": "國內外藝術家、創作者、設計師與建築師",
       "budget": "首獎 €5,000、二獎 €3,000、三獎 €1,000；另承諾購藏並實現獲選設計",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1358,9 +1428,7 @@
       "eligibility": "英國居民，不限年齡；原創 2D 或 3D 作品，攝影除外",
       "budget": "成人組首獎 £250、第二名 £100；未成年組首獎 £100、第二名 £50；另有觀眾票選 £50 美術材料券",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1400,9 +1468,7 @@
       "eligibility": "阿賓登在地藝術家、攝影者、內容創作者與其他創作者；須為二維作品",
       "budget": "未公開；入選實體展或數位展覽",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1867,9 +1933,7 @@
       "eligibility": "全球視覺藝術家；提案須回應 Carlernst Kürten 或其作品",
       "budget": "每月 €1,000，住宿六至九個月",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1906,9 +1970,7 @@
       "eligibility": "不超過35歲，作品呈現歐洲城市與鄉村之間的視野",
       "budget": "€6,000 加個人專輯出版",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1945,9 +2007,7 @@
       "eligibility": "出生於 Hessen、2025年前居住 Hessen，或畢業於 Hessen 藝術院校之視覺藝術家",
       "budget": "12個旅行、7個駐村及2個日本組合獎助；個別金額依指南",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1984,9 +2044,7 @@
       "eligibility": "已完成且可在沿海戶外環境展示至少兩年的雕塑；每案一件",
       "budget": "每件兩年借展 US$3,000",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2023,9 +2081,7 @@
       "eligibility": "全球視覺藝術家；提交三幅可製成大型戶外圖像的作品",
       "budget": "US$400 展示與使用費；製作安裝費由主辦負擔",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2064,9 +2120,7 @@
       "eligibility": "居住於 Bayerisch Schwaben、出生於該區、指定 BBK 協會會員，或展期內在該區獎助／研修的藝術家；每人最多兩件近三年作品",
       "budget": "三獎：€3,000、€2,500、€2,000",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2103,9 +2157,7 @@
       "eligibility": "全球專業藝術家；作品須屬原創版畫，包含電腦印刷及傳統版畫技法，作品完成於 2023 年或之後",
       "budget": "獎金 €3,000、€2,000、€1,500；在學藝術家獎 €1,000；觀眾獎 €200",
       "applicationFee": "€40（進入第二階段並送交原作時）",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2244,9 +2296,7 @@
       "eligibility": "從事雕塑、裝置或物件藝術的專業女性藝術家，且為十二歲以下子女之母",
       "budget": "€500；住宿與兒童照護免費，另提供工作坊與個別材料協助",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2284,9 +2334,7 @@
       "eligibility": "年滿 18 歲、目前住宅或工作室位於科羅拉多州，並具大型耐久戶外雕塑經驗的專業藝術家或團隊",
       "budget": "US$74,500；入圍者提案費 US$250",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2324,9 +2372,7 @@
       "eligibility": "年滿 18 歲之全美藝術家或團隊皆可申請；主辦方優先考量當地、區域及科羅拉多州藝術家",
       "budget": "最高 US$100,000",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2364,9 +2410,7 @@
       "eligibility": "具紀念性公共藝術或相當大型場域作品經驗的合格藝術家／藝術家主導團隊；全美徵件",
       "budget": "US$200,000；入圍者提案費 US$2,500",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2404,9 +2448,7 @@
       "eligibility": "居住於美國的藝術家或團隊；Spaceport America 與 New Mexico Department of Cultural Affairs 現職員工及其直系家屬不得申請",
       "budget": "US$300,000；入圍者提案費 US$4,000，另有旅費補助",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2444,9 +2486,7 @@
       "eligibility": "具設計、製作及安裝室內公共藝術能力的合格藝術家或團隊；官方頁未另列地理限制",
       "budget": "約 US$85,000",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2516,9 +2556,7 @@
       "artistStatementSource": "https://www.dfwairport.com/explore/art/callc3/",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.dfwairport.com/explore/art/callc3/",
       "classicDesc": "DFW 機場徵集既有短篇動態影像或動畫，重新格式化後於第 C 航廈七組行李轉盤 LED 螢幕輪播，作品最長一分鐘且不得含聲音。",
-      "relatedByCity": [
-
-      ],
+      "relatedByCity": [],
       "applicationFee": "未公開",
       "id": "competition-2026-08-26-02",
       "dedupeKey": "opportunity-2026-08-26-dfw-terminal-c-existing-digital-artwork",
@@ -2560,9 +2598,7 @@
       "artistStatementSource": "https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
       "classicDesc": "Miami-Dade 公共藝術計畫與機場部門將建立 30–40 位藝術家短名單，於至少兩年期間競逐機場大型資本改善計畫中的多處公共藝術委託。",
-      "relatedByCity": [
-
-      ],
+      "relatedByCity": [],
       "applicationFee": "未公開",
       "id": "competition-2026-08-26-03",
       "dedupeKey": "opportunity-2026-08-26-miami-international-airport-capital-improvement-public-art",
@@ -2604,9 +2640,7 @@
       "artistStatementSource": "https://lexarts.org/connect/artist-and-industry-opportunities/",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://lexarts.org/connect/artist-and-industry-opportunities/",
       "classicDesc": "LexArts 與 Central Bank Center 徵求大型場域公共藝術資格，作品將設於 Lexington 市中心 Central Bank Center 與 Rupp Arena 西側立面，形塑城市地標。",
-      "relatedByCity": [
-
-      ],
+      "relatedByCity": [],
       "applicationFee": "未公開",
       "id": "competition-2026-08-26-04",
       "dedupeKey": "opportunity-2026-08-26-central-bank-center-rupp-arena-public-art-rfq",
@@ -2665,9 +2699,46 @@
       "eligibility": "未公開",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-27",
+      "id": "competition-2026-08-27-02",
+      "dedupeKey": "opportunity-2026-08-27-zoetermeer-motion-college",
+      "name": "02｜Zoetermeer｜MOTION Beweeg College Public Art",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "荷蘭 / Zoetermeer",
+      "cityKeywords": [
+        "Zoetermeer",
+        "祖特梅爾"
+      ],
+      "media": [
+        "公共藝術",
+        "校園藝術",
+        "互動空間"
+      ],
+      "works": "MOTION Beweeg College 與運動館堤岸作品｜總預算 €90,000",
+      "comment": "作品須鼓勵相遇、運動與互動，並納入學生及使用者參與；三位入圍者各獲 €3,000 概念費。",
+      "website": "https://www.zoetermeer.nl/kunst-mbc",
+      "workPage": "https://www.zoetermeer.nl/kunst-mbc",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zoetermeer.nl/kunst-mbc",
+      "artistStatement": "作品須鼓勵相遇、運動與互動，並納入學生及使用者參與；三位入圍者各獲 €3,000 概念費。",
+      "artistStatementSource": "https://www.zoetermeer.nl/kunst-mbc",
+      "classicTitle": "Zoetermeer｜MOTION Beweeg College Public Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.zoetermeer.nl/kunst-mbc",
+      "classicDesc": "作品須鼓勵相遇、運動與互動，並納入學生及使用者參與；三位入圍者各獲 €3,000 概念費。",
+      "deadline": "2026-08-31T23:59:59+02:00",
+      "deadlineLabel": "截止 2026.08.31",
+      "deadlineTimezone": "Europe/Amsterdam",
+      "deadlinePrecision": "date",
+      "organizer": "Municipality of Zoetermeer",
+      "eligibility": "專業視覺藝術家，且過去未曾在 Zoetermeer 創作作品",
+      "budget": "最高 €90,000（未稅）；入圍概念費每人 €3,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2706,9 +2777,7 @@
       "eligibility": "視覺藝術家；地方、區域及全國申請者皆納入遴選，至少一席給新進藝術家",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2746,9 +2815,7 @@
       "eligibility": "地方政府、州政府機關、受資助藝術組織及社區團體；個人藝術家不得直接申請",
       "budget": "最高 AUD 15,000；委託型計畫須至少50%配比",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2787,9 +2854,7 @@
       "eligibility": "Wabanaki 藝術家或由 Wabanaki 成員主導的團隊",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2830,9 +2895,7 @@
       "eligibility": "具專業實績的視覺藝術家；採公開預選後之非公開競賽",
       "budget": "€50,000（含稅、材料與藝術家費）",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2917,9 +2980,7 @@
       "eligibility": "常住德國的藝術家、創意工作者、代理公司、學生或大專院校；可組隊申請",
       "budget": "€40,000（含稅，含設計、製作、材料、運輸與差旅等費用）",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2960,9 +3021,7 @@
       "eligibility": "專業藝術家及藝術、應用藝術相關科系學生；不限地區",
       "budget": "€6,000（含藝術家費、材料與運輸）",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -3138,9 +3197,46 @@
       "eligibility": "居住或工作室位於 Diemelstadt、Gießen、Siegen 與 Kassel 之間區域的藝術家；需參與現地踏查",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-08-29",
+      "id": "competition-2026-08-29-04",
+      "dedupeKey": "opportunity-2026-08-29-ormond-beach-gulf-war-tribute-sculpture",
+      "name": "04｜Ormond Beach｜Gulf War Tribute 公共雕塑",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Ormond Beach",
+      "cityKeywords": [
+        "Ormond Beach",
+        "奧蒙德海灘"
+      ],
+      "media": [
+        "永久公共藝術",
+        "紀念雕塑",
+        "戶外裝置"
+      ],
+      "works": "Gulf War Tribute 永久公共雕塑｜截止 2026.08.31",
+      "comment": "為 Ormond Memorial Art Museum & Gardens 徵求永久戶外紀念雕塑，回應沙漠盾牌與沙漠風暴行動退伍軍人的勇氣、團結與歷史記憶。",
+      "website": "https://www.ormondartmuseum.org/get-involved/call-to-artists.html",
+      "workPage": "https://www.ormondartmuseum.org/get-involved/call-to-artists.html",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.ormondartmuseum.org/get-involved/call-to-artists.html",
+      "artistStatement": "為 Ormond Memorial Art Museum & Gardens 徵求永久戶外紀念雕塑，回應沙漠盾牌與沙漠風暴行動退伍軍人的勇氣、團結與歷史記憶。",
+      "artistStatementSource": "https://www.ormondartmuseum.org/get-involved/call-to-artists.html",
+      "classicTitle": "Ormond Beach｜Gulf War Tribute 公共雕塑",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.ormondartmuseum.org/get-involved/call-to-artists.html",
+      "classicDesc": "為 Ormond Memorial Art Museum & Gardens 徵求永久戶外紀念雕塑，回應沙漠盾牌與沙漠風暴行動退伍軍人的勇氣、團結與歷史記憶。",
+      "deadline": "2026-08-31T23:59:59-04:00",
+      "deadlineLabel": "截止 2026.08.31",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "date",
+      "organizer": "Ormond Memorial Art Museum & Gardens",
+      "eligibility": "具公共藝術、大型雕塑或紀念作品經驗的專業藝術家、雕塑家或藝術團隊；須具戶外沿海環境耐久材料經驗",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -3253,9 +3349,7 @@
       "eligibility": "從事雕塑、立體、裝置或物件藝術的專業女性藝術家，且為母親；可攜 12 歲以下子女",
       "budget": "€500 獎助；免費住宿、兒童照護、工作室與部分材料支援",
       "applicationFee": "免費；僅接受郵寄紙本資料",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -3296,9 +3390,7 @@
       "eligibility": "國際藝術家；提案須回應波羅的海區域的歷史、文化或當代議題",
       "budget": "提供三週工作室、鄰近住宿與成果展機會；官方頁未揭露現金津貼",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -3337,9 +3429,7 @@
       "eligibility": "廚師、藝術家、食物設計師及跨領域實踐者；國際申請者可投件",
       "budget": "提供住宿、Deutschlandticket、展覽與工作空間，並可承擔提案製作費；現金津貼未公開",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -3380,9 +3470,7 @@
       "eligibility": "Washington 州 Pierce 或 King County 藝術家；奧本在地藝術家優先",
       "budget": "每位入選藝術家 US$400",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -3423,9 +3511,7 @@
       "eligibility": "具資格的個人藝術家或藝術團隊；須能設計、製作與安裝戶外永久馬賽克",
       "budget": "最高 US$28,000，含設計、材料、製作與安裝",
       "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -3905,22 +3991,22 @@
       ],
       "works": "視覺藝術創作發展獎助｜截止 2026.09.02 11:00 CEST",
       "comment": "支持居住柏林的專業視覺藝術家或團體發展創作方法與特定工作計畫，涵蓋雕塑、裝置、城市藝術、聲音、媒體與表演等。",
-      "website": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
-      "workPage": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "website": "https://www.berlin.de/sen/kultur/en/funding/funding-programmes/visual-arts/artikel.230092.en.php",
+      "workPage": "https://www.berlin.de/sen/kultur/en/funding/funding-programmes/visual-arts/artikel.230092.en.php",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/en/funding/funding-programmes/visual-arts/artikel.230092.en.php",
       "artistStatement": "支持居住柏林的專業視覺藝術家或團體發展創作方法與特定工作計畫，涵蓋雕塑、裝置、城市藝術、聲音、媒體與表演等。",
-      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "artistStatementSource": "https://www.berlin.de/sen/kultur/en/funding/funding-programmes/visual-arts/artikel.230092.en.php",
       "classicTitle": "Land Berlin｜視覺藝術工作獎助 2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/en/funding/funding-programmes/visual-arts/artikel.230092.en.php",
       "classicDesc": "支持居住柏林的專業視覺藝術家或團體發展創作方法與特定工作計畫，涵蓋雕塑、裝置、城市藝術、聲音、媒體與表演等。",
       "deadline": "2026-09-02T11:00:00+02:00",
       "deadlineLabel": "截止 2026.09.02 11:00 CEST",
       "deadlineTimezone": "Europe/Berlin",
       "deadlinePrecision": "time",
       "organizer": "Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt Berlin",
-      "eligibility": "主要居住與工作地在柏林的專業視覺藝術家或團體；不得為在學學生",
-      "budget": "依 2027 正式資訊表核定；官方時程頁未列單筆金額",
-      "applicationFee": "免費",
+      "eligibility": "主要居住與工作地在柏林的專業視覺藝術家或固定藝術團體；在學學生、博士生及（客座）教授不得申請",
+      "budget": "8 個月 €16,000 或 12 個月 €24,000；每月 €2,000",
+      "applicationFee": "未公開",
       "relatedByCity": [
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
@@ -4006,22 +4092,22 @@
       ],
       "works": "當代視覺藝術呈現與出版｜截止 2026.10.13 11:00 CEST",
       "comment": "徵集於柏林公開呈現的當代視覺藝術個展、群展、策展計畫及相關出版，強調專業製作與對城市觀眾的可及性。",
-      "website": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
-      "workPage": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "website": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
+      "workPage": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
       "artistStatement": "徵集於柏林公開呈現的當代視覺藝術個展、群展、策展計畫及相關出版，強調專業製作與對城市觀眾的可及性。",
-      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
       "classicTitle": "Land Berlin｜當代視覺藝術展覽計畫 2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/bildende-kunst/artikel.60223.php",
       "classicDesc": "徵集於柏林公開呈現的當代視覺藝術個展、群展、策展計畫及相關出版，強調專業製作與對城市觀眾的可及性。",
       "deadline": "2026-10-13T11:00:00+02:00",
       "deadlineLabel": "截止 2026.10.13 11:00 CEST",
       "deadlineTimezone": "Europe/Berlin",
       "deadlinePrecision": "time",
       "organizer": "Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt Berlin",
-      "eligibility": "柏林藝術家、策展人、團體、專案空間與具藝術計畫之非營利組織",
-      "budget": "依正式徵件資訊表與個案製作預算核定",
-      "applicationFee": "免費",
+      "eligibility": "柏林藝術家、策展人、專案空間／倡議、區立機構與協會；多數參與藝術家須在柏林居住工作，計畫須於 2027 年 2–12 月在柏林公開呈現",
+      "budget": "個人圖錄最高 €27,000；個人計畫最高 €35,000；團體計畫最高 €55,000",
+      "applicationFee": "未公開",
       "relatedByCity": [
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
@@ -4106,22 +4192,22 @@
       ],
       "works": "藝術電影與錄像工作獎助｜截止 2026.10.01 11:00 CEST",
       "comment": "提供女性藝術家發展藝術電影與錄像實踐的工作獎助，聚焦展覽脈絡中的移動影像，而非商業電影製作。",
-      "website": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
-      "workPage": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "website": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kuenstlerinnenfoerderung/artikel.82093.php",
+      "workPage": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kuenstlerinnenfoerderung/artikel.82093.php",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kuenstlerinnenfoerderung/artikel.82093.php",
       "artistStatement": "提供女性藝術家發展藝術電影與錄像實踐的工作獎助，聚焦展覽脈絡中的移動影像，而非商業電影製作。",
-      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kuenstlerinnenfoerderung/artikel.82093.php",
       "classicTitle": "Land Berlin｜女性藝術家 Film／Video 獎助 2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/kuenstlerinnenfoerderung/artikel.82093.php",
       "classicDesc": "提供女性藝術家發展藝術電影與錄像實踐的工作獎助，聚焦展覽脈絡中的移動影像，而非商業電影製作。",
       "deadline": "2026-10-01T11:00:00+02:00",
       "deadlineLabel": "截止 2026.10.01 11:00 CEST",
       "deadlineTimezone": "Europe/Berlin",
       "deadlinePrecision": "time",
       "organizer": "Berliner Künstlerinnenprogramm / Land Berlin",
-      "eligibility": "在柏林居住與工作的專業女性藝術家，作品重心須屬視覺藝術脈絡之 Film／Video",
-      "budget": "依 2027 正式資訊表核定；官方時程頁未列單筆金額",
-      "applicationFee": "免費",
+      "eligibility": "在柏林居住與工作的專業女性及 TIN*（跨性別、雙性與非二元）電影工作者；不得為在學學生、博士生或（客座）教授",
+      "budget": "每月 €2,000；可申請 4、5 或 6 個月（合計 €8,000／€10,000／€12,000）",
+      "applicationFee": "未公開",
       "relatedByCity": [
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
@@ -4206,22 +4292,22 @@
       ],
       "works": "德語漫畫創作獎助｜截止 2026.09.15 11:00 CEST",
       "comment": "支持以德語創作漫畫的專業作者與繪者進行長篇或系列計畫，鼓勵文字、圖像與敘事形式的持續發展。",
-      "website": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
-      "workPage": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "website": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/literatur/artikel.621413.php",
+      "workPage": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/literatur/artikel.621413.php",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/literatur/artikel.621413.php",
       "artistStatement": "支持以德語創作漫畫的專業作者與繪者進行長篇或系列計畫，鼓勵文字、圖像與敘事形式的持續發展。",
-      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "artistStatementSource": "https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/literatur/artikel.621413.php",
       "classicTitle": "Land Berlin｜漫畫創作獎助 2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/antragsfristen/",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/literatur/artikel.621413.php",
       "classicDesc": "支持以德語創作漫畫的專業作者與繪者進行長篇或系列計畫，鼓勵文字、圖像與敘事形式的持續發展。",
       "deadline": "2026-09-15T11:00:00+02:00",
       "deadlineLabel": "截止 2026.09.15 11:00 CEST",
       "deadlineTimezone": "Europe/Berlin",
       "deadlinePrecision": "time",
       "organizer": "Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt Berlin",
-      "eligibility": "主要居住地在柏林、以德語進行漫畫創作的專業作者、繪者或合作團隊",
-      "budget": "依 2027 正式資訊表核定；官方時程頁未列單筆金額",
-      "applicationFee": "免費",
+      "eligibility": "在柏林居住與工作的專業漫畫創作者；已出版漫畫或能以作品樣本證明創作能力；不得為藝術相關在學學生或（客座）教授",
+      "budget": "每月 €2,000；可申請 4 或 8 個月（合計 €8,000／€16,000）",
+      "applicationFee": "未公開",
       "relatedByCity": [
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
@@ -4319,9 +4405,9 @@
       "deadlineTimezone": "Europe/Berlin",
       "deadlinePrecision": "time",
       "organizer": "Senatsverwaltung für Kultur und Gesellschaftlichen Zusammenhalt Berlin",
-      "eligibility": "居住柏林的專業藝術家或團體，且其觀點在主流文化場域中仍被低度代表",
-      "budget": "依正式徵件資訊表與個案預算核定",
-      "applicationFee": "免費",
+      "eligibility": "居住柏林的專業藝術家或團體，其藝術觀點在主流文化場域中仍被低度代表；計畫不得已開始，且須在柏林公開呈現",
+      "budget": "總額約 €500,000，個案額度依評審與預算核定",
+      "applicationFee": "未公開",
       "relatedByCity": [
         "classic-german-2026-08-21-01",
         "classic-german-2026-08-21-02",
