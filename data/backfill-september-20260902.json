@@ -1,0 +1,843 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-02T11:25:29+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-02",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Central Park Conservancy 官方頁",
+    "note": "9/2 公共藝術固定 10＋5＋5；另有德國公開徵選 5 則與全球重要展覽 5 篇。",
+    "linkAudit": {
+      "checkedAt": "2026-09-02T11:25:29+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "發布前實際瀏覽器逐一開啟官方來源"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-02T11:25:29+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "以可載入的官方頁預覽截圖顯示；Notion 圖片置於標題下方正文"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-01",
+      "dedupeKey": "art-2026-09-02-renate-wolff-spiel-form-farbe",
+      "name": "01｜Renate Wolff｜Spiel von Form und Farbe",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Gatow",
+        "加托"
+      ],
+      "media": [
+        "壁畫",
+        "色彩空間",
+        "建築整合"
+      ],
+      "works": "o. T. (Spiel von Form und Farbe)｜2012",
+      "comment": "以綠、藍、紅與黃的矩形跨越門、牆角、樓梯和開關，把托育建築轉化為不預設圖像的色彩節奏，也保留兒童自行想像與使用的空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-spiel-von-form-und-farbe",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-spiel-von-form-und-farbe",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-spiel-von-form-und-farbe",
+      "artistStatement": "以綠、藍、紅與黃的矩形跨越門、牆角、樓梯和開關，把托育建築轉化為不預設圖像的色彩節奏，也保留兒童自行想像與使用的空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-spiel-von-form-und-farbe",
+      "classicTitle": "o. T. (Spiel von Form und Farbe)｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-spiel-von-form-und-farbe",
+      "classicDesc": "以綠、藍、紅與黃的矩形跨越門、牆角、樓梯和開關，把托育建築轉化為不預設圖像的色彩節奏，也保留兒童自行想像與使用的空間。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-02",
+      "dedupeKey": "art-2026-09-02-per-kirkeby-bundesrat-plastik",
+      "name": "02｜Per Kirkeby｜Bundesrat 無題青銅群",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Bundesrat",
+        "聯邦參議院"
+      ],
+      "media": [
+        "青銅雕塑",
+        "建築整合",
+        "抽象人物"
+      ],
+      "works": "o. T. (Plastik)｜2000",
+      "comment": "八件黑色青銅塑形取代傳統權力建築的寓意人物，以近似軀幹的模糊形體重新處理普魯士議院立面的象徵秩序。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-plastik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-plastik",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-plastik",
+      "artistStatement": "八件黑色青銅塑形取代傳統權力建築的寓意人物，以近似軀幹的模糊形體重新處理普魯士議院立面的象徵秩序。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-plastik",
+      "classicTitle": "o. T. (Plastik)｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-plastik",
+      "classicDesc": "八件黑色青銅塑形取代傳統權力建築的寓意人物，以近似軀幹的模糊形體重新處理普魯士議院立面的象徵秩序。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-03",
+      "dedupeKey": "art-2026-09-02-daniel-buren-grande-fenetre",
+      "name": "03｜Daniel Buren｜La Grande Fenêtre",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Wilhelmstraße",
+        "威廉街"
+      ],
+      "media": [
+        "光環境",
+        "彩色玻璃",
+        "建築整合"
+      ],
+      "works": "La Grande Fenêtre｜2001",
+      "comment": "黑白條紋鋼框與黃藍背光玻璃把入口大廳變成可穿行的巨大窗景；固定寬度的條紋同時標記、切分並重新衡量歷史建築。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "artistStatement": "黑白條紋鋼框與黃藍背光玻璃把入口大廳變成可穿行的巨大窗景；固定寬度的條紋同時標記、切分並重新衡量歷史建築。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "classicTitle": "La Grande Fenêtre｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "classicDesc": "黑白條紋鋼框與黃藍背光玻璃把入口大廳變成可穿行的巨大窗景；固定寬度的條紋同時標記、切分並重新衡量歷史建築。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-04",
+      "dedupeKey": "art-2026-09-02-inges-idee-im-selben-boot",
+      "name": "04｜Inges Idee｜Im selben Boot／In internationalen Gewässern",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Stralsund",
+      "cityKeywords": [
+        "Stralsund",
+        "施特拉爾松",
+        "Parow",
+        "帕羅"
+      ],
+      "media": [
+        "公共裝置",
+        "場域特定",
+        "社會寓言"
+      ],
+      "works": "Im selben Boot / In internationalen Gewässern｜2003",
+      "comment": "傾倒在草地上的藍色船體與裝滿各國礦泉水瓶的展示櫃，以幽默方式把海軍學校的技術語境轉成共同處境、國界與流動的隱喻。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern",
+      "artistStatement": "傾倒在草地上的藍色船體與裝滿各國礦泉水瓶的展示櫃，以幽默方式把海軍學校的技術語境轉成共同處境、國界與流動的隱喻。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern",
+      "classicTitle": "Im selben Boot / In internationalen Gewässern｜2003",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern",
+      "classicDesc": "傾倒在草地上的藍色船體與裝滿各國礦泉水瓶的展示櫃，以幽默方式把海軍學校的技術語境轉成共同處境、國界與流動的隱喻。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-05",
+      "dedupeKey": "art-2026-09-02-marcel-odenbach-waagschale",
+      "name": "05｜Marcel Odenbach｜Etwas auf die Waagschale werfen",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Mohrenstraße",
+        "莫倫街"
+      ],
+      "media": [
+        "錄像藝術",
+        "司法場域",
+        "雙螢幕"
+      ],
+      "works": "Etwas auf die Waagschale werfen｜2000",
+      "comment": "雙螢幕借用正義女神天秤的兩端結構，在司法部建築內把觀看轉化為衡量證據、權力與社會判斷的動態過程。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/etwas-auf-die-waagschale-werfen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/etwas-auf-die-waagschale-werfen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/etwas-auf-die-waagschale-werfen",
+      "artistStatement": "雙螢幕借用正義女神天秤的兩端結構，在司法部建築內把觀看轉化為衡量證據、權力與社會判斷的動態過程。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/etwas-auf-die-waagschale-werfen",
+      "classicTitle": "Etwas auf die Waagschale werfen｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/etwas-auf-die-waagschale-werfen",
+      "classicDesc": "雙螢幕借用正義女神天秤的兩端結構，在司法部建築內把觀看轉化為衡量證據、權力與社會判斷的動態過程。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-06",
+      "dedupeKey": "art-2026-09-02-eduardo-chillida-berlin",
+      "name": "06｜Eduardo Chillida｜Berlin",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Bundeskanzleramt",
+        "聯邦總理府"
+      ],
+      "media": [
+        "公共雕塑",
+        "鋼鐵",
+        "國家象徵"
+      ],
+      "works": "Berlin｜1999",
+      "comment": "兩片厚重鋼形在聯邦總理府前彼此接近又保持間隙，把德國統一理解為需要持續協商的結構，而不是已經封閉完成的紀念圖像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin",
+      "artistStatement": "兩片厚重鋼形在聯邦總理府前彼此接近又保持間隙，把德國統一理解為需要持續協商的結構，而不是已經封閉完成的紀念圖像。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin",
+      "classicTitle": "Berlin｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin",
+      "classicDesc": "兩片厚重鋼形在聯邦總理府前彼此接近又保持間隙，把德國統一理解為需要持續協商的結構，而不是已經封閉完成的紀念圖像。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-07",
+      "dedupeKey": "art-2026-09-02-heimo-zobernig-isgh-pavement",
+      "name": "07｜Heimo Zobernig｜ISGH 無題鋪面文字",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Hamburg",
+      "cityKeywords": [
+        "Hamburg",
+        "漢堡",
+        "Internationaler Seegerichtshof",
+        "國際海洋法法庭"
+      ],
+      "media": [
+        "鋪面藝術",
+        "文字裝置",
+        "建築整合"
+      ],
+      "works": "o. T.｜2000",
+      "comment": "法庭名稱被放大為難以從日常視角完整讀取的鋪面字母，既具有識別功能，也迫使行走者在局部、尺度與制度形象之間重新組合意義。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-16",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-16",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-16",
+      "artistStatement": "法庭名稱被放大為難以從日常視角完整讀取的鋪面字母，既具有識別功能，也迫使行走者在局部、尺度與制度形象之間重新組合意義。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-16",
+      "classicTitle": "o. T.｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-16",
+      "classicDesc": "法庭名稱被放大為難以從日常視角完整讀取的鋪面字母，既具有識別功能，也迫使行走者在局部、尺度與制度形象之間重新組合意義。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-08",
+      "dedupeKey": "art-2026-09-02-per-kirkeby-jakob-kaiser-haus",
+      "name": "08｜Per Kirkeby｜Jakob-Kaiser-Haus 磚構空間",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Jakob-Kaiser-Haus",
+        "雅各布凱瑟大樓"
+      ],
+      "media": [
+        "磚構雕塑",
+        "空間裝置",
+        "建築整合"
+      ],
+      "works": "o. T. (Raumarbeit)｜2000",
+      "comment": "手工磚牆與鋼骨在議會建築內形成可進入的第二層建築，讓雕塑同時成為空間、通道與對制度尺度的沉默對話。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-8",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-8",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-8",
+      "artistStatement": "手工磚牆與鋼骨在議會建築內形成可進入的第二層建築，讓雕塑同時成為空間、通道與對制度尺度的沉默對話。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-8",
+      "classicTitle": "o. T. (Raumarbeit)｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-8",
+      "classicDesc": "手工磚牆與鋼骨在議會建築內形成可進入的第二層建築，讓雕塑同時成為空間、通道與對制度尺度的沉默對話。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-09",
+      "dedupeKey": "art-2026-09-02-werner-huthmacher-zuchtferkel",
+      "name": "09｜Werner Huthmacher｜Zuchtferkel 種豬影像",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Wilhelmstraße",
+        "威廉街"
+      ],
+      "media": [
+        "攝影裝置",
+        "農業圖像",
+        "建築整合"
+      ],
+      "works": "o. T. (Zuchtferkel)｜2011",
+      "comment": "放大的種豬照片以近乎肖像的正面尺度出現在農業部中庭，將行政任務、畜牧生產與觀看中的幽默和不安並置。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-zuchtferkel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-zuchtferkel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-zuchtferkel",
+      "artistStatement": "放大的種豬照片以近乎肖像的正面尺度出現在農業部中庭，將行政任務、畜牧生產與觀看中的幽默和不安並置。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-zuchtferkel",
+      "classicTitle": "o. T. (Zuchtferkel)｜2011",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-zuchtferkel",
+      "classicDesc": "放大的種豬照片以近乎肖像的正面尺度出現在農業部中庭，將行政任務、畜牧生產與觀看中的幽默和不安並置。",
+      "relatedByCity": [
+        "competition-2026-08-22-01",
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-01",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "current-2026-09-02-10",
+      "dedupeKey": "art-2026-09-02-ursula-sax-wandplastik",
+      "name": "10｜Ursula Sax｜無題牆面雕塑",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "Bundesinnenministerium",
+        "德國內政部"
+      ],
+      "media": [
+        "牆面雕塑",
+        "木／金屬",
+        "建築整合"
+      ],
+      "works": "o. T. (Wandplastik)｜1979",
+      "comment": "Sax 以關注建築與空間的抽象構成介入內政部餐廳，使牆面不再只是背景，而成為與光線、動線和日常休息彼此牽動的塑形場域。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandplastik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandplastik",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandplastik",
+      "artistStatement": "Sax 以關注建築與空間的抽象構成介入內政部餐廳，使牆面不再只是背景，而成為與光線、動線和日常休息彼此牽動的塑形場域。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandplastik",
+      "classicTitle": "o. T. (Wandplastik)｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandplastik",
+      "classicDesc": "Sax 以關注建築與空間的抽象構成介入內政部餐廳，使牆面不再只是背景，而成為與光線、動線和日常休息彼此牽動的塑形場域。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-global-2026-09-02-01",
+      "dedupeKey": "art-2026-09-02-gustav-blaeser-alexander-humboldt",
+      "name": "全球經典01｜Gustav Bläser｜Alexander von Humboldt",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "青銅胸像",
+        "科學史"
+      ],
+      "works": "Alexander von Humboldt｜1869",
+      "comment": "依洪堡死亡面具塑造的巨型胸像由德裔移民團體捐贈，既紀念自然科學與全球探索，也見證移民社群透過公共空間爭取城市可見性。",
+      "website": "https://www.centralparknyc.org/locations/alexander-von-humboldt",
+      "workPage": "https://www.centralparknyc.org/locations/alexander-von-humboldt",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/alexander-von-humboldt",
+      "artistStatement": "依洪堡死亡面具塑造的巨型胸像由德裔移民團體捐贈，既紀念自然科學與全球探索，也見證移民社群透過公共空間爭取城市可見性。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/alexander-von-humboldt",
+      "classicTitle": "Alexander von Humboldt｜1869",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/alexander-von-humboldt",
+      "classicDesc": "依洪堡死亡面具塑造的巨型胸像由德裔移民團體捐贈，既紀念自然科學與全球探索，也見證移民社群透過公共空間爭取城市可見性。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-global-2026-09-02-02",
+      "dedupeKey": "art-2026-09-02-french-price-richard-morris-hunt",
+      "name": "全球經典02｜Daniel Chester French／Bruce Price｜Richard Morris Hunt",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "紀念碑",
+        "建築寓意雕塑",
+        "都市座椅"
+      ],
+      "works": "Richard Morris Hunt Monument｜1898",
+      "comment": "建築師胸像與象徵建築、繪畫、雕塑的女性人物嵌入古典柱廊及座椅，將紀念物、都市家具與專業共同體的歷史結合。",
+      "website": "https://www.centralparknyc.org/locations/richard-morris-hunt",
+      "workPage": "https://www.centralparknyc.org/locations/richard-morris-hunt",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/richard-morris-hunt",
+      "artistStatement": "建築師胸像與象徵建築、繪畫、雕塑的女性人物嵌入古典柱廊及座椅，將紀念物、都市家具與專業共同體的歷史結合。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/richard-morris-hunt",
+      "classicTitle": "Richard Morris Hunt Monument｜1898",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/richard-morris-hunt",
+      "classicDesc": "建築師胸像與象徵建築、繪畫、雕塑的女性人物嵌入古典柱廊及座椅，將紀念物、都市家具與專業共同體的歷史結合。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-global-2026-09-02-03",
+      "dedupeKey": "art-2026-09-02-jqa-ward-the-pilgrim",
+      "name": "全球經典03｜John Quincy Adams Ward｜The Pilgrim",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園",
+        "Pilgrim Hill"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "青銅人物",
+        "歷史敘事"
+      ],
+      "works": "The Pilgrim｜1885",
+      "comment": "持火槍、戴尖頂帽的十七世紀清教徒形象立於櫻花坡地；它保存十九世紀建國敘事，同時也提供今日重新檢視殖民記憶的公共節點。",
+      "website": "https://www.centralparknyc.org/locations/the-pilgrim",
+      "workPage": "https://www.centralparknyc.org/locations/the-pilgrim",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/the-pilgrim",
+      "artistStatement": "持火槍、戴尖頂帽的十七世紀清教徒形象立於櫻花坡地；它保存十九世紀建國敘事，同時也提供今日重新檢視殖民記憶的公共節點。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/the-pilgrim",
+      "classicTitle": "The Pilgrim｜1885",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/the-pilgrim",
+      "classicDesc": "持火槍、戴尖頂帽的十七世紀清教徒形象立於櫻花坡地；它保存十九世紀建國敘事，同時也提供今日重新檢視殖民記憶的公共節點。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-global-2026-09-02-04",
+      "dedupeKey": "art-2026-09-02-john-steell-sir-walter-scott",
+      "name": "全球經典04｜John Steell｜Sir Walter Scott",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園",
+        "Literary Walk"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "文學紀念"
+      ],
+      "works": "Sir Walter Scott｜1872",
+      "comment": "蘇格蘭裔紐約人以募款方式捐贈作家坐像，並把它安置在莎士比亞附近；文學步道因此也成為移民社群建立文化身分的公共舞台。",
+      "website": "https://www.centralparknyc.org/locations/sir-walter-scott",
+      "workPage": "https://www.centralparknyc.org/locations/sir-walter-scott",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/sir-walter-scott",
+      "artistStatement": "蘇格蘭裔紐約人以募款方式捐贈作家坐像，並把它安置在莎士比亞附近；文學步道因此也成為移民社群建立文化身分的公共舞台。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/sir-walter-scott",
+      "classicTitle": "Sir Walter Scott｜1872",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/sir-walter-scott",
+      "classicDesc": "蘇格蘭裔紐約人以募款方式捐贈作家坐像，並把它安置在莎士比亞附近；文學步道因此也成為移民社群建立文化身分的公共舞台。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-global-2026-09-02-05",
+      "dedupeKey": "art-2026-09-02-giovanni-turini-giuseppe-mazzini",
+      "name": "全球經典05｜Giovanni Turini｜Giuseppe Mazzini",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "青銅胸像",
+        "移民史"
+      ],
+      "works": "Giuseppe Mazzini｜1878",
+      "comment": "義大利裔社群為統一運動思想家設立胸像，基座刻有「思想與行動」「上帝與人民」，把政治信念與新移民的城市自我表述並置。",
+      "website": "https://www.centralparknyc.org/locations/giuseppe-mazzini",
+      "workPage": "https://www.centralparknyc.org/locations/giuseppe-mazzini",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/giuseppe-mazzini",
+      "artistStatement": "義大利裔社群為統一運動思想家設立胸像，基座刻有「思想與行動」「上帝與人民」，把政治信念與新移民的城市自我表述並置。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/giuseppe-mazzini",
+      "classicTitle": "Giuseppe Mazzini｜1878",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.centralparknyc.org/locations/giuseppe-mazzini",
+      "classicDesc": "義大利裔社群為統一運動思想家設立胸像，基座刻有「思想與行動」「上帝與人民」，把政治信念與新移民的城市自我表述並置。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-german-2026-09-02-01",
+      "dedupeKey": "art-2026-09-02-alf-lechner-untitled-hamburg",
+      "name": "德國經典01｜Alf Lechner｜無題鋼構立方體",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Hamburg",
+      "cityKeywords": [
+        "Hamburg",
+        "漢堡",
+        "Helmut-Schmidt-Universität"
+      ],
+      "media": [
+        "公共雕塑",
+        "不鏽鋼",
+        "幾何抽象"
+      ],
+      "works": "o. T.｜1977",
+      "comment": "以鉸鏈連接的開放立方體可在組裝時變換構型，將分解、彎折與重新排序的理性過程轉化為可被身體感知的空間經驗。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-15",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-15",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-15",
+      "artistStatement": "以鉸鏈連接的開放立方體可在組裝時變換構型，將分解、彎折與重新排序的理性過程轉化為可被身體感知的空間經驗。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-15",
+      "classicTitle": "o. T.｜1977",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-15",
+      "classicDesc": "以鉸鏈連接的開放立方體可在組裝時變換構型，將分解、彎折與重新排序的理性過程轉化為可被身體感知的空間經驗。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-german-2026-09-02-02",
+      "dedupeKey": "art-2026-09-02-max-walter-grosse-verbindung",
+      "name": "德國經典02｜Max Walter｜Die große Verbindung",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Nürnberg",
+      "cityKeywords": [
+        "Nürnberg",
+        "紐倫堡",
+        "Bundesagentur für Arbeit"
+      ],
+      "media": [
+        "公共雕塑",
+        "鋁鑄件",
+        "動力形式"
+      ],
+      "works": "Die große Verbindung｜1973",
+      "comment": "兩座由水平圓盤堆疊而成的塔在中央互相扣合，像機械傳動又近似陰陽互補，將聯邦勞動機構的連結與運動概念轉成五米高的公共地標。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-grosse-verbindung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-grosse-verbindung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-grosse-verbindung",
+      "artistStatement": "兩座由水平圓盤堆疊而成的塔在中央互相扣合，像機械傳動又近似陰陽互補，將聯邦勞動機構的連結與運動概念轉成五米高的公共地標。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-grosse-verbindung",
+      "classicTitle": "Die große Verbindung｜1973",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-grosse-verbindung",
+      "classicDesc": "兩座由水平圓盤堆疊而成的塔在中央互相扣合，像機械傳動又近似陰陽互補，將聯邦勞動機構的連結與運動概念轉成五米高的公共地標。",
+      "relatedByCity": [
+        "competition-2026-08-11-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-german-2026-09-02-03",
+      "dedupeKey": "art-2026-09-02-erwin-spuler-wandbild",
+      "name": "德國經典03｜Erwin Spuler｜無題釉面磚壁畫",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "壁畫",
+        "釉面磚",
+        "建築整合"
+      ],
+      "works": "o. T. (Wandbild)｜1956",
+      "comment": "二十二米長的釉面磚帶以不規則色塊承載採果與捕魚人物，讓五○年代公共建築中的勞動圖像同時靠近現代主義線描與日常餐飲空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbild",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbild",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbild",
+      "artistStatement": "二十二米長的釉面磚帶以不規則色塊承載採果與捕魚人物，讓五○年代公共建築中的勞動圖像同時靠近現代主義線描與日常餐飲空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbild",
+      "classicTitle": "o. T. (Wandbild)｜1956",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbild",
+      "classicDesc": "二十二米長的釉面磚帶以不規則色塊承載採果與捕魚人物，讓五○年代公共建築中的勞動圖像同時靠近現代主義線描與日常餐飲空間。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-german-2026-09-02-04",
+      "dedupeKey": "art-2026-09-02-hannsjoerg-voth-scheitelhaltung",
+      "name": "德國經典04｜Hannsjörg Voth｜Scheitelhaltung",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Hilpoltstein",
+      "cityKeywords": [
+        "Hilpoltstein",
+        "希爾波爾特施泰因",
+        "Main-Donau-Kanal",
+        "美因—多瑙運河"
+      ],
+      "media": [
+        "大地藝術",
+        "花崗岩",
+        "基礎設施藝術"
+      ],
+      "works": "Scheitelhaltung｜1992",
+      "comment": "兩道長達百米的楔形花崗岩牆標示運河分水嶺，把工程地理轉成可步行閱讀的大地藝術，也讓北海與黑海水系的交界獲得具體尺度。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung",
+      "artistStatement": "兩道長達百米的楔形花崗岩牆標示運河分水嶺，把工程地理轉成可步行閱讀的大地藝術，也讓北海與黑海水系的交界獲得具體尺度。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung",
+      "classicTitle": "Scheitelhaltung｜1992",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung",
+      "classicDesc": "兩道長達百米的楔形花崗岩牆標示運河分水嶺，把工程地理轉成可步行閱讀的大地藝術，也讓北海與黑海水系的交界獲得具體尺度。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-02",
+      "id": "classic-german-2026-09-02-05",
+      "dedupeKey": "art-2026-09-02-guenther-uecker-nagel",
+      "name": "德國經典05｜Günther Uecker｜Nagel",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Nürnberg",
+      "cityKeywords": [
+        "Nürnberg",
+        "紐倫堡",
+        "Bundesagentur für Arbeit"
+      ],
+      "media": [
+        "巨型公共雕塑",
+        "鋼／鉛",
+        "日常物件"
+      ],
+      "works": "Nagel｜1990",
+      "comment": "十八米高的鉛包鋼釘將 Uecker 的標誌性日常物件放大為城市尺度，既與辦公建築形成尖銳對比，也回應戰後公共藝術對工業材料的重新想像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nagel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nagel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nagel",
+      "artistStatement": "十八米高的鉛包鋼釘將 Uecker 的標誌性日常物件放大為城市尺度，既與辦公建築形成尖銳對比，也回應戰後公共藝術對工業材料的重新想像。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nagel",
+      "classicTitle": "Nagel｜1990",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nagel",
+      "classicDesc": "十八米高的鉛包鋼釘將 Uecker 的標誌性日常物件放大為城市尺度，既與辦公建築形成尖銳對比，也回應戰後公共藝術對工業材料的重新想像。",
+      "relatedByCity": [
+        "competition-2026-08-11-02"
+      ]
+    }
+  ]
+}
