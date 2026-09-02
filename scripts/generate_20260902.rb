@@ -226,4 +226,4 @@ em.merge!({"version"=>"2026-09-02-global-exhibitions-r4","generatedAt"=>GENERATE
 File.write(File.join(DATA, "exhibition-manifest.json"), JSON.pretty_generate(em) + "\n")
 
 File.write(expired_path, JSON.pretty_generate({"archivedAt"=>GENERATED_AT,"entries"=>archived_expired}) + "\n")
-File.write(File.join(DATA, "deploy-touch.txt"), "2026-09-02 daily r54 — 20 public artworks + 5 German open calls + 5 global exhibitions; #{archived_expired.length} expired calls removed.\n")
+File.write(File.join(DATA, "deploy-touch.txt"), "2026-09-02 daily r55 — 20 public artworks + 5 German open calls + 5 global exhibitions; #{archived_expired.length} expired calls removed.\n")
