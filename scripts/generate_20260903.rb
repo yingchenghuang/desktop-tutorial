@@ -11,15 +11,52 @@ def shot(url)
   "https://image.thum.io/get/width/1200/crop/800/noanimate/#{url}"
 end
 
+IMAGE_OVERRIDES = {
+  "https://www.koer.or.at/projects/the-lost-garden/"=>"https://www.koer.or.at/site/assets/files/13855/dsc0210_kleiner.500x0.jpg",
+  "https://www.koer.or.at/projects/vektorgotik/"=>"https://www.koer.or.at/site/assets/files/14365/5_luis_1.500x0.jpg",
+  "https://www.koer.or.at/projects/wandzeitung-glockengasse/"=>"https://www.koer.or.at/site/assets/files/14261/wandzeitung_63_c_carlo_zappella.500x0.jpg",
+  "https://www.koer.or.at/projects/this-is-the-space-we-inhabit-as-neighbors/"=>"https://www.koer.or.at/site/assets/files/14153/2025_08_10_kor_000272_web-2.500x0.jpg",
+  "https://www.koer.or.at/projekte/florestania-im-dritten/"=>"https://www.koer.or.at/site/assets/files/14099/dsc0400_modified_3.500x0.jpg",
+  "https://www.koer.or.at/projects/wewater/"=>"https://www.koer.or.at/site/assets/files/12402/kleiner_koer_wienerwasserbrunnen_-7400.500x0.jpg",
+  "https://www.koer.or.at/projects/design-of-the-noise-barrier-wiesen/"=>"https://www.koer.or.at/site/assets/files/9890/linnenbrink_entwurf_3.500x0.jpg",
+  "https://www.koer.or.at/projekte/wir-hier/"=>"https://www.koer.or.at/site/assets/files/14204/00_vorher_a4_wirhier_asmaaiad_c_hannahmayr_15-v1.500x0.jpg",
+  "https://www.koer.or.at/projects/assemblage-familiar/"=>"https://www.koer.or.at/site/assets/files/14226/hutte1_2.500x0.jpg",
+  "https://www.koer.or.at/projekte/kuenstlerischen-gestaltung-des-gemeindebau-neu-willi-resetarits-hof/"=>"https://www.koer.or.at/site/assets/files/13588/02_fin_kleiner.500x0.jpg",
+  "https://www.centralparknyc.org/locations/albert-bertel-thorvaldsen"=>"https://d2wsrtli9cxkek.cloudfront.net/media/images/Albert-Bertel-Thorvaldsen_20181023_0004.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=1ab3bf57132ebd233febbfecd32dfa5c",
+  "https://www.centralparknyc.org/locations/burnett-fountain"=>"https://d2wsrtli9cxkek.cloudfront.net/media/images/ConservatoryGarden_South_20230808_26.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=0baf775eb666b00843cce51c8d376a70",
+  "https://www.centralparknyc.org/locations/group-of-bears"=>"https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Group-of-Bears_20181002_0022.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=a97a3fd3a21f25f557236c5747fb6a58",
+  "https://www.centralparknyc.org/locations/king-jagiello"=>"https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Wladyslaw-Jagiello_20181109_0001.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=12129c3476e1b60bffe6168cfad8fbf6",
+  "https://www.centralparknyc.org/locations/jose-julian-marti"=>"https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Jose-Julian-Marti-July-2018_0009.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=c19beea3544317f36a75acd59480a8ed",
+  "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/courante-vom-lauf-der-dinge"=>"https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/24547dfc70d7dec210f9a02c8fbc3469b06526cb.jpg",
+  "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/komplementarspektrum"=>"https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0ec8c5c3d4cb92926b6a85011408b2ac57c520b6.jpg",
+  "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkugel"=>"https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fd158265353816448249675fe105db6354f2730e.jpg",
+  "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unser-leben"=>"https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4795b0cffdc7946b5353bcd5f6812dcf5ae6aa05.jpg",
+  "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/plastische-kreuzung"=>"https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/f3f00f5be2e567febdd060247a8b7bcd2d300461.jpg",
+  "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/"=>"https://www.hbk-bs.de/fileadmin/_processed_/0/5/csm_Design_ohne_Titel_9__b1a6ea9425.png",
+  "https://www.stesad.de/kunst-am-bau-wettbewerb-fuer-das-neue-bsz-elektrotechnik/"=>"https://www.stesad.de/wp-content/uploads/2026/08/DE-V-Finanziert-von-der-EuropOuAEischen-Union_POS-768x689.jpg",
+  "https://steiger-gallery.de/call-for-concepts/"=>"https://steiger-gallery.de/wp-content/uploads/2026/07/Wall_03.jpg",
+  "https://www.hausdespapiers.com/open-call"=>"https://static.wixstatic.com/media/00fa13_c48d5b1da1e54636a3defa7792d4cbe5~mv2.jpeg/v1/fill/w_994,h_906,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/C77B6BE4-2C24-4F8C-8EA9-DE9E7AB24A46.jpeg",
+  "https://www.koer.or.at/submission/application/"=>"https://www.koer.or.at/site/templates/build/logo-koer.svg",
+  "https://13.berlinbiennale.de/en/press/press-releases/"=>"https://13.berlinbiennale.de/banner.jpg",
+  "https://www.sharjahart.org/en/sharjah-biennial/sb-16/archive/"=>"https://www.sharjahart.org/images/Banner/SB16_BANNERS-01.jpg",
+  "https://www.kochimuzirisbiennale.org/events"=>"https://kochimuzirisbiennale.org/kmb-2025-logo.jpg",
+  "https://torontobiennial.org/2024-archive/"=>"https://media-backup-tba2024.storage.googleapis.com/wp-content/uploads/2025/09/21182844/TBA-precarious-joys-cover.jpeg",
+  "https://www.echigo-tsumari.jp/en/about/history/"=>"https://www.echigo-tsumari.jp/assets/img/global/ogp_autumn.jpg"
+}.freeze
+
+def image_for(url)
+  IMAGE_OVERRIDES.fetch(url) { shot(url) }
+end
+
 def art(id:, key:, name:, tier:, country:, cities:, media:, work:, comment:, url:, year:)
   {
     "category"=>"作品/展覽", "status"=>"官方來源", "updated"=>DATE,
     "id"=>id, "dedupeKey"=>key, "name"=>name, "tier"=>tier,
     "region"=>"西方", "country"=>country, "cityKeywords"=>cities,
     "media"=>media, "works"=>"#{work}｜#{year}", "comment"=>comment,
-    "website"=>url, "workPage"=>url, "photo"=>shot(url),
+    "website"=>url, "workPage"=>url, "photo"=>image_for(url),
     "artistStatement"=>comment, "artistStatementSource"=>url,
-    "classicTitle"=>"#{work}｜#{year}", "classicImage"=>shot(url),
+    "classicTitle"=>"#{work}｜#{year}", "classicImage"=>image_for(url),
     "classicDesc"=>comment, "relatedByCity"=>[]
   }
 end
@@ -59,9 +96,9 @@ def call(id:, key:, name:, country:, cities:, work:, comment:, url:, deadline:, 
     "id"=>id, "dedupeKey"=>key, "name"=>name, "tier"=>"競圖資料庫",
     "region"=>"西方", "country"=>country, "cityKeywords"=>cities,
     "media"=>media, "works"=>work, "comment"=>comment, "website"=>url,
-    "workPage"=>url, "photo"=>shot(url), "artistStatement"=>comment,
+    "workPage"=>url, "photo"=>image_for(url), "artistStatement"=>comment,
     "artistStatementSource"=>url, "classicTitle"=>name.sub(/^\d+｜/, ""),
-    "classicImage"=>shot(url), "classicDesc"=>comment, "deadline"=>deadline,
+    "classicImage"=>image_for(url), "classicDesc"=>comment, "deadline"=>deadline,
     "deadlineLabel"=>work.split("｜").last, "deadlineTimezone"=>timezone,
     "deadlinePrecision"=>"time", "organizer"=>organizer, "eligibility"=>eligibility,
     "budget"=>budget, "applicationFee"=>fee, "relatedByCity"=>[]
@@ -83,8 +120,8 @@ def exhibition(id:, key:, name:, country:, cities:, media:, dates:, comment:, ur
     "id"=>id, "dedupeKey"=>key, "name"=>name, "tier"=>"全球重要展覽",
     "region"=>"全球", "country"=>country, "cityKeywords"=>cities, "media"=>media,
     "works"=>"#{name.sub(/^\d+｜/, "")}｜#{start_date}–#{end_date}", "comment"=>comment,
-    "website"=>url, "workPage"=>url, "photo"=>shot(url), "classicTitle"=>name.sub(/^\d+｜/, ""),
-    "classicImage"=>shot(url), "classicDesc"=>comment, "exhibitionType"=>type,
+    "website"=>url, "workPage"=>url, "photo"=>image_for(url), "classicTitle"=>name.sub(/^\d+｜/, ""),
+    "classicImage"=>image_for(url), "classicDesc"=>comment, "exhibitionType"=>type,
     "exhibitionStatus"=>status, "startDate"=>start_date, "endDate"=>end_date,
     "edition"=>edition, "organizer"=>organizer, "curator"=>curator, "venue"=>venue,
     "admission"=>admission, "curatorStatement"=>statement, "curatorStatementSource"=>url
@@ -170,7 +207,7 @@ sept_path = File.join(DATA, "backfill-september-manifest.json")
 sept = JSON.parse(File.read(sept_path))
 files = (sept.fetch("files", []) + ["backfill-september-20260903.json"]).uniq.sort
 sept.merge!({
-  "version"=>"2026-09-03-public-art-r56", "generatedAt"=>GENERATED_AT,
+  "version"=>"2026-09-03-public-art-r57", "generatedAt"=>GENERATED_AT,
   "files"=>files, "expectedEntries"=>files.length * 20,
   "statementEntries"=>files.length * 20,"statementSourceEntries"=>files.length * 20,"statementBacklog"=>0,
   "imageEntries"=>files.length * 20,"imageBacklog"=>0,
@@ -189,4 +226,4 @@ em.merge!({"version"=>"2026-09-03-global-exhibitions-r5","generatedAt"=>GENERATE
 File.write(em_path, JSON.pretty_generate(em) + "\n")
 
 File.write(expired_path, JSON.pretty_generate({"archivedAt"=>GENERATED_AT,"removedToday"=>removed_today,"entries"=>archived_expired}) + "\n")
-File.write(File.join(DATA, "deploy-touch.txt"), "2026-09-03 daily r56 — 20 public artworks + 5 active open calls (4 Germany) + 5 global exhibitions; #{removed_today} expired calls removed today.\n")
+File.write(File.join(DATA, "deploy-touch.txt"), "2026-09-03 daily r57 — 20 public artworks + 5 active open calls (4 Germany) + 5 global exhibitions; 30 direct source images verified; #{removed_today} expired calls removed today.\n")
