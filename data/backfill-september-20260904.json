@@ -1,0 +1,781 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-04T17:51:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-04",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Central Park Conservancy、Museum der 1000 Orte 官方頁",
+    "note": "9/4 固定 10＋5＋5；另有德國公開徵選 5 則與全球重要展覽 5 篇。",
+    "linkAudit": {
+      "checkedAt": "2026-09-04T17:51:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "實際瀏覽器逐頁檢查"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-04T17:51:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "30 張官方直接圖片逐一載入驗證"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-01",
+      "dedupeKey": "art-2026-09-04-rogenhofer-united-workers",
+      "name": "01｜Susi Rogenhofer｜United Workers: Work around the clock",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "參與式藝術",
+        "城市研究",
+        "公共行動"
+      ],
+      "works": "United Workers: Work around the clock｜2025",
+      "comment": "藝術家與 urbanize! 以城市時間、工作、休閒及社會生態節奏為題，讓公共藝術成為集體檢視日常時間制度的工具。",
+      "website": "https://www.koer.or.at/projects/united-workers-work-around-the-clock/",
+      "workPage": "https://www.koer.or.at/projects/united-workers-work-around-the-clock/",
+      "photo": "https://www.koer.or.at/site/assets/files/14244/susi_rogenhofer4.500x0.jpg",
+      "artistStatement": "藝術家與 urbanize! 以城市時間、工作、休閒及社會生態節奏為題，讓公共藝術成為集體檢視日常時間制度的工具。",
+      "artistStatementSource": "https://www.koer.or.at/projects/united-workers-work-around-the-clock/",
+      "classicTitle": "United Workers: Work around the clock｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14244/susi_rogenhofer4.500x0.jpg",
+      "classicDesc": "藝術家與 urbanize! 以城市時間、工作、休閒及社會生態節奏為題，讓公共藝術成為集體檢視日常時間制度的工具。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-02",
+      "dedupeKey": "art-2026-09-04-transparadiso-paviliola",
+      "name": "02｜transparadiso｜Paviliola",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Otto Wagner Areal"
+      ],
+      "media": [
+        "場域特定",
+        "座椅雕塑",
+        "公共空間"
+      ],
+      "works": "Paviliola｜2025",
+      "comment": "把 Otto Wagner Areal 的歷史花園亭拆解為可坐、可用的公共雕塑，並以照護作為所有人可接近的共同資源。",
+      "website": "https://www.koer.or.at/projects/paviliola/",
+      "workPage": "https://www.koer.or.at/projects/paviliola/",
+      "photo": "https://www.koer.or.at/site/assets/files/14143/kro5334.500x0.jpg",
+      "artistStatement": "把 Otto Wagner Areal 的歷史花園亭拆解為可坐、可用的公共雕塑，並以照護作為所有人可接近的共同資源。",
+      "artistStatementSource": "https://www.koer.or.at/projects/paviliola/",
+      "classicTitle": "Paviliola｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14143/kro5334.500x0.jpg",
+      "classicDesc": "把 Otto Wagner Areal 的歷史花園亭拆解為可坐、可用的公共雕塑，並以照護作為所有人可接近的共同資源。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-03",
+      "dedupeKey": "art-2026-09-04-andress-stille-post",
+      "name": "03｜Laura Andreß｜Stille Post",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Favoriten"
+      ],
+      "media": [
+        "聲音藝術",
+        "口述歷史",
+        "社區參與"
+      ],
+      "works": "Stille Post: Geschichten aus dem Gemeindebau｜2025",
+      "comment": "在市營住宅設置電話亭式聲音裝置，收錄住民故事，使住宅史從官方敘事轉為可被居民接力傳遞的生活記憶。",
+      "website": "https://www.koer.or.at/projects/stille-post/",
+      "workPage": "https://www.koer.or.at/projects/stille-post/",
+      "photo": "https://www.koer.or.at/site/assets/files/14163/hansson_098.500x0.jpg",
+      "artistStatement": "在市營住宅設置電話亭式聲音裝置，收錄住民故事，使住宅史從官方敘事轉為可被居民接力傳遞的生活記憶。",
+      "artistStatementSource": "https://www.koer.or.at/projects/stille-post/",
+      "classicTitle": "Stille Post: Geschichten aus dem Gemeindebau｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14163/hansson_098.500x0.jpg",
+      "classicDesc": "在市營住宅設置電話亭式聲音裝置，收錄住民故事，使住宅史從官方敘事轉為可被居民接力傳遞的生活記憶。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-04",
+      "dedupeKey": "art-2026-09-04-zabielska-design-anonymous",
+      "name": "04｜Joanna Zabielska 等｜Design of the Anonymous",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Brunnenmarkt"
+      ],
+      "media": [
+        "參與式藝術",
+        "市場文化",
+        "表演"
+      ],
+      "works": "Sewn together: Narrated at the market｜2025",
+      "comment": "以提袋服裝、收據詩、廣播、烹飪與茶敘串連 Brunnenmarkt 日常，讓匿名設計顯露市場使用者的技藝與知識。",
+      "website": "https://www.koer.or.at/projects/design-of-the-anonymous/",
+      "workPage": "https://www.koer.or.at/projects/design-of-the-anonymous/",
+      "photo": "https://www.koer.or.at/site/assets/files/14030/01_c_sebastian_kraner.500x0.jpg",
+      "artistStatement": "以提袋服裝、收據詩、廣播、烹飪與茶敘串連 Brunnenmarkt 日常，讓匿名設計顯露市場使用者的技藝與知識。",
+      "artistStatementSource": "https://www.koer.or.at/projects/design-of-the-anonymous/",
+      "classicTitle": "Sewn together: Narrated at the market｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14030/01_c_sebastian_kraner.500x0.jpg",
+      "classicDesc": "以提袋服裝、收據詩、廣播、烹飪與茶敘串連 Brunnenmarkt 日常，讓匿名設計顯露市場使用者的技藝與知識。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-05",
+      "dedupeKey": "art-2026-09-04-seeleitner-stoeffelbauer-augenblicke",
+      "name": "05｜Gabi Seeleitner／Christa Stöffelbauer｜AUGENBLICKE",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Favoritenstraße"
+      ],
+      "media": [
+        "舞蹈",
+        "公共表演",
+        "互動裝置"
+      ],
+      "works": "AUGENBLICKE｜2025",
+      "comment": "表演者以街道座椅邀請陌生人短暫相遇，將原本被手機佔據的注意力重新交還給眼神、身體與現場。",
+      "website": "https://www.koer.or.at/projects/augenblicke-a-poetic-encounter/",
+      "workPage": "https://www.koer.or.at/projects/augenblicke-a-poetic-encounter/",
+      "photo": "https://www.koer.or.at/site/assets/files/14020/a_u_g_e_n_b_l_i_c_k_e_laurent_ziegler_1_klein.500x0.jpg",
+      "artistStatement": "表演者以街道座椅邀請陌生人短暫相遇，將原本被手機佔據的注意力重新交還給眼神、身體與現場。",
+      "artistStatementSource": "https://www.koer.or.at/projects/augenblicke-a-poetic-encounter/",
+      "classicTitle": "AUGENBLICKE｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14020/a_u_g_e_n_b_l_i_c_k_e_laurent_ziegler_1_klein.500x0.jpg",
+      "classicDesc": "表演者以街道座椅邀請陌生人短暫相遇，將原本被手機佔據的注意力重新交還給眼神、身體與現場。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-06",
+      "dedupeKey": "art-2026-09-04-senatore-i-contain-multitudes",
+      "name": "06｜Marinella Senatore｜I Contain Multitudes",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "社會參與",
+        "表演",
+        "行動藝術"
+      ],
+      "works": "I Contain Multitudes｜2025",
+      "comment": "以 School of Narrative Dance 串連在地社群，將遊行、舞蹈與集體發聲轉成城市中的公共能動性。",
+      "website": "https://www.koer.or.at/projects/i-contain-multitudes/",
+      "workPage": "https://www.koer.or.at/projects/i-contain-multitudes/",
+      "photo": "https://www.koer.or.at/site/assets/files/14012/2025-marinella_senatore_kor_vienna_may_12-5185.500x0.jpg",
+      "artistStatement": "以 School of Narrative Dance 串連在地社群，將遊行、舞蹈與集體發聲轉成城市中的公共能動性。",
+      "artistStatementSource": "https://www.koer.or.at/projects/i-contain-multitudes/",
+      "classicTitle": "I Contain Multitudes｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14012/2025-marinella_senatore_kor_vienna_may_12-5185.500x0.jpg",
+      "classicDesc": "以 School of Narrative Dance 串連在地社群，將遊行、舞蹈與集體發聲轉成城市中的公共能動性。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-07",
+      "dedupeKey": "art-2026-09-04-ungepflegt-wiener-weinen",
+      "name": "07｜Barbara Ungepflegt 等｜WIENER WEINEN",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Schottentor"
+      ],
+      "media": [
+        "行為藝術",
+        "材料轉化",
+        "情感地景"
+      ],
+      "works": "WIENER WEINEN｜2025",
+      "comment": "在 Schottentor 收集城市中的眼淚並蒸發為鹽；一百六十毫升淚水才得到一克鹽，使情緒獲得可見的公共尺度。",
+      "website": "https://www.koer.or.at/projects/wiener-weinen/",
+      "workPage": "https://www.koer.or.at/projects/wiener-weinen/",
+      "photo": "https://www.koer.or.at/site/assets/files/13981/img_0583_kleiner.500x0.jpg",
+      "artistStatement": "在 Schottentor 收集城市中的眼淚並蒸發為鹽；一百六十毫升淚水才得到一克鹽，使情緒獲得可見的公共尺度。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wiener-weinen/",
+      "classicTitle": "WIENER WEINEN｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13981/img_0583_kleiner.500x0.jpg",
+      "classicDesc": "在 Schottentor 收集城市中的眼淚並蒸發為鹽；一百六十毫升淚水才得到一克鹽，使情緒獲得可見的公共尺度。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-08",
+      "dedupeKey": "art-2026-09-04-hangl-window-words",
+      "name": "08｜Oliver Hangl｜Window Words",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Mariahilf"
+      ],
+      "media": [
+        "文字藝術",
+        "店窗介入",
+        "文學"
+      ],
+      "works": "Window Words｜2025",
+      "comment": "將文學置入營業與閒置店窗，使閱讀沿街展開，讓空屋、商業立面與步行節奏形成新的城市文本。",
+      "website": "https://www.koer.or.at/projects/window-words/",
+      "workPage": "https://www.koer.or.at/projects/window-words/",
+      "photo": "https://www.koer.or.at/site/assets/files/13999/markovic_barbi_teil3.500x0.jpg",
+      "artistStatement": "將文學置入營業與閒置店窗，使閱讀沿街展開，讓空屋、商業立面與步行節奏形成新的城市文本。",
+      "artistStatementSource": "https://www.koer.or.at/projects/window-words/",
+      "classicTitle": "Window Words｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13999/markovic_barbi_teil3.500x0.jpg",
+      "classicDesc": "將文學置入營業與閒置店窗，使閱讀沿街展開，讓空屋、商業立面與步行節奏形成新的城市文本。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-09",
+      "dedupeKey": "art-2026-09-04-academy-invisible-waters-hidden-paths",
+      "name": "09｜Academy of Fine Arts Vienna｜Invisible Waters and Hidden Paths",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Schillerplatz"
+      ],
+      "media": [
+        "城市步行",
+        "工作坊",
+        "水文研究"
+      ],
+      "works": "Invisible Waters and Hidden Paths｜2025–2026",
+      "comment": "以每月工作坊與城市步行追蹤學院周邊的自然和水系，把不可見的水文基礎設施轉成可共同閱讀的校園地景。",
+      "website": "https://www.koer.or.at/projects/invisible-waters-and-hidden-paths/",
+      "workPage": "https://www.koer.or.at/projects/invisible-waters-and-hidden-paths/",
+      "photo": "https://www.koer.or.at/site/assets/files/14118/franke_flora_inseln.500x0.jpg",
+      "artistStatement": "以每月工作坊與城市步行追蹤學院周邊的自然和水系，把不可見的水文基礎設施轉成可共同閱讀的校園地景。",
+      "artistStatementSource": "https://www.koer.or.at/projects/invisible-waters-and-hidden-paths/",
+      "classicTitle": "Invisible Waters and Hidden Paths｜2025–2026",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14118/franke_flora_inseln.500x0.jpg",
+      "classicDesc": "以每月工作坊與城市步行追蹤學院周邊的自然和水系，把不可見的水文基礎設施轉成可共同閱讀的校園地景。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "current-2026-09-04-10",
+      "dedupeKey": "art-2026-09-04-wochenklausur-wahllabor",
+      "name": "10｜WochenKlausur｜Election Laboratory",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "社會實踐",
+        "模擬選舉",
+        "公共討論"
+      ],
+      "works": "Election Laboratory｜2025",
+      "comment": "在維也納地方選舉前舉辦可投贊成或反對票的表演性選舉，以藝術實驗暴露代議制度與公共意見之間的張力。",
+      "website": "https://www.koer.or.at/projects/wahllabor/",
+      "workPage": "https://www.koer.or.at/projects/wahllabor/",
+      "photo": "https://www.koer.or.at/site/assets/files/13994/bild_wahllabor_campus1.500x0.jpg",
+      "artistStatement": "在維也納地方選舉前舉辦可投贊成或反對票的表演性選舉，以藝術實驗暴露代議制度與公共意見之間的張力。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wahllabor/",
+      "classicTitle": "Election Laboratory｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13994/bild_wahllabor_campus1.500x0.jpg",
+      "classicDesc": "在維也納地方選舉前舉辦可投贊成或反對票的表演性選舉，以藝術實驗暴露代議制度與公共意見之間的張力。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-global-2026-09-04-01",
+      "dedupeKey": "art-2026-09-04-piccirilli-maine-monument",
+      "name": "全球經典01｜Attilio Piccirilli｜Maine Monument",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "紀念碑",
+        "青銅",
+        "歷史紀念"
+      ],
+      "works": "Maine Monument｜1913",
+      "comment": "五十七英尺高的紀念碑以 Columbia、美洲擬人像、海馬與水手群像紀念 USS Maine；宏大寓言也記錄媒體、政治與戰爭記憶的公共塑形。",
+      "website": "https://www.centralparknyc.org/locations/maine-monument",
+      "workPage": "https://www.centralparknyc.org/locations/maine-monument",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/20200521_AH9A7561.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dfdbfcb63962a972362c00843c6f1265",
+      "artistStatement": "五十七英尺高的紀念碑以 Columbia、美洲擬人像、海馬與水手群像紀念 USS Maine；宏大寓言也記錄媒體、政治與戰爭記憶的公共塑形。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/maine-monument",
+      "classicTitle": "Maine Monument｜1913",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/20200521_AH9A7561.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=dfdbfcb63962a972362c00843c6f1265",
+      "classicDesc": "五十七英尺高的紀念碑以 Columbia、美洲擬人像、海馬與水手群像紀念 USS Maine；宏大寓言也記錄媒體、政治與戰爭記憶的公共塑形。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-global-2026-09-04-02",
+      "dedupeKey": "art-2026-09-04-farnham-simon-bolivar",
+      "name": "全球經典02｜Sally James Farnham｜Simón Bolívar",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "騎馬像",
+        "青銅",
+        "政治人物紀念"
+      ],
+      "works": "Simón Bolívar｜1921",
+      "comment": "Farnham 以躍動騎馬像紀念南美解放者；作品亦是當時由女性完成的最大型青銅雕塑之一，將性別與紀念性尺度並置。",
+      "website": "https://www.centralparknyc.org/locations/simon-bolivar",
+      "workPage": "https://www.centralparknyc.org/locations/simon-bolivar",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/20141116_Simon_Bolivar_IMG_3178-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=88f8c7c8d9d6617c72575f19b7c7e3e7",
+      "artistStatement": "Farnham 以躍動騎馬像紀念南美解放者；作品亦是當時由女性完成的最大型青銅雕塑之一，將性別與紀念性尺度並置。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/simon-bolivar",
+      "classicTitle": "Simón Bolívar｜1921",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/20141116_Simon_Bolivar_IMG_3178-1.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=88f8c7c8d9d6617c72575f19b7c7e3e7",
+      "classicDesc": "Farnham 以躍動騎馬像紀念南美解放者；作品亦是當時由女性完成的最大型青銅雕塑之一，將性別與紀念性尺度並置。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-global-2026-09-04-03",
+      "dedupeKey": "art-2026-09-04-sheahan-thomas-moore",
+      "name": "全球經典03｜Dennis B. Sheahan｜Thomas Moore",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "肖像雕塑",
+        "青銅",
+        "文學紀念"
+      ],
+      "works": "Thomas Moore｜1880",
+      "comment": "愛爾蘭詩人的青銅胸像由友誼社團捐贈，作品位於公園與城市文化制度交界，也見證公共藝術早期的雙重審查。",
+      "website": "https://www.centralparknyc.org/locations/thomas-moore",
+      "workPage": "https://www.centralparknyc.org/locations/thomas-moore",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/ff-wide@thomas-moore.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=3ce9558958fd513e5244d24cc3b43894",
+      "artistStatement": "愛爾蘭詩人的青銅胸像由友誼社團捐贈，作品位於公園與城市文化制度交界，也見證公共藝術早期的雙重審查。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/thomas-moore",
+      "classicTitle": "Thomas Moore｜1880",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/ff-wide@thomas-moore.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=3ce9558958fd513e5244d24cc3b43894",
+      "classicDesc": "愛爾蘭詩人的青銅胸像由友誼社團捐贈，作品位於公園與城市文化制度交界，也見證公共藝術早期的雙重審查。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-global-2026-09-04-04",
+      "dedupeKey": "art-2026-09-04-ball-daniel-webster",
+      "name": "全球經典04｜Thomas Ball｜Daniel Webster",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "紀念雕塑",
+        "青銅",
+        "政治人物紀念"
+      ],
+      "works": "Daniel Webster｜1876",
+      "comment": "巨型青銅像以手入外套、書冊在側的姿勢呈現演說家與政治家；其選址爭議也揭示紀念物如何競逐城市視線。",
+      "website": "https://www.centralparknyc.org/locations/daniel-webster",
+      "workPage": "https://www.centralparknyc.org/locations/daniel-webster",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Daniel-Webster_20181002_0040.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8dece07550264e69465bbd2dbcc5131b",
+      "artistStatement": "巨型青銅像以手入外套、書冊在側的姿勢呈現演說家與政治家；其選址爭議也揭示紀念物如何競逐城市視線。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/daniel-webster",
+      "classicTitle": "Daniel Webster｜1876",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Daniel-Webster_20181002_0040.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=8dece07550264e69465bbd2dbcc5131b",
+      "classicDesc": "巨型青銅像以手入外套、書冊在側的姿勢呈現演說家與政治家；其選址爭議也揭示紀念物如何競逐城市視線。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-global-2026-09-04-05",
+      "dedupeKey": "art-2026-09-04-fratin-eagles-and-prey",
+      "name": "全球經典05｜Christophe Fratin｜Eagles and Prey",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "動物雕塑",
+        "青銅",
+        "浪漫主義"
+      ],
+      "works": "Eagles and Prey｜1850／1863 入園",
+      "comment": "兩隻鷹攻擊山羊的戲劇性場景是中央公園最早的非紀念性雕塑之一，也被視為紐約市公園地的最古老藝術品。",
+      "website": "https://www.centralparknyc.org/locations/eagles-and-prey",
+      "workPage": "https://www.centralparknyc.org/locations/eagles-and-prey",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Eagles-and-Prey-July-2018_0006.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=aa4c40dbc5ae5c4b4edc50d0ca182e9a",
+      "artistStatement": "兩隻鷹攻擊山羊的戲劇性場景是中央公園最早的非紀念性雕塑之一，也被視為紐約市公園地的最古老藝術品。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/eagles-and-prey",
+      "classicTitle": "Eagles and Prey｜1850／1863 入園",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Eagles-and-Prey-July-2018_0006.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=aa4c40dbc5ae5c4b4edc50d0ca182e9a",
+      "classicDesc": "兩隻鷹攻擊山羊的戲劇性場景是中央公園最早的非紀念性雕塑之一，也被視為紐約市公園地的最古老藝術品。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-german-2026-09-04-06",
+      "dedupeKey": "art-2026-09-04-anger-ein-falter",
+      "name": "德國經典01｜Renate Anger｜Ein Falter",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Bendlerblock"
+      ],
+      "media": [
+        "建築整合",
+        "裝置",
+        "歷史記憶"
+      ],
+      "works": "Ein Falter: Catocala nupta／Rotes Ordensband｜2002",
+      "comment": "為 Bendlerblock 的 Stauffenberg 廳創作，以蛾的脆弱形象連結抵抗記憶，讓歷史不靠英雄化而在室內尺度中持續浮現。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-falter-catocala-nupta-rotes-ordensband",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-falter-catocala-nupta-rotes-ordensband",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/2997ea2679adb86b0126dc423842ea6f2e3a4aac.jpg",
+      "artistStatement": "為 Bendlerblock 的 Stauffenberg 廳創作，以蛾的脆弱形象連結抵抗記憶，讓歷史不靠英雄化而在室內尺度中持續浮現。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-falter-catocala-nupta-rotes-ordensband",
+      "classicTitle": "Ein Falter: Catocala nupta／Rotes Ordensband｜2002",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/2997ea2679adb86b0126dc423842ea6f2e3a4aac.jpg",
+      "classicDesc": "為 Bendlerblock 的 Stauffenberg 廳創作，以蛾的脆弱形象連結抵抗記憶，讓歷史不靠英雄化而在室內尺度中持續浮現。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-german-2026-09-04-07",
+      "dedupeKey": "art-2026-09-04-bandau-ot-1989",
+      "name": "德國經典02｜Joachim Bandau｜o. T.",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "Robert-Schuman-Platz"
+      ],
+      "media": [
+        "雕塑",
+        "建築整合",
+        "抽象"
+      ],
+      "works": "o. T.｜1989",
+      "comment": "為聯邦交通部建築群創作的抽象量體，以沉重、封閉的身體回應玻璃大廳與辦公翼樓之間的通行和制度空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-6",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-6",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/59432d4df76364f5049ba83e8b63c19e93b8df11.jpg",
+      "artistStatement": "為聯邦交通部建築群創作的抽象量體，以沉重、封閉的身體回應玻璃大廳與辦公翼樓之間的通行和制度空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-6",
+      "classicTitle": "o. T.｜1989",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/59432d4df76364f5049ba83e8b63c19e93b8df11.jpg",
+      "classicDesc": "為聯邦交通部建築群創作的抽象量體，以沉重、封閉的身體回應玻璃大廳與辦公翼樓之間的通行和制度空間。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-german-2026-09-04-08",
+      "dedupeKey": "art-2026-09-04-balkenhol-wetterfahnen",
+      "name": "德國經典03｜Stephan Balkenhol｜Wetterfahnen",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Werderscher Markt"
+      ],
+      "media": [
+        "屋頂藝術",
+        "風向標",
+        "建築整合"
+      ],
+      "works": "o. T. (Wetterfahnen)｜2001",
+      "comment": "人物與符號化為屋頂風向標，隨風轉動於外交部天際線，使國家建築的固定權威被氣候和城市視角持續改寫。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wetterfahnen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wetterfahnen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/896f65a8fa48832a734b51463cb085a171942dc9.jpg",
+      "artistStatement": "人物與符號化為屋頂風向標，隨風轉動於外交部天際線，使國家建築的固定權威被氣候和城市視角持續改寫。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wetterfahnen",
+      "classicTitle": "o. T. (Wetterfahnen)｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/896f65a8fa48832a734b51463cb085a171942dc9.jpg",
+      "classicDesc": "人物與符號化為屋頂風向標，隨風轉動於外交部天際線，使國家建築的固定權威被氣候和城市視角持續改寫。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-german-2026-09-04-09",
+      "dedupeKey": "art-2026-09-04-balthaus-pure-moore",
+      "name": "德國經典04｜Fritz Balthaus｜Pure Moore",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "青銅",
+        "概念雕塑",
+        "文化記憶"
+      ],
+      "works": "Pure Moore｜2009",
+      "comment": "不規則堆疊青銅條指涉遭竊的 Henry Moore《Reclining Figure》，以材料、價格與缺席追問藝術價值和作者身分如何被制度建構。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pure-moore",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pure-moore",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e98529aa8273ea6cf103ceac9b5cf96ba8cbf530.jpg",
+      "artistStatement": "不規則堆疊青銅條指涉遭竊的 Henry Moore《Reclining Figure》，以材料、價格與缺席追問藝術價值和作者身分如何被制度建構。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pure-moore",
+      "classicTitle": "Pure Moore｜2009",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e98529aa8273ea6cf103ceac9b5cf96ba8cbf530.jpg",
+      "classicDesc": "不規則堆疊青銅條指涉遭竊的 Henry Moore《Reclining Figure》，以材料、價格與缺席追問藝術價值和作者身分如何被制度建構。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "classic-german-2026-09-04-10",
+      "dedupeKey": "art-2026-09-04-barth-raster-d",
+      "name": "德國經典05｜Thom Barth｜Raster D",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "繪畫裝置",
+        "網格",
+        "建築介入"
+      ],
+      "works": "Raster D｜2000",
+      "comment": "一百八十六幅鉛筆式網格圖分布於歷史部會建築走廊節點，以重複與差異干擾行政動線，也回應建築承載的政治層疊。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raster-d",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raster-d",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ab09ec1d3f5fb981f1911aeed87c11f61b1a0df9.jpg",
+      "artistStatement": "一百八十六幅鉛筆式網格圖分布於歷史部會建築走廊節點，以重複與差異干擾行政動線，也回應建築承載的政治層疊。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raster-d",
+      "classicTitle": "Raster D｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ab09ec1d3f5fb981f1911aeed87c11f61b1a0df9.jpg",
+      "classicDesc": "一百八十六幅鉛筆式網格圖分布於歷史部會建築走廊節點，以重複與差異干擾行政動線，也回應建築承載的政治層疊。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04"
+      ]
+    }
+  ]
+}

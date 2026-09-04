@@ -1,19 +1,18 @@
 {
   "meta": {
-    "generatedAt": "2026-09-03T04:20:24+08:00",
+    "generatedAt": "2026-09-05T01:30:00+08:00",
     "timezone": "Asia/Taipei",
-    "date": "2026-09-03",
+    "date": "2026-09-05",
     "dailyTarget": 5,
     "source": "官方主辦機構徵件頁",
-    "activeEntries": 88,
+    "activeEntries": 98,
     "addedToday": 5,
-    "germanAddedToday": 4,
-    "expiredRemoved": 4,
-    "note": "9/3 新增 5 筆有效公開徵選（德國 4）；今日移除 4 筆逾期案件。",
+    "germanAddedToday": 5,
+    "expiredRemoved": 0,
+    "note": "9/5 新增 5 筆有效德國公開徵選；移除 0 筆逾期案件。",
     "linkAudit": {
-      "checkedAt": "2026-09-03T04:20:24+08:00",
+      "checkedAt": "2026-09-05T01:30:00+08:00",
       "missingCityKeywords": 0,
-      "invalidRelatedByCity": 0,
       "uniqueNewSourcesChecked": 5,
       "blockedSourceReplaced": 0
     }
@@ -1421,7 +1420,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -1523,7 +1531,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -2036,7 +2053,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -3410,7 +3436,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -3515,7 +3550,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -3622,7 +3666,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -3728,7 +3781,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -3833,7 +3895,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -3937,7 +4008,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4041,7 +4121,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4145,7 +4234,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4249,7 +4347,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4353,7 +4460,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4458,7 +4574,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4563,7 +4688,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4668,7 +4802,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4897,7 +5040,16 @@
         "current-2026-09-02-05",
         "current-2026-09-02-06",
         "current-2026-09-02-08",
-        "current-2026-09-02-09"
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
       ]
     },
     {
@@ -4960,7 +5112,526 @@
         "current-2026-09-03-07",
         "current-2026-09-03-08",
         "current-2026-09-03-09",
-        "current-2026-09-03-10"
+        "current-2026-09-03-10",
+        "current-2026-09-04-01",
+        "current-2026-09-04-02",
+        "current-2026-09-04-03",
+        "current-2026-09-04-04",
+        "current-2026-09-04-05",
+        "current-2026-09-04-06",
+        "current-2026-09-04-07",
+        "current-2026-09-04-08",
+        "current-2026-09-04-09",
+        "current-2026-09-04-10",
+        "current-2026-09-05-01",
+        "current-2026-09-05-02",
+        "current-2026-09-05-03",
+        "current-2026-09-05-04",
+        "current-2026-09-05-05",
+        "current-2026-09-05-06",
+        "current-2026-09-05-07",
+        "current-2026-09-05-08",
+        "current-2026-09-05-09",
+        "current-2026-09-05-10"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "competition-2026-09-04-01",
+      "dedupeKey": "opportunity-2026-augsburg-staatsbibliothek-kunst-am-bau",
+      "name": "01｜Augsburg｜州立暨市立圖書館建築藝術競賽",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Augsburg",
+      "cityKeywords": [
+        "Augsburg",
+        "奧格斯堡"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "公共藝術",
+        "建築整合"
+      ],
+      "works": "圖書館室內／戶外兩處藝術｜截止 2026.09.11 23:59 CEST",
+      "comment": "兩階段競賽徵集能回應圖書館建築、用途與立面的永久作品；第一階段送概念草圖，第二階段才有設計補償。",
+      "website": "https://www.stbaa.bayern.de/service/medien/meldungen/2026/kunst-am-bau-wettbewerb-fuer-die-staats-und-stadtbibliothek-augsburg/",
+      "workPage": "https://www.stbaa.bayern.de/service/medien/meldungen/2026/kunst-am-bau-wettbewerb-fuer-die-staats-und-stadtbibliothek-augsburg/",
+      "photo": "https://www.stbaa.bayern.de/mam/header/service/header.jpg",
+      "artistStatement": "兩階段競賽徵集能回應圖書館建築、用途與立面的永久作品；第一階段送概念草圖，第二階段才有設計補償。",
+      "artistStatementSource": "https://www.stbaa.bayern.de/service/medien/meldungen/2026/kunst-am-bau-wettbewerb-fuer-die-staats-und-stadtbibliothek-augsburg/",
+      "classicTitle": "Augsburg｜州立暨市立圖書館建築藝術競賽",
+      "classicImage": "https://www.stbaa.bayern.de/mam/header/service/header.jpg",
+      "classicDesc": "兩階段競賽徵集能回應圖書館建築、用途與立面的永久作品；第一階段送概念草圖，第二階段才有設計補償。",
+      "deadline": "2026-09-11T23:59:59+02:00",
+      "deadlineLabel": "截止 2026.09.11 23:59 CEST",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Freistaat Bayern／Staatliches Bauamt Augsburg",
+      "eligibility": "符合官方修訂資格的自由藝術家或團隊；可選戶外、室內或兩處整合提案",
+      "budget": "實現預算最高 €250,000（含稅）；第二階段每組 €3,000（含稅）",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "competition-2026-09-04-02",
+      "dedupeKey": "opportunity-2026-trier-humboldt-gymnasium-kunst-am-bau",
+      "name": "02｜Trier｜Humboldt-Gymnasium 建築藝術競賽",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Trier",
+      "cityKeywords": [
+        "Trier",
+        "特里爾"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "校園藝術",
+        "建築整合"
+      ],
+      "works": "新建樓梯間公共藝術｜截止 2026.09.10 23:59 CEST",
+      "comment": "公開競賽要求作品在樓梯移動視角中被感知，並回應整合、多元、知識轉變、未來、好奇與自主思考。",
+      "website": "https://kunstundbau.rlp.de/wettbewerbe/wettbewerb/trier-humboldt-gymnasium",
+      "workPage": "https://kunstundbau.rlp.de/wettbewerbe/wettbewerb/trier-humboldt-gymnasium",
+      "photo": "https://kunstundbau.rlp.de/fileadmin/_logos/logo_rlp.svg",
+      "artistStatement": "公開競賽要求作品在樓梯移動視角中被感知，並回應整合、多元、知識轉變、未來、好奇與自主思考。",
+      "artistStatementSource": "https://kunstundbau.rlp.de/wettbewerbe/wettbewerb/trier-humboldt-gymnasium",
+      "classicTitle": "Trier｜Humboldt-Gymnasium 建築藝術競賽",
+      "classicImage": "https://kunstundbau.rlp.de/fileadmin/_logos/logo_rlp.svg",
+      "classicDesc": "公開競賽要求作品在樓梯移動視角中被感知，並回應整合、多元、知識轉變、未來、好奇與自主思考。",
+      "deadline": "2026-09-10T23:59:59+02:00",
+      "deadlineLabel": "截止 2026.09.10 23:59 CEST",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Stadtverwaltung Trier",
+      "eligibility": "依公開競賽文件申請之專業藝術家或團隊",
+      "budget": "總額 €55,784（含材料、藝術家費與增值稅）",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "competition-2026-09-04-03",
+      "dedupeKey": "opportunity-2026-euward10-art-brut",
+      "name": "03｜Augustinum Stiftung｜euward10 歐洲 Art Brut 藝術獎",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "慕尼黑",
+        "Oberschleißheim"
+      ],
+      "media": [
+        "Art Brut",
+        "繪畫",
+        "攝影",
+        "平面作品"
+      ],
+      "works": "euward10｜截止 2026.10.10 23:59 CEST",
+      "comment": "第十屆 euward 聚焦當代 Art Brut，鼓勵因心智、心理或情緒障礙而受藝術體制排除、且已形成獨立創作脈絡的藝術家申請。",
+      "website": "https://www.euward.de/en/application/",
+      "workPage": "https://www.euward.de/en/application/",
+      "photo": "https://www.euward.de/fileadmin/user_upload/Bewerbung.png",
+      "artistStatement": "第十屆 euward 聚焦當代 Art Brut，鼓勵因心智、心理或情緒障礙而受藝術體制排除、且已形成獨立創作脈絡的藝術家申請。",
+      "artistStatementSource": "https://www.euward.de/en/application/",
+      "classicTitle": "Augustinum Stiftung｜euward10 歐洲 Art Brut 藝術獎",
+      "classicImage": "https://www.euward.de/fileadmin/user_upload/Bewerbung.png",
+      "classicDesc": "第十屆 euward 聚焦當代 Art Brut，鼓勵因心智、心理或情緒障礙而受藝術體制排除、且已形成獨立創作脈絡的藝術家申請。",
+      "deadline": "2026-10-10T23:59:59+02:00",
+      "deadlineLabel": "截止 2026.10.10 23:59 CEST",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Augustinum Stiftung",
+      "eligibility": "歐洲藝術家；實踐屬當代 Art Brut，提交六件自行創作的二維作品，不接受 AI 生成作品",
+      "budget": "三名得主之獎金與作品目錄總值約 €30,000，並於 Haus der Kunst 展出",
+      "applicationFee": "免費；郵寄成本自理",
+      "relatedByCity": [
+        "current-2026-08-29-09",
+        "current-2026-08-29-10",
+        "classic-german-2026-08-12-01",
+        "classic-german-2026-08-15-03",
+        "classic-german-2026-08-15-04"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "competition-2026-09-04-04",
+      "dedupeKey": "opportunity-2027-kunstverein-muensterland-kunstpreis",
+      "name": "04｜Kunstverein Münsterland｜2027 視覺藝術獎",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Coesfeld",
+      "cityKeywords": [
+        "Coesfeld",
+        "科斯費爾德",
+        "Münsterland"
+      ],
+      "media": [
+        "繪畫",
+        "雕塑",
+        "攝影",
+        "版畫"
+      ],
+      "works": "Kunstpreis 2027｜截止 2027.05.01 23:59 CEST",
+      "comment": "四年一度的藝術獎面向已完成專業訓練且具持續實踐的藝術家，獎項結合現金與個展，將當代創作帶入 Münsterland。",
+      "website": "https://www.kunstverein-muensterland.de/index.php/foerderung-kunstschaffende/kunst-preis",
+      "workPage": "https://www.kunstverein-muensterland.de/index.php/foerderung-kunstschaffende/kunst-preis",
+      "photo": "https://www.kunstverein-muensterland.de/media/yootheme/cache/85/Kunstpreis-Ludovico-853cbe45.webp",
+      "artistStatement": "四年一度的藝術獎面向已完成專業訓練且具持續實踐的藝術家，獎項結合現金與個展，將當代創作帶入 Münsterland。",
+      "artistStatementSource": "https://www.kunstverein-muensterland.de/index.php/foerderung-kunstschaffende/kunst-preis",
+      "classicTitle": "Kunstverein Münsterland｜2027 視覺藝術獎",
+      "classicImage": "https://www.kunstverein-muensterland.de/media/yootheme/cache/85/Kunstpreis-Ludovico-853cbe45.webp",
+      "classicDesc": "四年一度的藝術獎面向已完成專業訓練且具持續實踐的藝術家，獎項結合現金與個展，將當代創作帶入 Münsterland。",
+      "deadline": "2027-05-01T23:59:59+02:00",
+      "deadlineLabel": "截止 2027.05.01 23:59 CEST",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Kunstverein Münsterland e. V.",
+      "eligibility": "德國藝術院校畢業或相當海外學歷，完成學業至少五年；領域為繪畫、版畫、雕塑、立體或攝影",
+      "budget": "獎金 €10,000，另含 2027.10.10–12.19 得主展",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-04",
+      "id": "competition-2026-09-04-05",
+      "dedupeKey": "opportunity-2026-franz-hecker-stipendium",
+      "name": "05｜Kreissparkasse Bersenbrück｜Franz Hecker 創作獎助",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Bersenbrück",
+      "cityKeywords": [
+        "Bersenbrück",
+        "貝森布呂克",
+        "Osnabrück"
+      ],
+      "media": [
+        "駐村",
+        "繪畫",
+        "雕塑",
+        "攝影"
+      ],
+      "works": "三個月 Hasemühle 創作駐留｜截止 2026.10.30 23:59 CET",
+      "comment": "三個月駐留讓青年藝術家在 Hasemühle 周邊專注創作，期末於 Kreissparkasse Bersenbrück 展示成果。",
+      "website": "https://www.ksk-bersenbrueck.de/de/home/ihre-sparkasse/franz-hecker-stipendium.html",
+      "workPage": "https://www.ksk-bersenbrueck.de/de/home/ihre-sparkasse/franz-hecker-stipendium.html",
+      "photo": "https://www.ksk-bersenbrueck.de/content/myif/ksk-bersenbrueck/work/filiale/de/home/ihre-sparkasse/franz-hecker-stipendium/_jcr_content/par/section/section/imagebox1/image.img.jpg/1746452408270.jpg",
+      "artistStatement": "三個月駐留讓青年藝術家在 Hasemühle 周邊專注創作，期末於 Kreissparkasse Bersenbrück 展示成果。",
+      "artistStatementSource": "https://www.ksk-bersenbrueck.de/de/home/ihre-sparkasse/franz-hecker-stipendium.html",
+      "classicTitle": "Kreissparkasse Bersenbrück｜Franz Hecker 創作獎助",
+      "classicImage": "https://www.ksk-bersenbrueck.de/content/myif/ksk-bersenbrueck/work/filiale/de/home/ihre-sparkasse/franz-hecker-stipendium/_jcr_content/par/section/section/imagebox1/image.img.jpg/1746452408270.jpg",
+      "classicDesc": "三個月駐留讓青年藝術家在 Hasemühle 周邊專注創作，期末於 Kreissparkasse Bersenbrück 展示成果。",
+      "deadline": "2026-10-30T23:59:59+01:00",
+      "deadlineLabel": "截止 2026.10.30 23:59 CET",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Kreissparkasse Bersenbrück",
+      "eligibility": "居住於德國或持德國居留證、35 歲以下，從事繪畫、雕塑、版畫或攝影",
+      "budget": "獎助總額 €10,000；住宿提供但生活與住宿相關費用由得主負擔",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "competition-2026-09-05-01",
+      "dedupeKey": "opportunity-2027-goldrausch-professional-program",
+      "name": "01｜Berlin｜Goldrausch 2027 藝術家專業培力公開徵選",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "專業培力",
+        "視覺藝術",
+        "FLINTA"
+      ],
+      "works": "十二個月藝術職涯培力｜截止 2026.09.15 23:59 CEST",
+      "comment": "一年期課程提供作品呈現、藝術市場、稅務、財務、網站與出版實作，並以年終群展提升十五位藝術家的能見度。",
+      "website": "https://goldrausch.org/",
+      "workPage": "https://goldrausch.org/",
+      "photo": "https://goldrausch.org/wp-content/themes/goldrausch-theme/assets/img/header-default-img.png",
+      "artistStatement": "一年期課程提供作品呈現、藝術市場、稅務、財務、網站與出版實作，並以年終群展提升十五位藝術家的能見度。",
+      "artistStatementSource": "https://goldrausch.org/",
+      "classicTitle": "Berlin｜Goldrausch 2027 藝術家專業培力公開徵選",
+      "classicImage": "https://goldrausch.org/wp-content/themes/goldrausch-theme/assets/img/header-default-img.png",
+      "classicDesc": "一年期課程提供作品呈現、藝術市場、稅務、財務、網站與出版實作，並以年終群展提升十五位藝術家的能見度。",
+      "deadline": "2026-09-15T23:59:59+02:00",
+      "deadlineLabel": "2026.09.15 23:59 CEST",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Goldrausch Frauennetzwerk Berlin e. V.",
+      "eligibility": "居住柏林的 FLINTA 視覺藝術家；不限年齡，具專業實踐、德英語討論能力與全年投入時間",
+      "budget": "十五個免費培力名額；課程成本由 ESF Plus 與柏林州資助，無生活津貼",
+      "applicationFee": "免費",
+      "relatedByCity": [
+        "classic-german-2026-08-21-01",
+        "classic-german-2026-08-21-02",
+        "classic-german-2026-08-21-03",
+        "classic-german-2026-08-21-04",
+        "classic-german-2026-08-21-05",
+        "classic-german-2026-08-20-01",
+        "classic-german-2026-08-20-02",
+        "classic-german-2026-08-20-03",
+        "classic-german-2026-08-20-04",
+        "classic-german-2026-08-27-01",
+        "classic-german-2026-08-27-03",
+        "classic-german-2026-08-31-01",
+        "classic-german-2026-08-31-02",
+        "classic-german-2026-08-31-03",
+        "classic-german-2026-08-31-04",
+        "classic-german-2026-08-30-02",
+        "classic-german-2026-08-30-05",
+        "classic-german-2026-08-26-02",
+        "classic-german-2026-08-26-04",
+        "classic-german-2026-08-25-02",
+        "classic-german-2026-08-25-03",
+        "classic-german-2026-08-25-05",
+        "classic-german-2026-08-29-01",
+        "classic-german-2026-08-29-02",
+        "classic-german-2026-08-29-03",
+        "classic-german-2026-08-29-04",
+        "classic-german-2026-08-12-02",
+        "classic-german-2026-08-28-01",
+        "classic-german-2026-08-28-02",
+        "classic-german-2026-08-28-03",
+        "classic-german-2026-08-28-04",
+        "german-classic-2026-08-24-01",
+        "german-classic-2026-08-24-02",
+        "german-classic-2026-08-24-03",
+        "german-classic-2026-08-24-04",
+        "german-classic-2026-08-24-05",
+        "classic-german-2026-08-15-01",
+        "classic-german-2026-08-15-02",
+        "classic-german-2026-08-15-05",
+        "german-classic-2026-08-23-01",
+        "german-classic-2026-08-23-02",
+        "german-classic-2026-08-23-03",
+        "german-classic-2026-08-23-04",
+        "german-classic-2026-08-23-05",
+        "german-classic-2026-08-22-01",
+        "german-classic-2026-08-22-02",
+        "german-classic-2026-08-22-03",
+        "german-classic-2026-08-22-04",
+        "german-classic-2026-08-22-05",
+        "current-2026-09-01-06",
+        "current-2026-09-01-07",
+        "current-2026-09-01-08",
+        "current-2026-09-01-09",
+        "classic-german-2026-09-03-01",
+        "classic-german-2026-09-03-02",
+        "classic-german-2026-09-03-03",
+        "classic-german-2026-09-03-04",
+        "current-2026-09-02-01",
+        "current-2026-09-02-02",
+        "current-2026-09-02-03",
+        "current-2026-09-02-05",
+        "current-2026-09-02-06",
+        "current-2026-09-02-08",
+        "current-2026-09-02-09",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-05-01",
+        "classic-german-2026-09-05-02",
+        "classic-german-2026-09-05-03",
+        "classic-german-2026-09-05-04",
+        "classic-german-2026-09-05-05"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "competition-2026-09-05-02",
+      "dedupeKey": "opportunity-2027-enzymkultur-video-paths",
+      "name": "02｜Essen｜Videokunst 2027：Pfade, Wege, Straßen",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Essen",
+      "cityKeywords": [
+        "Essen",
+        "埃森"
+      ],
+      "media": [
+        "錄像藝術",
+        "實驗電影",
+        "公開放映"
+      ],
+      "works": "二十分鐘內錄像公開徵件｜截止 2026.09.30 23:59 CEST",
+      "comment": "徵集實驗、紀錄、敘事或自由形式錄像，入選作品將在車庫、花園與地下室等日常場景組成策展放映。",
+      "website": "https://enzymkultur.de/news/90-open-call-videokunst-2027-pfade%2C-wege%2C-stra%C3%9Fen",
+      "workPage": "https://enzymkultur.de/news/90-open-call-videokunst-2027-pfade%2C-wege%2C-stra%C3%9Fen",
+      "photo": "https://enzymkultur.de/images/enzymkultur/pfade_wege/projekt/strassen%20wege%20s.png",
+      "artistStatement": "徵集實驗、紀錄、敘事或自由形式錄像，入選作品將在車庫、花園與地下室等日常場景組成策展放映。",
+      "artistStatementSource": "https://enzymkultur.de/news/90-open-call-videokunst-2027-pfade%2C-wege%2C-stra%C3%9Fen",
+      "classicTitle": "Essen｜Videokunst 2027：Pfade, Wege, Straßen",
+      "classicImage": "https://enzymkultur.de/images/enzymkultur/pfade_wege/projekt/strassen%20wege%20s.png",
+      "classicDesc": "徵集實驗、紀錄、敘事或自由形式錄像，入選作品將在車庫、花園與地下室等日常場景組成策展放映。",
+      "deadline": "2026-09-30T23:59:59+02:00",
+      "deadlineLabel": "2026.09.30 23:59 CEST",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "EnzymKultur e. V.",
+      "eligibility": "各國錄像藝術家；作品最長約 20 分鐘、mp4，每人至多 3 件，非德語作品須附字幕",
+      "budget": "預計每位參與者最高 €100 放映費，視補助核定而定",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "competition-2026-09-05-03",
+      "dedupeKey": "opportunity-2026-arsliturgica-wen-suchst-du",
+      "name": "03｜Nordwalde｜arsLITURGICA：Wen suchst du?",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Nordwalde",
+      "cityKeywords": [
+        "Nordwalde",
+        "諾德瓦爾德",
+        "Münster"
+      ],
+      "media": [
+        "宗教空間",
+        "場域特定",
+        "公共藝術"
+      ],
+      "works": "St. Dionysius 教堂回應空間設計｜截止 2026.11.17 18:00 CET",
+      "comment": "為教堂入口創作當代藝術介入，以抹大拉的馬利亞為思想起點，回應參與、召命、宣告與責任。",
+      "website": "https://dli.institute/wp/news/ars-liturgica-wettbewerb-2026-wen-suchst-du/",
+      "workPage": "https://dli.institute/wp/news/ars-liturgica-wettbewerb-2026-wen-suchst-du/",
+      "photo": "https://dli.institute/wp/wp-content/themes/dli/img/liturgie_de_titel.jpg",
+      "artistStatement": "為教堂入口創作當代藝術介入，以抹大拉的馬利亞為思想起點，回應參與、召命、宣告與責任。",
+      "artistStatementSource": "https://dli.institute/wp/news/ars-liturgica-wettbewerb-2026-wen-suchst-du/",
+      "classicTitle": "Nordwalde｜arsLITURGICA：Wen suchst du?",
+      "classicImage": "https://dli.institute/wp/wp-content/themes/dli/img/liturgie_de_titel.jpg",
+      "classicDesc": "為教堂入口創作當代藝術介入，以抹大拉的馬利亞為思想起點，回應參與、召命、宣告與責任。",
+      "deadline": "2026-11-17T18:00:00+01:00",
+      "deadlineLabel": "2026.11.17 18:00 CET",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Initiative arsLITURGICA",
+      "eligibility": "依官方競賽文件申請的專業藝術家或設計團隊；方案需適用 St. Dionysius 教堂入口",
+      "budget": "一等獎 €5,000、二等獎 €3,000、三等獎 €1,000",
+      "applicationFee": "免費",
+      "relatedByCity": [
+        "classic-german-2026-08-13-01",
+        "classic-german-2026-08-13-02",
+        "classic-german-2026-08-13-03",
+        "classic-german-2026-08-13-04",
+        "classic-german-2026-08-13-05",
+        "classic-german-2026-08-12-03"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "competition-2026-09-05-04",
+      "dedupeKey": "opportunity-2028-senefelder-award-14",
+      "name": "04｜Offenbach｜第 14 屆 Senefelder Award 2028",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Offenbach am Main",
+      "cityKeywords": [
+        "Offenbach am Main",
+        "奧芬巴赫"
+      ],
+      "media": [
+        "石版畫",
+        "平版印刷",
+        "藝術獎"
+      ],
+      "works": "國際原創平版藝術徵件｜截止 2027.03.12 23:59 CET",
+      "comment": "表揚石版和平版藝術的技術與創新；第一階段數位匿名評選，入圍者再寄送原作並納入基金會收藏。",
+      "website": "https://www.senefelderstiftung.com/de/senefelder-award-2028/",
+      "workPage": "https://www.senefelderstiftung.com/de/senefelder-award-2028/",
+      "photo": "https://image.jimcdn.com/app/cms/image/transf/dimension=1030x10000:format=jpg/path/s2e9ec10d62fe7737/image/i090c5befa5e8dc43/version/1492724206/image.jpg",
+      "artistStatement": "表揚石版和平版藝術的技術與創新；第一階段數位匿名評選，入圍者再寄送原作並納入基金會收藏。",
+      "artistStatementSource": "https://www.senefelderstiftung.com/de/senefelder-award-2028/",
+      "classicTitle": "Offenbach｜第 14 屆 Senefelder Award 2028",
+      "classicImage": "https://image.jimcdn.com/app/cms/image/transf/dimension=1030x10000:format=jpg/path/s2e9ec10d62fe7737/image/i090c5befa5e8dc43/version/1492724206/image.jpg",
+      "classicDesc": "表揚石版和平版藝術的技術與創新；第一階段數位匿名評選，入圍者再寄送原作並納入基金會收藏。",
+      "deadline": "2027-03-12T23:59:59+01:00",
+      "deadlineLabel": "2027.03.12 23:59 CET",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Internationale Senefelder-Stiftung／BBK",
+      "eligibility": "全球藝術家；提交 2023 年後完成的石版、平版或實驗混合平版原作，最大 100 × 70 公分",
+      "budget": "總獎金 €2,000；入選作品預計 2028 年於 Klingspor Museum 展出",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "competition-2026-09-05-05",
+      "dedupeKey": "opportunity-2026-ostallgaeu-art-exhibition-48",
+      "name": "05｜Marktoberdorf｜第 48 屆 Ostallgäuer Kunstausstellung",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Marktoberdorf",
+      "cityKeywords": [
+        "Marktoberdorf",
+        "馬克特奧伯多夫",
+        "Bayerisch Schwaben"
+      ],
+      "media": [
+        "區域藝術展",
+        "當代藝術",
+        "藝術獎"
+      ],
+      "works": "Künstlerhaus Marktoberdorf 區域藝術徵選｜截止 2026.09.17 23:59 CEST",
+      "comment": "年度評選展聚焦 Bayerisch Schwaben 當代創作及其與 Künstlerhaus 建築的場域關係，並由評審選出三項獎項。",
+      "website": "https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
+      "workPage": "https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
+      "photo": "https://www.marktoberdorf.de/static/img/layout/logo-mod.png",
+      "artistStatement": "年度評選展聚焦 Bayerisch Schwaben 當代創作及其與 Künstlerhaus 建築的場域關係，並由評審選出三項獎項。",
+      "artistStatementSource": "https://www.marktoberdorf.de/mitteilung/ausschreibung_6661",
+      "classicTitle": "Marktoberdorf｜第 48 屆 Ostallgäuer Kunstausstellung",
+      "classicImage": "https://www.marktoberdorf.de/static/img/layout/logo-mod.png",
+      "classicDesc": "年度評選展聚焦 Bayerisch Schwaben 當代創作及其與 Künstlerhaus 建築的場域關係，並由評審選出三項獎項。",
+      "deadline": "2026-09-17T23:59:59+02:00",
+      "deadlineLabel": "2026.09.17 23:59 CEST",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "time",
+      "organizer": "Stadt Marktoberdorf／Künstlerhaus Marktoberdorf",
+      "eligibility": "在 Bayerisch Schwaben 生活或工作的藝術家，依 2026 官方申請表與展覽規章送件",
+      "budget": "Johann-Georg-Fischer-Kunstpreis €3,000；Franz Schmid Stiftung €2,500；Familie Paul Breitkopf €2,000",
+      "applicationFee": "依官方公告未列申請費，視為免費",
+      "relatedByCity": [
+
       ]
     }
   ],

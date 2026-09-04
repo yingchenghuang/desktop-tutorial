@@ -1,0 +1,803 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-05T01:30:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-05",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Central Park Conservancy、Museum der 1000 Orte 官方頁",
+    "note": "9/5 固定 10＋5＋5；另有德國公開徵選 5 則與全球重要展覽 5 篇。",
+    "linkAudit": {
+      "checkedAt": "2026-09-05T01:30:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "實際瀏覽器逐頁檢查"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-05T01:30:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方直接圖片逐一載入驗證"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-01",
+      "dedupeKey": "art-2026-09-05-moser-wagner-veza-visite",
+      "name": "01｜Gertrude Moser-Wagner｜Veza Visite",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "多媒體",
+        "行為藝術",
+        "文學記憶"
+      ],
+      "works": "Veza Visite｜2024",
+      "comment": "以 Veza Canetti 的生命與文字為入口，透過拜訪、朗讀和多媒體行動，讓被文學史遮蔽的女性作者重新進入城市記憶。",
+      "website": "https://www.koer.or.at/projects/veza-visite/",
+      "workPage": "https://www.koer.or.at/projects/veza-visite/",
+      "photo": "https://www.koer.or.at/site/assets/files/13891/kaja_ewa-1-47_kleiner.500x0.jpg",
+      "artistStatement": "以 Veza Canetti 的生命與文字為入口，透過拜訪、朗讀和多媒體行動，讓被文學史遮蔽的女性作者重新進入城市記憶。",
+      "artistStatementSource": "https://www.koer.or.at/projects/veza-visite/",
+      "classicTitle": "Veza Visite｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13891/kaja_ewa-1-47_kleiner.500x0.jpg",
+      "classicDesc": "以 Veza Canetti 的生命與文字為入口，透過拜訪、朗讀和多媒體行動，讓被文學史遮蔽的女性作者重新進入城市記憶。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-02",
+      "dedupeKey": "art-2026-09-05-bik-van-der-pol-school-walking",
+      "name": "02｜Bik Van der Pol｜School of Walking",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "城市步行",
+        "社會參與",
+        "生態研究"
+      ],
+      "works": "School of Walking｜2024",
+      "comment": "與 urbanize! 以步行作為共同研究，從日常路線討論能源轉型、社會關係與城市如何被身體重新理解。",
+      "website": "https://www.koer.or.at/projects/school-of-walking/",
+      "workPage": "https://www.koer.or.at/projects/school-of-walking/",
+      "photo": "https://www.koer.or.at/site/assets/files/13884/urb24_collage_nl_kopie.500x0.jpg",
+      "artistStatement": "與 urbanize! 以步行作為共同研究，從日常路線討論能源轉型、社會關係與城市如何被身體重新理解。",
+      "artistStatementSource": "https://www.koer.or.at/projects/school-of-walking/",
+      "classicTitle": "School of Walking｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13884/urb24_collage_nl_kopie.500x0.jpg",
+      "classicDesc": "與 urbanize! 以步行作為共同研究，從日常路線討論能源轉型、社會關係與城市如何被身體重新理解。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-03",
+      "dedupeKey": "art-2026-09-05-hybrid-dessous-wiener-bade-linie",
+      "name": "03｜Hybrid Dessous｜Wiener Bade Linie",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Donaukanal"
+      ],
+      "media": [
+        "時尚設計",
+        "水域文化",
+        "社會介入"
+      ],
+      "works": "Wiener Bade Linie｜2024",
+      "comment": "以混合泳裝回應多瑙河運河的游泳者和城市規範，把衣著、身體自由與公共水域的可使用性放在同一條岸線討論。",
+      "website": "https://www.koer.or.at/projects/wiener-bade-linie/",
+      "workPage": "https://www.koer.or.at/projects/wiener-bade-linie/",
+      "photo": "https://www.koer.or.at/site/assets/files/13812/nl_sa_1.500x0.jpg",
+      "artistStatement": "以混合泳裝回應多瑙河運河的游泳者和城市規範，把衣著、身體自由與公共水域的可使用性放在同一條岸線討論。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wiener-bade-linie/",
+      "classicTitle": "Wiener Bade Linie｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13812/nl_sa_1.500x0.jpg",
+      "classicDesc": "以混合泳裝回應多瑙河運河的游泳者和城市規範，把衣著、身體自由與公共水域的可使用性放在同一條岸線討論。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-04",
+      "dedupeKey": "art-2026-09-05-bankleer-umwoelkt",
+      "name": "04｜bankleer｜Umwölkt",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共介入",
+        "裝置",
+        "政治藝術"
+      ],
+      "works": "Umwölkt／Beclouded｜2024",
+      "comment": "在多重危機的陰影下，以跨媒介公共介入製造感知上的雲層，促使觀眾辨認政治語言、日常焦慮與共同行動的交會。",
+      "website": "https://www.koer.or.at/projects/umwoelkt/",
+      "workPage": "https://www.koer.or.at/projects/umwoelkt/",
+      "photo": "https://www.koer.or.at/site/assets/files/13926/markus_krottendorfer_dsc2317_kleinst.500x0.jpg",
+      "artistStatement": "在多重危機的陰影下，以跨媒介公共介入製造感知上的雲層，促使觀眾辨認政治語言、日常焦慮與共同行動的交會。",
+      "artistStatementSource": "https://www.koer.or.at/projects/umwoelkt/",
+      "classicTitle": "Umwölkt／Beclouded｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13926/markus_krottendorfer_dsc2317_kleinst.500x0.jpg",
+      "classicDesc": "在多重危機的陰影下，以跨媒介公共介入製造感知上的雲層，促使觀眾辨認政治語言、日常焦慮與共同行動的交會。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-05",
+      "dedupeKey": "art-2026-09-05-palomia-silverpiece-reloaded",
+      "name": "05｜PALOMIA｜Silverpiece Reloaded",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫",
+        "跨世代共創",
+        "街頭藝術"
+      ],
+      "works": "Silverpiece Reloaded｜2024",
+      "comment": "長者與青年共同發展街頭壁畫，把通常被年齡分隔的經驗放在同一面牆上，讓公共藝術成為跨世代協作的可見證據。",
+      "website": "https://www.koer.or.at/projects/silverpiece-reloaded/",
+      "workPage": "https://www.koer.or.at/projects/silverpiece-reloaded/",
+      "photo": "https://www.koer.or.at/site/assets/files/13835/07.500x0.jpg",
+      "artistStatement": "長者與青年共同發展街頭壁畫，把通常被年齡分隔的經驗放在同一面牆上，讓公共藝術成為跨世代協作的可見證據。",
+      "artistStatementSource": "https://www.koer.or.at/projects/silverpiece-reloaded/",
+      "classicTitle": "Silverpiece Reloaded｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13835/07.500x0.jpg",
+      "classicDesc": "長者與青年共同發展街頭壁畫，把通常被年齡分隔的經驗放在同一面牆上，讓公共藝術成為跨世代協作的可見證據。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-06",
+      "dedupeKey": "art-2026-09-05-infoscreen-20-seconds-art-2024",
+      "name": "06｜20 seconds for art｜2024 五件得獎短片",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Austria"
+      ],
+      "media": [
+        "錄像藝術",
+        "公共螢幕",
+        "短片"
+      ],
+      "works": "20 seconds for art 2024｜Community 3.0",
+      "comment": "從一百六十四件投稿選出五部二十秒短片，在奧地利大眾運輸螢幕播放，以極短影像測試公共注意力與新型共同體。",
+      "website": "https://www.koer.or.at/projects/five-award-winning-short-films-20-seconds-for-art-2024/",
+      "workPage": "https://www.koer.or.at/projects/five-award-winning-short-films-20-seconds-for-art-2024/",
+      "photo": "https://www.koer.or.at/site/assets/files/13761/20seconds_logo_subline-1_verkuerzt.500x0.jpg",
+      "artistStatement": "從一百六十四件投稿選出五部二十秒短片，在奧地利大眾運輸螢幕播放，以極短影像測試公共注意力與新型共同體。",
+      "artistStatementSource": "https://www.koer.or.at/projects/five-award-winning-short-films-20-seconds-for-art-2024/",
+      "classicTitle": "20 seconds for art 2024｜Community 3.0",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13761/20seconds_logo_subline-1_verkuerzt.500x0.jpg",
+      "classicDesc": "從一百六十四件投稿選出五部二十秒短片，在奧地利大眾運輸螢幕播放，以極短影像測試公共注意力與新型共同體。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-07",
+      "dedupeKey": "art-2026-09-05-see-ua-connecting-landscapes",
+      "name": "07｜Reinhold Zisser／Mohrytsia｜SEE UA – Connecting Landscapes",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Seestadt",
+        "Mohrytsia"
+      ],
+      "media": [
+        "地景藝術",
+        "駐地",
+        "跨國合作"
+      ],
+      "works": "SEE UA – Connecting Landscapes｜2024",
+      "comment": "把烏克蘭 Mohrytsia 地景藝術研討會帶到 Seestadt，從流離、家園和地景之間建立跨國連線，讓遷徙經驗在公共空間被共同承接。",
+      "website": "https://www.koer.or.at/projects/see-ua-connecting-landscapes/",
+      "workPage": "https://www.koer.or.at/projects/see-ua-connecting-landscapes/",
+      "photo": "https://www.koer.or.at/site/assets/files/13432/img_5215.500x0.jpg",
+      "artistStatement": "把烏克蘭 Mohrytsia 地景藝術研討會帶到 Seestadt，從流離、家園和地景之間建立跨國連線，讓遷徙經驗在公共空間被共同承接。",
+      "artistStatementSource": "https://www.koer.or.at/projects/see-ua-connecting-landscapes/",
+      "classicTitle": "SEE UA – Connecting Landscapes｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13432/img_5215.500x0.jpg",
+      "classicDesc": "把烏克蘭 Mohrytsia 地景藝術研討會帶到 Seestadt，從流離、家園和地景之間建立跨國連線，讓遷徙經驗在公共空間被共同承接。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-08",
+      "dedupeKey": "art-2026-09-05-theresa-schuetz-touch-ground",
+      "name": "08｜Theresa Schütz｜Touch Ground",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "行為藝術",
+        "城市步行",
+        "土地政治"
+      ],
+      "works": "Touch Ground｜2024",
+      "comment": "以表演性城市旅程追問土壤、公共利益、所有權與邊界，讓腳下看似沉默的地面顯露法律和歷史的分配關係。",
+      "website": "https://www.koer.or.at/projects/touch-ground/",
+      "workPage": "https://www.koer.or.at/projects/touch-ground/",
+      "photo": "https://www.koer.or.at/site/assets/files/12348/kleiner_img_3712.500x0.jpg",
+      "artistStatement": "以表演性城市旅程追問土壤、公共利益、所有權與邊界，讓腳下看似沉默的地面顯露法律和歷史的分配關係。",
+      "artistStatementSource": "https://www.koer.or.at/projects/touch-ground/",
+      "classicTitle": "Touch Ground｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12348/kleiner_img_3712.500x0.jpg",
+      "classicDesc": "以表演性城市旅程追問土壤、公共利益、所有權與邊界，讓腳下看似沉默的地面顯露法律和歷史的分配關係。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-09",
+      "dedupeKey": "art-2026-09-05-nazarpour-hair-stones-voices",
+      "name": "09｜Shahrzad Nazarpour｜Hair, Stones and Voices",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "行為藝術",
+        "身體政治",
+        "聲音"
+      ],
+      "works": "Hair, Stones and Voices｜2024",
+      "comment": "系列演出把頭髮化為抵抗、自由與記憶的媒介，讓身體在公共場域中說出被制度壓抑的聲音。",
+      "website": "https://www.koer.or.at/projects/hair-stones-and-voices/",
+      "workPage": "https://www.koer.or.at/projects/hair-stones-and-voices/",
+      "photo": "https://www.koer.or.at/site/assets/files/12895/kleiner_4_c_mq_thomas_meyer_4.500x0.jpg",
+      "artistStatement": "系列演出把頭髮化為抵抗、自由與記憶的媒介，讓身體在公共場域中說出被制度壓抑的聲音。",
+      "artistStatementSource": "https://www.koer.or.at/projects/hair-stones-and-voices/",
+      "classicTitle": "Hair, Stones and Voices｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12895/kleiner_4_c_mq_thomas_meyer_4.500x0.jpg",
+      "classicDesc": "系列演出把頭髮化為抵抗、自由與記憶的媒介，讓身體在公共場域中說出被制度壓抑的聲音。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "current-2026-09-05-10",
+      "dedupeKey": "art-2026-09-05-vlaschits-herbarium-burggasse",
+      "name": "10｜Marianne Vlaschits｜Herbarium Burggasse",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Burggasse"
+      ],
+      "media": [
+        "壁畫",
+        "植物圖像",
+        "捷運藝術"
+      ],
+      "works": "Herbarium Burggasse｜2024",
+      "comment": "在 U6 樓梯空間建立可穿行的繪畫植物誌，以想像性花草改變轉乘中的視線，讓基礎設施暫時成為感官花園。",
+      "website": "https://www.koer.or.at/projects/herbarium-burggasse/",
+      "workPage": "https://www.koer.or.at/projects/herbarium-burggasse/",
+      "photo": "https://www.koer.or.at/site/assets/files/13166/2024_06_12_marianne-vlaschits_00025_web.500x0.jpg",
+      "artistStatement": "在 U6 樓梯空間建立可穿行的繪畫植物誌，以想像性花草改變轉乘中的視線，讓基礎設施暫時成為感官花園。",
+      "artistStatementSource": "https://www.koer.or.at/projects/herbarium-burggasse/",
+      "classicTitle": "Herbarium Burggasse｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13166/2024_06_12_marianne-vlaschits_00025_web.500x0.jpg",
+      "classicDesc": "在 U6 樓梯空間建立可穿行的繪畫植物誌，以想像性花草改變轉乘中的視線，讓基礎設施暫時成為感官花園。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-global-2026-09-05-01",
+      "dedupeKey": "art-2026-09-05-ward-seventh-regiment",
+      "name": "01｜John Quincy Adams Ward／Richard Morris Hunt｜7th Regiment Memorial",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "青銅雕塑",
+        "軍事紀念",
+        "紀念碑"
+      ],
+      "works": "7th Regiment Memorial｜1874",
+      "comment": "以普通市民士兵而非勝利姿態紀念內戰犧牲者，簡潔站姿和建築基座把個人哀悼放入公園的公共歷史。",
+      "website": "https://www.centralparknyc.org/locations/7th-regiment-memorial",
+      "workPage": "https://www.centralparknyc.org/locations/7th-regiment-memorial",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/7th-Regiment-Memorial_20190515_006.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=70b90ec2b4e38dc84aff810d5cad3a80",
+      "artistStatement": "以普通市民士兵而非勝利姿態紀念內戰犧牲者，簡潔站姿和建築基座把個人哀悼放入公園的公共歷史。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/7th-regiment-memorial",
+      "classicTitle": "7th Regiment Memorial｜1874",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/7th-Regiment-Memorial_20190515_006.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=70b90ec2b4e38dc84aff810d5cad3a80",
+      "classicDesc": "以普通市民士兵而非勝利姿態紀念內戰犧牲者，簡潔站姿和建築基座把個人哀悼放入公園的公共歷史。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-global-2026-09-05-02",
+      "dedupeKey": "art-2026-09-05-daumas-jose-san-martin",
+      "name": "02｜Louis-Joseph Daumas｜José de San Martín",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "騎馬像",
+        "青銅",
+        "國際紀念"
+      ],
+      "works": "José de San Martín｜1862 原作／1951 紐約設置",
+      "comment": "布宜諾斯艾利斯騎馬紀念像的複製品在紐約落地，將南美獨立史和城市移民共同體的紀念需求連結起來。",
+      "website": "https://www.centralparknyc.org/locations/jose-de-san-martin",
+      "workPage": "https://www.centralparknyc.org/locations/jose-de-san-martin",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/San-Martin-DSC_0390.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=a3c69efc111327953382dd3cf758c94e",
+      "artistStatement": "布宜諾斯艾利斯騎馬紀念像的複製品在紐約落地，將南美獨立史和城市移民共同體的紀念需求連結起來。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/jose-de-san-martin",
+      "classicTitle": "José de San Martín｜1862 原作／1951 紐約設置",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/San-Martin-DSC_0390.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=a3c69efc111327953382dd3cf758c94e",
+      "classicDesc": "布宜諾斯艾利斯騎馬紀念像的複製品在紐約落地，將南美獨立史和城市移民共同體的紀念需求連結起來。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-global-2026-09-05-03",
+      "dedupeKey": "art-2026-09-05-piccirilli-manship-hutchins-bench",
+      "name": "03｜Piccirilli Brothers／Paul Manship｜Waldo Hutchins Bench",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "花崗岩",
+        "日晷",
+        "紀念座椅"
+      ],
+      "works": "Waldo Hutchins Bench｜1932",
+      "comment": "二十七英尺長的紀念座椅把休息、日晷和銘文整合為可使用的公共作品，使時間測量與日常停留共存。",
+      "website": "https://www.centralparknyc.org/locations/waldo-hutchins-bench",
+      "workPage": "https://www.centralparknyc.org/locations/waldo-hutchins-bench",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Waldo-Hutchins-Bench_20181127_0001.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=096260b69e42a0ac7ee880853a157dea",
+      "artistStatement": "二十七英尺長的紀念座椅把休息、日晷和銘文整合為可使用的公共作品，使時間測量與日常停留共存。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/waldo-hutchins-bench",
+      "classicTitle": "Waldo Hutchins Bench｜1932",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Waldo-Hutchins-Bench_20181127_0001.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=096260b69e42a0ac7ee880853a157dea",
+      "classicDesc": "二十七英尺長的紀念座椅把休息、日晷和銘文整合為可使用的公共作品，使時間測量與日常停留共存。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-global-2026-09-05-04",
+      "dedupeKey": "art-2026-09-05-cain-tigress-cubs",
+      "name": "04｜Auguste Nicholas Cain｜Tigress and Cubs",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園",
+        "Central Park Zoo"
+      ],
+      "media": [
+        "動物雕塑",
+        "青銅",
+        "自然主義"
+      ],
+      "works": "Tigress and Cubs｜1867",
+      "comment": "母虎、兩隻幼虎與獵物孔雀構成緊繃敘事，反映十九世紀動物雕塑如何把野性、母性和自然觀置入城市公園。",
+      "website": "https://www.centralparknyc.org/locations/tigress-and-cubs",
+      "workPage": "https://www.centralparknyc.org/locations/tigress-and-cubs",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Central-Park-Zoo_20190307_103.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=d7b64ae5853638e11a91aa5d9c4bbffa",
+      "artistStatement": "母虎、兩隻幼虎與獵物孔雀構成緊繃敘事，反映十九世紀動物雕塑如何把野性、母性和自然觀置入城市公園。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/tigress-and-cubs",
+      "classicTitle": "Tigress and Cubs｜1867",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/locations/Central-Park-Zoo_20190307_103.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=d7b64ae5853638e11a91aa5d9c4bbffa",
+      "classicDesc": "母虎、兩隻幼虎與獵物孔雀構成緊繃敘事，反映十九世紀動物雕塑如何把野性、母性和自然觀置入城市公園。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-global-2026-09-05-05",
+      "dedupeKey": "art-2026-09-05-kemeys-still-hunt",
+      "name": "05｜Edward Kemeys｜Still Hunt",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市",
+        "Central Park",
+        "中央公園"
+      ],
+      "media": [
+        "動物雕塑",
+        "青銅",
+        "場域特定"
+      ],
+      "works": "Still Hunt｜1881／1883 設置",
+      "comment": "伏在岩石上的美洲豹以地形作為作品的一部分，將觀看者置於獵物位置，是公共雕塑與自然場址高度整合的早期案例。",
+      "website": "https://www.centralparknyc.org/locations/still-hunt",
+      "workPage": "https://www.centralparknyc.org/locations/still-hunt",
+      "photo": "https://d2wsrtli9cxkek.cloudfront.net/media/images/ff-wide@3x-Still-Hunt.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=30a9d40e2f9b41320895995fed0bcc78",
+      "artistStatement": "伏在岩石上的美洲豹以地形作為作品的一部分，將觀看者置於獵物位置，是公共雕塑與自然場址高度整合的早期案例。",
+      "artistStatementSource": "https://www.centralparknyc.org/locations/still-hunt",
+      "classicTitle": "Still Hunt｜1881／1883 設置",
+      "classicImage": "https://d2wsrtli9cxkek.cloudfront.net/media/images/ff-wide@3x-Still-Hunt.jpg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1151.1627906977&q=80&w=2475&s=30a9d40e2f9b41320895995fed0bcc78",
+      "classicDesc": "伏在岩石上的美洲豹以地形作為作品的一部分，將觀看者置於獵物位置，是公共雕塑與自然場址高度整合的早期案例。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-german-2026-09-05-01",
+      "dedupeKey": "art-2026-09-05-klingelhoeller-ich-bin-hier",
+      "name": "01｜Harald Klingelhöller｜Ich bin hier, Du bist hier",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Werderscher Markt"
+      ],
+      "media": [
+        "文字雕塑",
+        "建築整合",
+        "裝置"
+      ],
+      "works": "Ich bin hier, Du bist hier｜2001",
+      "comment": "在外交部建築中以文字與物件標記彼此的位置，使行政空間中的身分、對話與觀看關係成為作品本身。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ich-bin-hier-du-bist-hier",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ich-bin-hier-du-bist-hier",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/6ffe3269cc475af99578392fe195e932fe61d737.jpg",
+      "artistStatement": "在外交部建築中以文字與物件標記彼此的位置，使行政空間中的身分、對話與觀看關係成為作品本身。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ich-bin-hier-du-bist-hier",
+      "classicTitle": "Ich bin hier, Du bist hier｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/6ffe3269cc475af99578392fe195e932fe61d737.jpg",
+      "classicDesc": "在外交部建築中以文字與物件標記彼此的位置，使行政空間中的身分、對話與觀看關係成為作品本身。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-german-2026-09-05-02",
+      "dedupeKey": "art-2026-09-05-mangold-untitled-wall",
+      "name": "02｜Julia Mangold｜o. T. (Wandarbeit)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Marie-Elisabeth-Lüders-Haus"
+      ],
+      "media": [
+        "牆面藝術",
+        "鋼材",
+        "建築整合"
+      ],
+      "works": "o. T. (Wandarbeit)｜2003",
+      "comment": "冷冽鋼板與牆面尺度相互咬合，把材料重量、表面反光和國會建築的秩序轉成安靜但持續的空間張力。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit-1",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit-1",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/09ef7acaf77d8f3d08bf39a2085a8edadb486861.jpg",
+      "artistStatement": "冷冽鋼板與牆面尺度相互咬合，把材料重量、表面反光和國會建築的秩序轉成安靜但持續的空間張力。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit-1",
+      "classicTitle": "o. T. (Wandarbeit)｜2003",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/09ef7acaf77d8f3d08bf39a2085a8edadb486861.jpg",
+      "classicDesc": "冷冽鋼板與牆面尺度相互咬合，把材料重量、表面反光和國會建築的秩序轉成安靜但持續的空間張力。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-german-2026-09-05-03",
+      "dedupeKey": "art-2026-09-05-hauser-flaechenwand",
+      "name": "03｜Erich Hauser｜Flächenwand",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Staatsbibliothek"
+      ],
+      "media": [
+        "壓克力繪畫",
+        "牆面藝術",
+        "抽象"
+      ],
+      "works": "Flächenwand｜1977",
+      "comment": "十三公尺長、六公尺高的黑白線性牆面介入圖書館門廳，以近乎書寫的抽象節奏回應知識建築與人流。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flachenwand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flachenwand",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/7c80c673530af26e1db2c685c3cca6004ff70a87.jpg",
+      "artistStatement": "十三公尺長、六公尺高的黑白線性牆面介入圖書館門廳，以近乎書寫的抽象節奏回應知識建築與人流。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flachenwand",
+      "classicTitle": "Flächenwand｜1977",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/7c80c673530af26e1db2c685c3cca6004ff70a87.jpg",
+      "classicDesc": "十三公尺長、六公尺高的黑白線性牆面介入圖書館門廳，以近乎書寫的抽象節奏回應知識建築與人流。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-german-2026-09-05-04",
+      "dedupeKey": "art-2026-09-05-goetze-untitled-2001",
+      "name": "04｜Moritz Götze｜o. T.",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Bundesministerium für Wirtschaft"
+      ],
+      "media": [
+        "琺瑯",
+        "壁畫",
+        "敘事圖像"
+      ],
+      "works": "o. T.｜2001",
+      "comment": "以鮮明琺瑯圖像包覆部會餐廳牆面，將窗洞和自然場景納入構圖，使日常用餐空間形成近似漫畫的公共敘事。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-9",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-9",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c01700ebb0fdaa0a31c14f21be327ceda8b576a6.jpg",
+      "artistStatement": "以鮮明琺瑯圖像包覆部會餐廳牆面，將窗洞和自然場景納入構圖，使日常用餐空間形成近似漫畫的公共敘事。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-9",
+      "classicTitle": "o. T.｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c01700ebb0fdaa0a31c14f21be327ceda8b576a6.jpg",
+      "classicDesc": "以鮮明琺瑯圖像包覆部會餐廳牆面，將窗洞和自然場景納入構圖，使日常用餐空間形成近似漫畫的公共敘事。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-05",
+      "id": "classic-german-2026-09-05-05",
+      "dedupeKey": "art-2026-09-05-gomez-spiegel-ornaments-social-living",
+      "name": "05｜Francisca Gómez／Alexandra Spiegel｜Ornaments of Social Living",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "BMAS"
+      ],
+      "media": [
+        "燈箱",
+        "攝影裝置",
+        "社會空間"
+      ],
+      "works": "Ornaments of Social Living｜2020",
+      "comment": "六處休息和等候區以不同尺度燈箱組成社會生活的裝飾語彙，讓行政建築的過渡空間承載人的姿態與關係。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ornaments-of-social-living",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ornaments-of-social-living",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a9471368c351280cb51a7c2d3d8849e2a5dce10c.jpg",
+      "artistStatement": "六處休息和等候區以不同尺度燈箱組成社會生活的裝飾語彙，讓行政建築的過渡空間承載人的姿態與關係。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ornaments-of-social-living",
+      "classicTitle": "Ornaments of Social Living｜2020",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a9471368c351280cb51a7c2d3d8849e2a5dce10c.jpg",
+      "classicDesc": "六處休息和等候區以不同尺度燈箱組成社會生活的裝飾語彙，讓行政建築的過渡空間承載人的姿態與關係。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    }
+  ]
+}
