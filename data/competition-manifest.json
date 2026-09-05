@@ -1,15 +1,15 @@
 {
-  "version": "2026-09-05-competition-r36",
-  "generatedAt": "2026-09-05T01:30:00+08:00",
+  "version": "2026-09-06-competition-r37",
+  "generatedAt": "2026-09-06T04:00:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 98,
+  "activeEntries": 101,
   "addedToday": 5,
-  "expiredRemoved": 0,
-  "deadlineTimezoneEntries": 98,
-  "deadlinePrecisionEntries": 98,
-  "cityKeywordEntries": 98,
-  "note": "2026-09-05 新增 5 則德國公開徵選並移除 0 則今日逾期案件。",
+  "expiredRemoved": 2,
+  "deadlineTimezoneEntries": 101,
+  "deadlinePrecisionEntries": 101,
+  "cityKeywordEntries": 101,
+  "note": "2026-09-06 新增 5 則德國公開徵選並移除 2 則今日逾期案件。",
   "germanAddedToday": 5
 }

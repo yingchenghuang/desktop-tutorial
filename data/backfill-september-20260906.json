@@ -1,0 +1,803 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-06T04:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-06",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte 官方頁",
+    "selectionPolicy": "優先地景、生態、參與、聲光、動態與建築整合作品；不以傳統人物、胸像、騎馬像或基座式紀念碑湊數。",
+    "note": "9/6 固定 10＋5＋5；另有德國公開徵選 5 則與全球重要展覽 5 篇。",
+    "linkAudit": {
+      "checkedAt": "2026-09-06T04:00:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "實際瀏覽器逐頁檢查"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-06T04:00:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方直接圖片逐一載入驗證"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-01",
+      "dedupeKey": "art-2026-09-06-koer-wir-hier",
+      "name": "01｜Nora Mayr 等｜Wir Hier",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Schwendermarkt",
+        "Favoriten"
+      ],
+      "media": [
+        "社會參與",
+        "聲音地景",
+        "城市步行"
+      ],
+      "works": "Wir Hier｜2025",
+      "comment": "四組城市介入透過市場肖像、QR 聲音、非公民選舉故事與居民歌單，讓『我們在這裡』成為關於歸屬、可見性與共居的開放對話。",
+      "website": "https://www.koer.or.at/projects/wir-hier/",
+      "workPage": "https://www.koer.or.at/projects/wir-hier/",
+      "photo": "https://www.koer.or.at/site/assets/files/14204/00_vorher_a4_wirhier_asmaaiad_c_hannahmayr_15-v1.500x0.jpg",
+      "artistStatement": "四組城市介入透過市場肖像、QR 聲音、非公民選舉故事與居民歌單，讓『我們在這裡』成為關於歸屬、可見性與共居的開放對話。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wir-hier/",
+      "classicTitle": "Wir Hier｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14204/00_vorher_a4_wirhier_asmaaiad_c_hannahmayr_15-v1.500x0.jpg",
+      "classicDesc": "四組城市介入透過市場肖像、QR 聲音、非公民選舉故事與居民歌單，讓『我們在這裡』成為關於歸屬、可見性與共居的開放對話。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-02",
+      "dedupeKey": "art-2026-09-06-koer-florestania-im-dritten",
+      "name": "02｜Mary Maggic 等｜FLORESTANIA IM DRITTEN",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Village im Dritten"
+      ],
+      "media": [
+        "生態藝術",
+        "回收材料",
+        "參與式裝置"
+      ],
+      "works": "FLORESTANIA IM DRITTEN｜2025",
+      "comment": "居民在植物採集、草藥與再生工作坊中把塑膠廢料轉成可步入的森林裝置，將城市廢棄物、內在地景與森林公民權重新連結。",
+      "website": "https://www.koer.or.at/projects/florestania-im-dritten/",
+      "workPage": "https://www.koer.or.at/projects/florestania-im-dritten/",
+      "photo": "https://www.koer.or.at/site/assets/files/14099/dsc0400_modified_3.500x0.jpg",
+      "artistStatement": "居民在植物採集、草藥與再生工作坊中把塑膠廢料轉成可步入的森林裝置，將城市廢棄物、內在地景與森林公民權重新連結。",
+      "artistStatementSource": "https://www.koer.or.at/projects/florestania-im-dritten/",
+      "classicTitle": "FLORESTANIA IM DRITTEN｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14099/dsc0400_modified_3.500x0.jpg",
+      "classicDesc": "居民在植物採集、草藥與再生工作坊中把塑膠廢料轉成可步入的森林裝置，將城市廢棄物、內在地景與森林公民權重新連結。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-03",
+      "dedupeKey": "art-2026-09-06-koer-be-a-mensch",
+      "name": "03｜Johanna Kandl｜Be a mensch",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Favoriten",
+        "Laxenburger Straße"
+      ],
+      "media": [
+        "壁畫",
+        "建築整合",
+        "多語公共藝術"
+      ],
+      "works": "Be a mensch｜2024",
+      "comment": "二十七種語言的『人』與唱片圖像沿住宅立面及通廊展開，把 Willi Resetarits 的人權精神轉化為多語、可共同辨識的日常建築表皮。",
+      "website": "https://www.koer.or.at/projects/be-a-mensch/",
+      "workPage": "https://www.koer.or.at/projects/be-a-mensch/",
+      "photo": "https://www.koer.or.at/site/assets/files/13900/dsc6395_exp_a4.500x0.jpg",
+      "artistStatement": "二十七種語言的『人』與唱片圖像沿住宅立面及通廊展開，把 Willi Resetarits 的人權精神轉化為多語、可共同辨識的日常建築表皮。",
+      "artistStatementSource": "https://www.koer.or.at/projects/be-a-mensch/",
+      "classicTitle": "Be a mensch｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13900/dsc6395_exp_a4.500x0.jpg",
+      "classicDesc": "二十七種語言的『人』與唱片圖像沿住宅立面及通廊展開，把 Willi Resetarits 的人權精神轉化為多語、可共同辨識的日常建築表皮。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-04",
+      "dedupeKey": "art-2026-09-06-koer-snail-shell-flying-snail",
+      "name": "04｜Anna Meyer｜Snail Shell warns Flying Snail",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Meidling",
+        "Pohlgasse"
+      ],
+      "media": [
+        "壁畫",
+        "氣候藝術",
+        "住宅立面"
+      ],
+      "works": "Snail Shell warns Flying Snail｜2024",
+      "comment": "跨越兩面住宅立面的蝸牛、動物與混種生物構成可移動的居住烏托邦，以幽默圖像追問氣候危機、庇護與低碳建築。",
+      "website": "https://www.koer.or.at/projects/schneckenhaus-warnt-flugschnecke-ueberlebenswerk-am-planeten/",
+      "workPage": "https://www.koer.or.at/projects/schneckenhaus-warnt-flugschnecke-ueberlebenswerk-am-planeten/",
+      "photo": "https://www.koer.or.at/site/assets/files/13959/c_anna_meyer_04_kleiner.500x0.jpg",
+      "artistStatement": "跨越兩面住宅立面的蝸牛、動物與混種生物構成可移動的居住烏托邦，以幽默圖像追問氣候危機、庇護與低碳建築。",
+      "artistStatementSource": "https://www.koer.or.at/projects/schneckenhaus-warnt-flugschnecke-ueberlebenswerk-am-planeten/",
+      "classicTitle": "Snail Shell warns Flying Snail｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13959/c_anna_meyer_04_kleiner.500x0.jpg",
+      "classicDesc": "跨越兩面住宅立面的蝸牛、動物與混種生物構成可移動的居住烏托邦，以幽默圖像追問氣候危機、庇護與低碳建築。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-05",
+      "dedupeKey": "art-2026-09-06-koer-blind-spot-biopatina",
+      "name": "05｜Dusts Institute｜Blind Spot",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Heiligenstadt"
+      ],
+      "media": [
+        "生態介入",
+        "生物膜",
+        "藝術研究"
+      ],
+      "works": "Blind Spot｜2024",
+      "comment": "團隊在市營住宅立面清出直徑十公尺的圓，反向顯示平常被當成髒污的藻類與真菌，挑戰以潔淨為唯一標準的城市維護。",
+      "website": "https://www.koer.or.at/projects/blind-spot/",
+      "workPage": "https://www.koer.or.at/projects/blind-spot/",
+      "photo": "https://www.koer.or.at/site/assets/files/13841/weisserfleck_53.500x0.jpg",
+      "artistStatement": "團隊在市營住宅立面清出直徑十公尺的圓，反向顯示平常被當成髒污的藻類與真菌，挑戰以潔淨為唯一標準的城市維護。",
+      "artistStatementSource": "https://www.koer.or.at/projects/blind-spot/",
+      "classicTitle": "Blind Spot｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13841/weisserfleck_53.500x0.jpg",
+      "classicDesc": "團隊在市營住宅立面清出直徑十公尺的圓，反向顯示平常被當成髒污的藻類與真菌，挑戰以潔淨為唯一標準的城市維護。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-06",
+      "dedupeKey": "art-2026-09-06-koer-haunted-landscapes",
+      "name": "06｜Claudia Bosse／theatercombinat｜HAUNTED LANDSCAPES",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Favoriten",
+        "Hauptbahnhof"
+      ],
+      "media": [
+        "地景藝術",
+        "聲音",
+        "行為藝術"
+      ],
+      "works": "HAUNTED LANDSCAPES on an unseen wasteland｜2024",
+      "comment": "在中央車站後方二千五百平方公尺荒地中，以黎明音樂、身體、物件與合唱建立臨時共同體，讀取受傷地景及人與非人行動者的痕跡。",
+      "website": "https://www.koer.or.at/projects/haunted-landscape/",
+      "workPage": "https://www.koer.or.at/projects/haunted-landscape/",
+      "photo": "https://www.koer.or.at/site/assets/files/13795/auswahl_bosse_2.500x0.jpg",
+      "artistStatement": "在中央車站後方二千五百平方公尺荒地中，以黎明音樂、身體、物件與合唱建立臨時共同體，讀取受傷地景及人與非人行動者的痕跡。",
+      "artistStatementSource": "https://www.koer.or.at/projects/haunted-landscape/",
+      "classicTitle": "HAUNTED LANDSCAPES on an unseen wasteland｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13795/auswahl_bosse_2.500x0.jpg",
+      "classicDesc": "在中央車站後方二千五百平方公尺荒地中，以黎明音樂、身體、物件與合唱建立臨時共同體，讀取受傷地景及人與非人行動者的痕跡。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-07",
+      "dedupeKey": "art-2026-09-06-koer-home-stories-erika-hock",
+      "name": "07｜Erika Hock｜Home Stories",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Leopoldstadt",
+        "Engerthstraße"
+      ],
+      "media": [
+        "建築整合",
+        "陶瓷",
+        "燈光裝置"
+      ],
+      "works": "Home Stories｜2024",
+      "comment": "放大的陶瓷襪子、杯子、鋼管與燈具穿越住宅中庭與戶外角落，以日常物件和 Memphis 色彩為樓層建立既私密又共享的家的尺度。",
+      "website": "https://www.koer.or.at/projects/home-stories/",
+      "workPage": "https://www.koer.or.at/projects/home-stories/",
+      "photo": "https://www.koer.or.at/site/assets/files/12661/02_dsc9233.500x0.jpg",
+      "artistStatement": "放大的陶瓷襪子、杯子、鋼管與燈具穿越住宅中庭與戶外角落，以日常物件和 Memphis 色彩為樓層建立既私密又共享的家的尺度。",
+      "artistStatementSource": "https://www.koer.or.at/projects/home-stories/",
+      "classicTitle": "Home Stories｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12661/02_dsc9233.500x0.jpg",
+      "classicDesc": "放大的陶瓷襪子、杯子、鋼管與燈具穿越住宅中庭與戶外角落，以日常物件和 Memphis 色彩為樓層建立既私密又共享的家的尺度。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-08",
+      "dedupeKey": "art-2026-09-06-koer-wind-clock-barsuglia",
+      "name": "08｜Alfredo Barsuglia｜The Wind Clock",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Erdberg",
+        "Danube Canal"
+      ],
+      "media": [
+        "動態裝置",
+        "風力藝術",
+        "建築整合"
+      ],
+      "works": "The Wind Clock or Life is but a Wisp｜2024",
+      "comment": "屋頂金魚風標以尾鰭驅動三公尺鐘面，時間不再依機械秒針而由風速決定，讓住宅立面成為氣候與當下感知的公共儀器。",
+      "website": "https://www.koer.or.at/projects/winduhr-oder-das-leben-ein-hauch/",
+      "workPage": "https://www.koer.or.at/projects/winduhr-oder-das-leben-ein-hauch/",
+      "photo": "https://www.koer.or.at/site/assets/files/12652/04.500x0.jpg",
+      "artistStatement": "屋頂金魚風標以尾鰭驅動三公尺鐘面，時間不再依機械秒針而由風速決定，讓住宅立面成為氣候與當下感知的公共儀器。",
+      "artistStatementSource": "https://www.koer.or.at/projects/winduhr-oder-das-leben-ein-hauch/",
+      "classicTitle": "The Wind Clock or Life is but a Wisp｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12652/04.500x0.jpg",
+      "classicDesc": "屋頂金魚風標以尾鰭驅動三公尺鐘面，時間不再依機械秒針而由風速決定，讓住宅立面成為氣候與當下感知的公共儀器。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-09",
+      "dedupeKey": "art-2026-09-06-koer-u2-pilgramgasse-davar",
+      "name": "09｜Katja Davar｜Swift Messengers",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Pilgramgasse",
+        "Wienfluss"
+      ],
+      "media": [
+        "捷運藝術",
+        "琺瑯壁面",
+        "生態資訊視覺化"
+      ],
+      "works": "Swift Messengers｜U2 Pilgramgasse｜預計 2028",
+      "comment": "將九條候鳥遷徙路線化成跨樓層像素圖，再以植物與舊鐵路圖交疊，讓氣候、生態網絡與低碳移動共同定義車站。",
+      "website": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-pilgramgasse/",
+      "workPage": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-pilgramgasse/",
+      "photo": "https://www.koer.or.at/site/assets/files/12498/davar_schnitt_wand1_kleiner.500x0.jpg",
+      "artistStatement": "將九條候鳥遷徙路線化成跨樓層像素圖，再以植物與舊鐵路圖交疊，讓氣候、生態網絡與低碳移動共同定義車站。",
+      "artistStatementSource": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-pilgramgasse/",
+      "classicTitle": "Swift Messengers｜U2 Pilgramgasse｜預計 2028",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12498/davar_schnitt_wand1_kleiner.500x0.jpg",
+      "classicDesc": "將九條候鳥遷徙路線化成跨樓層像素圖，再以植物與舊鐵路圖交疊，讓氣候、生態網絡與低碳移動共同定義車站。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "current-2026-09-06-10",
+      "dedupeKey": "art-2026-09-06-koer-u2-matzleinsdorf-collins",
+      "name": "10｜Phil Collins｜For Us／Swift Messengers",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Matzleinsdorfer Platz",
+        "Favoriten"
+      ],
+      "media": [
+        "捷運藝術",
+        "社區參與",
+        "動態裝置"
+      ],
+      "works": "For Us／Swift Messengers｜U2 Matzleinsdorfer Platz｜預計 2028",
+      "comment": "居民影像將形成大型站體壁面，懸吊構件則把鳥群般的移動帶入中庭；公共運輸空間由通道轉成可辨認彼此的城市共同場。",
+      "website": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-matzleinsdorfer-platz/",
+      "workPage": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-matzleinsdorfer-platz/",
+      "photo": "https://www.koer.or.at/site/assets/files/12484/nl_2_philcollins_matzleinsdorferplatz_a0-2_kleiner.500x0.jpg",
+      "artistStatement": "居民影像將形成大型站體壁面，懸吊構件則把鳥群般的移動帶入中庭；公共運輸空間由通道轉成可辨認彼此的城市共同場。",
+      "artistStatementSource": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-matzleinsdorfer-platz/",
+      "classicTitle": "For Us／Swift Messengers｜U2 Matzleinsdorfer Platz｜預計 2028",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12484/nl_2_philcollins_matzleinsdorferplatz_a0-2_kleiner.500x0.jpg",
+      "classicDesc": "居民影像將形成大型站體壁面，懸吊構件則把鳥群般的移動帶入中庭；公共運輸空間由通道轉成可辨認彼此的城市共同場。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-global-2026-09-06-01",
+      "dedupeKey": "art-2026-09-06-koer-yellow-fog-eliasson",
+      "name": "01｜Olafur Eliasson｜Yellow Fog",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Am Hof"
+      ],
+      "media": [
+        "光藝術",
+        "霧裝置",
+        "建築立面"
+      ],
+      "works": "Yellow Fog｜2008",
+      "comment": "黃光、霧氣與風沿建築基座持續變化，既把企業立面從穩定物件變成城市氣象，也讓行人以身體感知公共空間的邊界。",
+      "website": "https://www.koer.or.at/projects/yellow-fog/",
+      "workPage": "https://www.koer.or.at/projects/yellow-fog/",
+      "photo": "https://www.koer.or.at/site/assets/files/3583/olafur-eliasson-yellow-fog.500x0.jpg",
+      "artistStatement": "黃光、霧氣與風沿建築基座持續變化，既把企業立面從穩定物件變成城市氣象，也讓行人以身體感知公共空間的邊界。",
+      "artistStatementSource": "https://www.koer.or.at/projects/yellow-fog/",
+      "classicTitle": "Yellow Fog｜2008",
+      "classicImage": "https://www.koer.or.at/site/assets/files/3583/olafur-eliasson-yellow-fog.500x0.jpg",
+      "classicDesc": "黃光、霧氣與風沿建築基座持續變化，既把企業立面從穩定物件變成城市氣象，也讓行人以身體感知公共空間的邊界。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-global-2026-09-06-02",
+      "dedupeKey": "art-2026-09-06-koer-i-weed-you-weed",
+      "name": "02｜Lois Weinberger｜I-weed, YOU-weed",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "MuseumsQuartier"
+      ],
+      "media": [
+        "文字藝術",
+        "植物政治",
+        "場域介入"
+      ],
+      "works": "I-weed, YOU-weed｜2013",
+      "comment": "電梯塔上的文字把『雜草』從園藝分類轉成移動、排除與共生的社會隱喻，使城市植物與人的遷徙經驗互相照見。",
+      "website": "https://www.koer.or.at/projects/i-weed-you-weed/",
+      "workPage": "https://www.koer.or.at/projects/i-weed-you-weed/",
+      "photo": "https://www.koer.or.at/site/assets/files/1712/lois-weinberger-i-weed-you-weed-01.500x0.jpg",
+      "artistStatement": "電梯塔上的文字把『雜草』從園藝分類轉成移動、排除與共生的社會隱喻，使城市植物與人的遷徙經驗互相照見。",
+      "artistStatementSource": "https://www.koer.or.at/projects/i-weed-you-weed/",
+      "classicTitle": "I-weed, YOU-weed｜2013",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1712/lois-weinberger-i-weed-you-weed-01.500x0.jpg",
+      "classicDesc": "電梯塔上的文字把『雜草』從園藝分類轉成移動、排除與共生的社會隱喻，使城市植物與人的遷徙經驗互相照見。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-global-2026-09-06-03",
+      "dedupeKey": "art-2026-09-06-koer-uniqa-tower-light",
+      "name": "03｜Licht Kunst Licht AG｜UNIQA Tower Light Installation",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Donaukanal",
+        "UNIQA Tower"
+      ],
+      "media": [
+        "媒體立面",
+        "LED",
+        "動態光藝術"
+      ],
+      "works": "UNIQA Tower Light Installation｜2005",
+      "comment": "約四萬顆 LED 將七千平方公尺立面變成可程式控制的城市光幕；動畫不附著於建築，而以時間和移動重寫其夜間體量。",
+      "website": "https://www.koer.or.at/projects/uniqa-tower-lichtinstallation/",
+      "workPage": "https://www.koer.or.at/projects/uniqa-tower-lichtinstallation/",
+      "photo": "https://www.koer.or.at/site/assets/files/3116/uniqa-tower-lichtinstallation.500x0.jpg",
+      "artistStatement": "約四萬顆 LED 將七千平方公尺立面變成可程式控制的城市光幕；動畫不附著於建築，而以時間和移動重寫其夜間體量。",
+      "artistStatementSource": "https://www.koer.or.at/projects/uniqa-tower-lichtinstallation/",
+      "classicTitle": "UNIQA Tower Light Installation｜2005",
+      "classicImage": "https://www.koer.or.at/site/assets/files/3116/uniqa-tower-lichtinstallation.500x0.jpg",
+      "classicDesc": "約四萬顆 LED 將七千平方公尺立面變成可程式控制的城市光幕；動畫不附著於建築，而以時間和移動重寫其夜間體量。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-global-2026-09-06-04",
+      "dedupeKey": "art-2026-09-06-koer-turnertempel-memory-site",
+      "name": "04｜Iris Andraschek／Hubert Lobnig 等｜Turnertempel Memory Site",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Turnergasse"
+      ],
+      "media": [
+        "記憶地景",
+        "建築遺址",
+        "聲音裝置"
+      ],
+      "works": "Turnertempel Erinnerungsort｜2011",
+      "comment": "遺址、植栽、地坪與聲音共同標示被焚毀的猶太會堂；紀念不被收束成單一雕像，而成為可進入、閱讀與停留的城市地景。",
+      "website": "https://www.koer.or.at/projects/turnertempel-erinnerungsort/",
+      "workPage": "https://www.koer.or.at/projects/turnertempel-erinnerungsort/",
+      "photo": "https://www.koer.or.at/site/assets/files/1761/1206_turnertempel_18.500x0.jpg",
+      "artistStatement": "遺址、植栽、地坪與聲音共同標示被焚毀的猶太會堂；紀念不被收束成單一雕像，而成為可進入、閱讀與停留的城市地景。",
+      "artistStatementSource": "https://www.koer.or.at/projects/turnertempel-erinnerungsort/",
+      "classicTitle": "Turnertempel Erinnerungsort｜2011",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1761/1206_turnertempel_18.500x0.jpg",
+      "classicDesc": "遺址、植栽、地坪與聲音共同標示被焚毀的猶太會堂；紀念不被收束成單一雕像，而成為可進入、閱讀與停留的城市地景。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-global-2026-09-06-05",
+      "dedupeKey": "art-2026-09-06-koer-abtauchen-auftauchen",
+      "name": "05｜Julie Hayward｜abtauchen／auftauchen",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Löwengasse",
+        "Donaukanal"
+      ],
+      "media": [
+        "通道藝術",
+        "建築整合",
+        "公共空間"
+      ],
+      "works": "abtauchen／auftauchen｜2009",
+      "comment": "作品介入 Löwengasse 通往多瑙河運河的地下通道，把下沉、穿越與重新浮現的身體經驗轉成光、色與空間的連續變化。",
+      "website": "https://www.koer.or.at/projects/abtauchen-auftauchen/",
+      "workPage": "https://www.koer.or.at/projects/abtauchen-auftauchen/",
+      "photo": "https://www.koer.or.at/site/assets/files/4322/julie-hayward-abtauchen-auftauchen-06.500x0.jpg",
+      "artistStatement": "作品介入 Löwengasse 通往多瑙河運河的地下通道，把下沉、穿越與重新浮現的身體經驗轉成光、色與空間的連續變化。",
+      "artistStatementSource": "https://www.koer.or.at/projects/abtauchen-auftauchen/",
+      "classicTitle": "abtauchen／auftauchen｜2009",
+      "classicImage": "https://www.koer.or.at/site/assets/files/4322/julie-hayward-abtauchen-auftauchen-06.500x0.jpg",
+      "classicDesc": "作品介入 Löwengasse 通往多瑙河運河的地下通道，把下沉、穿越與重新浮現的身體經驗轉成光、色與空間的連續變化。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-german-2026-09-06-01",
+      "dedupeKey": "art-2026-09-06-museum-wasser-statistik",
+      "name": "01｜Hans-Otto Lohrengel｜Wasser und Statistik",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Koblenz",
+      "cityKeywords": [
+        "Koblenz",
+        "科布倫茲",
+        "Bundesanstalt für Gewässerkunde"
+      ],
+      "media": [
+        "地景裝置",
+        "花崗岩",
+        "水文藝術"
+      ],
+      "works": "Wasser und Statistik｜2003",
+      "comment": "花崗岩波形、玄武岩網格與建築內外軸線連成一體，把流動的水與科學統計之間的張力轉化為可步行的地景秩序。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/wasser-und-statistik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/wasser-und-statistik",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c15cff370ca03f381edcfe94f72da79949293aaf.jpg",
+      "artistStatement": "花崗岩波形、玄武岩網格與建築內外軸線連成一體，把流動的水與科學統計之間的張力轉化為可步行的地景秩序。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/wasser-und-statistik",
+      "classicTitle": "Wasser und Statistik｜2003",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c15cff370ca03f381edcfe94f72da79949293aaf.jpg",
+      "classicDesc": "花崗岩波形、玄武岩網格與建築內外軸線連成一體，把流動的水與科學統計之間的張力轉化為可步行的地景秩序。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-german-2026-09-06-02",
+      "dedupeKey": "art-2026-09-06-museum-lichttunnel-bruecke",
+      "name": "02｜James Carpenter｜Lichttunnel／Brücke",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Auswärtiges Amt",
+        "Werderscher Markt"
+      ],
+      "media": [
+        "光藝術",
+        "玻璃裝置",
+        "建築通道"
+      ],
+      "works": "Lichttunnel／Brücke｜2002",
+      "comment": "五十多公尺通道以發光玻璃膜與橡木地坪連接外交部新舊建築，讓橋與隧道的雙重意象在行走中交替。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichttunnel-brucke",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichttunnel-brucke",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a6dd29c4b00332bdf60cb2f8e5bbc556cdaae313.jpg",
+      "artistStatement": "五十多公尺通道以發光玻璃膜與橡木地坪連接外交部新舊建築，讓橋與隧道的雙重意象在行走中交替。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichttunnel-brucke",
+      "classicTitle": "Lichttunnel／Brücke｜2002",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a6dd29c4b00332bdf60cb2f8e5bbc556cdaae313.jpg",
+      "classicDesc": "五十多公尺通道以發光玻璃膜與橡木地坪連接外交部新舊建築，讓橋與隧道的雙重意象在行走中交替。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-german-2026-09-06-03",
+      "dedupeKey": "art-2026-09-06-museum-zero-latitude-palms",
+      "name": "03｜Ulrich Brüschke｜0° Breite",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Pankepark",
+        "BND"
+      ],
+      "media": [
+        "地景介入",
+        "仿生裝置",
+        "監控批判"
+      ],
+      "works": "0° Breite (Modified Cellular Towers)｜2012",
+      "comment": "兩株二十三與二十六公尺高的人工棕櫚模仿通訊基地台偽裝術，在德國情報局與 Pankepark 之間製造熱帶景觀、科技監控與權力可見性的錯位。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0deg-breite-modified-cellular-towers",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0deg-breite-modified-cellular-towers",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/91f07b0affcf2c0b8538475d5e0d59c78f853573.jpg",
+      "artistStatement": "兩株二十三與二十六公尺高的人工棕櫚模仿通訊基地台偽裝術，在德國情報局與 Pankepark 之間製造熱帶景觀、科技監控與權力可見性的錯位。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0deg-breite-modified-cellular-towers",
+      "classicTitle": "0° Breite (Modified Cellular Towers)｜2012",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/91f07b0affcf2c0b8538475d5e0d59c78f853573.jpg",
+      "classicDesc": "兩株二十三與二十六公尺高的人工棕櫚模仿通訊基地台偽裝術，在德國情報局與 Pankepark 之間製造熱帶景觀、科技監控與權力可見性的錯位。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-german-2026-09-06-04",
+      "dedupeKey": "art-2026-09-06-museum-mirrored-planet-system",
+      "name": "04｜Rebecca Horn｜Verspiegeltes Planetensystem",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Bundesministerium für Verkehr"
+      ],
+      "media": [
+        "動態藝術",
+        "鏡面裝置",
+        "建築中庭"
+      ],
+      "works": "Verspiegeltes Planetensystem｜2000",
+      "comment": "二十一件馬達驅動鏡面物件分布於雙層採光中庭，以精密轉動把天空、建築與行人切成不斷遷移的光學星系。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/0b87f49334b179eae810fb8ad5ebd8a599a93afb.jpg",
+      "artistStatement": "二十一件馬達驅動鏡面物件分布於雙層採光中庭，以精密轉動把天空、建築與行人切成不斷遷移的光學星系。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem",
+      "classicTitle": "Verspiegeltes Planetensystem｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/0b87f49334b179eae810fb8ad5ebd8a599a93afb.jpg",
+      "classicDesc": "二十一件馬達驅動鏡面物件分布於雙層採光中庭，以精密轉動把天空、建築與行人切成不斷遷移的光學星系。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "classic-german-2026-09-06-05",
+      "dedupeKey": "art-2026-09-06-museum-schnittstelle-greenhouse",
+      "name": "05｜Karin Rosenberg｜Schnittstelle",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Bundesministerium für Ernährung und Landwirtschaft"
+      ],
+      "media": [
+        "剪紙裝置",
+        "植物圖像",
+        "建築整合"
+      ],
+      "works": "Schnittstelle (Gewächshaus, Papaya, Tamarinde)｜2013",
+      "comment": "溫室、木瓜與羅望子三組大型剪紙懸於農業部中庭，將植物分類、全球貿易與自然／文化邊界編成透光的圖像網絡。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schnittstelle-gewachshaus-papaya-tamarinde",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schnittstelle-gewachshaus-papaya-tamarinde",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/d238dceebb78e7f482ef50fe390029b485958848.jpg",
+      "artistStatement": "溫室、木瓜與羅望子三組大型剪紙懸於農業部中庭，將植物分類、全球貿易與自然／文化邊界編成透光的圖像網絡。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schnittstelle-gewachshaus-papaya-tamarinde",
+      "classicTitle": "Schnittstelle (Gewächshaus, Papaya, Tamarinde)｜2013",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/d238dceebb78e7f482ef50fe390029b485958848.jpg",
+      "classicDesc": "溫室、木瓜與羅望子三組大型剪紙懸於農業部中庭，將植物分類、全球貿易與自然／文化邊界編成透光的圖像網絡。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    }
+  ]
+}

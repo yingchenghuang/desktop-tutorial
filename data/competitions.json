@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generatedAt": "2026-09-05T01:30:00+08:00",
+    "generatedAt": "2026-09-06T04:00:00+08:00",
     "timezone": "Asia/Taipei",
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "dailyTarget": 5,
     "source": "官方主辦機構徵件頁",
-    "activeEntries": 98,
+    "activeEntries": 101,
     "addedToday": 5,
     "germanAddedToday": 5,
-    "expiredRemoved": 0,
-    "note": "9/5 新增 5 筆有效德國公開徵選；移除 0 筆逾期案件。",
+    "expiredRemoved": 2,
+    "note": "9/6 新增 5 筆有效德國公開徵選；移除 2 筆逾期案件。",
     "linkAudit": {
-      "checkedAt": "2026-09-05T01:30:00+08:00",
+      "checkedAt": "2026-09-06T04:00:00+08:00",
       "missingCityKeywords": 0,
       "uniqueNewSourcesChecked": 5,
       "blockedSourceReplaced": 0
@@ -1421,15 +1421,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -1532,15 +1536,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -2054,15 +2062,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -2221,46 +2233,6 @@
       "organizer": "City of Highland Park",
       "eligibility": "具紀念性公共藝術或相當大型場域作品經驗的合格藝術家／藝術家主導團隊；全美徵件",
       "budget": "US$200,000；入圍者提案費 US$2,500",
-      "applicationFee": "免費",
-      "relatedByCity": [
-
-      ]
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-25",
-      "id": "competition-2026-08-25-04",
-      "dedupeKey": "opportunity-2026-08-25-new-mexico-arts-spaceport-america-sundial-public-art-project",
-      "name": "04｜New Mexico Arts｜Spaceport America Sundial Public Art Project",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "美國 / Truth or Consequences",
-      "cityKeywords": [
-        "Truth or Consequences",
-        "真理或結果城"
-      ],
-      "media": [
-        "場域特定雕塑",
-        "科學公共藝術"
-      ],
-      "works": "Spaceport America Sundial Public Art Project｜截止 2026-09-04 23:59 MDT（官方以 midnight 表述）",
-      "comment": "以日晷概念回應太空港的天體時間、沙漠光線與科技地景，委託可長期承受戶外環境的場域作品。",
-      "website": "https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
-      "workPage": "https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
-      "artistStatement": "以日晷概念回應太空港的天體時間、沙漠光線與科技地景，委託可長期承受戶外環境的場域作品。",
-      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
-      "classicTitle": "Spaceport America Sundial Public Art Project",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17633/CAFE",
-      "classicDesc": "以日晷概念回應太空港的天體時間、沙漠光線與科技地景，委託可長期承受戶外環境的場域作品。",
-      "deadline": "2026-09-04T23:59:59-06:00",
-      "deadlineLabel": "截止 2026-09-04 23:59 MDT（官方以 midnight 表述）",
-      "deadlineTimezone": "America/Denver",
-      "deadlinePrecision": "date",
-      "organizer": "New Mexico Arts／Spaceport America",
-      "eligibility": "居住於美國的藝術家或團隊；Spaceport America 與 New Mexico Department of Cultural Affairs 現職員工及其直系家屬不得申請",
-      "budget": "US$300,000；入圍者提案費 US$4,000，另有旅費補助",
       "applicationFee": "免費",
       "relatedByCity": [
 
@@ -2690,50 +2662,6 @@
       "applicationFee": "未公開",
       "relatedByCity": [
 
-      ]
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-28",
-      "id": "competition-2026-08-28-02",
-      "dedupeKey": "opportunity-2026-08-28-koeln-waidmarkt-kuenstlerische-intervention-2027",
-      "name": "02｜Künstlerische Intervention｜Waidmarkt 2027",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "德國 / Köln",
-      "cityKeywords": [
-        "Köln",
-        "Cologne",
-        "科隆",
-        "Waidmarkt"
-      ],
-      "media": [
-        "城市介入",
-        "紀念藝術",
-        "公共空間"
-      ],
-      "works": "Waidmarkt 文化與紀念公共介入｜截止 2026.09.04",
-      "comment": "以科隆市中心 Waidmarkt 的記憶、文化與公共對話為場域，徵求能在 2027 年形成場所特定、實驗性且可與社會議題互動的藝術介入。",
-      "website": "https://www.stadt-koeln.de/politik-und-verwaltung/stadtentwicklung-stadtplanung/perspektive-waidmarkt/teilprojekt-kultur-gedenken-waidmarkt",
-      "workPage": "https://www.stadt-koeln.de/politik-und-verwaltung/stadtentwicklung-stadtplanung/perspektive-waidmarkt/teilprojekt-kultur-gedenken-waidmarkt",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-koeln.de/politik-und-verwaltung/stadtentwicklung-stadtplanung/perspektive-waidmarkt/teilprojekt-kultur-gedenken-waidmarkt",
-      "artistStatement": "以科隆市中心 Waidmarkt 的記憶、文化與公共對話為場域，徵求能在 2027 年形成場所特定、實驗性且可與社會議題互動的藝術介入。",
-      "artistStatementSource": "https://www.stadt-koeln.de/politik-und-verwaltung/stadtentwicklung-stadtplanung/perspektive-waidmarkt/teilprojekt-kultur-gedenken-waidmarkt",
-      "classicTitle": "Künstlerische Intervention｜Waidmarkt 2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-koeln.de/politik-und-verwaltung/stadtentwicklung-stadtplanung/perspektive-waidmarkt/teilprojekt-kultur-gedenken-waidmarkt",
-      "classicDesc": "以科隆市中心 Waidmarkt 的記憶、文化與公共對話為場域，徵求能在 2027 年形成場所特定、實驗性且可與社會議題互動的藝術介入。",
-      "deadline": "2026-09-04T23:59:59+02:00",
-      "deadlineLabel": "截止 2026.09.04",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date",
-      "organizer": "Stadt Köln",
-      "eligibility": "專業視覺藝術家及跨領域團隊；須回應場所與公共對話",
-      "budget": "未公開；以完整 Exposé 為準",
-      "applicationFee": "未公開",
-      "relatedByCity": [
-        "classic-german-2026-08-20-05",
-        "classic-german-2026-08-14-03"
       ]
     },
     {
@@ -3437,15 +3365,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -3551,15 +3483,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -3667,15 +3603,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -3782,15 +3722,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -3896,15 +3840,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -4009,15 +3957,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -4122,15 +4074,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -4235,15 +4191,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -4348,15 +4308,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -4461,15 +4425,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -4575,15 +4543,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -4689,15 +4661,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -4803,15 +4779,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -5041,15 +5021,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -5113,6 +5097,16 @@
         "current-2026-09-03-08",
         "current-2026-09-03-09",
         "current-2026-09-03-10",
+        "current-2026-09-05-01",
+        "current-2026-09-05-02",
+        "current-2026-09-05-03",
+        "current-2026-09-05-04",
+        "current-2026-09-05-05",
+        "current-2026-09-05-06",
+        "current-2026-09-05-07",
+        "current-2026-09-05-08",
+        "current-2026-09-05-09",
+        "current-2026-09-05-10",
         "current-2026-09-04-01",
         "current-2026-09-04-02",
         "current-2026-09-04-03",
@@ -5123,16 +5117,21 @@
         "current-2026-09-04-08",
         "current-2026-09-04-09",
         "current-2026-09-04-10",
-        "current-2026-09-05-01",
-        "current-2026-09-05-02",
-        "current-2026-09-05-03",
-        "current-2026-09-05-04",
-        "current-2026-09-05-05",
-        "current-2026-09-05-06",
-        "current-2026-09-05-07",
-        "current-2026-09-05-08",
-        "current-2026-09-05-09",
-        "current-2026-09-05-10"
+        "current-2026-09-06-01",
+        "current-2026-09-06-02",
+        "current-2026-09-06-03",
+        "current-2026-09-06-04",
+        "current-2026-09-06-05",
+        "current-2026-09-06-06",
+        "current-2026-09-06-07",
+        "current-2026-09-06-08",
+        "current-2026-09-06-09",
+        "current-2026-09-06-10",
+        "classic-global-2026-09-06-01",
+        "classic-global-2026-09-06-02",
+        "classic-global-2026-09-06-03",
+        "classic-global-2026-09-06-04",
+        "classic-global-2026-09-06-05"
       ]
     },
     {
@@ -5452,15 +5451,19 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "classic-german-2026-09-04-06",
-        "classic-german-2026-09-04-08",
-        "classic-german-2026-09-04-09",
-        "classic-german-2026-09-04-10",
         "classic-german-2026-09-05-01",
         "classic-german-2026-09-05-02",
         "classic-german-2026-09-05-03",
         "classic-german-2026-09-05-04",
-        "classic-german-2026-09-05-05"
+        "classic-german-2026-09-05-05",
+        "classic-german-2026-09-04-06",
+        "classic-german-2026-09-04-08",
+        "classic-german-2026-09-04-09",
+        "classic-german-2026-09-04-10",
+        "classic-german-2026-09-06-02",
+        "classic-german-2026-09-06-03",
+        "classic-german-2026-09-06-04",
+        "classic-german-2026-09-06-05"
       ]
     },
     {
@@ -5630,6 +5633,218 @@
       "eligibility": "在 Bayerisch Schwaben 生活或工作的藝術家，依 2026 官方申請表與展覽規章送件",
       "budget": "Johann-Georg-Fischer-Kunstpreis €3,000；Franz Schmid Stiftung €2,500；Familie Paul Breitkopf €2,000",
       "applicationFee": "依官方公告未列申請費，視為免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "competition-2026-09-06-01",
+      "dedupeKey": "opportunity-2026-hbk-braunschweig-projects-27-28",
+      "name": "01｜Braunschweig｜HBK Projects 2027／28 藝術家獎助",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Braunschweig",
+      "cityKeywords": [
+        "Braunschweig",
+        "不倫瑞克"
+      ],
+      "media": [
+        "藝術駐地",
+        "聲音藝術",
+        "視覺藝術"
+      ],
+      "works": "十二個月藝術家獎助｜截止 2026.10.04",
+      "comment": "提供兩名聲音藝術與五名視覺藝術家一年期創作環境、工作室住宅及校園交流，以跨領域實踐連結藝術研究與教學。",
+      "website": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+      "workPage": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+      "photo": "https://www.hbk-bs.de/fileadmin/_processed_/0/5/csm_Design_ohne_Titel_9__b1a6ea9425.png",
+      "artistStatement": "提供兩名聲音藝術與五名視覺藝術家一年期創作環境、工作室住宅及校園交流，以跨領域實踐連結藝術研究與教學。",
+      "artistStatementSource": "https://www.hbk-bs.de/bs-projects-english/call-and-application-1/",
+      "classicTitle": "Braunschweig｜HBK Projects 2027／28 藝術家獎助",
+      "classicImage": "https://www.hbk-bs.de/fileadmin/_processed_/0/5/csm_Design_ohne_Titel_9__b1a6ea9425.png",
+      "classicDesc": "提供兩名聲音藝術與五名視覺藝術家一年期創作環境、工作室住宅及校園交流，以跨領域實踐連結藝術研究與教學。",
+      "deadline": "2026-10-04T23:59:59+02:00",
+      "deadlineLabel": "2026.10.04",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Hochschule für Bildende Künste Braunschweig",
+      "eligibility": "完成藝術學位、具專業創作與展覽紀錄；最後學業完成時間須符合官方 2016-04-01 至 2023-04-01 條件",
+      "budget": "每月 €1,600、十二個月；免租工作室住宅，另有計畫與旅費補助；住戶每月自付 €250 雜費",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "competition-2026-09-06-02",
+      "dedupeKey": "opportunity-2026-dresden-bsz-electrical-art-building",
+      "name": "02｜Dresden｜電氣職業學校 Kunst am Bau",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Dresden",
+      "cityKeywords": [
+        "Dresden",
+        "德勒斯登"
+      ],
+      "media": [
+        "建築藝術",
+        "公共藝術",
+        "場域特定"
+      ],
+      "works": "兩階段校園公共藝術競賽｜截止 2026.10.05",
+      "comment": "為新電氣職業學校提出能被感官經驗、回應校園使用並強化場所認同的室內或戶外作品，最多實現兩件。",
+      "website": "https://www.stesad.de/kunst-am-bau-wettbewerb-fuer-das-neue-bsz-elektrotechnik/",
+      "workPage": "https://www.stesad.de/kunst-am-bau-wettbewerb-fuer-das-neue-bsz-elektrotechnik/",
+      "photo": "https://www.stesad.de/wp-content/uploads/2026/06/BSZET_Aussenraum_Eingang_RBZ_NEU_mittel.jpg",
+      "artistStatement": "為新電氣職業學校提出能被感官經驗、回應校園使用並強化場所認同的室內或戶外作品，最多實現兩件。",
+      "artistStatementSource": "https://www.stesad.de/kunst-am-bau-wettbewerb-fuer-das-neue-bsz-elektrotechnik/",
+      "classicTitle": "Dresden｜電氣職業學校 Kunst am Bau",
+      "classicImage": "https://www.stesad.de/wp-content/uploads/2026/06/BSZET_Aussenraum_Eingang_RBZ_NEU_mittel.jpg",
+      "classicDesc": "為新電氣職業學校提出能被感官經驗、回應校園使用並強化場所認同的室內或戶外作品，最多實現兩件。",
+      "deadline": "2026-10-05T23:59:59+02:00",
+      "deadlineLabel": "2026.10.05",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "KID, Kommunale Immobilien Dresden GmbH & Co. KG／STESAD",
+      "eligibility": "居住於歐盟的專業藝術家、藝術家團隊；第一階段以德文提交資格、作品與履歷 PDF",
+      "budget": "實現總預算最高 €330,000 含稅；競賽獎金共 €30,000；第二階段合格提案各 €3,800",
+      "applicationFee": "免費",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "competition-2026-09-06-03",
+      "dedupeKey": "opportunity-2027-frechen-graphic-triennale-21",
+      "name": "03｜Frechen｜第 21 屆國際版畫三年展",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Frechen",
+      "cityKeywords": [
+        "Frechen",
+        "弗雷興",
+        "Cologne",
+        "科隆"
+      ],
+      "media": [
+        "版畫",
+        "國際三年展",
+        "藝術獎"
+      ],
+      "works": "國際當代版畫徵件｜截止 2026.09.29",
+      "comment": "以傳統木刻、網版、蝕刻到電腦輸出等廣義版畫為範圍，重點不是複製技術，而是媒材如何形成作品的內容與形式力量。",
+      "website": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
+      "workPage": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
+      "photo": "https://kunstverein-frechen.de/wp-content/uploads/2026/07/GT27_3.jpg",
+      "artistStatement": "以傳統木刻、網版、蝕刻到電腦輸出等廣義版畫為範圍，重點不是複製技術，而是媒材如何形成作品的內容與形式力量。",
+      "artistStatementSource": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
+      "classicTitle": "Frechen｜第 21 屆國際版畫三年展",
+      "classicImage": "https://kunstverein-frechen.de/wp-content/uploads/2026/07/GT27_3.jpg",
+      "classicDesc": "以傳統木刻、網版、蝕刻到電腦輸出等廣義版畫為範圍，重點不是複製技術，而是媒材如何形成作品的內容與形式力量。",
+      "deadline": "2026-09-29T23:59:59+02:00",
+      "deadlineLabel": "2026.09.29",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Kunstverein zu Frechen e. V.／Stadt Frechen",
+      "eligibility": "全球專業藝術家；作品須屬版畫領域，傳統與新式印製技術均可，三維或單件作品須具版畫關聯",
+      "budget": "一獎 €3,000、二獎 €2,000、三獎 €1,500；在學青年獎 €1,000、觀眾獎 €200",
+      "applicationFee": "€40",
+      "relatedByCity": [
+        "classic-german-2026-08-20-05",
+        "classic-german-2026-08-14-03"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "competition-2026-09-06-04",
+      "dedupeKey": "opportunity-2027-kuenstlergut-proesitz-symposium",
+      "name": "04｜Grimma／Prösitz｜母親藝術家雕塑與裝置獎助",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Grimma",
+      "cityKeywords": [
+        "Grimma",
+        "格里馬",
+        "Prösitz",
+        "Leipzig"
+      ],
+      "media": [
+        "雕塑",
+        "裝置藝術",
+        "戶外創作"
+      ],
+      "works": "四週創作研討與親子駐地｜截止 2026.11.30",
+      "comment": "為同時身為母親的專業女性藝術家提供四週工作坊、住宿與十二歲以下兒童照顧，使雕塑、裝置與物件創作能在照護現實中持續。",
+      "website": "https://www.kuenstlergut-proesitz.de/symposium/?SHC=1",
+      "workPage": "https://www.kuenstlergut-proesitz.de/symposium/?SHC=1",
+      "photo": "https://www.kuenstlergut-proesitz.de/pages/kuenstlergut/fotos/banner/symposium.jpg",
+      "artistStatement": "為同時身為母親的專業女性藝術家提供四週工作坊、住宿與十二歲以下兒童照顧，使雕塑、裝置與物件創作能在照護現實中持續。",
+      "artistStatementSource": "https://www.kuenstlergut-proesitz.de/symposium/?SHC=1",
+      "classicTitle": "Grimma／Prösitz｜母親藝術家雕塑與裝置獎助",
+      "classicImage": "https://www.kuenstlergut-proesitz.de/pages/kuenstlergut/fotos/banner/symposium.jpg",
+      "classicDesc": "為同時身為母親的專業女性藝術家提供四週工作坊、住宿與十二歲以下兒童照顧，使雕塑、裝置與物件創作能在照護現實中持續。",
+      "deadline": "2026-11-30T23:59:59+01:00",
+      "deadlineLabel": "2026.11.30",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Künstlergut Prösitz e. V.",
+      "eligibility": "從事雕塑、立體、裝置或物件藝術的專業女性藝術家，且同時為母親；可攜十二歲以下子女",
+      "budget": "獎助 €500；四週住宿與兒童照顧免費，另依個案提供材料與組織協助，後續有聯展與共同圖錄",
+      "applicationFee": "免費；僅接受紙本資料",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-06",
+      "id": "competition-2026-09-06-05",
+      "dedupeKey": "opportunity-2026-steiger-gallery-wassergarten",
+      "name": "05｜Schiffweiler｜Steiger Gallery Wassergarten 地景提案",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Schiffweiler",
+      "cityKeywords": [
+        "Schiffweiler",
+        "希夫韋勒",
+        "Reden",
+        "Saarland"
+      ],
+      "media": [
+        "地景藝術",
+        "光／聲音藝術",
+        "互動裝置"
+      ],
+      "works": "礦業水花園永久公共藝術概念｜截止 2026.09.13",
+      "comment": "在舊 Reden 礦區的水池、濕地、鋼構與石牆提出永久介入，回應工業史、轉型、生態與場址未來，媒介包含光、聲音、動態與 Land Art。",
+      "website": "https://steiger-gallery.de/call-for-concepts/",
+      "workPage": "https://steiger-gallery.de/call-for-concepts/",
+      "photo": "https://steiger-gallery.de/wp-content/uploads/2026/07/Wall_03.jpg",
+      "artistStatement": "在舊 Reden 礦區的水池、濕地、鋼構與石牆提出永久介入，回應工業史、轉型、生態與場址未來，媒介包含光、聲音、動態與 Land Art。",
+      "artistStatementSource": "https://steiger-gallery.de/call-for-concepts/",
+      "classicTitle": "Schiffweiler｜Steiger Gallery Wassergarten 地景提案",
+      "classicImage": "https://steiger-gallery.de/wp-content/uploads/2026/07/Wall_03.jpg",
+      "classicDesc": "在舊 Reden 礦區的水池、濕地、鋼構與石牆提出永久介入，回應工業史、轉型、生態與場址未來，媒介包含光、聲音、動態與 Land Art。",
+      "deadline": "2026-09-13T23:59:59+02:00",
+      "deadlineLabel": "2026.09.13",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Steiger Gallery／Industriekultur Saar GmbH",
+      "eligibility": "各國新銳或成熟藝術家，類型不限；提案須可由藝術家自行實施並適合戶外、氣候與公共使用",
+      "budget": "藝術家費、製作與安裝總成本 €2,000–€60,000；第二階段深化提案費最高 €1,000",
+      "applicationFee": "免費",
       "relatedByCity": [
 
       ]
