@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-07T04:00:00+08:00",
+    "generatedAt": "2026-09-07T05:00:00+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-09-07",
     "total": 20,
@@ -9,15 +9,15 @@
     "germanClassicEntries": 5,
     "source": "KÖR Wien、Museum der 1000 Orte 官方頁",
     "selectionPolicy": "優先地景、生態、參與、聲光、動態、數位與建築整合作品；不以傳統人物、胸像、騎馬像或基座式紀念碑湊數。",
-    "note": "9/7 固定 10＋5＋5；另有德國公開徵選 5 則與全球重要展覽 5 篇。",
+    "note": "9/7 固定 10＋5＋5；獨立稽核後以三件持續開放的永久作品替換已結束之暫時活動。另有德國公開徵選 5 則與全球重要展覽 5 篇。",
     "linkAudit": {
-      "checkedAt": "2026-09-07T04:00:00+08:00",
+      "checkedAt": "2026-09-07T05:00:00+08:00",
       "checkedUniqueSources": 20,
       "brokenOrBlockedReplaced": 0,
       "rule": "發布前逐頁檢查"
     },
     "imageAudit": {
-      "checkedAt": "2026-09-07T04:00:00+08:00",
+      "checkedAt": "2026-09-07T05:00:00+08:00",
       "imageEntries": 20,
       "missing": 0,
       "rule": "官方圖片逐一載入驗證"
@@ -135,8 +135,8 @@
       "status": "官方來源",
       "updated": "2026-09-07",
       "id": "current-2026-09-07-04",
-      "dedupeKey": "art-2026-09-07-koer-design-anonymous",
-      "name": "04｜Joanna Zabielska｜無名者的設計",
+      "dedupeKey": "art-2026-09-07-ernst-caramelle-ohne-titel",
+      "name": "04｜Ernst Caramelle｜無題",
       "tier": "動態情報層",
       "region": "西方",
       "country": "奧地利 / Vienna",
@@ -144,24 +144,24 @@
         "Vienna",
         "Wien",
         "維也納",
-        "Brunnenmarkt",
-        "Yppenpark"
+        "Karlsplatz",
+        "卡爾廣場"
       ],
       "media": [
-        "社會參與",
-        "纖維藝術",
-        "市場表演"
+        "建築整合",
+        "壁畫",
+        "鏡面玻璃"
       ],
-      "works": "Design of the Anonymous｜2025",
-      "comment": "市場工作者與訪客把紅白藍編織袋縫成服裝、牆與空間，搭配收據詩、廣播、共食和週日表演，讓市場日常成為共同設計永續生活的公共工作室。",
-      "website": "https://www.koer.or.at/projects/das-design-des-anonymen/",
-      "workPage": "https://www.koer.or.at/projects/das-design-des-anonymen/",
-      "photo": "https://www.koer.or.at/site/assets/files/14030/01_c_sebastian_kraner.500x0.jpg",
-      "artistStatement": "市場工作者與訪客把紅白藍編織袋縫成服裝、牆與空間，搭配收據詩、廣播、共食和週日表演，讓市場日常成為共同設計永續生活的公共工作室。",
-      "artistStatementSource": "https://www.koer.or.at/projects/das-design-des-anonymen/",
-      "classicTitle": "Design of the Anonymous｜2025",
-      "classicImage": "https://www.koer.or.at/site/assets/files/14030/01_c_sebastian_kraner.500x0.jpg",
-      "classicDesc": "市場工作者與訪客把紅白藍編織袋縫成服裝、牆與空間，搭配收據詩、廣播、共食和週日表演，讓市場日常成為共同設計永續生活的公共工作室。",
+      "works": "Ohne Titel｜2013–持續",
+      "comment": "長達七十公尺的矽酸鹽壁畫與對向霧面、鏡面玻璃共同改寫卡爾廣場地下通道；色塊依行人移動而產生視差、反射與空間延展，使交通節點成為持續運作的感知場域。",
+      "website": "https://www.koer.or.at/projects/ohne-titel/",
+      "workPage": "https://www.koer.or.at/projects/ohne-titel/",
+      "photo": "https://www.koer.or.at/site/assets/files/2075/ernst-caramelle-ohne-titel06.500x0.jpg",
+      "artistStatement": "長達七十公尺的矽酸鹽壁畫與對向霧面、鏡面玻璃共同改寫卡爾廣場地下通道；色塊依行人移動而產生視差、反射與空間延展，使交通節點成為持續運作的感知場域。",
+      "artistStatementSource": "https://www.koer.or.at/projects/ohne-titel/",
+      "classicTitle": "Ohne Titel｜2013–持續",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2075/ernst-caramelle-ohne-titel06.500x0.jpg",
+      "classicDesc": "長達七十公尺的矽酸鹽壁畫與對向霧面、鏡面玻璃共同改寫卡爾廣場地下通道；色塊依行人移動而產生視差、反射與空間延展，使交通節點成為持續運作的感知場域。",
       "relatedByCity": [
         "competition-2026-09-03-05"
       ]
@@ -243,8 +243,8 @@
       "status": "官方來源",
       "updated": "2026-09-07",
       "id": "current-2026-09-07-07",
-      "dedupeKey": "art-2026-09-07-koer-polit-mobile",
-      "name": "07｜Susi Rogenhofer｜藝術政治行動車",
+      "dedupeKey": "art-2026-09-07-franz-graf-sued",
+      "name": "07｜Franz Graf｜南方",
       "tier": "動態情報層",
       "region": "西方",
       "country": "奧地利 / Vienna",
@@ -252,23 +252,25 @@
         "Vienna",
         "Wien",
         "維也納",
-        "Meidlinger Platzl"
+        "Südtiroler Platz",
+        "Wien Hauptbahnhof",
+        "維也納中央車站"
       ],
       "media": [
-        "社會參與",
-        "影像裝置",
-        "公共論壇"
+        "陶瓷數位印刷",
+        "玻璃裝置",
+        "交通藝術"
       ],
-      "works": "Kunst-Polit-Mobil｜2024",
-      "comment": "以競選集會般的移動舞台、跨文化桌布、雙螢幕影像與工作坊拆解民粹、陰謀敘事和『人民』的想像，重新啟動廣場作為公共論辯場所。",
-      "website": "https://www.koer.or.at/projects/polit-mobil/",
-      "workPage": "https://www.koer.or.at/projects/polit-mobil/",
-      "photo": "https://www.koer.or.at/site/assets/files/13866/pxl_20240928_155131314.500x0.jpg",
-      "artistStatement": "以競選集會般的移動舞台、跨文化桌布、雙螢幕影像與工作坊拆解民粹、陰謀敘事和『人民』的想像，重新啟動廣場作為公共論辯場所。",
-      "artistStatementSource": "https://www.koer.or.at/projects/polit-mobil/",
-      "classicTitle": "Kunst-Polit-Mobil｜2024",
-      "classicImage": "https://www.koer.or.at/site/assets/files/13866/pxl_20240928_155131314.500x0.jpg",
-      "classicDesc": "以競選集會般的移動舞台、跨文化桌布、雙螢幕影像與工作坊拆解民粹、陰謀敘事和『人民』的想像，重新啟動廣場作為公共論辯場所。",
+      "works": "SUED｜2012–持續",
+      "comment": "六十五片陶瓷數位印刷玻璃把肖像、植物圖譜、幾何符號與文字碎片編成視覺樂譜；通勤者穿越車站時，私人記憶與交通導引系統彼此疊合，讓短暫移動轉化為公共觀看。",
+      "website": "https://www.koer.or.at/projects/sued/",
+      "workPage": "https://www.koer.or.at/projects/sued/",
+      "photo": "https://www.koer.or.at/site/assets/files/2044/franz-graf-sued04.500x0.jpg",
+      "artistStatement": "六十五片陶瓷數位印刷玻璃把肖像、植物圖譜、幾何符號與文字碎片編成視覺樂譜；通勤者穿越車站時，私人記憶與交通導引系統彼此疊合，讓短暫移動轉化為公共觀看。",
+      "artistStatementSource": "https://www.koer.or.at/projects/sued/",
+      "classicTitle": "SUED｜2012–持續",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2044/franz-graf-sued04.500x0.jpg",
+      "classicDesc": "六十五片陶瓷數位印刷玻璃把肖像、植物圖譜、幾何符號與文字碎片編成視覺樂譜；通勤者穿越車站時，私人記憶與交通導引系統彼此疊合，讓短暫移動轉化為公共觀看。",
       "relatedByCity": [
         "competition-2026-09-03-05"
       ]
@@ -278,8 +280,8 @@
       "status": "官方來源",
       "updated": "2026-09-07",
       "id": "current-2026-09-07-08",
-      "dedupeKey": "art-2026-09-07-koer-projection-guerrilla",
-      "name": "08｜starsky｜正常才瘋狂！我們比迷信更強大",
+      "dedupeKey": "art-2026-09-07-lukas-kaufmann-ot",
+      "name": "08｜Lukas Maria Kaufmann｜OT 光之記號",
       "tier": "動態情報層",
       "region": "西方",
       "country": "奧地利 / Vienna",
@@ -287,25 +289,25 @@
         "Vienna",
         "Wien",
         "維也納",
-        "MuseumsQuartier",
-        "Heldenplatz",
-        "Burgtheater"
+        "Leopoldstadt",
+        "Floridsdorf",
+        "Lichtzeichen Wien"
       ],
       "media": [
-        "文字投影",
-        "行動藝術",
-        "光藝術"
+        "光藝術",
+        "公共紀念",
+        "金屬雕塑"
       ],
-      "works": "das normal ist irr!｜2024",
-      "comment": "投影游擊隊從博物館區移動到國會、總理府與城堡劇院，把平權、人權、女性主義文字短暫投上權力建築，使遊行、光與城市立面合成可移動的公共發聲裝置。",
-      "website": "https://www.koer.or.at/projects/das-normal-ist-irr-wir-sind-maechtiger-als-irrglaubt/",
-      "workPage": "https://www.koer.or.at/projects/das-normal-ist-irr-wir-sind-maechtiger-als-irrglaubt/",
-      "photo": "https://www.koer.or.at/site/assets/files/12556/starsky_niemand_guerilla_osaka_423_2_1200.500x0.jpg",
-      "artistStatement": "投影游擊隊從博物館區移動到國會、總理府與城堡劇院，把平權、人權、女性主義文字短暫投上權力建築，使遊行、光與城市立面合成可移動的公共發聲裝置。",
-      "artistStatementSource": "https://www.koer.or.at/projects/das-normal-ist-irr-wir-sind-maechtiger-als-irrglaubt/",
-      "classicTitle": "das normal ist irr!｜2024",
-      "classicImage": "https://www.koer.or.at/site/assets/files/12556/starsky_niemand_guerilla_osaka_423_2_1200.500x0.jpg",
-      "classicDesc": "投影游擊隊從博物館區移動到國會、總理府與城堡劇院，把平權、人權、女性主義文字短暫投上權力建築，使遊行、光與城市立面合成可移動的公共發聲裝置。",
+      "works": "OT／Lichtzeichen Wien｜2018–持續",
+      "comment": "二十五座約五公尺高的金屬光柱分布於維也納十六個行政區，從特定視角才組成發光的大衛之星；QR 碼連回遭摧毀猶太會堂的虛擬重建，使散落城市的缺席歷史重新可見。",
+      "website": "https://www.koer.or.at/projects/ot/",
+      "workPage": "https://www.koer.or.at/projects/ot/",
+      "photo": "https://www.koer.or.at/site/assets/files/7238/kaufmann_2018_03.500x0.jpg",
+      "artistStatement": "二十五座約五公尺高的金屬光柱分布於維也納十六個行政區，從特定視角才組成發光的大衛之星；QR 碼連回遭摧毀猶太會堂的虛擬重建，使散落城市的缺席歷史重新可見。",
+      "artistStatementSource": "https://www.koer.or.at/projects/ot/",
+      "classicTitle": "OT／Lichtzeichen Wien｜2018–持續",
+      "classicImage": "https://www.koer.or.at/site/assets/files/7238/kaufmann_2018_03.500x0.jpg",
+      "classicDesc": "二十五座約五公尺高的金屬光柱分布於維也納十六個行政區，從特定視角才組成發光的大衛之星；QR 碼連回遭摧毀猶太會堂的虛擬重建，使散落城市的缺席歷史重新可見。",
       "relatedByCity": [
         "competition-2026-09-03-05"
       ]

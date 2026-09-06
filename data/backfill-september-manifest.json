@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-07-public-art-r62",
-  "generatedAt": "2026-09-07T04:00:00+08:00",
+  "version": "2026-09-07-public-art-r63",
+  "generatedAt": "2026-09-07T05:00:00+08:00",
   "files": [
     "backfill-september-20260901.json",
     "backfill-september-20260902.json",
@@ -16,5 +16,5 @@
   "statementBacklog": 0,
   "imageEntries": 140,
   "imageBacklog": 0,
-  "note": "截至 2026-09-07 累計 140 則；今日新增 20 則公共藝術（10／5／5），已套用非傳統紀念碑選材規則。"
+  "note": "截至 2026-09-07 累計 140 則；今日新增 20 則公共藝術（10／5／5）。獨立稽核後以三件永久作品替換已結束之暫時活動。"
 }

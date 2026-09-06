@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-07T04:00:00+08:00",
+    "generatedAt": "2026-09-07T05:00:00+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-09-07",
     "dailyTarget": 5,
@@ -9,9 +9,9 @@
     "addedToday": 5,
     "germanAddedToday": 5,
     "expiredRemoved": 0,
-    "note": "9/7 新增 5 筆有效德國公開徵選；移除 0 筆逾期案件。",
+    "note": "9/7 新增 5 筆有效德國公開徵選；移除 0 筆逾期案件。官方僅公布日期者已標記 deadlinePrecision=date，未公布申請費者標示未公開。",
     "linkAudit": {
-      "checkedAt": "2026-09-07T04:00:00+08:00",
+      "checkedAt": "2026-09-07T05:00:00+08:00",
       "missingCityKeywords": 0,
       "uniqueNewSourcesChecked": 5,
       "blockedSourceReplaced": 0
@@ -5939,7 +5939,7 @@
       "organizer": "European Media Art Platform（含德國 Werkleitz 等 15 個成員機構）",
       "eligibility": "歐盟或符合 Creative Europe 規範國家的數位、媒體、機器人及生物藝術家、雙人組、團體或跨域合作；需與一名合作夥伴共同製作",
       "budget": "申請藝術家 €4,000、合作藝術家 €2,000（藝術雙人組合計 €6,000）、另有 €4,000 製作預算、住宿、旅費與技術設施",
-      "applicationFee": "免費",
+      "applicationFee": "未公開",
       "relatedByCity": [
 
       ]
@@ -5965,7 +5965,7 @@
         "地景研究",
         "跨媒介"
       ],
-      "works": "三週駐地｜截止 2026.10.01 23:59 CEST",
+      "works": "三週駐地｜截止 2026.10.01",
       "comment": "邀請藝術家批判性回應波羅的海地區的歷史、環境與當代條件，於秋冬三週駐地中發展繪畫、雕塑、影像、聲音、文字或表演計畫。",
       "website": "https://www.josepha.org/call/",
       "workPage": "https://www.josepha.org/call/",
@@ -5976,13 +5976,13 @@
       "classicImage": "https://image.jimcdn.com/app/cms/image/transf/none/path/sf9cbae73d0f98bfc/backgroundarea/ia626092cf0802513/version/1529604053/image.jpg",
       "classicDesc": "邀請藝術家批判性回應波羅的海地區的歷史、環境與當代條件，於秋冬三週駐地中發展繪畫、雕塑、影像、聲音、文字或表演計畫。",
       "deadline": "2026-10-01T23:59:59+02:00",
-      "deadlineLabel": "2026.10.01 23:59 CEST",
+      "deadlineLabel": "2026.10.01",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "datetime",
+      "deadlinePrecision": "date",
       "organizer": "Atelier Josepha／ARS BALTICA",
       "eligibility": "無年齡限制的個人藝術家；原則上居住於波羅的海沿岸國家，其他歐洲國家申請者須具明確的波羅的海連結",
       "budget": "獎助 €1,500；免費工作室與住宿、往返旅費，以及最高 €250 材料費",
-      "applicationFee": "免費",
+      "applicationFee": "未公開",
       "relatedByCity": [
 
       ]
@@ -6022,14 +6022,14 @@
       "classicTitle": "Wiesbaden｜黑森文化基金會旅行與國際駐地獎助",
       "classicImage": "https://www.hkst.de/wp-content/uploads/2024/07/hks-stipendien-1-2300x715.jpg",
       "classicDesc": "共十四個旅行、城市駐地與京都結合日本研究名額，讓黑森相關視覺藝術家在三至十二個月的國際工作期間發展新作。",
-      "deadline": "2026-10-15T23:59:59+02:00",
+      "deadline": "2026-10-15T23:59:00+02:00",
       "deadlineLabel": "2026.10.15 23:59 CET",
       "deadlineTimezone": "Europe/Berlin",
       "deadlinePrecision": "datetime",
       "organizer": "Hessische Kulturstiftung",
       "eligibility": "出生於黑森、至少自 2025-01-01 起居住黑森，或畢業於黑森藝術學院／相關科系的視覺藝術家；不限年齡，學業須已完成",
       "budget": "旅行獎助每名 €25,000；紐約、巴黎、倫敦一年 €25,000；伊斯坦堡半年 €12,500；京都＋日本旅行半年 €15,000；另可申請最高 €7,700 製作／展示補助",
-      "applicationFee": "免費",
+      "applicationFee": "未公開",
       "relatedByCity": [
         "classic-global-2026-08-21-01",
         "classic-global-2026-08-21-02",
@@ -6153,7 +6153,7 @@
         "跨媒介",
         "藝術出版"
       ],
-      "works": "青年藝術家公開申請｜截止 2026.09.30 23:59 CEST",
+      "works": "青年藝術家公開申請｜截止 2026.09.30",
       "comment": "獎項鼓勵具有歐洲視野、能連結都會與鄉村經驗的青年視覺藝術家，得主除獎金外並獲得個人圖錄出版。",
       "website": "https://www.speyer.de/de/kultur/bildende-kunst/hans-purrmann-preise/",
       "workPage": "https://www.speyer.de/de/kultur/bildende-kunst/hans-purrmann-preise/",
@@ -6164,13 +6164,13 @@
       "classicImage": "https://www.speyer.de/de/kultur/bildende-kunst/hans-purrmann-preise/titelbild-2-hans-purrmann-paris-publikation-hans-purrmann-preise-stefan-issig.jpg?cid=kim.eiwv&resize=61ec13%3a1200x630c",
       "classicDesc": "獎項鼓勵具有歐洲視野、能連結都會與鄉村經驗的青年視覺藝術家，得主除獎金外並獲得個人圖錄出版。",
       "deadline": "2026-09-30T23:59:59+02:00",
-      "deadlineLabel": "2026.09.30 23:59 CEST",
+      "deadlineLabel": "2026.09.30",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "datetime",
+      "deadlinePrecision": "date",
       "organizer": "Stadt Speyer／Hans Purrmann Stiftung",
       "eligibility": "具歐洲視野與關聯、申請時未滿或不超過 35 歲的青年視覺藝術家；大獎採提名制，不接受自行申請",
       "budget": "青年獎 €6,000，另含個人圖錄出版",
-      "applicationFee": "免費",
+      "applicationFee": "未公開",
       "relatedByCity": [
 
       ]
@@ -6195,7 +6195,7 @@
         "實驗影像",
         "非典型展場"
       ],
-      "works": "最長約 20 分鐘錄像徵件｜截止 2026.09.30 23:59 CEST",
+      "works": "最長約 20 分鐘錄像徵件｜截止 2026.09.30",
       "comment": "徵集實驗、紀錄、敘事或自由形式的錄像作品，入選節目將在車庫、花園與地下室等日常非典型空間放映。",
       "website": "https://enzymkultur.de/news/90-open-call-videokunst-2027-pfade,-wege,-stra%C3%9Fen",
       "workPage": "https://enzymkultur.de/news/90-open-call-videokunst-2027-pfade,-wege,-stra%C3%9Fen",
@@ -6206,13 +6206,13 @@
       "classicImage": "https://enzymkultur.de/images/enzymkultur/pfade_wege/projekt/strassen%20wege%20s.png",
       "classicDesc": "徵集實驗、紀錄、敘事或自由形式的錄像作品，入選節目將在車庫、花園與地下室等日常非典型空間放映。",
       "deadline": "2026-09-30T23:59:59+02:00",
-      "deadlineLabel": "2026.09.30 23:59 CEST",
+      "deadlineLabel": "2026.09.30",
       "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "datetime",
+      "deadlinePrecision": "date",
       "organizer": "EnzymKultur e. V.",
       "eligibility": "錄像藝術家；每人最多三件、每件約 20 分鐘以內、MP4；非德語作品須附字幕並持有完整影音權利",
       "budget": "預計每位參展藝術家最高 €100 放映費，須視補助申請結果而定",
-      "applicationFee": "免費",
+      "applicationFee": "未公開",
       "relatedByCity": [
 
       ]

@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-07-competition-r38",
-  "generatedAt": "2026-09-07T04:00:00+08:00",
+  "version": "2026-09-07-competition-r39",
+  "generatedAt": "2026-09-07T05:00:00+08:00",
   "files": [
     "competitions.json"
   ],
@@ -10,6 +10,6 @@
   "deadlineTimezoneEntries": 106,
   "deadlinePrecisionEntries": 106,
   "cityKeywordEntries": 106,
-  "note": "2026-09-07 新增 5 則德國公開徵選並移除 0 則逾期案件。",
+  "note": "2026-09-07 新增 5 則德國公開徵選並移除 0 則逾期案件；校正截止精度與未公開申請費。",
   "germanAddedToday": 5
 }
