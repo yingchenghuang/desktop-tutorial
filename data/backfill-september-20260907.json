@@ -1,0 +1,773 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-07T04:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-07",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte 官方頁",
+    "selectionPolicy": "優先地景、生態、參與、聲光、動態、數位與建築整合作品；不以傳統人物、胸像、騎馬像或基座式紀念碑湊數。",
+    "note": "9/7 固定 10＋5＋5；另有德國公開徵選 5 則與全球重要展覽 5 篇。",
+    "linkAudit": {
+      "checkedAt": "2026-09-07T04:00:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "發布前逐頁檢查"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-07T04:00:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方圖片逐一載入驗證"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-01",
+      "dedupeKey": "art-2026-09-07-koer-roadside-picnic",
+      "name": "01｜Michèle Pagel｜路邊野餐",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Ljuba-Welitsch-Promenade"
+      ],
+      "media": [
+        "公共雕塑",
+        "地景裝置",
+        "參與式藝術"
+      ],
+      "works": "Picknick am Wegesrand｜2026",
+      "comment": "放大的三明治包裝、橘子、拖鞋與棋后被鑄成柔色混凝土，像外星訪客留下的野餐遺物；作品把住宅庭院變成可坐、可玩，也能思考消費與城市記憶的異尺度地景。",
+      "website": "https://www.koer.or.at/projects/picknick-am-wegesrand/",
+      "workPage": "https://www.koer.or.at/projects/picknick-am-wegesrand/",
+      "photo": "https://www.koer.or.at/site/assets/files/15364/kro5619.500x0.jpg",
+      "artistStatement": "放大的三明治包裝、橘子、拖鞋與棋后被鑄成柔色混凝土，像外星訪客留下的野餐遺物；作品把住宅庭院變成可坐、可玩，也能思考消費與城市記憶的異尺度地景。",
+      "artistStatementSource": "https://www.koer.or.at/projects/picknick-am-wegesrand/",
+      "classicTitle": "Picknick am Wegesrand｜2026",
+      "classicImage": "https://www.koer.or.at/site/assets/files/15364/kro5619.500x0.jpg",
+      "classicDesc": "放大的三明治包裝、橘子、拖鞋與棋后被鑄成柔色混凝土，像外星訪客留下的野餐遺物；作品把住宅庭院變成可坐、可玩，也能思考消費與城市記憶的異尺度地景。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-02",
+      "dedupeKey": "art-2026-09-07-koer-pfingstspiel",
+      "name": "02｜Florentina Holzinger｜聖靈降臨劇",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Vienna Skating Club",
+        "Lothringer Straße"
+      ],
+      "media": [
+        "行為藝術",
+        "機械裝置",
+        "公共展演"
+      ],
+      "works": "Pfingstspiel｜2026",
+      "comment": "以『身體與機器的神劇』測試公共空間能容納的特技、機械與集體儀式，並把威尼斯雙年展奧地利館對水、宗教與淨化的提問帶回維也納。",
+      "website": "https://www.koer.or.at/projects/pfingstspiel/",
+      "workPage": "https://www.koer.or.at/projects/pfingstspiel/",
+      "photo": "https://www.koer.or.at/site/assets/files/14694/holzinger_pfingstspiel_prolog_c_koer_img_1523.500x0.jpeg",
+      "artistStatement": "以『身體與機器的神劇』測試公共空間能容納的特技、機械與集體儀式，並把威尼斯雙年展奧地利館對水、宗教與淨化的提問帶回維也納。",
+      "artistStatementSource": "https://www.koer.or.at/projects/pfingstspiel/",
+      "classicTitle": "Pfingstspiel｜2026",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14694/holzinger_pfingstspiel_prolog_c_koer_img_1523.500x0.jpeg",
+      "classicDesc": "以『身體與機器的神劇』測試公共空間能容納的特技、機械與集體儀式，並把威尼斯雙年展奧地利館對水、宗教與淨化的提問帶回維也納。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-03",
+      "dedupeKey": "art-2026-09-07-koer-dohnal-ar",
+      "name": "03｜Tricky Women Tricky Realities｜先驅者的痕跡",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Johanna-Dohnal-Platz"
+      ],
+      "media": [
+        "擴增實境",
+        "女性主義藝術",
+        "數位紀念地景"
+      ],
+      "works": "Remembering a Pioneer in AR｜2025",
+      "comment": "六位藝術家以擴增實境動畫回應 Johanna Dohnal 的女性權利改革，讓廣場上的紀念不再依靠單一雕像，而由手機、身體移動與當代社會議題共同啟動。",
+      "website": "https://www.koer.or.at/projects/spuren-einer-vordenkerin/",
+      "workPage": "https://www.koer.or.at/projects/spuren-einer-vordenkerin/",
+      "photo": "https://www.koer.or.at/site/assets/files/14502/collage_susi_jirkuff-_quelle_walter_swistelnicki_johanna_dohnal_archiv.500x0.jpg",
+      "artistStatement": "六位藝術家以擴增實境動畫回應 Johanna Dohnal 的女性權利改革，讓廣場上的紀念不再依靠單一雕像，而由手機、身體移動與當代社會議題共同啟動。",
+      "artistStatementSource": "https://www.koer.or.at/projects/spuren-einer-vordenkerin/",
+      "classicTitle": "Remembering a Pioneer in AR｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14502/collage_susi_jirkuff-_quelle_walter_swistelnicki_johanna_dohnal_archiv.500x0.jpg",
+      "classicDesc": "六位藝術家以擴增實境動畫回應 Johanna Dohnal 的女性權利改革，讓廣場上的紀念不再依靠單一雕像，而由手機、身體移動與當代社會議題共同啟動。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-04",
+      "dedupeKey": "art-2026-09-07-koer-design-anonymous",
+      "name": "04｜Joanna Zabielska｜無名者的設計",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Brunnenmarkt",
+        "Yppenpark"
+      ],
+      "media": [
+        "社會參與",
+        "纖維藝術",
+        "市場表演"
+      ],
+      "works": "Design of the Anonymous｜2025",
+      "comment": "市場工作者與訪客把紅白藍編織袋縫成服裝、牆與空間，搭配收據詩、廣播、共食和週日表演，讓市場日常成為共同設計永續生活的公共工作室。",
+      "website": "https://www.koer.or.at/projects/das-design-des-anonymen/",
+      "workPage": "https://www.koer.or.at/projects/das-design-des-anonymen/",
+      "photo": "https://www.koer.or.at/site/assets/files/14030/01_c_sebastian_kraner.500x0.jpg",
+      "artistStatement": "市場工作者與訪客把紅白藍編織袋縫成服裝、牆與空間，搭配收據詩、廣播、共食和週日表演，讓市場日常成為共同設計永續生活的公共工作室。",
+      "artistStatementSource": "https://www.koer.or.at/projects/das-design-des-anonymen/",
+      "classicTitle": "Design of the Anonymous｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14030/01_c_sebastian_kraner.500x0.jpg",
+      "classicDesc": "市場工作者與訪客把紅白藍編織袋縫成服裝、牆與空間，搭配收據詩、廣播、共食和週日表演，讓市場日常成為共同設計永續生活的公共工作室。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-05",
+      "dedupeKey": "art-2026-09-07-koer-invisible-waters",
+      "name": "05｜藝術與時間攝影工作室｜看不見的水與隱藏路徑",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Getreidemarkt",
+        "Academy of Fine Arts Vienna"
+      ],
+      "media": [
+        "地景研究",
+        "攝影",
+        "城市步行"
+      ],
+      "works": "Invisible Waters and Hidden Paths｜2025–2026",
+      "comment": "學生與藝術家以每月展演、工作坊及城市步行研究維也納的水與自然，把美術學院周邊綠地持續改寫成開放式展場。",
+      "website": "https://www.koer.or.at/projects/unsichtbare-gewaesser-und-versteckte-wege/",
+      "workPage": "https://www.koer.or.at/projects/unsichtbare-gewaesser-und-versteckte-wege/",
+      "photo": "https://www.koer.or.at/site/assets/files/14118/franke_flora_inseln.500x0.jpg",
+      "artistStatement": "學生與藝術家以每月展演、工作坊及城市步行研究維也納的水與自然，把美術學院周邊綠地持續改寫成開放式展場。",
+      "artistStatementSource": "https://www.koer.or.at/projects/unsichtbare-gewaesser-und-versteckte-wege/",
+      "classicTitle": "Invisible Waters and Hidden Paths｜2025–2026",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14118/franke_flora_inseln.500x0.jpg",
+      "classicDesc": "學生與藝術家以每月展演、工作坊及城市步行研究維也納的水與自然，把美術學院周邊綠地持續改寫成開放式展場。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-06",
+      "dedupeKey": "art-2026-09-07-koer-lost-garden",
+      "name": "06｜Christian Kosmas Mayer｜失落的花園",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Meidling Station",
+        "Prónay Garden"
+      ],
+      "media": [
+        "玻璃壁畫",
+        "鐵路藝術",
+        "歷史地景"
+      ],
+      "works": "The Lost Garden｜2025",
+      "comment": "車站玻璃壁畫以檔案研究與生成影像追索被鐵路抹去的 Prónay 花園，不重建單一往昔，而讓通勤者辨認現代基礎設施如何同時帶來進步與地景消失。",
+      "website": "https://www.koer.or.at/projects/der-verlorene-garten/",
+      "workPage": "https://www.koer.or.at/projects/der-verlorene-garten/",
+      "photo": "https://www.koer.or.at/site/assets/files/13855/dsc0210_kleiner.500x0.jpg",
+      "artistStatement": "車站玻璃壁畫以檔案研究與生成影像追索被鐵路抹去的 Prónay 花園，不重建單一往昔，而讓通勤者辨認現代基礎設施如何同時帶來進步與地景消失。",
+      "artistStatementSource": "https://www.koer.or.at/projects/der-verlorene-garten/",
+      "classicTitle": "The Lost Garden｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13855/dsc0210_kleiner.500x0.jpg",
+      "classicDesc": "車站玻璃壁畫以檔案研究與生成影像追索被鐵路抹去的 Prónay 花園，不重建單一往昔，而讓通勤者辨認現代基礎設施如何同時帶來進步與地景消失。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-07",
+      "dedupeKey": "art-2026-09-07-koer-polit-mobile",
+      "name": "07｜Susi Rogenhofer｜藝術政治行動車",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Meidlinger Platzl"
+      ],
+      "media": [
+        "社會參與",
+        "影像裝置",
+        "公共論壇"
+      ],
+      "works": "Kunst-Polit-Mobil｜2024",
+      "comment": "以競選集會般的移動舞台、跨文化桌布、雙螢幕影像與工作坊拆解民粹、陰謀敘事和『人民』的想像，重新啟動廣場作為公共論辯場所。",
+      "website": "https://www.koer.or.at/projects/polit-mobil/",
+      "workPage": "https://www.koer.or.at/projects/polit-mobil/",
+      "photo": "https://www.koer.or.at/site/assets/files/13866/pxl_20240928_155131314.500x0.jpg",
+      "artistStatement": "以競選集會般的移動舞台、跨文化桌布、雙螢幕影像與工作坊拆解民粹、陰謀敘事和『人民』的想像，重新啟動廣場作為公共論辯場所。",
+      "artistStatementSource": "https://www.koer.or.at/projects/polit-mobil/",
+      "classicTitle": "Kunst-Polit-Mobil｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13866/pxl_20240928_155131314.500x0.jpg",
+      "classicDesc": "以競選集會般的移動舞台、跨文化桌布、雙螢幕影像與工作坊拆解民粹、陰謀敘事和『人民』的想像，重新啟動廣場作為公共論辯場所。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-08",
+      "dedupeKey": "art-2026-09-07-koer-projection-guerrilla",
+      "name": "08｜starsky｜正常才瘋狂！我們比迷信更強大",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "MuseumsQuartier",
+        "Heldenplatz",
+        "Burgtheater"
+      ],
+      "media": [
+        "文字投影",
+        "行動藝術",
+        "光藝術"
+      ],
+      "works": "das normal ist irr!｜2024",
+      "comment": "投影游擊隊從博物館區移動到國會、總理府與城堡劇院，把平權、人權、女性主義文字短暫投上權力建築，使遊行、光與城市立面合成可移動的公共發聲裝置。",
+      "website": "https://www.koer.or.at/projects/das-normal-ist-irr-wir-sind-maechtiger-als-irrglaubt/",
+      "workPage": "https://www.koer.or.at/projects/das-normal-ist-irr-wir-sind-maechtiger-als-irrglaubt/",
+      "photo": "https://www.koer.or.at/site/assets/files/12556/starsky_niemand_guerilla_osaka_423_2_1200.500x0.jpg",
+      "artistStatement": "投影游擊隊從博物館區移動到國會、總理府與城堡劇院，把平權、人權、女性主義文字短暫投上權力建築，使遊行、光與城市立面合成可移動的公共發聲裝置。",
+      "artistStatementSource": "https://www.koer.or.at/projects/das-normal-ist-irr-wir-sind-maechtiger-als-irrglaubt/",
+      "classicTitle": "das normal ist irr!｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12556/starsky_niemand_guerilla_osaka_423_2_1200.500x0.jpg",
+      "classicDesc": "投影游擊隊從博物館區移動到國會、總理府與城堡劇院，把平權、人權、女性主義文字短暫投上權力建築，使遊行、光與城市立面合成可移動的公共發聲裝置。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-09",
+      "dedupeKey": "art-2026-09-07-koer-wirwasser",
+      "name": "09｜GELATIN｜我們的水",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Helmut-Zilk-Park",
+        "Sonnwendviertel"
+      ],
+      "media": [
+        "噴泉藝術",
+        "互動雕塑",
+        "水地景"
+      ],
+      "works": "WirWasser｜2023",
+      "comment": "一圈介於人物與生物之間的彩色形體共同托住水池，中央水柱每日以不同色光升起；作品讓巴洛克噴泉的歡樂與水資源責任成為可坐、可玩、可共同維護的地景。",
+      "website": "https://www.koer.or.at/projects/wirwasser/",
+      "workPage": "https://www.koer.or.at/projects/wirwasser/",
+      "photo": "https://www.koer.or.at/site/assets/files/12402/kleiner_koer_wienerwasserbrunnen_-7400.500x0.jpg",
+      "artistStatement": "一圈介於人物與生物之間的彩色形體共同托住水池，中央水柱每日以不同色光升起；作品讓巴洛克噴泉的歡樂與水資源責任成為可坐、可玩、可共同維護的地景。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wirwasser/",
+      "classicTitle": "WirWasser｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12402/kleiner_koer_wienerwasserbrunnen_-7400.500x0.jpg",
+      "classicDesc": "一圈介於人物與生物之間的彩色形體共同托住水池，中央水柱每日以不同色光升起；作品讓巴洛克噴泉的歡樂與水資源責任成為可坐、可玩、可共同維護的地景。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "current-2026-09-07-10",
+      "dedupeKey": "art-2026-09-07-koer-open-street-gallery",
+      "name": "10｜SOON Art Studio 等｜露天街頭藝術藝廊",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Ottakring",
+        "Kendlerstraße"
+      ],
+      "media": [
+        "街頭藝術",
+        "壁畫",
+        "環境藝術"
+      ],
+      "works": "Open Street Art Gallery｜2023",
+      "comment": "八位藝術家把垃圾處理場約兩百平方公尺外牆變成策展式街頭藝廊，以不同圖像語言回應廢棄物、永續與城市環境教育。",
+      "website": "https://www.koer.or.at/projects/open-street-art-gallery/",
+      "workPage": "https://www.koer.or.at/projects/open-street-art-gallery/",
+      "photo": "https://www.koer.or.at/site/assets/files/12333/photo_oct_08_2023-_9_59_29_pm.500x0.jpg",
+      "artistStatement": "八位藝術家把垃圾處理場約兩百平方公尺外牆變成策展式街頭藝廊，以不同圖像語言回應廢棄物、永續與城市環境教育。",
+      "artistStatementSource": "https://www.koer.or.at/projects/open-street-art-gallery/",
+      "classicTitle": "Open Street Art Gallery｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12333/photo_oct_08_2023-_9_59_29_pm.500x0.jpg",
+      "classicDesc": "八位藝術家把垃圾處理場約兩百平方公尺外牆變成策展式街頭藝廊，以不同圖像語言回應廢棄物、永續與城市環境教育。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-global-2026-09-07-01",
+      "dedupeKey": "art-2026-09-07-koer-sound-karaoke",
+      "name": "01｜Sophie Bösker、Ana Mumladze Detering、Fabian Ritzi｜卡拉 OK 之聲",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Maria-Trapp-Platz",
+        "Seestadt Aspern"
+      ],
+      "media": [
+        "參與式表演",
+        "聲音藝術",
+        "城市記憶"
+      ],
+      "works": "Sound of Karaoke｜2023",
+      "comment": "居民在 Maria-Trapp-Platz 共同重演《真善美》歌曲並交換遷徙故事，讓好萊塢塑造的奧地利神話與今日多文化城市經驗正面碰撞。",
+      "website": "https://www.koer.or.at/projects/sound-of-karaoke/",
+      "workPage": "https://www.koer.or.at/projects/sound-of-karaoke/",
+      "photo": "https://www.koer.or.at/site/assets/files/12320/kleiner_pressebild_neu_c_sophie_boesker_2023.500x0.jpg",
+      "artistStatement": "居民在 Maria-Trapp-Platz 共同重演《真善美》歌曲並交換遷徙故事，讓好萊塢塑造的奧地利神話與今日多文化城市經驗正面碰撞。",
+      "artistStatementSource": "https://www.koer.or.at/projects/sound-of-karaoke/",
+      "classicTitle": "Sound of Karaoke｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12320/kleiner_pressebild_neu_c_sophie_boesker_2023.500x0.jpg",
+      "classicDesc": "居民在 Maria-Trapp-Platz 共同重演《真善美》歌曲並交換遷徙故事，讓好萊塢塑造的奧地利神話與今日多文化城市經驗正面碰撞。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-global-2026-09-07-02",
+      "dedupeKey": "art-2026-09-07-koer-water-mask-night",
+      "name": "02｜transparadiso｜水、面具、夜",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Penzing",
+        "Wien River"
+      ],
+      "media": [
+        "城市步行",
+        "地景表演",
+        "直接城市主義"
+      ],
+      "works": "Water, Mask, Night｜2023",
+      "comment": "三次以水系、城市替身與夜間霓虹為主題的步行和表演，讀取缺乏單一中心的 Penzing，並把藝術轉成長期介入都市規劃的研究工具。",
+      "website": "https://www.koer.or.at/projects/wasser-maske-nacht/",
+      "workPage": "https://www.koer.or.at/projects/wasser-maske-nacht/",
+      "photo": "https://www.koer.or.at/site/assets/files/12372/harry_glu_eck-shell-tankstelle_img_1521med_kleiner.500x0.jpg",
+      "artistStatement": "三次以水系、城市替身與夜間霓虹為主題的步行和表演，讀取缺乏單一中心的 Penzing，並把藝術轉成長期介入都市規劃的研究工具。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wasser-maske-nacht/",
+      "classicTitle": "Water, Mask, Night｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12372/harry_glu_eck-shell-tankstelle_img_1521med_kleiner.500x0.jpg",
+      "classicDesc": "三次以水系、城市替身與夜間霓虹為主題的步行和表演，讀取缺乏單一中心的 Penzing，並把藝術轉成長期介入都市規劃的研究工具。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-global-2026-09-07-03",
+      "dedupeKey": "art-2026-09-07-koer-falsified-maps",
+      "name": "03｜Cosima Terrasse｜做過記號的地圖",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Viktor-Adler-Markt",
+        "Alsergrund"
+      ],
+      "media": [
+        "數位地圖",
+        "城市步行",
+        "資料藝術"
+      ],
+      "works": "Gezinkte Karten｜2023–2025",
+      "comment": "藝術家與資料科學家以 Street View、評分和評論引導觀眾走向城市最好與最差評地點，揭露演算法地圖如何被商業利益和評價經濟共同塑形。",
+      "website": "https://www.koer.or.at/projects/gezinkte-karten/",
+      "workPage": "https://www.koer.or.at/projects/gezinkte-karten/",
+      "photo": "https://www.koer.or.at/site/assets/files/12361/gezinkte_karten_videostill_c_cosima_terrasse_1.500x0.jpg",
+      "artistStatement": "藝術家與資料科學家以 Street View、評分和評論引導觀眾走向城市最好與最差評地點，揭露演算法地圖如何被商業利益和評價經濟共同塑形。",
+      "artistStatementSource": "https://www.koer.or.at/projects/gezinkte-karten/",
+      "classicTitle": "Gezinkte Karten｜2023–2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12361/gezinkte_karten_videostill_c_cosima_terrasse_1.500x0.jpg",
+      "classicDesc": "藝術家與資料科學家以 Street View、評分和評論引導觀眾走向城市最好與最差評地點，揭露演算法地圖如何被商業利益和評價經濟共同塑形。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-global-2026-09-07-04",
+      "dedupeKey": "art-2026-09-07-koer-how-to-disappear",
+      "name": "04｜Total Refusal｜如何消失",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Heldenplatz",
+        "Deserters Memorial"
+      ],
+      "media": [
+        "擴增實境",
+        "遊戲影像",
+        "反戰藝術"
+      ],
+      "works": "How to Disappear｜2021",
+      "comment": "作品在逃兵紀念地透過網頁擴增實境播放由電玩《戰地風雲 V》挪用而成的影片，把違反遊戲規則的逃離動作轉化為對戰爭、服從與抵抗的公共思考。",
+      "website": "https://www.koer.or.at/projects/how-to-disappear/",
+      "workPage": "https://www.koer.or.at/projects/how-to-disappear/",
+      "photo": "https://www.koer.or.at/site/assets/files/12096/02_bytotalrefusal.500x0.jpg",
+      "artistStatement": "作品在逃兵紀念地透過網頁擴增實境播放由電玩《戰地風雲 V》挪用而成的影片，把違反遊戲規則的逃離動作轉化為對戰爭、服從與抵抗的公共思考。",
+      "artistStatementSource": "https://www.koer.or.at/projects/how-to-disappear/",
+      "classicTitle": "How to Disappear｜2021",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12096/02_bytotalrefusal.500x0.jpg",
+      "classicDesc": "作品在逃兵紀念地透過網頁擴增實境播放由電玩《戰地風雲 V》挪用而成的影片，把違反遊戲規則的逃離動作轉化為對戰爭、服從與抵抗的公共思考。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-global-2026-09-07-05",
+      "dedupeKey": "art-2026-09-07-koer-while-no-one-watching",
+      "name": "05｜Alex Deutinger、Alexander Gottfarb｜無人注視時",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Floridsdorf",
+        "Pius-Parsch-Platz"
+      ],
+      "media": [
+        "行為藝術",
+        "臨時建築",
+        "監控批判"
+      ],
+      "works": "While No One Is Watching｜2023",
+      "comment": "兩位表演者以防暴警察裝備住進由群眾管制欄搭成的六公尺監控塔，連續四天巡邏並與路人互動，反問軍事化警力究竟如何改變安全感與公共空間。",
+      "website": "https://www.koer.or.at/projects/while-no-one-is-watching/",
+      "workPage": "https://www.koer.or.at/projects/while-no-one-is-watching/",
+      "photo": "https://www.koer.or.at/site/assets/files/12111/kleiner_09_while_no_one_is_watching_nikola_milatovic_2020.500x0.jpg",
+      "artistStatement": "兩位表演者以防暴警察裝備住進由群眾管制欄搭成的六公尺監控塔，連續四天巡邏並與路人互動，反問軍事化警力究竟如何改變安全感與公共空間。",
+      "artistStatementSource": "https://www.koer.or.at/projects/while-no-one-is-watching/",
+      "classicTitle": "While No One Is Watching｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12111/kleiner_09_while_no_one_is_watching_nikola_milatovic_2020.500x0.jpg",
+      "classicDesc": "兩位表演者以防暴警察裝備住進由群眾管制欄搭成的六公尺監控塔，連續四天巡邏並與路人互動，反問軍事化警力究竟如何改變安全感與公共空間。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-german-2026-09-07-01",
+      "dedupeKey": "art-2026-09-07-museum-same-boat",
+      "name": "01｜Inges Idee｜同舟／國際水域",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Parow-Stralsund",
+      "cityKeywords": [
+        "Parow",
+        "Stralsund",
+        "施特拉爾松",
+        "Marinetechnikschule"
+      ],
+      "media": [
+        "場域雕塑",
+        "公共藝術",
+        "航海意象"
+      ],
+      "works": "Im selben Boot／In internationalen Gewässern｜2003",
+      "comment": "翻倒在草地上的藍色密閉船體介於大型玩具、沉船和異物之間，以幽默的尺度錯置回應海軍技術學校的制度、海洋與共同命運。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/e204810a76c60058d3acd9e758fa64df31c1517a.jpg",
+      "artistStatement": "翻倒在草地上的藍色密閉船體介於大型玩具、沉船和異物之間，以幽默的尺度錯置回應海軍技術學校的制度、海洋與共同命運。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern",
+      "classicTitle": "Im selben Boot／In internationalen Gewässern｜2003",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/e204810a76c60058d3acd9e758fa64df31c1517a.jpg",
+      "classicDesc": "翻倒在草地上的藍色密閉船體介於大型玩具、沉船和異物之間，以幽默的尺度錯置回應海軍技術學校的制度、海洋與共同命運。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-german-2026-09-07-02",
+      "dedupeKey": "art-2026-09-07-museum-famous-libraries",
+      "name": "02｜Candida Höfer｜著名圖書館",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Frankfurt am Main",
+      "cityKeywords": [
+        "Frankfurt am Main",
+        "法蘭克福",
+        "Deutsche Nationalbibliothek"
+      ],
+      "media": [
+        "攝影",
+        "建築整合",
+        "知識空間"
+      ],
+      "works": "Berühmte Bibliotheken｜1996",
+      "comment": "一組冷靜而精確的建築攝影把世界圖書館從修道院式封閉書庫帶到明亮公共閱覽室，並在德國國家圖書館形成關於知識儲存與空間制度的比較圖譜。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/beruhmte-bibliotheken",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/beruhmte-bibliotheken",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/62ae1ca87f2aefb3ce1e137869ff5306fa8bd6f0.jpg",
+      "artistStatement": "一組冷靜而精確的建築攝影把世界圖書館從修道院式封閉書庫帶到明亮公共閱覽室，並在德國國家圖書館形成關於知識儲存與空間制度的比較圖譜。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/beruhmte-bibliotheken",
+      "classicTitle": "Berühmte Bibliotheken｜1996",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/62ae1ca87f2aefb3ce1e137869ff5306fa8bd6f0.jpg",
+      "classicDesc": "一組冷靜而精確的建築攝影把世界圖書館從修道院式封閉書庫帶到明亮公共閱覽室，並在德國國家圖書館形成關於知識儲存與空間制度的比較圖譜。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-german-2026-09-07-03",
+      "dedupeKey": "art-2026-09-07-museum-red-underwing",
+      "name": "03｜Renate Anger｜紅帶蛾",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Bendlerblock",
+        "Stauffenbergsaal"
+      ],
+      "media": [
+        "攝影裝置",
+        "歷史空間",
+        "建築藝術"
+      ],
+      "works": "Ein Falter: Catocala nupta／Rotes Ordensband｜2002",
+      "comment": "八張蛾翅影像以詩性而非英雄雕像回應 Bendlerblock 的抵抗史；脆弱、偽裝與紅色閃現，使會議室成為可持續閱讀歷史的內部地景。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-falter-catocala-nupta-rotes-ordensband",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-falter-catocala-nupta-rotes-ordensband",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/2997ea2679adb86b0126dc423842ea6f2e3a4aac.jpg",
+      "artistStatement": "八張蛾翅影像以詩性而非英雄雕像回應 Bendlerblock 的抵抗史；脆弱、偽裝與紅色閃現，使會議室成為可持續閱讀歷史的內部地景。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-falter-catocala-nupta-rotes-ordensband",
+      "classicTitle": "Ein Falter: Catocala nupta／Rotes Ordensband｜2002",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/2997ea2679adb86b0126dc423842ea6f2e3a4aac.jpg",
+      "classicDesc": "八張蛾翅影像以詩性而非英雄雕像回應 Bendlerblock 的抵抗史；脆弱、偽裝與紅色閃現，使會議室成為可持續閱讀歷史的內部地景。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-german-2026-09-07-04",
+      "dedupeKey": "art-2026-09-07-museum-grande-fenetre",
+      "name": "04｜Daniel Buren｜大窗",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Wilhelmstraße",
+        "BMAS"
+      ],
+      "media": [
+        "場域特定",
+        "色彩玻璃",
+        "建築整合"
+      ],
+      "works": "La Grande Fenêtre｜2001",
+      "comment": "Buren 以條紋、色彩與玻璃改寫聯邦勞工與社會部入口大廳的網格，讓新舊建築的連接處不只是通行空間，也成為觀看歷史權力建築的巨大框景。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/fc43379f8af4bea0f4b69fd6a4f02a808a710ea9.jpg",
+      "artistStatement": "Buren 以條紋、色彩與玻璃改寫聯邦勞工與社會部入口大廳的網格，讓新舊建築的連接處不只是通行空間，也成為觀看歷史權力建築的巨大框景。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "classicTitle": "La Grande Fenêtre｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/fc43379f8af4bea0f4b69fd6a4f02a808a710ea9.jpg",
+      "classicDesc": "Buren 以條紋、色彩與玻璃改寫聯邦勞工與社會部入口大廳的網格，讓新舊建築的連接處不只是通行空間，也成為觀看歷史權力建築的巨大框景。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-07",
+      "id": "classic-german-2026-09-07-05",
+      "dedupeKey": "art-2026-09-07-museum-all-over-structures",
+      "name": "05｜François Morellet｜遍佈結構",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Hamburg",
+      "cityKeywords": [
+        "Hamburg",
+        "漢堡",
+        "Helmut-Schmidt-Universität"
+      ],
+      "media": [
+        "幾何壁畫",
+        "建築整合",
+        "色彩系統"
+      ],
+      "works": "All-Over Strukturen｜1976",
+      "comment": "紅藍線條與十字形依幾何規則覆蓋八角形餐廳核心，隨行走產生密度與色彩主導的變化，是具體藝術把建築構造轉譯為完整視覺系統的經典案例。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/all-over-strukturen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/all-over-strukturen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/623af61015074a8ff235f3de622a92a0fab9d195.jpg",
+      "artistStatement": "紅藍線條與十字形依幾何規則覆蓋八角形餐廳核心，隨行走產生密度與色彩主導的變化，是具體藝術把建築構造轉譯為完整視覺系統的經典案例。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/all-over-strukturen",
+      "classicTitle": "All-Over Strukturen｜1976",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/623af61015074a8ff235f3de622a92a0fab9d195.jpg",
+      "classicDesc": "紅藍線條與十字形依幾何規則覆蓋八角形餐廳核心，隨行走產生密度與色彩主導的變化，是具體藝術把建築構造轉譯為完整視覺系統的經典案例。",
+      "relatedByCity": [
+
+      ]
+    }
+  ]
+}
