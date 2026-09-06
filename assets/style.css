@@ -535,6 +535,20 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
 #global-exhibitions .archive-group-head h2::after{
   content:"";width:9px;height:9px;border-radius:50%;background:var(--blue);
 }
+#landmark-events .archive-group-head{
+  border-bottom:2px solid var(--ink);
+}
+#landmark-events .archive-group-head h2{
+  display:flex;align-items:center;gap:12px;
+}
+#landmark-events .archive-group-head h2::after{
+  content:"LANDMARK";
+  display:inline-flex;align-items:center;
+  min-height:20px;padding:0 7px;
+  background:var(--ink);color:#fff;
+  font-family:var(--sans);font-size:8px;font-weight:700;
+  letter-spacing:.14em;
+}
 .archive-group-grid{
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(285px,1fr));
@@ -616,12 +630,18 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   font-size:10px;letter-spacing:.16em;
 }
 .card-meta .tiermark.competition,
-.card-meta .tiermark.exhibition{
+.card-meta .tiermark.exhibition,
+.card-meta .tiermark.landmark{
   padding:3px 6px;
   color:#fff;
 }
 .card-meta .tiermark.competition{background:#111}
 .card-meta .tiermark.exhibition{background:var(--blue)}
+.card-meta .tiermark.landmark{background:var(--ink);box-shadow:inset 0 -2px 0 var(--blue)}
+.badge.landmark{background:var(--ink);color:#fff;border-color:var(--ink);box-shadow:inset 0 -2px 0 var(--blue)}
+.landmark-detail{border-left:3px solid var(--blue);padding-left:16px}
+.landmark-focus{display:flex;margin-top:13px}
+.landmark-importance{margin:14px 0 0;font-family:var(--serif);font-size:18px;line-height:1.65}
 .city-tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}
 .city-tags i{font-style:normal;font-size:10px;letter-spacing:.04em;color:var(--blue)}
 .badge.deadline{background:#111;color:#fff;border-color:#111}
@@ -851,7 +871,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
 }
 .scope-end .scope-list{
   display:grid;
-  grid-template-columns:repeat(4,minmax(0,1fr));
+  grid-template-columns:repeat(5,minmax(0,1fr));
   gap:0 clamp(24px,4vw,60px);
   margin-top:20px;
   border-bottom:1px solid var(--hair-soft);
@@ -970,7 +990,8 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   .masthead-note .site-network{grid-template-columns:1fr;gap:8px}
   .topbar-inner{gap:12px}
   .toplinks{gap:10px}
-  .toplinks.left a:nth-child(2){display:none}
+  .toplinks.left a:nth-child(2),
+  .toplinks.left a:nth-child(4){display:none}
   .brand{font-size:12px;letter-spacing:.06em;gap:7px}
 }
 @media (max-width:560px){

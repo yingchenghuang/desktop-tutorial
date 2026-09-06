@@ -156,6 +156,10 @@
       admission: text(raw.admission),
       curatorStatement: text(raw.curatorStatement),
       curatorStatementSource: text(raw.curatorStatementSource),
+      founded: text(raw.founded),
+      frequency: text(raw.frequency),
+      focusAreas: toArray(raw.focusAreas),
+      importance: text(raw.importance),
       relatedByCity: toArray(raw.relatedByCity),
       cityKeywords: toArray(raw.cityKeywords).concat(cityKeywords(raw)).filter(function (v, i, a) { return a.indexOf(v) === i; }),
       rank: parsed.rank,
@@ -167,6 +171,7 @@
       entry.artistStatement,
       entry.curatorStatement, entry.exhibitionType, entry.exhibitionStatus, entry.edition,
       entry.curator, entry.venue, entry.admission, entry.startDate, entry.endDate,
+      entry.founded, entry.frequency, entry.focusAreas.join(' '), entry.importance,
       entry.classicTitle, entry.classicDesc, entry.category, entry.tier, entry.region,
       entry.status, entry.media.join(' '), entry.cityKeywords.join(' '), entry.deadlineLabel
     ].join(' ').toLowerCase();
@@ -200,6 +205,7 @@
   function rankWeight(e) {
     if (e.rank) return parseInt(e.rank, 10);
     if (e.tier === '動態情報層') return 50;
+    if (e.tier === '全球指標藝術節展') return 60;
     if (e.tier === '全球重要展覽') return 70;
     return 120;
   }
@@ -267,7 +273,8 @@
     var rank = e.rank ? esc(e.rank) : String(i + 1).padStart(2, '0');
     var tier = e.tier === '動態情報層' ? '<em class="tiermark">動態</em>' :
       (e.tier === '競圖資料庫' ? '<em class="tiermark competition">公開徵選</em>' :
-        (e.tier === '全球重要展覽' ? '<em class="tiermark exhibition">重要展覽</em>' : ''));
+        (e.tier === '全球重要展覽' ? '<em class="tiermark exhibition">重要展覽</em>' :
+          (e.tier === '全球指標藝術節展' ? '<em class="tiermark landmark">指標節展</em>' : '')));
     var cities = e.cityKeywords.length ? '<span class="city-tags">' + e.cityKeywords.slice(0, 2).map(function (city) { return '<i>#' + esc(city) + '</i>'; }).join('') + '</span>' : '';
     var cardDate = e.deadlineLabel ? e.deadlineLabel :
       (e.startDate && e.endDate ? displayDate(e.startDate) + '—' + displayDate(e.endDate) : displayDate(e.updated));
@@ -319,6 +326,12 @@
         entries: list.filter(function (e) {
           return e.tier === '經典檔案庫' && isGermanClassic(e);
         })
+      },
+      {
+        id: 'landmark-events',
+        title: '全球指標藝術節展',
+        note: 'Landmark festivals & biennials',
+        entries: list.filter(function (e) { return e.tier === '全球指標藝術節展'; })
       },
       {
         id: 'global-exhibitions',
@@ -451,7 +464,8 @@
     var e = DATA.find(function (x) { return x.id === id; });
     if (!e) return;
 
-    var tierBadgeClass = e.tier === '全球重要展覽' ? 'exhibition' : (e.tier === '經典檔案庫' ? 'classic' : 'dyn');
+    var tierBadgeClass = e.tier === '全球指標藝術節展' ? 'landmark' :
+      (e.tier === '全球重要展覽' ? 'exhibition' : (e.tier === '經典檔案庫' ? 'classic' : 'dyn'));
     var badges = '<span class="badge ' + tierBadgeClass + '">' + esc(e.tier) + '</span>' +
       '<span class="badge ' + statusClass(e.status) + '">' + esc(e.status) + '</span>' +
       (e.deadlineLabel ? '<span class="badge deadline">' + esc(e.deadlineLabel) + '</span>' : '') +
@@ -485,6 +499,16 @@
           '主辦 ' + (e.organizer || '未標記'), '策展 ' + (e.curator || '未標記'),
           '場地 ' + (e.venue || '未標記'), '入場 ' + (e.admission || '依官方公告')]
           .map(function (value) { return esc(value); }).join('<em>·</em>') + '</p></div>'
+      : '';
+
+    var landmarkDetails = e.tier === '全球指標藝術節展'
+      ? '<div class="block landmark-detail"><div class="block-label">節展定位</div><p class="works-line">' +
+        [e.exhibitionType || '國際藝術節展', '創辦 ' + (e.founded || '未標記'),
+          '頻率 ' + (e.frequency || '依官方公告'), '主辦 ' + (e.organizer || '未標記'),
+          '場地 ' + (e.venue || '未標記')]
+          .map(function (value) { return esc(value); }).join('<em>·</em>') + '</p>' +
+        (e.focusAreas.length ? '<span class="tags landmark-focus">' + e.focusAreas.map(function (area) { return '<span class="tag">' + esc(area) + '</span>'; }).join('') + '</span>' : '') +
+        (e.importance ? '<p class="landmark-importance">' + esc(e.importance) + '</p>' : '') + '</div>'
       : '';
 
     var artistStatement = e.artistStatement
@@ -539,7 +563,7 @@
       fig +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      curatorStatement + artistStatement + works + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
+      curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
@@ -654,7 +678,9 @@
     fetch('data/exhibitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/competitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/competition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
-    fetch('data/exhibition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    fetch('data/exhibition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/landmark-events.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/landmark-event-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
   ])
     .then(function (payloads) {
       var json = payloads[0];
@@ -663,9 +689,12 @@
       META = json.meta || {};
       META.competitionManifestVersion = payloads[3].version || '';
       META.exhibitionManifestVersion = payloads[4].version || '';
+      META.landmarkEventManifestVersion = payloads[6].version || '';
       META.exhibitionTotal = (exhibitions.entries || []).length;
+      META.landmarkEventTotal = (payloads[5].entries || []).length;
       var rawEntries = (Array.isArray(json) ? json : (json.entries || []))
         .concat(exhibitions.entries || [])
+        .concat(payloads[5].entries || [])
         .concat((competitions.entries || []).filter(function (entry) { return !isExpired(entry); }));
       DATA = rawEntries.map(normalizeEntry).filter(function (e) { return e.name && e.name !== '未命名條目'; });
       DATA.forEach(function (entry) {
