@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-07-public-art-r63",
-  "generatedAt": "2026-09-07T05:00:00+08:00",
+  "version": "2026-09-08-public-art-r64",
+  "generatedAt": "2026-09-08T04:00:00+08:00",
   "files": [
     "backfill-september-20260901.json",
     "backfill-september-20260902.json",
@@ -8,13 +8,14 @@
     "backfill-september-20260904.json",
     "backfill-september-20260905.json",
     "backfill-september-20260906.json",
-    "backfill-september-20260907.json"
+    "backfill-september-20260907.json",
+    "backfill-september-20260908.json"
   ],
-  "expectedEntries": 140,
-  "statementEntries": 140,
-  "statementSourceEntries": 140,
+  "expectedEntries": 160,
+  "statementEntries": 160,
+  "statementSourceEntries": 160,
   "statementBacklog": 0,
-  "imageEntries": 140,
+  "imageEntries": 160,
   "imageBacklog": 0,
-  "note": "截至 2026-09-07 累計 140 則；今日新增 20 則公共藝術（10／5／5）。獨立稽核後以三件永久作品替換已結束之暫時活動。"
+  "note": "截至 2026-09-08 累計 160 則；今日新增 20 則公共藝術（10／5／5），已套用非傳統紀念碑選材規則。"
 }

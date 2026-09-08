@@ -27,7 +27,8 @@ def body(e,image,extra=[])
 end
 
 def common(e,image)
-  {"名稱"=>e["name"],"類別"=>e["category"],"來源狀態"=>"官方來源","層級"=>e["tier"],"地區"=>e["region"],"國家地區"=>e["country"],"城市關鍵字"=>e.fetch("cityKeywords",[]).join("、"),"媒介類型"=>notion_media(e.fetch("media",[])),"代表作"=>e["works"],"重點短評"=>e["comment"],"官網連結"=>e["website"],"圖片/作品頁"=>e["workPage"]||e["website"],"個人照片"=>image,"創作者創作論述"=>e["artistStatement"]||e["curatorStatement"]||e["comment"],"創作論述來源"=>e["artistStatementSource"]||e["curatorStatementSource"]||e["website"],"去重Key"=>e["dedupeKey"],"同城關聯"=>e.fetch("relatedByCity",[]).join("、"),"經典作品名稱"=>e["classicTitle"],"經典作品圖"=>e["classicImage"]||image,"經典作品詳介"=>e["classicDesc"]||e["comment"],"date:資訊更新日期:start"=>e["updated"],"date:資訊更新日期:is_datetime"=>0}
+  category=e["category"]=="全球重要展覽" ? "國際展覽" : e["category"]
+  {"名稱"=>e["name"],"類別"=>category,"來源狀態"=>"官方來源","層級"=>e["tier"],"地區"=>e["region"],"國家地區"=>e["country"],"城市關鍵字"=>e.fetch("cityKeywords",[]).join("、"),"媒介類型"=>notion_media(e.fetch("media",[])),"代表作"=>e["works"],"重點短評"=>e["comment"],"官網連結"=>e["website"],"圖片/作品頁"=>e["workPage"]||e["website"],"個人照片"=>image,"創作者創作論述"=>e["artistStatement"]||e["curatorStatement"]||e["comment"],"創作論述來源"=>e["artistStatementSource"]||e["curatorStatementSource"]||e["website"],"去重Key"=>e["dedupeKey"],"同城關聯"=>e.fetch("relatedByCity",[]).join("、"),"經典作品名稱"=>e["classicTitle"],"經典作品圖"=>e["classicImage"]||image,"經典作品詳介"=>e["classicDesc"]||e["comment"],"date:資訊更新日期:start"=>e["updated"],"date:資訊更新日期:is_datetime"=>0}
 end
 
 def standard_page(e)

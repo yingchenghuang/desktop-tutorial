@@ -1,0 +1,718 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-08T04:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-08",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte 官方頁",
+    "selectionPolicy": "優先地景、生態、參與、聲光、動態、數位與建築整合作品；不以傳統人物、胸像、騎馬像或基座式紀念碑湊數。",
+    "note": "9/8 固定 10＋5＋5；另有德國公開徵選 5 則與全球重要展覽 5 篇。",
+    "linkAudit": {
+      "checkedAt": "2026-09-08T04:00:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "實際瀏覽器逐頁開啟"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-08T04:00:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方圖片逐一載入驗證"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-01",
+      "dedupeKey": "art-2026-09-08-koer-alte-rollt-auf-zeit",
+      "name": "01｜IG Bildende Kunst、ZAK｜老婦人準時上路",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Westbahnhof",
+        "MuseumsQuartier"
+      ],
+      "media": [
+        "行動藝術",
+        "參與式藝術",
+        "城市遊行"
+      ],
+      "works": "Die Alte rollt auf Zeit｜2026",
+      "comment": "藝術工作者以五公里的移動行動穿越維也納，從西站、Urban-Loritz-Platz 到博物館區，把年齡、勞動與公共文化政策轉化為一場可被城市共同看見的團結路線。",
+      "website": "https://www.koer.or.at/projects/die-alte-rollt-auf-zeit/",
+      "workPage": "https://www.koer.or.at/projects/die-alte-rollt-auf-zeit/",
+      "photo": "https://www.koer.or.at/site/assets/files/15471/02_visual-vertical-ohnelogos-100.500x0.jpg",
+      "artistStatement": "藝術工作者以五公里的移動行動穿越維也納，從西站、Urban-Loritz-Platz 到博物館區，把年齡、勞動與公共文化政策轉化為一場可被城市共同看見的團結路線。",
+      "artistStatementSource": "https://www.koer.or.at/projects/die-alte-rollt-auf-zeit/",
+      "classicTitle": "Die Alte rollt auf Zeit｜2026",
+      "classicImage": "https://www.koer.or.at/site/assets/files/15471/02_visual-vertical-ohnelogos-100.500x0.jpg",
+      "classicDesc": "藝術工作者以五公里的移動行動穿越維也納，從西站、Urban-Loritz-Platz 到博物館區，把年齡、勞動與公共文化政策轉化為一場可被城市共同看見的團結路線。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-02",
+      "dedupeKey": "art-2026-09-08-koer-chara",
+      "name": "02｜Kris Lemsalu｜Chará",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Graben"
+      ],
+      "media": [
+        "公共雕塑",
+        "女性主義藝術",
+        "身體政治"
+      ],
+      "works": "Chará｜2023",
+      "comment": "一座介於門、身體與神話生物之間的雕塑進入 Graben 商業街，以開放的孔洞和繁複材質打斷秩序整齊的歷史街景，讓性別、慾望與城市觀看彼此穿透。",
+      "website": "https://www.koer.or.at/projects/kunstplatz-graben-2023/",
+      "workPage": "https://www.koer.or.at/projects/kunstplatz-graben-2023/",
+      "photo": "https://www.koer.or.at/site/assets/files/12305/kleiner_koer_graben2023_-5998.500x0.jpg",
+      "artistStatement": "一座介於門、身體與神話生物之間的雕塑進入 Graben 商業街，以開放的孔洞和繁複材質打斷秩序整齊的歷史街景，讓性別、慾望與城市觀看彼此穿透。",
+      "artistStatementSource": "https://www.koer.or.at/projects/kunstplatz-graben-2023/",
+      "classicTitle": "Chará｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12305/kleiner_koer_graben2023_-5998.500x0.jpg",
+      "classicDesc": "一座介於門、身體與神話生物之間的雕塑進入 Graben 商業街，以開放的孔洞和繁複材質打斷秩序整齊的歷史街景，讓性別、慾望與城市觀看彼此穿透。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-03",
+      "dedupeKey": "art-2026-09-08-koer-level-zero",
+      "name": "03｜The Poetry of Donau City｜從零層出發",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Donau City"
+      ],
+      "media": [
+        "城市研究",
+        "聲音藝術",
+        "場域介入"
+      ],
+      "works": "Aus der Null-Ebene｜2023",
+      "comment": "計畫從多層化的 Donau City 地面系統出發，以藝術行動讀取辦公塔樓、平台、風與人的流動，讓看似無人的現代城市顯露日常使用與詩性縫隙。",
+      "website": "https://www.koer.or.at/projects/aus-der-null-ebene/",
+      "workPage": "https://www.koer.or.at/projects/aus-der-null-ebene/",
+      "photo": "https://www.koer.or.at/site/assets/files/12196/kleiner_nullebene_300dpi.500x0.jpg",
+      "artistStatement": "計畫從多層化的 Donau City 地面系統出發，以藝術行動讀取辦公塔樓、平台、風與人的流動，讓看似無人的現代城市顯露日常使用與詩性縫隙。",
+      "artistStatementSource": "https://www.koer.or.at/projects/aus-der-null-ebene/",
+      "classicTitle": "Aus der Null-Ebene｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12196/kleiner_nullebene_300dpi.500x0.jpg",
+      "classicDesc": "計畫從多層化的 Donau City 地面系統出發，以藝術行動讀取辦公塔樓、平台、風與人的流動，讓看似無人的現代城市顯露日常使用與詩性縫隙。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-04",
+      "dedupeKey": "art-2026-09-08-koer-sleeping-horse",
+      "name": "04｜Heike Mutter、Ulrich Genth｜沉睡的馬",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Reumannplatz"
+      ],
+      "media": [
+        "公共雕塑",
+        "互動藝術",
+        "城市地景"
+      ],
+      "works": "Sleeping Horse｜2023",
+      "comment": "躺臥的馬不再把英雄高舉於基座，而以疲憊、脆弱又可親近的姿態貼近廣場生活，反轉傳統騎馬紀念物的權力視角。",
+      "website": "https://www.koer.or.at/projects/sleeping-horse/",
+      "workPage": "https://www.koer.or.at/projects/sleeping-horse/",
+      "photo": "https://www.koer.or.at/site/assets/files/12231/kleiner_koer_muttergenth_pferd_reumannplatz_-5459_iris_ranzinger.500x0.jpg",
+      "artistStatement": "躺臥的馬不再把英雄高舉於基座，而以疲憊、脆弱又可親近的姿態貼近廣場生活，反轉傳統騎馬紀念物的權力視角。",
+      "artistStatementSource": "https://www.koer.or.at/projects/sleeping-horse/",
+      "classicTitle": "Sleeping Horse｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12231/kleiner_koer_muttergenth_pferd_reumannplatz_-5459_iris_ranzinger.500x0.jpg",
+      "classicDesc": "躺臥的馬不再把英雄高舉於基座，而以疲憊、脆弱又可親近的姿態貼近廣場生活，反轉傳統騎馬紀念物的權力視角。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-05",
+      "dedupeKey": "art-2026-09-08-koer-permafurie",
+      "name": "05｜Natalie Deewan｜永久狂怒／香水店",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "文字藝術",
+        "氣味藝術",
+        "公共介入"
+      ],
+      "works": "PERMAFURIE／PARFUMERIE｜2023",
+      "comment": "作品以近似店招與香氛品牌的文字錯位，把被商品化的感官經驗導向城市裡持續存在的憤怒；語言成為同時誘人又帶刺的公共表面。",
+      "website": "https://www.koer.or.at/projects/permafurie-parfumerie/",
+      "workPage": "https://www.koer.or.at/projects/permafurie-parfumerie/",
+      "photo": "https://www.koer.or.at/site/assets/files/12139/kleiner_permafurie_22_5_2023_montage_ohne_neu_rgb_cut_hell.500x0.jpg",
+      "artistStatement": "作品以近似店招與香氛品牌的文字錯位，把被商品化的感官經驗導向城市裡持續存在的憤怒；語言成為同時誘人又帶刺的公共表面。",
+      "artistStatementSource": "https://www.koer.or.at/projects/permafurie-parfumerie/",
+      "classicTitle": "PERMAFURIE／PARFUMERIE｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12139/kleiner_permafurie_22_5_2023_montage_ohne_neu_rgb_cut_hell.500x0.jpg",
+      "classicDesc": "作品以近似店招與香氛品牌的文字錯位，把被商品化的感官經驗導向城市裡持續存在的憤怒；語言成為同時誘人又帶刺的公共表面。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-06",
+      "dedupeKey": "art-2026-09-08-koer-siehe-da",
+      "name": "06｜Heimo Zobernig｜看，那裡",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "場域裝置",
+        "建築介入",
+        "觀念藝術"
+      ],
+      "works": "siehe da｜2023",
+      "comment": "簡短命令式語句把觀看本身變成作品：觀眾被提醒停下來辨認平時略過的建築、空隙與城市秩序，公共藝術不再只是新增物件，而是重新分配注意力。",
+      "website": "https://www.koer.or.at/projects/siehe-da/",
+      "workPage": "https://www.koer.or.at/projects/siehe-da/",
+      "photo": "https://www.koer.or.at/site/assets/files/12164/kleiner_siehe_da_jalalieh_zimmermann_100_fullsize.500x0.jpg",
+      "artistStatement": "簡短命令式語句把觀看本身變成作品：觀眾被提醒停下來辨認平時略過的建築、空隙與城市秩序，公共藝術不再只是新增物件，而是重新分配注意力。",
+      "artistStatementSource": "https://www.koer.or.at/projects/siehe-da/",
+      "classicTitle": "siehe da｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12164/kleiner_siehe_da_jalalieh_zimmermann_100_fullsize.500x0.jpg",
+      "classicDesc": "簡短命令式語句把觀看本身變成作品：觀眾被提醒停下來辨認平時略過的建築、空隙與城市秩序，公共藝術不再只是新增物件，而是重新分配注意力。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-07",
+      "dedupeKey": "art-2026-09-08-koer-cargo-vienna",
+      "name": "07｜Tracing Spaces｜CARGO VIENNA",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Nordwestbahnhof"
+      ],
+      "media": [
+        "城市研究",
+        "行動藝術",
+        "工業地景"
+      ],
+      "works": "CARGO VIENNA｜2023",
+      "comment": "藝術團隊以巴士、路線與現場敘事進入即將改造的西北貨運站，將物流地景、勞動記憶和大型都市更新放在同一條移動視線中。",
+      "website": "https://www.koer.or.at/projects/cargo-vienna/",
+      "workPage": "https://www.koer.or.at/projects/cargo-vienna/",
+      "photo": "https://www.koer.or.at/site/assets/files/12183/sujet_kleiner.500x0.jpg",
+      "artistStatement": "藝術團隊以巴士、路線與現場敘事進入即將改造的西北貨運站，將物流地景、勞動記憶和大型都市更新放在同一條移動視線中。",
+      "artistStatementSource": "https://www.koer.or.at/projects/cargo-vienna/",
+      "classicTitle": "CARGO VIENNA｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12183/sujet_kleiner.500x0.jpg",
+      "classicDesc": "藝術團隊以巴士、路線與現場敘事進入即將改造的西北貨運站，將物流地景、勞動記憶和大型都市更新放在同一條移動視線中。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-08",
+      "dedupeKey": "art-2026-09-08-koer-zeichen-der-zeit",
+      "name": "08｜KÖR Wien｜時代的標記",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "聲音導覽",
+        "歷史研究",
+        "城市步行"
+      ],
+      "works": "Zeichen der Zeit｜2023",
+      "comment": "聲音導覽帶領觀眾辨認 1934 至 1945 年間維也納公共藝術留下的政治痕跡，讓街道成為可以邊走邊校讀權力、宣傳與遺忘的檔案。",
+      "website": "https://www.koer.or.at/projects/zeichen-der-zeit/",
+      "workPage": "https://www.koer.or.at/projects/zeichen-der-zeit/",
+      "photo": "https://www.koer.or.at/site/assets/files/12069/planauschnitt_01.500x0.jpg",
+      "artistStatement": "聲音導覽帶領觀眾辨認 1934 至 1945 年間維也納公共藝術留下的政治痕跡，讓街道成為可以邊走邊校讀權力、宣傳與遺忘的檔案。",
+      "artistStatementSource": "https://www.koer.or.at/projects/zeichen-der-zeit/",
+      "classicTitle": "Zeichen der Zeit｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12069/planauschnitt_01.500x0.jpg",
+      "classicDesc": "聲音導覽帶領觀眾辨認 1934 至 1945 年間維也納公共藝術留下的政治痕跡，讓街道成為可以邊走邊校讀權力、宣傳與遺忘的檔案。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-09",
+      "dedupeKey": "art-2026-09-08-koer-wandertag-2",
+      "name": "09｜Christiane Peschek 等｜漫遊日第二版",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "城市步行",
+        "行為藝術",
+        "跨媒介"
+      ],
+      "works": "Wandertag Edition 2｜2023",
+      "comment": "四組藝術家以共同步行、聲音、表演和偶發遭遇重新編排行走節奏，使參與者從交通效率中抽離，將城市邊緣轉成臨時展場。",
+      "website": "https://www.koer.or.at/projects/wandertag-edition-2/",
+      "workPage": "https://www.koer.or.at/projects/wandertag-edition-2/",
+      "photo": "https://www.koer.or.at/site/assets/files/12090/01_coverbild_gesamt_kleiner.500x0.jpg",
+      "artistStatement": "四組藝術家以共同步行、聲音、表演和偶發遭遇重新編排行走節奏，使參與者從交通效率中抽離，將城市邊緣轉成臨時展場。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wandertag-edition-2/",
+      "classicTitle": "Wandertag Edition 2｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12090/01_coverbild_gesamt_kleiner.500x0.jpg",
+      "classicDesc": "四組藝術家以共同步行、聲音、表演和偶發遭遇重新編排行走節奏，使參與者從交通效率中抽離，將城市邊緣轉成臨時展場。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "current-2026-09-08-10",
+      "dedupeKey": "art-2026-09-08-koer-common-kingdom",
+      "name": "10｜Agnes Bakucz Canário｜共同王國",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "行為藝術",
+        "身體地景",
+        "社會參與"
+      ],
+      "works": "A COMMON KINGDOM｜2023",
+      "comment": "作品以身體、群聚與切割意象討論公共空間裡的共同性：兩道平行切口既像邊界，也像能被重新縫合的關係。",
+      "website": "https://www.koer.or.at/projects/a-common-kingdom/",
+      "workPage": "https://www.koer.or.at/projects/a-common-kingdom/",
+      "photo": "https://www.koer.or.at/site/assets/files/12041/a_common_kingdom_ankuendigung_1_c_josefin_sternbauer-_2022-1.500x0.jpg",
+      "artistStatement": "作品以身體、群聚與切割意象討論公共空間裡的共同性：兩道平行切口既像邊界，也像能被重新縫合的關係。",
+      "artistStatementSource": "https://www.koer.or.at/projects/a-common-kingdom/",
+      "classicTitle": "A COMMON KINGDOM｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12041/a_common_kingdom_ankuendigung_1_c_josefin_sternbauer-_2022-1.500x0.jpg",
+      "classicDesc": "作品以身體、群聚與切割意象討論公共空間裡的共同性：兩道平行切口既像邊界，也像能被重新縫合的關係。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-global-2026-09-08-01",
+      "dedupeKey": "art-2026-09-08-koer-lillies",
+      "name": "01｜Markus Linnenbrink｜首先思考百合",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "色彩裝置",
+        "建築整合",
+        "公共藝術"
+      ],
+      "works": "FIRSTOFALLPONDERTHELILLIES｜2023",
+      "comment": "高彩度色帶沿著建築與通行空間展開，把日常動線變成可步入的繪畫；標題以百合的停頓感對抗城市速度。",
+      "website": "https://www.koer.or.at/projects/zuallerersterwaegedielilien/",
+      "workPage": "https://www.koer.or.at/projects/zuallerersterwaegedielilien/",
+      "photo": "https://www.koer.or.at/site/assets/files/11850/230309_wienerlinien_linnebrink_-3537.500x0.jpg",
+      "artistStatement": "高彩度色帶沿著建築與通行空間展開，把日常動線變成可步入的繪畫；標題以百合的停頓感對抗城市速度。",
+      "artistStatementSource": "https://www.koer.or.at/projects/zuallerersterwaegedielilien/",
+      "classicTitle": "FIRSTOFALLPONDERTHELILLIES｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11850/230309_wienerlinien_linnebrink_-3537.500x0.jpg",
+      "classicDesc": "高彩度色帶沿著建築與通行空間展開，把日常動線變成可步入的繪畫；標題以百合的停頓感對抗城市速度。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-global-2026-09-08-02",
+      "dedupeKey": "art-2026-09-08-koer-franz-west-esteplatz",
+      "name": "02｜Franz West｜Esteplatz 五件戶外雕塑",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Esteplatz"
+      ],
+      "media": [
+        "公共雕塑",
+        "戶外裝置",
+        "抽象藝術"
+      ],
+      "works": "Franz West on Esteplatz｜2022",
+      "comment": "五件帶著手作痕跡與不穩定輪廓的雕塑散落廣場，使抽象形式不再是遙遠物件，而成為行走、停留與身體尺度的鄰居。",
+      "website": "https://www.koer.or.at/projects/franz-west-on-esteplatz/",
+      "workPage": "https://www.koer.or.at/projects/franz-west-on-esteplatz/",
+      "photo": "https://www.koer.or.at/site/assets/files/12014/franz-west-fuenfteilige-aussenskulptur_0425.500x0.jpg",
+      "artistStatement": "五件帶著手作痕跡與不穩定輪廓的雕塑散落廣場，使抽象形式不再是遙遠物件，而成為行走、停留與身體尺度的鄰居。",
+      "artistStatementSource": "https://www.koer.or.at/projects/franz-west-on-esteplatz/",
+      "classicTitle": "Franz West on Esteplatz｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12014/franz-west-fuenfteilige-aussenskulptur_0425.500x0.jpg",
+      "classicDesc": "五件帶著手作痕跡與不穩定輪廓的雕塑散落廣場，使抽象形式不再是遙遠物件，而成為行走、停留與身體尺度的鄰居。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-global-2026-09-08-03",
+      "dedupeKey": "art-2026-09-08-koer-heat",
+      "name": "03｜Anna Witt｜熱",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Mitterhofergasse",
+        "MIHO"
+      ],
+      "media": [
+        "影像藝術",
+        "熱感攝影",
+        "社會參與"
+      ],
+      "works": "HEAT｜2022",
+      "comment": "青少年的身體活動經熱感鏡頭轉為流動色塊並投映到社區中心，讓生理溫度、社會關係與城市共同體的『熱度』同時可見。",
+      "website": "https://www.koer.or.at/projects/heat/",
+      "workPage": "https://www.koer.or.at/projects/heat/",
+      "photo": "https://www.koer.or.at/site/assets/files/12005/still_heat_2_kopie.500x0.jpg",
+      "artistStatement": "青少年的身體活動經熱感鏡頭轉為流動色塊並投映到社區中心，讓生理溫度、社會關係與城市共同體的『熱度』同時可見。",
+      "artistStatementSource": "https://www.koer.or.at/projects/heat/",
+      "classicTitle": "HEAT｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12005/still_heat_2_kopie.500x0.jpg",
+      "classicDesc": "青少年的身體活動經熱感鏡頭轉為流動色塊並投映到社區中心，讓生理溫度、社會關係與城市共同體的『熱度』同時可見。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-global-2026-09-08-04",
+      "dedupeKey": "art-2026-09-08-koer-larger-forest",
+      "name": "04｜Oktavia Schreiner｜更大的森林",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "生態藝術",
+        "地景裝置",
+        "城市自然"
+      ],
+      "works": "Der größere Wald｜2022",
+      "comment": "作品以森林作為超越單株樹木的關係網，讓公共藝術關注土壤、庇蔭、氣候與城市棲地，而非以單一物件佔據空間。",
+      "website": "https://www.koer.or.at/projects/der-groessere-wald/",
+      "workPage": "https://www.koer.or.at/projects/der-groessere-wald/",
+      "photo": "https://www.koer.or.at/site/assets/files/11995/schreiner_4.500x0.jpg",
+      "artistStatement": "作品以森林作為超越單株樹木的關係網，讓公共藝術關注土壤、庇蔭、氣候與城市棲地，而非以單一物件佔據空間。",
+      "artistStatementSource": "https://www.koer.or.at/projects/der-groessere-wald/",
+      "classicTitle": "Der größere Wald｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11995/schreiner_4.500x0.jpg",
+      "classicDesc": "作品以森林作為超越單株樹木的關係網，讓公共藝術關注土壤、庇蔭、氣候與城市棲地，而非以單一物件佔據空間。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-global-2026-09-08-05",
+      "dedupeKey": "art-2026-09-08-koer-city-tours",
+      "name": "05｜Boris Sieverts｜城市旅行社",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "城市探索",
+        "導覽藝術",
+        "地景研究"
+      ],
+      "works": "Büro für Städtereisen｜2022",
+      "comment": "藝術家以非典型旅行社的方法帶人穿越基礎設施、荒地與城市接縫，把沒有被觀光命名的地帶轉成理解都市生成的核心景觀。",
+      "website": "https://www.koer.or.at/projects/buero-fuer-staedtereisen/",
+      "workPage": "https://www.koer.or.at/projects/buero-fuer-staedtereisen/",
+      "photo": "https://www.koer.or.at/site/assets/files/11965/sieverts_urbanize_camilla_reimitz-wachberger-_2022_1.500x0.jpg",
+      "artistStatement": "藝術家以非典型旅行社的方法帶人穿越基礎設施、荒地與城市接縫，把沒有被觀光命名的地帶轉成理解都市生成的核心景觀。",
+      "artistStatementSource": "https://www.koer.or.at/projects/buero-fuer-staedtereisen/",
+      "classicTitle": "Büro für Städtereisen｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11965/sieverts_urbanize_camilla_reimitz-wachberger-_2022_1.500x0.jpg",
+      "classicDesc": "藝術家以非典型旅行社的方法帶人穿越基礎設施、荒地與城市接縫，把沒有被觀光命名的地帶轉成理解都市生成的核心景觀。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-german-2026-09-08-01",
+      "dedupeKey": "art-2026-09-08-museum-lichtwald",
+      "name": "01｜Günter Ferdinand Ris｜光之林",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "Palais Schaumburg",
+        "Bundeskanzleramt"
+      ],
+      "media": [
+        "光藝術",
+        "動力裝置",
+        "建築整合"
+      ],
+      "works": "Lichtwald｜1976",
+      "comment": "垂直光體在建築環境中形成可穿行的人工樹林，以節奏、反射與亮度取代傳統紀念物的厚重體量。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwald",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwald",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/8bad278078b61e6c4035991fc7e05d9d2fc4dd0d.jpg",
+      "artistStatement": "垂直光體在建築環境中形成可穿行的人工樹林，以節奏、反射與亮度取代傳統紀念物的厚重體量。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwald",
+      "classicTitle": "Lichtwald｜1976",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/8bad278078b61e6c4035991fc7e05d9d2fc4dd0d.jpg",
+      "classicDesc": "垂直光體在建築環境中形成可穿行的人工樹林，以節奏、反射與亮度取代傳統紀念物的厚重體量。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-german-2026-09-08-02",
+      "dedupeKey": "art-2026-09-08-museum-mondfluss",
+      "name": "02｜Rebecca Horn｜月河",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "World Conference Center Bonn"
+      ],
+      "media": [
+        "水景藝術",
+        "光藝術",
+        "場域裝置"
+      ],
+      "works": "Mondfluss｜1997",
+      "comment": "水、月光般的反射與機械節奏把議政建築周邊轉為感知地景，柔化制度空間，也讓時間以緩慢流動的形式被看見。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mondfluss",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mondfluss",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/8cf1741c939efa4d06799b264994e6c3586f0e01.jpg",
+      "artistStatement": "水、月光般的反射與機械節奏把議政建築周邊轉為感知地景，柔化制度空間，也讓時間以緩慢流動的形式被看見。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mondfluss",
+      "classicTitle": "Mondfluss｜1997",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/8cf1741c939efa4d06799b264994e6c3586f0e01.jpg",
+      "classicDesc": "水、月光般的反射與機械節奏把議政建築周邊轉為感知地景，柔化制度空間，也讓時間以緩慢流動的形式被看見。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-german-2026-09-08-03",
+      "dedupeKey": "art-2026-09-08-museum-wasserwald",
+      "name": "03｜Norbert Kricke｜大水林",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Nürnberg",
+      "cityKeywords": [
+        "Nürnberg",
+        "紐倫堡",
+        "Bundesagentur für Arbeit"
+      ],
+      "media": [
+        "水景藝術",
+        "線性雕塑",
+        "建築整合"
+      ],
+      "works": "Großer Wasserwald｜1973",
+      "comment": "纖細金屬線與噴水把空氣描成一座透明森林；作品讓水的運動成為建築前景，而不是固定紀念形體。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosser-wasserwald",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosser-wasserwald",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/1ad06871cc39e4214adeb09cdca5bcf1f3ca2ced.jpg",
+      "artistStatement": "纖細金屬線與噴水把空氣描成一座透明森林；作品讓水的運動成為建築前景，而不是固定紀念形體。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosser-wasserwald",
+      "classicTitle": "Großer Wasserwald｜1973",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/1ad06871cc39e4214adeb09cdca5bcf1f3ca2ced.jpg",
+      "classicDesc": "纖細金屬線與噴水把空氣描成一座透明森林；作品讓水的運動成為建築前景，而不是固定紀念形體。",
+      "relatedByCity": [
+        "competition-2026-08-11-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-german-2026-09-08-04",
+      "dedupeKey": "art-2026-09-08-museum-ulmer-farblabor",
+      "name": "04｜Michael Jäger｜烏爾姆色彩實驗室",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Ulm",
+      "cityKeywords": [
+        "Ulm",
+        "烏爾姆",
+        "Science Park II"
+      ],
+      "media": [
+        "色彩裝置",
+        "建築整合",
+        "研究空間"
+      ],
+      "works": "Ulmer Farblabor｜2011",
+      "comment": "色彩系統與科研建築的表面、動線互相校準，使工作場所成為可變的視覺實驗室，也將實驗精神從室內延伸至公共通道。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ulmer-farblabor",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ulmer-farblabor",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/5e0b22f8553e4ded9e66ace60bf78e0dce2b1ba8.jpg",
+      "artistStatement": "色彩系統與科研建築的表面、動線互相校準，使工作場所成為可變的視覺實驗室，也將實驗精神從室內延伸至公共通道。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ulmer-farblabor",
+      "classicTitle": "Ulmer Farblabor｜2011",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/5e0b22f8553e4ded9e66ace60bf78e0dce2b1ba8.jpg",
+      "classicDesc": "色彩系統與科研建築的表面、動線互相校準，使工作場所成為可變的視覺實驗室，也將實驗精神從室內延伸至公共通道。",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "classic-german-2026-09-08-05",
+      "dedupeKey": "art-2026-09-08-museum-water-lenses",
+      "name": "05｜Adolf Luther｜水－透鏡整合：向莫內致敬",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "Bundestag"
+      ],
+      "media": [
+        "水景藝術",
+        "光學藝術",
+        "地景裝置"
+      ],
+      "works": "Integration Wasser-Linsen｜1988",
+      "comment": "水面與透鏡把天空、建築和行人的影像拆解為流動光場，以觀看的不確定性向莫內致敬，也將建築庭院轉成持續變化的感知地景。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-wasser-linsen-hommage-an-monet",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-wasser-linsen-hommage-an-monet",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/dc19cf45fc639388b49f6baff0d8207fb10c27db.jpg",
+      "artistStatement": "水面與透鏡把天空、建築和行人的影像拆解為流動光場，以觀看的不確定性向莫內致敬，也將建築庭院轉成持續變化的感知地景。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-wasser-linsen-hommage-an-monet",
+      "classicTitle": "Integration Wasser-Linsen｜1988",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/dc19cf45fc639388b49f6baff0d8207fb10c27db.jpg",
+      "classicDesc": "水面與透鏡把天空、建築和行人的影像拆解為流動光場，以觀看的不確定性向莫內致敬，也將建築庭院轉成持續變化的感知地景。",
+      "relatedByCity": [
+
+      ]
+    }
+  ]
+}

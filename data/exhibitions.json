@@ -1,14 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-09-07T04:00:00+08:00",
+    "generatedAt": "2026-09-08T04:00:00+08:00",
     "timezone": "Asia/Taipei",
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "dailyTarget": 5,
-    "totalEntries": 40,
+    "totalEntries": 45,
     "addedToday": 5,
-    "officialSourceEntries": 40,
-    "imageEntries": 40,
-    "note": "9/7 新增 5 篇全球重要展覽；全部使用官方來源與可載入圖片。"
+    "officialSourceEntries": 45,
+    "imageEntries": 45,
+    "note": "9/8 新增 5 篇全球重要展覽；全部使用官方來源與可載入圖片。"
   },
   "entries": [
     {
@@ -1653,6 +1653,238 @@
       "admission": "歷史展覽；主要場館當屆售票，學習與部分城市計畫另行公告",
       "curatorStatement": "STILL ALIVE 把『活著』視為持續發送、互相確認的行動；策展從地方產業與傳統文化往返全球危機，追問藝術在戰爭、疫情與災難中的生存可能。",
       "curatorStatementSource": "https://aichitriennale.jp/2022/en/index.html"
+    },
+    {
+      "category": "全球重要展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "exhibition-2026-09-08-01",
+      "dedupeKey": "exhibition-2024-venice-foreigners-everywhere",
+      "name": "01｜第 60 屆威尼斯國際藝術展｜Foreigners Everywhere",
+      "tier": "全球重要展覽",
+      "region": "全球",
+      "country": "義大利 / Venice",
+      "cityKeywords": [
+        "Venice",
+        "Venezia",
+        "威尼斯",
+        "Giardini",
+        "Arsenale"
+      ],
+      "media": [
+        "國際雙年展",
+        "當代藝術",
+        "去殖民策展"
+      ],
+      "works": "國際當代藝術雙年展｜2024-04-20–2024-11-24",
+      "comment": "主展把外來者、移民、流亡者、離散社群、原住民與酷兒藝術家的位置推到中心，重新審視現代主義美術史長期建立的內外邊界。",
+      "website": "https://www.labiennale.org/en/art/2024/60-esposizione",
+      "workPage": "https://www.labiennale.org/en/art/2024/60-esposizione",
+      "photo": "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2024/1300x600/pedrosa-ve2.jpg",
+      "artistStatement": "Foreigners Everywhere 同時指向人在異地的處境，也指出每個人內部都存在陌生者；策展以全球南方和被邊緣化的現代主義系譜重寫國際大展的觀看中心。",
+      "artistStatementSource": "https://www.labiennale.org/en/art/2024/60-esposizione",
+      "classicTitle": "第 60 屆威尼斯國際藝術展｜Foreigners Everywhere",
+      "classicImage": "https://static.labiennale.org/files/styles/full_screen_slide/public/arte/2024/1300x600/pedrosa-ve2.jpg",
+      "classicDesc": "主展把外來者、移民、流亡者、離散社群、原住民與酷兒藝術家的位置推到中心，重新審視現代主義美術史長期建立的內外邊界。",
+      "exhibitionType": "國際當代藝術雙年展",
+      "exhibitionStatus": "歷史展覽",
+      "startDate": "2024-04-20",
+      "endDate": "2024-11-24",
+      "edition": "第 60 屆",
+      "organizer": "La Biennale di Venezia",
+      "curator": "Adriano Pedrosa",
+      "venue": "Giardini、Arsenale 與威尼斯多處場館",
+      "admission": "歷史展覽；當屆官方售票",
+      "curatorStatement": "Foreigners Everywhere 同時指向人在異地的處境，也指出每個人內部都存在陌生者；策展以全球南方和被邊緣化的現代主義系譜重寫國際大展的觀看中心。",
+      "curatorStatementSource": "https://www.labiennale.org/en/art/2024/60-esposizione",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "全球重要展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "exhibition-2026-09-08-02",
+      "dedupeKey": "exhibition-2022-documenta-fifteen",
+      "name": "02｜documenta fifteen｜lumbung",
+      "tier": "全球重要展覽",
+      "region": "全球",
+      "country": "德國 / Kassel",
+      "cityKeywords": [
+        "Kassel",
+        "卡塞爾",
+        "documenta Halle",
+        "Fridericianum"
+      ],
+      "media": [
+        "documenta",
+        "國際調查展",
+        "社會實踐"
+      ],
+      "works": "documenta／國際當代藝術五年展｜2022-06-18–2022-09-25",
+      "comment": "印尼策展集體 ruangrupa 以 lumbung『共享穀倉』為組織原則，讓藝術家團體共同分配資源、知識與時間，將大型展覽轉化為可持續的協作基礎設施。",
+      "website": "https://documenta.de/en/retrospective/documenta-fifteen",
+      "workPage": "https://documenta.de/en/retrospective/documenta-fifteen",
+      "photo": "https://documenta.de/media/site/fc7c44c520-1744816169/ops-documenta-identity-press-1-_seite_4-1408x-1-1200x630-crop.png",
+      "artistStatement": "lumbung 強調集體治理、互助與跨地方網絡，不以單一策展論述統一作品，而讓參與者的日常實踐和長期關係構成 documenta。",
+      "artistStatementSource": "https://documenta.de/en/retrospective/documenta-fifteen",
+      "classicTitle": "documenta fifteen｜lumbung",
+      "classicImage": "https://documenta.de/media/site/fc7c44c520-1744816169/ops-documenta-identity-press-1-_seite_4-1408x-1-1200x630-crop.png",
+      "classicDesc": "印尼策展集體 ruangrupa 以 lumbung『共享穀倉』為組織原則，讓藝術家團體共同分配資源、知識與時間，將大型展覽轉化為可持續的協作基礎設施。",
+      "exhibitionType": "documenta／國際當代藝術五年展",
+      "exhibitionStatus": "歷史展覽",
+      "startDate": "2022-06-18",
+      "endDate": "2022-09-25",
+      "edition": "第 15 屆",
+      "organizer": "documenta und Museum Fridericianum gGmbH",
+      "curator": "ruangrupa（藝術總監／策展集體）",
+      "venue": "Fridericianum、documenta Halle 與卡塞爾城市場址",
+      "admission": "歷史展覽；當屆官方售票",
+      "curatorStatement": "lumbung 強調集體治理、互助與跨地方網絡，不以單一策展論述統一作品，而讓參與者的日常實踐和長期關係構成 documenta。",
+      "curatorStatementSource": "https://documenta.de/en/retrospective/documenta-fifteen",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "全球重要展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "exhibition-2026-09-08-03",
+      "dedupeKey": "exhibition-2022-sydney-rivus",
+      "name": "03｜第 23 屆雪梨雙年展｜rīvus",
+      "tier": "全球重要展覽",
+      "region": "全球",
+      "country": "澳洲 / Sydney",
+      "cityKeywords": [
+        "Sydney",
+        "雪梨",
+        "Barangaroo",
+        "MCA Australia"
+      ],
+      "media": [
+        "國際雙年展",
+        "水文地景",
+        "生態藝術"
+      ],
+      "works": "國際當代藝術雙年展／水文與生態調查｜2022-03-12–2022-06-13",
+      "comment": "rīvus 把河流、濕地和其他非人類生命視為展覽參與者，透過藝術、設計與科學合作討論水權、殖民治理和城市水文。",
+      "website": "https://www.biennaleofsydney.art/biennale-of-sydney-announces-project-highlights-for-the-2022-edition-titled-rivus/",
+      "workPage": "https://www.biennaleofsydney.art/biennale-of-sydney-announces-project-highlights-for-the-2022-edition-titled-rivus/",
+      "photo": "https://www.biennaleofsydney.art/wp-content/uploads/2022/02/Leaf-Work.jpg",
+      "artistStatement": "策展不把自然當作被觀看的背景，而要求人類與河流、植物、動物及祖傳知識建立政治與倫理上的互惠關係。",
+      "artistStatementSource": "https://www.biennaleofsydney.art/biennale-of-sydney-announces-project-highlights-for-the-2022-edition-titled-rivus/",
+      "classicTitle": "第 23 屆雪梨雙年展｜rīvus",
+      "classicImage": "https://www.biennaleofsydney.art/wp-content/uploads/2022/02/Leaf-Work.jpg",
+      "classicDesc": "rīvus 把河流、濕地和其他非人類生命視為展覽參與者，透過藝術、設計與科學合作討論水權、殖民治理和城市水文。",
+      "exhibitionType": "國際當代藝術雙年展／水文與生態調查",
+      "exhibitionStatus": "歷史展覽",
+      "startDate": "2022-03-12",
+      "endDate": "2022-06-13",
+      "edition": "第 23 屆",
+      "organizer": "Biennale of Sydney",
+      "curator": "José Roca 與策展團隊",
+      "venue": "Art Gallery of NSW、Barangaroo、MCA Australia 等雪梨場址",
+      "admission": "免費",
+      "curatorStatement": "策展不把自然當作被觀看的背景，而要求人類與河流、植物、動物及祖傳知識建立政治與倫理上的互惠關係。",
+      "curatorStatementSource": "https://www.biennaleofsydney.art/biennale-of-sydney-announces-project-highlights-for-the-2022-edition-titled-rivus/",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "全球重要展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "exhibition-2026-09-08-04",
+      "dedupeKey": "exhibition-2023-gwangju-soft-weak-water",
+      "name": "04｜第 14 屆光州雙年展｜soft and weak like water",
+      "tier": "全球重要展覽",
+      "region": "全球",
+      "country": "韓國 / Gwangju",
+      "cityKeywords": [
+        "Gwangju",
+        "光州",
+        "Gwangju Biennale Exhibition Hall"
+      ],
+      "media": [
+        "國際雙年展",
+        "水系思維",
+        "跨文化藝術"
+      ],
+      "works": "國際當代藝術雙年展｜2023-04-07–2023-07-09",
+      "comment": "展覽借用水柔弱卻能改變地形的特質，串聯原住民知識、後殖民記憶、生態危機與跨國遷徙，尋找不依賴支配的共存方式。",
+      "website": "https://www.gwangjubiennale.org/gb/exhibition/past/14.do",
+      "workPage": "https://www.gwangjubiennale.org/gb/exhibition/past/14.do",
+      "photo": "https://www.gwangjubiennale.org/resources/img/upload/BIENNALE/1/5r46b4u155p60hz.jpg",
+      "artistStatement": "soft and weak like water 將『柔弱』理解為流動、適應和持續作用的力量，以多個地理與時間尺度回應全球危機。",
+      "artistStatementSource": "https://www.gwangjubiennale.org/gb/exhibition/past/14.do",
+      "classicTitle": "第 14 屆光州雙年展｜soft and weak like water",
+      "classicImage": "https://www.gwangjubiennale.org/resources/img/upload/BIENNALE/1/5r46b4u155p60hz.jpg",
+      "classicDesc": "展覽借用水柔弱卻能改變地形的特質，串聯原住民知識、後殖民記憶、生態危機與跨國遷徙，尋找不依賴支配的共存方式。",
+      "exhibitionType": "國際當代藝術雙年展",
+      "exhibitionStatus": "歷史展覽",
+      "startDate": "2023-04-07",
+      "endDate": "2023-07-09",
+      "edition": "第 14 屆",
+      "organizer": "Gwangju Biennale Foundation",
+      "curator": "Sook-Kyung Lee（藝術總監）",
+      "venue": "Gwangju Biennale Exhibition Hall 與光州城市場址",
+      "admission": "歷史展覽；當屆官方售票",
+      "curatorStatement": "soft and weak like water 將『柔弱』理解為流動、適應和持續作用的力量，以多個地理與時間尺度回應全球危機。",
+      "curatorStatementSource": "https://www.gwangjubiennale.org/gb/exhibition/past/14.do",
+      "relatedByCity": [
+
+      ]
+    },
+    {
+      "category": "全球重要展覽",
+      "status": "官方來源",
+      "updated": "2026-09-08",
+      "id": "exhibition-2026-09-08-05",
+      "dedupeKey": "exhibition-2019-aichi-taming-your-passion",
+      "name": "05｜愛知三年展 2019｜Taming Y/Our Passion",
+      "tier": "全球重要展覽",
+      "region": "全球",
+      "country": "日本 / Aichi",
+      "cityKeywords": [
+        "Aichi",
+        "愛知",
+        "Nagoya",
+        "名古屋",
+        "Toyota",
+        "豐田"
+      ],
+      "media": [
+        "國際三年展",
+        "藝術與社會",
+        "建築場域"
+      ],
+      "works": "國際當代藝術三年展｜2019-08-01–2019-10-14",
+      "comment": "展覽以『馴服我們的熱情』追問政治分裂、網路輿論與情感如何塑造公共領域，並在藝術、表演、電影和城市空間間建立多重討論入口。",
+      "website": "https://aichitriennale.jp/en/archive/index.html",
+      "workPage": "https://aichitriennale.jp/en/archive/index.html",
+      "photo": "https://aichitriennale.jp/img/site.png",
+      "artistStatement": "策展將熱情視為民主與創作的動力，也視為可能失控的力量；藝術被用來延長對話，而不是快速收束衝突。",
+      "artistStatementSource": "https://aichitriennale.jp/en/archive/index.html",
+      "classicTitle": "愛知三年展 2019｜Taming Y/Our Passion",
+      "classicImage": "https://aichitriennale.jp/img/site.png",
+      "classicDesc": "展覽以『馴服我們的熱情』追問政治分裂、網路輿論與情感如何塑造公共領域，並在藝術、表演、電影和城市空間間建立多重討論入口。",
+      "exhibitionType": "國際當代藝術三年展",
+      "exhibitionStatus": "歷史展覽",
+      "startDate": "2019-08-01",
+      "endDate": "2019-10-14",
+      "edition": "第 4 屆",
+      "organizer": "Aichi Triennale Organizing Committee",
+      "curator": "津田大介 Tsuda Daisuke（藝術總監）",
+      "venue": "Aichi Arts Center、Nagoya City Art Museum、名古屋與豐田城市場址",
+      "admission": "歷史展覽；當屆依官方票務",
+      "curatorStatement": "策展將熱情視為民主與創作的動力，也視為可能失控的力量；藝術被用來延長對話，而不是快速收束衝突。",
+      "curatorStatementSource": "https://aichitriennale.jp/en/archive/index.html",
+      "relatedByCity": [
+
+      ]
     }
   ]
 }
