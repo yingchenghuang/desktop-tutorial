@@ -1,13 +1,14 @@
 {
-  "version": "2026-09-08-global-exhibitions-r10",
-  "generatedAt": "2026-09-08T04:00:00+08:00",
+  "version": "2026-09-13-global-exhibitions-r11",
+  "generatedAt": "2026-09-13T04:00:00+08:00",
   "files": [
     "exhibitions.json"
   ],
   "dailyTarget": 5,
-  "totalEntries": 45,
+  "totalEntries": 50,
   "addedToday": 5,
-  "officialSourceEntries": 45,
-  "imageEntries": 45,
-  "note": "2026-09-08 新增 5 篇全球重要展覽；全部使用官方來源與可顯示圖片。"
+  "officialSourceEntries": 50,
+  "imageEntries": 50,
+  "note": "2026-09-13 新增 5 篇全球重要展覽；全部使用官方來源與可顯示圖片。",
+  "weeklyTarget": 5
 }

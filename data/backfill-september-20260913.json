@@ -1,0 +1,773 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-13T04:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-13",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte 官方頁",
+    "selectionPolicy": "優先地景、生態、參與、聲光、動態、數位與建築整合作品；不以傳統人物、胸像、騎馬像或基座式紀念碑湊數。",
+    "note": "9/13 週更固定 10＋5＋5；另有有效公開徵選 5 則與全球重要展覽 5 篇。",
+    "linkAudit": {
+      "checkedAt": "2026-09-13T04:00:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "實際瀏覽器逐頁開啟"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-13T04:00:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方圖片逐一載入驗證"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-01",
+      "dedupeKey": "art-2026-09-13-koer-curators-stockholm-2025",
+      "name": "01｜KÖR Wien｜斯德哥爾摩策展駐留",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Stockholm",
+        "斯德哥爾摩"
+      ],
+      "media": [
+        "策展研究",
+        "公共藝術",
+        "國際交流"
+      ],
+      "works": "Curators in Residence Stockholm｜2025",
+      "comment": "維也納公共藝術機構以策展駐留交換城市知識，將斯德哥爾摩的公共空間治理、委託制度與在地網絡帶回維也納討論。",
+      "website": "https://www.koer.or.at/projects/koer-wien-curators-in-residence-program-in-stockholm/",
+      "workPage": "https://www.koer.or.at/projects/koer-wien-curators-in-residence-program-in-stockholm/",
+      "photo": "https://www.koer.or.at/site/assets/files/14062/grafik_ankuendigung.500x0.jpg",
+      "artistStatement": "維也納公共藝術機構以策展駐留交換城市知識，將斯德哥爾摩的公共空間治理、委託制度與在地網絡帶回維也納討論。",
+      "artistStatementSource": "https://www.koer.or.at/projects/koer-wien-curators-in-residence-program-in-stockholm/",
+      "classicTitle": "Curators in Residence Stockholm｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14062/grafik_ankuendigung.500x0.jpg",
+      "classicDesc": "維也納公共藝術機構以策展駐留交換城市知識，將斯德哥爾摩的公共空間治理、委託制度與在地網絡帶回維也納討論。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-02",
+      "dedupeKey": "art-2026-09-13-koer-curators-chisinau-new-york-2024",
+      "name": "02｜KÖR Wien｜基希訥烏與紐約策展駐留",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Chisinau",
+        "基希訥烏",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "策展研究",
+        "國際交流",
+        "城市網絡"
+      ],
+      "works": "Curators in Residence Chisinau／New York｜2024",
+      "comment": "策展人透過兩座政治與文化條件差異極大的城市交換公共藝術方法，使跨國關係成為研究地方制度與藝術生態的工作場域。",
+      "website": "https://www.koer.or.at/projects/koer-vienna-curators-in-residence-programme/",
+      "workPage": "https://www.koer.or.at/projects/koer-vienna-curators-in-residence-programme/",
+      "photo": "https://www.koer.or.at/site/assets/files/12431/curators_in_residence-programm_ny_oder_chisinau_c_bmeia.500x0.jpg",
+      "artistStatement": "策展人透過兩座政治與文化條件差異極大的城市交換公共藝術方法，使跨國關係成為研究地方制度與藝術生態的工作場域。",
+      "artistStatementSource": "https://www.koer.or.at/projects/koer-vienna-curators-in-residence-programme/",
+      "classicTitle": "Curators in Residence Chisinau／New York｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12431/curators_in_residence-programm_ny_oder_chisinau_c_bmeia.500x0.jpg",
+      "classicDesc": "策展人透過兩座政治與文化條件差異極大的城市交換公共藝術方法，使跨國關係成為研究地方制度與藝術生態的工作場域。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-03-05",
+        "competition-2026-09-07-03",
+        "competition-2026-09-08-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-03",
+      "dedupeKey": "art-2026-09-13-koer-u2-neubaugasse",
+      "name": "03｜Maria Ziegelböck｜U2 Neubaugasse 車站藝術設計",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Neubaugasse"
+      ],
+      "media": [
+        "交通藝術",
+        "建築整合",
+        "視覺系統"
+      ],
+      "works": "Artistic Design U2 Neubaugasse｜2024",
+      "comment": "作品把地鐵通行、方向辨識與藝術圖像編成連續的地下經驗，讓車站不只是過境設施，也成為城市公共視覺的一部分。",
+      "website": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-neubaugasse/",
+      "workPage": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-neubaugasse/",
+      "photo": "https://www.koer.or.at/site/assets/files/12490/05maria_ziegelboeck_sketch_24_rendering_abschnitt_1_kleiner.500x0.jpg",
+      "artistStatement": "作品把地鐵通行、方向辨識與藝術圖像編成連續的地下經驗，讓車站不只是過境設施，也成為城市公共視覺的一部分。",
+      "artistStatementSource": "https://www.koer.or.at/projects/artistic-design-of-the-u2-station-neubaugasse/",
+      "classicTitle": "Artistic Design U2 Neubaugasse｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12490/05maria_ziegelboeck_sketch_24_rendering_abschnitt_1_kleiner.500x0.jpg",
+      "classicDesc": "作品把地鐵通行、方向辨識與藝術圖像編成連續的地下經驗，讓車站不只是過境設施，也成為城市公共視覺的一部分。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-04",
+      "dedupeKey": "art-2026-09-13-koer-u6-burggasse-passages",
+      "name": "04｜Marianne Vlaschits｜U6 Burggasse 通道設計",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Burggasse",
+        "Stadthalle"
+      ],
+      "media": [
+        "交通藝術",
+        "壁面藝術",
+        "建築整合"
+      ],
+      "works": "U6 Burggasse-Stadthalle Passages｜2023",
+      "comment": "藝術家把兩條地下通道轉成色彩與圖像的穿越場，使原本功能單一的轉乘路徑具有節奏、辨識度與想像性的空間深度。",
+      "website": "https://www.koer.or.at/projects/artistic-design-of-the-passages-of-the-u6-station-burggasse/",
+      "workPage": "https://www.koer.or.at/projects/artistic-design-of-the-passages-of-the-u6-station-burggasse/",
+      "photo": "https://www.koer.or.at/site/assets/files/12388/prasentationsposter-1.500x0.jpg",
+      "artistStatement": "藝術家把兩條地下通道轉成色彩與圖像的穿越場，使原本功能單一的轉乘路徑具有節奏、辨識度與想像性的空間深度。",
+      "artistStatementSource": "https://www.koer.or.at/projects/artistic-design-of-the-passages-of-the-u6-station-burggasse/",
+      "classicTitle": "U6 Burggasse-Stadthalle Passages｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12388/prasentationsposter-1.500x0.jpg",
+      "classicDesc": "藝術家把兩條地下通道轉成色彩與圖像的穿越場，使原本功能單一的轉乘路徑具有節奏、辨識度與想像性的空間深度。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-05",
+      "dedupeKey": "art-2026-09-13-koer-meidling-passage",
+      "name": "05｜Christian Kosmas Mayer｜Meidling 車站通道",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Meidling"
+      ],
+      "media": [
+        "交通藝術",
+        "場域裝置",
+        "公共通道"
+      ],
+      "works": "Meidling Station Passage｜2023",
+      "comment": "作品在高頻率的轉乘空間中嵌入歷史與物質線索，讓匆忙移動的人也能從牆面、光線和尺度辨認地方記憶。",
+      "website": "https://www.koer.or.at/projects/artistic-design-of-the-passageway-at-meidling-train-station/",
+      "workPage": "https://www.koer.or.at/projects/artistic-design-of-the-passageway-at-meidling-train-station/",
+      "photo": "https://www.koer.or.at/site/assets/files/12058/mayer_1.500x0.jpg",
+      "artistStatement": "作品在高頻率的轉乘空間中嵌入歷史與物質線索，讓匆忙移動的人也能從牆面、光線和尺度辨認地方記憶。",
+      "artistStatementSource": "https://www.koer.or.at/projects/artistic-design-of-the-passageway-at-meidling-train-station/",
+      "classicTitle": "Meidling Station Passage｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12058/mayer_1.500x0.jpg",
+      "classicDesc": "作品在高頻率的轉乘空間中嵌入歷史與物質線索，讓匆忙移動的人也能從牆面、光線和尺度辨認地方記憶。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-06",
+      "dedupeKey": "art-2026-09-13-koer-dimensions-variable-2022",
+      "name": "06｜Dimensions Variable｜美泉宮背後的世界",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Schönbrunn",
+        "Lainz"
+      ],
+      "media": [
+        "城市漫遊",
+        "檔案研究",
+        "地景閱讀"
+      ],
+      "works": "Dimensions Variable #｜2022",
+      "comment": "計畫以漫遊學方法進入美泉宮觀光表象之外的供應、照護與日常地景，使被宏大歷史遮蔽的城市後台成為共同閱讀的檔案。",
+      "website": "https://www.koer.or.at/projects/dimensions-variable-2022/",
+      "workPage": "https://www.koer.or.at/projects/dimensions-variable-2022/",
+      "photo": "https://www.koer.or.at/site/assets/files/11866/abbildung_versorgungsheim_lainz-_foto_alexander_felch.500x0.jpg",
+      "artistStatement": "計畫以漫遊學方法進入美泉宮觀光表象之外的供應、照護與日常地景，使被宏大歷史遮蔽的城市後台成為共同閱讀的檔案。",
+      "artistStatementSource": "https://www.koer.or.at/projects/dimensions-variable-2022/",
+      "classicTitle": "Dimensions Variable #｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11866/abbildung_versorgungsheim_lainz-_foto_alexander_felch.500x0.jpg",
+      "classicDesc": "計畫以漫遊學方法進入美泉宮觀光表象之外的供應、照護與日常地景，使被宏大歷史遮蔽的城市後台成為共同閱讀的檔案。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-07",
+      "dedupeKey": "art-2026-09-13-koer-nordbahn-zeh",
+      "name": "07｜Leopold Kessler｜Nordbahn-Zeh",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Nordbahnviertel"
+      ],
+      "media": [
+        "城市介入",
+        "公共裝置",
+        "基礎設施"
+      ],
+      "works": "Nordbahn-Zeh｜2022",
+      "comment": "一個尺度異常、帶著幽默感的城市物件介入北站新區，藉由日常身體部位與建設環境的錯置，提醒人如何占用並感知新生街區。",
+      "website": "https://www.koer.or.at/projects/nordbahn-zeh/",
+      "workPage": "https://www.koer.or.at/projects/nordbahn-zeh/",
+      "photo": "https://www.koer.or.at/site/assets/files/11855/nordbahn-zeh_c_leopold_kessler-_2022_3.500x0.jpg",
+      "artistStatement": "一個尺度異常、帶著幽默感的城市物件介入北站新區，藉由日常身體部位與建設環境的錯置，提醒人如何占用並感知新生街區。",
+      "artistStatementSource": "https://www.koer.or.at/projects/nordbahn-zeh/",
+      "classicTitle": "Nordbahn-Zeh｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11855/nordbahn-zeh_c_leopold_kessler-_2022_3.500x0.jpg",
+      "classicDesc": "一個尺度異常、帶著幽默感的城市物件介入北站新區，藉由日常身體部位與建設環境的錯置，提醒人如何占用並感知新生街區。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-08",
+      "dedupeKey": "art-2026-09-13-koer-trash-animal",
+      "name": "08｜Bordalo II｜垃圾動物",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "再生材料",
+        "生態藝術",
+        "大型裝置"
+      ],
+      "works": "Trash Animal｜2022",
+      "comment": "藝術家以廢棄塑膠、金屬與城市殘料組成大型動物，讓污染材料化成直視觀眾的生命形象，將消費廢棄與物種危機放在同一視野。",
+      "website": "https://www.koer.or.at/projects/trash-animal/",
+      "workPage": "https://www.koer.or.at/projects/trash-animal/",
+      "photo": "https://www.koer.or.at/site/assets/files/11839/schwarz-5012.500x0.jpg",
+      "artistStatement": "藝術家以廢棄塑膠、金屬與城市殘料組成大型動物，讓污染材料化成直視觀眾的生命形象，將消費廢棄與物種危機放在同一視野。",
+      "artistStatementSource": "https://www.koer.or.at/projects/trash-animal/",
+      "classicTitle": "Trash Animal｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11839/schwarz-5012.500x0.jpg",
+      "classicDesc": "藝術家以廢棄塑膠、金屬與城市殘料組成大型動物，讓污染材料化成直視觀眾的生命形象，將消費廢棄與物種危機放在同一視野。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-09",
+      "dedupeKey": "art-2026-09-13-koer-femenine",
+      "name": "09｜Eva-Maria Schaller、Studio Dan｜FEMENINE",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "表演藝術",
+        "聲音藝術",
+        "女性主義"
+      ],
+      "works": "FEMENINE｜2022",
+      "comment": "身體、現場音樂與城市空間交織，將女性經驗從被觀看的位置轉成主動生成節奏與關係的公共事件。",
+      "website": "https://www.koer.or.at/projects/femenine/",
+      "workPage": "https://www.koer.or.at/projects/femenine/",
+      "photo": "https://www.koer.or.at/site/assets/files/11834/femenine_eroeffnung_c_chris_mavric_1-1.500x0.jpg",
+      "artistStatement": "身體、現場音樂與城市空間交織，將女性經驗從被觀看的位置轉成主動生成節奏與關係的公共事件。",
+      "artistStatementSource": "https://www.koer.or.at/projects/femenine/",
+      "classicTitle": "FEMENINE｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11834/femenine_eroeffnung_c_chris_mavric_1-1.500x0.jpg",
+      "classicDesc": "身體、現場音樂與城市空間交織，將女性經驗從被觀看的位置轉成主動生成節奏與關係的公共事件。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "current-2026-09-13-10",
+      "dedupeKey": "art-2026-09-13-koer-living-nonliving-bodies",
+      "name": "10｜LIVING AND NON-LIVING BODIES｜公共空間介入",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Operngasse"
+      ],
+      "media": [
+        "公共介入",
+        "跨媒介",
+        "身體政治"
+      ],
+      "works": "LIVING AND NON-LIVING BODIES｜2022",
+      "comment": "計畫把牆面、物件、表演者與路人視為共同作用的身體，透過短期介入重新協商 Operngasse 的觀看、停留與權力關係。",
+      "website": "https://www.koer.or.at/projects/operngasse/",
+      "workPage": "https://www.koer.or.at/projects/operngasse/",
+      "photo": "https://www.koer.or.at/site/assets/files/11763/operngasse_wandrelief.500x0.jpg",
+      "artistStatement": "計畫把牆面、物件、表演者與路人視為共同作用的身體，透過短期介入重新協商 Operngasse 的觀看、停留與權力關係。",
+      "artistStatementSource": "https://www.koer.or.at/projects/operngasse/",
+      "classicTitle": "LIVING AND NON-LIVING BODIES｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11763/operngasse_wandrelief.500x0.jpg",
+      "classicDesc": "計畫把牆面、物件、表演者與路人視為共同作用的身體，透過短期介入重新協商 Operngasse 的觀看、停留與權力關係。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-global-2026-09-13-01",
+      "dedupeKey": "art-2026-09-13-koer-weather-tomorrow",
+      "name": "01｜KÖR Wien｜明日天氣",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "氣候藝術",
+        "公共裝置",
+        "城市資訊"
+      ],
+      "works": "The Weather of Tomorrow｜2022",
+      "comment": "作品借用天氣預報的公共語言，讓氣候不只是背景資訊，而成為城市如何想像未來、風險與共同責任的可見介面。",
+      "website": "https://www.koer.or.at/projects/the-weather-of-tomorrow/",
+      "workPage": "https://www.koer.or.at/projects/the-weather-of-tomorrow/",
+      "photo": "https://www.koer.or.at/site/assets/files/10208/sujet.500x0.jpg",
+      "artistStatement": "作品借用天氣預報的公共語言，讓氣候不只是背景資訊，而成為城市如何想像未來、風險與共同責任的可見介面。",
+      "artistStatementSource": "https://www.koer.or.at/projects/the-weather-of-tomorrow/",
+      "classicTitle": "The Weather of Tomorrow｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/10208/sujet.500x0.jpg",
+      "classicDesc": "作品借用天氣預報的公共語言，讓氣候不只是背景資訊，而成為城市如何想像未來、風險與共同責任的可見介面。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-global-2026-09-13-02",
+      "dedupeKey": "art-2026-09-13-koer-great-vibration",
+      "name": "02｜Moussa Kone｜巨大的震動",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "繪畫裝置",
+        "建築介入",
+        "公共藝術"
+      ],
+      "works": "The Great Vibration｜2022",
+      "comment": "線條與重複形體在建築尺度上形成視覺震動，讓固定牆面呈現近似聲波與群體能量的動勢。",
+      "website": "https://www.koer.or.at/projects/the-great-vibration/",
+      "workPage": "https://www.koer.or.at/projects/the-great-vibration/",
+      "photo": "https://www.koer.or.at/site/assets/files/10198/62a9914.500x0.jpg",
+      "artistStatement": "線條與重複形體在建築尺度上形成視覺震動，讓固定牆面呈現近似聲波與群體能量的動勢。",
+      "artistStatementSource": "https://www.koer.or.at/projects/the-great-vibration/",
+      "classicTitle": "The Great Vibration｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/10198/62a9914.500x0.jpg",
+      "classicDesc": "線條與重複形體在建築尺度上形成視覺震動，讓固定牆面呈現近似聲波與群體能量的動勢。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-global-2026-09-13-03",
+      "dedupeKey": "art-2026-09-13-koer-streamers-covid-sculpture",
+      "name": "03｜Benoît Maubrey｜COVID 串流雕塑",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "聲音雕塑",
+        "電子媒體",
+        "參與式藝術"
+      ],
+      "works": "STREAMERS — A COVID Sculpture｜2022",
+      "comment": "由揚聲器與電子零件構成的雕塑把隔離期間的串流、遠距聲音與公共聚集重新接合，讓技術媒介成為可共同聆聽的城市身體。",
+      "website": "https://www.koer.or.at/projects/streamers-a-covid-sculpture/",
+      "workPage": "https://www.koer.or.at/projects/streamers-a-covid-sculpture/",
+      "photo": "https://www.koer.or.at/site/assets/files/10059/2_streamers.500x0.jpg",
+      "artistStatement": "由揚聲器與電子零件構成的雕塑把隔離期間的串流、遠距聲音與公共聚集重新接合，讓技術媒介成為可共同聆聽的城市身體。",
+      "artistStatementSource": "https://www.koer.or.at/projects/streamers-a-covid-sculpture/",
+      "classicTitle": "STREAMERS — A COVID Sculpture｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/10059/2_streamers.500x0.jpg",
+      "classicDesc": "由揚聲器與電子零件構成的雕塑把隔離期間的串流、遠距聲音與公共聚集重新接合，讓技術媒介成為可共同聆聽的城市身體。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-global-2026-09-13-04",
+      "dedupeKey": "art-2026-09-13-koer-rainbow-hietzing",
+      "name": "04｜Markus Tripolt｜給 Hietzing 的彩虹",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納",
+        "Hietzing"
+      ],
+      "media": [
+        "色彩藝術",
+        "社區藝術",
+        "建築介入"
+      ],
+      "works": "A Rainbow for Hietzing｜2021",
+      "comment": "彩色帶狀形式沿著社區建築展開，以簡單而高辨識度的光譜把教育、聚會與街道視線連成一個共享標記。",
+      "website": "https://www.koer.or.at/projects/a-rainbow-for-hietzing/",
+      "workPage": "https://www.koer.or.at/projects/a-rainbow-for-hietzing/",
+      "photo": "https://www.koer.or.at/site/assets/files/10031/vhs_hietzing_2021_man_9853.500x0.jpg",
+      "artistStatement": "彩色帶狀形式沿著社區建築展開，以簡單而高辨識度的光譜把教育、聚會與街道視線連成一個共享標記。",
+      "artistStatementSource": "https://www.koer.or.at/projects/a-rainbow-for-hietzing/",
+      "classicTitle": "A Rainbow for Hietzing｜2021",
+      "classicImage": "https://www.koer.or.at/site/assets/files/10031/vhs_hietzing_2021_man_9853.500x0.jpg",
+      "classicDesc": "彩色帶狀形式沿著社區建築展開，以簡單而高辨識度的光譜把教育、聚會與街道視線連成一個共享標記。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-global-2026-09-13-05",
+      "dedupeKey": "art-2026-09-13-koer-themroc",
+      "name": "05｜Steinbrener／Dempf & Huber｜Themroc",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "建築介入",
+        "城市裝置",
+        "觀念藝術"
+      ],
+      "works": "Themroc｜2021",
+      "comment": "作品以帶有電影與反叛文化暗示的建築異常，撕開日常立面秩序，將城市住房、私人領域與公共目光的界線暴露出來。",
+      "website": "https://www.koer.or.at/projects/themroc/",
+      "workPage": "https://www.koer.or.at/projects/themroc/",
+      "photo": "https://www.koer.or.at/site/assets/files/9964/sdh_themroc_1022410.500x0.jpg",
+      "artistStatement": "作品以帶有電影與反叛文化暗示的建築異常，撕開日常立面秩序，將城市住房、私人領域與公共目光的界線暴露出來。",
+      "artistStatementSource": "https://www.koer.or.at/projects/themroc/",
+      "classicTitle": "Themroc｜2021",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9964/sdh_themroc_1022410.500x0.jpg",
+      "classicDesc": "作品以帶有電影與反叛文化暗示的建築異常，撕開日常立面秩序，將城市住房、私人領域與公共目光的界線暴露出來。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-german-2026-09-13-01",
+      "dedupeKey": "art-2026-09-13-museum-polis-avramidis",
+      "name": "01｜Joannis Avramidis｜Polis",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Neue Nationalgalerie",
+        "Kulturforum"
+      ],
+      "media": [
+        "抽象雕塑",
+        "建築對話",
+        "公共空間"
+      ],
+      "works": "Polis｜1970",
+      "comment": "多個抽象人形量體聚合成緊密群體，置於新國家美術館露台上，作品以身體節奏回應密斯建築的幾何秩序，而非塑造單一英雄。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/polis",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/polis",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6299e5286787ae1199bb0957ead4ab884470487d.jpg",
+      "artistStatement": "多個抽象人形量體聚合成緊密群體，置於新國家美術館露台上，作品以身體節奏回應密斯建築的幾何秩序，而非塑造單一英雄。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/polis",
+      "classicTitle": "Polis｜1970",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6299e5286787ae1199bb0957ead4ab884470487d.jpg",
+      "classicDesc": "多個抽象人形量體聚合成緊密群體，置於新國家美術館露台上，作品以身體節奏回應密斯建築的幾何秩序，而非塑造單一英雄。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-german-2026-09-13-02",
+      "dedupeKey": "art-2026-09-13-museum-multiple-entry",
+      "name": "02｜Thomas Florschuetz｜Multiple Entry #6／#21",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林",
+        "Bundesministerium für Digitales und Verkehr"
+      ],
+      "media": [
+        "攝影藝術",
+        "建築整合",
+        "空間感知"
+      ],
+      "works": "Multiple Entry #6／#21｜2001",
+      "comment": "大型攝影以局部、透視與重複入口介入交通部建築，讓觀看者在真實通道與影像空間之間反覆判讀。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/multiple-entry-6-multiple-entry-21",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/multiple-entry-6-multiple-entry-21",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/1dae1d196619c3e0ea9664ab795a64c64aa19b4b.jpg",
+      "artistStatement": "大型攝影以局部、透視與重複入口介入交通部建築，讓觀看者在真實通道與影像空間之間反覆判讀。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/multiple-entry-6-multiple-entry-21",
+      "classicTitle": "Multiple Entry #6／#21｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/1dae1d196619c3e0ea9664ab795a64c64aa19b4b.jpg",
+      "classicDesc": "大型攝影以局部、透視與重複入口介入交通部建築，讓觀看者在真實通道與影像空間之間反覆判讀。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-german-2026-09-13-03",
+      "dedupeKey": "art-2026-09-13-museum-farbgestaltung-golm",
+      "name": "03｜Fritz Fuchs｜色彩設計",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Potsdam-Golm",
+      "cityKeywords": [
+        "Potsdam",
+        "波茨坦",
+        "Golm",
+        "Max-Planck-Campus"
+      ],
+      "media": [
+        "色彩系統",
+        "建築整合",
+        "光環境"
+      ],
+      "works": "Farbgestaltung｜1999",
+      "comment": "半透明與多色的建築色彩系統穿過研究園區立面和室內，使光線、動線與科研工作場景形成持續變化的視覺關係。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbgestaltung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbgestaltung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/bbeebfb6acb97b7c4f1c2ba8ddd4f03d4e38c4bf.jpg",
+      "artistStatement": "半透明與多色的建築色彩系統穿過研究園區立面和室內，使光線、動線與科研工作場景形成持續變化的視覺關係。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbgestaltung",
+      "classicTitle": "Farbgestaltung｜1999",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/bbeebfb6acb97b7c4f1c2ba8ddd4f03d4e38c4bf.jpg",
+      "classicDesc": "半透明與多色的建築色彩系統穿過研究園區立面和室內，使光線、動線與科研工作場景形成持續變化的視覺關係。",
+      "relatedByCity": [
+        "competition-2026-08-30-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-german-2026-09-13-04",
+      "dedupeKey": "art-2026-09-13-museum-spektralsymphonie",
+      "name": "04｜Roland Fuhrmann｜元素光譜交響曲",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Dresden",
+      "cityKeywords": [
+        "Dresden",
+        "德勒斯登",
+        "TU Dresden"
+      ],
+      "media": [
+        "材料藝術",
+        "色彩裝置",
+        "科學藝術"
+      ],
+      "works": "Spektralsymphonie der Elemente｜2010",
+      "comment": "作品把元素、材料與光譜色彩編成空間序列，讓化學與水研究建築的知識脈絡轉化為可行走、可感知的公共藝術。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spektralsymphonie-der-elemente",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spektralsymphonie-der-elemente",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/9bd7ee8cf5b2dbb71f4628060b2999bf4dd385d4.jpg",
+      "artistStatement": "作品把元素、材料與光譜色彩編成空間序列，讓化學與水研究建築的知識脈絡轉化為可行走、可感知的公共藝術。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spektralsymphonie-der-elemente",
+      "classicTitle": "Spektralsymphonie der Elemente｜2010",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/9bd7ee8cf5b2dbb71f4628060b2999bf4dd385d4.jpg",
+      "classicDesc": "作品把元素、材料與光譜色彩編成空間序列，讓化學與水研究建築的知識脈絡轉化為可行走、可感知的公共藝術。",
+      "relatedByCity": [
+        "competition-2026-09-03-02",
+        "competition-2026-09-06-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-13",
+      "id": "classic-german-2026-09-13-05",
+      "dedupeKey": "art-2026-09-13-museum-aquamobil",
+      "name": "05｜Gottfried Gruner｜Aquamobil",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "Bundesministerium des Innern"
+      ],
+      "media": [
+        "水景藝術",
+        "動力雕塑",
+        "環境藝術"
+      ],
+      "works": "Aquamobil｜1979",
+      "comment": "水循環驅動的動態構造在庭院中持續變換，將自然系統、機械節奏與建築氣候連成一個可觀看的微型地景。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aquamobil",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aquamobil",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fa12d20eb08f5266c99f0d7c0df06d3e1d4ab72d.jpg",
+      "artistStatement": "水循環驅動的動態構造在庭院中持續變換，將自然系統、機械節奏與建築氣候連成一個可觀看的微型地景。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aquamobil",
+      "classicTitle": "Aquamobil｜1979",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fa12d20eb08f5266c99f0d7c0df06d3e1d4ab72d.jpg",
+      "classicDesc": "水循環驅動的動態構造在庭院中持續變換，將自然系統、機械節奏與建築氣候連成一個可觀看的微型地景。",
+      "relatedByCity": [
+
+      ]
+    }
+  ]
+}
