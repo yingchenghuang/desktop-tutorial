@@ -190,6 +190,23 @@
     }, {});
   }
 
+  function isCompetitionEntry(entry) {
+    return entry.tier === '競圖資料庫' || entry.category === '公開徵件';
+  }
+
+  function isPublicArtEntry(entry) {
+    return entry.category === '作品/展覽' && !isCompetitionEntry(entry);
+  }
+
+  function isCrossDatabaseCityMatch(entry, candidate) {
+    var crossesPublicArtAndCompetition =
+      (isPublicArtEntry(entry) && isCompetitionEntry(candidate)) ||
+      (isCompetitionEntry(entry) && isPublicArtEntry(candidate));
+    return crossesPublicArtAndCompetition && candidate.cityKeywords.some(function (city) {
+      return entry.cityKeywords.indexOf(city) >= 0;
+    });
+  }
+
   function orderedValues(counts, preferred) {
     var seen = {};
     var values = preferred.filter(function (v) {
@@ -542,8 +559,7 @@
 
     var related = DATA.filter(function (candidate) {
       if (candidate.id === e.id) return false;
-      var crossDatabase = e.tier !== candidate.tier;
-      return crossDatabase && candidate.cityKeywords.some(function (city) { return e.cityKeywords.indexOf(city) >= 0; });
+      return isCrossDatabaseCityMatch(e, candidate);
     }).slice(0, 6);
     var relatedHtml = related.length
       ? '<div class="block related-block"><div class="block-label">相關城市・跨資料庫</div><div class="related-list">' +
@@ -700,8 +716,7 @@
       DATA.forEach(function (entry) {
         entry.relatedByCity = DATA.filter(function (candidate) {
           if (candidate.id === entry.id) return false;
-          var crossDatabase = entry.tier !== candidate.tier;
-          return crossDatabase && candidate.cityKeywords.some(function (city) { return entry.cityKeywords.indexOf(city) >= 0; });
+          return isCrossDatabaseCityMatch(entry, candidate);
         }).map(function (candidate) { return candidate.id; });
       });
       renderStats();
