@@ -1,15 +1,15 @@
 {
-  "version": "2026-09-13-competition-r41",
-  "generatedAt": "2026-09-13T04:00:00+08:00",
+  "version": "2026-09-14-competition-r42",
+  "generatedAt": "2026-09-14T05:01:03+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 96,
+  "activeEntries": 100,
   "addedToday": 5,
-  "expiredRemoved": 18,
-  "deadlineTimezoneEntries": 96,
-  "deadlinePrecisionEntries": 96,
-  "cityKeywordEntries": 96,
-  "note": "2026-09-13 新增 5 則有效公開徵選（德國 4）並移除 18 則逾期案件。",
-  "germanAddedToday": 4
+  "expiredRemoved": 1,
+  "deadlineTimezoneEntries": 100,
+  "deadlinePrecisionEntries": 100,
+  "cityKeywordEntries": 100,
+  "note": "2026-09-14 新增 5 則有效公共藝術徵件，保留 95 則既有未截止項目並移除 1 則逾期案件。",
+  "germanAddedToday": 0
 }

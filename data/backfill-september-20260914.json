@@ -1,0 +1,818 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-14T05:01:03+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-14",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte 官方作品頁",
+    "selectionPolicy": "已實現且持續可見的公共藝術、永久委託與 Kunst am Bau；競圖與補助完全分流。",
+    "note": "9/14 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-09-14T05:01:03+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "官方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-14T05:01:03+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-01",
+      "dedupeKey": "art-2026-09-14-current-arcus-schatten-eines-regenbogens",
+      "name": "01｜Katrin Butt｜ARCUS（彩虹之影）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "紀念空間",
+        "金屬"
+      ],
+      "works": "ARCUS（彩虹之影）｜2023",
+      "comment": "作品以彎曲的彩虹形體紀念納粹時期遭迫害的同性戀者；缺席的色彩化為陰影，使記憶在日常公園動線裡持續被看見。",
+      "website": "https://www.koer.or.at/projects/arcus-schatten-eines-regenbogens/",
+      "workPage": "https://www.koer.or.at/projects/arcus-schatten-eines-regenbogens/",
+      "photo": "https://www.koer.or.at/site/assets/files/11552/4782_ranzinger_kleiner.500x0.jpg",
+      "artistStatement": "作品以彎曲的彩虹形體紀念納粹時期遭迫害的同性戀者；缺席的色彩化為陰影，使記憶在日常公園動線裡持續被看見。",
+      "artistStatementSource": "https://www.koer.or.at/projects/arcus-schatten-eines-regenbogens/",
+      "classicTitle": "ARCUS（彩虹之影）｜2023",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11552/4782_ranzinger_kleiner.500x0.jpg",
+      "classicDesc": "作品以彎曲的彩虹形體紀念納粹時期遭迫害的同性戀者；缺席的色彩化為陰影，使記憶在日常公園動線裡持續被看見。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-02",
+      "dedupeKey": "art-2026-09-14-current-das-portrait-msl-architektur-muss-alles",
+      "name": "02｜PRINZpod｜DAS PORTRAIT MSL. Architektur muss Alles",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "建築整合",
+        "攝影"
+      ],
+      "works": "DAS PORTRAIT MSL. Architektur muss Alles｜2022",
+      "comment": "巨幅建築肖像把市政建築自身變成觀看對象，以尺度錯置與立面介入追問建築如何承載公共生活。",
+      "website": "https://www.koer.or.at/projects/das-portrait-msl-architektur-muss-alles/",
+      "workPage": "https://www.koer.or.at/projects/das-portrait-msl-architektur-muss-alles/",
+      "photo": "https://www.koer.or.at/site/assets/files/11950/msl_c_lea_titz-_2022_3.500x0.jpg",
+      "artistStatement": "巨幅建築肖像把市政建築自身變成觀看對象，以尺度錯置與立面介入追問建築如何承載公共生活。",
+      "artistStatementSource": "https://www.koer.or.at/projects/das-portrait-msl-architektur-muss-alles/",
+      "classicTitle": "DAS PORTRAIT MSL. Architektur muss Alles｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11950/msl_c_lea_titz-_2022_3.500x0.jpg",
+      "classicDesc": "巨幅建築肖像把市政建築自身變成觀看對象，以尺度錯置與立面介入追問建築如何承載公共生活。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-03",
+      "dedupeKey": "art-2026-09-14-current-o.t-neue-sterne-fuer-den-prater",
+      "name": "03｜Irena Eden & Stijn Lernout｜O.T.－NEUE STERNE FÜR DEN PRATER",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "光藝術",
+        "城市地標"
+      ],
+      "works": "O.T.－NEUE STERNE FÜR DEN PRATER｜2022",
+      "comment": "更新普拉特遊樂園的星形符號，讓夜間光線、娛樂史與城市天際線交織成新的公共識別。",
+      "website": "https://www.koer.or.at/projects/o.t-neue-sterne-fuer-den-prater/",
+      "workPage": "https://www.koer.or.at/projects/o.t-neue-sterne-fuer-den-prater/",
+      "photo": "https://www.koer.or.at/site/assets/files/11754/eroeffnung_3.500x0.jpg",
+      "artistStatement": "更新普拉特遊樂園的星形符號，讓夜間光線、娛樂史與城市天際線交織成新的公共識別。",
+      "artistStatementSource": "https://www.koer.or.at/projects/o.t-neue-sterne-fuer-den-prater/",
+      "classicTitle": "O.T.－NEUE STERNE FÜR DEN PRATER｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/11754/eroeffnung_3.500x0.jpg",
+      "classicDesc": "更新普拉特遊樂園的星形符號，讓夜間光線、娛樂史與城市天際線交織成新的公共識別。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-04",
+      "dedupeKey": "art-2026-09-14-current-the-great-vibration",
+      "name": "04｜Moussa Kone｜The Great Vibration",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久壁畫",
+        "繪畫",
+        "建築整合"
+      ],
+      "works": "The Great Vibration｜2022",
+      "comment": "線性圖像沿建築表面展開，如同被放大的城市震動；作品將行人速度、立面節奏與身體知覺連成一體。",
+      "website": "https://www.koer.or.at/projects/the-great-vibration/",
+      "workPage": "https://www.koer.or.at/projects/the-great-vibration/",
+      "photo": "https://www.koer.or.at/site/assets/files/10198/62a9914.500x0.jpg",
+      "artistStatement": "線性圖像沿建築表面展開，如同被放大的城市震動；作品將行人速度、立面節奏與身體知覺連成一體。",
+      "artistStatementSource": "https://www.koer.or.at/projects/the-great-vibration/",
+      "classicTitle": "The Great Vibration｜2022",
+      "classicImage": "https://www.koer.or.at/site/assets/files/10198/62a9914.500x0.jpg",
+      "classicDesc": "線性圖像沿建築表面展開，如同被放大的城市震動；作品將行人速度、立面節奏與身體知覺連成一體。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-05",
+      "dedupeKey": "art-2026-09-14-current-themroc",
+      "name": "05｜Steinbrener/Dempf & Huber｜Themroc",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久雕塑",
+        "空間介入",
+        "混合媒材"
+      ],
+      "works": "Themroc｜2021",
+      "comment": "作品借用反體制電影角色，在住宅環境中植入帶有荒謬感的異物，重新標示日常空間裡的規訓與自由。",
+      "website": "https://www.koer.or.at/projects/themroc/",
+      "workPage": "https://www.koer.or.at/projects/themroc/",
+      "photo": "https://www.koer.or.at/site/assets/files/9964/sdh_themroc_1022410.500x0.jpg",
+      "artistStatement": "作品借用反體制電影角色，在住宅環境中植入帶有荒謬感的異物，重新標示日常空間裡的規訓與自由。",
+      "artistStatementSource": "https://www.koer.or.at/projects/themroc/",
+      "classicTitle": "Themroc｜2021",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9964/sdh_themroc_1022410.500x0.jpg",
+      "classicDesc": "作品借用反體制電影角色，在住宅環境中植入帶有荒謬感的異物，重新標示日常空間裡的規訓與自由。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-06",
+      "dedupeKey": "art-2026-09-14-current-tanke-24-7",
+      "name": "06｜Toni Schmale｜TANKE 24/7",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久雕塑",
+        "鋼構",
+        "公共設施轉譯"
+      ],
+      "works": "TANKE 24/7｜2021",
+      "comment": "以加油站與健身器械般的工業語彙構成可辨識的城市物件，將勞動、力量與消費文化凝結為公共雕塑。",
+      "website": "https://www.koer.or.at/projects/tanke-24-7/",
+      "workPage": "https://www.koer.or.at/projects/tanke-24-7/",
+      "photo": "https://www.koer.or.at/site/assets/files/9838/kro2759_kleiner.500x0.jpg",
+      "artistStatement": "以加油站與健身器械般的工業語彙構成可辨識的城市物件，將勞動、力量與消費文化凝結為公共雕塑。",
+      "artistStatementSource": "https://www.koer.or.at/projects/tanke-24-7/",
+      "classicTitle": "TANKE 24/7｜2021",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9838/kro2759_kleiner.500x0.jpg",
+      "classicDesc": "以加油站與健身器械般的工業語彙構成可辨識的城市物件，將勞動、力量與消費文化凝結為公共雕塑。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-07",
+      "dedupeKey": "art-2026-09-14-current-psalm-23",
+      "name": "07｜Dvora Barzilai｜Psalm 23",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "文字藝術",
+        "紀念空間"
+      ],
+      "works": "Psalm 23｜2021",
+      "comment": "文字與場所共同建立沉思界面，將詩篇的保護意象轉化為面向公共空間的安靜記憶場。",
+      "website": "https://www.koer.or.at/projects/psalm-23/",
+      "workPage": "https://www.koer.or.at/projects/psalm-23/",
+      "photo": "https://www.koer.or.at/site/assets/files/9573/psalm_2-1.500x0.jpg",
+      "artistStatement": "文字與場所共同建立沉思界面，將詩篇的保護意象轉化為面向公共空間的安靜記憶場。",
+      "artistStatementSource": "https://www.koer.or.at/projects/psalm-23/",
+      "classicTitle": "Psalm 23｜2021",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9573/psalm_2-1.500x0.jpg",
+      "classicDesc": "文字與場所共同建立沉思界面，將詩篇的保護意象轉化為面向公共空間的安靜記憶場。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-08",
+      "dedupeKey": "art-2026-09-14-current-legplants-in-the-floating-world",
+      "name": "08｜Motoko Dobashi｜Legplants in the floating world",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久壁畫",
+        "地下道藝術",
+        "繪畫"
+      ],
+      "works": "Legplants in the floating world｜2021",
+      "comment": "植物形態在地下通道牆面蔓生，把交通基礎設施轉換成介於都市與漂浮自然之間的沉浸式路徑。",
+      "website": "https://www.koer.or.at/projects/legplants-in-the-floating-world/",
+      "workPage": "https://www.koer.or.at/projects/legplants-in-the-floating-world/",
+      "photo": "https://www.koer.or.at/site/assets/files/9594/unterfuehrung-am-tabor_01_votova.500x0.jpg",
+      "artistStatement": "植物形態在地下通道牆面蔓生，把交通基礎設施轉換成介於都市與漂浮自然之間的沉浸式路徑。",
+      "artistStatementSource": "https://www.koer.or.at/projects/legplants-in-the-floating-world/",
+      "classicTitle": "Legplants in the floating world｜2021",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9594/unterfuehrung-am-tabor_01_votova.500x0.jpg",
+      "classicDesc": "植物形態在地下通道牆面蔓生，把交通基礎設施轉換成介於都市與漂浮自然之間的沉浸式路徑。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-09",
+      "dedupeKey": "art-2026-09-14-current-we-are-here",
+      "name": "09｜Anna Khodorkovskaya｜We are HERE!",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久壁畫",
+        "社群參與",
+        "文字藝術"
+      ],
+      "works": "We are HERE!｜2021",
+      "comment": "鮮明圖像宣告居民與多元社群的在場，把被忽略的街區經驗轉化為可共享、可辨認的公共聲音。",
+      "website": "https://www.koer.or.at/projects/we-are-here/",
+      "workPage": "https://www.koer.or.at/projects/we-are-here/",
+      "photo": "https://www.koer.or.at/site/assets/files/9541/khodorkovskaya_meidling_-7257.500x0.jpg",
+      "artistStatement": "鮮明圖像宣告居民與多元社群的在場，把被忽略的街區經驗轉化為可共享、可辨認的公共聲音。",
+      "artistStatementSource": "https://www.koer.or.at/projects/we-are-here/",
+      "classicTitle": "We are HERE!｜2021",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9541/khodorkovskaya_meidling_-7257.500x0.jpg",
+      "classicDesc": "鮮明圖像宣告居民與多元社群的在場，把被忽略的街區經驗轉化為可共享、可辨認的公共聲音。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "current-2026-09-14-10",
+      "dedupeKey": "art-2026-09-14-current-haus-der-begegnung",
+      "name": "10｜Andreas Fogarasi｜Haus der Begegnung",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "建築整合",
+        "社會空間"
+      ],
+      "works": "Haus der Begegnung｜2020",
+      "comment": "作品以既有材料與建築語彙重構「相遇之家」的公共性，使社區設施本身成為城市記憶與共同使用的雕塑。",
+      "website": "https://www.koer.or.at/projects/haus-der-begegnung/",
+      "workPage": "https://www.koer.or.at/projects/haus-der-begegnung/",
+      "photo": "https://www.koer.or.at/site/assets/files/9431/andreas_fogarasi_haus_der_begegnung_1-1.500x0.jpg",
+      "artistStatement": "作品以既有材料與建築語彙重構「相遇之家」的公共性，使社區設施本身成為城市記憶與共同使用的雕塑。",
+      "artistStatementSource": "https://www.koer.or.at/projects/haus-der-begegnung/",
+      "classicTitle": "Haus der Begegnung｜2020",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9431/andreas_fogarasi_haus_der_begegnung_1-1.500x0.jpg",
+      "classicDesc": "作品以既有材料與建築語彙重構「相遇之家」的公共性，使社區設施本身成為城市記憶與共同使用的雕塑。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-global-2026-09-14-11",
+      "dedupeKey": "art-2026-09-14-classic-global-mahnmal-fuer-die-oesterreichischen-juedischen-opfer-der-shoah",
+      "name": "11｜Rachel Whiteread｜奧地利猶太人大屠殺受難者紀念碑",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "紀念碑",
+        "鑄造混凝土",
+        "永久公共藝術"
+      ],
+      "works": "奧地利猶太人大屠殺受難者紀念碑｜2000",
+      "comment": "封閉圖書館般的負空間以不可閱讀的書脊與無法開啟的門，將失落知識與被奪走的生命壓縮成城市中心的沉默體量。",
+      "website": "https://www.koer.or.at/projects/mahnmal-fuer-die-oesterreichischen-juedischen-opfer-der-shoah/",
+      "workPage": "https://www.koer.or.at/projects/mahnmal-fuer-die-oesterreichischen-juedischen-opfer-der-shoah/",
+      "photo": "https://www.koer.or.at/site/assets/files/2369/whiteread_c_eva_amann-_koer_gmbh-_2012.500x0.jpg",
+      "artistStatement": "封閉圖書館般的負空間以不可閱讀的書脊與無法開啟的門，將失落知識與被奪走的生命壓縮成城市中心的沉默體量。",
+      "artistStatementSource": "https://www.koer.or.at/projects/mahnmal-fuer-die-oesterreichischen-juedischen-opfer-der-shoah/",
+      "classicTitle": "奧地利猶太人大屠殺受難者紀念碑｜2000",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2369/whiteread_c_eva_amann-_koer_gmbh-_2012.500x0.jpg",
+      "classicDesc": "封閉圖書館般的負空間以不可閱讀的書脊與無法開啟的門，將失落知識與被奪走的生命壓縮成城市中心的沉默體量。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-global-2026-09-14-12",
+      "dedupeKey": "art-2026-09-14-classic-global-stage-set",
+      "name": "12｜Donald Judd｜Stage Set",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "極簡雕塑",
+        "永久裝置",
+        "鋼"
+      ],
+      "works": "Stage Set｜1996",
+      "comment": "精確的幾何構件把廣場切分為觀看、穿越與停留的秩序，讓極簡主義直接進入城市日常。",
+      "website": "https://www.koer.or.at/projects/stage-set/",
+      "workPage": "https://www.koer.or.at/projects/stage-set/",
+      "photo": "https://www.koer.or.at/site/assets/files/2166/judd_c_nora_hoeglinger-_koer_gmbh-_2015.500x0.jpg",
+      "artistStatement": "精確的幾何構件把廣場切分為觀看、穿越與停留的秩序，讓極簡主義直接進入城市日常。",
+      "artistStatementSource": "https://www.koer.or.at/projects/stage-set/",
+      "classicTitle": "Stage Set｜1996",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2166/judd_c_nora_hoeglinger-_koer_gmbh-_2015.500x0.jpg",
+      "classicDesc": "精確的幾何構件把廣場切分為觀看、穿越與停留的秩序，讓極簡主義直接進入城市日常。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-global-2026-09-14-13",
+      "dedupeKey": "art-2026-09-14-classic-global-tele-archaeologie",
+      "name": "13｜Nam June Paik｜Tele-Archäologie",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "媒體藝術",
+        "永久裝置",
+        "電視與雕塑"
+      ],
+      "works": "Tele-Archäologie｜1994",
+      "comment": "作品把電子媒介視為未來考古遺物，在公共場域中並置技術崇拜與歷史殘片，預示螢幕化城市經驗。",
+      "website": "https://www.koer.or.at/projects/tele-archaeologie/",
+      "workPage": "https://www.koer.or.at/projects/tele-archaeologie/",
+      "photo": "https://www.koer.or.at/site/assets/files/2127/paik_c_peter_gugerell-_2011.500x0.jpg",
+      "artistStatement": "作品把電子媒介視為未來考古遺物，在公共場域中並置技術崇拜與歷史殘片，預示螢幕化城市經驗。",
+      "artistStatementSource": "https://www.koer.or.at/projects/tele-archaeologie/",
+      "classicTitle": "Tele-Archäologie｜1994",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2127/paik_c_peter_gugerell-_2011.500x0.jpg",
+      "classicDesc": "作品把電子媒介視為未來考古遺物，在公共場域中並置技術崇拜與歷史殘片，預示螢幕化城市經驗。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-global-2026-09-14-14",
+      "dedupeKey": "art-2026-09-14-classic-global-zerschmettert-in-stuecke-im-frieden-der-nacht-smashed-to-pieces-in-the-still-of-the-night",
+      "name": "14｜Lawrence Weiner｜Zerschmettert in Stücke（im Frieden der Nacht）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "文字藝術",
+        "建築立面",
+        "永久公共藝術"
+      ],
+      "works": "Zerschmettert in Stücke（im Frieden der Nacht）｜1991",
+      "comment": "簡短語句以建築尺度佔據立面，讓語言既是物質也是事件，觀者必須在城市移動中自行完成其意義。",
+      "website": "https://www.koer.or.at/projects/zerschmettert-in-stuecke-im-frieden-der-nacht-smashed-to-pieces-in-the-still-of-the-night/",
+      "workPage": "https://www.koer.or.at/projects/zerschmettert-in-stuecke-im-frieden-der-nacht-smashed-to-pieces-in-the-still-of-the-night/",
+      "photo": "https://www.koer.or.at/site/assets/files/2008/lawrence-weiner-in-the-still-of-the-night.500x0.jpeg",
+      "artistStatement": "簡短語句以建築尺度佔據立面，讓語言既是物質也是事件，觀者必須在城市移動中自行完成其意義。",
+      "artistStatementSource": "https://www.koer.or.at/projects/zerschmettert-in-stuecke-im-frieden-der-nacht-smashed-to-pieces-in-the-still-of-the-night/",
+      "classicTitle": "Zerschmettert in Stücke（im Frieden der Nacht）｜1991",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2008/lawrence-weiner-in-the-still-of-the-night.500x0.jpeg",
+      "classicDesc": "簡短語句以建築尺度佔據立面，讓語言既是物質也是事件，觀者必須在城市移動中自行完成其意義。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-global-2026-09-14-15",
+      "dedupeKey": "art-2026-09-14-classic-global-landspace-soundings",
+      "name": "15｜Bill Fontana｜Landscape Soundings",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "聲音藝術",
+        "場域特定",
+        "永久裝置"
+      ],
+      "works": "Landscape Soundings｜1990",
+      "comment": "聲音將遠端環境與眼前空間疊合，使不可見的城市系統成為可聽見的地景，也拓展公共藝術的感官疆界。",
+      "website": "https://www.koer.or.at/projects/landspace-soundings/",
+      "workPage": "https://www.koer.or.at/projects/landspace-soundings/",
+      "photo": "https://www.koer.or.at/site/assets/files/1985/bill-fontana-landscape-soundings.500x0.jpg",
+      "artistStatement": "聲音將遠端環境與眼前空間疊合，使不可見的城市系統成為可聽見的地景，也拓展公共藝術的感官疆界。",
+      "artistStatementSource": "https://www.koer.or.at/projects/landspace-soundings/",
+      "classicTitle": "Landscape Soundings｜1990",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1985/bill-fontana-landscape-soundings.500x0.jpg",
+      "classicDesc": "聲音將遠端環境與眼前空間疊合，使不可見的城市系統成為可聽見的地景，也拓展公共藝術的感官疆界。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-german-2026-09-14-16",
+      "dedupeKey": "art-2026-09-14-classic-german-grundgesetz-49",
+      "name": "16｜Dani Karavan｜Grundgesetz 49",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "玻璃",
+        "雷射文字"
+      ],
+      "works": "Grundgesetz 49｜2002",
+      "comment": "十九片約三公尺高的玻璃刻入德國基本法十九項基本權，沿施普雷河岸把憲法文字、議會建築與城市分裂史連成透明的公共界面。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grundgesetz-49",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grundgesetz-49",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/1693f86164518271cb271330b52ddc3c44aeb784.jpg",
+      "artistStatement": "十九片約三公尺高的玻璃刻入德國基本法十九項基本權，沿施普雷河岸把憲法文字、議會建築與城市分裂史連成透明的公共界面。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grundgesetz-49",
+      "classicTitle": "Grundgesetz 49｜2002",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/1693f86164518271cb271330b52ddc3c44aeb784.jpg",
+      "classicDesc": "十九片約三公尺高的玻璃刻入德國基本法十九項基本權，沿施普雷河岸把憲法文字、議會建築與城市分裂史連成透明的公共界面。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-german-2026-09-14-17",
+      "dedupeKey": "art-2026-09-14-classic-german-installation-fur-reichstagsgebaude",
+      "name": "17｜Jenny Holzer｜Installation für Reichstagsgebäude",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "LED文字",
+        "數位裝置"
+      ],
+      "works": "Installation für Reichstagsgebäude｜1999",
+      "comment": "國會議員演說在帝國議會大廈入口的數位光帶上持續流動，使議會語言成為可見、可比較並可被公眾重新閱讀的建築材料。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/installation-fur-reichstagsgebaude",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/installation-fur-reichstagsgebaude",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a38eb652576722a7c95652e3cc477e20ed356bc1.jpg",
+      "artistStatement": "國會議員演說在帝國議會大廈入口的數位光帶上持續流動，使議會語言成為可見、可比較並可被公眾重新閱讀的建築材料。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/installation-fur-reichstagsgebaude",
+      "classicTitle": "Installation für Reichstagsgebäude｜1999",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a38eb652576722a7c95652e3cc477e20ed356bc1.jpg",
+      "classicDesc": "國會議員演說在帝國議會大廈入口的數位光帶上持續流動，使議會語言成為可見、可比較並可被公眾重新閱讀的建築材料。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-german-2026-09-14-18",
+      "dedupeKey": "art-2026-09-14-classic-german-in-den-kopfen-geheimnisse-fur-100-jahre",
+      "name": "18｜Ulrike Böhme｜In den Köpfen－Geheimnisse für 100 Jahre",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "參與式裝置",
+        "檔案藝術"
+      ],
+      "works": "In den Köpfen－Geheimnisse für 100 Jahre｜2014",
+      "comment": "作品邀請情報學校使用者留下封存百年的秘密，以不可即時驗證的承諾回應情報機構的保密制度與集體記憶。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/in-den-kopfen-geheimnisse-fur-100-jahre",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/in-den-kopfen-geheimnisse-fur-100-jahre",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/79d96c445e7ead44d3f656798bc407beca0adf85.jpg",
+      "artistStatement": "作品邀請情報學校使用者留下封存百年的秘密，以不可即時驗證的承諾回應情報機構的保密制度與集體記憶。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/in-den-kopfen-geheimnisse-fur-100-jahre",
+      "classicTitle": "In den Köpfen－Geheimnisse für 100 Jahre｜2014",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/79d96c445e7ead44d3f656798bc407beca0adf85.jpg",
+      "classicDesc": "作品邀請情報學校使用者留下封存百年的秘密，以不可即時驗證的承諾回應情報機構的保密制度與集體記憶。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-german-2026-09-14-19",
+      "dedupeKey": "art-2026-09-14-classic-german-der-bogenschutze-three-way-piece-no-2-the-archer",
+      "name": "19｜Henry Moore｜Der Bogenschütze（Three Way Piece No. 2）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "青銅雕塑",
+        "現代主義"
+      ],
+      "works": "Der Bogenschütze（Three Way Piece No. 2）｜1968",
+      "comment": "有機青銅量體以多向開口回應建築前庭，抽象形體在不同視角間轉換，成為戰後柏林最具辨識度的建築藝術作品之一。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-bogenschutze-three-way-piece-no-2-the-archer",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-bogenschutze-three-way-piece-no-2-the-archer",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/905b33d69301ce1feaf937a8ad7665883c4d07ba.jpg",
+      "artistStatement": "有機青銅量體以多向開口回應建築前庭，抽象形體在不同視角間轉換，成為戰後柏林最具辨識度的建築藝術作品之一。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-bogenschutze-three-way-piece-no-2-the-archer",
+      "classicTitle": "Der Bogenschütze（Three Way Piece No. 2）｜1968",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/905b33d69301ce1feaf937a8ad7665883c4d07ba.jpg",
+      "classicDesc": "有機青銅量體以多向開口回應建築前庭，抽象形體在不同視角間轉換，成為戰後柏林最具辨識度的建築藝術作品之一。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-14",
+      "id": "classic-german-2026-09-14-20",
+      "dedupeKey": "art-2026-09-14-classic-german-zeit-licht-zeit-bild-zeit-raum",
+      "name": "20｜Maurizio Nannucci｜Zeit/Licht, Zeit/Bild, Zeit/Raum",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "霓虹文字",
+        "建築整合"
+      ],
+      "works": "Zeit/Licht, Zeit/Bild, Zeit/Raum｜2002",
+      "comment": "藍色霓虹語句沿議會建築展開，以時間、光、影像與空間的關係激活公共閱讀，讓政治建築成為持續思辨的介面。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeit-licht-zeit-bild-zeit-raum",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeit-licht-zeit-bild-zeit-raum",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/5262bab56bfe0d1c5b0eb707a6f2aad3e851965b.jpg",
+      "artistStatement": "藍色霓虹語句沿議會建築展開，以時間、光、影像與空間的關係激活公共閱讀，讓政治建築成為持續思辨的介面。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeit-licht-zeit-bild-zeit-raum",
+      "classicTitle": "Zeit/Licht, Zeit/Bild, Zeit/Raum｜2002",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/5262bab56bfe0d1c5b0eb707a6f2aad3e851965b.jpg",
+      "classicDesc": "藍色霓虹語句沿議會建築展開，以時間、光、影像與空間的關係激活公共閱讀，讓政治建築成為持續思辨的介面。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    }
+  ]
+}
