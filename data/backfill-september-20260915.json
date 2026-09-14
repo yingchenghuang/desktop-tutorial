@@ -1,0 +1,742 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-15T05:01:33+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-15",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte 官方作品頁",
+    "selectionPolicy": "已實現且持續可見的公共藝術、永久委託與 Kunst am Bau；競圖與補助完全分流。",
+    "note": "9/15 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-09-15T05:01:33+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "官方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-15T05:01:33+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-01",
+      "dedupeKey": "art-2026-09-15-current-esterha-zypark",
+      "name": "01｜維也納第六區／Georg Traska｜Esterházypark 防空塔脈絡說明牌",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久公共藝術",
+        "紀念牌",
+        "歷史脈絡化"
+      ],
+      "works": "Esterházypark 防空塔脈絡說明牌｜2020",
+      "comment": "說明牌把公園中的納粹防空塔、強迫勞動史與曾被覆蓋的 Lawrence Weiner 銘文重新帶回公共視野，使日常休憩場域同時成為可閱讀的記憶地景。",
+      "website": "https://www.koer.or.at/projects/memorial-plaque-esterhazypark/",
+      "workPage": "https://www.koer.or.at/projects/memorial-plaque-esterhazypark/",
+      "photo": "https://www.koer.or.at/site/assets/files/9409/eroeffnung_gedenktafel_koer_1.500x0.jpg",
+      "artistStatement": "說明牌把公園中的納粹防空塔、強迫勞動史與曾被覆蓋的 Lawrence Weiner 銘文重新帶回公共視野，使日常休憩場域同時成為可閱讀的記憶地景。",
+      "artistStatementSource": "https://www.koer.or.at/projects/memorial-plaque-esterhazypark/",
+      "classicTitle": "Esterházypark 防空塔脈絡說明牌｜2020",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9409/eroeffnung_gedenktafel_koer_1.500x0.jpg",
+      "classicDesc": "說明牌把公園中的納粹防空塔、強迫勞動史與曾被覆蓋的 Lawrence Weiner 銘文重新帶回公共視野，使日常休憩場域同時成為可閱讀的記憶地景。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-02",
+      "dedupeKey": "art-2026-09-15-current-underground-systems-will-never-die",
+      "name": "02｜L'Atlas｜UNDERGROUND SYSTEMS WILL NEVER DIE",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久壁畫",
+        "街頭藝術",
+        "幾何書寫"
+      ],
+      "works": "UNDERGROUND SYSTEMS WILL NEVER DIE｜2020",
+      "comment": "藝術家將迷宮式書寫覆於城市表面，把地下文化的網絡、移動與持續生命力轉化為可從街道閱讀的巨大符號。",
+      "website": "https://www.koer.or.at/projects/underground-systems-will-never-die/",
+      "workPage": "https://www.koer.or.at/projects/underground-systems-will-never-die/",
+      "photo": "https://www.koer.or.at/site/assets/files/9232/wl_huetteldorf_undergroundsys_-5183.500x0.jpg",
+      "artistStatement": "藝術家將迷宮式書寫覆於城市表面，把地下文化的網絡、移動與持續生命力轉化為可從街道閱讀的巨大符號。",
+      "artistStatementSource": "https://www.koer.or.at/projects/underground-systems-will-never-die/",
+      "classicTitle": "UNDERGROUND SYSTEMS WILL NEVER DIE｜2020",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9232/wl_huetteldorf_undergroundsys_-5183.500x0.jpg",
+      "classicDesc": "藝術家將迷宮式書寫覆於城市表面，把地下文化的網絡、移動與持續生命力轉化為可從街道閱讀的巨大符號。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-03",
+      "dedupeKey": "art-2026-09-15-current-zukunft-einer-vision",
+      "name": "03｜Krüger & Pardeller｜Zukunft einer Vision（願景的未來）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "文字藝術",
+        "城市發展"
+      ],
+      "works": "Zukunft einer Vision（願景的未來）｜2020",
+      "comment": "作品在新城開發場域中檢視「願景」如何被規劃語言塑造，讓抽象的未來承諾成為居民可直接遭遇、質疑與重新詮釋的空間文本。",
+      "website": "https://www.koer.or.at/projects/zukunft-einer-vision/",
+      "workPage": "https://www.koer.or.at/projects/zukunft-einer-vision/",
+      "photo": "https://www.koer.or.at/site/assets/files/9225/kruegerpardeller_aspern_01-4488.500x0.jpg",
+      "artistStatement": "作品在新城開發場域中檢視「願景」如何被規劃語言塑造，讓抽象的未來承諾成為居民可直接遭遇、質疑與重新詮釋的空間文本。",
+      "artistStatementSource": "https://www.koer.or.at/projects/zukunft-einer-vision/",
+      "classicTitle": "Zukunft einer Vision（願景的未來）｜2020",
+      "classicImage": "https://www.koer.or.at/site/assets/files/9225/kruegerpardeller_aspern_01-4488.500x0.jpg",
+      "classicDesc": "作品在新城開發場域中檢視「願景」如何被規劃語言塑造，讓抽象的未來承諾成為居民可直接遭遇、質疑與重新詮釋的空間文本。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-04",
+      "dedupeKey": "art-2026-09-15-current-12-tones",
+      "name": "04｜Peter Sandbichler｜12 Tones（十二色調）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "陶瓷模組",
+        "地下通道"
+      ],
+      "works": "12 Tones（十二色調）｜2019",
+      "comment": "維也納中央車站下方一百二十公尺通道以十二色凹凸陶瓷模組構成；行走與行車令色彩和輪廓不斷變化，把交通通道轉化為身體化的視覺樂譜。",
+      "website": "https://www.koer.or.at/projects/zwoelf-toene/",
+      "workPage": "https://www.koer.or.at/projects/zwoelf-toene/",
+      "photo": "https://www.koer.or.at/site/assets/files/8930/12_tone-peter_sandbichler_c_iris_ranzinger_1-1.500x0.jpg",
+      "artistStatement": "維也納中央車站下方一百二十公尺通道以十二色凹凸陶瓷模組構成；行走與行車令色彩和輪廓不斷變化，把交通通道轉化為身體化的視覺樂譜。",
+      "artistStatementSource": "https://www.koer.or.at/projects/zwoelf-toene/",
+      "classicTitle": "12 Tones（十二色調）｜2019",
+      "classicImage": "https://www.koer.or.at/site/assets/files/8930/12_tone-peter_sandbichler_c_iris_ranzinger_1-1.500x0.jpg",
+      "classicDesc": "維也納中央車站下方一百二十公尺通道以十二色凹凸陶瓷模組構成；行走與行車令色彩和輪廓不斷變化，把交通通道轉化為身體化的視覺樂譜。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-05",
+      "dedupeKey": "art-2026-09-15-current-weinheber-ausgehoben",
+      "name": "05｜Plattform Geschichtspolitik｜Weinheber ausgehoben",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久介入",
+        "紀念碑再脈絡化",
+        "地景"
+      ],
+      "works": "Weinheber ausgehoben｜2019",
+      "comment": "作品挖出納粹詩人 Josef Weinheber 紀念碑原本隱藏的厚重基礎，讓戰後社會對其政治身分的遮蔽成為可見傷口，並以說明牌延續公共辯論。",
+      "website": "https://www.koer.or.at/projects/weinheber-ausgehoben/",
+      "workPage": "https://www.koer.or.at/projects/weinheber-ausgehoben/",
+      "photo": "https://www.koer.or.at/site/assets/files/8134/weinheber_denkmal_18-1.500x0.jpg",
+      "artistStatement": "作品挖出納粹詩人 Josef Weinheber 紀念碑原本隱藏的厚重基礎，讓戰後社會對其政治身分的遮蔽成為可見傷口，並以說明牌延續公共辯論。",
+      "artistStatementSource": "https://www.koer.or.at/projects/weinheber-ausgehoben/",
+      "classicTitle": "Weinheber ausgehoben｜2019",
+      "classicImage": "https://www.koer.or.at/site/assets/files/8134/weinheber_denkmal_18-1.500x0.jpg",
+      "classicDesc": "作品挖出納粹詩人 Josef Weinheber 紀念碑原本隱藏的厚重基礎，讓戰後社會對其政治身分的遮蔽成為可見傷口，並以說明牌延續公共辯論。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-06",
+      "dedupeKey": "art-2026-09-15-current-vienna-banquet-of-human-rights-its-guardians",
+      "name": "06｜Françoise Schein｜Vienna Banquet of Human Rights & its Guardians",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "手繪陶盤",
+        "公共座椅"
+      ],
+      "works": "Vienna Banquet of Human Rights & its Guardians｜2018",
+      "comment": "三十條世界人權宣言化為宴席、手繪餐盤與多瑙河文字地景；可坐、可讀的廣場把抽象權利轉成日常共同守護的公共倫理。",
+      "website": "https://www.koer.or.at/projects/wien-bankett/",
+      "workPage": "https://www.koer.or.at/projects/wien-bankett/",
+      "photo": "https://www.koer.or.at/site/assets/files/7120/koer_schein_menschenrechtewien_9330.500x0.jpg",
+      "artistStatement": "三十條世界人權宣言化為宴席、手繪餐盤與多瑙河文字地景；可坐、可讀的廣場把抽象權利轉成日常共同守護的公共倫理。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wien-bankett/",
+      "classicTitle": "Vienna Banquet of Human Rights & its Guardians｜2018",
+      "classicImage": "https://www.koer.or.at/site/assets/files/7120/koer_schein_menschenrechtewien_9330.500x0.jpg",
+      "classicDesc": "三十條世界人權宣言化為宴席、手繪餐盤與多瑙河文字地景；可坐、可讀的廣場把抽象權利轉成日常共同守護的公共倫理。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-07",
+      "dedupeKey": "art-2026-09-15-current-herminengasse",
+      "name": "07｜Michaela Melián｜Herminengasse",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "數位印刷貼膜",
+        "地鐵空間"
+      ],
+      "works": "Herminengasse｜2017",
+      "comment": "兩幅牆面資訊圖追索八百名曾居 Herminengasse、後遭納粹驅逐的猶太居民，將住址、鐵路與集中營化為線網，使乘客在通勤中穿越被抹除的街區記憶。",
+      "website": "https://www.koer.or.at/projects/herminengasse/",
+      "workPage": "https://www.koer.or.at/projects/herminengasse/",
+      "photo": "https://www.koer.or.at/site/assets/files/7014/9_michaela_melian_foto_iris_ranzinger-1.500x0.jpg",
+      "artistStatement": "兩幅牆面資訊圖追索八百名曾居 Herminengasse、後遭納粹驅逐的猶太居民，將住址、鐵路與集中營化為線網，使乘客在通勤中穿越被抹除的街區記憶。",
+      "artistStatementSource": "https://www.koer.or.at/projects/herminengasse/",
+      "classicTitle": "Herminengasse｜2017",
+      "classicImage": "https://www.koer.or.at/site/assets/files/7014/9_michaela_melian_foto_iris_ranzinger-1.500x0.jpg",
+      "classicDesc": "兩幅牆面資訊圖追索八百名曾居 Herminengasse、後遭納粹驅逐的猶太居民，將住址、鐵路與集中營化為線網，使乘客在通勤中穿越被抹除的街區記憶。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-08",
+      "dedupeKey": "art-2026-09-15-current-hauptweg-und-nebenwege",
+      "name": "08｜Michael Sailstorfer｜Hauptweg und Nebenwege（主路與支路）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久雕塑",
+        "不鏽鋼",
+        "烤漆"
+      ],
+      "works": "Hauptweg und Nebenwege（主路與支路）｜2017",
+      "comment": "架於地鐵通風井上的雕塑取樣交通與鐵道路網，把停滯、轉向與移動凝結成空間線條，回應 Südtiroler Platz 作為城市節點的流動性。",
+      "website": "https://www.koer.or.at/projects/hauptweg-und-nebenwege/",
+      "workPage": "https://www.koer.or.at/projects/hauptweg-und-nebenwege/",
+      "photo": "https://www.koer.or.at/site/assets/files/7066/michael_sailstorfer_9114a_2018_foto_michael_strasser.500x0.jpg",
+      "artistStatement": "架於地鐵通風井上的雕塑取樣交通與鐵道路網，把停滯、轉向與移動凝結成空間線條，回應 Südtiroler Platz 作為城市節點的流動性。",
+      "artistStatementSource": "https://www.koer.or.at/projects/hauptweg-und-nebenwege/",
+      "classicTitle": "Hauptweg und Nebenwege（主路與支路）｜2017",
+      "classicImage": "https://www.koer.or.at/site/assets/files/7066/michael_sailstorfer_9114a_2018_foto_michael_strasser.500x0.jpg",
+      "classicDesc": "架於地鐵通風井上的雕塑取樣交通與鐵道路網，把停滯、轉向與移動凝結成空間線條，回應 Südtiroler Platz 作為城市節點的流動性。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-09",
+      "dedupeKey": "art-2026-09-15-current-warten-auf-vo-gel-iv-iv",
+      "name": "09｜Josef Bernhardt｜Warten auf Vögel IV（等待鳥群 IV）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久雕塑",
+        "戶外裝置",
+        "生態觀察"
+      ],
+      "works": "Warten auf Vögel IV（等待鳥群 IV）｜2017",
+      "comment": "作品以等待鳥類停駐的結構，把雕塑的完成交給偶然到訪的非人生命；觀看因而成為對時間、棲居與城市生態的耐心練習。",
+      "website": "https://www.koer.or.at/projects/warten-auf-voegel-iv-neuaufstellung/",
+      "workPage": "https://www.koer.or.at/projects/warten-auf-voegel-iv-neuaufstellung/",
+      "photo": "https://www.koer.or.at/site/assets/files/6958/01_josef_bernhardt_foto_koer_gmbh-1.500x0.jpg",
+      "artistStatement": "作品以等待鳥類停駐的結構，把雕塑的完成交給偶然到訪的非人生命；觀看因而成為對時間、棲居與城市生態的耐心練習。",
+      "artistStatementSource": "https://www.koer.or.at/projects/warten-auf-voegel-iv-neuaufstellung/",
+      "classicTitle": "Warten auf Vögel IV（等待鳥群 IV）｜2017",
+      "classicImage": "https://www.koer.or.at/site/assets/files/6958/01_josef_bernhardt_foto_koer_gmbh-1.500x0.jpg",
+      "classicDesc": "作品以等待鳥類停駐的結構，把雕塑的完成交給偶然到訪的非人生命；觀看因而成為對時間、棲居與城市生態的耐心練習。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "current-2026-09-15-10",
+      "dedupeKey": "art-2026-09-15-current-aspang-railway-station-memorial",
+      "name": "10｜PRINZpod｜Aspang Railway Station Memorial",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久紀念碑",
+        "混凝土",
+        "玄武岩與鋼"
+      ],
+      "works": "Aspang Railway Station Memorial｜2017",
+      "comment": "兩條三十公尺長鋼軌穿入深色混凝土塊，標記四萬七千多名從 Aspang 車站被驅逐者的去向；最少形式把鐵路基礎設施轉成難以迴避的缺席。",
+      "website": "https://www.koer.or.at/projects/mahnmal-aspangbahnhof/",
+      "workPage": "https://www.koer.or.at/projects/mahnmal-aspangbahnhof/",
+      "photo": "https://www.koer.or.at/site/assets/files/6506/prinzpod_mahnmal_aspangbahnhof_5_foto_michael_strasser-1.500x0.jpg",
+      "artistStatement": "兩條三十公尺長鋼軌穿入深色混凝土塊，標記四萬七千多名從 Aspang 車站被驅逐者的去向；最少形式把鐵路基礎設施轉成難以迴避的缺席。",
+      "artistStatementSource": "https://www.koer.or.at/projects/mahnmal-aspangbahnhof/",
+      "classicTitle": "Aspang Railway Station Memorial｜2017",
+      "classicImage": "https://www.koer.or.at/site/assets/files/6506/prinzpod_mahnmal_aspangbahnhof_5_foto_michael_strasser-1.500x0.jpg",
+      "classicDesc": "兩條三十公尺長鋼軌穿入深色混凝土塊，標記四萬七千多名從 Aspang 車站被驅逐者的去向；最少形式把鐵路基礎設施轉成難以迴避的缺席。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "global-classic-2026-09-15-11",
+      "dedupeKey": "art-2026-09-15-global-classic-denkmal-fu-r-die-verfolgten-der-ns-milita-rjustiz",
+      "name": "11｜Olaf Nicolai｜Denkmal für die Verfolgten der NS-Militärjustiz",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久紀念碑",
+        "混凝土文字",
+        "廣場介入"
+      ],
+      "works": "Denkmal für die Verfolgten der NS-Militärjustiz｜2014",
+      "comment": "以醒目的階梯式文字雕塑紀念遭納粹軍事司法迫害者，作品既可被閱讀也可被行走，使法律、服從與抵抗進入 Ballhausplatz 的國家權力景觀。",
+      "website": "https://www.koer.or.at/projects/denkmal-fuer-die-verfolgten-der-ns-militaerjustiz/",
+      "workPage": "https://www.koer.or.at/projects/denkmal-fuer-die-verfolgten-der-ns-militaerjustiz/",
+      "photo": "https://www.koer.or.at/site/assets/files/4374/olaf-nicolai-denkmal-ns-militaerjustiz-09.500x0.jpg",
+      "artistStatement": "以醒目的階梯式文字雕塑紀念遭納粹軍事司法迫害者，作品既可被閱讀也可被行走，使法律、服從與抵抗進入 Ballhausplatz 的國家權力景觀。",
+      "artistStatementSource": "https://www.koer.or.at/projects/denkmal-fuer-die-verfolgten-der-ns-militaerjustiz/",
+      "classicTitle": "Denkmal für die Verfolgten der NS-Militärjustiz｜2014",
+      "classicImage": "https://www.koer.or.at/site/assets/files/4374/olaf-nicolai-denkmal-ns-militaerjustiz-09.500x0.jpg",
+      "classicDesc": "以醒目的階梯式文字雕塑紀念遭納粹軍事司法迫害者，作品既可被閱讀也可被行走，使法律、服從與抵抗進入 Ballhausplatz 的國家權力景觀。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "global-classic-2026-09-15-12",
+      "dedupeKey": "art-2026-09-15-global-classic-two-drawings-in-the-sky-two-paintings-underneath",
+      "name": "12｜Pedro Cabrita Reis｜two drawings in the sky, two paintings underneath",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "建築介入",
+        "金屬與色彩"
+      ],
+      "works": "two drawings in the sky, two paintings underneath｜2013",
+      "comment": "作品把線性構架伸向天空並在地面配置色面，讓繪畫、雕塑與建築的邊界在居民日常路徑中互相穿透。",
+      "website": "https://www.koer.or.at/projects/two-drawings-in-the-sky-two-paintings-underneath/",
+      "workPage": "https://www.koer.or.at/projects/two-drawings-in-the-sky-two-paintings-underneath/",
+      "photo": "https://www.koer.or.at/site/assets/files/3704/pedro-cabrita-reis-two-drawings-in-the-sky-two-paintings-underneath02.500x0.jpg",
+      "artistStatement": "作品把線性構架伸向天空並在地面配置色面，讓繪畫、雕塑與建築的邊界在居民日常路徑中互相穿透。",
+      "artistStatementSource": "https://www.koer.or.at/projects/two-drawings-in-the-sky-two-paintings-underneath/",
+      "classicTitle": "two drawings in the sky, two paintings underneath｜2013",
+      "classicImage": "https://www.koer.or.at/site/assets/files/3704/pedro-cabrita-reis-two-drawings-in-the-sky-two-paintings-underneath02.500x0.jpg",
+      "classicDesc": "作品把線性構架伸向天空並在地面配置色面，讓繪畫、雕塑與建築的邊界在居民日常路徑中互相穿透。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "global-classic-2026-09-15-13",
+      "dedupeKey": "art-2026-09-15-global-classic-u-bahn-station-karlsplatz",
+      "name": "13｜Peter Kogler｜U-Bahn-Station Karlsplatz",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "數位圖像",
+        "地鐵空間"
+      ],
+      "works": "U-Bahn-Station Karlsplatz｜2011",
+      "comment": "Kogler 以連續管線般的圖像包覆轉乘通道，將地下站體變成無始無終的資訊網絡；乘客移動同時啟動空間的視覺脈動。",
+      "website": "https://www.koer.or.at/projects/u-bahn-station-karlsplatz/",
+      "workPage": "https://www.koer.or.at/projects/u-bahn-station-karlsplatz/",
+      "photo": "https://www.koer.or.at/site/assets/files/1645/peter-kogler-u-bahn-station-karlsplatz-01_kl.500x0.jpg",
+      "artistStatement": "Kogler 以連續管線般的圖像包覆轉乘通道，將地下站體變成無始無終的資訊網絡；乘客移動同時啟動空間的視覺脈動。",
+      "artistStatementSource": "https://www.koer.or.at/projects/u-bahn-station-karlsplatz/",
+      "classicTitle": "U-Bahn-Station Karlsplatz｜2011",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1645/peter-kogler-u-bahn-station-karlsplatz-01_kl.500x0.jpg",
+      "classicDesc": "Kogler 以連續管線般的圖像包覆轉乘通道，將地下站體變成無始無終的資訊網絡；乘客移動同時啟動空間的視覺脈動。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "global-classic-2026-09-15-14",
+      "dedupeKey": "art-2026-09-15-global-classic-ohne-titel",
+      "name": "14｜Heimo Zobernig｜ohne Titel（無題）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久裝置",
+        "建築整合",
+        "抽象形式"
+      ],
+      "works": "ohne Titel（無題）｜2010",
+      "comment": "作品以節制的抽象語彙介入建築，使材料、比例與既有空間的觀看秩序成為主題，展現藝術不以獨立物件而以環境關係發生。",
+      "website": "https://www.koer.or.at/projects/ohne-titel-1/",
+      "workPage": "https://www.koer.or.at/projects/ohne-titel-1/",
+      "photo": "https://www.koer.or.at/site/assets/files/4366/heimo-zobernig-ohne-titel-01.500x0.jpg",
+      "artistStatement": "作品以節制的抽象語彙介入建築，使材料、比例與既有空間的觀看秩序成為主題，展現藝術不以獨立物件而以環境關係發生。",
+      "artistStatementSource": "https://www.koer.or.at/projects/ohne-titel-1/",
+      "classicTitle": "ohne Titel（無題）｜2010",
+      "classicImage": "https://www.koer.or.at/site/assets/files/4366/heimo-zobernig-ohne-titel-01.500x0.jpg",
+      "classicDesc": "作品以節制的抽象語彙介入建築，使材料、比例與既有空間的觀看秩序成為主題，展現藝術不以獨立物件而以環境關係發生。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "global-classic-2026-09-15-15",
+      "dedupeKey": "art-2026-09-15-global-classic-untitled-it-is-obvious",
+      "name": "15｜BLU｜Untitled / it is obvious",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "永久壁畫",
+        "街頭藝術",
+        "政治圖像"
+      ],
+      "works": "Untitled / it is obvious｜2010",
+      "comment": "巨幅壁畫以直接而尖銳的圖像語言占據都市立面，把私人牆面轉化為公共議題的可視論壇，成為維也納街頭藝術的重要歷史節點。",
+      "website": "https://www.koer.or.at/projects/untitled-it-is-obvious/",
+      "workPage": "https://www.koer.or.at/projects/untitled-it-is-obvious/",
+      "photo": "https://www.koer.or.at/site/assets/files/4303/blu-untitled-it-is-obvious-01.500x0.jpg",
+      "artistStatement": "巨幅壁畫以直接而尖銳的圖像語言占據都市立面，把私人牆面轉化為公共議題的可視論壇，成為維也納街頭藝術的重要歷史節點。",
+      "artistStatementSource": "https://www.koer.or.at/projects/untitled-it-is-obvious/",
+      "classicTitle": "Untitled / it is obvious｜2010",
+      "classicImage": "https://www.koer.or.at/site/assets/files/4303/blu-untitled-it-is-obvious-01.500x0.jpg",
+      "classicDesc": "巨幅壁畫以直接而尖銳的圖像語言占據都市立面，把私人牆面轉化為公共議題的可視論壇，成為維也納街頭藝術的重要歷史節點。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "german-classic-2026-09-15-16",
+      "dedupeKey": "art-2026-09-15-german-classic-heimkehr-der-erinnerung-fragen-fu-r-walter-benjamin",
+      "name": "16｜Jochen Gerz｜Heimkehr der Erinnerung（Fragen für Walter Benjamin）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Frankfurt am Main",
+      "cityKeywords": [
+        "Frankfurt am Main",
+        "Frankfurt",
+        "法蘭克福"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "玻璃書架",
+        "金屬軌道與閱讀台"
+      ],
+      "works": "Heimkehr der Erinnerung（Fragen für Walter Benjamin）｜1996",
+      "comment": "傾倒的玻璃書架、牆上殘影與提問式閱讀台在德國國家圖書館屋頂平台形成記憶裝置，借 Walter Benjamin 追問文字、審查、焚書與文化保存。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/heimkehr-der-erinnerung-fragen-fur-walter-benjamin",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/heimkehr-der-erinnerung-fragen-fur-walter-benjamin",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c3bbd235c9eaa248d54b87eeede06fcb741fa995.jpg",
+      "artistStatement": "傾倒的玻璃書架、牆上殘影與提問式閱讀台在德國國家圖書館屋頂平台形成記憶裝置，借 Walter Benjamin 追問文字、審查、焚書與文化保存。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/heimkehr-der-erinnerung-fragen-fur-walter-benjamin",
+      "classicTitle": "Heimkehr der Erinnerung（Fragen für Walter Benjamin）｜1996",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c3bbd235c9eaa248d54b87eeede06fcb741fa995.jpg",
+      "classicDesc": "傾倒的玻璃書架、牆上殘影與提問式閱讀台在德國國家圖書館屋頂平台形成記憶裝置，借 Walter Benjamin 追問文字、審查、焚書與文化保存。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "german-classic-2026-09-15-17",
+      "dedupeKey": "art-2026-09-15-german-classic-schalenrelief",
+      "name": "17｜Angelika Baasner-Matussek｜Schalenrelief（碗形浮雕）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "陶瓷浮雕",
+        "模組"
+      ],
+      "works": "Schalenrelief（碗形浮雕）｜1970",
+      "comment": "四組陶瓷碗形模組承接「Langer Eugen」議員大樓的嚴整方格，旋轉的圓形單元則把建築理性轉為波動、明亮而帶日常感的視覺節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schalenrelief",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schalenrelief",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/6ef560efb802445778c0a6191a4b1768967349a0.jpg",
+      "artistStatement": "四組陶瓷碗形模組承接「Langer Eugen」議員大樓的嚴整方格，旋轉的圓形單元則把建築理性轉為波動、明亮而帶日常感的視覺節奏。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schalenrelief",
+      "classicTitle": "Schalenrelief（碗形浮雕）｜1970",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/6ef560efb802445778c0a6191a4b1768967349a0.jpg",
+      "classicDesc": "四組陶瓷碗形模組承接「Langer Eugen」議員大樓的嚴整方格，旋轉的圓形單元則把建築理性轉為波動、明亮而帶日常感的視覺節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "german-classic-2026-09-15-18",
+      "dedupeKey": "art-2026-09-15-german-classic-o-t",
+      "name": "18｜Woty Werner｜o. T.（無題壁毯）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "羊毛織品",
+        "壁毯"
+      ],
+      "works": "o. T.（無題壁毯）｜1971",
+      "comment": "抽象羊毛壁毯精確嵌入會議室門楣與天花之間，以彼此差異又互相支撐的色塊，象徵民主制度與聯邦結構中的多元共存。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-3",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-3",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/1211ef13821ce6194fea143ec3c999516dc48619.jpg",
+      "artistStatement": "抽象羊毛壁毯精確嵌入會議室門楣與天花之間，以彼此差異又互相支撐的色塊，象徵民主制度與聯邦結構中的多元共存。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-3",
+      "classicTitle": "o. T.（無題壁毯）｜1971",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/1211ef13821ce6194fea143ec3c999516dc48619.jpg",
+      "classicDesc": "抽象羊毛壁毯精確嵌入會議室門楣與天花之間，以彼此差異又互相支撐的色塊，象徵民主制度與聯邦結構中的多元共存。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "german-classic-2026-09-15-19",
+      "dedupeKey": "art-2026-09-15-german-classic-sternenruhe-rest-eines-traumes-k-im-glassaal",
+      "name": "19｜Peter Chevalier｜Sternenruhe / Rest eines Traumes / K. im Glassaal",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "油彩畫布",
+        "室內空間"
+      ],
+      "works": "Sternenruhe / Rest eines Traumes / K. im Glassaal｜2000",
+      "comment": "三幅繪畫以夢境、宇宙與記憶性的形象介入聯邦勞動與社會部歷史建築，使行政空間在納粹宣傳部舊址的沉重脈絡中保留想像與反思。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sternenruhe-rest-eines-traumes-k-im-glassaal",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sternenruhe-rest-eines-traumes-k-im-glassaal",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/1ad3ccc7e0065f3797d59663fecc723a52fb650c.jpg",
+      "artistStatement": "三幅繪畫以夢境、宇宙與記憶性的形象介入聯邦勞動與社會部歷史建築，使行政空間在納粹宣傳部舊址的沉重脈絡中保留想像與反思。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sternenruhe-rest-eines-traumes-k-im-glassaal",
+      "classicTitle": "Sternenruhe / Rest eines Traumes / K. im Glassaal｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/1ad3ccc7e0065f3797d59663fecc723a52fb650c.jpg",
+      "classicDesc": "三幅繪畫以夢境、宇宙與記憶性的形象介入聯邦勞動與社會部歷史建築，使行政空間在納粹宣傳部舊址的沉重脈絡中保留想像與反思。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-15",
+      "id": "german-classic-2026-09-15-20",
+      "dedupeKey": "art-2026-09-15-german-classic-die-wirtschaft-der-ddr-unter-dem-zeichen-des-friedens",
+      "name": "20｜Fritz Kühn｜Die Wirtschaft der DDR unter dem Zeichen des Friedens",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋁板金屬浮雕",
+        "聲學牆"
+      ],
+      "works": "Die Wirtschaft der DDR unter dem Zeichen des Friedens｜1964",
+      "comment": "四十二塊鋁板以蝕刻、著色、浮雕與大量聲學孔構成六公尺高的國家敘事壁面；作品既服務會議廳聲學，也保存東德公共藝術如何把產業與和平編入官方圖像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-wirtschaft-der-ddr-unter-dem-zeichen-des-friedens",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-wirtschaft-der-ddr-unter-dem-zeichen-des-friedens",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/bde4a08f59bcea1d1b6bd0b751bdc1d42ca7512d.jpg",
+      "artistStatement": "四十二塊鋁板以蝕刻、著色、浮雕與大量聲學孔構成六公尺高的國家敘事壁面；作品既服務會議廳聲學，也保存東德公共藝術如何把產業與和平編入官方圖像。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-wirtschaft-der-ddr-unter-dem-zeichen-des-friedens",
+      "classicTitle": "Die Wirtschaft der DDR unter dem Zeichen des Friedens｜1964",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/bde4a08f59bcea1d1b6bd0b751bdc1d42ca7512d.jpg",
+      "classicDesc": "四十二塊鋁板以蝕刻、著色、浮雕與大量聲學孔構成六公尺高的國家敘事壁面；作品既服務會議廳聲學，也保存東德公共藝術如何把產業與和平編入官方圖像。",
+      "relatedByCity": [
+        "competition-2026-08-22-02",
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-02",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-04",
+        "competition-2026-09-01-05",
+        "competition-2026-09-02-01",
+        "competition-2026-09-02-02",
+        "competition-2026-09-02-03",
+        "competition-2026-09-02-04",
+        "competition-2026-09-02-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-02",
+        "competition-2026-09-08-03",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    }
+  ]
+}
