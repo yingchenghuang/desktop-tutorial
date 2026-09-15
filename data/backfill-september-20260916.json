@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-16T05:00:36+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-16",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte 官方作品頁",
+    "selectionPolicy": "已實現且持續可見的公共藝術、永久委託與 Kunst am Bau；競圖與補助完全分流。",
+    "note": "9/16 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-09-16T05:00:36+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "官方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-16T05:00:36+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-01",
+      "dedupeKey": "art-2026-09-16-current-picknick-am-wegesrand",
+      "name": "01｜維也納第三區／Michèle Pagel｜路邊野餐（Picknick am Wegesrand）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "裝置",
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "路邊野餐（Picknick am Wegesrand）｜2026",
+      "comment": "以放大的彩色混凝土日用品、青銅昆蟲與棋后構成庭院靜物。作品從動物觀看人類遺留物的尺度出發，將消費、廢棄物、生物多樣性與社會住宅中的照護勞動疊合為可觸摸的公共敘事。",
+      "website": "https://www.koer.or.at/projekte/picknick-am-wegesrand/",
+      "workPage": "https://www.koer.or.at/projekte/picknick-am-wegesrand/",
+      "photo": "https://www.koer.or.at/site/assets/files/15364/kro5619.500x0.jpg",
+      "artistStatement": "以放大的彩色混凝土日用品、青銅昆蟲與棋后構成庭院靜物。作品從動物觀看人類遺留物的尺度出發，將消費、廢棄物、生物多樣性與社會住宅中的照護勞動疊合為可觸摸的公共敘事。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/picknick-am-wegesrand/",
+      "classicTitle": "路邊野餐（Picknick am Wegesrand）｜2026",
+      "classicImage": "https://www.koer.or.at/site/assets/files/15364/kro5619.500x0.jpg",
+      "classicDesc": "以放大的彩色混凝土日用品、青銅昆蟲與棋后構成庭院靜物。作品從動物觀看人類遺留物的尺度出發，將消費、廢棄物、生物多樣性與社會住宅中的照護勞動疊合為可觸摸的公共敘事。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-02",
+      "dedupeKey": "art-2026-09-16-current-schieflage",
+      "name": "02｜維也納第一區／Klemens Wihlidal｜傾斜（Karl Lueger 3.5°）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "傾斜（Karl Lueger 3.5°）｜2026",
+      "comment": "將具爭議的 Karl Lueger 紀念碑與基座整體傾斜 3.5 度，讓城市不再以附加說明掩飾反猶政治史，而以失衡的身體感持續迫使路人面對紀念物所承載的權力。",
+      "website": "https://www.koer.or.at/projekte/schieflage/",
+      "workPage": "https://www.koer.or.at/projekte/schieflage/",
+      "photo": "https://www.koer.or.at/site/assets/files/14384/01_2026_juni_lueger-koer-foto-wolfgangthaler_90a0630-b-1.500x0.jpg",
+      "artistStatement": "將具爭議的 Karl Lueger 紀念碑與基座整體傾斜 3.5 度，讓城市不再以附加說明掩飾反猶政治史，而以失衡的身體感持續迫使路人面對紀念物所承載的權力。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/schieflage/",
+      "classicTitle": "傾斜（Karl Lueger 3.5°）｜2026",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14384/01_2026_juni_lueger-koer-foto-wolfgangthaler_90a0630-b-1.500x0.jpg",
+      "classicDesc": "將具爭議的 Karl Lueger 紀念碑與基座整體傾斜 3.5 度，讓城市不再以附加說明掩飾反猶政治史，而以失衡的身體感持續迫使路人面對紀念物所承載的權力。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-03",
+      "dedupeKey": "art-2026-09-16-current-assemblage-familiar",
+      "name": "03｜維也納第二十二區／Gelatin、Clegg & Guttmann、RfM_Architektur｜熟悉的組裝：家之故事／家之形式",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "裝置",
+        "社會參與",
+        "建築/場域"
+      ],
+      "works": "熟悉的組裝：家之故事／家之形式｜2025",
+      "comment": "三組創作共同嵌入多元移民背景的共居社區，透過共同製作、交換故事與可停留的戶外構造，把陌生人之間的文化差異轉化成日常相遇與共同使用的空間資源。",
+      "website": "https://www.koer.or.at/projekte/assemblage-familiar/",
+      "workPage": "https://www.koer.or.at/projekte/assemblage-familiar/",
+      "photo": "https://www.koer.or.at/site/assets/files/14226/hutte1_2.500x0.jpg",
+      "artistStatement": "三組創作共同嵌入多元移民背景的共居社區，透過共同製作、交換故事與可停留的戶外構造，把陌生人之間的文化差異轉化成日常相遇與共同使用的空間資源。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/assemblage-familiar/",
+      "classicTitle": "熟悉的組裝：家之故事／家之形式｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14226/hutte1_2.500x0.jpg",
+      "classicDesc": "三組創作共同嵌入多元移民背景的共居社區，透過共同製作、交換故事與可停留的戶外構造，把陌生人之間的文化差異轉化成日常相遇與共同使用的空間資源。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-04",
+      "dedupeKey": "art-2026-09-16-current-this-is-the-space-we-inhabit-as-neighbors",
+      "name": "04｜維也納第三區／Barbara Kapusta｜這是我們作為鄰居共同居住的空間",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域",
+        "文字藝術"
+      ],
+      "works": "這是我們作為鄰居共同居住的空間｜2025",
+      "comment": "藝術家把同名詩句轉換成自創形狀字母，沿九層住宅狹長立面向上展開。只有在共同居住的語境裡，抽象符號才成為對鄰里關係、差異與互相承認的公開提案。",
+      "website": "https://www.koer.or.at/projekte/this-is-the-space-we-inhabit-as-neighbors/",
+      "workPage": "https://www.koer.or.at/projekte/this-is-the-space-we-inhabit-as-neighbors/",
+      "photo": "https://www.koer.or.at/site/assets/files/14153/2025_08_10_kor_000272_web-2.500x0.jpg",
+      "artistStatement": "藝術家把同名詩句轉換成自創形狀字母，沿九層住宅狹長立面向上展開。只有在共同居住的語境裡，抽象符號才成為對鄰里關係、差異與互相承認的公開提案。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/this-is-the-space-we-inhabit-as-neighbors/",
+      "classicTitle": "這是我們作為鄰居共同居住的空間｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/14153/2025_08_10_kor_000272_web-2.500x0.jpg",
+      "classicDesc": "藝術家把同名詩句轉換成自創形狀字母，沿九層住宅狹長立面向上展開。只有在共同居住的語境裡，抽象符號才成為對鄰里關係、差異與互相承認的公開提案。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-05",
+      "dedupeKey": "art-2026-09-16-current-der-verlorene-garten",
+      "name": "05｜維也納第十二區／Christian Kosmas Mayer｜失落的花園",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "建築/場域",
+        "光/影像/投影",
+        "永久公共藝術"
+      ],
+      "works": "失落的花園｜2025",
+      "comment": "以陶瓷墨水印於玻璃的多幅影像，將因南方鐵路興建而消失的 Prónay 花園帶回每日數萬人穿行的車站通道；它不復原單一真相，而揭示歷史圖像如何被檔案、觀看制度與遺忘共同製造。",
+      "website": "https://www.koer.or.at/projekte/der-verlorene-garten/",
+      "workPage": "https://www.koer.or.at/projekte/der-verlorene-garten/",
+      "photo": "https://www.koer.or.at/site/assets/files/13855/dsc0210_kleiner.500x0.jpg",
+      "artistStatement": "以陶瓷墨水印於玻璃的多幅影像，將因南方鐵路興建而消失的 Prónay 花園帶回每日數萬人穿行的車站通道；它不復原單一真相，而揭示歷史圖像如何被檔案、觀看制度與遺忘共同製造。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/der-verlorene-garten/",
+      "classicTitle": "失落的花園｜2025",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13855/dsc0210_kleiner.500x0.jpg",
+      "classicDesc": "以陶瓷墨水印於玻璃的多幅影像，將因南方鐵路興建而消失的 Prónay 花園帶回每日數萬人穿行的車站通道；它不復原單一真相，而揭示歷史圖像如何被檔案、觀看制度與遺忘共同製造。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-06",
+      "dedupeKey": "art-2026-09-16-current-be-a-mensch",
+      "name": "06｜維也納第十區／Johanna Kandl｜做一個真正的人（Be a mensch）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域",
+        "紀念性公共藝術"
+      ],
+      "works": "做一個真正的人（Be a mensch）｜2024",
+      "comment": "社會住宅立面以意第緒語進入美式英語的「mensch」紀念音樂家與人權倡議者 Willi Resetarits。文字既是城市尺度的肖像，也是要求誠實、正直與跨文化連結的日常倫理。",
+      "website": "https://www.koer.or.at/projekte/be-a-mensch/",
+      "workPage": "https://www.koer.or.at/projekte/be-a-mensch/",
+      "photo": "https://www.koer.or.at/site/assets/files/13900/dsc6395_exp_a4.500x0.jpg",
+      "artistStatement": "社會住宅立面以意第緒語進入美式英語的「mensch」紀念音樂家與人權倡議者 Willi Resetarits。文字既是城市尺度的肖像，也是要求誠實、正直與跨文化連結的日常倫理。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/be-a-mensch/",
+      "classicTitle": "做一個真正的人（Be a mensch）｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13900/dsc6395_exp_a4.500x0.jpg",
+      "classicDesc": "社會住宅立面以意第緒語進入美式英語的「mensch」紀念音樂家與人權倡議者 Willi Resetarits。文字既是城市尺度的肖像，也是要求誠實、正直與跨文化連結的日常倫理。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-07",
+      "dedupeKey": "art-2026-09-16-current-schneckenhaus-warnt-flugschnecke-ueberlebenswerk-am-planeten",
+      "name": "07｜維也納第十二區／Anna Meyer｜蝸牛殼警告飛行蝸牛",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域",
+        "生態藝術"
+      ],
+      "works": "蝸牛殼警告飛行蝸牛｜2024",
+      "comment": "跨越兩面住宅立面的超現實壁畫，以耀眼色彩、變形生物與荒誕敘事直面人類和自然的有毒關係；幽默感使氣候危機不只是警告，也成為居民每天可重新閱讀的想像場。",
+      "website": "https://www.koer.or.at/projekte/schneckenhaus-warnt-flugschnecke-ueberlebenswerk-am-planeten/",
+      "workPage": "https://www.koer.or.at/projekte/schneckenhaus-warnt-flugschnecke-ueberlebenswerk-am-planeten/",
+      "photo": "https://www.koer.or.at/site/assets/files/13959/c_anna_meyer_04_kleiner.500x0.jpg",
+      "artistStatement": "跨越兩面住宅立面的超現實壁畫，以耀眼色彩、變形生物與荒誕敘事直面人類和自然的有毒關係；幽默感使氣候危機不只是警告，也成為居民每天可重新閱讀的想像場。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/schneckenhaus-warnt-flugschnecke-ueberlebenswerk-am-planeten/",
+      "classicTitle": "蝸牛殼警告飛行蝸牛｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13959/c_anna_meyer_04_kleiner.500x0.jpg",
+      "classicDesc": "跨越兩面住宅立面的超現實壁畫，以耀眼色彩、變形生物與荒誕敘事直面人類和自然的有毒關係；幽默感使氣候危機不只是警告，也成為居民每天可重新閱讀的想像場。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-08",
+      "dedupeKey": "art-2026-09-16-current-herbarium-burggasse",
+      "name": "08｜維也納第七區／Marianne Vlaschits｜Burggasse 植物標本集",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域",
+        "永久公共藝術"
+      ],
+      "works": "Burggasse 植物標本集｜2024",
+      "comment": "地鐵出入口的牆面繪畫把 Otto Wagner 的歷史站體紋樣接入超現實植物群，使通勤者彷彿穿過一部可步行的植物誌；新舊建築因此獲得連續而易辨識的場所性。",
+      "website": "https://www.koer.or.at/projekte/herbarium-burggasse/",
+      "workPage": "https://www.koer.or.at/projekte/herbarium-burggasse/",
+      "photo": "https://www.koer.or.at/site/assets/files/13166/2024_06_12_marianne-vlaschits_00025_web.500x0.jpg",
+      "artistStatement": "地鐵出入口的牆面繪畫把 Otto Wagner 的歷史站體紋樣接入超現實植物群，使通勤者彷彿穿過一部可步行的植物誌；新舊建築因此獲得連續而易辨識的場所性。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/herbarium-burggasse/",
+      "classicTitle": "Burggasse 植物標本集｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/13166/2024_06_12_marianne-vlaschits_00025_web.500x0.jpg",
+      "classicDesc": "地鐵出入口的牆面繪畫把 Otto Wagner 的歷史站體紋樣接入超現實植物群，使通勤者彷彿穿過一部可步行的植物誌；新舊建築因此獲得連續而易辨識的場所性。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-09",
+      "dedupeKey": "art-2026-09-16-current-home-stories",
+      "name": "09｜維也納第二區／Erika Hock｜家的故事（Home Stories）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "永久公共藝術"
+      ],
+      "works": "家的故事（Home Stories）｜2024",
+      "comment": "巨型陶瓷襪子、杯具、衣物與彩色鋼管從門廳延伸至八層中庭及戶外，將最私密的家務物件放大為住宅共同體的座標，讓每層樓在共享結構中仍保有自己的性格。",
+      "website": "https://www.koer.or.at/projekte/home-stories/",
+      "workPage": "https://www.koer.or.at/projekte/home-stories/",
+      "photo": "https://www.koer.or.at/site/assets/files/12661/02_dsc9233.500x0.jpg",
+      "artistStatement": "巨型陶瓷襪子、杯具、衣物與彩色鋼管從門廳延伸至八層中庭及戶外，將最私密的家務物件放大為住宅共同體的座標，讓每層樓在共享結構中仍保有自己的性格。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/home-stories/",
+      "classicTitle": "家的故事（Home Stories）｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12661/02_dsc9233.500x0.jpg",
+      "classicDesc": "巨型陶瓷襪子、杯具、衣物與彩色鋼管從門廳延伸至八層中庭及戶外，將最私密的家務物件放大為住宅共同體的座標，讓每層樓在共享結構中仍保有自己的性格。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "current-2026-09-16-10",
+      "dedupeKey": "art-2026-09-16-current-winduhr-oder-das-leben-ein-hauch",
+      "name": "10｜維也納第三區／Alfredo Barsuglia｜風鐘，或生命一息",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "動力藝術"
+      ],
+      "works": "風鐘，或生命一息｜2024",
+      "comment": "住宅立面上的巨大鐘面不以一般機械計時，而把風與環境變化引入時間感知。作品借用城市時鐘的熟悉形式，讓居民注意客觀時間之外、由身體與天候共同形成的生活節奏。",
+      "website": "https://www.koer.or.at/projekte/winduhr-oder-das-leben-ein-hauch/",
+      "workPage": "https://www.koer.or.at/projekte/winduhr-oder-das-leben-ein-hauch/",
+      "photo": "https://www.koer.or.at/site/assets/files/12652/04.500x0.jpg",
+      "artistStatement": "住宅立面上的巨大鐘面不以一般機械計時，而把風與環境變化引入時間感知。作品借用城市時鐘的熟悉形式，讓居民注意客觀時間之外、由身體與天候共同形成的生活節奏。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/winduhr-oder-das-leben-ein-hauch/",
+      "classicTitle": "風鐘，或生命一息｜2024",
+      "classicImage": "https://www.koer.or.at/site/assets/files/12652/04.500x0.jpg",
+      "classicDesc": "住宅立面上的巨大鐘面不以一般機械計時，而把風與環境變化引入時間感知。作品借用城市時鐘的熟悉形式，讓居民注意客觀時間之外、由身體與天候共同形成的生活節奏。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "global-classic-2026-09-16-11",
+      "dedupeKey": "art-2026-09-16-global-classic-hill-arches",
+      "name": "11｜維也納第四區／Henry Moore｜山丘拱門（Hill Arches）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "雕塑",
+        "永久公共藝術",
+        "建築/場域"
+      ],
+      "works": "山丘拱門（Hill Arches）｜1978",
+      "comment": "亨利・摩爾以青銅曲線與拱形組成開放的身體—地景，並把作品贈予維也納。雕塑立於 Karlskirche 前水池，以洞口、倒影和遠近觀看把獨立物件轉化為廣場空間的框景裝置。",
+      "website": "https://www.koer.or.at/projekte/hill-arches/",
+      "workPage": "https://www.koer.or.at/projekte/hill-arches/",
+      "photo": "https://www.koer.or.at/site/assets/files/1910/moore_-c-_eva_amann-_k-ur_gmbh-_2012.500x0.jpg",
+      "artistStatement": "亨利・摩爾以青銅曲線與拱形組成開放的身體—地景，並把作品贈予維也納。雕塑立於 Karlskirche 前水池，以洞口、倒影和遠近觀看把獨立物件轉化為廣場空間的框景裝置。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/hill-arches/",
+      "classicTitle": "山丘拱門（Hill Arches）｜1978",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1910/moore_-c-_eva_amann-_k-ur_gmbh-_2012.500x0.jpg",
+      "classicDesc": "亨利・摩爾以青銅曲線與拱形組成開放的身體—地景，並把作品贈予維也納。雕塑立於 Karlskirche 前水池，以洞口、倒影和遠近觀看把獨立物件轉化為廣場空間的框景裝置。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "global-classic-2026-09-16-12",
+      "dedupeKey": "art-2026-09-16-global-classic-mahnmal-gegen-krieg-und-faschismus",
+      "name": "12｜維也納第一區／Alfred Hrdlicka｜反戰與反法西斯紀念碑",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "雕塑",
+        "社會參與"
+      ],
+      "works": "反戰與反法西斯紀念碑｜1988",
+      "comment": "由「暴力之門」、跪地洗街的猶太人、奧菲斯與刻有獨立宣言的共和國之石構成。具象而不安的身體把戰爭、反猶與街頭羞辱帶回市中心，拒絕將國家記憶處理成平滑的英雄敘事。",
+      "website": "https://www.koer.or.at/projekte/mahnmal-gegen-krieg-und-faschismus/",
+      "workPage": "https://www.koer.or.at/projekte/mahnmal-gegen-krieg-und-faschismus/",
+      "photo": "https://www.koer.or.at/site/assets/files/1977/hrdlicka_-c-_walter_schaub-walzer_pid.500x0.jpg",
+      "artistStatement": "由「暴力之門」、跪地洗街的猶太人、奧菲斯與刻有獨立宣言的共和國之石構成。具象而不安的身體把戰爭、反猶與街頭羞辱帶回市中心，拒絕將國家記憶處理成平滑的英雄敘事。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/mahnmal-gegen-krieg-und-faschismus/",
+      "classicTitle": "反戰與反法西斯紀念碑｜1988",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1977/hrdlicka_-c-_walter_schaub-walzer_pid.500x0.jpg",
+      "classicDesc": "由「暴力之門」、跪地洗街的猶太人、奧菲斯與刻有獨立宣言的共和國之石構成。具象而不安的身體把戰爭、反猶與街頭羞辱帶回市中心，拒絕將國家記憶處理成平滑的英雄敘事。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "global-classic-2026-09-16-13",
+      "dedupeKey": "art-2026-09-16-global-classic-landspace-soundings",
+      "name": "13｜維也納第一區／Bill Fontana｜地景探測（Landscape Soundings）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "地景/大地藝術",
+        "暫時性作品"
+      ],
+      "works": "地景探測（Landscape Soundings）｜1990",
+      "comment": "藝術家把多瑙河濕地錄製的自然聲響轉為十四天的城市聲音雕塑，置於藝術史與自然史博物館之間並同步進入廣播。遠方生態環境因此穿越媒介，重新標定帝國廣場的聽覺尺度。",
+      "website": "https://www.koer.or.at/projekte/landspace-soundings/",
+      "workPage": "https://www.koer.or.at/projekte/landspace-soundings/",
+      "photo": "https://www.koer.or.at/site/assets/files/1985/bill-fontana-landscape-soundings.500x0.jpg",
+      "artistStatement": "藝術家把多瑙河濕地錄製的自然聲響轉為十四天的城市聲音雕塑，置於藝術史與自然史博物館之間並同步進入廣播。遠方生態環境因此穿越媒介，重新標定帝國廣場的聽覺尺度。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/landspace-soundings/",
+      "classicTitle": "地景探測（Landscape Soundings）｜1990",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1985/bill-fontana-landscape-soundings.500x0.jpg",
+      "classicDesc": "藝術家把多瑙河濕地錄製的自然聲響轉為十四天的城市聲音雕塑，置於藝術史與自然史博物館之間並同步進入廣播。遠方生態環境因此穿越媒介，重新標定帝國廣場的聽覺尺度。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "global-classic-2026-09-16-14",
+      "dedupeKey": "art-2026-09-16-global-classic-zerschmettert-in-stuecke-im-frieden-der-nacht-smashed-to-pieces-in-the-still-of-the-night",
+      "name": "14｜維也納第六區／Lawrence Weiner｜粉碎成片（在夜的寂靜中）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "文字藝術",
+        "建築/場域",
+        "紀念性公共藝術"
+      ],
+      "works": "粉碎成片（在夜的寂靜中）｜1991",
+      "comment": "雙語文字直接書寫於納粹防空塔，使軍事建築從權力遺跡轉為反戰命題。語句不描繪事件，而以「破碎」在白晝與夜晚聲響不同的想像，讓觀看者補上歷史的暴力與餘震。",
+      "website": "https://www.koer.or.at/projekte/zerschmettert-in-stuecke-im-frieden-der-nacht-smashed-to-pieces-in-the-still-of-the-night/",
+      "workPage": "https://www.koer.or.at/projekte/zerschmettert-in-stuecke-im-frieden-der-nacht-smashed-to-pieces-in-the-still-of-the-night/",
+      "photo": "https://www.koer.or.at/site/assets/files/2008/lawrence-weiner-in-the-still-of-the-night.500x0.jpeg",
+      "artistStatement": "雙語文字直接書寫於納粹防空塔，使軍事建築從權力遺跡轉為反戰命題。語句不描繪事件，而以「破碎」在白晝與夜晚聲響不同的想像，讓觀看者補上歷史的暴力與餘震。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/zerschmettert-in-stuecke-im-frieden-der-nacht-smashed-to-pieces-in-the-still-of-the-night/",
+      "classicTitle": "粉碎成片（在夜的寂靜中）｜1991",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2008/lawrence-weiner-in-the-still-of-the-night.500x0.jpeg",
+      "classicDesc": "雙語文字直接書寫於納粹防空塔，使軍事建築從權力遺跡轉為反戰命題。語句不描繪事件，而以「破碎」在白晝與夜晚聲響不同的想像，讓觀看者補上歷史的暴力與餘震。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "global-classic-2026-09-16-15",
+      "dedupeKey": "art-2026-09-16-global-classic-mahnmal-fuer-die-oesterreichischen-juedischen-opfer-der-shoah",
+      "name": "15｜維也納第一區／Rachel Whiteread｜奧地利猶太大屠殺受難者紀念碑",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "雕塑",
+        "永久公共藝術"
+      ],
+      "works": "奧地利猶太大屠殺受難者紀念碑｜2000",
+      "comment": "鋼筋混凝土立方體把外牆塑成向外翻出的圖書館書脊，封閉的門拒絕進入，地面則列出四十一處殺戮地。缺席的書、無法開啟的空間與六萬五千名遇害者共同形成拒絕被消費的記憶核心。",
+      "website": "https://www.koer.or.at/projekte/mahnmal-fuer-die-oesterreichischen-juedischen-opfer-der-shoah/",
+      "workPage": "https://www.koer.or.at/projekte/mahnmal-fuer-die-oesterreichischen-juedischen-opfer-der-shoah/",
+      "photo": "https://www.koer.or.at/site/assets/files/2369/whiteread_c_eva_amann-_koer_gmbh-_2012.500x0.jpg",
+      "artistStatement": "鋼筋混凝土立方體把外牆塑成向外翻出的圖書館書脊，封閉的門拒絕進入，地面則列出四十一處殺戮地。缺席的書、無法開啟的空間與六萬五千名遇害者共同形成拒絕被消費的記憶核心。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/mahnmal-fuer-die-oesterreichischen-juedischen-opfer-der-shoah/",
+      "classicTitle": "奧地利猶太大屠殺受難者紀念碑｜2000",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2369/whiteread_c_eva_amann-_koer_gmbh-_2012.500x0.jpg",
+      "classicDesc": "鋼筋混凝土立方體把外牆塑成向外翻出的圖書館書脊，封閉的門拒絕進入，地面則列出四十一處殺戮地。缺席的書、無法開啟的空間與六萬五千名遇害者共同形成拒絕被消費的記憶核心。",
+      "relatedByCity": [
+        "competition-2026-09-03-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "german-classic-2026-09-16-16",
+      "dedupeKey": "art-2026-09-16-german-classic-funf-erdteile",
+      "name": "16｜波昂／Hans Wimmer｜五大洲（Fünf Erdteile）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "五大洲（Fünf Erdteile）｜1957",
+      "comment": "五件青銅動物分別象徵歐洲、美洲、亞洲、非洲與澳洲，固定於前郵電部臨萊茵河外牆。作品以遠距可讀的具象符號，把戰後聯邦建築的通信使命轉成面向世界的立面敘事。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-erdteile",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-erdteile",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/10783d58fc278fe8326d2b646f46a5703cb5b413.jpg",
+      "artistStatement": "五件青銅動物分別象徵歐洲、美洲、亞洲、非洲與澳洲，固定於前郵電部臨萊茵河外牆。作品以遠距可讀的具象符號，把戰後聯邦建築的通信使命轉成面向世界的立面敘事。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-erdteile",
+      "classicTitle": "五大洲（Fünf Erdteile）｜1957",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/10783d58fc278fe8326d2b646f46a5703cb5b413.jpg",
+      "classicDesc": "五件青銅動物分別象徵歐洲、美洲、亞洲、非洲與澳洲，固定於前郵電部臨萊茵河外牆。作品以遠距可讀的具象符號，把戰後聯邦建築的通信使命轉成面向世界的立面敘事。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "german-classic-2026-09-16-17",
+      "dedupeKey": "art-2026-09-16-german-classic-sechs-assoziationstrager",
+      "name": "17｜波昂／Ansgar Nierhoff｜六個聯想載體",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "六個聯想載體｜1979",
+      "comment": "六組不鏽鋼板與木材構件沿約二十公尺綠地展開，把軍營改建的聯邦辦公園區切分成可步行閱讀的節點；工業材料既保持幾何秩序，也藉木與鋼的張力容納多重聯想。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sechs-assoziationstrager",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sechs-assoziationstrager",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/d21e93485db72fcd1288b99e0beabb015dd9ac8c.jpg",
+      "artistStatement": "六組不鏽鋼板與木材構件沿約二十公尺綠地展開，把軍營改建的聯邦辦公園區切分成可步行閱讀的節點；工業材料既保持幾何秩序，也藉木與鋼的張力容納多重聯想。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sechs-assoziationstrager",
+      "classicTitle": "六個聯想載體｜1979",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/d21e93485db72fcd1288b99e0beabb015dd9ac8c.jpg",
+      "classicDesc": "六組不鏽鋼板與木材構件沿約二十公尺綠地展開，把軍營改建的聯邦辦公園區切分成可步行閱讀的節點；工業材料既保持幾何秩序，也藉木與鋼的張力容納多重聯想。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "german-classic-2026-09-16-18",
+      "dedupeKey": "art-2026-09-16-german-classic-o-t-korrespondierende-rohren",
+      "name": "18｜漢堡／Erich Reusch｜無題（相互連通的管）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Hamburg",
+      "cityKeywords": [
+        "Hamburg",
+        "漢堡"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "動力藝術",
+        "雕塑"
+      ],
+      "works": "無題（相互連通的管）｜1976",
+      "comment": "兩支覆玻璃纖維的動力鋼管在圓形軌跡中運動，以「相互連通」的物理意象回應大學餐廳外部空地。作品把技術機構的程序性轉化為可見、持續變化的公共雕塑。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-korrespondierende-rohren",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-korrespondierende-rohren",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/94097ea59c3745089a84c979c99a79266d8dd966.jpg",
+      "artistStatement": "兩支覆玻璃纖維的動力鋼管在圓形軌跡中運動，以「相互連通」的物理意象回應大學餐廳外部空地。作品把技術機構的程序性轉化為可見、持續變化的公共雕塑。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-korrespondierende-rohren",
+      "classicTitle": "無題（相互連通的管）｜1976",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/94097ea59c3745089a84c979c99a79266d8dd966.jpg",
+      "classicDesc": "兩支覆玻璃纖維的動力鋼管在圓形軌跡中運動，以「相互連通」的物理意象回應大學餐廳外部空地。作品把技術機構的程序性轉化為可見、持續變化的公共雕塑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "german-classic-2026-09-16-19",
+      "dedupeKey": "art-2026-09-16-german-classic-o-t-wandteppich-1",
+      "name": "19｜波昂／Sigrid Wylach｜無題（壁毯）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "纖維藝術",
+        "建築/場域"
+      ],
+      "works": "無題（壁毯）｜1977",
+      "comment": "長達 8.3 公尺的羊毛壁毯原為波昂新聞俱樂部而作，將纖維工藝帶入政治、媒體與經濟界會面的建築。其後建築用途與作品收藏位置變動，也映照首都遷移如何重寫 Kunst am Bau 的公共性。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandteppich-1",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandteppich-1",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/4bc30c1f34c9a4ffed4db83885b8993e4e3176a6.jpg",
+      "artistStatement": "長達 8.3 公尺的羊毛壁毯原為波昂新聞俱樂部而作，將纖維工藝帶入政治、媒體與經濟界會面的建築。其後建築用途與作品收藏位置變動，也映照首都遷移如何重寫 Kunst am Bau 的公共性。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandteppich-1",
+      "classicTitle": "無題（壁毯）｜1977",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/4bc30c1f34c9a4ffed4db83885b8993e4e3176a6.jpg",
+      "classicDesc": "長達 8.3 公尺的羊毛壁毯原為波昂新聞俱樂部而作，將纖維工藝帶入政治、媒體與經濟界會面的建築。其後建築用途與作品收藏位置變動，也映照首都遷移如何重寫 Kunst am Bau 的公共性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-16",
+      "id": "german-classic-2026-09-16-20",
+      "dedupeKey": "art-2026-09-16-german-classic-porzellanwand",
+      "name": "20｜柏林／Ludwig Zepner｜瓷牆（Porzellanwand）",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "陶瓷",
+        "建築/場域"
+      ],
+      "works": "瓷牆（Porzellanwand）｜1975",
+      "comment": "以 Böttger 炻器與瓷材構成約十八平方公尺壁面，原置於東德共和國宮餐廳，拆除後轉置至 Detlev-Rohwedder-Haus。作品的材料工藝與遷移史，連結兩個德國政治建築及其制度記憶。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/porzellanwand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/porzellanwand",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/d8a3b2c0b76c50672e956771768ccf0e1397ef9b.jpg",
+      "artistStatement": "以 Böttger 炻器與瓷材構成約十八平方公尺壁面，原置於東德共和國宮餐廳，拆除後轉置至 Detlev-Rohwedder-Haus。作品的材料工藝與遷移史，連結兩個德國政治建築及其制度記憶。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/porzellanwand",
+      "classicTitle": "瓷牆（Porzellanwand）｜1975",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/d8a3b2c0b76c50672e956771768ccf0e1397ef9b.jpg",
+      "classicDesc": "以 Böttger 炻器與瓷材構成約十八平方公尺壁面，原置於東德共和國宮餐廳，拆除後轉置至 Detlev-Rohwedder-Haus。作品的材料工藝與遷移史，連結兩個德國政治建築及其制度記憶。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-04",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-05-01",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    }
+  ]
+}
