@@ -1,0 +1,691 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-21T05:02:48+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-21",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Museum der 1000 Orte 官方作品頁",
+    "selectionPolicy": "已實現且持續可見的公共藝術、永久委託與 Kunst am Bau；競圖與補助完全分流。",
+    "note": "9/21 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-09-21T05:02:48+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "官方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-21T05:02:48+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-01",
+      "dedupeKey": "art-2026-09-21-current-inoperable-gallery-presents-collin-van-der-sluijs-and-rutger-termohlen",
+      "name": "01｜Vienna／Collin van der Sluijs、Rutger Termohlen｜INOPERAbLE Gallery presents Collin van der Sluijs and Rutger Termohlen",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫",
+        "建築立面",
+        "永久公共藝術"
+      ],
+      "works": "INOPERAbLE Gallery presents Collin van der Sluijs and Rutger Termohlen｜2013",
+      "comment": "以大尺度壁畫把建築立面轉化為街區敘事介面，讓兩位藝術家的圖像語彙直接進入 Favoriten 的日常步行視野。",
+      "website": "https://www.koer.or.at/projects/inoperable-gallery-presents-collin-van-der-sluijs-and-rutger-termohlen/",
+      "workPage": "https://www.koer.or.at/projects/inoperable-gallery-presents-collin-van-der-sluijs-and-rutger-termohlen/",
+      "photo": "https://www.koer.or.at/site/assets/files/1739/inoperable-gallery-collin-van-der-sluijs-rutger-termohlen-01.500x0.jpg",
+      "artistStatement": "以大尺度壁畫把建築立面轉化為街區敘事介面，讓兩位藝術家的圖像語彙直接進入 Favoriten 的日常步行視野。",
+      "artistStatementSource": "https://www.koer.or.at/projects/inoperable-gallery-presents-collin-van-der-sluijs-and-rutger-termohlen/",
+      "classicTitle": "INOPERAbLE Gallery presents Collin van der Sluijs and Rutger Termohlen｜2013",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1739/inoperable-gallery-collin-van-der-sluijs-rutger-termohlen-01.500x0.jpg",
+      "classicDesc": "以大尺度壁畫把建築立面轉化為街區敘事介面，讓兩位藝術家的圖像語彙直接進入 Favoriten 的日常步行視野。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-02",
+      "dedupeKey": "art-2026-09-21-current-totem-modern",
+      "name": "02｜Vienna／Honet｜Totem Modern",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫",
+        "城市地標",
+        "永久公共藝術"
+      ],
+      "works": "Totem Modern｜2013",
+      "comment": "以當代圖像構成城市圖騰，透過高辨識度的形體與色彩，在密集街景中建立可被共同記憶的地標。",
+      "website": "https://www.koer.or.at/projects/totem-modern/",
+      "workPage": "https://www.koer.or.at/projects/totem-modern/",
+      "photo": "https://www.koer.or.at/site/assets/files/1720/honet-totem-modern-06.500x0.jpg",
+      "artistStatement": "以當代圖像構成城市圖騰，透過高辨識度的形體與色彩，在密集街景中建立可被共同記憶的地標。",
+      "artistStatementSource": "https://www.koer.or.at/projects/totem-modern/",
+      "classicTitle": "Totem Modern｜2013",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1720/honet-totem-modern-06.500x0.jpg",
+      "classicDesc": "以當代圖像構成城市圖騰，透過高辨識度的形體與色彩，在密集街景中建立可被共同記憶的地標。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-03",
+      "dedupeKey": "art-2026-09-21-current-inoperable-gallery-presents-roa",
+      "name": "03｜Vienna／ROA｜INOPERAbLE Gallery presents ROA",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫",
+        "街頭藝術",
+        "永久公共藝術"
+      ],
+      "works": "INOPERAbLE Gallery presents ROA｜2013",
+      "comment": "ROA 將動物身體的黑白壁畫覆於牆面，使都市建築與非人生命產生尺度衝突，也把街頭觀看轉化為生態提問。",
+      "website": "https://www.koer.or.at/projects/inoperable-gallery-presents-roa/",
+      "workPage": "https://www.koer.or.at/projects/inoperable-gallery-presents-roa/",
+      "photo": "https://www.koer.or.at/site/assets/files/1693/inoperable-gallery-roa-01.500x0.jpg",
+      "artistStatement": "ROA 將動物身體的黑白壁畫覆於牆面，使都市建築與非人生命產生尺度衝突，也把街頭觀看轉化為生態提問。",
+      "artistStatementSource": "https://www.koer.or.at/projects/inoperable-gallery-presents-roa/",
+      "classicTitle": "INOPERAbLE Gallery presents ROA｜2013",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1693/inoperable-gallery-roa-01.500x0.jpg",
+      "classicDesc": "ROA 將動物身體的黑白壁畫覆於牆面，使都市建築與非人生命產生尺度衝突，也把街頭觀看轉化為生態提問。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-04",
+      "dedupeKey": "art-2026-09-21-current-tell-these-people-who-i-am",
+      "name": "04｜Vienna／Iris Andraschek｜Tell these people who I am",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "場域介入",
+        "文字藝術",
+        "永久公共藝術"
+      ],
+      "works": "Tell these people who I am｜2011",
+      "comment": "作品以文字與場所記憶介入公共空間，讓被忽略的個人身分在城市表面重新獲得可見性。",
+      "website": "https://www.koer.or.at/projects/tell-these-people-who-i-am/",
+      "workPage": "https://www.koer.or.at/projects/tell-these-people-who-i-am/",
+      "photo": "https://www.koer.or.at/site/assets/files/1750/iris-andraschek-tell-these-people-who-i-am07.500x0.jpg",
+      "artistStatement": "作品以文字與場所記憶介入公共空間，讓被忽略的個人身分在城市表面重新獲得可見性。",
+      "artistStatementSource": "https://www.koer.or.at/projects/tell-these-people-who-i-am/",
+      "classicTitle": "Tell these people who I am｜2011",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1750/iris-andraschek-tell-these-people-who-i-am07.500x0.jpg",
+      "classicDesc": "作品以文字與場所記憶介入公共空間，讓被忽略的個人身分在城市表面重新獲得可見性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-05",
+      "dedupeKey": "art-2026-09-21-current-fuer-johanna",
+      "name": "05｜Vienna／Isabella Kresse｜FÜR JOHANNA",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "紀念性藝術",
+        "場域介入",
+        "永久公共藝術"
+      ],
+      "works": "FÜR JOHANNA｜2011",
+      "comment": "以具名紀念把私人記憶帶入公共場域，藉由簡潔的空間標記建立城市與個人生命史之間的連結。",
+      "website": "https://www.koer.or.at/projects/fuer-johanna/",
+      "workPage": "https://www.koer.or.at/projects/fuer-johanna/",
+      "photo": "https://www.koer.or.at/site/assets/files/1636/isabella-kresse-fuer-johanna-02_kl.500x0.jpg",
+      "artistStatement": "以具名紀念把私人記憶帶入公共場域，藉由簡潔的空間標記建立城市與個人生命史之間的連結。",
+      "artistStatementSource": "https://www.koer.or.at/projects/fuer-johanna/",
+      "classicTitle": "FÜR JOHANNA｜2011",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1636/isabella-kresse-fuer-johanna-02_kl.500x0.jpg",
+      "classicDesc": "以具名紀念把私人記憶帶入公共場域，藉由簡潔的空間標記建立城市與個人生命史之間的連結。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-06",
+      "dedupeKey": "art-2026-09-21-current-work-in-progress",
+      "name": "06｜Vienna／Hannah Stippl｜work in progress",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "場域介入",
+        "概念藝術",
+        "永久公共藝術"
+      ],
+      "works": "work in progress｜2010",
+      "comment": "作品把「未完成」視為公共空間的常態，讓觀看者意識到城市景觀始終由施工、使用與時間共同生成。",
+      "website": "https://www.koer.or.at/projects/work-in-progress/",
+      "workPage": "https://www.koer.or.at/projects/work-in-progress/",
+      "photo": "https://www.koer.or.at/site/assets/files/4357/hannah-stippl-work-in-progress-01.500x0.jpg",
+      "artistStatement": "作品把「未完成」視為公共空間的常態，讓觀看者意識到城市景觀始終由施工、使用與時間共同生成。",
+      "artistStatementSource": "https://www.koer.or.at/projects/work-in-progress/",
+      "classicTitle": "work in progress｜2010",
+      "classicImage": "https://www.koer.or.at/site/assets/files/4357/hannah-stippl-work-in-progress-01.500x0.jpg",
+      "classicDesc": "作品把「未完成」視為公共空間的常態，讓觀看者意識到城市景觀始終由施工、使用與時間共同生成。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-07",
+      "dedupeKey": "art-2026-09-21-current-parklife",
+      "name": "07｜Vienna／Peter Fattinger 與 TU Wien Design Build Studio｜PARKLIFE",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "空間裝置",
+        "參與式藝術",
+        "都市設計"
+      ],
+      "works": "PARKLIFE｜2010",
+      "comment": "以設計建造方法整合藝術、休憩與社群使用，使公共藝術不只是物件，而是能被居民占用與再定義的都市基礎設施。",
+      "website": "https://www.koer.or.at/projects/parklife/",
+      "workPage": "https://www.koer.or.at/projects/parklife/",
+      "photo": "https://www.koer.or.at/site/assets/files/4293/fattinger_c_peter_fattinger-_2010.500x0.jpg",
+      "artistStatement": "以設計建造方法整合藝術、休憩與社群使用，使公共藝術不只是物件，而是能被居民占用與再定義的都市基礎設施。",
+      "artistStatementSource": "https://www.koer.or.at/projects/parklife/",
+      "classicTitle": "PARKLIFE｜2010",
+      "classicImage": "https://www.koer.or.at/site/assets/files/4293/fattinger_c_peter_fattinger-_2010.500x0.jpg",
+      "classicDesc": "以設計建造方法整合藝術、休憩與社群使用，使公共藝術不只是物件，而是能被居民占用與再定義的都市基礎設施。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-08",
+      "dedupeKey": "art-2026-09-21-current-artistic-design-of-the-u2-subway-station-donauspital",
+      "name": "08｜Vienna／Christian Jankowski｜U2 Donauspital 車站藝術設計",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "交通藝術",
+        "Kunst am Bau",
+        "永久委託"
+      ],
+      "works": "U2 Donauspital 車站藝術設計｜2010",
+      "comment": "將藝術整合進大眾運輸節點，使移動、等待與辨識方向的日常經驗成為作品的一部分。",
+      "website": "https://www.koer.or.at/projects/artistic-design-of-the-u2-subway-station-donauspital/",
+      "workPage": "https://www.koer.or.at/projects/artistic-design-of-the-u2-subway-station-donauspital/",
+      "photo": "https://www.koer.or.at/site/assets/files/5046/p1050342.500x0.jpg",
+      "artistStatement": "將藝術整合進大眾運輸節點，使移動、等待與辨識方向的日常經驗成為作品的一部分。",
+      "artistStatementSource": "https://www.koer.or.at/projects/artistic-design-of-the-u2-subway-station-donauspital/",
+      "classicTitle": "U2 Donauspital 車站藝術設計｜2010",
+      "classicImage": "https://www.koer.or.at/site/assets/files/5046/p1050342.500x0.jpg",
+      "classicDesc": "將藝術整合進大眾運輸節點，使移動、等待與辨識方向的日常經驗成為作品的一部分。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-09",
+      "dedupeKey": "art-2026-09-21-current-n.i.c-nature-is-cool",
+      "name": "09｜Vienna／Kurt Hofstetter｜N.I.C. – nature is cool",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "媒體藝術",
+        "建築介入",
+        "永久公共藝術"
+      ],
+      "works": "N.I.C. – nature is cool｜2009",
+      "comment": "作品以自然與科技的對照介入都市立面，將「自然」從背景轉為對城市生活方式的直接命題。",
+      "website": "https://www.koer.or.at/projects/n.i.c-nature-is-cool/",
+      "workPage": "https://www.koer.or.at/projects/n.i.c-nature-is-cool/",
+      "photo": "https://www.koer.or.at/site/assets/files/4285/hofstetter-kurt-n_-i_-c_-nature-is-cool-01.500x0.jpg",
+      "artistStatement": "作品以自然與科技的對照介入都市立面，將「自然」從背景轉為對城市生活方式的直接命題。",
+      "artistStatementSource": "https://www.koer.or.at/projects/n.i.c-nature-is-cool/",
+      "classicTitle": "N.I.C. – nature is cool｜2009",
+      "classicImage": "https://www.koer.or.at/site/assets/files/4285/hofstetter-kurt-n_-i_-c_-nature-is-cool-01.500x0.jpg",
+      "classicDesc": "作品以自然與科技的對照介入都市立面，將「自然」從背景轉為對城市生活方式的直接命題。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "current-2026-09-21-10",
+      "dedupeKey": "art-2026-09-21-current-che-guevara",
+      "name": "10｜Vienna／Gerda Fassel｜Che Guevara",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共雕塑",
+        "政治記憶",
+        "永久公共藝術"
+      ],
+      "works": "Che Guevara｜2008",
+      "comment": "以歷史政治肖像進入住宅區公共空間，測試紀念、意識形態與日常生活在城市表面的持續張力。",
+      "website": "https://www.koer.or.at/projects/che-guevara/",
+      "workPage": "https://www.koer.or.at/projects/che-guevara/",
+      "photo": "https://www.koer.or.at/site/assets/files/3592/che-guevara-gerda-fassel.500x0.jpg",
+      "artistStatement": "以歷史政治肖像進入住宅區公共空間，測試紀念、意識形態與日常生活在城市表面的持續張力。",
+      "artistStatementSource": "https://www.koer.or.at/projects/che-guevara/",
+      "classicTitle": "Che Guevara｜2008",
+      "classicImage": "https://www.koer.or.at/site/assets/files/3592/che-guevara-gerda-fassel.500x0.jpg",
+      "classicDesc": "以歷史政治肖像進入住宅區公共空間，測試紀念、意識形態與日常生活在城市表面的持續張力。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-global-2026-09-21-11",
+      "dedupeKey": "art-2026-09-21-classic-global-hill-arches",
+      "name": "11｜Vienna／Henry Moore｜Hill Arches",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "現代主義"
+      ],
+      "works": "Hill Arches｜1978",
+      "comment": "以拱形青銅量體連結身體、地景與負空間，呈現現代雕塑如何透過步行尺度重組公共場域。",
+      "website": "https://www.koer.or.at/projects/hill-arches/",
+      "workPage": "https://www.koer.or.at/projects/hill-arches/",
+      "photo": "https://www.koer.or.at/site/assets/files/1910/moore_-c-_eva_amann-_k-ur_gmbh-_2012.500x0.jpg",
+      "artistStatement": "以拱形青銅量體連結身體、地景與負空間，呈現現代雕塑如何透過步行尺度重組公共場域。",
+      "artistStatementSource": "https://www.koer.or.at/projects/hill-arches/",
+      "classicTitle": "Hill Arches｜1978",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1910/moore_-c-_eva_amann-_k-ur_gmbh-_2012.500x0.jpg",
+      "classicDesc": "以拱形青銅量體連結身體、地景與負空間，呈現現代雕塑如何透過步行尺度重組公共場域。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-global-2026-09-21-12",
+      "dedupeKey": "art-2026-09-21-classic-global-mahnmal-gegen-krieg-und-faschismus",
+      "name": "12｜Vienna／Alfred Hrdlicka｜反戰與反法西斯紀念碑",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "紀念碑",
+        "石雕",
+        "歷史記憶"
+      ],
+      "works": "反戰與反法西斯紀念碑｜1988",
+      "comment": "以分散於廣場的石雕與歷史敘事迫使行人穿越記憶現場，是紀念碑從單一英雄形象轉向創傷空間的重要案例。",
+      "website": "https://www.koer.or.at/projects/mahnmal-gegen-krieg-und-faschismus/",
+      "workPage": "https://www.koer.or.at/projects/mahnmal-gegen-krieg-und-faschismus/",
+      "photo": "https://www.koer.or.at/site/assets/files/1977/hrdlicka_-c-_walter_schaub-walzer_pid.500x0.jpg",
+      "artistStatement": "以分散於廣場的石雕與歷史敘事迫使行人穿越記憶現場，是紀念碑從單一英雄形象轉向創傷空間的重要案例。",
+      "artistStatementSource": "https://www.koer.or.at/projects/mahnmal-gegen-krieg-und-faschismus/",
+      "classicTitle": "反戰與反法西斯紀念碑｜1988",
+      "classicImage": "https://www.koer.or.at/site/assets/files/1977/hrdlicka_-c-_walter_schaub-walzer_pid.500x0.jpg",
+      "classicDesc": "以分散於廣場的石雕與歷史敘事迫使行人穿越記憶現場，是紀念碑從單一英雄形象轉向創傷空間的重要案例。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-global-2026-09-21-13",
+      "dedupeKey": "art-2026-09-21-classic-global-ferryman",
+      "name": "13｜Vienna／Tony Cragg｜Ferryman",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共雕塑",
+        "當代藝術",
+        "永久委託"
+      ],
+      "works": "Ferryman｜1997",
+      "comment": "流動的雕塑輪廓將人物、物質與城市移動壓縮於同一形體，展示當代雕塑在公共空間中的多重閱讀。",
+      "website": "https://www.koer.or.at/projects/ferryman/",
+      "workPage": "https://www.koer.or.at/projects/ferryman/",
+      "photo": "https://www.koer.or.at/site/assets/files/2186/tony-cragg-ferryman.500x0.jpg",
+      "artistStatement": "流動的雕塑輪廓將人物、物質與城市移動壓縮於同一形體，展示當代雕塑在公共空間中的多重閱讀。",
+      "artistStatementSource": "https://www.koer.or.at/projects/ferryman/",
+      "classicTitle": "Ferryman｜1997",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2186/tony-cragg-ferryman.500x0.jpg",
+      "classicDesc": "流動的雕塑輪廓將人物、物質與城市移動壓縮於同一形體，展示當代雕塑在公共空間中的多重閱讀。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-global-2026-09-21-14",
+      "dedupeKey": "art-2026-09-21-classic-global-wiener-trio",
+      "name": "14｜Vienna／Philip Johnson｜Wiener Trio",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共雕塑",
+        "建築性裝置",
+        "幾何構成"
+      ],
+      "works": "Wiener Trio｜1998",
+      "comment": "三件幾何構築物以建築尺度組成城市門廊，模糊雕塑、街具與公共空間框景之間的邊界。",
+      "website": "https://www.koer.or.at/projects/wiener-trio/",
+      "workPage": "https://www.koer.or.at/projects/wiener-trio/",
+      "photo": "https://www.koer.or.at/site/assets/files/2223/johnson.500x0.jpg",
+      "artistStatement": "三件幾何構築物以建築尺度組成城市門廊，模糊雕塑、街具與公共空間框景之間的邊界。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wiener-trio/",
+      "classicTitle": "Wiener Trio｜1998",
+      "classicImage": "https://www.koer.or.at/site/assets/files/2223/johnson.500x0.jpg",
+      "classicDesc": "三件幾何構築物以建築尺度組成城市門廊，模糊雕塑、街具與公共空間框景之間的邊界。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-global-2026-09-21-15",
+      "dedupeKey": "art-2026-09-21-classic-global-gerngross-saeule",
+      "name": "15｜Vienna／Franz West｜Gerngross-Säule",
+      "tier": "經典案例層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共雕塑",
+        "城市地標",
+        "永久委託"
+      ],
+      "works": "Gerngross-Säule｜2007",
+      "comment": "以帶有手工痕跡的高柱回應商業街尺度，使反紀念碑式的形體在消費空間中成為具有幽默感的城市標記。",
+      "website": "https://www.koer.or.at/projects/gerngross-saeule/",
+      "workPage": "https://www.koer.or.at/projects/gerngross-saeule/",
+      "photo": "https://www.koer.or.at/site/assets/files/4252/franz-west-gerngross-saule02.500x0.jpg",
+      "artistStatement": "以帶有手工痕跡的高柱回應商業街尺度，使反紀念碑式的形體在消費空間中成為具有幽默感的城市標記。",
+      "artistStatementSource": "https://www.koer.or.at/projects/gerngross-saeule/",
+      "classicTitle": "Gerngross-Säule｜2007",
+      "classicImage": "https://www.koer.or.at/site/assets/files/4252/franz-west-gerngross-saule02.500x0.jpg",
+      "classicDesc": "以帶有手工痕跡的高柱回應商業街尺度，使反紀念碑式的形體在消費空間中成為具有幽默感的城市標記。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-german-2026-09-21-01",
+      "dedupeKey": "art-2026-09-21-classic-german-pinnwand",
+      "name": "16｜Berlin／Jan Hendrik Theissen｜釘圖牆（Pinnwand）",
+      "tier": "經典案例層",
+      "region": "德語文化圈",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "金屬圖釘",
+        "壁面作品"
+      ],
+      "works": "釘圖牆（Pinnwand）｜2000",
+      "comment": "約四萬枚鏡面圖釘構成萊比錫週一示威者的面孔；遠觀成像、近看則讓觀看者倒映其中，把集體歷史與個人位置疊合。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pinnwand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pinnwand",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/078af6e56051c0802e1ec0105c2282cc1dce4436.jpg",
+      "artistStatement": "約四萬枚鏡面圖釘構成萊比錫週一示威者的面孔；遠觀成像、近看則讓觀看者倒映其中，把集體歷史與個人位置疊合。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pinnwand",
+      "classicTitle": "釘圖牆（Pinnwand）｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/078af6e56051c0802e1ec0105c2282cc1dce4436.jpg",
+      "classicDesc": "約四萬枚鏡面圖釘構成萊比錫週一示威者的面孔；遠觀成像、近看則讓觀看者倒映其中，把集體歷史與個人位置疊合。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-german-2026-09-21-02",
+      "dedupeKey": "art-2026-09-21-classic-german-raumkompositionen",
+      "name": "17｜Nuremberg／Günter Maas｜空間構圖（Raumkompositionen）",
+      "tier": "經典案例層",
+      "region": "德語文化圈",
+      "country": "德國 / Nuremberg",
+      "cityKeywords": [
+        "Nuremberg",
+        "Nürnberg",
+        "紐倫堡"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "油彩木板",
+        "壁面作品"
+      ],
+      "works": "空間構圖（Raumkompositionen）｜1973",
+      "comment": "兩幅油彩木板把漂浮文件、球體與會議桌置於藍色宇宙景觀中，以超現實語彙回應聯邦就業機構的行政空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raumkompositionen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raumkompositionen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0f02382e0a6273f9baaae22bad3faa67169c6abb.jpg",
+      "artistStatement": "兩幅油彩木板把漂浮文件、球體與會議桌置於藍色宇宙景觀中，以超現實語彙回應聯邦就業機構的行政空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raumkompositionen",
+      "classicTitle": "空間構圖（Raumkompositionen）｜1973",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0f02382e0a6273f9baaae22bad3faa67169c6abb.jpg",
+      "classicDesc": "兩幅油彩木板把漂浮文件、球體與會議桌置於藍色宇宙景觀中，以超現實語彙回應聯邦就業機構的行政空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-german-2026-09-21-03",
+      "dedupeKey": "art-2026-09-21-classic-german-mosaikbrunnen",
+      "name": "18｜Berlin／Ortraud Lerch｜馬賽克噴泉（Mosaikbrunnen）",
+      "tier": "經典案例層",
+      "region": "德語文化圈",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "玻璃馬賽克",
+        "水景裝置"
+      ],
+      "works": "馬賽克噴泉（Mosaikbrunnen）｜1964",
+      "comment": "彩色玻璃馬賽克鋪滿低淺水池，花葉般的幾何圖案與兩道噴泉共同把前東德國務委員會建築的軸線轉化為可步行觀看的公共景觀。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaikbrunnen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaikbrunnen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/00604b4dd717be115b0ace467ab59e1d75b27af0.jpg",
+      "artistStatement": "彩色玻璃馬賽克鋪滿低淺水池，花葉般的幾何圖案與兩道噴泉共同把前東德國務委員會建築的軸線轉化為可步行觀看的公共景觀。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaikbrunnen",
+      "classicTitle": "馬賽克噴泉（Mosaikbrunnen）｜1964",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/00604b4dd717be115b0ace467ab59e1d75b27af0.jpg",
+      "classicDesc": "彩色玻璃馬賽克鋪滿低淺水池，花葉般的幾何圖案與兩道噴泉共同把前東德國務委員會建築的軸線轉化為可步行觀看的公共景觀。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-german-2026-09-21-04",
+      "dedupeKey": "art-2026-09-21-classic-german-parsifal",
+      "name": "19｜Washington, D.C.／Markus Lüpertz｜帕西法爾（Parsifal）",
+      "tier": "經典案例層",
+      "region": "德語文化圈",
+      "country": "德國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "Washington DC",
+        "華盛頓特區"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "木刻裱布",
+        "德國海外建築"
+      ],
+      "works": "帕西法爾（Parsifal）｜1994",
+      "comment": "十二幅木刻沿德國大使官邸入口排列，以表現性圖像反制建築的嚴格幾何秩序，是德國聯邦海外 Kunst am Bau 的代表性整合案例。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/parsifal",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/parsifal",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/dc513e5a9db7736e03fdf9a0602180e840838481.JPG",
+      "artistStatement": "十二幅木刻沿德國大使官邸入口排列，以表現性圖像反制建築的嚴格幾何秩序，是德國聯邦海外 Kunst am Bau 的代表性整合案例。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/parsifal",
+      "classicTitle": "帕西法爾（Parsifal）｜1994",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/dc513e5a9db7736e03fdf9a0602180e840838481.JPG",
+      "classicDesc": "十二幅木刻沿德國大使官邸入口排列，以表現性圖像反制建築的嚴格幾何秩序，是德國聯邦海外 Kunst am Bau 的代表性整合案例。",
+      "relatedByCity": [
+        "competition-2026-09-15-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-21",
+      "id": "classic-german-2026-09-21-05",
+      "dedupeKey": "art-2026-09-21-classic-german-steinkreisel",
+      "name": "20｜Bonn／Jürgen Hans Grümmer｜石環（Steinkreisel）",
+      "tier": "經典案例層",
+      "region": "德語文化圈",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "玄武岩",
+        "場域雕塑"
+      ],
+      "works": "石環（Steinkreisel）｜1972",
+      "comment": "約十六公尺的玄武岩環、鋪面與可坐構件共同塑造聯邦建築群中央廣場，以材料與動線把雕塑完整嵌入戰後波昂的政府城市規劃。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkreisel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkreisel",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/b1f4e35ef2b8855f60f3b5e493fd68255265f75b.jpg",
+      "artistStatement": "約十六公尺的玄武岩環、鋪面與可坐構件共同塑造聯邦建築群中央廣場，以材料與動線把雕塑完整嵌入戰後波昂的政府城市規劃。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkreisel",
+      "classicTitle": "石環（Steinkreisel）｜1972",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/b1f4e35ef2b8855f60f3b5e493fd68255265f75b.jpg",
+      "classicDesc": "約十六公尺的玄武岩環、鋪面與可坐構件共同塑造聯邦建築群中央廣場，以材料與動線把雕塑完整嵌入戰後波昂的政府城市規劃。",
+      "relatedByCity": []
+    }
+  ]
+}
