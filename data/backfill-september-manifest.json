@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-21-public-art-r71",
-  "generatedAt": "2026-09-21T05:02:48+08:00",
+  "version": "2026-09-22-public-art-r72",
+  "generatedAt": "2026-09-22T05:14:48+08:00",
   "files": [
     "backfill-september-20260901.json",
     "backfill-september-20260902.json",
@@ -15,13 +15,14 @@
     "backfill-september-20260915.json",
     "backfill-september-20260916.json",
     "backfill-september-20260920.json",
-    "backfill-september-20260921.json"
+    "backfill-september-20260921.json",
+    "backfill-september-20260922.json"
   ],
-  "expectedEntries": 280,
-  "statementEntries": 280,
-  "statementSourceEntries": 260,
+  "expectedEntries": 300,
+  "statementEntries": 300,
+  "statementSourceEntries": 280,
   "statementBacklog": 0,
-  "imageEntries": 280,
+  "imageEntries": 300,
   "imageBacklog": 0,
-  "note": "截至 2026-09-21 已發布 14 個每日檔、共 280 則；本日新增 20 則公共藝術（10／5／5）。"
+  "note": "截至 2026-09-22 已發布 15 個每日檔、共 300 則；本日新增 20 則公共藝術（10／5／5）。"
 }
