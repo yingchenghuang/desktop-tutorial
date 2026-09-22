@@ -1,0 +1,742 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-23T04:59:43+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-23",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Association for Public Art 官方作品頁",
+    "selectionPolicy": "已實現且持續可見的公共藝術、永久委託與 Kunst am Bau；競圖與補助完全分流。",
+    "note": "9/23 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-09-23T04:59:43+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "官方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-23T04:59:43+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "官方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-01",
+      "dedupeKey": "art-2026-09-23-current-auftakt-bernhard-heiliger",
+      "name": "01｜Bernhard Heiliger｜Auftakt",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋁雕塑",
+        "建築整合"
+      ],
+      "works": "Auftakt｜1963",
+      "comment": "鋁質構件以開放、上揚的節奏銜接柏林愛樂廳的入口與城市廣場，使雕塑像一段可被繞行的音樂序奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auftakt",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auftakt",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a85ab0d0a9f291ecfa1677693b170f1ef24846a4.jpg",
+      "artistStatement": "鋁質構件以開放、上揚的節奏銜接柏林愛樂廳的入口與城市廣場，使雕塑像一段可被繞行的音樂序奏。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auftakt",
+      "classicTitle": "Auftakt｜1963",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a85ab0d0a9f291ecfa1677693b170f1ef24846a4.jpg",
+      "classicDesc": "以抽象鋁構形體為柏林愛樂廳建立面向城市的視覺序奏。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-02",
+      "dedupeKey": "art-2026-09-23-current-o-t-bayerischer-wald-i-vii-frank-sturmer",
+      "name": "02｜Frank Stürmer｜o. T.（Bayerischer Wald I–VII）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "攝影",
+        "建築室內"
+      ],
+      "works": "o. T.（Bayerischer Wald I–VII）｜2011",
+      "comment": "七幅森林影像被安置在聯邦建築之中，把遙遠地景轉化為行政空間內的連續視窗，調節制度環境的尺度與呼吸。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bayerischer-wald-i-vii",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bayerischer-wald-i-vii",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c3f3c5c6153e41efa04b4227361fdfde018ce875.jpg",
+      "artistStatement": "七幅森林影像被安置在聯邦建築之中，把遙遠地景轉化為行政空間內的連續視窗，調節制度環境的尺度與呼吸。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bayerischer-wald-i-vii",
+      "classicTitle": "o. T.（Bayerischer Wald I–VII）｜2011",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c3f3c5c6153e41efa04b4227361fdfde018ce875.jpg",
+      "classicDesc": "以七幅森林攝影在行政建築中建立連續的地景視窗。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-03",
+      "dedupeKey": "art-2026-09-23-current-berlin-panels-ellsworth-kelly",
+      "name": "03｜Ellsworth Kelly｜Berlin Panels",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋁板",
+        "色彩裝置"
+      ],
+      "works": "Berlin Panels｜2000",
+      "comment": "高純度色面與建築牆體並置，使政治建築的通行空間轉化為由比例、色彩與身體移動共同構成的感知場。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin-panels",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin-panels",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/9a7a4369a03a1f3df1708853e390d6329f4b929e.jpg",
+      "artistStatement": "高純度色面與建築牆體並置，使政治建築的通行空間轉化為由比例、色彩與身體移動共同構成的感知場。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin-panels",
+      "classicTitle": "Berlin Panels｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/9a7a4369a03a1f3df1708853e390d6329f4b929e.jpg",
+      "classicDesc": "塗裝鋁板以純粹色面介入聯邦議會建築的公共動線。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-04",
+      "dedupeKey": "art-2026-09-23-current-drei-orte-ansgar-nierhoff",
+      "name": "04｜Ansgar Nierhoff｜Drei Orte",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋼雕塑",
+        "場域組構"
+      ],
+      "works": "Drei Orte｜1991",
+      "comment": "作品以廣場、柱列與牆三組鋼構情境切入國防部園區，把雕塑從單一物件擴張成可被穿越、比較與定位的空間序列。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drei-orte-der-platz-das-spiel-des-moglichen-der-ort-der-vier-saulen-die-wand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drei-orte-der-platz-das-spiel-des-moglichen-der-ort-der-vier-saulen-die-wand",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/0cbc264c313635495cc40a7149487bbddeeed43b.jpg",
+      "artistStatement": "作品以廣場、柱列與牆三組鋼構情境切入國防部園區，把雕塑從單一物件擴張成可被穿越、比較與定位的空間序列。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drei-orte-der-platz-das-spiel-des-moglichen-der-ort-der-vier-saulen-die-wand",
+      "classicTitle": "Drei Orte｜1991",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/0cbc264c313635495cc40a7149487bbddeeed43b.jpg",
+      "classicDesc": "三組鋼構場域把雕塑轉化為可穿越的建築性序列。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-05",
+      "dedupeKey": "art-2026-09-23-current-sicherndes-pferd-fritz-von-graevenitz",
+      "name": "05｜Fritz von Graevenitz｜Sicherndes Pferd",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Wiesbaden",
+      "cityKeywords": [
+        "Wiesbaden",
+        "威斯巴登"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "石雕",
+        "公共庭園"
+      ],
+      "works": "Sicherndes Pferd｜1956",
+      "comment": "貝殼石灰岩馬匹以警覺而克制的姿態停駐於統計局戶外空間，將戰後公共建築的秩序感引向生物性的感知與守望。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sicherndes-pferd",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sicherndes-pferd",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/11367c9ff14b1621bfd57f2b9ad640fc441ede17.jpg",
+      "artistStatement": "貝殼石灰岩馬匹以警覺而克制的姿態停駐於統計局戶外空間，將戰後公共建築的秩序感引向生物性的感知與守望。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sicherndes-pferd",
+      "classicTitle": "Sicherndes Pferd｜1956",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/11367c9ff14b1621bfd57f2b9ad640fc441ede17.jpg",
+      "classicDesc": "石雕馬匹以警覺姿態為戰後公共建築提供可親近的象徵。",
+      "relatedByCity": [
+        "competition-2026-08-23-03",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-06",
+      "dedupeKey": "art-2026-09-23-current-o-t-deckengemalde-teppich-und-mokkaservice-rosemarie-trockel",
+      "name": "06｜Rosemarie Trockel｜o. T.（Deckengemälde, Teppich und Mokkaservice）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "Washington DC",
+        "華盛頓"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "壁畫",
+        "地毯與瓷器"
+      ],
+      "works": "o. T.（Deckengemälde, Teppich und Mokkaservice）｜1994",
+      "comment": "天花繪畫、羊毛地毯與咖啡器具跨越建築表面與日常禮儀，讓外交官邸中的藝術不只被觀看，也進入接待與使用的節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-deckengemalde-teppich-und-mokkaservice",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-deckengemalde-teppich-und-mokkaservice",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/34b0ba514af3860f2cc46a4d13f20897b33c197c.jpg",
+      "artistStatement": "天花繪畫、羊毛地毯與咖啡器具跨越建築表面與日常禮儀，讓外交官邸中的藝術不只被觀看，也進入接待與使用的節奏。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-deckengemalde-teppich-und-mokkaservice",
+      "classicTitle": "o. T.（Deckengemälde, Teppich und Mokkaservice）｜1994",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/34b0ba514af3860f2cc46a4d13f20897b33c197c.jpg",
+      "classicDesc": "以天花、地毯與器物把外交空間的觀看連到日常儀式。",
+      "relatedByCity": [
+        "competition-2026-09-15-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-07",
+      "dedupeKey": "art-2026-09-23-current-o-t-farb-licht-konzept-gerhard-merz",
+      "name": "07｜Gerhard Merz｜o. T.（Farb-Licht-Konzept）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "色光",
+        "濕壁畫"
+      ],
+      "works": "o. T.（Farb-Licht-Konzept）｜2000",
+      "comment": "單色顏料與光線共同改寫原帝國銀行建築的歷史內部，使色彩不是附加裝飾，而成為連結舊建築與新用途的空間結構。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-farb-licht-konzept",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-farb-licht-konzept",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/7160694bad6bef2f78a15bffe9d6445deec4e143.jpg",
+      "artistStatement": "單色顏料與光線共同改寫原帝國銀行建築的歷史內部，使色彩不是附加裝飾，而成為連結舊建築與新用途的空間結構。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-farb-licht-konzept",
+      "classicTitle": "o. T.（Farb-Licht-Konzept）｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/7160694bad6bef2f78a15bffe9d6445deec4e143.jpg",
+      "classicDesc": "以單色濕壁畫與光線重組歷史建築的空間感。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-08",
+      "dedupeKey": "art-2026-09-23-current-mosaik-des-staatswappens-der-ddr-heinrich-jungebloedt",
+      "name": "08｜Heinrich Jungebloedt｜Mosaik des Staatswappens der DDR",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "陶瓷馬賽克",
+        "歷史建築"
+      ],
+      "works": "Mosaik des Staatswappens der DDR｜1964",
+      "comment": "巨幅陶瓷馬賽克保留東德國家議會的政治圖像，使建築後續轉用時仍能讀見制度更迭、材料工藝與記憶政治的疊層。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaik-des-staatswappens-der-ddr",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaik-des-staatswappens-der-ddr",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/8b94e0ea78d4150a83f4c684d5c5a7757ce08a73.JPG",
+      "artistStatement": "巨幅陶瓷馬賽克保留東德國家議會的政治圖像，使建築後續轉用時仍能讀見制度更迭、材料工藝與記憶政治的疊層。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaik-des-staatswappens-der-ddr",
+      "classicTitle": "Mosaik des Staatswappens der DDR｜1964",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/8b94e0ea78d4150a83f4c684d5c5a7757ce08a73.JPG",
+      "classicDesc": "陶瓷馬賽克在建築轉用後持續保存東德政治圖像與歷史層次。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-09",
+      "dedupeKey": "art-2026-09-23-current-palazzo-postale-veronika-kellndorfer",
+      "name": "09｜Veronika Kellndorfer｜Palazzo Postale",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "埃爾福特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "絹印玻璃",
+        "建築立面"
+      ],
+      "works": "Palazzo Postale｜1999",
+      "comment": "絹印玻璃把影像、反射與法院建築疊合，觀看者在移動中同時看見表面圖像、城市環境與自身位置。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/palazzo-postale",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/palazzo-postale",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/59b2b8af3fe51c46bed6a5ff8bfad15e6852cb21.jpg",
+      "artistStatement": "絹印玻璃把影像、反射與法院建築疊合，觀看者在移動中同時看見表面圖像、城市環境與自身位置。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/palazzo-postale",
+      "classicTitle": "Palazzo Postale｜1999",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/59b2b8af3fe51c46bed6a5ff8bfad15e6852cb21.jpg",
+      "classicDesc": "絹印玻璃以反射和影像使法院立面成為多層次觀看界面。",
+      "relatedByCity": [
+        "competition-2026-08-28-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "current-2026-09-23-10",
+      "dedupeKey": "art-2026-09-23-current-farbfluss-eins-zwei-drei-vier-bernd-koberling",
+      "name": "10｜Bernd Koberling｜Farbfluss. Eins. Zwei. Drei. Vier",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "壓克力",
+        "鋁複合板"
+      ],
+      "works": "Farbfluss. Eins. Zwei. Drei. Vier｜2001",
+      "comment": "四段色彩繪畫沿建築展開，把抽象筆勢轉化為動線中的連續事件；觀看不是停在正面，而由經過與回望逐步完成。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbfluss-eins-zwei-drei-vier",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbfluss-eins-zwei-drei-vier",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/089e6cffed3a611fc58bd776117b09cf5254b2f5.jpg",
+      "artistStatement": "四段色彩繪畫沿建築展開，把抽象筆勢轉化為動線中的連續事件；觀看不是停在正面，而由經過與回望逐步完成。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbfluss-eins-zwei-drei-vier",
+      "classicTitle": "Farbfluss. Eins. Zwei. Drei. Vier｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/089e6cffed3a611fc58bd776117b09cf5254b2f5.jpg",
+      "classicDesc": "四段壓克力色流沿建築動線形成持續展開的觀看事件。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "global-classic-2026-09-23-11",
+      "dedupeKey": "art-2026-09-23-global-iroquois-mark-di-suvero",
+      "name": "11｜Mark di Suvero｜Iroquois",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "公共雕塑",
+        "塗裝鋼材",
+        "動態構件"
+      ],
+      "works": "Iroquois｜1983–1999；2007 設置",
+      "comment": "紅色工字鋼在空中結成開放而有動勢的結構，將工業材料轉化為可從多角度接近的城市節點。",
+      "website": "https://associationforpublicart.org/artwork/iroquois/",
+      "workPage": "https://associationforpublicart.org/artwork/iroquois/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Iroquois_featured.jpg",
+      "artistStatement": "紅色工字鋼在空中結成開放而有動勢的結構，將工業材料轉化為可從多角度接近的城市節點。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/iroquois/",
+      "classicTitle": "Iroquois｜1983–1999；2007 設置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Iroquois_featured.jpg",
+      "classicDesc": "四十英尺高的紅色鋼構以開放形體與可動上端連結工業技術和公共觀看。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "global-classic-2026-09-23-12",
+      "dedupeKey": "art-2026-09-23-global-bolt-of-lightning-a-memorial-to-benjamin-franklin-isamu-noguchi",
+      "name": "12｜Isamu Noguchi｜Bolt of Lightning… A Memorial to Benjamin Franklin",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "公共紀念物",
+        "不鏽鋼",
+        "鋼纜"
+      ],
+      "works": "Bolt of Lightning… A Memorial to Benjamin Franklin｜1933 構想；1984 設置",
+      "comment": "作品把風箏、鑰匙與閃電轉譯成 58 噸的工程結構，不以人物塑像紀念富蘭克林，而以實驗精神和天地張力建立城市地標。",
+      "website": "https://associationforpublicart.org/artwork/bolt-of-lightning-a-memorial-to-benjamin-franklin/",
+      "workPage": "https://associationforpublicart.org/artwork/bolt-of-lightning-a-memorial-to-benjamin-franklin/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2015/10/Bolt_of_Lightning_Noguchi_2019_Photo_Alec_Rogers_for_aPA-scaled.jpg",
+      "artistStatement": "作品把風箏、鑰匙與閃電轉譯成 58 噸的工程結構，不以人物塑像紀念富蘭克林，而以實驗精神和天地張力建立城市地標。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/bolt-of-lightning-a-memorial-to-benjamin-franklin/",
+      "classicTitle": "Bolt of Lightning… A Memorial to Benjamin Franklin｜1933 構想；1984 設置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2015/10/Bolt_of_Lightning_Noguchi_2019_Photo_Alec_Rogers_for_aPA-scaled.jpg",
+      "classicDesc": "以不鏽鋼閃電、風箏結構與鋼纜將科學實驗轉化為公共紀念物。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "global-classic-2026-09-23-13",
+      "dedupeKey": "art-2026-09-23-global-atmosphere-and-environment-xii-louise-nevelson",
+      "name": "13｜Louise Nevelson｜Atmosphere and Environment XII",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "公共雕塑",
+        "耐候鋼",
+        "環境雕塑"
+      ],
+      "works": "Atmosphere and Environment XII｜1970；1973 設置",
+      "comment": "六列開放方格由 18,000 磅耐候鋼組成，內部幾何像濃縮的城市天際線，讓實體重量與穿透視線同時成立。",
+      "website": "https://associationforpublicart.org/artwork/atmosphere-and-environment-xii/",
+      "workPage": "https://associationforpublicart.org/artwork/atmosphere-and-environment-xii/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Rectangle-3b.jpg",
+      "artistStatement": "六列開放方格由 18,000 磅耐候鋼組成，內部幾何像濃縮的城市天際線，讓實體重量與穿透視線同時成立。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/atmosphere-and-environment-xii/",
+      "classicTitle": "Atmosphere and Environment XII｜1970；1973 設置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Rectangle-3b.jpg",
+      "classicDesc": "六列耐候鋼方格把城市建築語彙濃縮為可穿透的雕塑環境。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "global-classic-2026-09-23-14",
+      "dedupeKey": "art-2026-09-23-global-three-discs-one-lacking-alexander-calder",
+      "name": "14｜Alexander Calder｜Three Discs, One Lacking",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "公共雕塑",
+        "塗裝鐵合金",
+        "stabile"
+      ],
+      "works": "Three Discs, One Lacking｜1968",
+      "comment": "卡爾德以固定的薄片和平衡關係延續他對運動的研究；缺少的一片成為視覺空缺，使靜止結構保留潛在的變化感。",
+      "website": "https://associationforpublicart.org/artwork/three-discs-one-lacking/",
+      "workPage": "https://associationforpublicart.org/artwork/three-discs-one-lacking/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Three-Discs_One_Lacking_1400x1400.jpg",
+      "artistStatement": "卡爾德以固定的薄片和平衡關係延續他對運動的研究；缺少的一片成為視覺空缺，使靜止結構保留潛在的變化感。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/three-discs-one-lacking/",
+      "classicTitle": "Three Discs, One Lacking｜1968",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Three-Discs_One_Lacking_1400x1400.jpg",
+      "classicDesc": "固定鐵合金薄片以平衡、空缺與剪影創造靜止中的運動感。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "global-classic-2026-09-23-15",
+      "dedupeKey": "art-2026-09-23-global-fingerspan-jody-pinto",
+      "name": "15｜Jody Pinto｜Fingerspan",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "功能性公共藝術",
+        "耐候鋼",
+        "步行橋"
+      ],
+      "works": "Fingerspan｜1987",
+      "comment": "59 英尺長的耐候鋼結構既是橋也是雕塑；身體必須穿過如手指拱起的內部，才完成作品與峽谷地景的連結。",
+      "website": "https://associationforpublicart.org/artwork/fingerspan/",
+      "workPage": "https://associationforpublicart.org/artwork/fingerspan/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Fingerspan_1_1400x1400-e1447785954730.jpg",
+      "artistStatement": "59 英尺長的耐候鋼結構既是橋也是雕塑；身體必須穿過如手指拱起的內部，才完成作品與峽谷地景的連結。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/fingerspan/",
+      "classicTitle": "Fingerspan｜1987",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Fingerspan_1_1400x1400-e1447785954730.jpg",
+      "classicDesc": "功能性步行橋以手指般的耐候鋼形體把人體尺度嵌入自然地景。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "classic-german-2026-09-23-16",
+      "dedupeKey": "art-2026-09-23-german-potsdam-poem-michael-jager",
+      "name": "16｜Michael Jäger｜Potsdam Poem",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Potsdam-Golm",
+      "cityKeywords": [
+        "Potsdam",
+        "Potsdam-Golm",
+        "波茨坦"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋁複合板",
+        "壓克力"
+      ],
+      "works": "Potsdam Poem｜2016",
+      "comment": "色彩與片段形體沿會議中心展開，像一首不靠文字的視覺詩，把科學園區的理性秩序引向聯想與節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/potsdam-poem",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/potsdam-poem",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/71df288f0757171824dd96a327251b0251aa5e90.jpeg",
+      "artistStatement": "色彩與片段形體沿會議中心展開，像一首不靠文字的視覺詩，把科學園區的理性秩序引向聯想與節奏。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/potsdam-poem",
+      "classicTitle": "Potsdam Poem｜2016",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/71df288f0757171824dd96a327251b0251aa5e90.jpeg",
+      "classicDesc": "以鋁板色彩構成非文字的視覺詩，介入科研園區公共空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "classic-german-2026-09-23-17",
+      "dedupeKey": "art-2026-09-23-german-o-t-drei-stelen-paul-dierkes",
+      "name": "17｜Paul Dierkes｜o. T.（Drei Stelen）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "侏羅紀大理石",
+        "石柱"
+      ],
+      "works": "o. T.（Drei Stelen）｜1965",
+      "comment": "三座大理石柱以粗獷切面介入總理官邸庭園，在現代主義建築的水平秩序中建立垂直、原初而具身體感的節點。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-stelen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-stelen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/502bfde500cfb285d1aabc9107f0256650abd33c.jpg",
+      "artistStatement": "三座大理石柱以粗獷切面介入總理官邸庭園，在現代主義建築的水平秩序中建立垂直、原初而具身體感的節點。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-stelen",
+      "classicTitle": "o. T.（Drei Stelen）｜1965",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/502bfde500cfb285d1aabc9107f0256650abd33c.jpg",
+      "classicDesc": "三座侏羅紀大理石柱在總理官邸庭園形成原初而克制的垂直節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "classic-german-2026-09-23-18",
+      "dedupeKey": "art-2026-09-23-german-schwarz-rot-gold-gerhard-richter",
+      "name": "18｜Gerhard Richter｜Schwarz Rot Gold",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "琺瑯玻璃",
+        "政治象徵"
+      ],
+      "works": "Schwarz Rot Gold｜1998",
+      "comment": "黑、紅、金三色被壓縮為大尺度玻璃色面，既引用國旗又去除圖像敘事，使國家象徵在議會建築中保持莊重與開放解讀。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schwarz-rot-gold",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schwarz-rot-gold",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/b4b27fae227fd3be0984df3ae5561f2c41b9508c.jpg",
+      "artistStatement": "黑、紅、金三色被壓縮為大尺度玻璃色面，既引用國旗又去除圖像敘事，使國家象徵在議會建築中保持莊重與開放解讀。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schwarz-rot-gold",
+      "classicTitle": "Schwarz Rot Gold｜1998",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/b4b27fae227fd3be0984df3ae5561f2c41b9508c.jpg",
+      "classicDesc": "琺瑯玻璃把德國國旗轉為抽象色面，嵌入國會建築的政治空間。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "classic-german-2026-09-23-19",
+      "dedupeKey": "art-2026-09-23-german-der-warenkorb-norbert-radermacher",
+      "name": "19｜Norbert Radermacher｜Der Warenkorb",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Waldshut-Tiengen",
+      "cityKeywords": [
+        "Waldshut-Tiengen",
+        "Waldshut",
+        "瓦爾茨胡特-廷根"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "不鏽鋼",
+        "現成物轉譯"
+      ],
+      "works": "Der Warenkorb｜2011",
+      "comment": "放大的購物籃置於海關場域，把跨境流通、消費與檢查制度濃縮為一個立即可辨識、又因尺度錯置而陌生的公共物件。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-warenkorb",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-warenkorb",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/b12b6a62cbb8eaf0a50f7b3cb0a198616bdff925.jpg",
+      "artistStatement": "放大的購物籃置於海關場域，把跨境流通、消費與檢查制度濃縮為一個立即可辨識、又因尺度錯置而陌生的公共物件。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-warenkorb",
+      "classicTitle": "Der Warenkorb｜2011",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/b12b6a62cbb8eaf0a50f7b3cb0a198616bdff925.jpg",
+      "classicDesc": "放大不鏽鋼購物籃以幽默尺度回應海關、消費與跨境流通。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "classic-german-2026-09-23-20",
+      "dedupeKey": "art-2026-09-23-german-weltgericht-inferno-des-krieges-hap-grieshaber",
+      "name": "20｜HAP Grieshaber｜Weltgericht（Inferno des Krieges）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "繪畫",
+        "木質牆面"
+      ],
+      "works": "Weltgericht（Inferno des Krieges）｜1970",
+      "comment": "作品以大尺度圖像把戰爭災難帶入原聯邦議會高樓的公共內部；在今日聯合國園區中，它仍以強烈色彩提醒制度決策與人類代價的連結。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltgericht-inferno-des-krieges",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltgericht-inferno-des-krieges",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/8e605f993ffa2d771442c17ab582e1332c057bad.jpg",
+      "artistStatement": "作品以大尺度圖像把戰爭災難帶入原聯邦議會高樓的公共內部；在今日聯合國園區中，它仍以強烈色彩提醒制度決策與人類代價的連結。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltgericht-inferno-des-krieges",
+      "classicTitle": "Weltgericht（Inferno des Krieges）｜1970",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/8e605f993ffa2d771442c17ab582e1332c057bad.jpg",
+      "classicDesc": "大型木質牆面繪畫以戰爭末日圖像持續質問政治制度與歷史責任。",
+      "relatedByCity": []
+    }
+  ]
+}

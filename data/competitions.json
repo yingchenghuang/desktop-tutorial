@@ -1,12 +1,13 @@
 {
-  "updated": "2026-09-21",
-  "generatedAt": "2026-09-21T05:02:48+08:00",
+  "updated": "2026-09-23",
+  "generatedAt": "2026-09-23T04:59:43+08:00",
   "meta": {
-    "total": 94,
-    "activeEntries": 94,
+    "total": 96,
+    "activeEntries": 96,
     "addedToday": 5,
-    "expiredRemoved": 3,
-    "retainedExisting": 89,
+    "expiredRemoved": 2,
+    "retainedExisting": 91,
+    "duplicateRemoved": 1,
     "deadlineRule": "所有 deadline 均含時區偏移；官方僅公布日期時採主辦地 23:59:59 並標記 date。"
   },
   "entries": [
@@ -671,6 +672,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -682,7 +684,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -703,8 +710,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -770,8 +776,7 @@
         "dynamic-2026-08-25-05",
         "dynamic-2026-08-25-06",
         "dynamic-2026-08-25-07",
-        "dynamic-2026-08-25-08",
-        "landmark-event-london-design-biennale"
+        "dynamic-2026-08-25-08"
       ]
     },
     {
@@ -846,7 +851,9 @@
       "eligibility": "出生於 Hessen、2025年前居住 Hessen，或畢業於 Hessen 藝術院校之視覺藝術家",
       "budget": "12個旅行、7個駐村及2個日本組合獎助；個別金額依指南",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+        "current-2026-09-23-05"
+      ]
     },
     {
       "category": "公開徵件",
@@ -986,6 +993,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -997,7 +1005,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -1018,8 +1031,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -1136,97 +1148,6 @@
       "budget": "最高 US$100,000",
       "applicationFee": "免費",
       "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-26",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "media": [
-        "雕塑",
-        "建築/場域"
-      ],
-      "works": "Patricia’s Green Temporary Sculpture Loan｜截止 2026-09-21 23:59 PDT",
-      "comment": "舊金山藝術委員會徵求已完成、可戶外展出的自由站立大型雕塑，在 Hayes Valley 的 Patricia’s Green 展示至少一年；作品須已位於舊金山灣區。",
-      "website": "https://www.sf.gov/patricias-green-temporary-sculpture-loan-rfp",
-      "workPage": "https://www.sf.gov/patricias-green-temporary-sculpture-loan-rfp",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/patricias-green-temporary-sculpture-loan-rfp",
-      "artistStatement": "舊金山藝術委員會徵求已完成、可戶外展出的自由站立大型雕塑，在 Hayes Valley 的 Patricia’s Green 展示至少一年；作品須已位於舊金山灣區。",
-      "artistStatementSource": "https://www.sf.gov/patricias-green-temporary-sculpture-loan-rfp",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.sf.gov/patricias-green-temporary-sculpture-loan-rfp",
-      "classicDesc": "舊金山藝術委員會徵求已完成、可戶外展出的自由站立大型雕塑，在 Hayes Valley 的 Patricia’s Green 展示至少一年；作品須已位於舊金山灣區。",
-      "relatedByCity": [
-        "classic-global-2026-08-27-05",
-        "current-2026-08-27-01",
-        "current-2026-08-28-06",
-        "current-2026-08-28-07",
-        "current-2026-08-28-08",
-        "current-2026-08-28-09",
-        "current-2026-08-28-10"
-      ],
-      "applicationFee": "未公開",
-      "id": "competition-2026-08-26-01",
-      "dedupeKey": "opportunity-2026-08-26-patricias-green-temporary-sculpture-loan",
-      "name": "01｜San Francisco Arts Commission｜Patricia’s Green Temporary Sculpture Loan",
-      "country": "美國 / San Francisco",
-      "cityKeywords": [
-        "San Francisco",
-        "舊金山"
-      ],
-      "classicTitle": "Patricia’s Green Temporary Sculpture Loan",
-      "desc": "舊金山藝術委員會徵求已完成、可戶外展出的自由站立大型雕塑，在 Hayes Valley 的 Patricia’s Green 展示至少一年；作品須已位於舊金山灣區。",
-      "url": "https://www.sf.gov/patricias-green-temporary-sculpture-loan-rfp",
-      "deadline": "2026-09-21T23:59:00-07:00",
-      "deadlineLabel": "截止 2026-09-21 23:59 PDT",
-      "deadlineTimezone": "America/Los_Angeles",
-      "deadlinePrecision": "time",
-      "organizer": "San Francisco Arts Commission",
-      "eligibility": "專業藝術家、藝術團隊，或由藝廊／授權出借方代理；作品須已完成且目前位於舊金山灣區",
-      "budget": "最高 US$30,000，含運輸、安裝、保險、維護與藝術家酬金"
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-26",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "media": [
-        "建築/場域",
-        "裝置",
-        "數位/互動"
-      ],
-      "works": "Miami International Airport Capital Improvement Program｜截止 2026-09-21 23:59 EDT",
-      "comment": "Miami-Dade 公共藝術計畫與機場部門將建立 30–40 位藝術家短名單，於至少兩年期間競逐機場大型資本改善計畫中的多處公共藝術委託。",
-      "website": "https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
-      "workPage": "https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
-      "artistStatement": "Miami-Dade 公共藝術計畫與機場部門將建立 30–40 位藝術家短名單，於至少兩年期間競逐機場大型資本改善計畫中的多處公共藝術委託。",
-      "artistStatementSource": "https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
-      "classicDesc": "Miami-Dade 公共藝術計畫與機場部門將建立 30–40 位藝術家短名單，於至少兩年期間競逐機場大型資本改善計畫中的多處公共藝術委託。",
-      "relatedByCity": [],
-      "applicationFee": "未公開",
-      "id": "competition-2026-08-26-03",
-      "dedupeKey": "opportunity-2026-08-26-miami-international-airport-capital-improvement-public-art",
-      "name": "03｜Miami-Dade Art in Public Places｜Miami International Airport CIP",
-      "country": "美國 / Miami",
-      "cityKeywords": [
-        "Miami",
-        "邁阿密",
-        "Miami-Dade",
-        "邁阿密-戴德"
-      ],
-      "classicTitle": "Miami International Airport Capital Improvement Program",
-      "desc": "Miami-Dade 公共藝術計畫與機場部門將建立 30–40 位藝術家短名單，於至少兩年期間競逐機場大型資本改善計畫中的多處公共藝術委託。",
-      "url": "https://www.miamidadearts.org/news/news-use-thursday-july-30-2026",
-      "deadline": "2026-09-21T23:59:00-04:00",
-      "deadlineLabel": "截止 2026-09-21 23:59 EDT",
-      "deadlineTimezone": "America/New_York",
-      "deadlinePrecision": "time",
-      "organizer": "Miami-Dade County Department of Cultural Affairs / Miami-Dade Aviation Department",
-      "eligibility": "本地、全美及國際專業視覺藝術家",
-      "budget": "多項委託，每項約 US$100,000–500,000 以上"
     },
     {
       "category": "公開徵件",
@@ -1384,7 +1305,9 @@
       "eligibility": "常住德國的藝術家、創意工作者、代理公司、學生或大專院校；可組隊申請",
       "budget": "€40,000（含稅，含設計、製作、材料、運輸與差旅等費用）",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+        "current-2026-09-23-09"
+      ]
     },
     {
       "category": "公開徵件",
@@ -1908,6 +1831,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -1919,7 +1843,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -1940,8 +1869,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -2047,6 +1975,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -2058,7 +1987,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -2079,8 +2013,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -2185,6 +2118,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -2196,7 +2130,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -2217,8 +2156,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -2322,6 +2260,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -2333,7 +2272,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -2354,8 +2298,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -2459,6 +2402,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -2470,7 +2414,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -2491,8 +2440,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -2676,6 +2624,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -2687,7 +2636,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -2708,8 +2662,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -2878,9 +2831,7 @@
       "eligibility": "各國錄像藝術家；作品最長約 20 分鐘、mp4，每人至多 3 件，非德語作品須附字幕",
       "budget": "預計每位參與者最高 €100 放映費，視補助核定而定",
       "applicationFee": "免費",
-      "relatedByCity": [
-        "exhibition-2026-08-31-02"
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2926,9 +2877,7 @@
         "classic-german-2026-08-13-02",
         "classic-german-2026-08-13-03",
         "classic-german-2026-08-13-04",
-        "classic-german-2026-08-13-05",
-        "exhibition-2026-09-13-04",
-        "landmark-event-skulptur-projekte-muenster"
+        "classic-german-2026-08-13-05"
       ]
     },
     {
@@ -3008,47 +2957,6 @@
       "budget": "每月 €1,600、十二個月；免租工作室住宅，另有計畫與旅費補助；住戶每月自付 €250 雜費",
       "applicationFee": "免費",
       "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-09-06",
-      "id": "competition-2026-09-06-02",
-      "dedupeKey": "opportunity-2026-dresden-bsz-electrical-art-building",
-      "name": "02｜Dresden｜電氣職業學校 Kunst am Bau",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "德國 / Dresden",
-      "cityKeywords": [
-        "Dresden",
-        "德勒斯登"
-      ],
-      "media": [
-        "建築藝術",
-        "公共藝術",
-        "場域特定"
-      ],
-      "works": "兩階段校園公共藝術競賽｜截止 2026.10.05",
-      "comment": "為新電氣職業學校提出能被感官經驗、回應校園使用並強化場所認同的室內或戶外作品，最多實現兩件。",
-      "website": "https://www.stesad.de/kunst-am-bau-wettbewerb-fuer-das-neue-bsz-elektrotechnik/",
-      "workPage": "https://www.stesad.de/kunst-am-bau-wettbewerb-fuer-das-neue-bsz-elektrotechnik/",
-      "photo": "https://www.stesad.de/wp-content/uploads/2026/06/BSZET_Aussenraum_Eingang_RBZ_NEU_mittel.jpg",
-      "artistStatement": "為新電氣職業學校提出能被感官經驗、回應校園使用並強化場所認同的室內或戶外作品，最多實現兩件。",
-      "artistStatementSource": "https://www.stesad.de/kunst-am-bau-wettbewerb-fuer-das-neue-bsz-elektrotechnik/",
-      "classicTitle": "Dresden｜電氣職業學校 Kunst am Bau",
-      "classicImage": "https://www.stesad.de/wp-content/uploads/2026/06/BSZET_Aussenraum_Eingang_RBZ_NEU_mittel.jpg",
-      "classicDesc": "為新電氣職業學校提出能被感官經驗、回應校園使用並強化場所認同的室內或戶外作品，最多實現兩件。",
-      "deadline": "2026-10-05T23:59:59+02:00",
-      "deadlineLabel": "2026.10.05",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date",
-      "organizer": "KID, Kommunale Immobilien Dresden GmbH & Co. KG／STESAD",
-      "eligibility": "居住於歐盟的專業藝術家、藝術家團隊；第一階段以德文提交資格、作品與履歷 PDF",
-      "budget": "實現總預算最高 €330,000 含稅；競賽獎金共 €30,000；第二階段合格提案各 €3,800",
-      "applicationFee": "免費",
-      "relatedByCity": [
-        "classic-german-2026-09-13-04"
-      ]
     },
     {
       "category": "公開徵件",
@@ -3175,9 +3083,7 @@
       "eligibility": "歐盟或符合 Creative Europe 規範國家的數位、媒體、機器人及生物藝術家、雙人組、團體或跨域合作；需與一名合作夥伴共同製作",
       "budget": "申請藝術家 €4,000、合作藝術家 €2,000（藝術雙人組合計 €6,000）、另有 €4,000 製作預算、住宿、旅費與技術設施",
       "applicationFee": "未公開",
-      "relatedByCity": [
-        "landmark-event-manifesta"
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -3290,6 +3196,7 @@
         "current-2026-08-29-05",
         "current-2026-08-29-06",
         "current-2026-09-13-02",
+        "current-2026-09-23-05",
         "dynamic-2026-08-12-01",
         "dynamic-2026-08-12-02",
         "dynamic-2026-08-12-04",
@@ -3350,7 +3257,6 @@
         "dynamic-2026-08-25-08",
         "dynamic-2026-08-25-09",
         "dynamic-2026-08-25-10",
-        "exhibition-2026-09-02-01",
         "global-classic-2026-08-22-01",
         "global-classic-2026-08-22-02",
         "global-classic-2026-08-22-03",
@@ -3365,9 +3271,7 @@
         "global-classic-2026-08-24-02",
         "global-classic-2026-08-24-03",
         "global-classic-2026-08-24-04",
-        "global-classic-2026-08-24-05",
-        "landmark-event-istanbul-biennial",
-        "landmark-event-london-design-biennale"
+        "global-classic-2026-08-24-05"
       ]
     },
     {
@@ -3601,6 +3505,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -3612,7 +3517,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -3633,8 +3543,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -3740,6 +3649,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -3751,7 +3661,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -3772,8 +3687,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -4018,6 +3932,7 @@
         "classic-german-2026-09-21-01",
         "classic-german-2026-09-21-03",
         "classic-german-2026-09-22-01",
+        "classic-german-2026-09-23-18",
         "current-2026-09-01-06",
         "current-2026-09-01-07",
         "current-2026-09-01-08",
@@ -4029,7 +3944,12 @@
         "current-2026-09-02-06",
         "current-2026-09-02-08",
         "current-2026-09-02-09",
-        "exhibition-2026-09-03-01",
+        "current-2026-09-23-01",
+        "current-2026-09-23-02",
+        "current-2026-09-23-03",
+        "current-2026-09-23-07",
+        "current-2026-09-23-08",
+        "current-2026-09-23-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -4050,8 +3970,7 @@
         "german-classic-2026-09-16-20",
         "german-classic-2026-09-20-02",
         "german-classic-2026-09-20-04",
-        "german-classic-2026-09-20-05",
-        "landmark-event-berlin-biennale"
+        "german-classic-2026-09-20-05"
       ]
     },
     {
@@ -4094,7 +4013,6 @@
       "budget": "首獎 €20,000；入圍作品於 2027-02-25 頒獎後展出六週",
       "applicationFee": "免費",
       "relatedByCity": [
-        "classic-vienna-koer-institution-2026-08-31",
         "current-2026-09-05-06"
       ]
     },
@@ -4370,7 +4288,8 @@
         "classic-global-2026-08-26-02",
         "classic-global-2026-08-26-03",
         "classic-global-2026-08-26-04",
-        "classic-global-2026-08-26-05"
+        "classic-global-2026-08-26-05",
+        "current-2026-09-23-06"
       ]
     },
     {
@@ -5201,6 +5120,204 @@
       "eligibility": "18 歲以上具經驗的專業藝術家／團隊；無地域限制，與 Sacramento Valley 有文化或歷史連結者評選加分",
       "budget": "USD 151,500（含全部費用）",
       "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "competition-2026-09-23-01",
+      "dedupeKey": "opportunity-2026-09-23-meudt-kita-st-gangolf-kunst-am-bau",
+      "name": "01｜Meudt｜Kita St. Gangolf Kunst am Bau",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Meudt",
+      "cityKeywords": [
+        "Meudt",
+        "默伊特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "幼兒園",
+        "非公開競賽前置公開徵選"
+      ],
+      "works": "Kita St. Gangolf Kunst am Bau｜截止 2026.10.05",
+      "comment": "為 St. Gangolf 新建幼兒園徵選專業藝術家進入非公開設計競賽，實現總額含材料與藝術家費用為 43,000 歐元。",
+      "website": "https://www.bbkrlp.de/kunst-am-bau/ausschreibungen-wettbewerbe",
+      "workPage": "https://www.bbkrlp.de/kunst-am-bau/ausschreibungen-wettbewerbe",
+      "photo": "https://www.bbkrlp.de/templates/yootheme/cache/a5/BBK-RLP-Logo-2025_sRGB_web-a54da644.png",
+      "artistStatement": "為 St. Gangolf 新建幼兒園徵選專業藝術家進入非公開設計競賽，實現總額含材料與藝術家費用為 43,000 歐元。",
+      "artistStatementSource": "https://www.bbkrlp.de/kunst-am-bau/ausschreibungen-wettbewerbe",
+      "classicTitle": "Meudt｜Kita St. Gangolf Kunst am Bau",
+      "classicImage": "https://www.bbkrlp.de/templates/yootheme/cache/a5/BBK-RLP-Logo-2025_sRGB_web-a54da644.png",
+      "classicDesc": "為 St. Gangolf 新建幼兒園徵選專業藝術家進入非公開設計競賽，實現總額含材料與藝術家費用為 43,000 歐元。",
+      "deadline": "2026-10-05T23:59:59+02:00",
+      "deadlineLabel": "截止 2026.10.05",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Verbandsgemeindeverwaltung Wallmerod／Ortsgemeinde Meudt",
+      "eligibility": "專業視覺藝術家及／或藝術工藝創作者；依官方申請文件提出資格證明",
+      "budget": "EUR 43,000（含稅、材料與藝術家費用）",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "competition-2026-09-23-02",
+      "dedupeKey": "opportunity-2026-09-23-denver-la-raza-park-rfq",
+      "name": "02｜Denver｜La Raza Park 永久公共藝術 RFQ",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Denver, Colorado",
+      "cityKeywords": [
+        "Denver",
+        "丹佛"
+      ],
+      "media": [
+        "永久公共藝術",
+        "戶外雕塑",
+        "文化地景"
+      ],
+      "works": "La Raza Park 永久公共藝術 RFQ｜截止 2026.10.15 23:59 MDT",
+      "comment": "為 Northside Denver 的 La Raza Park 委託場域回應式永久雕塑，作品須連結奇卡諾社群歷史、地方認同與跨世代公共聚會。",
+      "website": "https://denverpublicart.org/",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18003/CAFE",
+      "photo": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "artistStatement": "為 Northside Denver 的 La Raza Park 委託場域回應式永久雕塑，作品須連結奇卡諾社群歷史、地方認同與跨世代公共聚會。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18003/CAFE",
+      "classicTitle": "Denver｜La Raza Park 永久公共藝術 RFQ",
+      "classicImage": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "classicDesc": "為 Northside Denver 的 La Raza Park 委託場域回應式永久雕塑，作品須連結奇卡諾社群歷史、地方認同與跨世代公共聚會。",
+      "deadline": "2026-10-15T23:59:00-06:00",
+      "deadlineLabel": "截止 2026.10.15 23:59 MDT",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "Denver Arts & Venues／Denver Public Art",
+      "eligibility": "居住於美國的藝術家或藝術家團隊；鼓勵與 Denver Northside 有深厚連結者申請",
+      "budget": "USD 136,000（含全部設計、製作與安裝費用）",
+      "applicationFee": "免費",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "competition-2026-09-23-03",
+      "dedupeKey": "opportunity-2026-09-23-ann-arbor-nixon-road-roundabout-rfq",
+      "name": "03｜Ann Arbor｜Nixon Road Roundabout 公共藝術 RFQ",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Ann Arbor, Michigan",
+      "cityKeywords": [
+        "Ann Arbor",
+        "安娜堡"
+      ],
+      "media": [
+        "永久公共藝術",
+        "圓環雕塑",
+        "街道改善"
+      ],
+      "works": "Nixon Road Roundabout 公共藝術 RFQ｜截止 2026.10.23 23:59 PDT",
+      "comment": "安娜堡市為 Nixon Road 三座圓環及鄰近人行空間徵選場域特定永久作品，可採單一節點或沿廊道展開的一系列作品。",
+      "website": "https://www.a2gov.org/departments/engineering/Pages/Nixon-Road.aspx",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18062/CAFE",
+      "photo": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "artistStatement": "安娜堡市為 Nixon Road 三座圓環及鄰近人行空間徵選場域特定永久作品，可採單一節點或沿廊道展開的一系列作品。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18062/CAFE",
+      "classicTitle": "Ann Arbor｜Nixon Road Roundabout 公共藝術 RFQ",
+      "classicImage": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "classicDesc": "安娜堡市為 Nixon Road 三座圓環及鄰近人行空間徵選場域特定永久作品，可採單一節點或沿廊道展開的一系列作品。",
+      "deadline": "2026-10-23T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.10.23 23:59 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Ann Arbor／Ann Arbor Art Center",
+      "eligibility": "藝術家、設計師或藝術家團隊；全美徵選，需具永久公共藝術經驗",
+      "budget": "USD 75,000（另有最多五名準決選者各 USD 750 提案費）",
+      "applicationFee": "免費",
+      "relatedByCity": [
+        "classic-global-2026-08-25-03"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "competition-2026-09-23-04",
+      "dedupeKey": "opportunity-2026-09-23-mountain-view-public-safety-building-rfq",
+      "name": "04｜Mountain View｜Public Safety Building 公共藝術 RFQ",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Mountain View, California",
+      "cityKeywords": [
+        "Mountain View",
+        "芒廷維尤",
+        "山景城"
+      ],
+      "media": [
+        "永久公共藝術",
+        "市政建築",
+        "公共安全紀念"
+      ],
+      "works": "Public Safety Building 公共藝術 RFQ｜截止 2026.10.16 23:59 PDT",
+      "comment": "Mountain View 市為新公共安全大樓一至三處位置徵選永久公共藝術，包含外部廣場公共安全紀念物及面向市民的建築整合場域。",
+      "website": "https://econdev.mountainview.gov/public-art",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18182/CAFE",
+      "photo": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "artistStatement": "Mountain View 市為新公共安全大樓一至三處位置徵選永久公共藝術，包含外部廣場公共安全紀念物及面向市民的建築整合場域。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18182/CAFE",
+      "classicTitle": "Mountain View｜Public Safety Building 公共藝術 RFQ",
+      "classicImage": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "classicDesc": "Mountain View 市為新公共安全大樓一至三處位置徵選永久公共藝術，包含外部廣場公共安全紀念物及面向市民的建築整合場域。",
+      "deadline": "2026-10-16T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.10.16 23:59 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Mountain View Visual Arts Committee",
+      "eligibility": "年滿 18 歲、居住於美國西部各州，具同等規模永久戶外公共藝術經驗的專業藝術家／團隊",
+      "budget": "USD 400,000（總公共藝術預算）",
+      "applicationFee": "免費",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-23",
+      "id": "competition-2026-09-23-05",
+      "dedupeKey": "opportunity-2026-09-23-oakley-main-street",
+      "name": "05｜Oakley｜Main Street 臨時雕塑展",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Oakley, California",
+      "cityKeywords": [
+        "Oakley",
+        "奧克利"
+      ],
+      "media": [
+        "臨時公共藝術",
+        "戶外雕塑",
+        "城市主街"
+      ],
+      "works": "Main Street 臨時雕塑展｜截止 2026.10.18 23:59 PDT",
+      "comment": "Oakley 首次公共藝術計畫將選出既有、可立即安裝的戶外雕塑，在市政廳前廣場與 Main Street 兩街區展示一年。",
+      "website": "https://www.ci.oakley.ca.us/",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18200/CAFE",
+      "photo": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "artistStatement": "Oakley 首次公共藝術計畫將選出既有、可立即安裝的戶外雕塑，在市政廳前廣場與 Main Street 兩街區展示一年。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18200/CAFE",
+      "classicTitle": "Oakley｜Main Street 臨時雕塑展",
+      "classicImage": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "classicDesc": "Oakley 首次公共藝術計畫將選出既有、可立即安裝的戶外雕塑，在市政廳前廣場與 Main Street 兩街區展示一年。",
+      "deadline": "2026-10-18T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.10.18 23:59 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Oakley／Local Edition Creative",
+      "eligibility": "區域藝術家；提交既有、完成且可戶外展示 12 個月的雕塑，藝術家須親自或委派代表完成安裝與撤展",
+      "budget": "USD 5,000",
+      "applicationFee": "免費",
       "relatedByCity": []
     }
   ]
