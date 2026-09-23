@@ -1,0 +1,710 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-24T05:16:16+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-24",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Association for Public Art 第一方作品頁",
+    "selectionPolicy": "已實現且持續存在的公共藝術、永久委託與 Kunst am Bau；競圖、補助與獎項完全分流。",
+    "note": "9/24 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-09-24T05:16:16+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-24T05:16:16+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-01",
+      "dedupeKey": "art-2026-09-24-current-armalamor-georg-baselitz-hans-georg-kern",
+      "name": "01｜Georg Baselitz（Hans-Georg Kern）｜Armalamor",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Frankfurt am Main",
+      "cityKeywords": [
+        "Frankfurt am Main",
+        "Frankfurt",
+        "法蘭克福"
+      ],
+      "media": [
+        "雕塑",
+        "Kunst am Bau",
+        "榆木與織物"
+      ],
+      "works": "Armalamor｜1994",
+      "comment": "覆布榆木雕塑立於德國國家圖書館穹頂廳，觀者繞行時可見其拒絕傳統人體比例的多重輪廓；作品名稱亦召喚 Arp、Laurens 與 Moore 的現代雕塑譜系。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/armalamor",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/armalamor",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a2888ee09e540744e8baf0c2956794eda5cf550a.jpg",
+      "artistStatement": "覆布榆木雕塑立於德國國家圖書館穹頂廳，觀者繞行時可見其拒絕傳統人體比例的多重輪廓；作品名稱亦召喚 Arp、Laurens 與 Moore 的現代雕塑譜系。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/armalamor",
+      "classicTitle": "Armalamor｜1994",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a2888ee09e540744e8baf0c2956794eda5cf550a.jpg",
+      "classicDesc": "以不穩定的人體形態和多向觀看，讓圖書館入口成為身體、知識與現代雕塑史相遇的場所。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-02",
+      "dedupeKey": "art-2026-09-24-current-brushstroke-thomas-bayrle",
+      "name": "02｜Thomas Bayrle｜Brushstroke",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Offenbach am Main",
+      "cityKeywords": [
+        "Offenbach am Main",
+        "Offenbach",
+        "奧芬巴赫"
+      ],
+      "media": [
+        "雕塑",
+        "Kunst am Bau",
+        "落葉松木"
+      ],
+      "works": "Brushstroke｜2008",
+      "comment": "三件電腦銑削落葉松雕塑把平面的筆觸轉成立體構造；木材會隨氣候持續變色，並以橋狀姿態連結德國氣象局庭院與建築。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/brushstroke",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/brushstroke",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/5dd1af65816b7d6a63f9473c2bd3b3196376dfa2.jpg",
+      "artistStatement": "三件電腦銑削落葉松雕塑把平面的筆觸轉成立體構造；木材會隨氣候持續變色，並以橋狀姿態連結德國氣象局庭院與建築。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/brushstroke",
+      "classicTitle": "Brushstroke｜2008",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/5dd1af65816b7d6a63f9473c2bd3b3196376dfa2.jpg",
+      "classicDesc": "把繪畫筆觸、數位製造與天候變化疊合，使雕塑本身成為時間與氣象的記錄器。",
+      "relatedByCity": [
+        "competition-2026-09-05-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-03",
+      "dedupeKey": "art-2026-09-24-current-kopf-franz-bernhard",
+      "name": "03｜Franz Bernhard｜Kopf",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "雕塑",
+        "Kunst am Bau",
+        "鋼材"
+      ],
+      "works": "Kopf｜2000",
+      "comment": "巨大鋼製頭部停在聯邦經濟合作與發展部入口車道，隨接近角度在幾何塊體與人物輪廓之間轉換，將「人」置於行政機構的第一視線。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kopf",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kopf",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/ecb8c129ea6eceeabdcce584af7efdf46ac2f270.jpg",
+      "artistStatement": "巨大鋼製頭部停在聯邦經濟合作與發展部入口車道，隨接近角度在幾何塊體與人物輪廓之間轉換，將「人」置於行政機構的第一視線。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kopf",
+      "classicTitle": "Kopf｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/ecb8c129ea6eceeabdcce584af7efdf46ac2f270.jpg",
+      "classicDesc": "以簡化頭像回應發展合作的人本使命，讓入口不只是通行空間，也是制度價值的公共提示。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-04",
+      "dedupeKey": "art-2026-09-24-current-zwei-linien-vier-kegel-bernd-wilhelm-blank",
+      "name": "04｜Bernd Wilhelm Blank｜zwei Linien – vier Kegel",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Potsdam-Golm",
+      "cityKeywords": [
+        "Potsdam",
+        "Potsdam-Golm",
+        "波茨坦"
+      ],
+      "media": [
+        "動態雕塑",
+        "Kunst am Bau",
+        "不鏽鋼"
+      ],
+      "works": "zwei Linien – vier Kegel｜1999",
+      "comment": "兩支不鏽鋼臂隨風轉動，在空中描出四個想像圓錐；作品同時呼應 Golm 地區曾有的風車景觀，讓科研園區前廣場持續被天候重新構圖。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zwei-linien-vier-kegel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zwei-linien-vier-kegel",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/af359912437a22afd6f0850e3597e635b33df9f5.jpg",
+      "artistStatement": "兩支不鏽鋼臂隨風轉動，在空中描出四個想像圓錐；作品同時呼應 Golm 地區曾有的風車景觀，讓科研園區前廣場持續被天候重新構圖。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zwei-linien-vier-kegel",
+      "classicTitle": "zwei Linien – vier Kegel｜1999",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/af359912437a22afd6f0850e3597e635b33df9f5.jpg",
+      "classicDesc": "以風力把線條轉成暫時幾何，連結地方記憶、科學環境與身體觀看。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-05",
+      "dedupeKey": "art-2026-09-24-current-integration-76-hans-dieter-bohnet",
+      "name": "05｜Hans Dieter Bohnet｜Integration, 76",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "動態雕塑",
+        "Kunst am Bau",
+        "不鏽鋼"
+      ],
+      "works": "Integration, 76｜1976；1986 設置",
+      "comment": "立方體切分的構件可在風力或人力作用下轉動，逐步形成球體般的組合；作品在萊茵河畔以運動展示幾何形體之間的可變關係。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-76",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-76",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/6422d9c077a04120f2b0b41dbcee556130dec47e.jpg",
+      "artistStatement": "立方體切分的構件可在風力或人力作用下轉動，逐步形成球體般的組合；作品在萊茵河畔以運動展示幾何形體之間的可變關係。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-76",
+      "classicTitle": "Integration, 76｜1976；1986 設置",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/6422d9c077a04120f2b0b41dbcee556130dec47e.jpg",
+      "classicDesc": "把立方、球體與參與式旋轉整合為一件持續變化的構成主義公共雕塑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-06",
+      "dedupeKey": "art-2026-09-24-current-gegenstromung-victor-bonato",
+      "name": "06｜Victor Bonato｜Gegenströmung",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "銅與混凝土"
+      ],
+      "works": "Gegenströmung｜1981",
+      "comment": "兩個球體與管狀構件跨置於穿廊兩側，將日常通行轉成方向相反、彼此拉扯的空間經驗；作品以最少形體精準回應建築動線。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gegenstromung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gegenstromung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/df3716959699283784675d046ae91197ae055a1d.jpg",
+      "artistStatement": "兩個球體與管狀構件跨置於穿廊兩側，將日常通行轉成方向相反、彼此拉扯的空間經驗；作品以最少形體精準回應建築動線。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gegenstromung",
+      "classicTitle": "Gegenströmung｜1981",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/df3716959699283784675d046ae91197ae055a1d.jpg",
+      "classicDesc": "以成對球體和穿廊軸線製造「逆流」，使行走者成為場域張力的一部分。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-07",
+      "dedupeKey": "art-2026-09-24-current-ei-sprung-victor-bonato",
+      "name": "07｜Victor Bonato｜Ei-Sprung",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "大理石與不鏽鋼"
+      ],
+      "works": "Ei-Sprung｜1993",
+      "comment": "大理石蛋形與不鏽鋼環狀構件在聯邦風險評估研究所庭院形成一組斷裂而開放的關係；完整與破裂並置，讓新生、脆弱與風險成為可被行走閱讀的空間隱喻。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ei-sprung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ei-sprung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/6a242fa3d505d54fc22f937b12d1e5e9d1b8657a.JPG",
+      "artistStatement": "大理石蛋形與不鏽鋼環狀構件在聯邦風險評估研究所庭院形成一組斷裂而開放的關係；完整與破裂並置，讓新生、脆弱與風險成為可被行走閱讀的空間隱喻。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ei-sprung",
+      "classicTitle": "Ei-Sprung｜1993",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/6a242fa3d505d54fc22f937b12d1e5e9d1b8657a.JPG",
+      "classicDesc": "以蛋形、裂變與環狀結構對照生命潛能和不確定性，回應研究機構的風險議題。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-08",
+      "dedupeKey": "art-2026-09-24-current-baumgartens-gelander-monika-brandmeier",
+      "name": "08｜Monika Brandmeier｜Baumgartens Geländer",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "鋼、鋁與塗料"
+      ],
+      "works": "Baumgartens Geländer｜2014",
+      "comment": "巨型黃色桌面與彎折欄杆以熟悉日常物件偽裝成抽象幾何，透過尺度錯置重組庭院的軸線、平面與身體方向。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/baumgartens-gelander",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/baumgartens-gelander",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/aad0684093cc5084475d6520f7f8403ba22e29af.jpg",
+      "artistStatement": "巨型黃色桌面與彎折欄杆以熟悉日常物件偽裝成抽象幾何，透過尺度錯置重組庭院的軸線、平面與身體方向。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/baumgartens-gelander",
+      "classicTitle": "Baumgartens Geländer｜2014",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/aad0684093cc5084475d6520f7f8403ba22e29af.jpg",
+      "classicDesc": "作品不建立封閉圖像，而以物件尺度和線面關係迫使人重新定位建築空間。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-09",
+      "dedupeKey": "art-2026-09-24-current-leit-und-informationssystem-neville-brody",
+      "name": "09｜Neville Brody｜Leit- und Informationssystem",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "平面設計",
+        "Kunst am Bau",
+        "導視系統"
+      ],
+      "works": "Leit- und Informationssystem｜1992",
+      "comment": "從標誌、資訊板到家具與字體，整套導視把平面設計延伸為德國聯邦藝術展覽館的建築層次，使辨路、識別與公共形象成為同一套空間語言。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/leit-und-informationssystem",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/leit-und-informationssystem",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/3ccbf78a108f4dc154276e161f32636d961919cb.JPG",
+      "artistStatement": "從標誌、資訊板到家具與字體，整套導視把平面設計延伸為德國聯邦藝術展覽館的建築層次，使辨路、識別與公共形象成為同一套空間語言。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/leit-und-informationssystem",
+      "classicTitle": "Leit- und Informationssystem｜1992",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/3ccbf78a108f4dc154276e161f32636d961919cb.JPG",
+      "classicDesc": "將資訊設計視為公共建築的一部分，以一致語彙組織人的移動與理解。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "current-2026-09-24-10",
+      "dedupeKey": "art-2026-09-24-current-feuerstelle-laube-und-liebesbogen-heinrich-brummack",
+      "name": "10｜Heinrich Brummack｜Feuerstelle, Laube und Liebesbogen",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "場域藝術",
+        "Kunst am Bau",
+        "木、混凝土與石材"
+      ],
+      "works": "Feuerstelle, Laube und Liebesbogen｜1982",
+      "comment": "三件庭園構築分別援引愛情、火與庇護的原型，以帶有幽默感的具象符號介入建築庭院，讓抽象場地獲得可停留、辨識與敘事的節點。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/feuerstelle-laube-und-liebesbogen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/feuerstelle-laube-und-liebesbogen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/2df20b19ee5e31a2b794c851ebe373970e8aadd2.jpg",
+      "artistStatement": "三件庭園構築分別援引愛情、火與庇護的原型，以帶有幽默感的具象符號介入建築庭院，讓抽象場地獲得可停留、辨識與敘事的節點。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/feuerstelle-laube-und-liebesbogen",
+      "classicTitle": "Feuerstelle, Laube und Liebesbogen｜1982",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/2df20b19ee5e31a2b794c851ebe373970e8aadd2.jpg",
+      "classicDesc": "以三種人類基本需求組成庭園敘事，使公共空間兼具形式秩序與日常想像。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "global-classic-2026-09-24-11",
+      "dedupeKey": "art-2026-09-24-global-nesaika-john-rhoden",
+      "name": "11｜John Rhoden｜Nesaika",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "雕塑",
+        "青銅與磚座"
+      ],
+      "works": "Nesaika｜1976",
+      "comment": "作品名稱源自 Chinook 詞彙「我們／我們的」，以面具般的青銅人物處理非裔美國人的共同身份；圓整構形被藝術家視為宇宙完整性的象徵。",
+      "website": "https://associationforpublicart.org/artwork/nesaika/",
+      "workPage": "https://associationforpublicart.org/artwork/nesaika/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Nesaika_1400x1400-1024x1024.jpg",
+      "artistStatement": "作品名稱源自 Chinook 詞彙「我們／我們的」，以面具般的青銅人物處理非裔美國人的共同身份；圓整構形被藝術家視為宇宙完整性的象徵。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/nesaika/",
+      "classicTitle": "Nesaika｜1976",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Nesaika_1400x1400-1024x1024.jpg",
+      "classicDesc": "以公共雕塑把個人形象轉向共同體認同，並將非洲造型記憶帶入費城城市空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "global-classic-2026-09-24-12",
+      "dedupeKey": "art-2026-09-24-global-symbiosis-roxy-paine",
+      "name": "12｜Roxy Paine｜Symbiosis",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "雕塑",
+        "不鏽鋼工業管材與板件"
+      ],
+      "works": "Symbiosis｜2011；2014 設置",
+      "comment": "兩組樹狀不鏽鋼形體彼此交纏、支撐又施壓，把自然生長與工業製造置於同一結構，讓「共生」同時呈現合作、依賴與負擔。",
+      "website": "https://associationforpublicart.org/artwork/symbiosis/",
+      "workPage": "https://associationforpublicart.org/artwork/symbiosis/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Symbiosis_1400x1400.jpg",
+      "artistStatement": "兩組樹狀不鏽鋼形體彼此交纏、支撐又施壓，把自然生長與工業製造置於同一結構，讓「共生」同時呈現合作、依賴與負擔。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/symbiosis/",
+      "classicTitle": "Symbiosis｜2011；2014 設置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Symbiosis_1400x1400.jpg",
+      "classicDesc": "以機械般的樹形檢視自然和人工系統如何互相支撐，也互相限制。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "global-classic-2026-09-24-13",
+      "dedupeKey": "art-2026-09-24-global-striving-charles-searles",
+      "name": "13｜Charles Searles｜Striving",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "雕塑",
+        "青銅、混凝土與磚"
+      ],
+      "works": "Striving｜1995",
+      "comment": "向 Richard Allen 致意的青銅群像，以向上延展的姿態象徵非裔美國人持續追求更高成就；作品經費來自費城公共藝術百分比制度。",
+      "website": "https://associationforpublicart.org/artwork/striving/",
+      "workPage": "https://associationforpublicart.org/artwork/striving/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Striving_Charles_Searles_Philadelphia_1_Photo_aPA_M_Mendoza-967x1024.jpg",
+      "artistStatement": "向 Richard Allen 致意的青銅群像，以向上延展的姿態象徵非裔美國人持續追求更高成就；作品經費來自費城公共藝術百分比制度。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/striving/",
+      "classicTitle": "Striving｜1995",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Striving_Charles_Searles_Philadelphia_1_Photo_aPA_M_Mendoza-967x1024.jpg",
+      "classicDesc": "以集體向上的身體動勢，將歷史紀念轉化為仍在進行的社會努力。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "global-classic-2026-09-24-14",
+      "dedupeKey": "art-2026-09-24-global-puma-william-zorach",
+      "name": "14｜William Zorach｜Puma",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "雕塑",
+        "拉布拉多黑花崗岩"
+      ],
+      "works": "Puma｜1954；1962 設置",
+      "comment": "直接雕刻的黑色花崗岩保留石材重量，同時捕捉美洲獅收束而警覺的姿態；低伏輪廓使動物力量和花園地景安靜共存。",
+      "website": "https://associationforpublicart.org/artwork/puma/",
+      "workPage": "https://associationforpublicart.org/artwork/puma/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Puma_aPA_2015_2-1024x678.jpg",
+      "artistStatement": "直接雕刻的黑色花崗岩保留石材重量，同時捕捉美洲獅收束而警覺的姿態；低伏輪廓使動物力量和花園地景安靜共存。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/puma/",
+      "classicTitle": "Puma｜1954；1962 設置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Puma_aPA_2015_2-1024x678.jpg",
+      "classicDesc": "以直接雕刻提煉動物的優雅與力量，讓自然形象成為城市花園的長期地標。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "global-classic-2026-09-24-15",
+      "dedupeKey": "art-2026-09-24-global-flow-lyn-godley",
+      "name": "15｜Lyn Godley｜Flow",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "光藝術",
+        "壓克力、燈光、二向色膜與軟體"
+      ],
+      "works": "Flow｜2015；2016 設置",
+      "comment": "171 片二向色面板與程式燈光覆蓋停車建築立面，以持續變化的色彩模擬德拉瓦河水流與反光，使基礎設施成為夜間城市景觀。",
+      "website": "https://associationforpublicart.org/artwork/flow/",
+      "workPage": "https://associationforpublicart.org/artwork/flow/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Lyn_Godley_Flow_Casino_2_Photo_by_Kevin_Edling-1024x549.jpg",
+      "artistStatement": "171 片二向色面板與程式燈光覆蓋停車建築立面，以持續變化的色彩模擬德拉瓦河水流與反光，使基礎設施成為夜間城市景觀。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/flow/",
+      "classicTitle": "Flow｜2015；2016 設置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Lyn_Godley_Flow_Casino_2_Photo_by_Kevin_Edling-1024x549.jpg",
+      "classicDesc": "以程式光線和反射薄膜把河流節奏轉譯成永久建築表皮。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "classic-german-2026-09-24-16",
+      "dedupeKey": "art-2026-09-24-german-kopf-fur-dakar-horst-antes",
+      "name": "16｜Horst Antes｜Kopf für Dakar",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "塞內加爾 / Dakar",
+      "cityKeywords": [
+        "Dakar",
+        "達卡"
+      ],
+      "media": [
+        "雕塑",
+        "Kunst am Bau",
+        "耐候鋼"
+      ],
+      "works": "Kopf für Dakar｜1985",
+      "comment": "耐候鋼「頭足人」立於德國駐達卡使館入口，結合梯形與跪姿意象；簡化身體既像守門人，也呈現謙遜、脆弱與存在性的張力。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kopf-fur-dakar",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kopf-fur-dakar",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/0bbca58568289717d2b77534b4d10cb594a5b895.jpg",
+      "artistStatement": "耐候鋼「頭足人」立於德國駐達卡使館入口，結合梯形與跪姿意象；簡化身體既像守門人，也呈現謙遜、脆弱與存在性的張力。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kopf-fur-dakar",
+      "classicTitle": "Kopf für Dakar｜1985",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/0bbca58568289717d2b77534b4d10cb594a5b895.jpg",
+      "classicDesc": "以藝術家代表性的頭足人造型，在外交建築前建立跨文化、非英雄式的人體象徵。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "classic-german-2026-09-24-17",
+      "dedupeKey": "art-2026-09-24-german-funf-steinobjekte-mary-bauermeister",
+      "name": "17｜Mary Bauermeister｜Fünf Steinobjekte",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "彩繪石、木與畫布"
+      ],
+      "works": "Fünf Steinobjekte｜1979",
+      "comment": "五件牆面物件把石頭、幾何標記與手寫文字編排成如行星系統般的微型宇宙，在裸露混凝土建築中建立感性、偶然與思想的對照。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-steinobjekte",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-steinobjekte",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/575bab7e56a2570c3b5489da3164c29d277cc4fc.jpg",
+      "artistStatement": "五件牆面物件把石頭、幾何標記與手寫文字編排成如行星系統般的微型宇宙，在裸露混凝土建築中建立感性、偶然與思想的對照。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-steinobjekte",
+      "classicTitle": "Fünf Steinobjekte｜1979",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/575bab7e56a2570c3b5489da3164c29d277cc4fc.jpg",
+      "classicDesc": "以自然石和符號構成多個微觀世界，將觀察、書寫與宇宙想像帶入公共建築。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "classic-german-2026-09-24-18",
+      "dedupeKey": "art-2026-09-24-german-o-t-wandteppich-hans-theo-baumann",
+      "name": "18｜Hans Theo Baumann｜o. T.（Wandteppich）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "織品",
+        "Kunst am Bau",
+        "羊毛壁毯"
+      ],
+      "works": "o. T.（Wandteppich）｜1973",
+      "comment": "橙、黃、綠、棕色的圓與矩形構成大型羊毛壁毯，與原外交官學院的導視色系相互呼應，使柔軟材質成為空間識別與停留感的核心。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandteppich",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandteppich",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/95fc6c200a297e139419ab953713e614530b446c.jpg",
+      "artistStatement": "橙、黃、綠、棕色的圓與矩形構成大型羊毛壁毯，與原外交官學院的導視色系相互呼應，使柔軟材質成為空間識別與停留感的核心。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandteppich",
+      "classicTitle": "o. T.（Wandteppich）｜1973",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/95fc6c200a297e139419ab953713e614530b446c.jpg",
+      "classicDesc": "以幾何色彩和織品觸感調節現代主義教育建築的尺度與方向感。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "classic-german-2026-09-24-19",
+      "dedupeKey": "art-2026-09-24-german-der-weg-der-roten-fahne-gerhard-bondzin",
+      "name": "19｜Gerhard Bondzin 等集體創作｜Der Weg der roten Fahne",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Dresden",
+      "cityKeywords": [
+        "Dresden",
+        "德勒斯登"
+      ],
+      "media": [
+        "壁畫",
+        "Kunst am Bau",
+        "彩色玻璃塗層與混凝土"
+      ],
+      "works": "Der Weg der roten Fahne｜1969",
+      "comment": "466 塊混凝土板覆以彩色玻璃塗層，構成長幅社會主義歷史敘事。作品 2001 年列入保護、2016 年修復，今日仍公開顯示政治圖像與城市記憶的複雜延續。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-weg-der-roten-fahne",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-weg-der-roten-fahne",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/b233dac077de63553155847159bcfbfe69c0492e.jpg",
+      "artistStatement": "466 塊混凝土板覆以彩色玻璃塗層，構成長幅社會主義歷史敘事。作品 2001 年列入保護、2016 年修復，今日仍公開顯示政治圖像與城市記憶的複雜延續。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-weg-der-roten-fahne",
+      "classicTitle": "Der Weg der roten Fahne｜1969",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/b233dac077de63553155847159bcfbfe69c0492e.jpg",
+      "classicDesc": "以大型建築壁畫呈現東德國家敘事，其保存與修復亦成為轉型後城市如何面對政治遺產的案例。",
+      "relatedByCity": [
+        "competition-2026-09-03-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-24",
+      "id": "classic-german-2026-09-24-20",
+      "dedupeKey": "art-2026-09-24-german-das-leben-in-der-ddr-gunther-brendel",
+      "name": "20｜Günther Brendel｜Das Leben in der DDR",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "壁畫",
+        "Kunst am Bau",
+        "麥森瓷板"
+      ],
+      "works": "Das Leben in der DDR｜1964",
+      "comment": "長約四十公尺的麥森瓷板壁畫以十二組場景描繪東德日常生活；明亮裝飾性色彩包裹清楚的國家意識形態，也記錄原國務委員會建築的政治功能。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-leben-in-der-ddr",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-leben-in-der-ddr",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/b74a80eb9261568acd51b35ecfb8d6263c8affc6.jpg",
+      "artistStatement": "長約四十公尺的麥森瓷板壁畫以十二組場景描繪東德日常生活；明亮裝飾性色彩包裹清楚的國家意識形態，也記錄原國務委員會建築的政治功能。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-leben-in-der-ddr",
+      "classicTitle": "Das Leben in der DDR｜1964",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/b74a80eb9261568acd51b35ecfb8d6263c8affc6.jpg",
+      "classicDesc": "以瓷板工藝把日常生活轉成國家形象工程，成為德國戰後公共藝術與制度空間的重要歷史證物。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    }
+  ]
+}
