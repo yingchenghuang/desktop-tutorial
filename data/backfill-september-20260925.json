@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-25T04:59:40+08:00",
+    "generatedAt": "2026-09-25T05:25:00+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-09-25",
     "total": 20,
@@ -9,7 +9,7 @@
     "germanClassicEntries": 5,
     "source": "Museum der 1000 Orte、Association for Public Art 第一方作品頁",
     "selectionPolicy": "已實現且持續存在的公共藝術、永久委託與 Kunst am Bau；競圖、補助與獎項完全分流。",
-    "note": "9/25 固定 10＋5＋5。",
+    "note": "9/25 固定 10＋5＋5；依資料庫選案原則移除傳統城市人物雕塑 Night、Schiller，改為 Philadelphia Beacons、Covenant。",
     "linkAudit": {
       "checkedAt": "2026-09-25T04:59:40+08:00",
       "checkedUniqueSources": 20,
@@ -421,8 +421,8 @@
       "status": "官方來源",
       "updated": "2026-09-25",
       "id": "global-classic-2026-09-25-12",
-      "dedupeKey": "art-2026-09-25-global-night-edward-stauch",
-      "name": "12｜Edward Stauch｜Night",
+      "dedupeKey": "art-2026-09-25-global-philadelphia-beacons-ray-king",
+      "name": "12｜Ray King｜Philadelphia Beacons",
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "美國 / Philadelphia",
@@ -431,19 +431,20 @@
         "費城"
       ],
       "media": [
-        "雕塑",
-        "青銅與磚座"
+        "光藝術",
+        "場域雕塑",
+        "不鏽鋼、夾層玻璃與全像薄膜"
       ],
-      "works": "Night｜1872；1980 遷置",
-      "comment": "披覆長袍的人物將面紗拉過頭部，以古典擬人手法把夜晚塑造成沉靜、包覆與轉換的身體形象。",
-      "website": "https://associationforpublicart.org/artwork/night/",
-      "workPage": "https://associationforpublicart.org/artwork/night/",
-      "photo": "https://associationforpublicart.org/wp-content/uploads/2015/10/Night_Caitlin_Martin_2016_22.jpg",
-      "artistStatement": "披覆長袍的人物將面紗拉過頭部，以古典擬人手法把夜晚塑造成沉靜、包覆與轉換的身體形象。",
-      "artistStatementSource": "https://associationforpublicart.org/artwork/night/",
-      "classicTitle": "Night｜1872；1980 遷置",
-      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2015/10/Night_Caitlin_Martin_2016_22.jpg",
-      "classicDesc": "十九世紀公共雕塑以寓意人物將自然時間引入城市公園。",
+      "works": "Philadelphia Beacons｜1999",
+      "comment": "四座逾十二公尺高的玻璃與不鏽鋼光塔分立街口四角，白天藉全像薄膜折射日光、夜間發光，將城市入口轉化為隨時間變化的光學地標。",
+      "website": "https://www.associationforpublicart.org/artwork/philadelphia-beacons/",
+      "workPage": "https://www.associationforpublicart.org/artwork/philadelphia-beacons/",
+      "photo": "https://www.philart.net/images/large/beacons3.jpg",
+      "artistStatement": "四座逾十二公尺高的玻璃與不鏽鋼光塔分立街口四角，白天藉全像薄膜折射日光、夜間發光，將城市入口轉化為隨時間變化的光學地標。",
+      "artistStatementSource": "https://www.associationforpublicart.org/artwork/philadelphia-beacons/",
+      "classicTitle": "Philadelphia Beacons｜1999",
+      "classicImage": "https://www.philart.net/images/large/beacons3.jpg",
+      "classicDesc": "以光、材料與十字路口尺度共同建立城市門戶，作品的視覺狀態隨日照與夜間照明持續改變。",
       "relatedByCity": []
     },
     {
@@ -451,8 +452,8 @@
       "status": "官方來源",
       "updated": "2026-09-25",
       "id": "global-classic-2026-09-25-13",
-      "dedupeKey": "art-2026-09-25-global-schiller-heinrich-carl-johann-manger",
-      "name": "13｜Heinrich Carl Johann Manger｜Schiller",
+      "dedupeKey": "art-2026-09-25-global-covenant-alexander-liberman",
+      "name": "13｜Alexander Liberman｜Covenant",
       "tier": "經典檔案庫",
       "region": "西方",
       "country": "美國 / Philadelphia",
@@ -461,19 +462,20 @@
         "費城"
       ],
       "media": [
-        "紀念雕塑",
-        "青銅與花崗岩座"
+        "抽象雕塑",
+        "場域藝術",
+        "塗裝鋼管"
       ],
-      "works": "Schiller｜1885；1886 設置",
-      "comment": "德裔美國社群委託的席勒紀念像與同作者的歌德像形成對作，把移民社群的語言、文學和文化記憶嵌入費城公園。",
-      "website": "https://associationforpublicart.org/artwork/schiller/",
-      "workPage": "https://associationforpublicart.org/artwork/schiller/",
-      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Schiller_1400x1400.jpg",
-      "artistStatement": "德裔美國社群委託的席勒紀念像與同作者的歌德像形成對作，把移民社群的語言、文學和文化記憶嵌入費城公園。",
-      "artistStatementSource": "https://associationforpublicart.org/artwork/schiller/",
-      "classicTitle": "Schiller｜1885；1886 設置",
-      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Schiller_1400x1400.jpg",
-      "classicDesc": "以人物紀念與社群委託呈現公共空間中的跨國文化認同。",
+      "works": "Covenant｜1974",
+      "comment": "巨型紅色鋼管以傾斜、跨越與支撐形成可穿行的構造，直接介入賓州大學 Locust Walk 的步行軸線，讓雕塑成為校園動線與身體尺度的一部分。",
+      "website": "https://almanac.upenn.edu/articles/a-colorful-collection-of-outdoor-sculpture-on-penns-campus",
+      "workPage": "https://almanac.upenn.edu/articles/a-colorful-collection-of-outdoor-sculpture-on-penns-campus",
+      "photo": "https://executiveeducation.wharton.upenn.edu/wp-content/uploads/2019/10/covenant-sculpture-alexander-liberman.jpg",
+      "artistStatement": "巨型紅色鋼管以傾斜、跨越與支撐形成可穿行的構造，直接介入賓州大學 Locust Walk 的步行軸線，讓雕塑成為校園動線與身體尺度的一部分。",
+      "artistStatementSource": "https://almanac.upenn.edu/articles/a-colorful-collection-of-outdoor-sculpture-on-penns-campus",
+      "classicTitle": "Covenant｜1974",
+      "classicImage": "https://executiveeducation.wharton.upenn.edu/wp-content/uploads/2019/10/covenant-sculpture-alexander-liberman.jpg",
+      "classicDesc": "以工業尺度的抽象幾何跨越公共步道，將觀看轉為穿行、接近與尺度比較的空間經驗。",
       "relatedByCity": []
     },
     {
