@@ -1,0 +1,708 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-25T04:59:40+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-25",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Association for Public Art 第一方作品頁",
+    "selectionPolicy": "已實現且持續存在的公共藝術、永久委託與 Kunst am Bau；競圖、補助與獎項完全分流。",
+    "note": "9/25 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-09-25T04:59:40+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-25T04:59:40+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-01",
+      "dedupeKey": "art-2026-09-25-current-lesewald-ferdinand-kriwet",
+      "name": "01｜Ferdinand Kriwet｜Lesewald",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "鋼、鏡面牆與水景"
+      ],
+      "works": "Lesewald｜1988",
+      "comment": "九十八支文字柱、鏡面牆與水池把閱讀轉化為可穿行的空間經驗；十種語言的片段隨視角、倒影與步伐重新排列。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lesewald",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lesewald",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/647c549f8eaf24a3fac6c10e1fd74a035a15f6b4.jpg",
+      "artistStatement": "九十八支文字柱、鏡面牆與水池把閱讀轉化為可穿行的空間經驗；十種語言的片段隨視角、倒影與步伐重新排列。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lesewald",
+      "classicTitle": "Lesewald｜1988",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/647c549f8eaf24a3fac6c10e1fd74a035a15f6b4.jpg",
+      "classicDesc": "以文字、反射和水面建立沒有固定起點的閱讀場，使語言成為公共建築中的身體路徑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-02",
+      "dedupeKey": "art-2026-09-25-current-o-t-freiplastik-henner-kuckuck",
+      "name": "02｜Henner Kuckuck｜o. T.（Freiplastik）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "比利時 / Wezembeek-Oppem",
+      "cityKeywords": [
+        "Wezembeek-Oppem",
+        "Wezembeek",
+        "韋澤姆貝克-奧佩姆"
+      ],
+      "media": [
+        "雕塑",
+        "Kunst am Bau",
+        "鋼、混凝土與內部照明"
+      ],
+      "works": "o. T.（Freiplastik）｜1970",
+      "comment": "鋼製構造立於德國學校戶外，以混凝土基座和內部照明讓幾何體在日夜呈現不同重量，連結校園、建築與公共通行。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-freiplastik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-freiplastik",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/7bb8d98349e7b8a2d50f3df743b0f8c1d6eee4cc.jpg",
+      "artistStatement": "鋼製構造立於德國學校戶外，以混凝土基座和內部照明讓幾何體在日夜呈現不同重量，連結校園、建築與公共通行。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-freiplastik",
+      "classicTitle": "o. T.（Freiplastik）｜1970",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/7bb8d98349e7b8a2d50f3df743b0f8c1d6eee4cc.jpg",
+      "classicDesc": "把抽象鋼構與照明整合為可長期觀看的校園地標。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-03",
+      "dedupeKey": "art-2026-09-25-current-die-welt-der-zahlen-werner-kump",
+      "name": "03｜Werner Kump｜Die Welt der Zahlen",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Wiesbaden",
+      "cityKeywords": [
+        "Wiesbaden",
+        "威斯巴登"
+      ],
+      "media": [
+        "壁面藝術",
+        "Kunst am Bau",
+        "金屬浮雕與銅線"
+      ],
+      "works": "Die Welt der Zahlen｜1956",
+      "comment": "世界地圖、數字與銅線被編排成行政建築牆面的知識圖譜，將統計、測量和全球關聯轉為可視化構成。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-welt-der-zahlen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-welt-der-zahlen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/043bcfcf2132bd7b0ecddc9a7e41fd003b3032de.jpg",
+      "artistStatement": "世界地圖、數字與銅線被編排成行政建築牆面的知識圖譜，將統計、測量和全球關聯轉為可視化構成。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-welt-der-zahlen",
+      "classicTitle": "Die Welt der Zahlen｜1956",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/043bcfcf2132bd7b0ecddc9a7e41fd003b3032de.jpg",
+      "classicDesc": "以數字與地理線索回應機構職能，讓抽象資訊成為建築中的公共圖像。",
+      "relatedByCity": [
+        "competition-2026-08-23-03",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-04",
+      "dedupeKey": "art-2026-09-25-current-o-t-sprengring-alf-lechner",
+      "name": "04｜Alf Lechner｜o. T.（Sprengring）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "雕塑",
+        "Kunst am Bau",
+        "鋼"
+      ],
+      "works": "o. T.（Sprengring）｜1988",
+      "comment": "直徑約五公尺的鋼環在一處斷開，巨大的圓形既保持秩序又顯示受力與破裂，使行政廣場獲得清楚的空間中心。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-sprengring",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-sprengring",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/06119700010b7e957b9e6978c88bdd3bbe729aeb.jpg",
+      "artistStatement": "直徑約五公尺的鋼環在一處斷開，巨大的圓形既保持秩序又顯示受力與破裂，使行政廣場獲得清楚的空間中心。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-sprengring",
+      "classicTitle": "o. T.（Sprengring）｜1988",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/06119700010b7e957b9e6978c88bdd3bbe729aeb.jpg",
+      "classicDesc": "以最小幾何變化把完整、張力與斷裂放在同一形體中。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-05",
+      "dedupeKey": "art-2026-09-25-current-bruder-jakob-eva-leitolf",
+      "name": "05｜Eva Leitolf｜Bruder Jakob",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "攝影印花織品"
+      ],
+      "works": "Bruder Jakob｜2009",
+      "comment": "未整理床鋪的照片被放大為勞動部建築中的牆面織品，私人睡眠場景與公共工作制度並置，形成幽默而尖銳的日常反差。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bruder-jakob",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bruder-jakob",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/eadbc9dc381587dc92323330e0241cc2e809a850.jpg",
+      "artistStatement": "未整理床鋪的照片被放大為勞動部建築中的牆面織品，私人睡眠場景與公共工作制度並置，形成幽默而尖銳的日常反差。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bruder-jakob",
+      "classicTitle": "Bruder Jakob｜2009",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/eadbc9dc381587dc92323330e0241cc2e809a850.jpg",
+      "classicDesc": "以柔軟織物和不工作的床鋪，重新提問勞動、休息與制度空間。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-06",
+      "dedupeKey": "art-2026-09-25-current-elfenbein-i-elfenbein-ii-jochen-lempert",
+      "name": "06｜Jochen Lempert｜Elfenbein I, Elfenbein II",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Hamburg",
+      "cityKeywords": [
+        "Hamburg",
+        "漢堡"
+      ],
+      "media": [
+        "攝影",
+        "Kunst am Bau",
+        "相紙與鋁板"
+      ],
+      "works": "Elfenbein I, Elfenbein II｜2011",
+      "comment": "由海關查扣象牙製作的攝影與感光實驗，被轉化為兩組牆面圖像；作品讓物種、貿易、證物與機構權力在海關建築中彼此對照。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/elfenbein-i-elfenbein-ii",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/elfenbein-i-elfenbein-ii",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a184d0daefe35cc13feab8bc940819570813bdd3.jpg",
+      "artistStatement": "由海關查扣象牙製作的攝影與感光實驗，被轉化為兩組牆面圖像；作品讓物種、貿易、證物與機構權力在海關建築中彼此對照。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/elfenbein-i-elfenbein-ii",
+      "classicTitle": "Elfenbein I, Elfenbein II｜2011",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/a184d0daefe35cc13feab8bc940819570813bdd3.jpg",
+      "classicDesc": "以攝影材料追索被截斷的自然與商品流通，使執法場所成為倫理反思空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-07",
+      "dedupeKey": "art-2026-09-25-current-treppenlaufer-via-lewandowsky",
+      "name": "07｜Via Lewandowsky｜Treppenläufer",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "織品",
+        "Kunst am Bau",
+        "攝影圖像地毯"
+      ],
+      "works": "Treppenläufer｜2007",
+      "comment": "十一公尺寬的樓梯地毯印有羊群空拍影像，回應 Heinrich Böll 的〈黑羊〉，並讓群體、從眾與異議伴隨每一次上下樓梯。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/treppenlaufer",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/treppenlaufer",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c1ef96aa9460d6c84ba0252bdb32940eb68f70f6.jpg",
+      "artistStatement": "十一公尺寬的樓梯地毯印有羊群空拍影像，回應 Heinrich Böll 的〈黑羊〉，並讓群體、從眾與異議伴隨每一次上下樓梯。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/treppenlaufer",
+      "classicTitle": "Treppenläufer｜2007",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/c1ef96aa9460d6c84ba0252bdb32940eb68f70f6.jpg",
+      "classicDesc": "把政治基金會入口轉成一個關於群體方向、自主與非從眾的空間寓言。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-08",
+      "dedupeKey": "art-2026-09-25-current-roter-teppich-via-lewandowsky",
+      "name": "08｜Via Lewandowsky｜Roter Teppich",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "織品",
+        "Kunst am Bau",
+        "手工簇絨羊毛"
+      ],
+      "works": "Roter Teppich｜2003",
+      "comment": "紅色羊毛地毯遠看逐步顯出一九四五年遭轟炸的 Tiergarten 與 Bendlerblock 空拍圖，把儀式性的紅毯和戰爭創傷疊合。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/roter-teppich",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/roter-teppich",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/fb7a41ff165019403461fa52d1135e7d47f2ddb0.jpg",
+      "artistStatement": "紅色羊毛地毯遠看逐步顯出一九四五年遭轟炸的 Tiergarten 與 Bendlerblock 空拍圖，把儀式性的紅毯和戰爭創傷疊合。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/roter-teppich",
+      "classicTitle": "Roter Teppich｜2003",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/fb7a41ff165019403461fa52d1135e7d47f2ddb0.jpg",
+      "classicDesc": "以觀看距離讓被掩蓋的歷史慢慢顯影，要求國防機構正視場址記憶。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-09",
+      "dedupeKey": "art-2026-09-25-current-aufbau-der-republik-max-lingner",
+      "name": "09｜Max Lingner｜Aufbau der Republik",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "壁畫",
+        "Kunst am Bau",
+        "麥森瓷磚"
+      ],
+      "works": "Aufbau der Republik｜1952",
+      "comment": "長二十四公尺的瓷磚壁畫描繪工人、青年、農業和工業群像，曾為東德政權重寫納粹時期建築的政治意義，今日與一九五三年起義紀念並置。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufbau-der-republik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufbau-der-republik",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/ac6103cea4c96c54b8c79dc582a250beb076fd13.jpg",
+      "artistStatement": "長二十四公尺的瓷磚壁畫描繪工人、青年、農業和工業群像，曾為東德政權重寫納粹時期建築的政治意義，今日與一九五三年起義紀念並置。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufbau-der-republik",
+      "classicTitle": "Aufbau der Republik｜1952",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/ac6103cea4c96c54b8c79dc582a250beb076fd13.jpg",
+      "classicDesc": "作品及其後來的場址再詮釋，呈現公共藝術如何承載互相衝突的國家記憶。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "current-2026-09-25-10",
+      "dedupeKey": "art-2026-09-25-current-gro-plastik-41-70-figur-41-70-wilhelm-loth",
+      "name": "10｜Wilhelm Loth｜Großplastik 41/70（Figur 41/70）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "雕塑",
+        "Kunst am Bau",
+        "鑄鋁與混凝土"
+      ],
+      "works": "Großplastik 41/70（Figur 41/70）｜1973",
+      "comment": "約兩公尺高的擬人鑄鋁形體嵌在混凝土框中，兼具女性與男性特徵；放大的嘴唇回應外交工作仰賴語言交換。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grossplastik-41-70-figur-41-70",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grossplastik-41-70-figur-41-70",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/95507c2f25afdda9d2ef1f20eb02e4302e1de04e.jpg",
+      "artistStatement": "約兩公尺高的擬人鑄鋁形體嵌在混凝土框中，兼具女性與男性特徵；放大的嘴唇回應外交工作仰賴語言交換。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grossplastik-41-70-figur-41-70",
+      "classicTitle": "Großplastik 41/70（Figur 41/70）｜1973",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/95507c2f25afdda9d2ef1f20eb02e4302e1de04e.jpg",
+      "classicDesc": "以非二元身體和言說符號標示外交學校入口，將溝通轉為可見形體。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "global-classic-2026-09-25-11",
+      "dedupeKey": "art-2026-09-25-global-indelible-alison-sky",
+      "name": "11｜Alison Sky｜Indelible",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "灰泥與玻璃"
+      ],
+      "works": "Indelible｜2003",
+      "comment": "玻璃上的〈獨立宣言〉文字包含原稿中遭刪除的反奴隸段落；模糊字句只有在觀者正面靠近時才恢復可讀。",
+      "website": "https://associationforpublicart.org/artwork/indelible/",
+      "workPage": "https://associationforpublicart.org/artwork/indelible/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Indelible_small_Rogers_2016_04.jpg",
+      "artistStatement": "玻璃上的〈獨立宣言〉文字包含原稿中遭刪除的反奴隸段落；模糊字句只有在觀者正面靠近時才恢復可讀。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/indelible/",
+      "classicTitle": "Indelible｜2003",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Indelible_small_Rogers_2016_04.jpg",
+      "classicDesc": "以觀看位置揭露被歷史編輯刪除的文字，讓建築外牆成為記憶與權力的閱讀機器。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "global-classic-2026-09-25-12",
+      "dedupeKey": "art-2026-09-25-global-night-edward-stauch",
+      "name": "12｜Edward Stauch｜Night",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "雕塑",
+        "青銅與磚座"
+      ],
+      "works": "Night｜1872；1980 遷置",
+      "comment": "披覆長袍的人物將面紗拉過頭部，以古典擬人手法把夜晚塑造成沉靜、包覆與轉換的身體形象。",
+      "website": "https://associationforpublicart.org/artwork/night/",
+      "workPage": "https://associationforpublicart.org/artwork/night/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2015/10/Night_Caitlin_Martin_2016_22.jpg",
+      "artistStatement": "披覆長袍的人物將面紗拉過頭部，以古典擬人手法把夜晚塑造成沉靜、包覆與轉換的身體形象。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/night/",
+      "classicTitle": "Night｜1872；1980 遷置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2015/10/Night_Caitlin_Martin_2016_22.jpg",
+      "classicDesc": "十九世紀公共雕塑以寓意人物將自然時間引入城市公園。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "global-classic-2026-09-25-13",
+      "dedupeKey": "art-2026-09-25-global-schiller-heinrich-carl-johann-manger",
+      "name": "13｜Heinrich Carl Johann Manger｜Schiller",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "紀念雕塑",
+        "青銅與花崗岩座"
+      ],
+      "works": "Schiller｜1885；1886 設置",
+      "comment": "德裔美國社群委託的席勒紀念像與同作者的歌德像形成對作，把移民社群的語言、文學和文化記憶嵌入費城公園。",
+      "website": "https://associationforpublicart.org/artwork/schiller/",
+      "workPage": "https://associationforpublicart.org/artwork/schiller/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Schiller_1400x1400.jpg",
+      "artistStatement": "德裔美國社群委託的席勒紀念像與同作者的歌德像形成對作，把移民社群的語言、文學和文化記憶嵌入費城公園。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/schiller/",
+      "classicTitle": "Schiller｜1885；1886 設置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Schiller_1400x1400.jpg",
+      "classicDesc": "以人物紀念與社群委託呈現公共空間中的跨國文化認同。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "global-classic-2026-09-25-14",
+      "dedupeKey": "art-2026-09-25-global-balance-jill-sablosky",
+      "name": "14｜Jill Sablosky｜Balance",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "雕塑與公共座椅",
+        "黑白花崗岩、白大理石與紅砂岩"
+      ],
+      "works": "Balance｜2009",
+      "comment": "五百平方英尺的石材座椅以無限符號組成一座可停留的戶外房間，兩端高柱刻有「合眾為一」的拉丁文與英文。",
+      "website": "https://associationforpublicart.org/artwork/balance/",
+      "workPage": "https://associationforpublicart.org/artwork/balance/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Balance_Jill_Sablosky_1_Philadelphia_Photo_courtesy_the_artist.jpg",
+      "artistStatement": "五百平方英尺的石材座椅以無限符號組成一座可停留的戶外房間，兩端高柱刻有「合眾為一」的拉丁文與英文。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/balance/",
+      "classicTitle": "Balance｜2009",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Balance_Jill_Sablosky_1_Philadelphia_Photo_courtesy_the_artist.jpg",
+      "classicDesc": "把抽象符號、公共座椅和民主語彙結合，使雕塑同時是城市家具與公民空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "global-classic-2026-09-25-15",
+      "dedupeKey": "art-2026-09-25-global-government-of-the-people-jacques-lipchitz",
+      "name": "15｜Jacques Lipchitz｜Government of the People",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "紀念雕塑",
+        "青銅、花崗岩與混凝土"
+      ],
+      "works": "Government of the People｜1976",
+      "comment": "人物群由家庭、青年到成熟男女螺旋上升，共同托起費城旗幟，將民主理解為持續鬥爭、互助與奉獻，而非靜態完成狀態。",
+      "website": "https://associationforpublicart.org/artwork/government-of-the-people/",
+      "workPage": "https://associationforpublicart.org/artwork/government-of-the-people/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Government_of_the_People_1_1300x1300.jpg",
+      "artistStatement": "人物群由家庭、青年到成熟男女螺旋上升，共同托起費城旗幟，將民主理解為持續鬥爭、互助與奉獻，而非靜態完成狀態。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/government-of-the-people/",
+      "classicTitle": "Government of the People｜1976",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Government_of_the_People_1_1300x1300.jpg",
+      "classicDesc": "以互相支撐的身體結構表現人民政府的生成過程，成為美國建國二百週年的城市象徵。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "classic-german-2026-09-25-16",
+      "dedupeKey": "art-2026-09-25-german-spiegelwand-adolf-luther",
+      "name": "16｜Adolf Luther｜Spiegelwand",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Nürnberg",
+      "cityKeywords": [
+        "Nuremberg",
+        "Nürnberg",
+        "紐倫堡"
+      ],
+      "media": [
+        "光藝術",
+        "Kunst am Bau",
+        "一百一十七面凹鏡與馬達"
+      ],
+      "works": "Spiegelwand｜1973",
+      "comment": "一百一十七面可動凹鏡藉馬達改變角度，把光線、周遭景物與觀者碎裂成持續移動的反射場。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spiegelwand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spiegelwand",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/00e0ebf67f28be4dacb854d4f7852164389d4868.jpg",
+      "artistStatement": "一百一十七面可動凹鏡藉馬達改變角度，把光線、周遭景物與觀者碎裂成持續移動的反射場。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spiegelwand",
+      "classicTitle": "Spiegelwand｜1973",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/00e0ebf67f28be4dacb854d4f7852164389d4868.jpg",
+      "classicDesc": "以光學和機械運動取代固定圖像，使公共建築牆面成為即時環境感測器。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "classic-german-2026-09-25-17",
+      "dedupeKey": "art-2026-09-25-german-o-t-platzgestaltung-garagenausgang-und-bodenbelag-heinz-mack",
+      "name": "17｜Heinz Mack｜o. T.（Platzgestaltung, Garagenausgang und Bodenbelag）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "場域藝術",
+        "Kunst am Bau",
+        "花崗岩鋪面、階梯與建築構造"
+      ],
+      "works": "o. T.（Platzgestaltung, Garagenausgang und Bodenbelag）｜1992",
+      "comment": "花崗岩鋪面、階梯與車庫出口被整合為 Kulturforum 廣場構成，藝術不以單一物件出現，而是直接組織人的行走、停留與城市視線。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-platzgestaltung-garagenausgang-und-bodenbelag",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-platzgestaltung-garagenausgang-und-bodenbelag",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/aec00ab29a6e5dd978f2d7646330a1ff88b76eb0.jpg",
+      "artistStatement": "花崗岩鋪面、階梯與車庫出口被整合為 Kulturforum 廣場構成，藝術不以單一物件出現，而是直接組織人的行走、停留與城市視線。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-platzgestaltung-garagenausgang-und-bodenbelag",
+      "classicTitle": "o. T.（Platzgestaltung, Garagenausgang und Bodenbelag）｜1992",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/aec00ab29a6e5dd978f2d7646330a1ff88b76eb0.jpg",
+      "classicDesc": "將基礎設施和地面設計提升為公共藝術，模糊雕塑、建築與都市設計邊界。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "classic-german-2026-09-25-18",
+      "dedupeKey": "art-2026-09-25-german-o-t-drei-fenster-flugel-heinz-mack",
+      "name": "18｜Heinz Mack｜o. T.（Drei Fenster-Flügel）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "光藝術",
+        "Kunst am Bau",
+        "壓克力玻璃與鋁網"
+      ],
+      "works": "o. T.（Drei Fenster-Flügel）｜1979",
+      "comment": "三扇窗翼以壓克力玻璃與鋁網攔截自然光，隨日照產生變動的反射、透明與莫列干涉。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-fenster-flugel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-fenster-flugel",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/d8fac7e0537989c834a7e39825eb43e4b34e92e5.jpg",
+      "artistStatement": "三扇窗翼以壓克力玻璃與鋁網攔截自然光，隨日照產生變動的反射、透明與莫列干涉。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-fenster-flugel",
+      "classicTitle": "o. T.（Drei Fenster-Flügel）｜1979",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/d8fac7e0537989c834a7e39825eb43e4b34e92e5.jpg",
+      "classicDesc": "把窗戶從建築開口轉化為光的儀器，使時間與天候持續改寫室內。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "classic-german-2026-09-25-19",
+      "dedupeKey": "art-2026-09-25-german-gro-es-wasserrelief-heinz-mack",
+      "name": "19｜Heinz Mack｜Großes Wasserrelief",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "水景",
+        "Kunst am Bau",
+        "鋁馬賽克、流水與石材"
+      ],
+      "works": "Großes Wasserrelief｜1987",
+      "comment": "鋁馬賽克牆、流水與前方石塊共同構成反光表面，水使金屬的亮度和紋理持續變化，將建築中庭帶入動態感知。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosses-wasserrelief",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosses-wasserrelief",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/83fdc7b1bbe66ca80289dcde8421630b99fd3ab1.jpg",
+      "artistStatement": "鋁馬賽克牆、流水與前方石塊共同構成反光表面，水使金屬的亮度和紋理持續變化，將建築中庭帶入動態感知。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosses-wasserrelief",
+      "classicTitle": "Großes Wasserrelief｜1987",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/83fdc7b1bbe66ca80289dcde8421630b99fd3ab1.jpg",
+      "classicDesc": "以水流更新金屬浮雕的表情，讓聲音、光線和觸覺共同塑造公共空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-25",
+      "id": "classic-german-2026-09-25-20",
+      "dedupeKey": "art-2026-09-25-german-kleine-reise-m-m",
+      "name": "20｜M+M｜Kleine Reise",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "硬質泡棉與藍色表層"
+      ],
+      "works": "Kleine Reise｜2009",
+      "comment": "兩個藍色有機形體援引心肌細胞，在建築空間中像放大的生命單元彼此靠近又分離。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kleine-reise",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kleine-reise",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/fe7190c29b605842204dc0e306d90d67cf66db6b.jpg",
+      "artistStatement": "兩個藍色有機形體援引心肌細胞，在建築空間中像放大的生命單元彼此靠近又分離。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kleine-reise",
+      "classicTitle": "Kleine Reise｜2009",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/zoom/images/fe7190c29b605842204dc0e306d90d67cf66db6b.jpg",
+      "classicDesc": "把科學影像轉為可環繞的抽象雕塑，連結身體微觀結構與公共建築尺度。",
+      "relatedByCity": []
+    }
+  ]
+}
