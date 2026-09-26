@@ -72,43 +72,31 @@
       "status": "官方來源",
       "updated": "2026-09-27",
       "id": "current-2026-09-27-02",
-      "dedupeKey": "art-2026-09-27-current-kosmos-70-bernhard-heiliger",
-      "name": "02｜Bernhard Heiliger｜Kosmos 70",
+      "dedupeKey": "art-2026-09-27-current-o-t-bodengestaltung-erich-reusch",
+      "name": "02｜Erich Reusch｜o. T.（Bodengestaltung）",
       "tier": "動態情報層",
       "region": "西方",
-      "country": "德國 / Berlin",
+      "country": "德國 / Bonn",
       "cityKeywords": [
-        "Berlin",
-        "柏林"
+        "Bonn",
+        "波昂"
       ],
       "media": [
-        "裝置",
-        "建築/場域",
-        "鋁、懸吊結構"
+        "地景/大地藝術",
+        "Kunst am Bau",
+        "石材與地坪構成"
       ],
-      "works": "Kosmos 70｜1970／2025重新安置",
-      "comment": "兩組水平伸展的鋁構體以桿件形成透明宇宙，讓建築、歷史遷移與公共記憶相互交疊。",
-      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
-      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
-      "artistStatement": "兩組水平伸展的鋁構體以桿件形成透明宇宙，讓建築、歷史遷移與公共記憶相互交疊。",
-      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
-      "classicTitle": "Kosmos 70｜1970／2025重新安置",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
-      "classicDesc": "兩組水平伸展的鋁構體以桿件形成透明宇宙，讓建築、歷史遷移與公共記憶相互交疊。",
-      "relatedByCity": [
-        "competition-2026-08-22-03",
-        "competition-2026-08-24-03",
-        "competition-2026-08-31-03",
-        "competition-2026-08-31-05",
-        "competition-2026-09-01-02",
-        "competition-2026-09-01-03",
-        "competition-2026-09-01-05",
-        "competition-2026-09-03-04",
-        "competition-2026-09-08-04",
-        "competition-2026-09-08-05",
-        "competition-2026-09-13-04"
-      ]
+      "works": "o. T.（Bodengestaltung）｜1979",
+      "comment": "以地坪分割、材質與行走方向介入建築入口，使平面不再只是背景，而成為身體移動與空間閱讀的主體。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodengestaltung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodengestaltung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodengestaltung",
+      "artistStatement": "以地坪分割、材質與行走方向介入建築入口，使平面不再只是背景，而成為身體移動與空間閱讀的主體。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodengestaltung",
+      "classicTitle": "o. T.（Bodengestaltung）｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodengestaltung",
+      "classicDesc": "把建築地面轉化為可行走的抽象構圖，觀看隨步伐持續改變。",
+      "relatedByCity": []
     },
     {
       "category": "作品/展覽",
