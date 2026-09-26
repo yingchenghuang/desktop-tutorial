@@ -1,16 +1,16 @@
 {
-  "version": "2026-09-25-competition-r50",
-  "generatedAt": "2026-09-25T04:59:40+08:00",
+  "version": "2026-09-27-competition-r51",
+  "generatedAt": "2026-09-27T05:00:51+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 106,
+  "activeEntries": 107,
   "addedToday": 5,
-  "expiredRemoved": 0,
+  "expiredRemoved": 4,
   "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 106,
-  "deadlinePrecisionEntries": 106,
-  "cityKeywordEntries": 106,
-  "note": "2026-09-25 新增 5 則有效公共藝術徵件，保留 101 則既有未截止唯一項目，移除 0 則逾期案件。",
+  "deadlineTimezoneEntries": 107,
+  "deadlinePrecisionEntries": 107,
+  "cityKeywordEntries": 107,
+  "note": "2026-09-27 新增 5 則有效徵件，保留 102 則既有未截止唯一項目，移除 4 則逾期案件。",
   "germanAddedToday": 0
 }
