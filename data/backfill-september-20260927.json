@@ -1,0 +1,732 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-27T05:00:51+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-27",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Association for Public Art、Mural Arts Philadelphia 第一方作品頁",
+    "selectionPolicy": "排除傳統城市人物紀念雕塑；只納入已實現公共藝術、場域介入、建築整合與觀念性作品。",
+    "note": "9/27 固定 10＋5＋5；競圖、補助與獎項完全分流。",
+    "linkAudit": {
+      "checkedAt": "2026-09-27T05:00:51+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-27T05:00:51+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁縮圖回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-01",
+      "dedupeKey": "art-2026-09-27-current-sudpfeil-j-rgen-mayer-h-",
+      "name": "01｜Jürgen Mayer H.｜Südpfeil",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "不鏽鋼、鋁"
+      ],
+      "works": "Südpfeil｜2026",
+      "comment": "懸置於 Humboldt Forum 北立面的巨大方向箭頭，以城市尺度把建築入口、移動與定位轉成可讀符號。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sudpfeil",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sudpfeil",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sudpfeil",
+      "artistStatement": "懸置於 Humboldt Forum 北立面的巨大方向箭頭，以城市尺度把建築入口、移動與定位轉成可讀符號。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sudpfeil",
+      "classicTitle": "Südpfeil｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sudpfeil",
+      "classicDesc": "懸置於 Humboldt Forum 北立面的巨大方向箭頭，以城市尺度把建築入口、移動與定位轉成可讀符號。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-02",
+      "dedupeKey": "art-2026-09-27-current-kosmos-70-bernhard-heiliger",
+      "name": "02｜Bernhard Heiliger｜Kosmos 70",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "鋁、懸吊結構"
+      ],
+      "works": "Kosmos 70｜1970／2025重新安置",
+      "comment": "兩組水平伸展的鋁構體以桿件形成透明宇宙，讓建築、歷史遷移與公共記憶相互交疊。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
+      "artistStatement": "兩組水平伸展的鋁構體以桿件形成透明宇宙，讓建築、歷史遷移與公共記憶相互交疊。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
+      "classicTitle": "Kosmos 70｜1970／2025重新安置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kosmos-70",
+      "classicDesc": "兩組水平伸展的鋁構體以桿件形成透明宇宙，讓建築、歷史遷移與公共記憶相互交疊。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-03",
+      "dedupeKey": "art-2026-09-27-current-the-illuminator-wafae-ahalouch-el-keriasti",
+      "name": "03｜Wafae Ahalouch el Keriasti｜The Illuminator",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "壁畫、木構、光箱"
+      ],
+      "works": "The Illuminator｜2012",
+      "comment": "黑白條紋、地球與橙黃光盤把 UN 氣候秘書處門廳轉成關於太陽、能源與生態秩序的光場。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-illuminator",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-illuminator",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-illuminator",
+      "artistStatement": "黑白條紋、地球與橙黃光盤把 UN 氣候秘書處門廳轉成關於太陽、能源與生態秩序的光場。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-illuminator",
+      "classicTitle": "The Illuminator｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-illuminator",
+      "classicDesc": "黑白條紋、地球與橙黃光盤把 UN 氣候秘書處門廳轉成關於太陽、能源與生態秩序的光場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-04",
+      "dedupeKey": "art-2026-09-27-current-leaning-wall-nevin-alada-",
+      "name": "04｜Nevin Aladağ｜Leaning Wall",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "麥森瓷、混凝土牆"
+      ],
+      "works": "Leaning Wall｜2014",
+      "comment": "三百多件人體局部瓷模像攀岩點散佈高牆，使身體、研究與向上移動成為建築中的共同感知。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/leaning-wall",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/leaning-wall",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/leaning-wall",
+      "artistStatement": "三百多件人體局部瓷模像攀岩點散佈高牆，使身體、研究與向上移動成為建築中的共同感知。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/leaning-wall",
+      "classicTitle": "Leaning Wall｜2014",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/leaning-wall",
+      "classicDesc": "三百多件人體局部瓷模像攀岩點散佈高牆，使身體、研究與向上移動成為建築中的共同感知。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-05",
+      "dedupeKey": "art-2026-09-27-current-o-t-nagelschatten-annabau-via-lewandowsky",
+      "name": "05｜ANNABAU＋Via Lewandowsky｜o. T.（Nagelschatten）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "瀝青、不鏽鋼釘"
+      ],
+      "works": "o. T.（Nagelschatten）｜2020",
+      "comment": "數十萬鋼釘嵌入黑色地坪，會隨雨水與日照顯影，讓逃離與流離的路徑化為腳下難以計數的記憶。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "artistStatement": "數十萬鋼釘嵌入黑色地坪，會隨雨水與日照顯影，讓逃離與流離的路徑化為腳下難以計數的記憶。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "classicTitle": "o. T.（Nagelschatten）｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-nagelschatten",
+      "classicDesc": "數十萬鋼釘嵌入黑色地坪，會隨雨水與日照顯影，讓逃離與流離的路徑化為腳下難以計數的記憶。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-06",
+      "dedupeKey": "art-2026-09-27-current-drehmoment-realities-united",
+      "name": "06｜realities:united｜Drehmoment",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "鋼、馬達、動力結構"
+      ],
+      "works": "Drehmoment｜2018",
+      "comment": "高桿頂端圓環在馬達驅動下旋轉並水平展開，把未來館前廣場變成時間、平衡與機械運動的表演。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drehmoment",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drehmoment",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drehmoment",
+      "artistStatement": "高桿頂端圓環在馬達驅動下旋轉並水平展開，把未來館前廣場變成時間、平衡與機械運動的表演。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drehmoment",
+      "classicTitle": "Drehmoment｜2018",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drehmoment",
+      "classicDesc": "高桿頂端圓環在馬達驅動下旋轉並水平展開，把未來館前廣場變成時間、平衡與機械運動的表演。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-07",
+      "dedupeKey": "art-2026-09-27-current-eingegangen-am-raumlaborberlin",
+      "name": "07｜raumlaborberlin｜EINGEGANGEN am …",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "道路標記材料"
+      ],
+      "works": "EINGEGANGEN am …｜2011",
+      "comment": "巨型收件章橫跨前廣場、雨棚與屋頂，只有移動與不同視點才能補全文字，反轉昔日監控建築的觀看關係。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/eingegangen-am",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/eingegangen-am",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/eingegangen-am",
+      "artistStatement": "巨型收件章橫跨前廣場、雨棚與屋頂，只有移動與不同視點才能補全文字，反轉昔日監控建築的觀看關係。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/eingegangen-am",
+      "classicTitle": "EINGEGANGEN am …｜2011",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/eingegangen-am",
+      "classicDesc": "巨型收件章橫跨前廣場、雨棚與屋頂，只有移動與不同視點才能補全文字，反轉昔日監控建築的觀看關係。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-08",
+      "dedupeKey": "art-2026-09-27-current-linsenrelief-und-vier-linsenobjekte-mary-bauermeister",
+      "name": "08｜Mary Bauermeister｜Linsenrelief und vier Linsenobjekte",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "玻璃、透鏡、石材與墨"
+      ],
+      "works": "Linsenrelief und vier Linsenobjekte｜1979",
+      "comment": "透鏡隨觀者移動折射環境，文字、宇宙圖像與室內外石材共同形成可變的觀看裝置。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte",
+      "artistStatement": "透鏡隨觀者移動折射環境，文字、宇宙圖像與室內外石材共同形成可變的觀看裝置。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte",
+      "classicTitle": "Linsenrelief und vier Linsenobjekte｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte",
+      "classicDesc": "透鏡隨觀者移動折射環境，文字、宇宙圖像與室內外石材共同形成可變的觀看裝置。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-09",
+      "dedupeKey": "art-2026-09-27-current-pavillon-skulptur-no-2-12-beat-zoderer",
+      "name": "09｜Beat Zoderer｜Pavillon-Skulptur No. 2/12",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "彩色鋼管、鋼板、地景"
+      ],
+      "works": "Pavillon-Skulptur No. 2/12｜2012",
+      "comment": "六十九根傾斜彩色鋼管支撐圓形屋頂，將議會內院改造成可繞行、停留與對話的非中心論壇。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pavillon-skulptur-no-2-12",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pavillon-skulptur-no-2-12",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pavillon-skulptur-no-2-12",
+      "artistStatement": "六十九根傾斜彩色鋼管支撐圓形屋頂，將議會內院改造成可繞行、停留與對話的非中心論壇。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pavillon-skulptur-no-2-12",
+      "classicTitle": "Pavillon-Skulptur No. 2/12｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pavillon-skulptur-no-2-12",
+      "classicDesc": "六十九根傾斜彩色鋼管支撐圓形屋頂，將議會內院改造成可繞行、停留與對話的非中心論壇。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "current-2026-09-27-10",
+      "dedupeKey": "art-2026-09-27-current-0-breite-modified-cellular-towers-wafae-ahalouch-el-keriasti",
+      "name": "10｜Wafae Ahalouch el Keriasti｜0° Breite（Modified Cellular Towers）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "墨西哥 / Mexico City",
+      "cityKeywords": [
+        "Mexico City",
+        "墨西哥城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "金屬、通訊塔構造"
+      ],
+      "works": "0° Breite（Modified Cellular Towers）｜2012",
+      "comment": "把通訊塔的技術形體轉成位於赤道概念線上的空間標記，討論全球連結、訊號與領土視覺。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite-modified-cellular-towers",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite-modified-cellular-towers",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite-modified-cellular-towers",
+      "artistStatement": "把通訊塔的技術形體轉成位於赤道概念線上的空間標記，討論全球連結、訊號與領土視覺。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite-modified-cellular-towers",
+      "classicTitle": "0° Breite（Modified Cellular Towers）｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite-modified-cellular-towers",
+      "classicDesc": "把通訊塔的技術形體轉成位於赤道概念線上的空間標記，討論全球連結、訊號與領土視覺。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "global-classic-2026-09-27-11",
+      "dedupeKey": "art-2026-09-27-global-associationforpublicart-org-artwork-clothespin-claes-oldenburg",
+      "name": "11｜Claes Oldenburg｜Clothespin",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "耐候鋼"
+      ],
+      "works": "Clothespin｜1976",
+      "comment": "以放大的日常夾子穿入商業中心，尺度錯置使都市縫隙成為可辨識的公共場所。",
+      "website": "https://associationforpublicart.org/artwork/clothespin/",
+      "workPage": "https://associationforpublicart.org/artwork/clothespin/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/clothespin/",
+      "artistStatement": "以放大的日常夾子穿入商業中心，尺度錯置使都市縫隙成為可辨識的公共場所。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/clothespin/",
+      "classicTitle": "Clothespin｜1976",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/clothespin/",
+      "classicDesc": "以放大的日常夾子穿入商業中心，尺度錯置使都市縫隙成為可辨識的公共場所。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "global-classic-2026-09-27-12",
+      "dedupeKey": "art-2026-09-27-global-associationforpublicart-org-artwork-wave-forms-dennis-oppenheim",
+      "name": "12｜Dennis Oppenheim｜Wave Forms",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "鋁網、花崗岩、地景"
+      ],
+      "works": "Wave Forms｜2007",
+      "comment": "起伏的金屬網像海浪又像地形，讓雕塑、植栽與步行路徑形成可穿越的城市界面。",
+      "website": "https://associationforpublicart.org/artwork/wave-forms/",
+      "workPage": "https://associationforpublicart.org/artwork/wave-forms/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/wave-forms/",
+      "artistStatement": "起伏的金屬網像海浪又像地形，讓雕塑、植栽與步行路徑形成可穿越的城市界面。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/wave-forms/",
+      "classicTitle": "Wave Forms｜2007",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/wave-forms/",
+      "classicDesc": "起伏的金屬網像海浪又像地形，讓雕塑、植栽與步行路徑形成可穿越的城市界面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "global-classic-2026-09-27-13",
+      "dedupeKey": "art-2026-09-27-global-associationforpublicart-org-artwork-nesaika-john-rhoden",
+      "name": "13｜John Rhoden｜Nesaika",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "青銅"
+      ],
+      "works": "Nesaika｜1976",
+      "comment": "抽象青銅結構借宇宙與共同體意象，在建築入口建立開放而非人物崇拜的紀念形式。",
+      "website": "https://associationforpublicart.org/artwork/nesaika/",
+      "workPage": "https://associationforpublicart.org/artwork/nesaika/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/nesaika/",
+      "artistStatement": "抽象青銅結構借宇宙與共同體意象，在建築入口建立開放而非人物崇拜的紀念形式。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/nesaika/",
+      "classicTitle": "Nesaika｜1976",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/nesaika/",
+      "classicDesc": "抽象青銅結構借宇宙與共同體意象，在建築入口建立開放而非人物崇拜的紀念形式。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "global-classic-2026-09-27-14",
+      "dedupeKey": "art-2026-09-27-global-muralarts-org-artworks-we-the-youth-keith-haring",
+      "name": "14｜Keith Haring｜We the Youth",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "戶外壁畫"
+      ],
+      "works": "We the Youth｜1987",
+      "comment": "高速線條與共作方法把社區青年的能量留在建築外牆，使壁畫成為長期公共關係。",
+      "website": "https://muralarts.org/artworks/we-the-youth/",
+      "workPage": "https://muralarts.org/artworks/we-the-youth/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://muralarts.org/artworks/we-the-youth/",
+      "artistStatement": "高速線條與共作方法把社區青年的能量留在建築外牆，使壁畫成為長期公共關係。",
+      "artistStatementSource": "https://muralarts.org/artworks/we-the-youth/",
+      "classicTitle": "We the Youth｜1987",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://muralarts.org/artworks/we-the-youth/",
+      "classicDesc": "高速線條與共作方法把社區青年的能量留在建築外牆，使壁畫成為長期公共關係。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "global-classic-2026-09-27-15",
+      "dedupeKey": "art-2026-09-27-global-muralarts-org-artworks-common-threads-meg-saligman",
+      "name": "15｜Meg Saligman｜Common Threads",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "戶外壁畫、社區參與"
+      ],
+      "works": "Common Threads｜1998",
+      "comment": "跨世代身體姿態被編入同一壁面，將居民、服裝史與城市尺度組成可共享的視覺記憶。",
+      "website": "https://muralarts.org/artworks/common-threads/",
+      "workPage": "https://muralarts.org/artworks/common-threads/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://muralarts.org/artworks/common-threads/",
+      "artistStatement": "跨世代身體姿態被編入同一壁面，將居民、服裝史與城市尺度組成可共享的視覺記憶。",
+      "artistStatementSource": "https://muralarts.org/artworks/common-threads/",
+      "classicTitle": "Common Threads｜1998",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://muralarts.org/artworks/common-threads/",
+      "classicDesc": "跨世代身體姿態被編入同一壁面，將居民、服裝史與城市尺度組成可共享的視覺記憶。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "german-classic-2026-09-27-16",
+      "dedupeKey": "art-2026-09-27-german-o-t-drei-fenster-flugel-heinz-mack",
+      "name": "16｜Heinz Mack｜o. T.（Drei Fenster-Flügel）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "金屬、玻璃、光"
+      ],
+      "works": "o. T.（Drei Fenster-Flügel）｜1979",
+      "comment": "三片窗翼將自然光導入聯邦建築，以反射與觀看角度改變室內節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-fenster-flugel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-fenster-flugel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-fenster-flugel",
+      "artistStatement": "三片窗翼將自然光導入聯邦建築，以反射與觀看角度改變室內節奏。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-fenster-flugel",
+      "classicTitle": "o. T.（Drei Fenster-Flügel）｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-drei-fenster-flugel",
+      "classicDesc": "三片窗翼將自然光導入聯邦建築，以反射與觀看角度改變室內節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "german-classic-2026-09-27-17",
+      "dedupeKey": "art-2026-09-27-german-funf-steinobjekte-mary-bauermeister",
+      "name": "17｜Mary Bauermeister｜Fünf Steinobjekte",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "石材、繪畫與文字"
+      ],
+      "works": "Fünf Steinobjekte｜1979",
+      "comment": "五件石物在建築內外建立微型宇宙，把觸覺材料、文字與場址串成觀看路徑。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-steinobjekte",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-steinobjekte",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-steinobjekte",
+      "artistStatement": "五件石物在建築內外建立微型宇宙，把觸覺材料、文字與場址串成觀看路徑。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-steinobjekte",
+      "classicTitle": "Fünf Steinobjekte｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-steinobjekte",
+      "classicDesc": "五件石物在建築內外建立微型宇宙，把觸覺材料、文字與場址串成觀看路徑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "german-classic-2026-09-27-18",
+      "dedupeKey": "art-2026-09-27-german-aquamobil-gottfried-gruner",
+      "name": "18｜Gottfried Gruner｜Aquamobil",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "水、金屬、動力構件"
+      ],
+      "works": "Aquamobil｜1979",
+      "comment": "水流與機械運動構成持續變化的建築裝置，使公共行政空間出現時間性。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aquamobil",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aquamobil",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aquamobil",
+      "artistStatement": "水流與機械運動構成持續變化的建築裝置，使公共行政空間出現時間性。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aquamobil",
+      "classicTitle": "Aquamobil｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aquamobil",
+      "classicDesc": "水流與機械運動構成持續變化的建築裝置，使公共行政空間出現時間性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "german-classic-2026-09-27-19",
+      "dedupeKey": "art-2026-09-27-german-arachnura-celeste-gabriele-grosse",
+      "name": "19｜Gabriele Grosse｜Arachnura Celeste",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "懸吊構件、複合媒材"
+      ],
+      "works": "Arachnura Celeste｜1979",
+      "comment": "懸吊結構以輕盈網絡改變挑高空間的重力感，讓視線在建築與空中物體之間游移。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "artistStatement": "懸吊結構以輕盈網絡改變挑高空間的重力感，讓視線在建築與空中物體之間游移。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "classicTitle": "Arachnura Celeste｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arachnura-celeste",
+      "classicDesc": "懸吊結構以輕盈網絡改變挑高空間的重力感，讓視線在建築與空中物體之間游移。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-27",
+      "id": "german-classic-2026-09-27-20",
+      "dedupeKey": "art-2026-09-27-german-der-dialog-wolf-vostell",
+      "name": "20｜Wolf Vostell｜Der Dialog",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "Kunst am Bau",
+        "混凝土、複合媒材"
+      ],
+      "works": "Der Dialog｜1978",
+      "comment": "以衝突材料與並置關係把對話轉成空間張力，延續 Fluxus 對制度與日常的介入。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-dialog",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-dialog",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-dialog",
+      "artistStatement": "以衝突材料與並置關係把對話轉成空間張力，延續 Fluxus 對制度與日常的介入。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-dialog",
+      "classicTitle": "Der Dialog｜1978",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-dialog",
+      "classicDesc": "以衝突材料與並置關係把對話轉成空間張力，延續 Fluxus 對制度與日常的介入。",
+      "relatedByCity": []
+    }
+  ]
+}
