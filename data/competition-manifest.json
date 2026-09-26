@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-27-competition-r51",
-  "generatedAt": "2026-09-27T05:00:51+08:00",
+  "version": "2026-09-27-competition-r52",
+  "generatedAt": "2026-09-27T05:22:00+08:00",
   "files": [
     "competitions.json"
   ],
@@ -11,6 +11,6 @@
   "deadlineTimezoneEntries": 107,
   "deadlinePrecisionEntries": 107,
   "cityKeywordEntries": 107,
-  "note": "2026-09-27 新增 5 則有效徵件，保留 102 則既有未截止唯一項目，移除 4 則逾期案件。",
+  "note": "2026-09-27 新增 5 則有效徵件，保留 102 則既有未截止唯一項目，移除 4 則逾期案件。；Beam Camp 官方來源已校正為有效 events 頁。",
   "germanAddedToday": 0
 }
