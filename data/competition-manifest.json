@@ -1,16 +1,16 @@
 {
-  "version": "2026-09-27-competition-r52",
-  "generatedAt": "2026-09-27T05:22:00+08:00",
+  "version": "2026-09-28-competition-r53",
+  "generatedAt": "2026-09-28T05:00:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 107,
+  "activeEntries": 112,
   "addedToday": 5,
-  "expiredRemoved": 4,
+  "expiredRemoved": 0,
   "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 107,
-  "deadlinePrecisionEntries": 107,
-  "cityKeywordEntries": 107,
-  "note": "2026-09-27 新增 5 則有效徵件，保留 102 則既有未截止唯一項目，移除 4 則逾期案件。；Beam Camp 官方來源已校正為有效 events 頁。",
+  "deadlineTimezoneEntries": 112,
+  "deadlinePrecisionEntries": 112,
+  "cityKeywordEntries": 112,
+  "note": "2026-09-28 新增 5 則有效徵件，保留 107 則既有未截止唯一項目，移除 0 則逾期案件。",
   "germanAddedToday": 0
 }
