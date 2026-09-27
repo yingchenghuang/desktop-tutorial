@@ -1,0 +1,720 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-28T05:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-28",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Public Art Fund、KÖR Wien、Madison Square Park Conservancy、Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "排除傳統城市人物紀念雕塑；只納入已實現公共藝術、場域介入、建築整合與觀念性作品。",
+    "note": "9/28 固定 10＋5＋5；競圖、補助與獎項完全分流。",
+    "linkAudit": {
+      "checkedAt": "2026-09-28T05:00:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-28T05:00:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁縮圖回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-01",
+      "dedupeKey": "art-woody-de-othello-guardian-spirit-2026-2027",
+      "name": "01｜Woody De Othello｜Guardian Spirit",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Guardian Spirit｜2026–2027",
+      "comment": "四件大型青銅與三件紅木圖騰把日常器物、身體姿態與非洲 nkisi 靈性物件轉化為城市公園中的守護性場域；展至 2027 年 3 月 8 日。",
+      "website": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "artistStatement": "四件大型青銅與三件紅木圖騰把日常器物、身體姿態與非洲 nkisi 靈性物件轉化為城市公園中的守護性場域；展至 2027 年 3 月 8 日。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "classicTitle": "Guardian Spirit｜2026–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "classicDesc": "四件大型青銅與三件紅木圖騰把日常器物、身體姿態與非洲 nkisi 靈性物件轉化為城市公園中的守護性場域；展至 2027 年 3 月 8 日。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-02",
+      "dedupeKey": "art-genesis-belanger-heads-or-tails-2026",
+      "name": "02｜Genesis Belanger｜Heads or Tails",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Heads or Tails｜2026",
+      "comment": "以青銅與著色水泥重寫花園、噴泉及公民雕像語彙，讓公園成為檢驗自然、真假與公共價值再現的舞台；展至 2026 年 11 月 15 日。",
+      "website": "https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "artistStatement": "以青銅與著色水泥重寫花園、噴泉及公民雕像語彙，讓公園成為檢驗自然、真假與公共價值再現的舞台；展至 2026 年 11 月 15 日。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "classicTitle": "Heads or Tails｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "classicDesc": "以青銅與著色水泥重寫花園、噴泉及公民雕像語彙，讓公園成為檢驗自然、真假與公共價值再現的舞台；展至 2026 年 11 月 15 日。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-03",
+      "dedupeKey": "art-thaddeus-mosley-touching-the-earth-2025-2027",
+      "name": "03｜Thaddeus Mosley｜Touching the Earth",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Pittsburgh",
+      "cityKeywords": [
+        "Pittsburgh",
+        "匹茲堡"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Touching the Earth｜2025–2027",
+      "comment": "八件由木雕原作翻鑄的青銅保存手鑿肌理，將材料聆聽、爵士即興與城市步行並置；現於 Arts Landing 展至 2027 年 6 月 30 日。",
+      "website": "https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "artistStatement": "八件由木雕原作翻鑄的青銅保存手鑿肌理，將材料聆聽、爵士即興與城市步行並置；現於 Arts Landing 展至 2027 年 6 月 30 日。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "classicTitle": "Touching the Earth｜2025–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "classicDesc": "八件由木雕原作翻鑄的青銅保存手鑿肌理，將材料聆聽、爵士即興與城市步行並置；現於 Arts Landing 展至 2027 年 6 月 30 日。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-04",
+      "dedupeKey": "art-torkwase-dyson-akua-2025-2027",
+      "name": "04｜Torkwase Dyson｜Akua",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "地景/大地藝術"
+      ],
+      "works": "Akua｜2025–2027",
+      "comment": "場域特定的抽象建築雕塑以黑色幾何量體組織身體、庇護與環境正義的關係，讓觀者在公園中以移動和停留重新感受尺度；展至 2027 年 3 月 8 日。",
+      "website": "https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+      "artistStatement": "場域特定的抽象建築雕塑以黑色幾何量體組織身體、庇護與環境正義的關係，讓觀者在公園中以移動和停留重新感受尺度；展至 2027 年 3 月 8 日。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+      "classicTitle": "Akua｜2025–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/torkwase-dyson-akua/",
+      "classicDesc": "場域特定的抽象建築雕塑以黑色幾何量體組織身體、庇護與環境正義的關係，讓觀者在公園中以移動和停留重新感受尺度；展至 2027 年 3 月 8 日。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-05",
+      "dedupeKey": "art-lukas-maria-kaufmann-ot-2018-持續",
+      "name": "05｜Lukas Maria Kaufmann｜OT",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "紀念性公共藝術",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "OT｜2018–持續",
+      "comment": "二十五座約五公尺高的金屬光柱分布於維也納十六區，觀看角度使交織線條暫時聚合成大衛之星，標示被摧毀的猶太會堂位置並連接數位重建。",
+      "website": "https://www.koer.or.at/projects/ot/",
+      "workPage": "https://www.koer.or.at/projects/ot/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/ot/",
+      "artistStatement": "二十五座約五公尺高的金屬光柱分布於維也納十六區，觀看角度使交織線條暫時聚合成大衛之星，標示被摧毀的猶太會堂位置並連接數位重建。",
+      "artistStatementSource": "https://www.koer.or.at/projects/ot/",
+      "classicTitle": "OT｜2018–持續",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/ot/",
+      "classicDesc": "二十五座約五公尺高的金屬光柱分布於維也納十六區，觀看角度使交織線條暫時聚合成大衛之星，標示被摧毀的猶太會堂位置並連接數位重建。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-06",
+      "dedupeKey": "art-luisa-kasalicky-vektorgotik-vector-gothic-2025-持續",
+      "name": "06｜Luisa Kasalicky｜Vektorgotik（Vector Gothic）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域",
+        "裝置"
+      ],
+      "works": "Vektorgotik（Vector Gothic）｜2025–持續",
+      "comment": "以礦物色料乾壁畫回應住宅立面，把新哥德肋拱、維也納新藝術與後現代窗格拆解成萬花筒式構圖，讓建築表皮成為城市圖像的生成器。",
+      "website": "https://www.koer.or.at/projects/vektorgotik/",
+      "workPage": "https://www.koer.or.at/projects/vektorgotik/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/vektorgotik/",
+      "artistStatement": "以礦物色料乾壁畫回應住宅立面，把新哥德肋拱、維也納新藝術與後現代窗格拆解成萬花筒式構圖，讓建築表皮成為城市圖像的生成器。",
+      "artistStatementSource": "https://www.koer.or.at/projects/vektorgotik/",
+      "classicTitle": "Vektorgotik（Vector Gothic）｜2025–持續",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/vektorgotik/",
+      "classicDesc": "以礦物色料乾壁畫回應住宅立面，把新哥德肋拱、維也納新藝術與後現代窗格拆解成萬花筒式構圖，讓建築表皮成為城市圖像的生成器。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-07",
+      "dedupeKey": "art-franz-graf-sued-2012-持續",
+      "name": "07｜Franz Graf｜SUED",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "建築/場域",
+        "裝置",
+        "壁畫/街頭"
+      ],
+      "works": "SUED｜2012–持續",
+      "comment": "六十五片玻璃陶瓷數位印刷橫跨火車總站通道，將詞語、片段與視覺符號嵌入乘客移動節奏，使交通過道成為瞬間閱讀的公共介面。",
+      "website": "https://www.koer.or.at/projects/sued/",
+      "workPage": "https://www.koer.or.at/projects/sued/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/sued/",
+      "artistStatement": "六十五片玻璃陶瓷數位印刷橫跨火車總站通道，將詞語、片段與視覺符號嵌入乘客移動節奏，使交通過道成為瞬間閱讀的公共介面。",
+      "artistStatementSource": "https://www.koer.or.at/projects/sued/",
+      "classicTitle": "SUED｜2012–持續",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/sued/",
+      "classicDesc": "六十五片玻璃陶瓷數位印刷橫跨火車總站通道，將詞語、片段與視覺符號嵌入乘客移動節奏，使交通過道成為瞬間閱讀的公共介面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-08",
+      "dedupeKey": "art-stephan-huber-aspern-affairs-2013-持續",
+      "name": "08｜Stephan Huber｜Aspern Affairs",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "建築/場域",
+        "裝置",
+        "數位/互動"
+      ],
+      "works": "Aspern Affairs｜2013–持續",
+      "comment": "兩幅十乘六公尺的維也納地圖與車站玻璃上的生命線，以個人地理挑戰製圖的客觀性，將捷運站變成可反覆閱讀的城市記憶圖譜。",
+      "website": "https://www.koer.or.at/projects/aspern-affairs/",
+      "workPage": "https://www.koer.or.at/projects/aspern-affairs/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/aspern-affairs/",
+      "artistStatement": "兩幅十乘六公尺的維也納地圖與車站玻璃上的生命線，以個人地理挑戰製圖的客觀性，將捷運站變成可反覆閱讀的城市記憶圖譜。",
+      "artistStatementSource": "https://www.koer.or.at/projects/aspern-affairs/",
+      "classicTitle": "Aspern Affairs｜2013–持續",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/aspern-affairs/",
+      "classicDesc": "兩幅十乘六公尺的維也納地圖與車站玻璃上的生命線，以個人地理挑戰製圖的客觀性，將捷運站變成可反覆閱讀的城市記憶圖譜。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-09",
+      "dedupeKey": "art-michael-sailstorfer-außenthermometer-2011-持續",
+      "name": "09｜Michael Sailstorfer｜Außenthermometer",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波恩"
+      ],
+      "media": [
+        "建築/場域",
+        "裝置",
+        "光/影像/投影"
+      ],
+      "works": "Außenthermometer｜2011–持續",
+      "comment": "直徑 3.4 公尺、夜間發光且可運作的鋁製溫度計附著於 UN 氣候秘書處外牆，把量測、警示與全球暖化責任轉化為城市尺度的諷刺標誌。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aussenthermometer",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aussenthermometer",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aussenthermometer",
+      "artistStatement": "直徑 3.4 公尺、夜間發光且可運作的鋁製溫度計附著於 UN 氣候秘書處外牆，把量測、警示與全球暖化責任轉化為城市尺度的諷刺標誌。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aussenthermometer",
+      "classicTitle": "Außenthermometer｜2011–持續",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aussenthermometer",
+      "classicDesc": "直徑 3.4 公尺、夜間發光且可運作的鋁製溫度計附著於 UN 氣候秘書處外牆，把量測、警示與全球暖化責任轉化為城市尺度的諷刺標誌。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "current-2026-09-28-10",
+      "dedupeKey": "art-annette-sauermann-doppelspirale-2001-持續",
+      "name": "10｜Annette Sauermann｜Doppelspirale",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "Doppelspirale｜2001–持續",
+      "comment": "直徑十二公尺的雙螺旋清水混凝土水池讓兩股水流反向循環，夜間由藍色霓虹描出迷宮結構，在歷史庭院中以水、光與矛盾共存建立公共政治隱喻。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "artistStatement": "直徑十二公尺的雙螺旋清水混凝土水池讓兩股水流反向循環，夜間由藍色霓虹描出迷宮結構，在歷史庭院中以水、光與矛盾共存建立公共政治隱喻。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "classicTitle": "Doppelspirale｜2001–持續",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelspirale",
+      "classicDesc": "直徑十二公尺的雙螺旋清水混凝土水池讓兩股水流反向循環，夜間由藍色霓虹描出迷宮結構，在歷史庭院中以水、光與矛盾共存建立公共政治隱喻。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "global-classic-2026-09-28-11",
+      "dedupeKey": "art-bill-fontana-panoramic-echoes-2007",
+      "name": "11｜Bill Fontana｜Panoramic Echoes",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Panoramic Echoes｜2007",
+      "comment": "以建築上的定向音柱把分層聲響投射到公園上空，並重新喚起大都會人壽鐘樓的歷史鐘聲，使交通噪音不再只是背景，而成為作品的聲學材料。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/bill-fontana-panoramic-echoes/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/bill-fontana-panoramic-echoes/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/bill-fontana-panoramic-echoes/",
+      "artistStatement": "以建築上的定向音柱把分層聲響投射到公園上空，並重新喚起大都會人壽鐘樓的歷史鐘聲，使交通噪音不再只是背景，而成為作品的聲學材料。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/bill-fontana-panoramic-echoes/",
+      "classicTitle": "Panoramic Echoes｜2007",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/bill-fontana-panoramic-echoes/",
+      "classicDesc": "以建築上的定向音柱把分層聲響投射到公園上空，並重新喚起大都會人壽鐘樓的歷史鐘聲，使交通噪音不再只是背景，而成為作品的聲學材料。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "global-classic-2026-09-28-12",
+      "dedupeKey": "art-richard-deacon-assembly-2008",
+      "name": "12｜Richard Deacon｜Assembly",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "地景/大地藝術"
+      ],
+      "works": "Assembly｜2008",
+      "comment": "七件大型鮮色陶瓷雕塑散置草坪，以開放形體、手工陶土與建築尺度重新組織公園中的行走、觀看與聚合。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/richard-deacon-assembly/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/richard-deacon-assembly/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/richard-deacon-assembly/",
+      "artistStatement": "七件大型鮮色陶瓷雕塑散置草坪，以開放形體、手工陶土與建築尺度重新組織公園中的行走、觀看與聚合。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/richard-deacon-assembly/",
+      "classicTitle": "Assembly｜2008",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/richard-deacon-assembly/",
+      "classicDesc": "七件大型鮮色陶瓷雕塑散置草坪，以開放形體、手工陶土與建築尺度重新組織公園中的行走、觀看與聚合。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "global-classic-2026-09-28-13",
+      "dedupeKey": "art-orly-genger-red-yellow-and-blue-2013",
+      "name": "13｜Orly Genger｜Red, Yellow and Blue",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "裝置",
+        "地景/大地藝術",
+        "社會參與"
+      ],
+      "works": "Red, Yellow and Blue｜2013",
+      "comment": "一百四十萬英尺再生龍蝦繩被手工打結並覆色，在三片草坪形成紅、黃、藍的起伏房間；材料量體同時重塑地景並邀請人群穿越隱蔽空間。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/orly-genger-red-yellow-and-blue/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/orly-genger-red-yellow-and-blue/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/orly-genger-red-yellow-and-blue/",
+      "artistStatement": "一百四十萬英尺再生龍蝦繩被手工打結並覆色，在三片草坪形成紅、黃、藍的起伏房間；材料量體同時重塑地景並邀請人群穿越隱蔽空間。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/orly-genger-red-yellow-and-blue/",
+      "classicTitle": "Red, Yellow and Blue｜2013",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/orly-genger-red-yellow-and-blue/",
+      "classicDesc": "一百四十萬英尺再生龍蝦繩被手工打結並覆色，在三片草坪形成紅、黃、藍的起伏房間；材料量體同時重塑地景並邀請人群穿越隱蔽空間。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "global-classic-2026-09-28-14",
+      "dedupeKey": "art-jim-campbell-scattered-light-2010-2011",
+      "name": "14｜Jim Campbell｜Scattered Light",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "光/影像/投影",
+        "數位/互動",
+        "裝置"
+      ],
+      "works": "Scattered Light｜2010–2011",
+      "comment": "近兩千顆 LED 構成三維光矩陣，低解析動態人影在公園尺度中浮現；另以玻璃磚與地鐵聲響轉譯城市流動，把電子影像變成可步入的公共光場。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/jim-campbell-scattered-light/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/jim-campbell-scattered-light/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/jim-campbell-scattered-light/",
+      "artistStatement": "近兩千顆 LED 構成三維光矩陣，低解析動態人影在公園尺度中浮現；另以玻璃磚與地鐵聲響轉譯城市流動，把電子影像變成可步入的公共光場。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/jim-campbell-scattered-light/",
+      "classicTitle": "Scattered Light｜2010–2011",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/jim-campbell-scattered-light/",
+      "classicDesc": "近兩千顆 LED 構成三維光矩陣，低解析動態人影在公園尺度中浮現；另以玻璃磚與地鐵聲響轉譯城市流動，把電子影像變成可步入的公共光場。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "global-classic-2026-09-28-15",
+      "dedupeKey": "art-leo-villareal-buckyball-2012-2013",
+      "name": "15｜Leo Villareal｜BUCKYBALL",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "光/影像/投影",
+        "數位/互動",
+        "裝置"
+      ],
+      "works": "BUCKYBALL｜2012–2013",
+      "comment": "三十英尺高的雙層測地球體由一百八十支 LED 管構成，藝術家軟體以機率生成色彩序列；躺椅使觀者可仰視光球，在公園中形成共享的沉浸觀看。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/leo-villareal-buckyball/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/leo-villareal-buckyball/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/leo-villareal-buckyball/",
+      "artistStatement": "三十英尺高的雙層測地球體由一百八十支 LED 管構成，藝術家軟體以機率生成色彩序列；躺椅使觀者可仰視光球，在公園中形成共享的沉浸觀看。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/leo-villareal-buckyball/",
+      "classicTitle": "BUCKYBALL｜2012–2013",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/leo-villareal-buckyball/",
+      "classicDesc": "三十英尺高的雙層測地球體由一百八十支 LED 管構成，藝術家軟體以機率生成色彩序列；躺椅使觀者可仰視光球，在公園中形成共享的沉浸觀看。",
+      "relatedByCity": [
+        "competition-2026-08-13-05",
+        "competition-2026-09-07-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "german-classic-2026-09-28-16",
+      "dedupeKey": "art-adolf-luther-spiegelwand-1973",
+      "name": "16｜Adolf Luther｜Spiegelwand",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Nuremberg",
+      "cityKeywords": [
+        "Nuremberg",
+        "Nürnberg",
+        "紐倫堡"
+      ],
+      "media": [
+        "光/影像/投影",
+        "數位/互動",
+        "建築/場域"
+      ],
+      "works": "Spiegelwand｜1973",
+      "comment": "一百一十七面凹鏡由馬達持續改變角度，讓入口光線、觀者與建築被切成移動反射；作品把固定牆面轉化為不斷變形的巨大光學鑽石。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spiegelwand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spiegelwand",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spiegelwand",
+      "artistStatement": "一百一十七面凹鏡由馬達持續改變角度，讓入口光線、觀者與建築被切成移動反射；作品把固定牆面轉化為不斷變形的巨大光學鑽石。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spiegelwand",
+      "classicTitle": "Spiegelwand｜1973",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spiegelwand",
+      "classicDesc": "一百一十七面凹鏡由馬達持續改變角度，讓入口光線、觀者與建築被切成移動反射；作品把固定牆面轉化為不斷變形的巨大光學鑽石。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "german-classic-2026-09-28-17",
+      "dedupeKey": "art-adolf-luther-integration-wasser-linsen-hommage-an-monet-1988",
+      "name": "17｜Adolf Luther｜Integration Wasser-Linsen（Hommage an Monet）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波恩"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "Integration Wasser-Linsen（Hommage an Monet）｜1988",
+      "comment": "以水面與光學透鏡整合前聯邦議會建築場域，讓自然光、反射與觀看位置共同生成變動影像，將莫內式水景轉譯為聯邦建築中的感知裝置。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-wasser-linsen-hommage-an-monet",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-wasser-linsen-hommage-an-monet",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-wasser-linsen-hommage-an-monet",
+      "artistStatement": "以水面與光學透鏡整合前聯邦議會建築場域，讓自然光、反射與觀看位置共同生成變動影像，將莫內式水景轉譯為聯邦建築中的感知裝置。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-wasser-linsen-hommage-an-monet",
+      "classicTitle": "Integration Wasser-Linsen（Hommage an Monet）｜1988",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/integration-wasser-linsen-hommage-an-monet",
+      "classicDesc": "以水面與光學透鏡整合前聯邦議會建築場域，讓自然光、反射與觀看位置共同生成變動影像，將莫內式水景轉譯為聯邦建築中的感知裝置。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "german-classic-2026-09-28-18",
+      "dedupeKey": "art-gunda-fo-rster-tunnel-2012",
+      "name": "18｜Gunda Förster｜TUNNEL",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "光/影像/投影",
+        "建築/場域",
+        "裝置"
+      ],
+      "works": "TUNNEL｜2012",
+      "comment": "在德國聯邦議院辦公建築的地下連通隧道中，以光介入原本純機能性的過渡空間；身體移動觸發對距離、方向與建築邊界的重新感知。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "artistStatement": "在德國聯邦議院辦公建築的地下連通隧道中，以光介入原本純機能性的過渡空間；身體移動觸發對距離、方向與建築邊界的重新感知。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "classicTitle": "TUNNEL｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tunnel",
+      "classicDesc": "在德國聯邦議院辦公建築的地下連通隧道中，以光介入原本純機能性的過渡空間；身體移動觸發對距離、方向與建築邊界的重新感知。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "german-classic-2026-09-28-19",
+      "dedupeKey": "art-katharina-hinsberg-perceiden-diskrete-stetigkeit-2011",
+      "name": "19｜Katharina Hinsberg｜Perceiden（Diskrete Stetigkeit）",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "建築/場域",
+        "裝置"
+      ],
+      "works": "Perceiden（Diskrete Stetigkeit）｜2011",
+      "comment": "以不同直徑與深度的無數鑽孔在十九公尺灰泥牆上形成動態線性繪畫；走廊視角讓點線隨行走重組，繪畫因而侵入建築表皮並使空間振動。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/perceiden-diskrete-stetigkeit",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/perceiden-diskrete-stetigkeit",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/perceiden-diskrete-stetigkeit",
+      "artistStatement": "以不同直徑與深度的無數鑽孔在十九公尺灰泥牆上形成動態線性繪畫；走廊視角讓點線隨行走重組，繪畫因而侵入建築表皮並使空間振動。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/perceiden-diskrete-stetigkeit",
+      "classicTitle": "Perceiden（Diskrete Stetigkeit）｜2011",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/perceiden-diskrete-stetigkeit",
+      "classicDesc": "以不同直徑與深度的無數鑽孔在十九公尺灰泥牆上形成動態線性繪畫；走廊視角讓點線隨行走重組，繪畫因而侵入建築表皮並使空間振動。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-03-04",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "german-classic-2026-09-28-20",
+      "dedupeKey": "art-m-m-kleine-reise-2009",
+      "name": "20｜M+M｜Kleine Reise",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波恩"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "裝置"
+      ],
+      "works": "Kleine Reise｜2009",
+      "comment": "兩件覆藍色聚酯層的有機形體把心肌纖維放大到建築尺度，從地面穿向天花；醫學意象、科幻縮放與門廊結構共同形成衛生部的空間心臟。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kleine-reise",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kleine-reise",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kleine-reise",
+      "artistStatement": "兩件覆藍色聚酯層的有機形體把心肌纖維放大到建築尺度，從地面穿向天花；醫學意象、科幻縮放與門廊結構共同形成衛生部的空間心臟。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kleine-reise",
+      "classicTitle": "Kleine Reise｜2009",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kleine-reise",
+      "classicDesc": "兩件覆藍色聚酯層的有機形體把心肌纖維放大到建築尺度，從地面穿向天花；醫學意象、科幻縮放與門廊結構共同形成衛生部的空間心臟。",
+      "relatedByCity": []
+    }
+  ]
+}
