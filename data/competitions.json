@@ -1,12 +1,10 @@
 {
-  "updated": "2026-09-27",
-  "generatedAt": "2026-09-27T05:00:51+08:00",
   "meta": {
-    "total": 107,
-    "activeEntries": 107,
+    "total": 112,
+    "activeEntries": 112,
     "addedToday": 5,
-    "expiredRemoved": 4,
-    "retainedExisting": 102,
+    "expiredRemoved": 0,
+    "retainedExisting": 107,
     "duplicateRemoved": 0,
     "deadlineRule": "所有 deadline 均含時區偏移；官方僅公布日期時採主辦地 23:59:59 並標記 date。"
   },
@@ -168,7 +166,16 @@
       "eligibility": "East 10th Street、East River Park 周邊居民與各年齡藝術家",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+        "current-2026-09-28-01",
+        "current-2026-09-28-02",
+        "current-2026-09-28-04",
+        "global-classic-2026-09-28-11",
+        "global-classic-2026-09-28-12",
+        "global-classic-2026-09-28-13",
+        "global-classic-2026-09-28-14",
+        "global-classic-2026-09-28-15"
+      ]
     },
     {
       "category": "公開徵件",
@@ -533,7 +540,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -728,7 +738,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -1418,7 +1431,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -1467,7 +1483,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -1515,7 +1534,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -1562,7 +1584,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -1609,7 +1634,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -1734,7 +1762,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -2225,7 +2256,16 @@
       "eligibility": "出生於黑森、至少自 2025-01-01 起居住黑森，或畢業於黑森藝術學院／相關科系的視覺藝術家；不限年齡，學業須已完成",
       "budget": "旅行獎助每名 €25,000；紐約、巴黎、倫敦一年 €25,000；伊斯坦堡半年 €12,500；京都＋日本旅行半年 €15,000；另可申請最高 €7,700 製作／展示補助",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+        "current-2026-09-28-01",
+        "current-2026-09-28-02",
+        "current-2026-09-28-04",
+        "global-classic-2026-09-28-11",
+        "global-classic-2026-09-28-12",
+        "global-classic-2026-09-28-13",
+        "global-classic-2026-09-28-14",
+        "global-classic-2026-09-28-15"
+      ]
     },
     {
       "category": "公開徵件",
@@ -2395,7 +2435,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -2444,7 +2487,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -2626,7 +2672,10 @@
         "current-2026-09-27-05",
         "current-2026-09-27-06",
         "current-2026-09-27-07",
-        "current-2026-09-27-09"
+        "current-2026-09-27-09",
+        "current-2026-09-28-10",
+        "german-classic-2026-09-28-18",
+        "german-classic-2026-09-28-19"
       ]
     },
     {
@@ -4354,6 +4403,202 @@
       "eligibility": "新英格蘭及鄰州、可親送作品之非學生藝術家",
       "budget": "每位入選者 US$250",
       "applicationFee": "US$0",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "competition-2026-09-28-01",
+      "dedupeKey": "opportunity-2026-09-28-surprise-vista-center-hola",
+      "name": "01｜Surprise Arts｜Vista Center for the Arts 室內聲學藝術",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Surprise, Arizona",
+      "cityKeywords": [
+        "Surprise",
+        "瑟普賴斯"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "FY2027 HOLA｜截止 2026.10.01",
+      "comment": "為 Vista Center for the Arts 大廳徵集兼具吸音功能的二維公共藝術，將視覺作品與室內聲學需求整合。",
+      "website": "https://www.surprisearts.com/opportunities/artist-calls",
+      "workPage": "https://www.surprisearts.com/opportunities/artist-calls",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "artistStatement": "為 Vista Center for the Arts 大廳徵集兼具吸音功能的二維公共藝術，將視覺作品與室內聲學需求整合。",
+      "artistStatementSource": "https://www.surprisearts.com/opportunities/artist-calls",
+      "classicTitle": "Vista Center for the Arts 室內聲學藝術",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.surprisearts.com/opportunities/artist-calls",
+      "classicDesc": "為 Vista Center for the Arts 大廳徵集兼具吸音功能的二維公共藝術。",
+      "deadline": "2026-10-01T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.10.01 23:59（Arizona）",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "Surprise Arts / City of Surprise",
+      "eligibility": "亞利桑那州藝術家或藝術家團隊",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "competition-2026-09-28-02",
+      "dedupeKey": "opportunity-2026-09-28-eastvale-civic-center-public-art",
+      "name": "02｜City of Eastvale｜Civic Center Public Art RFP",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Eastvale, California",
+      "cityKeywords": [
+        "Eastvale",
+        "東谷"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Civic Center Public Art RFP｜截止 2026.10.13",
+      "comment": "新市政中心徵集四處戶外基座與三處室內牆面的公共藝術提案，建立行政建築、入口與公共動線的整體識別。",
+      "website": "https://www.facebook.com/cityofeastvale/posts/the-city-of-eastvale-is-pleased-to-announce-the-release-of-a-request-for-proposa/1601456742025877/",
+      "workPage": "https://www.facebook.com/cityofeastvale/posts/the-city-of-eastvale-is-pleased-to-announce-the-release-of-a-request-for-proposa/1601456742025877/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.facebook.com/cityofeastvale/posts/the-city-of-eastvale-is-pleased-to-announce-the-release-of-a-request-for-proposa/1601456742025877/",
+      "artistStatement": "新市政中心徵集四處戶外基座與三處室內牆面的公共藝術提案。",
+      "artistStatementSource": "https://www.facebook.com/cityofeastvale/posts/the-city-of-eastvale-is-pleased-to-announce-the-release-of-a-request-for-proposa/1601456742025877/",
+      "classicTitle": "Eastvale Civic Center Public Art RFP",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.facebook.com/cityofeastvale/posts/the-city-of-eastvale-is-pleased-to-announce-the-release-of-a-request-for-proposa/1601456742025877/",
+      "classicDesc": "新市政中心公共藝術整體委託。",
+      "deadline": "2026-10-13T23:59:59-07:00",
+      "deadlineLabel": "截止 2026.10.13",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "date",
+      "organizer": "City of Eastvale",
+      "eligibility": "具公共藝術經驗之藝術家或藝術家團隊；其他限制未公開",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-09-28",
+      "id": "competition-2026-09-28-03",
+      "dedupeKey": "opportunity-2026-09-28-maitland-next-stop-light-tunnel",
+      "name": "03｜Maitland City Council｜Next Stop: Maitland",
+      "tier": "競圖資料庫",
+      "region": "大洋洲",
+      "country": "澳洲 / Maitland, New South Wales",
+      "cityKeywords": [
+        "Maitland",
+        "梅特蘭"
+      ],
+      "media": [
+        "光/影像/投影",
+        "建築/場域",
+        "裝置"
+      ],
+      "works": "Next Stop: Maitland｜截止 2026.10.05 17:00",
+      "comment": "作品將數位化並輸出於連接公車轉運站與火車站的發光天花板，將日常轉乘通道改造成可穿越的光之隧道。",
+      "website": "https://engage.maitland.nsw.gov.au/new-stop-maitland-revitalise-maitland-train-station-precinct",
+      "workPage": "https://engage.maitland.nsw.gov.au/new-stop-maitland-revitalise-maitland-train-station-precinct",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://engage.maitland.nsw.gov.au/new-stop-maitland-revitalise-maitland-train-station-precinct",
+      "artistStatement": "作品將數位化並輸出於連接公車轉運站與火車站的發光天花板。",
+      "artistStatementSource": "https://engage.maitland.nsw.gov.au/new-stop-maitland-revitalise-maitland-train-station-precinct",
+      "classicTitle": "Next Stop: Maitland",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://engage.maitland.nsw.gov.au/new-stop-maitland-revitalise-maitland-train-station-precinct",
+      "classicDesc": "火車站轉乘通道光環境公共藝術委託。",
+      "deadline": "2026-10-05T17:00:00+11:00",
+      "deadlineLabel": "截止 2026.10.05 17:00（AEDT）",
+      "deadlineTimezone": "Australia/Sydney",
+      "deadlinePrecision": "time",
+      "organizer": "Maitland City Council",
+      "eligibility": "澳洲藝術家、設計師與創意工作者",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "可信二手來源",
+      "updated": "2026-09-28",
+      "id": "competition-2026-09-28-04",
+      "dedupeKey": "opportunity-2026-09-28-maribyrnong-creative-west-light-gateway",
+      "name": "04｜Maribyrnong City Council｜Creative West Light-Based Gateway Sculpture",
+      "tier": "競圖資料庫",
+      "region": "大洋洲",
+      "country": "澳洲 / Footscray, Victoria",
+      "cityKeywords": [
+        "Footscray",
+        "富茨克雷",
+        "Maribyrnong",
+        "馬里比農"
+      ],
+      "media": [
+        "光/影像/投影",
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Creative West Light-Based Gateway Sculpture｜截止 2026.09.30 17:00",
+      "comment": "Creative West 文化園區徵求沉浸式發光入口雕塑，藉夜間可視性、步行尺度與城市門戶意象強化場域辨識。",
+      "website": "https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
+      "workPage": "https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
+      "artistStatement": "Creative West 文化園區徵求沉浸式發光入口雕塑。",
+      "artistStatementSource": "https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
+      "classicTitle": "Creative West Light-Based Gateway Sculpture",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
+      "classicDesc": "文化園區發光入口雕塑委託。",
+      "deadline": "2026-09-30T17:00:00+10:00",
+      "deadlineLabel": "截止 2026.09.30 17:00（AEST）",
+      "deadlineTimezone": "Australia/Melbourne",
+      "deadlinePrecision": "time",
+      "organizer": "Maribyrnong City Council",
+      "eligibility": "具經驗之澳洲當代藝術家",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "可信二手來源",
+      "updated": "2026-09-28",
+      "id": "competition-2026-09-28-05",
+      "dedupeKey": "opportunity-2026-09-28-geelong-city-hall-projections-eoi",
+      "name": "05｜City of Greater Geelong｜City Hall Projections EOI",
+      "tier": "競圖資料庫",
+      "region": "大洋洲",
+      "country": "澳洲 / Geelong, Victoria",
+      "cityKeywords": [
+        "Geelong",
+        "吉朗"
+      ],
+      "media": [
+        "光/影像/投影",
+        "數位/互動",
+        "建築/場域"
+      ],
+      "works": "City Hall Projections EOI｜截止 2026.10.09",
+      "comment": "徵集可投影於 Geelong City Hall 立面的影音數位作品，預定於 2026 年 11 月 21 日至 2027 年 1 月 10 日公開呈現。",
+      "website": "https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
+      "workPage": "https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
+      "artistStatement": "徵集可投影於 Geelong City Hall 立面的影音數位作品。",
+      "artistStatementSource": "https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
+      "classicTitle": "City Hall Projections EOI",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
+      "classicDesc": "市政廳立面投影委託。",
+      "deadline": "2026-10-09T23:59:59+11:00",
+      "deadlineLabel": "截止 2026.10.09",
+      "deadlineTimezone": "Australia/Melbourne",
+      "deadlinePrecision": "date",
+      "organizer": "City of Greater Geelong",
+      "eligibility": "澳洲媒體、投影藝術家或團隊",
+      "budget": "AUD 20,000",
+      "applicationFee": "未公開",
       "relatedByCity": []
     }
   ]
