@@ -1,0 +1,680 @@
+{
+  "meta": {
+    "generatedAt": "2026-09-29T05:00:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-09-29",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Association for Public Art；Museum der 1000 Orte（第一方作品頁）",
+    "selectionPolicy": "排除傳統城市人物紀念雕塑；優先空間介入、光、聲音、環境、建築整合與觀念性公共藝術。",
+    "note": "今日 20 則嚴格維持 10／5／5，未混入競圖、補助或獎項。",
+    "linkAudit": {
+      "checkedAt": "2026-09-29T05:00:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "作品頁與創作論述均使用第一方機構頁。"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-09-29T05:00:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "每筆均提供作品頁縮圖與作品來源。"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-01",
+      "dedupeKey": "art-jeff-richards-franklin-thread-2026",
+      "name": "01｜Jeff Richards｜Franklin Thread",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Franklin Thread｜2026",
+      "comment": "以活亞麻、亞麻混凝土、麻繩、回收塑膠桿與石材構成可生長的臨時地景；作品在 Maja Park 從 2026 年 7 月延續至 10 月，讓植物生長、材料生命週期與公共空間維護成為同一套可見過程。",
+      "website": "https://associationforpublicart.org/artwork/franklin-thread/",
+      "workPage": "https://associationforpublicart.org/artwork/franklin-thread/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/franklin-thread/",
+      "artistStatement": "以活亞麻、亞麻混凝土、麻繩、回收塑膠桿與石材構成可生長的臨時地景；作品在 Maja Park 從 2026 年 7 月延續至 10 月，讓植物生長、材料生命週期與公共空間維護成為同一套可見過程。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/franklin-thread/",
+      "classicTitle": "Franklin Thread｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/franklin-thread/",
+      "classicDesc": "以活亞麻、亞麻混凝土、麻繩、回收塑膠桿與石材構成可生長的臨時地景；作品在 Maja Park 從 2026 年 7 月延續至 10 月，讓植物生長、材料生命週期與公共空間維護成為同一套可見過程。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-02",
+      "dedupeKey": "art-ned-kahn-shimmer-wall-2013",
+      "name": "02｜Ned Kahn｜Shimmer Wall",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "Shimmer Wall｜2013",
+      "comment": "約一萬二千五百片透明陽極鋁板覆蓋富蘭克林研究院南牆，三千平方英尺表面隨風壓、日照與觀看角度持續閃動；建築立面因微小氣流被轉化為城市尺度的動態天氣儀。",
+      "website": "https://associationforpublicart.org/artwork/shimmer-wall/",
+      "workPage": "https://associationforpublicart.org/artwork/shimmer-wall/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/shimmer-wall/",
+      "artistStatement": "約一萬二千五百片透明陽極鋁板覆蓋富蘭克林研究院南牆，三千平方英尺表面隨風壓、日照與觀看角度持續閃動；建築立面因微小氣流被轉化為城市尺度的動態天氣儀。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/shimmer-wall/",
+      "classicTitle": "Shimmer Wall｜2013",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/shimmer-wall/",
+      "classicDesc": "約一萬二千五百片透明陽極鋁板覆蓋富蘭克林研究院南牆，三千平方英尺表面隨風壓、日照與觀看角度持續閃動；建築立面因微小氣流被轉化為城市尺度的動態天氣儀。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-03",
+      "dedupeKey": "art-mags-harries-lajos-he-der-lightplay-2016",
+      "name": "03｜Mags Harries & Lajos Héder｜LightPlay",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "LightPlay｜2016",
+      "comment": "鋼、玻璃、燈光與二向色膜把公寓入口改造成會隨太陽與夜間 LED 變色的光學門廊；作品不以單一物件占據廣場，而是讓通行者的移動觸發顏色、反射與建築表皮的連續變化。",
+      "website": "https://associationforpublicart.org/artwork/lightplay/",
+      "workPage": "https://associationforpublicart.org/artwork/lightplay/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/lightplay/",
+      "artistStatement": "鋼、玻璃、燈光與二向色膜把公寓入口改造成會隨太陽與夜間 LED 變色的光學門廊；作品不以單一物件占據廣場，而是讓通行者的移動觸發顏色、反射與建築表皮的連續變化。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/lightplay/",
+      "classicTitle": "LightPlay｜2016",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/lightplay/",
+      "classicDesc": "鋼、玻璃、燈光與二向色膜把公寓入口改造成會隨太陽與夜間 LED 變色的光學門廊；作品不以單一物件占據廣場，而是讓通行者的移動觸發顏色、反射與建築表皮的連續變化。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-04",
+      "dedupeKey": "art-colette-fu-commemorating-the-stacks-2018",
+      "name": "04｜Colette Fu｜Commemorating the Stacks",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Commemorating the Stacks｜2018",
+      "comment": "雷射切割霧面壓克力與金屬層架在費城自由圖書館內重構已拆除的書庫結構；作品把原本不可見的儲藏、分類與知識勞動轉化為可穿行的建築記憶。",
+      "website": "https://associationforpublicart.org/artwork/commemorating-the-stacks/",
+      "workPage": "https://associationforpublicart.org/artwork/commemorating-the-stacks/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/commemorating-the-stacks/",
+      "artistStatement": "雷射切割霧面壓克力與金屬層架在費城自由圖書館內重構已拆除的書庫結構；作品把原本不可見的儲藏、分類與知識勞動轉化為可穿行的建築記憶。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/commemorating-the-stacks/",
+      "classicTitle": "Commemorating the Stacks｜2018",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/commemorating-the-stacks/",
+      "classicDesc": "雷射切割霧面壓克力與金屬層架在費城自由圖書館內重構已拆除的書庫結構；作品把原本不可見的儲藏、分類與知識勞動轉化為可穿行的建築記憶。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-05",
+      "dedupeKey": "art-stacy-levy-dendritic-decay-garden-2010",
+      "name": "05｜Stacy Levy｜Dendritic Decay Garden",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Dendritic Decay Garden｜2010",
+      "comment": "穿孔混凝土、移除的瀝青、土壤與原生植物被設計成一座持續崩解硬鋪面的花園；根系與天候不是作品外部的破壞力，而是逐步鬆動都市硬殼的共同作者。",
+      "website": "https://associationforpublicart.org/artwork/dendritic-decay-garden/",
+      "workPage": "https://associationforpublicart.org/artwork/dendritic-decay-garden/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/dendritic-decay-garden/",
+      "artistStatement": "穿孔混凝土、移除的瀝青、土壤與原生植物被設計成一座持續崩解硬鋪面的花園；根系與天候不是作品外部的破壞力，而是逐步鬆動都市硬殼的共同作者。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/dendritic-decay-garden/",
+      "classicTitle": "Dendritic Decay Garden｜2010",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/dendritic-decay-garden/",
+      "classicDesc": "穿孔混凝土、移除的瀝青、土壤與原生植物被設計成一座持續崩解硬鋪面的花園；根系與天候不是作品外部的破壞力，而是逐步鬆動都市硬殼的共同作者。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-06",
+      "dedupeKey": "art-jenny-holzer-for-philadelphia-2018",
+      "name": "06｜Jenny Holzer｜For Philadelphia",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "光/影像/投影",
+        "數位/互動",
+        "建築/場域"
+      ],
+      "works": "For Philadelphia｜2018",
+      "comment": "九面 LED 螢幕在 Comcast Technology Center 大廳連續播放約十七小時的地方與全球文本，其中納入費城學童的書寫；資訊流讓企業大廳成為多重城市聲音交錯的公共閱讀場。",
+      "website": "https://associationforpublicart.org/artwork/for-philadelphia/",
+      "workPage": "https://associationforpublicart.org/artwork/for-philadelphia/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/for-philadelphia/",
+      "artistStatement": "九面 LED 螢幕在 Comcast Technology Center 大廳連續播放約十七小時的地方與全球文本，其中納入費城學童的書寫；資訊流讓企業大廳成為多重城市聲音交錯的公共閱讀場。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/for-philadelphia/",
+      "classicTitle": "For Philadelphia｜2018",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/for-philadelphia/",
+      "classicDesc": "九面 LED 螢幕在 Comcast Technology Center 大廳連續播放約十七小時的地方與全球文本，其中納入費城學童的書寫；資訊流讓企業大廳成為多重城市聲音交錯的公共閱讀場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-07",
+      "dedupeKey": "art-soo-sunny-park-generative-luminance-2014",
+      "name": "07｜Soo Sunny Park｜Generative Luminance",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "Generative Luminance｜2014",
+      "comment": "一萬七千片二向色玻璃嵌入不鏽鋼網，將科學中心挑高中庭中的自然光折射為漂移色帶；作品把光從照明條件提升為可感知、可變動的雕塑材料。",
+      "website": "https://associationforpublicart.org/artwork/generative-luminance/",
+      "workPage": "https://associationforpublicart.org/artwork/generative-luminance/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/generative-luminance/",
+      "artistStatement": "一萬七千片二向色玻璃嵌入不鏽鋼網，將科學中心挑高中庭中的自然光折射為漂移色帶；作品把光從照明條件提升為可感知、可變動的雕塑材料。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/generative-luminance/",
+      "classicTitle": "Generative Luminance｜2014",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/generative-luminance/",
+      "classicDesc": "一萬七千片二向色玻璃嵌入不鏽鋼網，將科學中心挑高中庭中的自然光折射為漂移色帶；作品把光從照明條件提升為可感知、可變動的雕塑材料。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-08",
+      "dedupeKey": "art-janet-echelman-pulse-2018",
+      "name": "08｜Janet Echelman｜Pulse",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "聲音/霧/水"
+      ],
+      "works": "Pulse｜2018",
+      "comment": "霧氣與發光線條沿著迪爾沃斯公園地下捷運與電車的行進軌跡浮現，通常於每年 4 月至 10 月運作；不可見的交通基礎設施因此被轉譯成地表上可短暫閱讀的城市脈搏。",
+      "website": "https://associationforpublicart.org/artwork/pulse/",
+      "workPage": "https://associationforpublicart.org/artwork/pulse/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/pulse/",
+      "artistStatement": "霧氣與發光線條沿著迪爾沃斯公園地下捷運與電車的行進軌跡浮現，通常於每年 4 月至 10 月運作；不可見的交通基礎設施因此被轉譯成地表上可短暫閱讀的城市脈搏。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/pulse/",
+      "classicTitle": "Pulse｜2018",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/pulse/",
+      "classicDesc": "霧氣與發光線條沿著迪爾沃斯公園地下捷運與電車的行進軌跡浮現，通常於每年 4 月至 10 月運作；不可見的交通基礎設施因此被轉譯成地表上可短暫閱讀的城市脈搏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-09",
+      "dedupeKey": "art-jody-pinto-land-buoy-2014",
+      "name": "09｜Jody Pinto｜Land Buoy",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "地景/大地藝術"
+      ],
+      "works": "Land Buoy｜2014",
+      "comment": "五十五英尺高的鍍鋅鋼桅杆與十六英尺螺旋階梯立於華盛頓大道碼頭，將濱河更新、航行標誌與眺望行為結合；觀者的攀行使雕塑成為重新定位城市與河流關係的儀器。",
+      "website": "https://associationforpublicart.org/artwork/land-buoy/",
+      "workPage": "https://associationforpublicart.org/artwork/land-buoy/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/land-buoy/",
+      "artistStatement": "五十五英尺高的鍍鋅鋼桅杆與十六英尺螺旋階梯立於華盛頓大道碼頭，將濱河更新、航行標誌與眺望行為結合；觀者的攀行使雕塑成為重新定位城市與河流關係的儀器。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/land-buoy/",
+      "classicTitle": "Land Buoy｜2014",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/land-buoy/",
+      "classicDesc": "五十五英尺高的鍍鋅鋼桅杆與十六英尺螺旋階梯立於華盛頓大道碼頭，將濱河更新、航行標誌與眺望行為結合；觀者的攀行使雕塑成為重新定位城市與河流關係的儀器。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "current-2026-09-29-10",
+      "dedupeKey": "art-winifred-lutz-how-to-retain-site-memory-while-developing-the-landscape-1990",
+      "name": "10｜Winifred Lutz｜How to Retain Site Memory While Developing the Landscape",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "How to Retain Site Memory While Developing the Landscape｜1990",
+      "comment": "以舊 Preston Retreat 產科醫院遺留的石材、磚、樹木與構件重新組成住宅中庭；更新不是抹除舊址，而是讓破片、材料差異與植栽成為居民日常通行中的場地記憶層。",
+      "website": "https://associationforpublicart.org/artwork/how-to-retain-site-memory-while-developing-the-landscape/",
+      "workPage": "https://associationforpublicart.org/artwork/how-to-retain-site-memory-while-developing-the-landscape/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/how-to-retain-site-memory-while-developing-the-landscape/",
+      "artistStatement": "以舊 Preston Retreat 產科醫院遺留的石材、磚、樹木與構件重新組成住宅中庭；更新不是抹除舊址，而是讓破片、材料差異與植栽成為居民日常通行中的場地記憶層。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/how-to-retain-site-memory-while-developing-the-landscape/",
+      "classicTitle": "How to Retain Site Memory While Developing the Landscape｜1990",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/how-to-retain-site-memory-while-developing-the-landscape/",
+      "classicDesc": "以舊 Preston Retreat 產科醫院遺留的石材、磚、樹木與構件重新組成住宅中庭；更新不是抹除舊址，而是讓破片、材料差異與植栽成為居民日常通行中的場地記憶層。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "global-classic-2026-09-29-11",
+      "dedupeKey": "art-robinson-fredenthal-black-forest-1983",
+      "name": "11｜Robinson Fredenthal｜Black Forest",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Black Forest｜1983",
+      "comment": "黑色塗裝鋼板交疊成可從多方向穿越視線的幾何林地；作品在 2020 年移置至賓州大學 Blanche Levy Park 後，以重複、遮蔽與負空間重新組織校園步行尺度。",
+      "website": "https://associationforpublicart.org/artwork/black-forest/",
+      "workPage": "https://associationforpublicart.org/artwork/black-forest/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/black-forest/",
+      "artistStatement": "黑色塗裝鋼板交疊成可從多方向穿越視線的幾何林地；作品在 2020 年移置至賓州大學 Blanche Levy Park 後，以重複、遮蔽與負空間重新組織校園步行尺度。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/black-forest/",
+      "classicTitle": "Black Forest｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/black-forest/",
+      "classicDesc": "黑色塗裝鋼板交疊成可從多方向穿越視線的幾何林地；作品在 2020 年移置至賓州大學 Blanche Levy Park 後，以重複、遮蔽與負空間重新組織校園步行尺度。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "global-classic-2026-09-29-12",
+      "dedupeKey": "art-mei-ling-hom-china-wedge-1994",
+      "name": "12｜Mei-ling Hom｜China Wedge",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "China Wedge｜1994",
+      "comment": "超過兩萬只瓷杯、碗與湯匙擠入會議中心狹長楔形空間，並封存亞裔美國居民的證言；作品以堆積、壓縮與不可取出的餐具，指向移民文化在城市制度中的可見與受限。",
+      "website": "https://associationforpublicart.org/artwork/china-wedge/",
+      "workPage": "https://associationforpublicart.org/artwork/china-wedge/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/china-wedge/",
+      "artistStatement": "超過兩萬只瓷杯、碗與湯匙擠入會議中心狹長楔形空間，並封存亞裔美國居民的證言；作品以堆積、壓縮與不可取出的餐具，指向移民文化在城市制度中的可見與受限。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/china-wedge/",
+      "classicTitle": "China Wedge｜1994",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/china-wedge/",
+      "classicDesc": "超過兩萬只瓷杯、碗與湯匙擠入會議中心狹長楔形空間，並封存亞裔美國居民的證言；作品以堆積、壓縮與不可取出的餐具，指向移民文化在城市制度中的可見與受限。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "global-classic-2026-09-29-13",
+      "dedupeKey": "art-seymour-lipton-leviathan-1963",
+      "name": "13｜Seymour Lipton｜Leviathan",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Leviathan｜1963",
+      "comment": "鎳銀覆於蒙乃爾合金骨架上的抽象量體，以張力、尖角與內部空腔召喚原始生物般的力量；作品拒絕人物紀念像的單一敘事，讓城市廣場面對難以命名的形體能量。",
+      "website": "https://associationforpublicart.org/artwork/leviathan/",
+      "workPage": "https://associationforpublicart.org/artwork/leviathan/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/leviathan/",
+      "artistStatement": "鎳銀覆於蒙乃爾合金骨架上的抽象量體，以張力、尖角與內部空腔召喚原始生物般的力量；作品拒絕人物紀念像的單一敘事，讓城市廣場面對難以命名的形體能量。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/leviathan/",
+      "classicTitle": "Leviathan｜1963",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/leviathan/",
+      "classicDesc": "鎳銀覆於蒙乃爾合金骨架上的抽象量體，以張力、尖角與內部空腔召喚原始生物般的力量；作品拒絕人物紀念像的單一敘事，讓城市廣場面對難以命名的形體能量。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "global-classic-2026-09-29-14",
+      "dedupeKey": "art-william-freeland-elemental-intervals-1986",
+      "name": "14｜William Freeland｜Elemental Intervals",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Elemental Intervals｜1986",
+      "comment": "塗裝鋁板、青銅網、石灰岩與磚嵌入南街建築立面，金屬籠體承載約四點五噸石材；重量、懸置與牆體結構被直接外露，形成建築與雕塑無法分割的界面。",
+      "website": "https://associationforpublicart.org/artwork/elemental-intervals/",
+      "workPage": "https://associationforpublicart.org/artwork/elemental-intervals/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/elemental-intervals/",
+      "artistStatement": "塗裝鋁板、青銅網、石灰岩與磚嵌入南街建築立面，金屬籠體承載約四點五噸石材；重量、懸置與牆體結構被直接外露，形成建築與雕塑無法分割的界面。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/elemental-intervals/",
+      "classicTitle": "Elemental Intervals｜1986",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/elemental-intervals/",
+      "classicDesc": "塗裝鋁板、青銅網、石灰岩與磚嵌入南街建築立面，金屬籠體承載約四點五噸石材；重量、懸置與牆體結構被直接外露，形成建築與雕塑無法分割的界面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "global-classic-2026-09-29-15",
+      "dedupeKey": "art-alice-adams-the-roundabout-1992",
+      "name": "15｜Alice Adams｜The Roundabout",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "裝置",
+        "聲音/霧/水"
+      ],
+      "works": "The Roundabout｜1992",
+      "comment": "一英畝場地由石、混凝土、青銅刻紋、植栽與水景共同構成，迴旋路徑把醫學校園的通行空間變成可停留的地景；作品以整體環境取代獨立雕塑底座。",
+      "website": "https://associationforpublicart.org/artwork/the-roundabout/",
+      "workPage": "https://associationforpublicart.org/artwork/the-roundabout/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/the-roundabout/",
+      "artistStatement": "一英畝場地由石、混凝土、青銅刻紋、植栽與水景共同構成，迴旋路徑把醫學校園的通行空間變成可停留的地景；作品以整體環境取代獨立雕塑底座。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/the-roundabout/",
+      "classicTitle": "The Roundabout｜1992",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://associationforpublicart.org/artwork/the-roundabout/",
+      "classicDesc": "一英畝場地由石、混凝土、青銅刻紋、植栽與水景共同構成，迴旋路徑把醫學校園的通行空間變成可停留的地景；作品以整體環境取代獨立雕塑底座。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "german-classic-2026-09-29-16",
+      "dedupeKey": "art-gei-ler-lippert-unterton-2012",
+      "name": "16｜Geißler & Lippert｜Unterton",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "Berlin-Mitte",
+        "柏林"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "數位/互動",
+        "建築/場域"
+      ],
+      "works": "Unterton｜2012",
+      "comment": "八座鑄鐵人孔下配置電磁敲擊器與影像辨識軟體，約五百二十平方公尺前庭會依行人移動產生地下節奏；公共廣場的基礎設施被轉化為隱蔽、回應身體的聲音樂器。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "artistStatement": "八座鑄鐵人孔下配置電磁敲擊器與影像辨識軟體，約五百二十平方公尺前庭會依行人移動產生地下節奏；公共廣場的基礎設施被轉化為隱蔽、回應身體的聲音樂器。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "classicTitle": "Unterton｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "classicDesc": "八座鑄鐵人孔下配置電磁敲擊器與影像辨識軟體，約五百二十平方公尺前庭會依行人移動產生地下節奏；公共廣場的基礎設施被轉化為隱蔽、回應身體的聲音樂器。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "german-classic-2026-09-29-17",
+      "dedupeKey": "art-matthias-geitel-grenzen-und-ereignisse-2014",
+      "name": "17｜Matthias Geitel｜Grenzen und Ereignisse",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Greifswald",
+      "cityKeywords": [
+        "Greifswald",
+        "Hansestadt Greifswald",
+        "格賴夫斯瓦爾德"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Grenzen und Ereignisse｜2014",
+      "comment": "在 Friedrich-Loeffler-Institut 會議區形成跨越牆面的空間圖像，以邊界、節點與事件的視覺關係回應科研機構的知識生產；作品不是掛畫，而是把建築表面變成閱讀與討論的共同場域。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grenzen-und-ereignisse",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grenzen-und-ereignisse",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grenzen-und-ereignisse",
+      "artistStatement": "在 Friedrich-Loeffler-Institut 會議區形成跨越牆面的空間圖像，以邊界、節點與事件的視覺關係回應科研機構的知識生產；作品不是掛畫，而是把建築表面變成閱讀與討論的共同場域。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grenzen-und-ereignisse",
+      "classicTitle": "Grenzen und Ereignisse｜2014",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grenzen-und-ereignisse",
+      "classicDesc": "在 Friedrich-Loeffler-Institut 會議區形成跨越牆面的空間圖像，以邊界、節點與事件的視覺關係回應科研機構的知識生產；作品不是掛畫，而是把建築表面變成閱讀與討論的共同場域。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "german-classic-2026-09-29-18",
+      "dedupeKey": "art-manfred-hebenstreit-paravents-1990",
+      "name": "18｜Manfred Hebenstreit｜Paravents",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "Bundesstadt Bonn",
+        "波昂"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Paravents｜1990",
+      "comment": "五件屏風介入聯邦交通部餐廳與開放走廊之間，以半遮蔽而非實牆重新協商視線、動線與休息空間；Kunst am Bau 在此成為日常使用中的空間調節裝置。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravents",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravents",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravents",
+      "artistStatement": "五件屏風介入聯邦交通部餐廳與開放走廊之間，以半遮蔽而非實牆重新協商視線、動線與休息空間；Kunst am Bau 在此成為日常使用中的空間調節裝置。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravents",
+      "classicTitle": "Paravents｜1990",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravents",
+      "classicDesc": "五件屏風介入聯邦交通部餐廳與開放走廊之間，以半遮蔽而非實牆重新協商視線、動線與休息空間；Kunst am Bau 在此成為日常使用中的空間調節裝置。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "german-classic-2026-09-29-19",
+      "dedupeKey": "art-bernhard-heiliger-balance-i-panta-rhei-departure-1979",
+      "name": "19｜Bernhard Heiliger｜Balance I (Panta Rhei, Departure)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "Bundesstadt Bonn",
+        "波昂"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Balance I (Panta Rhei, Departure)｜1979",
+      "comment": "向上伸展的抽象構件兼具羅盤、音叉與擺錘聯想，設置於聯邦部會建築群綠地；作品以不穩定平衡回應周邊道路、建築軸線與國家機構持續變動的空間秩序。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/balance-i-panta-rhei-departure",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/balance-i-panta-rhei-departure",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/balance-i-panta-rhei-departure",
+      "artistStatement": "向上伸展的抽象構件兼具羅盤、音叉與擺錘聯想，設置於聯邦部會建築群綠地；作品以不穩定平衡回應周邊道路、建築軸線與國家機構持續變動的空間秩序。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/balance-i-panta-rhei-departure",
+      "classicTitle": "Balance I (Panta Rhei, Departure)｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/balance-i-panta-rhei-departure",
+      "classicDesc": "向上伸展的抽象構件兼具羅盤、音叉與擺錘聯想，設置於聯邦部會建築群綠地；作品以不穩定平衡回應周邊道路、建築軸線與國家機構持續變動的空間秩序。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-09-29",
+      "id": "german-classic-2026-09-29-20",
+      "dedupeKey": "art-bernhard-heiliger-echo-i-und-echo-ii-1987",
+      "name": "20｜Bernhard Heiliger｜Echo I und Echo II",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "Berlin-Tiergarten",
+        "柏林"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Echo I und Echo II｜1987",
+      "comment": "兩件部分塗色的鐵雕由圓盤、桿件、球體與焊接板組成，置於柏林愛樂廳室內樂廳入口；節拍器、聲波與回聲般的構成，將音樂經驗提前寫入觀眾進場的身體路徑。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/echo-i-und-echo-ii",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/echo-i-und-echo-ii",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/echo-i-und-echo-ii",
+      "artistStatement": "兩件部分塗色的鐵雕由圓盤、桿件、球體與焊接板組成，置於柏林愛樂廳室內樂廳入口；節拍器、聲波與回聲般的構成，將音樂經驗提前寫入觀眾進場的身體路徑。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/echo-i-und-echo-ii",
+      "classicTitle": "Echo I und Echo II｜1987",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/echo-i-und-echo-ii",
+      "classicDesc": "兩件部分塗色的鐵雕由圓盤、桿件、球體與焊接板組成，置於柏林愛樂廳室內樂廳入口；節拍器、聲波與回聲般的構成，將音樂經驗提前寫入觀眾進場的身體路徑。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05",
+        "competition-2026-09-13-04"
+      ]
+    }
+  ]
+}
