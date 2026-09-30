@@ -1,0 +1,14 @@
+{
+  "version": "2026-10-01-public-art-r82",
+  "generatedAt": "2026-10-01T04:59:02+08:00",
+  "files": [
+    "backfill-october-20261001.json"
+  ],
+  "expectedEntries": 20,
+  "statementEntries": 20,
+  "statementSourceEntries": 20,
+  "statementBacklog": 0,
+  "imageEntries": 20,
+  "imageBacklog": 0,
+  "note": "截至 2026-10-01 已發布 1 個十月每日檔、共 20 則；本日維持 10／5／5，排除傳統城市人物紀念雕塑。"
+}
