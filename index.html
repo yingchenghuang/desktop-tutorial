@@ -71,11 +71,12 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20260930-daily-r81';
+  const cacheKey = '20261001-daily-r82';
   const manifestUrls = [
     'data/backfill-july-manifest.json?t=' + cacheKey,
     'data/backfill-august-manifest.json?t=' + cacheKey,
-    'data/backfill-september-manifest.json?t=' + cacheKey
+    'data/backfill-september-manifest.json?t=' + cacheKey,
+    'data/backfill-october-manifest.json?t=' + cacheKey
   ];
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
