@@ -1,0 +1,693 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-01T04:59:02+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-01",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Association for Public Art、Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "已實現且持續存在的公共藝術、永久委託、場域介入與 Kunst am Bau；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/01 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-10-01T04:59:02+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-01T04:59:02+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-01",
+      "dedupeKey": "art-barbara-neijna-total-environment",
+      "name": "01｜Barbara Neijna｜Total Environment",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "廣場地景",
+        "鋁、鋪面與照明"
+      ],
+      "works": "Total Environment｜1986",
+      "comment": "白色鋁構、拱門、柱體、鋪面、植栽與照明共同組成一座 180 英尺見方的入口廣場；作品不以單一雕塑佔據中央，而把住宅、街道與鄰近公園的尺度整合成可通行環境。",
+      "website": "https://associationforpublicart.org/artwork/total-environment/",
+      "workPage": "https://associationforpublicart.org/artwork/total-environment/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Total_Environment_Barbara_Neijna_Photo_G_Ramirez_aPA_5_2020_34-1024x732.jpg",
+      "artistStatement": "白色鋁構、拱門、柱體、鋪面、植栽與照明共同組成一座 180 英尺見方的入口廣場；作品不以單一雕塑佔據中央，而把住宅、街道與鄰近公園的尺度整合成可通行環境。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/total-environment/",
+      "classicTitle": "Total Environment｜1986",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Total_Environment_Barbara_Neijna_Photo_G_Ramirez_aPA_5_2020_34-1024x732.jpg",
+      "classicDesc": "從物件擴張為整體環境，讓公共藝術直接參與入口、車行與步行秩序。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-02",
+      "dedupeKey": "art-richard-fleischner-mitchell-giurgola-architects-richard-glaser-harriet-pattison-cecil-b-moore-station-plaza",
+      "name": "02｜Richard Fleischner、Mitchell Giurgola Architects、Richard Glaser、Harriet Pattison｜Cecil B. Moore Station Plaza",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "交通廣場",
+        "景觀建築"
+      ],
+      "works": "Cecil B. Moore Station Plaza｜1986",
+      "comment": "藝術家、建築師與景觀設計者共同處理地鐵站外部廣場，以鋪面、植栽、座椅和通行軸線將轉乘空間改造成可停留的城市節點。",
+      "website": "https://associationforpublicart.org/artwork/cecil-b-moore-station-plaza/",
+      "workPage": "https://associationforpublicart.org/artwork/cecil-b-moore-station-plaza/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/20220430_120433-1024x936.jpg",
+      "artistStatement": "藝術家、建築師與景觀設計者共同處理地鐵站外部廣場，以鋪面、植栽、座椅和通行軸線將轉乘空間改造成可停留的城市節點。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/cecil-b-moore-station-plaza/",
+      "classicTitle": "Cecil B. Moore Station Plaza｜1986",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/20220430_120433-1024x936.jpg",
+      "classicDesc": "以跨專業協作把交通基礎設施轉化為具有公共生活的場所。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-03",
+      "dedupeKey": "art-sabrina-soong-the-china-gate",
+      "name": "03｜Sabrina Soong｜The China Gate",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "城市入口",
+        "木、琉璃瓦與石材"
+      ],
+      "works": "The China Gate｜1984",
+      "comment": "重達 88 噸的彩色牌樓由費城華埠、姐妹市天津與工匠協作完成；它跨越第十街，不只是象徵物，也以尺度、色彩和穿越動作標定社群領域。",
+      "website": "https://associationforpublicart.org/artwork/the-china-gate/",
+      "workPage": "https://associationforpublicart.org/artwork/the-china-gate/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/China_Gate_1400x1400-1024x1024.jpg",
+      "artistStatement": "重達 88 噸的彩色牌樓由費城華埠、姐妹市天津與工匠協作完成；它跨越第十街，不只是象徵物，也以尺度、色彩和穿越動作標定社群領域。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/the-china-gate/",
+      "classicTitle": "The China Gate｜1984",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/China_Gate_1400x1400-1024x1024.jpg",
+      "classicDesc": "城市入口透過跨國製作與社區募資，讓建築形式成為日常公共認同。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-04",
+      "dedupeKey": "art-moe-brooker-the-fruit-of-the-spirit",
+      "name": "04｜Moe Brooker｜The Fruit of the Spirit",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "建築整合",
+        "彩色抽象裝置"
+      ],
+      "works": "The Fruit of the Spirit｜2018",
+      "comment": "鮮明色塊與線性節奏沿聯邦建築空間展開，把抽象繪畫的能量轉譯為建築中的方向、層次與心理明度。",
+      "website": "https://associationforpublicart.org/artwork/the-fruit-of-the-spirit/",
+      "workPage": "https://associationforpublicart.org/artwork/the-fruit-of-the-spirit/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Fuit_of_the_Spirit_Moe_Brooker_3a_Photo_by_Joseph_Hu_Courtesy_GSA-1024x747.jpg",
+      "artistStatement": "鮮明色塊與線性節奏沿聯邦建築空間展開，把抽象繪畫的能量轉譯為建築中的方向、層次與心理明度。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/the-fruit-of-the-spirit/",
+      "classicTitle": "The Fruit of the Spirit｜2018",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Fuit_of_the_Spirit_Moe_Brooker_3a_Photo_by_Joseph_Hu_Courtesy_GSA-1024x747.jpg",
+      "classicDesc": "以色彩節奏回應公共建築，使抽象語彙成為日常通行的感知介面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-05",
+      "dedupeKey": "art-george-rickey-two-lines",
+      "name": "05｜George Rickey｜Two Lines",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "動力雕塑",
+        "不鏽鋼"
+      ],
+      "works": "Two Lines｜1988",
+      "comment": "兩片細長不鏽鋼構件以風為動力緩慢旋轉，作品最小化實體量，卻把看不見的氣流、時間與天空持續帶入場域。",
+      "website": "https://associationforpublicart.org/artwork/two-lines/",
+      "workPage": "https://associationforpublicart.org/artwork/two-lines/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Two_Lines_1_1400x1400-1024x1024.jpg",
+      "artistStatement": "兩片細長不鏽鋼構件以風為動力緩慢旋轉，作品最小化實體量，卻把看不見的氣流、時間與天空持續帶入場域。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/two-lines/",
+      "classicTitle": "Two Lines｜1988",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Two_Lines_1_1400x1400-1024x1024.jpg",
+      "classicDesc": "以精密平衡讓自然力完成作品，形成低耗能而持續變化的公共時間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-06",
+      "dedupeKey": "art-ed-levine-embodying-thoreau-dwelling-sitting-watching",
+      "name": "06｜Ed Levine｜Embodying Thoreau: dwelling, sitting, watching",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "場域特定",
+        "閱讀與棲居裝置"
+      ],
+      "works": "Embodying Thoreau: dwelling, sitting, watching｜2003",
+      "comment": "作品以梭羅的棲居、坐下與觀看為行動線索，把觀者身體、可使用構件與周遭自然連接；閱讀不再只發生於文字，也發生於停留方式。",
+      "website": "https://associationforpublicart.org/artwork/embodying-thoreau-dwelling-sitting-watching/",
+      "workPage": "https://associationforpublicart.org/artwork/embodying-thoreau-dwelling-sitting-watching/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2015/10/Embodying-Thoreau_Ed-Levine_aPA_Photo-by-Gregory-Benson_2004_1-1024x667.jpg",
+      "artistStatement": "作品以梭羅的棲居、坐下與觀看為行動線索，把觀者身體、可使用構件與周遭自然連接；閱讀不再只發生於文字，也發生於停留方式。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/embodying-thoreau-dwelling-sitting-watching/",
+      "classicTitle": "Embodying Thoreau: dwelling, sitting, watching｜2003",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2015/10/Embodying-Thoreau_Ed-Levine_aPA_Photo-by-Gregory-Benson_2004_1-1024x667.jpg",
+      "classicDesc": "將思想轉成可執行的身體與空間關係，使公共藝術成為觀看練習。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-07",
+      "dedupeKey": "art-barbara-grygutis-lifelines",
+      "name": "07｜Barbara Grygutis｜Lifelines",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "城市空間",
+        "金屬與光影"
+      ],
+      "works": "Lifelines｜2006",
+      "comment": "線性金屬構件在城市通道中建立穿透、遮蔽與投影；作品以身體尺度引導行走，同時把城市網絡想像成相互依存的生命線。",
+      "website": "https://associationforpublicart.org/artwork/lifelines/",
+      "workPage": "https://associationforpublicart.org/artwork/lifelines/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Lifelines_1400x1400-1024x1024.jpg",
+      "artistStatement": "線性金屬構件在城市通道中建立穿透、遮蔽與投影；作品以身體尺度引導行走，同時把城市網絡想像成相互依存的生命線。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/lifelines/",
+      "classicTitle": "Lifelines｜2006",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Lifelines_1400x1400-1024x1024.jpg",
+      "classicDesc": "以線、影與通行重組城市界面，將連結概念落實為可感知的空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-08",
+      "dedupeKey": "art-kate-kaman-re-creation",
+      "name": "08｜Kate Kaman｜Re-Creation",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "場域特定",
+        "雕塑與遊憩空間"
+      ],
+      "works": "Re-Creation｜2007",
+      "comment": "作品從場址的遊憩與再創造雙重語意出發，讓雕塑構件與公共活動彼此嵌合，觀者可透過繞行、靠近與尺度比較重新認識日常場所。",
+      "website": "https://associationforpublicart.org/artwork/re-creation/",
+      "workPage": "https://associationforpublicart.org/artwork/re-creation/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/re-creation_Kate_Kaman_2-1024x1024.jpg",
+      "artistStatement": "作品從場址的遊憩與再創造雙重語意出發，讓雕塑構件與公共活動彼此嵌合，觀者可透過繞行、靠近與尺度比較重新認識日常場所。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/re-creation/",
+      "classicTitle": "Re-Creation｜2007",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/re-creation_Kate_Kaman_2-1024x1024.jpg",
+      "classicDesc": "把 recreation 拆解為 re-creation，讓使用行為成為場所再造的方法。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-09",
+      "dedupeKey": "art-marta-sanchez-david-acosta-reclaiming-gurney-st",
+      "name": "09｜Marta Sanchez、David Acosta｜Reclaiming Gurney St.",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "社群公共藝術",
+        "街道介入",
+        "壁畫與場域營造"
+      ],
+      "works": "Reclaiming Gurney St.｜2018",
+      "comment": "藝術家與社區以色彩、圖像和空間整理回應一條長期被忽略的街道；作品把公共藝術從表面裝飾推向照護、記憶和共同取回城市空間的行動。",
+      "website": "https://associationforpublicart.org/artwork/reclaiming-gurney-st/",
+      "workPage": "https://associationforpublicart.org/artwork/reclaiming-gurney-st/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Reclaiming_Gurney_St_1_Marta_Sanchez_Philadelphia_Photo_A_Lippolis_aPA-1024x1024.jpg",
+      "artistStatement": "藝術家與社區以色彩、圖像和空間整理回應一條長期被忽略的街道；作品把公共藝術從表面裝飾推向照護、記憶和共同取回城市空間的行動。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/reclaiming-gurney-st/",
+      "classicTitle": "Reclaiming Gurney St.｜2018",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Reclaiming_Gurney_St_1_Marta_Sanchez_Philadelphia_Photo_A_Lippolis_aPA-1024x1024.jpg",
+      "classicDesc": "以協作製作重建街道能見度，公共性來自居民對場所的重新主張。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "current-2026-10-01-10",
+      "dedupeKey": "art-andrea-blum-plateau",
+      "name": "10｜Andrea Blum｜Plateau",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "永久公共委託",
+        "地景家具",
+        "混凝土與植栽"
+      ],
+      "works": "Plateau｜2005",
+      "comment": "抬高的平台、座位與植栽在校園中形成介於雕塑、家具和小型地景的公共空間；人可以穿越、停坐並從不同高度觀看周圍。",
+      "website": "https://associationforpublicart.org/artwork/plateau/",
+      "workPage": "https://associationforpublicart.org/artwork/plateau/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Plateau_5_Andrea_Blum_Photo_by_Jeremy_Lawson_courtesy_Penn-1024x611.jpg",
+      "artistStatement": "抬高的平台、座位與植栽在校園中形成介於雕塑、家具和小型地景的公共空間；人可以穿越、停坐並從不同高度觀看周圍。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/plateau/",
+      "classicTitle": "Plateau｜2005",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Plateau_5_Andrea_Blum_Photo_by_Jeremy_Lawson_courtesy_Penn-1024x611.jpg",
+      "classicDesc": "不把藝術與使用分開，而以可停留的地形創造新的社交視點。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "global-classic-2026-10-01-11",
+      "dedupeKey": "art-martin-puryear-pavilion-in-the-trees",
+      "name": "11｜Martin Puryear｜Pavilion in the Trees",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "木構建築",
+        "地景介入"
+      ],
+      "works": "Pavilion in the Trees｜1993",
+      "comment": "木構平台被抬升到樹冠附近，步道把觀者帶離地面進入枝葉；作品兼具雕塑、建築與觀景台功能，以身體高度重新組織公園經驗。",
+      "website": "https://associationforpublicart.org/artwork/pavilion-in-the-trees/",
+      "workPage": "https://associationforpublicart.org/artwork/pavilion-in-the-trees/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Pavilion_In_The_Trees_Rogers_2017_28-1024x678.jpg",
+      "artistStatement": "木構平台被抬升到樹冠附近，步道把觀者帶離地面進入枝葉；作品兼具雕塑、建築與觀景台功能，以身體高度重新組織公園經驗。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/pavilion-in-the-trees/",
+      "classicTitle": "Pavilion in the Trees｜1993",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Pavilion_In_The_Trees_Rogers_2017_28-1024x678.jpg",
+      "classicDesc": "以可進入建築改變觀看自然的高度，是公共雕塑與地景融合的經典。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "global-classic-2026-10-01-12",
+      "dedupeKey": "art-henry-moore-three-way-piece-number-1-points",
+      "name": "12｜Henry Moore｜Three Way Piece Number 1: Points",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "抽象雕塑",
+        "青銅"
+      ],
+      "works": "Three Way Piece Number 1: Points｜1964",
+      "comment": "三向伸展的青銅體量沒有唯一正面，空洞、突點與曲面要求觀者繞行；雕塑以多重視角對抗紀念像的固定觀看。",
+      "website": "https://associationforpublicart.org/artwork/three-way-piece-number-1-points/",
+      "workPage": "https://associationforpublicart.org/artwork/three-way-piece-number-1-points/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2015/10/Three_Way_Piece_Moore_photo_Caitlin_Martinfor_aPA_2016_14-1-1024x680.jpg",
+      "artistStatement": "三向伸展的青銅體量沒有唯一正面，空洞、突點與曲面要求觀者繞行；雕塑以多重視角對抗紀念像的固定觀看。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/three-way-piece-number-1-points/",
+      "classicTitle": "Three Way Piece Number 1: Points｜1964",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2015/10/Three_Way_Piece_Moore_photo_Caitlin_Martinfor_aPA_2016_14-1-1024x680.jpg",
+      "classicDesc": "多向性與負空間使公共雕塑從正面物件轉為身體環繞的空間事件。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "global-classic-2026-10-01-13",
+      "dedupeKey": "art-siah-armajani-louis-kahn-lecture-room",
+      "name": "13｜Siah Armajani｜Louis Kahn Lecture Room",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "建築裝置",
+        "木構與閱讀空間"
+      ],
+      "works": "Louis Kahn Lecture Room｜1982",
+      "comment": "藝術家以講堂、家具與建築細部向 Louis Kahn 的思想致意，將雕塑轉為可集合、閱讀和討論的公共結構。",
+      "website": "https://associationforpublicart.org/artwork/louis-kahn-lecture-room/",
+      "workPage": "https://associationforpublicart.org/artwork/louis-kahn-lecture-room/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Armajani_Louis_Kahn_Lecture_Room_Fleisher_05-1024x680.jpg",
+      "artistStatement": "藝術家以講堂、家具與建築細部向 Louis Kahn 的思想致意，將雕塑轉為可集合、閱讀和討論的公共結構。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/louis-kahn-lecture-room/",
+      "classicTitle": "Louis Kahn Lecture Room｜1982",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Armajani_Louis_Kahn_Lecture_Room_Fleisher_05-1024x680.jpg",
+      "classicDesc": "將紀念從人物塑像改寫為可使用的思想空間，是公共藝術功能轉向的代表案例。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "global-classic-2026-10-01-14",
+      "dedupeKey": "art-magdalena-abakanowicz-open-air-aquarium",
+      "name": "14｜Magdalena Abakanowicz｜Open Air Aquarium",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "群組裝置",
+        "鑄造金屬"
+      ],
+      "works": "Open Air Aquarium｜2003",
+      "comment": "一群抽象生物般的形體散布於戶外，個體之間的間距與方向形成流動群像；作品的核心不在單一塑像，而在群體、異質身體與共享空間。",
+      "website": "https://associationforpublicart.org/artwork/open-air-aquarium/",
+      "workPage": "https://associationforpublicart.org/artwork/open-air-aquarium/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Open_Air_Aquarium_1200x1200-1024x1024.jpg",
+      "artistStatement": "一群抽象生物般的形體散布於戶外，個體之間的間距與方向形成流動群像；作品的核心不在單一塑像，而在群體、異質身體與共享空間。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/open-air-aquarium/",
+      "classicTitle": "Open Air Aquarium｜2003",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Open_Air_Aquarium_1200x1200-1024x1024.jpg",
+      "classicDesc": "以群組關係取代英雄中心，讓公共空間呈現多數身體的張力。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "global-classic-2026-10-01-15",
+      "dedupeKey": "art-barbara-hepworth-rock-form-porthcurno",
+      "name": "15｜Barbara Hepworth｜Rock Form (Porthcurno)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "抽象雕塑",
+        "青銅"
+      ],
+      "works": "Rock Form (Porthcurno)｜1964",
+      "comment": "穿孔青銅體量把岩石、海岸與人體感知壓縮為開口和曲面；光線穿越空洞，使雕塑內外與周圍空間連續。",
+      "website": "https://associationforpublicart.org/artwork/rock-form-porthcurno/",
+      "workPage": "https://associationforpublicart.org/artwork/rock-form-porthcurno/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Rock_Form_1400x1400-1024x1024.jpg",
+      "artistStatement": "穿孔青銅體量把岩石、海岸與人體感知壓縮為開口和曲面；光線穿越空洞，使雕塑內外與周圍空間連續。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/rock-form-porthcurno/",
+      "classicTitle": "Rock Form (Porthcurno)｜1964",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Rock_Form_1400x1400-1024x1024.jpg",
+      "classicDesc": "以孔洞將實體變成框景裝置，是戰後公共抽象雕塑的重要空間語彙。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "german-classic-2026-10-01-16",
+      "dedupeKey": "art-frank-michael-zeidler-doppelhorizontal-lichte-sechs",
+      "name": "16｜Frank Michael Zeidler｜Doppelhorizontal-lichte Sechs",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "芬蘭 / Helsinki",
+      "cityKeywords": [
+        "Helsinki",
+        "Helsingfors",
+        "赫爾辛基"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "抽象繪畫",
+        "混合媒材畫布"
+      ],
+      "works": "Doppelhorizontal-lichte Sechs｜1993",
+      "comment": "六幅二乘二公尺的抽象畫板沿大使館錯落牆面配置，以黑白之間的極端明暗對應芬蘭建築不斷變化的自然光；系列既不壓過空間，也不退為裝飾。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelhorizontal-lichte-sechs",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelhorizontal-lichte-sechs",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/bd58c049a89dc8ef95c8b0b81155d2bb30a2e9c7.jpg",
+      "artistStatement": "六幅二乘二公尺的抽象畫板沿大使館錯落牆面配置，以黑白之間的極端明暗對應芬蘭建築不斷變化的自然光；系列既不壓過空間，也不退為裝飾。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelhorizontal-lichte-sechs",
+      "classicTitle": "Doppelhorizontal-lichte Sechs｜1993",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/bd58c049a89dc8ef95c8b0b81155d2bb30a2e9c7.jpg",
+      "classicDesc": "以連續畫面和光值建立與建築垂直節奏的對位。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "german-classic-2026-10-01-17",
+      "dedupeKey": "art-thomas-wrede-real-landscapes",
+      "name": "17｜Thomas Wrede｜Real Landscapes",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "攝影",
+        "模型與地景"
+      ],
+      "works": "Real Landscapes｜2011",
+      "comment": "藝術家把泥土、沙丘、積雪與模型配件拍成似乎宏大的地景，讓真實與造景、田園與災變互相滑動；無窗走廊因此獲得一扇不可靠的風景窗。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/real-landscapes",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/real-landscapes",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/baee7fed5404afc9029b24b971fae8446779dd81.jpg",
+      "artistStatement": "藝術家把泥土、沙丘、積雪與模型配件拍成似乎宏大的地景，讓真實與造景、田園與災變互相滑動；無窗走廊因此獲得一扇不可靠的風景窗。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/real-landscapes",
+      "classicTitle": "Real Landscapes｜2011",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/baee7fed5404afc9029b24b971fae8446779dd81.jpg",
+      "classicDesc": "以尺度錯覺質疑觀看與自然資源，並回應農業部的環境職能。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "german-classic-2026-10-01-18",
+      "dedupeKey": "art-remy-zaugg-o-t",
+      "name": "18｜Rémy Zaugg｜o. T.",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "愛爾福特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "文字藝術",
+        "鋁板與網印"
+      ],
+      "works": "o. T.｜1999",
+      "comment": "四件彩色鋁板文字作品分散於聯邦勞動法院公共樓層，句法故意製造理解的不穩定；觀者在前往法庭的路徑上持續面對語言、觀看與判讀。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-10",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-10",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0cbc96bfccfca568b26d2b2f39bd59bfa978f46d.jpg",
+      "artistStatement": "四件彩色鋁板文字作品分散於聯邦勞動法院公共樓層，句法故意製造理解的不穩定；觀者在前往法庭的路徑上持續面對語言、觀看與判讀。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-10",
+      "classicTitle": "o. T.｜1999",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0cbc96bfccfca568b26d2b2f39bd59bfa978f46d.jpg",
+      "classicDesc": "將司法視為依賴語言解釋的行動，讓通行路徑成為認知辯證。",
+      "relatedByCity": [
+        "competition-2026-08-28-03"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "german-classic-2026-10-01-19",
+      "dedupeKey": "art-denise-winter-atrium-wo-das-schaf-und-der-wolf-aus-dem-pelz-kamen",
+      "name": "19｜Denise Winter｜Atrium – Wo das Schaf und der Wolf aus dem Pelz kamen",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "木質浮雕",
+        "材料介入"
+      ],
+      "works": "Atrium – Wo das Schaf und der Wolf aus dem Pelz kamen｜2013",
+      "comment": "藝術家把覆面原則反轉，以刨削八片刨花板顯露內藏的實木楔形；看似農田的鳥瞰構圖同時談材料真偽、消費保護與被掩蔽的品質。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/atrium-wo-das-schaf-und-der-wolf-aus-dem-pelz-kamen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/atrium-wo-das-schaf-und-der-wolf-aus-dem-pelz-kamen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/2d26f9ce9d78d4ee03f6689b16afbb6999c58810.jpg",
+      "artistStatement": "藝術家把覆面原則反轉，以刨削八片刨花板顯露內藏的實木楔形；看似農田的鳥瞰構圖同時談材料真偽、消費保護與被掩蔽的品質。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/atrium-wo-das-schaf-und-der-wolf-aus-dem-pelz-kamen",
+      "classicTitle": "Atrium – Wo das Schaf und der Wolf aus dem Pelz kamen｜2013",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/2d26f9ce9d78d4ee03f6689b16afbb6999c58810.jpg",
+      "classicDesc": "用材料剖面把揭露與辨真變成可見方法，精準回應農業部場址。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "german-classic-2026-10-01-20",
+      "dedupeKey": "art-walter-womacka-der-mensch-uberwindet-zeit-und-raum",
+      "name": "20｜Walter Womacka｜Der Mensch überwindet Zeit und Raum",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "建築浮雕",
+        "銅"
+      ],
+      "works": "Der Mensch überwindet Zeit und Raum｜1971",
+      "comment": "長達二十四公尺的銅浮雕嵌入 Alexanderplatz 旅行之家外牆，以交通、自然與太空圖像把當時的移動願景放大為城市立面；其價值也在於見證東柏林現代建築和政治想像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-mensch-uberwindet-zeit-und-raum",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-mensch-uberwindet-zeit-und-raum",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/97a9f0e3d4fab384bc042ca6e5bdaa3a99b9b7b8.jpg",
+      "artistStatement": "長達二十四公尺的銅浮雕嵌入 Alexanderplatz 旅行之家外牆，以交通、自然與太空圖像把當時的移動願景放大為城市立面；其價值也在於見證東柏林現代建築和政治想像。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-mensch-uberwindet-zeit-und-raum",
+      "classicTitle": "Der Mensch überwindet Zeit und Raum｜1971",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/97a9f0e3d4fab384bc042ca6e5bdaa3a99b9b7b8.jpg",
+      "classicDesc": "不是獨立人物紀念像，而是以建築表面保存時代技術觀與城市史。",
+      "relatedByCity": [
+        "competition-2026-08-22-03",
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-03",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-04",
+        "competition-2026-09-08-05"
+      ]
+    }
+  ]
+}
