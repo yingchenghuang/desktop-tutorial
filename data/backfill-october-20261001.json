@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-10-01T04:59:02+08:00",
+    "generatedAt": "2026-10-01T05:40:00+08:00",
     "timezone": "Asia/Taipei",
     "date": "2026-10-01",
     "total": 20,
@@ -11,13 +11,13 @@
     "selectionPolicy": "已實現且持續存在的公共藝術、永久委託、場域介入與 Kunst am Bau；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
     "note": "10/01 固定 10＋5＋5。",
     "linkAudit": {
-      "checkedAt": "2026-10-01T04:59:02+08:00",
+      "checkedAt": "2026-10-01T05:40:00+08:00",
       "checkedUniqueSources": 20,
       "brokenOrBlockedReplaced": 0,
       "rule": "第一方作品頁回讀"
     },
     "imageAudit": {
-      "checkedAt": "2026-10-01T04:59:02+08:00",
+      "checkedAt": "2026-10-01T05:40:00+08:00",
       "imageEntries": 20,
       "missing": 0,
       "rule": "第一方圖片 URL 回讀"
