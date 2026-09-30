@@ -1,10 +1,10 @@
 {
   "meta": {
-    "total": 118,
-    "activeEntries": 118,
+    "total": 117,
+    "activeEntries": 117,
     "addedToday": 5,
-    "expiredRemoved": 5,
-    "retainedExisting": 113,
+    "expiredRemoved": 6,
+    "retainedExisting": 112,
     "duplicateRemoved": 0,
     "deadlineRule": "所有 deadline 均含時區偏移；官方僅公布日期時採主辦地 23:59:59 並標記 date。"
   },
@@ -4733,45 +4733,6 @@
       "category": "公開徵件",
       "status": "官方來源",
       "updated": "2026-09-24",
-      "id": "competition-2026-09-24-01",
-      "dedupeKey": "opportunity-2026-09-24-fort-pierce-sunrise-center-elevator-project",
-      "name": "01｜Fort Pierce｜Sunrise Center Elevator Project",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "美國 / Fort Pierce, Florida",
-      "cityKeywords": [
-        "Fort Pierce",
-        "皮爾斯堡"
-      ],
-      "media": [
-        "公共壁畫",
-        "建築整合",
-        "電梯包膜"
-      ],
-      "works": "Sunrise Center Elevator Project｜截止 2026.09.30 17:00 EDT",
-      "comment": "為市營停車場五個樓層入口牆面與電梯門、轎廂徵求場域特定壁畫與包膜設計，藉公共藝術改善 Sunrise Center 的辨識、動線與城市形象。",
-      "website": "https://www.choosefortpierce.com",
-      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18150/CAFE",
-      "photo": "https://opportunities.wearecreativewest.org/png/logo.png",
-      "artistStatement": "為市營停車場五個樓層入口牆面與電梯門、轎廂徵求場域特定壁畫與包膜設計，藉公共藝術改善 Sunrise Center 的辨識、動線與城市形象。",
-      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18150/CAFE",
-      "classicTitle": "Fort Pierce｜Sunrise Center Elevator Project",
-      "classicImage": "https://opportunities.wearecreativewest.org/png/logo.png",
-      "classicDesc": "為市營停車場五個樓層入口牆面與電梯門、轎廂徵求場域特定壁畫與包膜設計，藉公共藝術改善 Sunrise Center 的辨識、動線與城市形象。",
-      "deadline": "2026-09-30T17:00:00-04:00",
-      "deadlineLabel": "截止 2026.09.30 17:00 EDT",
-      "deadlineTimezone": "America/New_York",
-      "deadlinePrecision": "time",
-      "organizer": "Fort Pierce Redevelopment Agency",
-      "eligibility": "全美具公共壁畫、圖像或場域藝術經驗的個人藝術家、專業創作者、壁畫家、平面藝術家或團隊",
-      "budget": "USD 36,500（計畫總預算）",
-      "applicationFee": "免費",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-09-24",
       "id": "competition-2026-09-24-02",
       "dedupeKey": "opportunity-2026-09-24-columbia-2222-main-mural-project",
       "name": "02｜Columbia｜2222 Main Mural Project",
@@ -6037,5 +5998,5 @@
     }
   ],
   "updated": "2026-10-01",
-  "generatedAt": "2026-10-01T04:59:02+08:00"
+  "generatedAt": "2026-10-01T05:40:00+08:00"
 }
