@@ -3,7 +3,7 @@
     "total": 118,
     "activeEntries": 118,
     "addedToday": 5,
-    "expiredRemoved": 1,
+    "expiredRemoved": 5,
     "retainedExisting": 113,
     "duplicateRemoved": 0,
     "deadlineRule": "所有 deadline 均含時區偏移；官方僅公布日期時採主辦地 23:59:59 並標記 date。"
@@ -46,45 +46,6 @@
       "organizer": "Land Kärnten Kunst und Kultur",
       "eligibility": "現居奧地利的專業藝術家",
       "budget": "未公開",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-11",
-      "id": "competition-2026-08-11-13",
-      "dedupeKey": "opportunity-2026-08-11-lihpao-sculpture-biennial-awards-8",
-      "name": "13｜第八屆麗寶雕塑雙年獎",
-      "tier": "競圖資料庫",
-      "region": "亞洲",
-      "country": "台灣 / 國際徵件",
-      "cityKeywords": [
-        "台中",
-        "Taichung"
-      ],
-      "media": [
-        "雕塑",
-        "公共展示",
-        "國際競賽"
-      ],
-      "works": "長期展示型雕塑國際競賽｜首獎 US$45,000｜截止 2026.09.30",
-      "comment": "全球 18 歲以上藝術家皆可申請，作品材料須適合長期展示；首獎 US$45,000、銀獎 US$25,000。由麗寶文化藝術基金會與奧地利台北辦事處合作，文化部支持。",
-      "website": "https://www.lihpao.org.tw/",
-      "workPage": "https://artafricamagazine.org/global-sculpture-prize-opens-with-usd-45000-top-award/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.lihpao.org.tw/",
-      "artistStatement": "對台灣藝術家而言，這是把成熟雕塑推向國際評審與長期展示的直接窗口，提案應先證明材料壽命、運輸與尺度完成度。",
-      "artistStatementSource": "https://artafricamagazine.org/global-sculpture-prize-opens-with-usd-45000-top-award/",
-      "classicTitle": "Lihpao Sculpture Biennial Awards｜2026",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.lihpao.org.tw/",
-      "classicDesc": "用材料耐久性與完成尺度競逐四萬五千美元國際雕塑首獎。",
-      "deadline": "2026-09-30T23:59:59+08:00",
-      "deadlineLabel": "截止 2026.09.30",
-      "deadlineTimezone": "Asia/Taipei",
-      "deadlinePrecision": "date",
-      "organizer": "麗寶文化藝術基金會",
-      "eligibility": "全球 18 歲以上藝術家；作品材料須適合長期展示",
-      "budget": "首獎 US$45,000；銀獎 US$25,000",
       "applicationFee": "未公開",
       "relatedByCity": []
     },
@@ -738,7 +699,10 @@
         "german-classic-2026-09-28-19",
         "german-classic-2026-09-29-16",
         "german-classic-2026-09-29-20",
-        "german-classic-2026-09-30-17"
+        "german-classic-2026-09-30-17",
+        "german-classic-2026-10-01-17",
+        "german-classic-2026-10-01-19",
+        "german-classic-2026-10-01-20"
       ]
     },
     {
@@ -883,43 +847,6 @@
         "current-2026-09-23-05",
         "current-2026-09-25-03"
       ]
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-24",
-      "id": "competition-2026-08-24-02",
-      "dedupeKey": "opportunity-2026-08-24-kunstverein-frechen-xxi-grafik-triennale-2027",
-      "name": "02｜Kunstverein zu Frechen｜第21屆國際版畫三年展 2027",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "德國 / Frechen",
-      "cityKeywords": [
-        "Frechen",
-        "弗雷興"
-      ],
-      "media": [
-        "版畫/紙本"
-      ],
-      "works": "第21屆國際版畫三年展 2027｜截止 2026-09-29",
-      "comment": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
-      "website": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
-      "workPage": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
-      "artistStatement": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
-      "artistStatementSource": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
-      "classicTitle": "第21屆國際版畫三年展 2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
-      "classicDesc": "全球徵集當代原創版畫，以三年展延續 Frechen 的國際圖像交流。",
-      "deadline": "2026-09-29T23:59:59+02:00",
-      "deadlineLabel": "截止 2026-09-29",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date",
-      "organizer": "Kunstverein zu Frechen e.V.",
-      "eligibility": "全球專業藝術家；作品須屬原創版畫，包含電腦印刷及傳統版畫技法，作品完成於 2023 年或之後",
-      "budget": "獎金 €3,000、€2,000、€1,500；在學藝術家獎 €1,000；觀眾獎 €200",
-      "applicationFee": "€40（進入第二階段並送交原作時）",
-      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -1082,7 +1009,10 @@
         "german-classic-2026-09-28-19",
         "german-classic-2026-09-29-16",
         "german-classic-2026-09-29-20",
-        "german-classic-2026-09-30-17"
+        "german-classic-2026-09-30-17",
+        "german-classic-2026-10-01-17",
+        "german-classic-2026-10-01-19",
+        "german-classic-2026-10-01-20"
       ]
     },
     {
@@ -1319,7 +1249,8 @@
       "budget": "€40,000（含稅，含設計、製作、材料、運輸與差旅等費用）",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "current-2026-09-23-09"
+        "current-2026-09-23-09",
+        "german-classic-2026-10-01-18"
       ]
     },
     {
@@ -1496,77 +1427,6 @@
       "relatedByCity": [
         "classic-german-2026-08-14-03",
         "classic-german-2026-08-20-05"
-      ]
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-29",
-      "id": "competition-2026-08-29-05",
-      "dedupeKey": "opportunity-2026-08-29-seattle-arts-king-street-station-2027",
-      "name": "05｜Seattle OAC｜ARTS at King Street Station 2027 Exhibitions",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "美國 / Seattle",
-      "cityKeywords": [
-        "Seattle",
-        "西雅圖",
-        "King Street Station",
-        "國王街車站"
-      ],
-      "media": [
-        "公共文化空間",
-        "策展",
-        "跨媒介展覽"
-      ],
-      "works": "2027 公共展覽與相關活動｜截止 2026.09.29 17:00 PDT",
-      "comment": "邀請藝術家、策展人、組織與社區團體在歷史車站上層公共文化空間提出免費展覽與相關活動，優先支持受制度性壓迫影響的社群。",
-      "website": "https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
-      "workPage": "https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
-      "artistStatement": "邀請藝術家、策展人、組織與社區團體在歷史車站上層公共文化空間提出免費展覽與相關活動，優先支持受制度性壓迫影響的社群。",
-      "artistStatementSource": "https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
-      "classicTitle": "Seattle OAC｜ARTS at King Street Station 2027 Exhibitions",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.seattle.gov/arts/opportunities/current-calls-and-funding",
-      "classicDesc": "邀請藝術家、策展人、組織與社區團體在歷史車站上層公共文化空間提出免費展覽與相關活動，優先支持受制度性壓迫影響的社群。",
-      "deadline": "2026-09-29T17:00:00-07:00",
-      "deadlineLabel": "截止 2026.09.29 17:00 PDT",
-      "deadlineTimezone": "America/Los_Angeles",
-      "deadlinePrecision": "time",
-      "organizer": "Seattle Office of Arts & Culture",
-      "eligibility": "位於西雅圖、與城市有深厚連結並經常在當地呈現作品的藝術家、策展人、組織或社區團體",
-      "budget": "每案最高 US$20,000",
-      "applicationFee": "免費",
-      "relatedByCity": [
-        "classic-global-2026-08-15-02",
-        "dynamic-2026-08-12-03",
-        "dynamic-2026-08-12-06",
-        "dynamic-2026-08-12-10",
-        "dynamic-2026-08-21-01",
-        "dynamic-2026-08-21-02",
-        "dynamic-2026-08-21-03",
-        "dynamic-2026-08-21-04",
-        "dynamic-2026-08-21-05",
-        "dynamic-2026-08-21-06",
-        "dynamic-2026-08-21-07",
-        "dynamic-2026-08-21-08",
-        "dynamic-2026-08-21-09",
-        "dynamic-2026-08-21-10",
-        "dynamic-2026-08-22-07",
-        "dynamic-2026-08-22-08",
-        "dynamic-2026-08-22-09",
-        "dynamic-2026-08-22-10",
-        "dynamic-2026-08-23-01",
-        "dynamic-2026-08-23-02",
-        "dynamic-2026-08-23-03",
-        "dynamic-2026-08-23-04",
-        "dynamic-2026-08-23-05",
-        "dynamic-2026-08-23-10",
-        "dynamic-2026-08-25-01",
-        "dynamic-2026-08-25-02",
-        "dynamic-2026-08-26-03",
-        "dynamic-2026-08-26-04",
-        "dynamic-2026-08-26-05"
       ]
     },
     {
@@ -1905,7 +1765,10 @@
         "german-classic-2026-09-28-19",
         "german-classic-2026-09-29-16",
         "german-classic-2026-09-29-20",
-        "german-classic-2026-09-30-17"
+        "german-classic-2026-09-30-17",
+        "german-classic-2026-10-01-17",
+        "german-classic-2026-10-01-19",
+        "german-classic-2026-10-01-20"
       ]
     },
     {
@@ -2070,7 +1933,10 @@
         "german-classic-2026-09-28-19",
         "german-classic-2026-09-29-16",
         "german-classic-2026-09-29-20",
-        "german-classic-2026-09-30-17"
+        "german-classic-2026-09-30-17",
+        "german-classic-2026-10-01-17",
+        "german-classic-2026-10-01-19",
+        "german-classic-2026-10-01-20"
       ]
     },
     {
@@ -2234,7 +2100,10 @@
         "german-classic-2026-09-28-19",
         "german-classic-2026-09-29-16",
         "german-classic-2026-09-29-20",
-        "german-classic-2026-09-30-17"
+        "german-classic-2026-09-30-17",
+        "german-classic-2026-10-01-17",
+        "german-classic-2026-10-01-19",
+        "german-classic-2026-10-01-20"
       ]
     },
     {
@@ -2398,7 +2267,10 @@
         "german-classic-2026-09-28-19",
         "german-classic-2026-09-29-16",
         "german-classic-2026-09-29-20",
-        "german-classic-2026-09-30-17"
+        "german-classic-2026-09-30-17",
+        "german-classic-2026-10-01-17",
+        "german-classic-2026-10-01-19",
+        "german-classic-2026-10-01-20"
       ]
     },
     {
@@ -2776,50 +2648,6 @@
       "budget": "每月 €1,600、十二個月；免租工作室住宅，另有計畫與旅費補助；住戶每月自付 €250 雜費",
       "applicationFee": "免費",
       "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-09-06",
-      "id": "competition-2026-09-06-03",
-      "dedupeKey": "opportunity-2027-frechen-graphic-triennale-21",
-      "name": "03｜Frechen｜第 21 屆國際版畫三年展",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "德國 / Frechen",
-      "cityKeywords": [
-        "Frechen",
-        "弗雷興",
-        "Cologne",
-        "科隆"
-      ],
-      "media": [
-        "版畫",
-        "國際三年展",
-        "藝術獎"
-      ],
-      "works": "國際當代版畫徵件｜截止 2026.09.29",
-      "comment": "以傳統木刻、網版、蝕刻到電腦輸出等廣義版畫為範圍，重點不是複製技術，而是媒材如何形成作品的內容與形式力量。",
-      "website": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
-      "workPage": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
-      "photo": "https://kunstverein-frechen.de/wp-content/uploads/2026/07/GT27_3.jpg",
-      "artistStatement": "以傳統木刻、網版、蝕刻到電腦輸出等廣義版畫為範圍，重點不是複製技術，而是媒材如何形成作品的內容與形式力量。",
-      "artistStatementSource": "https://kunstverein-frechen.de/call-for-entries-xxi-grafik-triennale-2027/",
-      "classicTitle": "Frechen｜第 21 屆國際版畫三年展",
-      "classicImage": "https://kunstverein-frechen.de/wp-content/uploads/2026/07/GT27_3.jpg",
-      "classicDesc": "以傳統木刻、網版、蝕刻到電腦輸出等廣義版畫為範圍，重點不是複製技術，而是媒材如何形成作品的內容與形式力量。",
-      "deadline": "2026-09-29T23:59:59+02:00",
-      "deadlineLabel": "2026.09.29",
-      "deadlineTimezone": "Europe/Berlin",
-      "deadlinePrecision": "date",
-      "organizer": "Kunstverein zu Frechen e. V.／Stadt Frechen",
-      "eligibility": "全球專業藝術家；作品須屬版畫領域，傳統與新式印製技術均可，三維或單件作品須具版畫關聯",
-      "budget": "一獎 €3,000、二獎 €2,000、三獎 €1,500；在學青年獎 €1,000、觀眾獎 €200",
-      "applicationFee": "€40",
-      "relatedByCity": [
-        "classic-german-2026-08-14-03",
-        "classic-german-2026-08-20-05"
-      ]
     },
     {
       "category": "公開徵件",
@@ -3393,7 +3221,10 @@
         "german-classic-2026-09-28-19",
         "german-classic-2026-09-29-16",
         "german-classic-2026-09-29-20",
-        "german-classic-2026-09-30-17"
+        "german-classic-2026-09-30-17",
+        "german-classic-2026-10-01-17",
+        "german-classic-2026-10-01-19",
+        "german-classic-2026-10-01-20"
       ]
     },
     {
@@ -3559,7 +3390,10 @@
         "german-classic-2026-09-28-19",
         "german-classic-2026-09-29-16",
         "german-classic-2026-09-29-20",
-        "german-classic-2026-09-30-17"
+        "german-classic-2026-09-30-17",
+        "german-classic-2026-10-01-17",
+        "german-classic-2026-10-01-19",
+        "german-classic-2026-10-01-20"
       ]
     },
     {
@@ -5562,47 +5396,6 @@
       "category": "公開徵件",
       "status": "可信二手來源",
       "updated": "2026-09-28",
-      "id": "competition-2026-09-28-04",
-      "dedupeKey": "opportunity-2026-09-28-maribyrnong-creative-west-light-gateway",
-      "name": "04｜Maribyrnong City Council｜Creative West Light-Based Gateway Sculpture",
-      "tier": "競圖資料庫",
-      "region": "大洋洲",
-      "country": "澳洲 / Footscray, Victoria",
-      "cityKeywords": [
-        "Footscray",
-        "富茨克雷",
-        "Maribyrnong",
-        "馬里比農"
-      ],
-      "media": [
-        "光/影像/投影",
-        "雕塑",
-        "建築/場域"
-      ],
-      "works": "Creative West Light-Based Gateway Sculpture｜截止 2026.09.30 17:00",
-      "comment": "Creative West 文化園區徵求沉浸式發光入口雕塑，藉夜間可視性、步行尺度與城市門戶意象強化場域辨識。",
-      "website": "https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
-      "workPage": "https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
-      "artistStatement": "Creative West 文化園區徵求沉浸式發光入口雕塑。",
-      "artistStatementSource": "https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
-      "classicTitle": "Creative West Light-Based Gateway Sculpture",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artshub.com.au/opportunity/creative-west-light-based-gateway-sculpture-commission-2873279/",
-      "classicDesc": "文化園區發光入口雕塑委託。",
-      "deadline": "2026-09-30T17:00:00+10:00",
-      "deadlineLabel": "截止 2026.09.30 17:00（AEST）",
-      "deadlineTimezone": "Australia/Melbourne",
-      "deadlinePrecision": "time",
-      "organizer": "Maribyrnong City Council",
-      "eligibility": "具經驗之澳洲當代藝術家",
-      "budget": "未公開",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "可信二手來源",
-      "updated": "2026-09-28",
       "id": "competition-2026-09-28-05",
       "dedupeKey": "opportunity-2026-09-28-geelong-city-hall-projections-eoi",
       "name": "05｜City of Greater Geelong｜City Hall Projections EOI",
@@ -6046,8 +5839,203 @@
       "budget": "每件入選作品 USD 1,500 酬金；最佳作品市府最高 USD 30,000 購藏",
       "applicationFee": "USD 25",
       "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "competition-2026-10-01-01",
+      "dedupeKey": "opportunity-2026-10-01-littleton-south-suburban-2027-art-on-loan",
+      "name": "01｜Littleton｜South Suburban 2027 Art On Loan",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Littleton, Colorado",
+      "cityKeywords": [
+        "Littleton",
+        "利特爾頓"
+      ],
+      "media": [
+        "戶外雕塑",
+        "一年借展",
+        "公共公園"
+      ],
+      "works": "South Suburban 2027 Art On Loan｜截止 2027.01.11 23:59 MST",
+      "comment": "為 Goodson Recreation Center、Bega Park 與 Hudson Gardens 徵選最多六件可全年戶外展示的雕塑，要求四面完成、安全、耐候並可固定於既有基座。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18129/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18129/CAFE",
+      "photo": "https://artist.callforentry.org/fair_logos/18129.jpeg",
+      "artistStatement": "為 Goodson Recreation Center、Bega Park 與 Hudson Gardens 徵選最多六件可全年戶外展示的雕塑，要求四面完成、安全、耐候並可固定於既有基座。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18129/CAFE",
+      "classicTitle": "Littleton｜South Suburban 2027 Art On Loan",
+      "classicImage": "https://artist.callforentry.org/fair_logos/18129.jpeg",
+      "classicDesc": "為 Goodson Recreation Center、Bega Park 與 Hudson Gardens 徵選最多六件可全年戶外展示的雕塑，要求四面完成、安全、耐候並可固定於既有基座。",
+      "deadline": "2027-01-11T23:59:00-07:00",
+      "deadlineLabel": "截止 2027.01.11 23:59 MST",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "South Suburban Park and Recreation District / SSPAC",
+      "eligibility": "曾在 Colorado 居住至少一年之藝術家；作品須為可四面觀看、耐候並適合公共互動的戶外雕塑",
+      "budget": "每件 USD 1,000 展出酬金",
+      "applicationFee": "USD 10",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "competition-2026-10-01-02",
+      "dedupeKey": "opportunity-2026-10-01-rancho-cucamonga-2026-mini-mural-project",
+      "name": "02｜Rancho Cucamonga｜2026 Mini Mural Project",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Rancho Cucamonga, California",
+      "cityKeywords": [
+        "Rancho Cucamonga",
+        "庫卡蒙格牧場市"
+      ],
+      "media": [
+        "公共壁畫",
+        "步道介入",
+        "場域特定"
+      ],
+      "works": "2026 Mini Mural Project｜截止 2026.10.22 23:59 PDT",
+      "comment": "在 Pacific Electric Trail 三處交會點的水泥導向標記上創作迷你壁畫，以城市五十週年、地方故事、自然與社群認同回應步行和自行車動線。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18032/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18032/CAFE",
+      "photo": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "artistStatement": "在 Pacific Electric Trail 三處交會點的水泥導向標記上創作迷你壁畫，以城市五十週年、地方故事、自然與社群認同回應步行和自行車動線。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18032/CAFE",
+      "classicTitle": "Rancho Cucamonga｜2026 Mini Mural Project",
+      "classicImage": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "classicDesc": "在 Pacific Electric Trail 三處交會點的水泥導向標記上創作迷你壁畫，以城市五十週年、地方故事、自然與社群認同回應步行和自行車動線。",
+      "deadline": "2026-10-22T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.10.22 23:59 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Rancho Cucamonga",
+      "eligibility": "年滿 18 歲之專業藝術家；Inland Empire 居民優先",
+      "budget": "每個導向標記 USD 1,500（含設計、材料與施作）",
+      "applicationFee": "免費",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "competition-2026-10-01-03",
+      "dedupeKey": "opportunity-2026-10-01-hopkins-hopkins-artstreet-27-28",
+      "name": "03｜Hopkins｜Hopkins ArtStreet 27–28",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Hopkins, Minnesota",
+      "cityKeywords": [
+        "Hopkins",
+        "霍普金斯"
+      ],
+      "media": [
+        "戶外公共藝術",
+        "一年借展",
+        "互動與動力作品"
+      ],
+      "works": "Hopkins ArtStreet 27–28｜截止 2027.01.24 23:59 CST",
+      "comment": "為歷史 Mainstreet 周邊徵選一年期戶外作品，鼓勵大型、互動、反射或動力形式；計畫把永久與輪替藝術帶入高流量街區。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18269/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18269/CAFE",
+      "photo": "https://artist.callforentry.org/fair_logos/18269.jpeg",
+      "artistStatement": "為歷史 Mainstreet 周邊徵選一年期戶外作品，鼓勵大型、互動、反射或動力形式；計畫把永久與輪替藝術帶入高流量街區。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18269/CAFE",
+      "classicTitle": "Hopkins｜Hopkins ArtStreet 27–28",
+      "classicImage": "https://artist.callforentry.org/fair_logos/18269.jpeg",
+      "classicDesc": "為歷史 Mainstreet 周邊徵選一年期戶外作品，鼓勵大型、互動、反射或動力形式；計畫把永久與輪替藝術帶入高流量街區。",
+      "deadline": "2027-01-24T23:59:00-06:00",
+      "deadlineLabel": "截止 2027.01.24 23:59 CST",
+      "deadlineTimezone": "America/Chicago",
+      "deadlinePrecision": "time",
+      "organizer": "Friends of the Hopkins Center for the Arts",
+      "eligibility": "全美新進或成熟藝術家；作品須原創、耐候、安全且適合全年戶外展示",
+      "budget": "每位入選者 USD 1,000 交通酬金；另設 USD 1,000／300／300 獎項",
+      "applicationFee": "首件 USD 25；追加每件 USD 5",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "competition-2026-10-01-04",
+      "dedupeKey": "opportunity-2026-10-01-evergreen-sculpture-showcase-2027-2028",
+      "name": "04｜Evergreen｜Sculpture Showcase 2027–2028",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Evergreen, Colorado",
+      "cityKeywords": [
+        "Evergreen",
+        "埃弗格林"
+      ],
+      "media": [
+        "大型戶外雕塑",
+        "一年借展",
+        "城市公共藝術"
+      ],
+      "works": "Sculpture Showcase 2027–2028｜截止 2027.02.04 23:59 MST",
+      "comment": "徵選最多十六件高度至少四英尺的大型戶外雕塑，需能承受每小時百英里陣風並於 Evergreen 展示一年。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18218/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18218/CAFE",
+      "photo": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "artistStatement": "徵選最多十六件高度至少四英尺的大型戶外雕塑，需能承受每小時百英里陣風並於 Evergreen 展示一年。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18218/CAFE",
+      "classicTitle": "Evergreen｜Sculpture Showcase 2027–2028",
+      "classicImage": "https://opportunities.wearecreativewest.org/png/logo.png",
+      "classicDesc": "徵選最多十六件高度至少四英尺的大型戶外雕塑，需能承受每小時百英里陣風並於 Evergreen 展示一年。",
+      "deadline": "2027-02-04T23:59:00-07:00",
+      "deadlineLabel": "截止 2027.02.04 23:59 MST",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "Center for the Arts Evergreen / Sculpture Evergreen",
+      "eligibility": "美國境內藝術家；須提交已完成原作，至少四英尺高、可安全固定且適合全年戶外展示",
+      "budget": "每件 USD 1,200 酬金；評審獎 USD 1,000",
+      "applicationFee": "USD 35（兩件）；第三件加 USD 10",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-01",
+      "id": "competition-2026-10-01-05",
+      "dedupeKey": "opportunity-2026-10-01-albuquerque-sawmural-mini-mural-festival",
+      "name": "05｜Albuquerque｜SawMural! Mini-Mural Festival",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Albuquerque, New Mexico",
+      "cityKeywords": [
+        "Albuquerque",
+        "阿布奎基"
+      ],
+      "media": [
+        "公共壁畫",
+        "城市步道",
+        "開放式藝廊"
+      ],
+      "works": "SawMural! Mini-Mural Festival｜截止 2026.11.13 23:59 MST",
+      "comment": "在 Rail Trail 的 Sawmill 路段設置最多二十幅 48 × 72 英寸壁畫板，把一千英尺通道轉為戶外藝廊並支持地方創意工作者。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18027/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18027/CAFE",
+      "photo": "https://artist.callforentry.org/fair_logos/18027.jpeg",
+      "artistStatement": "在 Rail Trail 的 Sawmill 路段設置最多二十幅 48 × 72 英寸壁畫板，把一千英尺通道轉為戶外藝廊並支持地方創意工作者。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18027/CAFE",
+      "classicTitle": "Albuquerque｜SawMural! Mini-Mural Festival",
+      "classicImage": "https://artist.callforentry.org/fair_logos/18027.jpeg",
+      "classicDesc": "在 Rail Trail 的 Sawmill 路段設置最多二十幅 48 × 72 英寸壁畫板，把一千英尺通道轉為戶外藝廊並支持地方創意工作者。",
+      "deadline": "2026-11-13T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.11.13 23:59 MST",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "City of Albuquerque Public Art Urban Enhancement Division",
+      "eligibility": "限 Albuquerque 大都會 Bernalillo、Sandoval、Torrance、Valencia 四郡合法居民",
+      "budget": "每位／團隊 USD 4,000",
+      "applicationFee": "免費",
+      "relatedByCity": []
     }
   ],
-  "updated": "2026-09-30",
-  "generatedAt": "2026-09-30T05:04:01+08:00"
+  "updated": "2026-10-01",
+  "generatedAt": "2026-10-01T04:59:02+08:00"
 }
