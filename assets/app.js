@@ -689,38 +689,6 @@
     });
   }
 
-  function loadDailyArchive() {
-    var manifests = ['backfill-july-manifest.json', 'backfill-august-manifest.json',
-      'backfill-september-manifest.json', 'backfill-october-manifest.json'];
-    return Promise.all(manifests.map(function (file) {
-      return fetch('data/' + file + '?t=' + Date.now()).then(function (r) {
-        if (!r.ok) throw new Error(file + ': ' + r.status);
-        return r.json();
-      });
-    })).then(function (items) {
-      var files = [];
-      items.forEach(function (manifest) {
-        (manifest.files || []).forEach(function (file) {
-          if (files.indexOf(file) < 0) files.push(file);
-        });
-      });
-      return Promise.all(files.map(function (file) {
-        return fetch('data/' + file + '?t=' + Date.now()).then(function (r) {
-          if (!r.ok) throw new Error(file + ': ' + r.status);
-          return r.json();
-        });
-      })).then(function (archives) {
-        return {
-          version: items[items.length - 1].version,
-          generatedAt: items[items.length - 1].generatedAt,
-          entries: archives.reduce(function (all, archive) {
-            return all.concat(archive.entries || []);
-          }, [])
-        };
-      });
-    });
-  }
-
   Promise.all([
     fetch('data/artists.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/exhibitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
@@ -728,32 +696,22 @@
     fetch('data/competition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/exhibition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/landmark-events.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
-    fetch('data/landmark-event-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
-    loadDailyArchive()
+    fetch('data/landmark-event-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
   ])
     .then(function (payloads) {
       var json = payloads[0];
       var exhibitions = payloads[1];
       var competitions = payloads[2];
       META = json.meta || {};
-      META.backfillVersion = payloads[7].version || '';
-      META.generatedAt = payloads[7].generatedAt || META.generatedAt;
       META.competitionManifestVersion = payloads[3].version || '';
       META.exhibitionManifestVersion = payloads[4].version || '';
       META.landmarkEventManifestVersion = payloads[6].version || '';
       META.exhibitionTotal = (exhibitions.entries || []).length;
       META.landmarkEventTotal = (payloads[5].entries || []).length;
       var rawEntries = (Array.isArray(json) ? json : (json.entries || []))
-        .concat(payloads[7].entries || [])
         .concat(exhibitions.entries || [])
         .concat(payloads[5].entries || [])
         .concat((competitions.entries || []).filter(function (entry) { return !isExpired(entry); }));
-      var unique = {};
-      rawEntries.forEach(function (entry, index) {
-        var key = entry.dedupeKey || entry.id || ('entry-' + index);
-        unique[key] = entry;
-      });
-      rawEntries = Object.keys(unique).map(function (key) { return unique[key]; });
       DATA = rawEntries.map(normalizeEntry).filter(function (e) { return e.name && e.name !== '未命名條目'; });
       DATA.forEach(function (entry) {
         entry.relatedByCity = DATA.filter(function (candidate) {
