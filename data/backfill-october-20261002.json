@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-02T05:15:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-02",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte 與 Association for Public Art 第一方作品頁",
+    "selectionPolicy": "已實現且持續存在的場域介入、建築整合、互動、環境與觀念性公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/02 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-10-02T05:15:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-02T05:15:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-01",
+      "dedupeKey": "art-formalhaut-andreas-sobeck-o-t-tribune",
+      "name": "01｜Formalhaut 與 Andreas Sobeck｜o. T. (Tribüne)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "可使用建築構造",
+        "鋼、壓克力玻璃與彩繪"
+      ],
+      "works": "o. T. (Tribüne)｜1993",
+      "comment": "四階鋁製看臺與樹枝般分岔的鋼柱支撐半透明屋頂，藍綠筆觸既呼應後方樹列，也以近似迷彩的節奏鬆動軍事空間的秩序感。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-tribune",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-tribune",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fe0b5360b08501204f6609f112c5e1649efab000.jpg",
+      "artistStatement": "四階鋁製看臺與樹枝般分岔的鋼柱支撐半透明屋頂，藍綠筆觸既呼應後方樹列，也以近似迷彩的節奏鬆動軍事空間的秩序感。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-tribune",
+      "classicTitle": "o. T. (Tribüne)｜1993",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fe0b5360b08501204f6609f112c5e1649efab000.jpg",
+      "classicDesc": "作品把功能性看臺、景觀與繪畫合成一個可使用的建築介入。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-02",
+      "dedupeKey": "art-barbara-frie-die-gelassenheit-der-augen-im-hinblick-auf-das-rauschen-das-spiel-der-erweiterung-in-den-moglichkeiten-des-raumes",
+      "name": "02｜Barbara Frieß｜Die Gelassenheit der Augen im Hinblick auf das Rauschen & Das Spiel der Erweiterung in den Möglichkeiten des Raumes",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "樓梯空間介入",
+        "玻璃貼膜與壁畫"
+      ],
+      "works": "Die Gelassenheit der Augen im Hinblick auf das Rauschen & Das Spiel der Erweiterung in den Möglichkeiten des Raumes｜2000",
+      "comment": "人物輪廓與文字片段跨越六層樓梯間，在玻璃內外形成連續動作；望遠鏡、書本般的物件與行走路徑共同討論觀看、辨識和空間定位。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-gelassenheit-der-augen-im-hinblick-auf-das-rauschen-das-spiel-der-erweiterung-in-den-moglichkeiten-des-raumes",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-gelassenheit-der-augen-im-hinblick-auf-das-rauschen-das-spiel-der-erweiterung-in-den-moglichkeiten-des-raumes",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/3404f22aa0dda625f46533e5016314e18e64255c.jpg",
+      "artistStatement": "人物輪廓與文字片段跨越六層樓梯間，在玻璃內外形成連續動作；望遠鏡、書本般的物件與行走路徑共同討論觀看、辨識和空間定位。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-gelassenheit-der-augen-im-hinblick-auf-das-rauschen-das-spiel-der-erweiterung-in-den-moglichkeiten-des-raumes",
+      "classicTitle": "Die Gelassenheit der Augen im Hinblick auf das Rauschen & Das Spiel der Erweiterung in den Möglichkeiten des Raumes｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/3404f22aa0dda625f46533e5016314e18e64255c.jpg",
+      "classicDesc": "「詩圖像」不是裝飾牆面，而把上下樓的時間轉成觀看練習。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-03",
+      "dedupeKey": "art-claudia-fahrenkemper-o-t-pflanzensamen",
+      "name": "03｜Claudia Fährenkemper｜o. T. (Pflanzensamen)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "顯微攝影",
+        "重晶紙黑白攝影"
+      ],
+      "works": "o. T. (Pflanzensamen)｜2011",
+      "comment": "二十一幅電子顯微鏡影像放大作物、藥草與野生植物種子，使肉眼不可見的結構成為走廊中的黑白節奏，並回應農業部的機構職能。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-pflanzensamen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-pflanzensamen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/261eac00d2407ca07faa77e4d7472f7b951c5212.jpg",
+      "artistStatement": "二十一幅電子顯微鏡影像放大作物、藥草與野生植物種子，使肉眼不可見的結構成為走廊中的黑白節奏，並回應農業部的機構職能。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-pflanzensamen",
+      "classicTitle": "o. T. (Pflanzensamen)｜2011",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/261eac00d2407ca07faa77e4d7472f7b951c5212.jpg",
+      "classicDesc": "科學影像被轉成建築中的尺度介面，讓微觀自然與公共機構相遇。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-04",
+      "dedupeKey": "art-gunther-forg-o-t-verkleidung",
+      "name": "04｜Günther Förg｜o. T. (Verkleidung)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "建築整合",
+        "銅合金板覆面"
+      ],
+      "works": "o. T. (Verkleidung)｜2002",
+      "comment": "藝術家以帶褐色縱紋的氧化黃銅板包覆中庭三個會議廳量體，板材如錯縫砌體般排列，使材料、色澤與建築節奏彼此不可分離。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-verkleidung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-verkleidung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ef96a36e264159c16ec5748217f932fcfd7adb01.jpg",
+      "artistStatement": "藝術家以帶褐色縱紋的氧化黃銅板包覆中庭三個會議廳量體，板材如錯縫砌體般排列，使材料、色澤與建築節奏彼此不可分離。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-verkleidung",
+      "classicTitle": "o. T. (Verkleidung)｜2002",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ef96a36e264159c16ec5748217f932fcfd7adb01.jpg",
+      "classicDesc": "這是藝術與建築真正整合的案例：作品不是附著物，而是空間體量的表皮。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-05",
+      "dedupeKey": "art-roland-fuhrmann-zusammenhalt",
+      "name": "05｜Roland Fuhrmann｜Zusammenhalt",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "戶外裝置",
+        "不鏽鋼、數位印刷與變形圖像"
+      ],
+      "works": "Zusammenhalt｜2017",
+      "comment": "三十支彩色方柱在建築與公園之間形成流動場；觀者走到特定視點時，柱面碎片會合成不同年齡與背景的人群影像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zusammenhalt",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zusammenhalt",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/67be782852b6aa7c3beda0d0328b1519b25856ee.jpg",
+      "artistStatement": "三十支彩色方柱在建築與公園之間形成流動場；觀者走到特定視點時，柱面碎片會合成不同年齡與背景的人群影像。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zusammenhalt",
+      "classicTitle": "Zusammenhalt｜2017",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/67be782852b6aa7c3beda0d0328b1519b25856ee.jpg",
+      "classicDesc": "以視差和變形圖像把「社會凝聚」變成必須移動身體才能看見的公共經驗。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-06",
+      "dedupeKey": "art-roland-fuhrmann-freilegung",
+      "name": "06｜Roland Fuhrmann｜Freilegung",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Potsdam",
+      "cityKeywords": [
+        "Potsdam",
+        "波茲坦"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "牆面裝置",
+        "數位版畫與貝殼金"
+      ],
+      "works": "Freilegung｜2017",
+      "comment": "一百二十八個來自宮殿壁畫、壁紙與織品的圖像碎片散布於三座樓梯廳，像修復現場的探查窗，在新建築中重新暴露歷史層次。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/freilegung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/freilegung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/99d9fd43eceec78d845632005551abd4ea450275.jpg",
+      "artistStatement": "一百二十八個來自宮殿壁畫、壁紙與織品的圖像碎片散布於三座樓梯廳，像修復現場的探查窗，在新建築中重新暴露歷史層次。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/freilegung",
+      "classicTitle": "Freilegung｜2017",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/99d9fd43eceec78d845632005551abd4ea450275.jpg",
+      "classicDesc": "以碎片、引文與「揭露」方法回應修復中心的工作，也質疑重建中的真實性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-07",
+      "dedupeKey": "art-sabine-funke-o-t-wandmalerei",
+      "name": "07｜Sabine Funke｜o. T. (Wandmalerei)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Köln-Wahn",
+      "cityKeywords": [
+        "Cologne",
+        "Köln",
+        "科隆"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "色域壁畫",
+        "壓克力外牆塗料"
+      ],
+      "works": "o. T. (Wandmalerei)｜2007",
+      "comment": "綠與橙色幾何色域沿候機大廳牆面展開，並把柱列與入口納入構圖；平面顏色因此產生節奏、深度和方向。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandmalerei",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandmalerei",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/31f8aea73c56bac4b4ab251ee3ced826b6130179.jpg",
+      "artistStatement": "綠與橙色幾何色域沿候機大廳牆面展開，並把柱列與入口納入構圖；平面顏色因此產生節奏、深度和方向。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandmalerei",
+      "classicTitle": "o. T. (Wandmalerei)｜2007",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/31f8aea73c56bac4b4ab251ee3ced826b6130179.jpg",
+      "classicDesc": "作品在不占用通行空間的前提下，用色彩重塑大型公共等候空間的感知。",
+      "relatedByCity": [
+        "competition-2026-08-29-02"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-08",
+      "dedupeKey": "art-philipp-fritzsche-neugier",
+      "name": "08｜Philipp Fritzsche｜Neugier",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "動力裝置",
+        "鏡面球體與鋼軌"
+      ],
+      "works": "Neugier｜2001",
+      "comment": "兩枚鏡面球沿建築外牆四層高的鋼軌獨立上下移動，既像研究儀器，也像監視眼睛；作品把建築曾受監控的歷史轉化為公共立面上的運動。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/neugier",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/neugier",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/a9248ef167c9a779aa348737be5edf4225b7dd9f.jpg",
+      "artistStatement": "兩枚鏡面球沿建築外牆四層高的鋼軌獨立上下移動，既像研究儀器，也像監視眼睛；作品把建築曾受監控的歷史轉化為公共立面上的運動。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/neugier",
+      "classicTitle": "Neugier｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/a9248ef167c9a779aa348737be5edf4225b7dd9f.jpg",
+      "classicDesc": "以動力和反射讓「好奇」在觀看、研究與監控之間保持不安的雙義。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-09",
+      "dedupeKey": "art-jochen-gerz-das-geld-die-liebe-der-tod-die-freiheit-was-zahlt-am-ende",
+      "name": "09｜Jochen Gerz｜Das Geld, die Liebe, der Tod, die Freiheit – was zählt am Ende?",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "互動影像",
+        "螢幕、訪談與公共參與"
+      ],
+      "works": "Das Geld, die Liebe, der Tod, die Freiheit – was zählt am Ende?｜2000",
+      "comment": "行人按鍵後可在財政部入口兩側觀看隨機出現的員工訪談；個體聲音被置入具有威權歷史的巨型建築，對抗匿名與紀念性。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-geld-die-liebe-der-tod-die-freiheit-was-zahlt-am-ende",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-geld-die-liebe-der-tod-die-freiheit-was-zahlt-am-ende",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/137147effdd2f657afc8dbc538230c564c8eb134.jpg",
+      "artistStatement": "行人按鍵後可在財政部入口兩側觀看隨機出現的員工訪談；個體聲音被置入具有威權歷史的巨型建築，對抗匿名與紀念性。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-geld-die-liebe-der-tod-die-freiheit-was-zahlt-am-ende",
+      "classicTitle": "Das Geld, die Liebe, der Tod, die Freiheit – was zählt am Ende?｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/137147effdd2f657afc8dbc538230c564c8eb134.jpg",
+      "classicDesc": "作品用時間性的影像和普通人的回答，重新分配歷史建築中的發言權。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "current-2026-10-02-10",
+      "dedupeKey": "art-katharina-grosse-o-t",
+      "name": "10｜Katharina Grosse｜o. T.",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "擴張繪畫",
+        "混凝土上的壓克力噴畫"
+      ],
+      "works": "o. T.｜2015",
+      "comment": "五面大型清水混凝土牆被壓克力噴畫轉成三百三十平方公尺的流動色域；色彩尊重建築邊界，卻以身體性的筆勢重新占有整座大廳。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-7",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-7",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c967b12867ad9a4642dff36de701ec82fb4c1848.jpg",
+      "artistStatement": "五面大型清水混凝土牆被壓克力噴畫轉成三百三十平方公尺的流動色域；色彩尊重建築邊界，卻以身體性的筆勢重新占有整座大廳。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-7",
+      "classicTitle": "o. T.｜2015",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c967b12867ad9a4642dff36de701ec82fb4c1848.jpg",
+      "classicDesc": "繪畫從畫布擴張為建築中的空間事件，觀者在尺度與色流之間定位自身。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "global-classic-2026-10-02-11",
+      "dedupeKey": "art-rafael-ferrer-el-gran-teatro-de-la-luna",
+      "name": "11｜Rafael Ferrer｜El Gran Teatro de la Luna",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "公園裝置",
+        "彩繪鋁與環氧塗料"
+      ],
+      "works": "El Gran Teatro de la Luna｜1982／2012 重裝",
+      "comment": "六十英尺長的彩色鋁構把字母、月亮、輪子與雜耍剪影連成公園邊界；作品在修復後重新進入社區日常，而不是以單一英雄人物占據廣場。",
+      "website": "https://associationforpublicart.org/artwork/el-gran-teatro-de-la-luna/",
+      "workPage": "https://associationforpublicart.org/artwork/el-gran-teatro-de-la-luna/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/El_Gran_Teatro_1400x1400.jpg",
+      "artistStatement": "六十英尺長的彩色鋁構把字母、月亮、輪子與雜耍剪影連成公園邊界；作品在修復後重新進入社區日常，而不是以單一英雄人物占據廣場。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/el-gran-teatro-de-la-luna/",
+      "classicTitle": "El Gran Teatro de la Luna｜1982／2012 重裝",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/El_Gran_Teatro_1400x1400.jpg",
+      "classicDesc": "以戲劇性的線性構圖和社區公園共存，是形式、功能與公共生活結合的經典。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "global-classic-2026-10-02-12",
+      "dedupeKey": "art-diane-pieri-manayunk-stoops-heart-and-home",
+      "name": "12｜Diane Pieri｜Manayunk Stoops: Heart and Home",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "社區地景",
+        "玻璃馬賽克與混凝土"
+      ],
+      "works": "Manayunk Stoops: Heart and Home｜2006",
+      "comment": "九座馬賽克「門階」沿運河步道分布，圖像取自地方植物、動物與工業記憶；可坐構件把街坊在門前交談的文化帶到公共水岸。",
+      "website": "https://associationforpublicart.org/artwork/manayunk-stoops-heart-and-home/",
+      "workPage": "https://associationforpublicart.org/artwork/manayunk-stoops-heart-and-home/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Manayunk_Stoops_Pieri_aPA.jpg",
+      "artistStatement": "九座馬賽克「門階」沿運河步道分布，圖像取自地方植物、動物與工業記憶；可坐構件把街坊在門前交談的文化帶到公共水岸。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/manayunk-stoops-heart-and-home/",
+      "classicTitle": "Manayunk Stoops: Heart and Home｜2006",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Manayunk_Stoops_Pieri_aPA.jpg",
+      "classicDesc": "以家具、步道與社區工作坊重寫地方公共性，是參與式場域藝術的代表。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "global-classic-2026-10-02-13",
+      "dedupeKey": "art-lonnie-graham-lorene-cary-john-h-stone-common-ground",
+      "name": "13｜Lonnie Graham、Lorene Cary、John H. Stone｜Common Ground",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "社群建築",
+        "鋼、木、石材、光與文字"
+      ],
+      "works": "Common Ground｜2009",
+      "comment": "作品在遭火災焚毀的教堂基址上建造露天聖所、文字門廊與公共室內空間，與反無家者組織合作，提供聚會、追憶與慶祝的場所。",
+      "website": "https://associationforpublicart.org/artwork/common-ground/",
+      "workPage": "https://associationforpublicart.org/artwork/common-ground/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2015/10/78.-2009_Common-Ground-Sanctuary-scaled.jpg",
+      "artistStatement": "作品在遭火災焚毀的教堂基址上建造露天聖所、文字門廊與公共室內空間，與反無家者組織合作，提供聚會、追憶與慶祝的場所。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/common-ground/",
+      "classicTitle": "Common Ground｜2009",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2015/10/78.-2009_Common-Ground-Sanctuary-scaled.jpg",
+      "classicDesc": "紀念不靠塑像，而以可持續使用的共同空間保存社群歷史。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "global-classic-2026-10-02-14",
+      "dedupeKey": "art-claes-oldenburg-coosje-van-bruggen-split-button",
+      "name": "14｜Claes Oldenburg、Coosje van Bruggen｜Split Button",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "尺度轉換",
+        "彩繪鋁"
+      ],
+      "works": "Split Button｜1981",
+      "comment": "直徑十六英尺的白色鈕扣被切開、傾斜並壓入校園廣場，日常小物因尺度錯置而成為座椅、遊戲空間和身體穿行的公共地形。",
+      "website": "https://associationforpublicart.org/artwork/split-button/",
+      "workPage": "https://associationforpublicart.org/artwork/split-button/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Split_Button_Oldenburg_University_City_Photo_A_Lippolis_aPA_3.jpg",
+      "artistStatement": "直徑十六英尺的白色鈕扣被切開、傾斜並壓入校園廣場，日常小物因尺度錯置而成為座椅、遊戲空間和身體穿行的公共地形。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/split-button/",
+      "classicTitle": "Split Button｜1981",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Split_Button_Oldenburg_University_City_Photo_A_Lippolis_aPA_3.jpg",
+      "classicDesc": "以幽默的尺度轉換打破紀念雕塑慣例，讓使用行為完成作品。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "global-classic-2026-10-02-15",
+      "dedupeKey": "art-robert-indiana-amor",
+      "name": "15｜Robert Indiana｜AMOR",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "文字雕塑",
+        "彩繪鋁"
+      ],
+      "works": "AMOR｜1998／2016 永久設置",
+      "comment": "紅藍色字母以傾斜的 O 打破方整結構，西班牙語與拉丁語共享的「愛」被置於姐妹城市公園，回應城市多語人口與公共認同。",
+      "website": "https://associationforpublicart.org/artwork/amor/",
+      "workPage": "https://associationforpublicart.org/artwork/amor/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/AMOR_Rogers_2016_aPA-1-4.jpg",
+      "artistStatement": "紅藍色字母以傾斜的 O 打破方整結構，西班牙語與拉丁語共享的「愛」被置於姐妹城市公園，回應城市多語人口與公共認同。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/amor/",
+      "classicTitle": "AMOR｜1998／2016 永久設置",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/AMOR_Rogers_2016_aPA-1-4.jpg",
+      "classicDesc": "文字在城市尺度中成為可共同辨認的符號，也讓語言本身成為公共材料。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "german-classic-2026-10-02-16",
+      "dedupeKey": "art-edgar-gutbub-dialog-zwischen-quadratischem-und-dreieckigem-stein",
+      "name": "16｜Edgar Gutbub｜Dialog zwischen quadratischem und dreieckigem Stein",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "芬蘭 / Helsinki",
+      "cityKeywords": [
+        "Helsinki",
+        "Helsingfors",
+        "赫爾辛基"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "庭園雕塑",
+        "紅色花崗岩"
+      ],
+      "works": "Dialog zwischen quadratischem und dreieckigem Stein｜1993",
+      "comment": "方形與三角形紅色花崗岩在大使館庭園中相對，兼具雕塑與座位；封閉與開放的坐姿分別把身體導向自我和遠方水岸。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/dialog-zwischen-quadratischem-und-dreieckigem-stein",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/dialog-zwischen-quadratischem-und-dreieckigem-stein",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e647d73b1a11271228bd37b94426486e4d05b46e.jpg",
+      "artistStatement": "方形與三角形紅色花崗岩在大使館庭園中相對，兼具雕塑與座位；封閉與開放的坐姿分別把身體導向自我和遠方水岸。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/dialog-zwischen-quadratischem-und-dreieckigem-stein",
+      "classicTitle": "Dialog zwischen quadratischem und dreieckigem Stein｜1993",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e647d73b1a11271228bd37b94426486e4d05b46e.jpg",
+      "classicDesc": "簡單幾何透過可坐性與景觀視線形成真正的空間對話。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "german-classic-2026-10-02-17",
+      "dedupeKey": "art-otto-herbert-hajek-zeichen-fur-montevideo",
+      "name": "17｜Otto Herbert Hajek｜Zeichen für Montevideo",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "烏拉圭 / Montevideo",
+      "cityKeywords": [
+        "Montevideo",
+        "蒙特維多"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "整合性環境",
+        "彩色混凝土與噴泉"
+      ],
+      "works": "Zeichen für Montevideo｜1974",
+      "comment": "彩色混凝土立柱、噴泉、入口、壁面和浮雕組成跨越內外的「城市標誌」，用紅黃藍幾何路徑對抗建築的灰色功能主義。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeichen-fur-montevideo",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeichen-fur-montevideo",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e9ba3e40655b36aba6173ea8e73f23815994da60.jpg",
+      "artistStatement": "彩色混凝土立柱、噴泉、入口、壁面和浮雕組成跨越內外的「城市標誌」，用紅黃藍幾何路徑對抗建築的灰色功能主義。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeichen-fur-montevideo",
+      "classicTitle": "Zeichen für Montevideo｜1974",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e9ba3e40655b36aba6173ea8e73f23815994da60.jpg",
+      "classicDesc": "藝術不美化建築，而以色彩、方向與公共通行介入生活條件。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "german-classic-2026-10-02-18",
+      "dedupeKey": "art-otto-herbert-hajek-farbwege-durchdringen-den-raum",
+      "name": "18｜Otto Herbert Hajek｜Farbwege durchdringen den Raum",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "建築整合",
+        "油彩畫板與花崗岩浮雕"
+      ],
+      "works": "Farbwege durchdringen den Raum｜1989",
+      "comment": "七幅紅黃藍畫板接續地面網格，並與電梯塔上的花崗岩浮雕共同建立「移動與動力」；色彩軌跡像交通流穿透入口大廳。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbwege-durchdringen-den-raum-wandbild-und-granitwand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbwege-durchdringen-den-raum-wandbild-und-granitwand",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/47677d0a8d1be1061779a8cc01ee12046446369a.jpg",
+      "artistStatement": "七幅紅黃藍畫板接續地面網格，並與電梯塔上的花崗岩浮雕共同建立「移動與動力」；色彩軌跡像交通流穿透入口大廳。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farbwege-durchdringen-den-raum-wandbild-und-granitwand",
+      "classicTitle": "Farbwege durchdringen den Raum｜1989",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/47677d0a8d1be1061779a8cc01ee12046446369a.jpg",
+      "classicDesc": "以平面與立體兩種速度回應交通部，將機構主題轉成空間節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "german-classic-2026-10-02-19",
+      "dedupeKey": "art-erich-hauser-13-75-sechs-bodenreliefs",
+      "name": "19｜Erich Hauser｜13/75 (sechs Bodenreliefs)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "地面雕塑",
+        "不鏽鋼與紅色花崗岩"
+      ],
+      "works": "13/75 (sechs Bodenreliefs)｜1975",
+      "comment": "六件低矮圓形不鏽鋼體散布於前聯邦總理府入口，刻意拒絕英雄式垂直紀念物；水平配置在通行中創造停頓，並連接建築與綠地。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/13-75-sechs-bodenreliefs",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/13-75-sechs-bodenreliefs",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/be3b959d015f2d98320fd0282961c51513010a32.jpg",
+      "artistStatement": "六件低矮圓形不鏽鋼體散布於前聯邦總理府入口，刻意拒絕英雄式垂直紀念物；水平配置在通行中創造停頓，並連接建築與綠地。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/13-75-sechs-bodenreliefs",
+      "classicTitle": "13/75 (sechs Bodenreliefs)｜1975",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/be3b959d015f2d98320fd0282961c51513010a32.jpg",
+      "classicDesc": "作品把民主建築的克制轉化為反紀念碑的空間語言。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-02",
+      "id": "german-classic-2026-10-02-20",
+      "dedupeKey": "art-haus-rucker-co-pavillon-der-elemente",
+      "name": "20｜Haus-Rucker-Co｜Pavillon der Elemente",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "可進入裝置",
+        "耐候鋼、鋼架與燈光"
+      ],
+      "works": "Pavillon der Elemente｜1980",
+      "comment": "一百零五塊耐候鋼地板標示化學元素，三種柱形分別象徵固態、液態與氣態；座階與燈光把抽象分類轉成可進入的戶外建築。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pavillon-der-elemente",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pavillon-der-elemente",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0a0b72f966d1e10e627ff0216b6f15977cee77eb.jpg",
+      "artistStatement": "一百零五塊耐候鋼地板標示化學元素，三種柱形分別象徵固態、液態與氣態；座階與燈光把抽象分類轉成可進入的戶外建築。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/pavillon-der-elemente",
+      "classicTitle": "Pavillon der Elemente｜1980",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0a0b72f966d1e10e627ff0216b6f15977cee77eb.jpg",
+      "classicDesc": "介於科學圖表、建築與公共場所，是奧地利前衛空間實踐進入聯邦建築的經典。",
+      "relatedByCity": []
+    }
+  ]
+}
