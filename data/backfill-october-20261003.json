@@ -1,0 +1,681 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-03T05:25:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-03",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte 與 Association for Public Art 第一方作品頁",
+    "selectionPolicy": "已實現且持續存在的場域介入、建築整合、互動、環境與觀念性公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/03 固定 10＋5＋5。",
+    "linkAudit": {
+      "checkedAt": "2026-10-03T05:25:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-03T05:25:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方圖片 URL 回讀"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-01",
+      "dedupeKey": "art-sabrina-hohmann-ein-schwarm",
+      "name": "01｜Sabrina Hohmann｜Ein Schwarm",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Ahrensfelde",
+      "cityKeywords": [
+        "Ahrensfelde",
+        "阿倫斯費爾德"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "空間裝置",
+        "六百個鋁門把"
+      ],
+      "works": "Ein Schwarm｜1998",
+      "comment": "六百個磨砂鋁門把在聯邦警察飛行隊大廳牆面形成鳥群般的疏密與方向；門把同時延伸至整棟建築的日常門扇，使現成物、移動與跨越國界的隱喻連成一體。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-schwarm",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-schwarm",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6669eb5b268e34daeea2600200b6476a9ca207e8.jpg",
+      "artistStatement": "六百個磨砂鋁門把在聯邦警察飛行隊大廳牆面形成鳥群般的疏密與方向；門把同時延伸至整棟建築的日常門扇，使現成物、移動與跨越國界的隱喻連成一體。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-schwarm",
+      "classicTitle": "Ein Schwarm｜1998",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6669eb5b268e34daeea2600200b6476a9ca207e8.jpg",
+      "classicDesc": "作品把飛行主題轉為可沿牆閱讀的集體運動，也讓功能五金成為建築節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-02",
+      "dedupeKey": "art-christiane-mobus-auf-und-ab-und-unterwegs",
+      "name": "02｜Christiane Möbus｜Auf und ab und unterwegs",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "動力空間裝置",
+        "賽艇、鋼索與馬達"
+      ],
+      "works": "Auf und ab und unterwegs｜2001",
+      "comment": "四艘黑、紅、黃、藍競賽八人艇以馬達懸吊於國會建築入口大廳上方，時而升降、時而交錯；政治協商被轉譯為多人同舟、節奏一致卻持續變動的空間圖像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-und-ab-und-unterwegs",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-und-ab-und-unterwegs",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/98529d5ca3da8983cb54799818263b4889696ad3.jpg",
+      "artistStatement": "四艘黑、紅、黃、藍競賽八人艇以馬達懸吊於國會建築入口大廳上方，時而升降、時而交錯；政治協商被轉譯為多人同舟、節奏一致卻持續變動的空間圖像。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-und-ab-und-unterwegs",
+      "classicTitle": "Auf und ab und unterwegs｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/98529d5ca3da8983cb54799818263b4889696ad3.jpg",
+      "classicDesc": "現成艇體在公共建築中脫離水面，將移動、合作與不穩定平衡變成可見事件。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-03",
+      "dedupeKey": "art-daniel-priese-foghorns",
+      "name": "03｜Daniel Priese｜Foghorns",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "愛爾福特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "戶外雕塑",
+        "鑿刻混凝土"
+      ],
+      "works": "Foghorns｜2014",
+      "comment": "成組混凝土量體像霧號與聲波般立於坡地草坪，粗鑿與磨光表面讓同一材料呈現不同光感；作品以方向性與間距回應園區的坡度和人行視線。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/foghorns",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/foghorns",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/9a05d7740788a585d282992b8413824195c235b9.jpg",
+      "artistStatement": "成組混凝土量體像霧號與聲波般立於坡地草坪，粗鑿與磨光表面讓同一材料呈現不同光感；作品以方向性與間距回應園區的坡度和人行視線。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/foghorns",
+      "classicTitle": "Foghorns｜2014",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/9a05d7740788a585d282992b8413824195c235b9.jpg",
+      "classicDesc": "雕塑不模擬人物，而以聲音器具的抽象聯想組織戶外場域。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-04",
+      "dedupeKey": "art-roswitha-josefine-pape-how-do-we-see-the-world",
+      "name": "04｜Roswitha Josefine Pape｜How do we see the world",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "牆面空間介入",
+        "亞麻裱覆 MDF 圖板"
+      ],
+      "works": "How do we see the world｜2000",
+      "comment": "圖板以視覺片段、尺度與觀看框架介入前納粹航空部的巨大樓梯廳，打斷權力建築刻意製造的單調與壓迫，將「如何觀看世界」轉回個體經驗。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/how-do-we-see-the-world",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/how-do-we-see-the-world",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/462c40630204ffb875473214a883d263a291b6b0.jpg",
+      "artistStatement": "圖板以視覺片段、尺度與觀看框架介入前納粹航空部的巨大樓梯廳，打斷權力建築刻意製造的單調與壓迫，將「如何觀看世界」轉回個體經驗。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/how-do-we-see-the-world",
+      "classicTitle": "How do we see the world｜2000",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/462c40630204ffb875473214a883d263a291b6b0.jpg",
+      "classicDesc": "在具有政治歷史的建築中，作品以多重視點抵抗單一、全景式的權力凝視。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-05",
+      "dedupeKey": "art-veronika-kellndorfer-musa-troglodytarum",
+      "name": "05｜Veronika Kellndorfer｜Musa Troglodytarum",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "玻璃整合",
+        "窗玻璃絲網印刷"
+      ],
+      "works": "Musa Troglodytarum｜2017",
+      "comment": "野生香蕉葉與遮陽網紋被絲印到中庭天窗八片玻璃上，日光穿透後把植物圖像投向四層挑空；真實光線、建築結構與攝影影像隨時間疊合。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/musa-troglodytarum",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/musa-troglodytarum",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fbb812432a8578ffe42d1e8261d0122ee4ed9c5e.jpg",
+      "artistStatement": "野生香蕉葉與遮陽網紋被絲印到中庭天窗八片玻璃上，日光穿透後把植物圖像投向四層挑空；真實光線、建築結構與攝影影像隨時間疊合。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/musa-troglodytarum",
+      "classicTitle": "Musa Troglodytarum｜2017",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fbb812432a8578ffe42d1e8261d0122ee4ed9c5e.jpg",
+      "classicDesc": "作品把屋頂從採光設備轉為時間性的影像機器，植物與制度空間因此相互滲透。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-06",
+      "dedupeKey": "art-rainer-splitt-reflecting-pool",
+      "name": "06｜Rainer Splitt｜Reflecting Pool",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Warsaw",
+      "cityKeywords": [
+        "Warsaw",
+        "Warszawa",
+        "華沙"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "地面裝置",
+        "聚氨酯顏料澆注"
+      ],
+      "works": "Reflecting Pool｜2007",
+      "comment": "高亮色彩澆注在德國駐華沙大使館庭園形成近似水面的平滑色池，映照天空、建築與行走者；作品以沒有實際水體的反射面重組多條建築視線。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/reflecting-pool",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/reflecting-pool",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/10d11143d6476f146d0496120b3050a9b2790cfb.jpg",
+      "artistStatement": "高亮色彩澆注在德國駐華沙大使館庭園形成近似水面的平滑色池，映照天空、建築與行走者；作品以沒有實際水體的反射面重組多條建築視線。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/reflecting-pool",
+      "classicTitle": "Reflecting Pool｜2007",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/10d11143d6476f146d0496120b3050a9b2790cfb.jpg",
+      "classicDesc": "色彩不是附著於物件，而成為一塊改變庭院尺度與觀看位置的人工地景。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-07",
+      "dedupeKey": "art-christine-meisner-rivers-and-rights",
+      "name": "07｜Christine Meisner｜Rivers and Rights",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "纖維空間介入",
+        "羊毛與絲手織掛毯"
+      ],
+      "works": "Rivers and Rights｜2016",
+      "comment": "六公尺高的手織掛毯沿音樂學院三層挑空垂落，以河流、遷徙與權利為線索，把植物染色的羊毛與絲帶入粗獷鋼構和舊倉庫牆面。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rivers-and-rights-wandteppich",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rivers-and-rights-wandteppich",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/acc1c42c1fb11d6340b6d0636d22086fe62c0412.jpg",
+      "artistStatement": "六公尺高的手織掛毯沿音樂學院三層挑空垂落，以河流、遷徙與權利為線索，把植物染色的羊毛與絲帶入粗獷鋼構和舊倉庫牆面。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rivers-and-rights-wandteppich",
+      "classicTitle": "Rivers and Rights｜2016",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/acc1c42c1fb11d6340b6d0636d22086fe62c0412.jpg",
+      "classicDesc": "柔性纖維在垂直公共空間中建立另一種建築尺度，讓法權、流動與文化記憶彼此交織。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-08",
+      "dedupeKey": "art-detlef-witt-sicher-offen",
+      "name": "08｜Detlef Witt｜SICHER & OFFEN",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Aachen",
+      "cityKeywords": [
+        "Aachen",
+        "亞琛"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "複合媒材牆面",
+        "塗鴉、不鏽鋼與座椅"
+      ],
+      "works": "SICHER & OFFEN｜2016",
+      "comment": "聯邦警察建築入口兩側以塗鴉、鏡面鋼字與可坐構件構成「安全／開放」的矛盾對；原本常被管制的次文化語言被正式嵌入執法機構。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sicher-offen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sicher-offen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6171ca4546cd17fab08ad9330704bdec0d7187e6.jpg",
+      "artistStatement": "聯邦警察建築入口兩側以塗鴉、鏡面鋼字與可坐構件構成「安全／開放」的矛盾對；原本常被管制的次文化語言被正式嵌入執法機構。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sicher-offen",
+      "classicTitle": "SICHER & OFFEN｜2016",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6171ca4546cd17fab08ad9330704bdec0d7187e6.jpg",
+      "classicDesc": "作品利用制度與塗鴉的衝突，直接追問公共機構如何同時維持安全與開放。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-09",
+      "dedupeKey": "art-regina-kochs-vernetzung",
+      "name": "09｜Regina Kochs｜Vernetzung",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Jülich",
+      "cityKeywords": [
+        "Jülich",
+        "于利希"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "建築立面",
+        "壓克力外牆塗料"
+      ],
+      "works": "Vernetzung｜2011",
+      "comment": "圓形網絡圖樣跨越研究學院外牆與窗洞，節點、線條和被截斷的邊界呼應電腦模擬與跨學科合作；建築表皮因此成為一張持續向外延伸的網。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/vernetzung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/vernetzung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/15090f11b0553fa565f9a4c86d1ee7f30d3e4d13.jpg",
+      "artistStatement": "圓形網絡圖樣跨越研究學院外牆與窗洞，節點、線條和被截斷的邊界呼應電腦模擬與跨學科合作；建築表皮因此成為一張持續向外延伸的網。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/vernetzung",
+      "classicTitle": "Vernetzung｜2011",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/15090f11b0553fa565f9a4c86d1ee7f30d3e4d13.jpg",
+      "classicDesc": "以立面繪畫將研究機構的「連結」功能轉成可由遠近不同尺度讀取的公共標誌。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "current-2026-10-03-10",
+      "dedupeKey": "art-gabriele-obermaier-weiches-haus",
+      "name": "10｜Gabriele Obermaier｜Weiches Haus",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Kassel",
+      "cityKeywords": [
+        "Kassel",
+        "卡塞爾"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "戶外雕塑",
+        "鑄鋁與綠地介入"
+      ],
+      "works": "Weiches Haus｜2009",
+      "comment": "鑄鋁建築形體在聯邦社會法院前像被擠壓的柔軟模型，與後方威嚴的新古典法院構成反題；穩固金屬看似下陷，鬆動了制度建築的確定性。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weiches-haus",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weiches-haus",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fd4471416a632c6a61bb604f01bdcfb862be842e.jpg",
+      "artistStatement": "鑄鋁建築形體在聯邦社會法院前像被擠壓的柔軟模型，與後方威嚴的新古典法院構成反題；穩固金屬看似下陷，鬆動了制度建築的確定性。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weiches-haus",
+      "classicTitle": "Weiches Haus｜2009",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fd4471416a632c6a61bb604f01bdcfb862be842e.jpg",
+      "classicDesc": "作品以材料與形態的矛盾，把司法權威轉化為可被重新想像的公共物件。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "global-classic-2026-10-03-11",
+      "dedupeKey": "art-george-sugarman-wall-reliefs",
+      "name": "11｜George Sugarman｜Wall Reliefs",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "建築壁面",
+        "彩繪鋁"
+      ],
+      "works": "Wall Reliefs｜1980",
+      "comment": "四組彩繪鋁浮雕嵌入停車建築凹槽，以高彩度曲折量體建立近似音樂的節奏；觀看者沿街移動時，形狀與色彩組合逐段展開。",
+      "website": "https://associationforpublicart.org/artwork/wall-reliefs/",
+      "workPage": "https://associationforpublicart.org/artwork/wall-reliefs/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Wall-Reliefs_George_Sugarman_Philadelphia_Photo_Alec_Rogers_aPA_3a.jpg",
+      "artistStatement": "四組彩繪鋁浮雕嵌入停車建築凹槽，以高彩度曲折量體建立近似音樂的節奏；觀看者沿街移動時，形狀與色彩組合逐段展開。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/wall-reliefs/",
+      "classicTitle": "Wall Reliefs｜1980",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Wall-Reliefs_George_Sugarman_Philadelphia_Photo_Alec_Rogers_aPA_3a.jpg",
+      "classicDesc": "Percent for Art 將抽象雕塑直接納入日常基礎設施，是色彩、建築與步行視角結合的代表。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "global-classic-2026-10-03-12",
+      "dedupeKey": "art-robinson-fredenthal-water-ice-and-fire",
+      "name": "12｜Robinson Fredenthal｜Water, Ice, and Fire",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "建築整合雕塑",
+        "耐候鋼"
+      ],
+      "works": "Water, Ice, and Fire｜1973",
+      "comment": "三組以四面體與八面體連結的耐候鋼構分別穿越大廳、懸於地鐵入口並立於庭院；「水、冰、火」隨觀看位置改變，而非固定成單一物象。",
+      "website": "https://associationforpublicart.org/artwork/water-ice-and-fire/",
+      "workPage": "https://associationforpublicart.org/artwork/water-ice-and-fire/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Water_Ice_Fire_1400x1400.jpg",
+      "artistStatement": "三組以四面體與八面體連結的耐候鋼構分別穿越大廳、懸於地鐵入口並立於庭院；「水、冰、火」隨觀看位置改變，而非固定成單一物象。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/water-ice-and-fire/",
+      "classicTitle": "Water, Ice, and Fire｜1973",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Water_Ice_Fire_1400x1400.jpg",
+      "classicDesc": "以幾何系統把室內、交通入口與戶外庭院串成一件分散式公共作品。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "global-classic-2026-10-03-13",
+      "dedupeKey": "art-lily-yeh-ile-ife-park",
+      "name": "13｜Lily Yeh｜Ile Ife Park",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "社區共作",
+        "馬賽克、壁畫與植栽"
+      ],
+      "works": "Ile Ife Park｜1986 起",
+      "comment": "藝術家與居民把火災後的空地轉成花園、彩色水泥樹、馬賽克座椅和大型壁畫；設計、施工與後續活動皆由社群參與，逐步長成持續運作的文化場所。",
+      "website": "https://associationforpublicart.org/artwork/ile-ife-park/",
+      "workPage": "https://associationforpublicart.org/artwork/ile-ife-park/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/2015_Village_Ile_Ife_Park_courtesy_Mural-Arts.jpg",
+      "artistStatement": "藝術家與居民把火災後的空地轉成花園、彩色水泥樹、馬賽克座椅和大型壁畫；設計、施工與後續活動皆由社群參與，逐步長成持續運作的文化場所。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/ile-ife-park/",
+      "classicTitle": "Ile Ife Park｜1986 起",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/2015_Village_Ile_Ife_Park_courtesy_Mural-Arts.jpg",
+      "classicDesc": "公共藝術不只是落成物，而是空地再生、共同勞動與社群組織長期累積的經典。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "global-classic-2026-10-03-14",
+      "dedupeKey": "art-dudley-talcott-kopernik",
+      "name": "14｜Dudley Talcott｜Kopernik",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "抽象紀念",
+        "不鏽鋼與紅花崗岩"
+      ],
+      "works": "Kopernik｜1972／1973 安裝",
+      "comment": "十六英尺鋼環象徵地球軌道，中央圓盤與放射構件指向太陽及無限空間；作品紀念哥白尼的思想突破，刻意以宇宙模型而非人物塑像進行表達。",
+      "website": "https://associationforpublicart.org/artwork/kopernik/",
+      "workPage": "https://associationforpublicart.org/artwork/kopernik/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2026/04/Kopernik_1400x1400.jpg",
+      "artistStatement": "十六英尺鋼環象徵地球軌道，中央圓盤與放射構件指向太陽及無限空間；作品紀念哥白尼的思想突破，刻意以宇宙模型而非人物塑像進行表達。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/kopernik/",
+      "classicTitle": "Kopernik｜1972／1973 安裝",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2026/04/Kopernik_1400x1400.jpg",
+      "classicDesc": "這件抽象紀念物符合非人物雕像原則，以科學觀念和城市尺度取代肖像再現。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "global-classic-2026-10-03-15",
+      "dedupeKey": "art-ned-smyth-world-park-orders-and-perspectives",
+      "name": "15｜Ned Smyth｜World Park: Orders and Perspectives",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "雕塑環境",
+        "馬賽克、石材與樹列"
+      ],
+      "works": "World Park: Orders and Perspectives｜1995",
+      "comment": "柱廊、樹列、抽象世界地圖馬賽克與象徵能量的金色錐體圍合出「戶外房間」，讓旅館廣場從穿越空間變成可停留、反思的城市場所。",
+      "website": "https://associationforpublicart.org/artwork/world-park-orders-and-perspectives/",
+      "workPage": "https://associationforpublicart.org/artwork/world-park-orders-and-perspectives/",
+      "photo": "https://associationforpublicart.org/wp-content/uploads/2015/10/IMG_1306-scaled.jpg",
+      "artistStatement": "柱廊、樹列、抽象世界地圖馬賽克與象徵能量的金色錐體圍合出「戶外房間」，讓旅館廣場從穿越空間變成可停留、反思的城市場所。",
+      "artistStatementSource": "https://associationforpublicart.org/artwork/world-park-orders-and-perspectives/",
+      "classicTitle": "World Park: Orders and Perspectives｜1995",
+      "classicImage": "https://associationforpublicart.org/wp-content/uploads/2015/10/IMG_1306-scaled.jpg",
+      "classicDesc": "以建築原型、自然材料和全球圖像共同塑造可進入的公共環境。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "german-classic-2026-10-03-16",
+      "dedupeKey": "art-haus-rucker-co-arbeitskonstruktion",
+      "name": "16｜Haus-Rucker-Co｜Arbeitskonstruktion",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "觀念裝置",
+        "鋼、工地廢料、鏡面與金箔"
+      ],
+      "works": "Arbeitskonstruktion｜1985",
+      "comment": "入口大廳中的鋼撐、碎石、木料、工作桌、鏡面與金箔把「未完成的工地」封存成展示；作品拒絕以美化完成建築，反而公開生產、勞動與建造過程。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arbeitskonstruktion",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arbeitskonstruktion",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/30017f64f9fedcd684f715dd0d810fe10677970f.jpg",
+      "artistStatement": "入口大廳中的鋼撐、碎石、木料、工作桌、鏡面與金箔把「未完成的工地」封存成展示；作品拒絕以美化完成建築，反而公開生產、勞動與建造過程。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/arbeitskonstruktion",
+      "classicTitle": "Arbeitskonstruktion｜1985",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/30017f64f9fedcd684f715dd0d810fe10677970f.jpg",
+      "classicDesc": "德國聯邦 Kunst am Bau 中罕見的制度批判案例，把非完成狀態本身升格為公共作品。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "german-classic-2026-10-03-17",
+      "dedupeKey": "art-barbara-stehr-asthetik-der-ballistik",
+      "name": "17｜Barbara Stehr｜Ästhetik der Ballistik",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Albersdorf",
+      "cityKeywords": [
+        "Albersdorf",
+        "阿爾貝斯多夫"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "建築立面",
+        "燒結陶板"
+      ],
+      "works": "Ästhetik der Ballistik｜1989",
+      "comment": "藍白燒結陶板包覆軍營入口轉角，以軌跡、衝擊與秩序化圖樣處理「彈道美學」；冷色陶面與深紅磚牆形成鮮明張力。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/asthetik-der-ballistik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/asthetik-der-ballistik",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/699c71fc8de4708fa4a6c282c2b824c9a2596c18.jpg",
+      "artistStatement": "藍白燒結陶板包覆軍營入口轉角，以軌跡、衝擊與秩序化圖樣處理「彈道美學」；冷色陶面與深紅磚牆形成鮮明張力。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/asthetik-der-ballistik",
+      "classicTitle": "Ästhetik der Ballistik｜1989",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/699c71fc8de4708fa4a6c282c2b824c9a2596c18.jpg",
+      "classicDesc": "作品沒有頌揚武力，而以材料圖式將軍事基地的技術語言轉成可被審視的立面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "german-classic-2026-10-03-18",
+      "dedupeKey": "art-hann-trier-entgegnung-gro-e-komposition",
+      "name": "18｜Hann Trier｜Entgegnung (Große Komposition)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "議會空間繪畫",
+        "蛋彩與油彩畫布"
+      ],
+      "works": "Entgegnung (Große Komposition)｜1986",
+      "comment": "大型雙手性筆勢曾置於波昂舊水廠的臨時國會空間，抽象線條像不同立場彼此回應；作品以繪畫的動態對照議會辯論與歷史建築。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/entgegnung-grosse-komposition",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/entgegnung-grosse-komposition",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0c72d38ca0856d4300c68d4c8fa4bbf0ad033353.jpg",
+      "artistStatement": "大型雙手性筆勢曾置於波昂舊水廠的臨時國會空間，抽象線條像不同立場彼此回應；作品以繪畫的動態對照議會辯論與歷史建築。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/entgegnung-grosse-komposition",
+      "classicTitle": "Entgegnung (Große Komposition)｜1986",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/0c72d38ca0856d4300c68d4c8fa4bbf0ad033353.jpg",
+      "classicDesc": "抽象繪畫透過具體政治場域取得公共性，成為聯邦共和早期議會文化的重要空間記憶。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "german-classic-2026-10-03-19",
+      "dedupeKey": "art-leonardo-mosso-lichtwolke",
+      "name": "19｜Leonardo Mosso｜Lichtwolke",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "光裝置",
+        "霓虹管與橡膠環"
+      ],
+      "works": "Lichtwolke｜1989",
+      "comment": "霓虹管與長橡膠環在軍方餐廳上方聚成懸浮光雲，柔性線條與交錯光色回應帳篷般的建築；休憩空間因光的漂浮感而脫離嚴格秩序。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwolke",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwolke",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/3cbaaca25e19576cd823597f92e649db1f0cb3d0.jpg",
+      "artistStatement": "霓虹管與長橡膠環在軍方餐廳上方聚成懸浮光雲，柔性線條與交錯光色回應帳篷般的建築；休憩空間因光的漂浮感而脫離嚴格秩序。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwolke",
+      "classicTitle": "Lichtwolke｜1989",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/3cbaaca25e19576cd823597f92e649db1f0cb3d0.jpg",
+      "classicDesc": "以輕盈、非物質的光為紀律性場所創造感知餘地，是八〇年代光藝術與建築整合的代表。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-03",
+      "id": "german-classic-2026-10-03-20",
+      "dedupeKey": "art-ursula-sax-sitztreppenanlage-und-korrespondierende-deckenskulptur",
+      "name": "20｜Ursula Sax｜Sitztreppenanlage und korrespondierende Deckenskulptur",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Wezembeek-Oppem / Brüssel",
+      "cityKeywords": [
+        "Wezembeek-Oppem",
+        "Brussels",
+        "Bruxelles",
+        "Brüssel",
+        "布魯塞爾"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "可使用裝置",
+        "松木座階與頂棚雕塑"
+      ],
+      "works": "Sitztreppenanlage und korrespondierende Deckenskulptur｜1980",
+      "comment": "松木座階把學校大廳的通行、休息與集會功能整合成一個可使用地形，頂棚雕塑則以相應幾何回聲連接上下空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sitztreppenanlage-und-korrespondierende-deckenskulptur",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sitztreppenanlage-und-korrespondierende-deckenskulptur",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/231280eaf03c676b5b7a8d38f46476b6983dc443.jpg",
+      "artistStatement": "松木座階把學校大廳的通行、休息與集會功能整合成一個可使用地形，頂棚雕塑則以相應幾何回聲連接上下空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sitztreppenanlage-und-korrespondierende-deckenskulptur",
+      "classicTitle": "Sitztreppenanlage und korrespondierende Deckenskulptur｜1980",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/231280eaf03c676b5b7a8d38f46476b6983dc443.jpg",
+      "classicDesc": "作品把 Kunst am Bau 從裝飾轉向日常使用，使家具、建築與雕塑難以分割。",
+      "relatedByCity": []
+    }
+  ]
+}
