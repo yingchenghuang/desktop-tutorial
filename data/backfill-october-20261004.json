@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-04T05:20:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-04",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Association for Public Art 與 Moerenuma Park 第一方作品頁",
+    "selectionPolicy": "已實現且持續存在的場域介入、建築整合、互動、光、動力、地景與觀念性公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/04 固定 10＋5＋5；加入日本公共地景經典。",
+    "linkAudit": {
+      "checkedAt": "2026-10-04T05:20:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-04T05:20:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-01",
+      "dedupeKey": "art-daniela-klein-o-t-installation",
+      "name": "01｜Daniela Klein｜o. T. (Installation)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "監視影像裝置",
+        "單向鏡與監視器"
+      ],
+      "works": "o. T. (Installation)｜2001",
+      "comment": "單向鏡把日常反射與隱藏攝影機的即時影像疊在一起；走入大廳的人同時成為觀看者與被觀看者，建築的安全系統因此被轉成可感知的權力結構。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation",
+      "artistStatement": "單向鏡把日常反射與隱藏攝影機的即時影像疊在一起；走入大廳的人同時成為觀看者與被觀看者，建築的安全系統因此被轉成可感知的權力結構。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation",
+      "classicTitle": "o. T. (Installation)｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation",
+      "classicDesc": "作品沒有塑造紀念人物，而是以鏡面與監視影像揭露公共建築中的觀看機制。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-02",
+      "dedupeKey": "art-barbara-trautmann-strom",
+      "name": "02｜Barbara Trautmann｜Strom",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "光裝置",
+        "高壓螢光燈管"
+      ],
+      "works": "Strom｜2012",
+      "comment": "一百八十二支手工高壓螢光燈管在聯邦情報局入口組成三段式光體，線性電流像脈動資訊穿越牆面，讓能源、情報與建築流動彼此對照。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/strom",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/strom",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/strom",
+      "artistStatement": "一百八十二支手工高壓螢光燈管在聯邦情報局入口組成三段式光體，線性電流像脈動資訊穿越牆面，讓能源、情報與建築流動彼此對照。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/strom",
+      "classicTitle": "Strom｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/strom",
+      "classicDesc": "以非物質光線把機構的運作隱喻帶入公共入口。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-03",
+      "dedupeKey": "art-nicola-de-maria-regno-dei-fiori-musicale-regno-dei-fiori-universo-senza-bombe",
+      "name": "03｜Nicola de Maria｜Regno dei Fiori musicale / Regno dei Fiori / Universo senza Bombe",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "建築整合繪畫",
+        "牆面與天花彩繪"
+      ],
+      "works": "Regno dei Fiori musicale / Regno dei Fiori / Universo senza Bombe｜1992",
+      "comment": "色彩與手繪符號跨越牆面、門洞與天花，把會議建築的通道轉成包覆身體的繪畫空間；作品以「無炸彈的宇宙」對制度性空間提出詩性願景。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/regno-dei-fiori-musicale-regno-dei-fiori-universo-senza-bombe",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/regno-dei-fiori-musicale-regno-dei-fiori-universo-senza-bombe",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/regno-dei-fiori-musicale-regno-dei-fiori-universo-senza-bombe",
+      "artistStatement": "色彩與手繪符號跨越牆面、門洞與天花，把會議建築的通道轉成包覆身體的繪畫空間；作品以「無炸彈的宇宙」對制度性空間提出詩性願景。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/regno-dei-fiori-musicale-regno-dei-fiori-universo-senza-bombe",
+      "classicTitle": "Regno dei Fiori musicale / Regno dei Fiori / Universo senza Bombe｜1992",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/regno-dei-fiori-musicale-regno-dei-fiori-universo-senza-bombe",
+      "classicDesc": "繪畫不再是掛件，而成為可穿行的建築環境。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-04",
+      "dedupeKey": "art-hd-schrader-stromungen",
+      "name": "04｜HD Schrader｜Strömungen",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Rostock",
+      "cityKeywords": [
+        "Rostock",
+        "羅斯托克"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "戶外裝置",
+        "不鏽鋼"
+      ],
+      "works": "Strömungen｜2003",
+      "comment": "八個彎折方形鋼構沿場地直立排列，拋光表面接收海港光線與天候，像被看不見水流推動的幾何節點。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "artistStatement": "八個彎折方形鋼構沿場地直立排列，拋光表面接收海港光線與天候，像被看不見水流推動的幾何節點。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "classicTitle": "Strömungen｜2003",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "classicDesc": "作品以序列、反射與步行視差回應城市的海洋條件。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-05",
+      "dedupeKey": "art-schiffers-und-sprenger-es-ist-nacht-und-der-budapester-bahnhof-still-und-schon-der-letzte-weizen-stand-noch",
+      "name": "05｜Schiffers und Sprenger｜Es ist Nacht und der Budapester Bahnhof still und schön / Der letzte Weizen stand noch",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "文字空間介入",
+        "壓克力牆畫"
+      ],
+      "works": "Es ist Nacht und der Budapester Bahnhof still und schön / Der letzte Weizen stand noch｜2014",
+      "comment": "兩句文字與牆面色帶跨越四層、二十七公尺高的中庭，閱讀必須隨樓層、距離與移動重新組合；文學語言因此成為建築尺度的空間事件。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/es-ist-nacht-und-der-budapester-bahnhof-still-und-schon-der-letzte-weizen-stand-noch",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/es-ist-nacht-und-der-budapester-bahnhof-still-und-schon-der-letzte-weizen-stand-noch",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/es-ist-nacht-und-der-budapester-bahnhof-still-und-schon-der-letzte-weizen-stand-noch",
+      "artistStatement": "兩句文字與牆面色帶跨越四層、二十七公尺高的中庭，閱讀必須隨樓層、距離與移動重新組合；文學語言因此成為建築尺度的空間事件。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/es-ist-nacht-und-der-budapester-bahnhof-still-und-schon-der-letzte-weizen-stand-noch",
+      "classicTitle": "Es ist Nacht und der Budapester Bahnhof still und schön / Der letzte Weizen stand noch｜2014",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/es-ist-nacht-und-der-budapester-bahnhof-still-und-schon-der-letzte-weizen-stand-noch",
+      "classicDesc": "把文字從平面標示轉成需要身體移動才能完成的公共作品。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-06",
+      "dedupeKey": "art-ulrich-schroder-die-verkundung-der-reisefreiheit",
+      "name": "06｜Ulrich Schröder｜Die Verkündung der Reisefreiheit",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "影像空間裝置",
+        "固定座椅、混凝土與錄像"
+      ],
+      "works": "Die Verkündung der Reisefreiheit｜2000",
+      "comment": "三十張固定椅子排列在傾斜混凝土台上，朝向循環播放海面與雲景的螢幕；等待、觀看與旅行自由被轉化成集體卻沉默的劇場。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-verkundung-der-reisefreiheit",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-verkundung-der-reisefreiheit",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-verkundung-der-reisefreiheit",
+      "artistStatement": "三十張固定椅子排列在傾斜混凝土台上，朝向循環播放海面與雲景的螢幕；等待、觀看與旅行自由被轉化成集體卻沉默的劇場。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-verkundung-der-reisefreiheit",
+      "classicTitle": "Die Verkündung der Reisefreiheit｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-verkundung-der-reisefreiheit",
+      "classicDesc": "以觀眾席、坡面和循環影像重組公共建築入口的行為。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-07",
+      "dedupeKey": "art-nan-hoover-proposal",
+      "name": "07｜Nan Hoover｜Proposal",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Eberswalde",
+      "cityKeywords": [
+        "Eberswalde",
+        "埃伯斯瓦爾德"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "三頻錄像",
+        "建築整合影像"
+      ],
+      "works": "Proposal｜2000",
+      "comment": "三頻影像以光、身體與時間回應研究機構的建築節奏，螢幕不只是資訊設備，而是改變通行者對牆面、尺度與自身位置的感知。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "artistStatement": "三頻影像以光、身體與時間回應研究機構的建築節奏，螢幕不只是資訊設備，而是改變通行者對牆面、尺度與自身位置的感知。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "classicTitle": "Proposal｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "classicDesc": "早期以多頻錄像直接整合公共建築的代表案例。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-08",
+      "dedupeKey": "art-angela-hampel-artisten",
+      "name": "08｜Angela Hampel｜Artisten",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "空間裝置",
+        "鋁板剪影"
+      ],
+      "works": "Artisten｜2001",
+      "comment": "八個鋁板剪影在內院垂直疊起，以不穩定的平衡與帶有龐克姿態的輪廓回應舊軍醫學院的紀律歷史；人物只是結構單元，而非城市名人紀念像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/artisten",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/artisten",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/artisten",
+      "artistStatement": "八個鋁板剪影在內院垂直疊起，以不穩定的平衡與帶有龐克姿態的輪廓回應舊軍醫學院的紀律歷史；人物只是結構單元，而非城市名人紀念像。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/artisten",
+      "classicTitle": "Artisten｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/artisten",
+      "classicDesc": "以群體平衡和次文化語彙抵抗制度建築，符合非紀念肖像的空間介入原則。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-09",
+      "dedupeKey": "art-wolfgang-nieblich-saule",
+      "name": "09｜Wolfgang Nieblich｜Säule",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "建築裝置",
+        "柱體與文字／物件整合"
+      ],
+      "works": "Säule｜1993",
+      "comment": "柱體被轉化成承載閱讀與觀看的垂直裝置，不再只是支撐結構；作品讓建築構件與藝術物件的界線在日常通行中持續搖擺。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/saule",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/saule",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/saule",
+      "artistStatement": "柱體被轉化成承載閱讀與觀看的垂直裝置，不再只是支撐結構；作品讓建築構件與藝術物件的界線在日常通行中持續搖擺。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/saule",
+      "classicTitle": "Säule｜1993",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/saule",
+      "classicDesc": "從既有結構出發，以最少物件改變場域的觀看方式。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "current-2026-10-04-10",
+      "dedupeKey": "art-carsten-nicolai-information-schlussel",
+      "name": "10｜Carsten Nicolai｜Information/Schlüssel",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "資訊裝置",
+        "聲音／影像與建築整合"
+      ],
+      "works": "Information/Schlüssel｜1999",
+      "comment": "作品將資訊的編碼、傳輸與解讀轉成可感知的聲光關係，置入圖書館前室，使原本過渡性的空間成為關於知識如何被開啟的介面。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/information-schlussel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/information-schlussel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/information-schlussel",
+      "artistStatement": "作品將資訊的編碼、傳輸與解讀轉成可感知的聲光關係，置入圖書館前室，使原本過渡性的空間成為關於知識如何被開啟的介面。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/information-schlussel",
+      "classicTitle": "Information/Schlüssel｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/information-schlussel",
+      "classicDesc": "把抽象資訊系統與身體感知接合，是觀念性 Kunst am Bau 的重要方向。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "global-classic-2026-10-04-11",
+      "dedupeKey": "art-reginald-beauchamp-whispering-bells-a-tribute-to-crispus-attucks",
+      "name": "11｜Reginald Beauchamp｜Whispering Bells: A Tribute to Crispus Attucks",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "聲音裝置",
+        "黃銅鐘與鋼塔"
+      ],
+      "works": "Whispering Bells: A Tribute to Crispus Attucks｜1976",
+      "comment": "十三只黃銅鐘懸於二十英尺高的開放塔架，風吹或人為敲擊時把紀念轉成可共同聆聽的城市聲景；作品以聲音與空構架取代人物塑像。",
+      "website": "https://www.associationforpublicart.org/artwork/whispering-bells-a-tribute-to-crispus-attucks/",
+      "workPage": "https://www.associationforpublicart.org/artwork/whispering-bells-a-tribute-to-crispus-attucks/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/whispering-bells-a-tribute-to-crispus-attucks/",
+      "artistStatement": "十三只黃銅鐘懸於二十英尺高的開放塔架，風吹或人為敲擊時把紀念轉成可共同聆聽的城市聲景；作品以聲音與空構架取代人物塑像。",
+      "artistStatementSource": "https://www.associationforpublicart.org/artwork/whispering-bells-a-tribute-to-crispus-attucks/",
+      "classicTitle": "Whispering Bells: A Tribute to Crispus Attucks｜1976",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/whispering-bells-a-tribute-to-crispus-attucks/",
+      "classicDesc": "非具象紀念物以聲音、空氣和群體聆聽紀念 Crispus Attucks。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "global-classic-2026-10-04-12",
+      "dedupeKey": "art-roger-white-your-move",
+      "name": "12｜Roger White｜Your Move",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "互動城市雕塑",
+        "玻璃纖維、混凝土與鋼"
+      ],
+      "works": "Your Move｜1996",
+      "comment": "巨型棋子、骨牌與賓果元素散置市政服務大樓廣場，日常遊戲被放大到建築尺度，讓穿越者重新衡量策略、規則與公共空間中的行動。",
+      "website": "https://www.associationforpublicart.org/artwork/your-move/",
+      "workPage": "https://www.associationforpublicart.org/artwork/your-move/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/your-move/",
+      "artistStatement": "巨型棋子、骨牌與賓果元素散置市政服務大樓廣場，日常遊戲被放大到建築尺度，讓穿越者重新衡量策略、規則與公共空間中的行動。",
+      "artistStatementSource": "https://www.associationforpublicart.org/artwork/your-move/",
+      "classicTitle": "Your Move｜1996",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/your-move/",
+      "classicDesc": "以可辨識的遊戲符號建立步行、聚集與想像的城市場域。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "global-classic-2026-10-04-13",
+      "dedupeKey": "art-richard-fleischner-mitchell-giurgola-richard-glaser-harriet-pattison-columbia-subway-plaza-station-entranceway",
+      "name": "13｜Richard Fleischner、Mitchell/Giurgola、Richard Glaser、Harriet Pattison｜Columbia Subway Plaza & Station Entranceway",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "交通空間改造",
+        "鋪面、植栽與入口構築"
+      ],
+      "works": "Columbia Subway Plaza & Station Entranceway｜1986",
+      "comment": "藝術家、建築師與景觀設計者共同重整地鐵入口、廣場鋪面、座席與植栽，將被忽略的交通節點改造成可辨識、可停留的城市門廳。",
+      "website": "https://www.associationforpublicart.org/artwork/columbia-subway-plaza-station-entranceway/",
+      "workPage": "https://www.associationforpublicart.org/artwork/columbia-subway-plaza-station-entranceway/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/columbia-subway-plaza-station-entranceway/",
+      "artistStatement": "藝術家、建築師與景觀設計者共同重整地鐵入口、廣場鋪面、座席與植栽，將被忽略的交通節點改造成可辨識、可停留的城市門廳。",
+      "artistStatementSource": "https://www.associationforpublicart.org/artwork/columbia-subway-plaza-station-entranceway/",
+      "classicTitle": "Columbia Subway Plaza & Station Entranceway｜1986",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/artwork/columbia-subway-plaza-station-entranceway/",
+      "classicDesc": "跨專業公共藝術以基礎設施本身作為媒材。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "global-classic-2026-10-04-14",
+      "dedupeKey": "art-isamu-noguchi-moerenuma-park",
+      "name": "14｜Isamu Noguchi｜Moerenuma Park",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "日本 / Sapporo",
+      "cityKeywords": [
+        "Sapporo",
+        "札幌",
+        "札幌市"
+      ],
+      "media": [
+        "公共藝術經典",
+        "地景雕塑",
+        "公園、土方、水與建築"
+      ],
+      "works": "Moerenuma Park｜1988–2005",
+      "comment": "野口勇以「整體即一件雕塑」規劃一百八十八公頃公園，山丘、水景、遊戲設施與玻璃金字塔共同形成可步行、遊玩與隨季節變化的地景作品。",
+      "website": "https://moerenumapark.jp/english/",
+      "workPage": "https://moerenumapark.jp/english/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://moerenumapark.jp/english/",
+      "artistStatement": "野口勇以「整體即一件雕塑」規劃一百八十八公頃公園，山丘、水景、遊戲設施與玻璃金字塔共同形成可步行、遊玩與隨季節變化的地景作品。",
+      "artistStatementSource": "https://moerenumapark.jp/english/",
+      "classicTitle": "Moerenuma Park｜1988–2005",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://moerenumapark.jp/english/",
+      "classicDesc": "將廢棄物處理場轉化為完整雕塑地景，是日本戰後公共空間藝術的核心案例。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "global-classic-2026-10-04-15",
+      "dedupeKey": "art-rafael-lozano-hemmer-open-air",
+      "name": "15｜Rafael Lozano-Hemmer｜OPEN AIR",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / Philadelphia",
+      "cityKeywords": [
+        "Philadelphia",
+        "Philly",
+        "費城"
+      ],
+      "media": [
+        "公共藝術經典",
+        "互動光裝置",
+        "探照燈、聲音與 GPS"
+      ],
+      "works": "OPEN AIR｜2012",
+      "comment": "二十四具機器探照燈依參與者的聲音與 GPS 位置生成夜空光束，市民的發言被放大為全城可見的即時構圖，公共性由參與而非固定紀念物產生。",
+      "website": "https://www.associationforpublicart.org/pressroom/planetarium-on-the-parkway-a-once-in-a-lifetime-stargazing-opportunity-open-air-artist-rafael-lozano-hemmer-and-franklin-institute-chief-astronomer-derrick-pitts-collaborate-on-uniq/",
+      "workPage": "https://www.associationforpublicart.org/pressroom/planetarium-on-the-parkway-a-once-in-a-lifetime-stargazing-opportunity-open-air-artist-rafael-lozano-hemmer-and-franklin-institute-chief-astronomer-derrick-pitts-collaborate-on-uniq/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/pressroom/planetarium-on-the-parkway-a-once-in-a-lifetime-stargazing-opportunity-open-air-artist-rafael-lozano-hemmer-and-franklin-institute-chief-astronomer-derrick-pitts-collaborate-on-uniq/",
+      "artistStatement": "二十四具機器探照燈依參與者的聲音與 GPS 位置生成夜空光束，市民的發言被放大為全城可見的即時構圖，公共性由參與而非固定紀念物產生。",
+      "artistStatementSource": "https://www.associationforpublicart.org/pressroom/planetarium-on-the-parkway-a-once-in-a-lifetime-stargazing-opportunity-open-air-artist-rafael-lozano-hemmer-and-franklin-institute-chief-astronomer-derrick-pitts-collaborate-on-uniq/",
+      "classicTitle": "OPEN AIR｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.associationforpublicart.org/pressroom/planetarium-on-the-parkway-a-once-in-a-lifetime-stargazing-opportunity-open-air-artist-rafael-lozano-hemmer-and-franklin-institute-chief-astronomer-derrick-pitts-collaborate-on-uniq/",
+      "classicDesc": "行動科技、聲音與城市天際線結合的互動公共藝術經典。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "german-classic-2026-10-04-16",
+      "dedupeKey": "art-gunther-uecker-o-t",
+      "name": "16｜Günther Uecker｜o. T.",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "動力光影裝置",
+        "木、鐵釘、壓克力與馬達"
+      ],
+      "works": "o. T.｜1970",
+      "comment": "圓盤密布鐵釘並由馬達緩慢轉動，側光使影子像波動般穿越表面；堅硬材料因此產生近似呼吸的時間感。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-2",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-2",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-2",
+      "artistStatement": "圓盤密布鐵釘並由馬達緩慢轉動，側光使影子像波動般穿越表面；堅硬材料因此產生近似呼吸的時間感。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-2",
+      "classicTitle": "o. T.｜1970",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-2",
+      "classicDesc": "Uecker 將釘子、光與運動整合進聯邦建築，是動力 Kunst am Bau 的經典。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "german-classic-2026-10-04-17",
+      "dedupeKey": "art-rebecca-horn-sonnenschatten",
+      "name": "17｜Rebecca Horn｜Sonnenschatten",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Offenbach",
+      "cityKeywords": [
+        "Offenbach",
+        "奧芬巴赫"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "互動動力裝置",
+        "銅環、鏡面與馬達"
+      ],
+      "works": "Sonnenschatten｜2008",
+      "comment": "銅環與馬達鏡面在室內形成緩慢、精確的光線運動，觀者的接近使反射與陰影不斷重組，太陽與影子成為可被機械編排的材料。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sonnenschatten",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sonnenschatten",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sonnenschatten",
+      "artistStatement": "銅環與馬達鏡面在室內形成緩慢、精確的光線運動，觀者的接近使反射與陰影不斷重組，太陽與影子成為可被機械編排的材料。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sonnenschatten",
+      "classicTitle": "Sonnenschatten｜2008",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sonnenschatten",
+      "classicDesc": "以身體、鏡面和運動改變建築時間感的代表作。",
+      "relatedByCity": [
+        "competition-2026-09-05-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "german-classic-2026-10-04-18",
+      "dedupeKey": "art-ursula-sax-rasterbild-mit-vogeln",
+      "name": "18｜Ursula Sax｜Rasterbild mit Vögeln",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "建築壁面浮雕",
+        "彩繪鋼"
+      ],
+      "works": "Rasterbild mit Vögeln｜1983",
+      "comment": "彩繪鋼板把鳥群、網格與牆面凹凸疊合，圖像在不同視角間游移於具象與抽象，讓通行空間具有方向與節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rasterbild-mit-vogeln",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rasterbild-mit-vogeln",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rasterbild-mit-vogeln",
+      "artistStatement": "彩繪鋼板把鳥群、網格與牆面凹凸疊合，圖像在不同視角間游移於具象與抽象，讓通行空間具有方向與節奏。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rasterbild-mit-vogeln",
+      "classicTitle": "Rasterbild mit Vögeln｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rasterbild-mit-vogeln",
+      "classicDesc": "鋼板、色彩與建築格網共同形成八〇年代公共壁面經典。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "german-classic-2026-10-04-19",
+      "dedupeKey": "art-christian-roeckenschuss-o-t-wandrelief",
+      "name": "19｜Christian Roeckenschuss｜o. T. (Wandrelief)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "建築壁面浮雕",
+        "木與醇酸樹脂色彩"
+      ],
+      "works": "o. T. (Wandrelief)｜1977",
+      "comment": "三組幾何木浮雕沿門廳牆面展開，色彩、陰影與厚度隨步行視角交替，將平面構成轉成真正的建築節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandrelief",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandrelief",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandrelief",
+      "artistStatement": "三組幾何木浮雕沿門廳牆面展開，色彩、陰影與厚度隨步行視角交替，將平面構成轉成真正的建築節奏。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandrelief",
+      "classicTitle": "o. T. (Wandrelief)｜1977",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandrelief",
+      "classicDesc": "幾何抽象不再是裝飾圖樣，而是由身體移動完成的空間作品。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "german-classic-2026-10-04-20",
+      "dedupeKey": "art-wolfgang-nestler-o-t-installation-wegzeichen",
+      "name": "20｜Wolfgang Nestler｜o. T. (Installation / Wegzeichen)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "跨樓層裝置",
+        "金屬與鋼索"
+      ],
+      "works": "o. T. (Installation / Wegzeichen)｜1989",
+      "comment": "橢圓金屬片、弧形構件與鋼索跨越多個樓層，從室外可同時讀取整體，進入建築後則只能逐層遭遇片段，視點決定作品如何成立。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wegzeichen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wegzeichen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wegzeichen",
+      "artistStatement": "橢圓金屬片、弧形構件與鋼索跨越多個樓層，從室外可同時讀取整體，進入建築後則只能逐層遭遇片段，視點決定作品如何成立。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wegzeichen",
+      "classicTitle": "o. T. (Installation / Wegzeichen)｜1989",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wegzeichen",
+      "classicDesc": "跨樓層裝置以完整／片段的切換組織建築經驗。",
+      "relatedByCity": []
+    }
+  ]
+}

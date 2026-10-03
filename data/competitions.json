@@ -1,10 +1,10 @@
 {
   "meta": {
-    "total": 103,
-    "activeEntries": 103,
+    "total": 107,
+    "activeEntries": 107,
     "addedToday": 5,
-    "expiredRemoved": 9,
-    "retainedExisting": 98,
+    "expiredRemoved": 1,
+    "retainedExisting": 102,
     "duplicateRemoved": 0,
     "deadlineRule": "所有 deadline 均含時區偏移；官方僅公布日期時採主辦地 23:59:59 並標記 date。"
   },
@@ -590,6 +590,13 @@
         "current-2026-10-03-04",
         "current-2026-10-03-05",
         "current-2026-10-03-07",
+        "current-2026-10-04-01",
+        "current-2026-10-04-02",
+        "current-2026-10-04-05",
+        "current-2026-10-04-06",
+        "current-2026-10-04-08",
+        "current-2026-10-04-09",
+        "current-2026-10-04-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -618,7 +625,9 @@
         "german-classic-2026-09-30-17",
         "german-classic-2026-10-01-17",
         "german-classic-2026-10-01-19",
-        "german-classic-2026-10-01-20"
+        "german-classic-2026-10-01-20",
+        "german-classic-2026-10-04-18",
+        "german-classic-2026-10-04-19"
       ]
     },
     {
@@ -1151,6 +1160,13 @@
         "current-2026-10-03-04",
         "current-2026-10-03-05",
         "current-2026-10-03-07",
+        "current-2026-10-04-01",
+        "current-2026-10-04-02",
+        "current-2026-10-04-05",
+        "current-2026-10-04-06",
+        "current-2026-10-04-08",
+        "current-2026-10-04-09",
+        "current-2026-10-04-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -1179,7 +1195,9 @@
         "german-classic-2026-09-30-17",
         "german-classic-2026-10-01-17",
         "german-classic-2026-10-01-19",
-        "german-classic-2026-10-01-20"
+        "german-classic-2026-10-01-20",
+        "german-classic-2026-10-04-18",
+        "german-classic-2026-10-04-19"
       ]
     },
     {
@@ -1330,6 +1348,13 @@
         "current-2026-10-03-04",
         "current-2026-10-03-05",
         "current-2026-10-03-07",
+        "current-2026-10-04-01",
+        "current-2026-10-04-02",
+        "current-2026-10-04-05",
+        "current-2026-10-04-06",
+        "current-2026-10-04-08",
+        "current-2026-10-04-09",
+        "current-2026-10-04-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -1358,7 +1383,9 @@
         "german-classic-2026-09-30-17",
         "german-classic-2026-10-01-17",
         "german-classic-2026-10-01-19",
-        "german-classic-2026-10-01-20"
+        "german-classic-2026-10-01-20",
+        "german-classic-2026-10-04-18",
+        "german-classic-2026-10-04-19"
       ]
     },
     {
@@ -1508,6 +1535,13 @@
         "current-2026-10-03-04",
         "current-2026-10-03-05",
         "current-2026-10-03-07",
+        "current-2026-10-04-01",
+        "current-2026-10-04-02",
+        "current-2026-10-04-05",
+        "current-2026-10-04-06",
+        "current-2026-10-04-08",
+        "current-2026-10-04-09",
+        "current-2026-10-04-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -1536,7 +1570,9 @@
         "german-classic-2026-09-30-17",
         "german-classic-2026-10-01-17",
         "german-classic-2026-10-01-19",
-        "german-classic-2026-10-01-20"
+        "german-classic-2026-10-01-20",
+        "german-classic-2026-10-04-18",
+        "german-classic-2026-10-04-19"
       ]
     },
     {
@@ -1834,7 +1870,8 @@
       "budget": "總獎金 €2,000；入選作品預計 2028 年於 Klingspor Museum 展出",
       "applicationFee": "免費",
       "relatedByCity": [
-        "current-2026-09-24-02"
+        "current-2026-09-24-02",
+        "german-classic-2026-10-04-17"
       ]
     },
     {
@@ -2313,6 +2350,13 @@
         "current-2026-10-03-04",
         "current-2026-10-03-05",
         "current-2026-10-03-07",
+        "current-2026-10-04-01",
+        "current-2026-10-04-02",
+        "current-2026-10-04-05",
+        "current-2026-10-04-06",
+        "current-2026-10-04-08",
+        "current-2026-10-04-09",
+        "current-2026-10-04-10",
         "german-classic-2026-08-22-01",
         "german-classic-2026-08-22-02",
         "german-classic-2026-08-22-03",
@@ -2341,7 +2385,9 @@
         "german-classic-2026-09-30-17",
         "german-classic-2026-10-01-17",
         "german-classic-2026-10-01-19",
-        "german-classic-2026-10-01-20"
+        "german-classic-2026-10-01-20",
+        "german-classic-2026-10-04-18",
+        "german-classic-2026-10-04-19"
       ]
     },
     {
@@ -2886,45 +2932,6 @@
       "eligibility": "年滿 18 歲；具提案材料經驗者為佳，本地、區域及科羅拉多州藝術家優先但非限定",
       "budget": "$100,000 美元上限，含作品、運輸、安裝與照明等附屬項目",
       "applicationFee": "$0（官方明示無申請費）",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-09-16",
-      "id": "competition-2026-09-16-05",
-      "dedupeKey": "opportunity-2026-09-16-cedar-falls-pettersen-plaza-sculpture",
-      "name": "05｜City of Cedar Falls Public Art Committee／Hearst Center for the Arts｜Pettersen Plaza 紀念性公共雕塑",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "美國 / Cedar Falls",
-      "cityKeywords": [
-        "Cedar Falls",
-        "錫達福爾斯"
-      ],
-      "media": [
-        "雕塑",
-        "紀念性公共藝術",
-        "永久公共藝術"
-      ],
-      "works": "Pettersen Plaza 紀念性公共雕塑｜截止 2026-10-02",
-      "comment": "為 College Hill 的 Pettersen Plaza 徵求永久公共雕塑，紀念社區領袖 Hugh Pettersen 與 College Hill Arts Festival，並以創造力、社群、包容與慶典為核心。",
-      "website": "https://www.thehearst.org/publicart",
-      "workPage": "https://www.thehearst.org/publicart",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.thehearst.org/publicart",
-      "artistStatement": "為 College Hill 的 Pettersen Plaza 徵求永久公共雕塑，紀念社區領袖 Hugh Pettersen 與 College Hill Arts Festival，並以創造力、社群、包容與慶典為核心。",
-      "artistStatementSource": "https://www.thehearst.org/publicart",
-      "classicTitle": "Pettersen Plaza 紀念性公共雕塑",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.thehearst.org/publicart",
-      "classicDesc": "為 College Hill 的 Pettersen Plaza 徵求永久公共雕塑，紀念社區領袖 Hugh Pettersen 與 College Hill Arts Festival，並以創造力、社群、包容與慶典為核心。",
-      "deadline": "2026-10-02T23:59:59-05:00",
-      "deadlineLabel": "截止 2026-10-02",
-      "deadlineTimezone": "America/Chicago",
-      "deadlinePrecision": "date",
-      "organizer": "City of Cedar Falls Public Art Committee／Hearst Center for the Arts",
-      "eligibility": "年滿 18 歲之美國藝術家或團隊；須依完整 RFP 提交經歷、作品與提案資料",
-      "budget": "$50,000 美元，含藝術家費、保險、製作與運輸；安裝由市府協調",
-      "applicationFee": "未公開",
       "relatedByCity": []
     },
     {
@@ -5085,8 +5092,210 @@
       "budget": "USD 8,000，至少採購一件，含藝術家時間、材料與完成壁畫",
       "applicationFee": "USD 25",
       "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "competition-2026-10-04-01",
+      "dedupeKey": "opportunity-city-of-miami-beach-miami-beach-17th-street-parking-garage-g5-permanent-mural-project",
+      "name": "01｜Miami Beach｜17th Street Parking Garage (G5) Permanent Mural Project",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Miami Beach, Florida",
+      "cityKeywords": [
+        "Miami Beach",
+        "Miami Beach, Florida",
+        "邁阿密海灘"
+      ],
+      "media": [
+        "永久壁畫",
+        "停車建築",
+        "公共藝術委託"
+      ],
+      "works": "17th Street Parking Garage (G5) Permanent Mural Project｜截止 2026.10.08 17:00 EDT（官方寫 EST，依 Miami 當日實際偏移校正）",
+      "comment": "為 17th Street 停車建築外牆徵求大型永久壁畫，需回應高流量城市入口、建築表面與日夜可見性。",
+      "website": "https://cityofmiamibeach.submittable.com/submit",
+      "workPage": "https://cityofmiamibeach.submittable.com/submit",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cityofmiamibeach.submittable.com/submit",
+      "artistStatement": "為 17th Street 停車建築外牆徵求大型永久壁畫，需回應高流量城市入口、建築表面與日夜可見性。",
+      "artistStatementSource": "https://cityofmiamibeach.submittable.com/submit",
+      "classicTitle": "Miami Beach｜17th Street Parking Garage (G5) Permanent Mural Project",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cityofmiamibeach.submittable.com/submit",
+      "classicDesc": "為 17th Street 停車建築外牆徵求大型永久壁畫，需回應高流量城市入口、建築表面與日夜可見性。",
+      "deadline": "2026-10-08T17:00:00-04:00",
+      "deadlineLabel": "截止 2026.10.08 17:00 EDT（官方寫 EST，依 Miami 當日實際偏移校正）",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "time",
+      "organizer": "City of Miami Beach",
+      "eligibility": "具大型公共藝術或壁畫經驗的專業視覺藝術家／團隊；官方未列地域限制",
+      "budget": "USD 170,000 全包；兩名準決選者各 USD 1,200",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "competition-2026-10-04-02",
+      "dedupeKey": "opportunity-city-of-minneapolis-arts-cultural-affairs-minneapolis-graco-park-tunnel-art-project",
+      "name": "02｜Minneapolis｜Graco Park Tunnel Art Project",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Minneapolis, Minnesota",
+      "cityKeywords": [
+        "Minneapolis",
+        "Minneapolis, Minnesota",
+        "明尼亞波利斯"
+      ],
+      "media": [
+        "隧道公共藝術",
+        "場域特定",
+        "永久委託"
+      ],
+      "works": "Graco Park Tunnel Art Project｜完整申請截止 2026.10.26 17:00 CDT",
+      "comment": "為 Graco Park 隧道創作耐久、可親近的公共藝術，材料與尺度可多元，並重視與地方社群的連結及參與能力。",
+      "website": "https://www.minneapolismn.gov/government/departments/arts/public-art/public-art-projects/call-for-artists/",
+      "workPage": "https://www.minneapolismn.gov/government/departments/arts/public-art/public-art-projects/call-for-artists/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.minneapolismn.gov/government/departments/arts/public-art/public-art-projects/call-for-artists/",
+      "artistStatement": "為 Graco Park 隧道創作耐久、可親近的公共藝術，材料與尺度可多元，並重視與地方社群的連結及參與能力。",
+      "artistStatementSource": "https://www.minneapolismn.gov/government/departments/arts/public-art/public-art-projects/call-for-artists/",
+      "classicTitle": "Minneapolis｜Graco Park Tunnel Art Project",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.minneapolismn.gov/government/departments/arts/public-art/public-art-projects/call-for-artists/",
+      "classicDesc": "為 Graco Park 隧道創作耐久、可親近的公共藝術，材料與尺度可多元，並重視與地方社群的連結及參與能力。",
+      "deadline": "2026-10-26T17:00:00-05:00",
+      "deadlineLabel": "完整申請截止 2026.10.26 17:00 CDT",
+      "deadlineTimezone": "America/Chicago",
+      "deadlinePrecision": "time",
+      "organizer": "City of Minneapolis Arts & Cultural Affairs",
+      "eligibility": "藝術家或團隊，各經驗層級均可；須展現場域、材料與社群參與能力",
+      "budget": "USD 250,000",
+      "applicationFee": "未公開",
+      "relatedByCity": [
+        "classic-global-2026-08-12-03"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "competition-2026-10-04-03",
+      "dedupeKey": "opportunity-city-of-boise-department-of-arts-history-boise-2027-traffic-box-art",
+      "name": "03｜Boise｜2027 Traffic Box Art",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Boise, Idaho",
+      "cityKeywords": [
+        "Boise",
+        "Boise, Idaho",
+        "波夕"
+      ],
+      "media": [
+        "交通箱公共藝術",
+        "城市圖像",
+        "公共藝術委託"
+      ],
+      "works": "2027 Traffic Box Art｜截止 2026.10.15 13:00 MDT",
+      "comment": "遴選最多八位愛達荷藝術家，將原創圖像轉製於 Boise 交通控制箱，使基礎設施成為分散式街道畫廊。",
+      "website": "https://www.boiseartsandhistory.org/opportunities/traffic-box-art/",
+      "workPage": "https://www.boiseartsandhistory.org/opportunities/traffic-box-art/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.boiseartsandhistory.org/opportunities/traffic-box-art/",
+      "artistStatement": "遴選最多八位愛達荷藝術家，將原創圖像轉製於 Boise 交通控制箱，使基礎設施成為分散式街道畫廊。",
+      "artistStatementSource": "https://www.boiseartsandhistory.org/opportunities/traffic-box-art/",
+      "classicTitle": "Boise｜2027 Traffic Box Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.boiseartsandhistory.org/opportunities/traffic-box-art/",
+      "classicDesc": "遴選最多八位愛達荷藝術家，將原創圖像轉製於 Boise 交通控制箱，使基礎設施成為分散式街道畫廊。",
+      "deadline": "2026-10-15T13:00:00-06:00",
+      "deadlineLabel": "截止 2026.10.15 13:00 MDT",
+      "deadlineTimezone": "America/Boise",
+      "deadlinePrecision": "time",
+      "organizer": "City of Boise Department of Arts & History",
+      "eligibility": "愛達荷州藝術家，不限年齡",
+      "budget": "每位入選藝術家 USD 1,200，最多八位",
+      "applicationFee": "US$0",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "competition-2026-10-04-04",
+      "dedupeKey": "opportunity-amsterdam-light-festival-amsterdam-amsterdam-light-festival-edition-16-general-open-call",
+      "name": "04｜Amsterdam｜Amsterdam Light Festival Edition 16 — General Open Call",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "荷蘭 / Amsterdam",
+      "cityKeywords": [
+        "Amsterdam",
+        "Amsterdam, Netherlands",
+        "阿姆斯特丹"
+      ],
+      "media": [
+        "光藝術公開徵件",
+        "城市水岸",
+        "暫時性裝置"
+      ],
+      "works": "Amsterdam Light Festival Edition 16 — General Open Call｜截止 2026.12.07 23:59 CET",
+      "comment": "面向國際創作者徵集全新或既有光藝術，入選作品將在阿姆斯特丹城市與水岸步行路線中實現，強調夜間公共空間與觀眾經驗。",
+      "website": "https://amsterdamlightfestival.com/en/open-call",
+      "workPage": "https://amsterdamlightfestival.com/en/open-call",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://amsterdamlightfestival.com/en/open-call",
+      "artistStatement": "面向國際創作者徵集全新或既有光藝術，入選作品將在阿姆斯特丹城市與水岸步行路線中實現，強調夜間公共空間與觀眾經驗。",
+      "artistStatementSource": "https://amsterdamlightfestival.com/en/open-call",
+      "classicTitle": "Amsterdam｜Amsterdam Light Festival Edition 16 — General Open Call",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://amsterdamlightfestival.com/en/open-call",
+      "classicDesc": "面向國際創作者徵集全新或既有光藝術，入選作品將在阿姆斯特丹城市與水岸步行路線中實現，強調夜間公共空間與觀眾經驗。",
+      "deadline": "2026-12-07T23:59:00+01:00",
+      "deadlineLabel": "截止 2026.12.07 23:59 CET",
+      "deadlineTimezone": "Europe/Amsterdam",
+      "deadlinePrecision": "time",
+      "organizer": "Amsterdam Light Festival",
+      "eligibility": "全球創作者；可提全新或既有光藝術作品",
+      "budget": "藝術家費 EUR 4,000；製作、交通與住宿等依官方方案另行支應",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-04",
+      "id": "competition-2026-10-04-05",
+      "dedupeKey": "opportunity-amsterdam-light-festival-x-amarte-amsterdam-amsterdam-light-festival-edition-16-open-call-x-amarte",
+      "name": "05｜Amsterdam｜Amsterdam Light Festival Edition 16 — Open Call X Amarte",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "荷蘭 / Amsterdam",
+      "cityKeywords": [
+        "Amsterdam",
+        "Amsterdam, Netherlands",
+        "阿姆斯特丹"
+      ],
+      "media": [
+        "光藝術公開徵件",
+        "新進創作者",
+        "暫時性裝置"
+      ],
+      "works": "Amsterdam Light Festival Edition 16 — Open Call X Amarte｜截止 2026.12.07 23:59 CET",
+      "comment": "與 Amarte 合作支持尚未從事光藝術的荷蘭創作者，為步行觀眾發展新作，提供藝術家費與明確製作預算。",
+      "website": "https://amsterdamlightfestival.com/en/open-call",
+      "workPage": "https://amsterdamlightfestival.com/en/open-call",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://amsterdamlightfestival.com/en/open-call",
+      "artistStatement": "與 Amarte 合作支持尚未從事光藝術的荷蘭創作者，為步行觀眾發展新作，提供藝術家費與明確製作預算。",
+      "artistStatementSource": "https://amsterdamlightfestival.com/en/open-call",
+      "classicTitle": "Amsterdam｜Amsterdam Light Festival Edition 16 — Open Call X Amarte",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://amsterdamlightfestival.com/en/open-call",
+      "classicDesc": "與 Amarte 合作支持尚未從事光藝術的荷蘭創作者，為步行觀眾發展新作，提供藝術家費與明確製作預算。",
+      "deadline": "2026-12-07T23:59:00+01:00",
+      "deadlineLabel": "截止 2026.12.07 23:59 CET",
+      "deadlineTimezone": "Europe/Amsterdam",
+      "deadlinePrecision": "time",
+      "organizer": "Amsterdam Light Festival X Amarte",
+      "eligibility": "居住於荷蘭、尚未以光藝術為主要實踐的創作者；作品需面向步行觀眾",
+      "budget": "藝術家費 EUR 4,000；製作預算 EUR 20,000，另依官方方案支應交通等費用",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     }
   ],
-  "updated": "2026-10-03",
-  "generatedAt": "2026-10-03T05:25:00+08:00"
+  "updated": "2026-10-04",
+  "generatedAt": "2026-10-04T05:20:00+08:00"
 }

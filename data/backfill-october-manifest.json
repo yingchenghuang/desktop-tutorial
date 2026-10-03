@@ -1,16 +1,17 @@
 {
-  "version": "2026-10-03-public-art-r85",
-  "generatedAt": "2026-10-03T05:25:00+08:00",
+  "version": "2026-10-04-public-art-r86",
+  "generatedAt": "2026-10-04T05:20:00+08:00",
   "files": [
     "backfill-october-20261001.json",
     "backfill-october-20261002.json",
-    "backfill-october-20261003.json"
+    "backfill-october-20261003.json",
+    "backfill-october-20261004.json"
   ],
-  "expectedEntries": 60,
-  "statementEntries": 60,
-  "statementSourceEntries": 60,
+  "expectedEntries": 80,
+  "statementEntries": 80,
+  "statementSourceEntries": 80,
   "statementBacklog": 0,
-  "imageEntries": 60,
+  "imageEntries": 80,
   "imageBacklog": 0,
-  "note": "截至 2026-10-03 已發布 3 個十月每日檔、共 60 則；本日維持 10／5／5，排除傳統城市人物紀念雕塑。"
+  "note": "截至 2026-10-04 已發布 4 個十月每日檔、共 80 則；本日維持 10／5／5，排除傳統城市人物紀念雕塑。"
 }
