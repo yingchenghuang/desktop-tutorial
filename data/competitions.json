@@ -1,10 +1,10 @@
 {
   "meta": {
-    "total": 107,
-    "activeEntries": 107,
+    "total": 112,
+    "activeEntries": 112,
     "addedToday": 5,
-    "expiredRemoved": 1,
-    "retainedExisting": 102,
+    "expiredRemoved": 0,
+    "retainedExisting": 107,
     "duplicateRemoved": 0,
     "deadlineRule": "所有 deadline 均含時區偏移；官方僅公布日期時採主辦地 23:59:59 並標記 date。"
   },
@@ -627,7 +627,8 @@
         "german-classic-2026-10-01-19",
         "german-classic-2026-10-01-20",
         "german-classic-2026-10-04-18",
-        "german-classic-2026-10-04-19"
+        "german-classic-2026-10-04-19",
+        "german-classic-2026-10-05-20"
       ]
     },
     {
@@ -1197,7 +1198,8 @@
         "german-classic-2026-10-01-19",
         "german-classic-2026-10-01-20",
         "german-classic-2026-10-04-18",
-        "german-classic-2026-10-04-19"
+        "german-classic-2026-10-04-19",
+        "german-classic-2026-10-05-20"
       ]
     },
     {
@@ -1385,7 +1387,8 @@
         "german-classic-2026-10-01-19",
         "german-classic-2026-10-01-20",
         "german-classic-2026-10-04-18",
-        "german-classic-2026-10-04-19"
+        "german-classic-2026-10-04-19",
+        "german-classic-2026-10-05-20"
       ]
     },
     {
@@ -1572,7 +1575,8 @@
         "german-classic-2026-10-01-19",
         "german-classic-2026-10-01-20",
         "german-classic-2026-10-04-18",
-        "german-classic-2026-10-04-19"
+        "german-classic-2026-10-04-19",
+        "german-classic-2026-10-05-20"
       ]
     },
     {
@@ -2387,7 +2391,8 @@
         "german-classic-2026-10-01-19",
         "german-classic-2026-10-01-20",
         "german-classic-2026-10-04-18",
-        "german-classic-2026-10-04-19"
+        "german-classic-2026-10-04-19",
+        "german-classic-2026-10-05-20"
       ]
     },
     {
@@ -2736,7 +2741,8 @@
         "classic-global-2026-08-26-03",
         "classic-global-2026-08-26-04",
         "classic-global-2026-08-26-05",
-        "current-2026-09-23-06"
+        "current-2026-09-23-06",
+        "current-2026-10-05-03"
       ]
     },
     {
@@ -5294,8 +5300,239 @@
       "budget": "藝術家費 EUR 4,000；製作預算 EUR 20,000，另依官方方案支應交通等費用",
       "applicationFee": "未公開",
       "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "competition-2026-10-05-01",
+      "dedupeKey": "opportunity-4culture-king-county-wastewater-treatment-division-seattle-elliott-west-wet-weather-treatment-station-upgrade",
+      "name": "01｜Seattle｜Elliott West Wet Weather Treatment Station Upgrade",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Seattle, Washington",
+      "cityKeywords": [
+        "Seattle",
+        "Seattle, Washington",
+        "西雅圖"
+      ],
+      "media": [
+        "公共藝術委託",
+        "藝術玻璃立面",
+        "污水基礎設施"
+      ],
+      "works": "Elliott West Wet Weather Treatment Station Upgrade｜截止 2026.10.22 16:00 PDT",
+      "comment": "為 Elliott West 濕天候處理站設計場域特定藝術玻璃立面，藝術家需把水務基礎設施、鄰里能見度與耐久外牆整合為公共入口。",
+      "website": "https://www.4culture.org/grants/king-county-wastewater-treatment-elliott-west-wet-weather-treatment-station-upgrade/",
+      "workPage": "https://www.4culture.org/grants/king-county-wastewater-treatment-elliott-west-wet-weather-treatment-station-upgrade/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.4culture.org/grants/king-county-wastewater-treatment-elliott-west-wet-weather-treatment-station-upgrade/",
+      "artistStatement": "為 Elliott West 濕天候處理站設計場域特定藝術玻璃立面，藝術家需把水務基礎設施、鄰里能見度與耐久外牆整合為公共入口。",
+      "artistStatementSource": "https://www.4culture.org/grants/king-county-wastewater-treatment-elliott-west-wet-weather-treatment-station-upgrade/",
+      "classicTitle": "Seattle｜Elliott West Wet Weather Treatment Station Upgrade",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.4culture.org/grants/king-county-wastewater-treatment-elliott-west-wet-weather-treatment-station-upgrade/",
+      "classicDesc": "為 Elliott West 濕天候處理站設計場域特定藝術玻璃立面，藝術家需把水務基礎設施、鄰里能見度與耐久外牆整合為公共入口。",
+      "deadline": "2026-10-22T16:00:00-07:00",
+      "deadlineLabel": "截止 2026.10.22 16:00 PDT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "4Culture／King County Wastewater Treatment Division",
+      "eligibility": "美國境內個人藝術家或團隊；須具二維玻璃或相近尺度立面作品經驗",
+      "budget": "設計費 USD 40,000；另有最高 USD 5,000 旅費，製作與安裝預算另計",
+      "applicationFee": "未公開",
+      "relatedByCity": [
+        "classic-global-2026-08-15-02",
+        "current-2026-10-05-04",
+        "dynamic-2026-08-12-03",
+        "dynamic-2026-08-12-06",
+        "dynamic-2026-08-12-10",
+        "dynamic-2026-08-21-01",
+        "dynamic-2026-08-21-02",
+        "dynamic-2026-08-21-03",
+        "dynamic-2026-08-21-04",
+        "dynamic-2026-08-21-05",
+        "dynamic-2026-08-21-06",
+        "dynamic-2026-08-21-07",
+        "dynamic-2026-08-21-08",
+        "dynamic-2026-08-21-09",
+        "dynamic-2026-08-21-10",
+        "dynamic-2026-08-22-07",
+        "dynamic-2026-08-22-08",
+        "dynamic-2026-08-22-09",
+        "dynamic-2026-08-22-10",
+        "dynamic-2026-08-23-01",
+        "dynamic-2026-08-23-02",
+        "dynamic-2026-08-23-03",
+        "dynamic-2026-08-23-04",
+        "dynamic-2026-08-23-05",
+        "dynamic-2026-08-23-10",
+        "dynamic-2026-08-25-01",
+        "dynamic-2026-08-25-02",
+        "dynamic-2026-08-26-03",
+        "dynamic-2026-08-26-04",
+        "dynamic-2026-08-26-05"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "competition-2026-10-05-02",
+      "dedupeKey": "opportunity-city-of-redmond-redmond-idylwood-park-asphalt-art-design-call",
+      "name": "02｜Redmond｜Idylwood Park Asphalt Art Design Call",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Redmond, Washington",
+      "cityKeywords": [
+        "Redmond",
+        "Redmond, Washington",
+        "雷德蒙德"
+      ],
+      "media": [
+        "瀝青公共藝術",
+        "行人穿越道",
+        "熱塑材料圖像"
+      ],
+      "works": "Idylwood Park Asphalt Art Design Call｜截止 2026.10.25（官方僅公布日期）",
+      "comment": "為 Idylwood Park 三處行人穿越道徵求原創圖像，入選設計將轉製為耐久熱塑材料，使交通安全設施同時承載地方辨識與步行經驗。",
+      "website": "https://www.4culture.org/listings/idylwood-park-asphalt-art-design-call/",
+      "workPage": "https://www.4culture.org/listings/idylwood-park-asphalt-art-design-call/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.4culture.org/listings/idylwood-park-asphalt-art-design-call/",
+      "artistStatement": "為 Idylwood Park 三處行人穿越道徵求原創圖像，入選設計將轉製為耐久熱塑材料，使交通安全設施同時承載地方辨識與步行經驗。",
+      "artistStatementSource": "https://www.4culture.org/listings/idylwood-park-asphalt-art-design-call/",
+      "classicTitle": "Redmond｜Idylwood Park Asphalt Art Design Call",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.4culture.org/listings/idylwood-park-asphalt-art-design-call/",
+      "classicDesc": "為 Idylwood Park 三處行人穿越道徵求原創圖像，入選設計將轉製為耐久熱塑材料，使交通安全設施同時承載地方辨識與步行經驗。",
+      "deadline": "2026-10-25T23:59:59-07:00",
+      "deadlineLabel": "截止 2026.10.25（官方僅公布日期）",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "date",
+      "organizer": "City of Redmond",
+      "eligibility": "美國境內個人藝術家或藝術家團體；主辦方會考量與 Redmond 的地理鄰近性",
+      "budget": "入選設計費 USD 3,000；準決選概念費每案 USD 500",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "competition-2026-10-05-03",
+      "dedupeKey": "opportunity-fairport-public-arts-committee-fairport-fairport-perinton-art-trail",
+      "name": "03｜Fairport｜Fairport-Perinton Art Trail",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Fairport–Perinton, New York",
+      "cityKeywords": [
+        "Fairport",
+        "Fairport, New York",
+        "費爾波特"
+      ],
+      "media": [
+        "公共藝術委託",
+        "運河藝術路徑",
+        "場域特定作品"
+      ],
+      "works": "Fairport-Perinton Art Trail｜截止 2026.10.30（官方僅公布日期）",
+      "comment": "徵求設置於歷史伊利運河沿線藝術路徑的場域特定作品，需回應水岸、地方歷史與步行／單車使用者的觀看尺度。",
+      "website": "https://www.4culture.org/listings/fairport-perinton-art-trail-ny/",
+      "workPage": "https://www.4culture.org/listings/fairport-perinton-art-trail-ny/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.4culture.org/listings/fairport-perinton-art-trail-ny/",
+      "artistStatement": "徵求設置於歷史伊利運河沿線藝術路徑的場域特定作品，需回應水岸、地方歷史與步行／單車使用者的觀看尺度。",
+      "artistStatementSource": "https://www.4culture.org/listings/fairport-perinton-art-trail-ny/",
+      "classicTitle": "Fairport｜Fairport-Perinton Art Trail",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.4culture.org/listings/fairport-perinton-art-trail-ny/",
+      "classicDesc": "徵求設置於歷史伊利運河沿線藝術路徑的場域特定作品，需回應水岸、地方歷史與步行／單車使用者的觀看尺度。",
+      "deadline": "2026-10-30T23:59:59-04:00",
+      "deadlineLabel": "截止 2026.10.30（官方僅公布日期）",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "date",
+      "organizer": "Fairport Public Arts Committee",
+      "eligibility": "所有藝術家與藝術家團隊均可申請",
+      "budget": "USD 30,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "competition-2026-10-05-04",
+      "dedupeKey": "opportunity-gemeinde-ha-loch-ha-loch-neubau-kita-mts-muller-thurgau-stra-e-kunst-am-bau",
+      "name": "04｜Haßloch｜Neubau Kita MTS Müller-Thurgau-Straße Kunst am Bau",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "德國 / Haßloch",
+      "cityKeywords": [
+        "Haßloch",
+        "Hassloch",
+        "哈斯洛赫"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "幼兒園新建工程",
+        "公共藝術競圖"
+      ],
+      "works": "Neubau Kita MTS Müller-Thurgau-Straße Kunst am Bau｜截止 2026.10.28（官方僅公布日期）",
+      "comment": "為 Müller-Thurgau-Straße 新建幼兒園辦理 Kunst am Bau 預選，要求藝術概念與兒童日常、建築空間及長期公共使用建立關係。",
+      "website": "https://www.bbkrlp.de/kunst-am-bau/ausschreibungen-wettbewerbe",
+      "workPage": "https://www.bbkrlp.de/kunst-am-bau/ausschreibungen-wettbewerbe",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbkrlp.de/kunst-am-bau/ausschreibungen-wettbewerbe",
+      "artistStatement": "為 Müller-Thurgau-Straße 新建幼兒園辦理 Kunst am Bau 預選，要求藝術概念與兒童日常、建築空間及長期公共使用建立關係。",
+      "artistStatementSource": "https://www.bbkrlp.de/kunst-am-bau/ausschreibungen-wettbewerbe",
+      "classicTitle": "Haßloch｜Neubau Kita MTS Müller-Thurgau-Straße Kunst am Bau",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbkrlp.de/kunst-am-bau/ausschreibungen-wettbewerbe",
+      "classicDesc": "為 Müller-Thurgau-Straße 新建幼兒園辦理 Kunst am Bau 預選，要求藝術概念與兒童日常、建築空間及長期公共使用建立關係。",
+      "deadline": "2026-10-28T23:59:59+01:00",
+      "deadlineLabel": "截止 2026.10.28（官方僅公布日期）",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Gemeinde Haßloch",
+      "eligibility": "專業視覺藝術家／藝術家團隊；完整條件依官方申請文件",
+      "budget": "EUR 70,000，含藝術家費、材料、製作、安裝與稅費",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "competition-2026-10-05-05",
+      "dedupeKey": "opportunity-lendhauer-klagenfurt-urban-ecologies-coexistence-and-control",
+      "name": "05｜Klagenfurt｜Urban Ecologies: Coexistence and Control",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "奧地利 / Klagenfurt am Wörthersee",
+      "cityKeywords": [
+        "Klagenfurt",
+        "Klagenfurt am Wörthersee",
+        "克拉根福"
+      ],
+      "media": [
+        "公共空間公開徵件",
+        "城市生態",
+        "跨領域場域計畫"
+      ],
+      "works": "Urban Ecologies: Coexistence and Control｜截止 2026.11.02（官方僅公布日期）",
+      "comment": "面向國際個人與團體徵集在 Lendhafen 公共空間實現的跨領域作品，聚焦都市生態中共存、控制與人類／非人關係。",
+      "website": "https://www.bbk-bayern.de/aktuelles/open-call-2027-urban-ecologies-coexistence-and-control",
+      "workPage": "https://www.bbk-bayern.de/aktuelles/open-call-2027-urban-ecologies-coexistence-and-control",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bayern.de/aktuelles/open-call-2027-urban-ecologies-coexistence-and-control",
+      "artistStatement": "面向國際個人與團體徵集在 Lendhafen 公共空間實現的跨領域作品，聚焦都市生態中共存、控制與人類／非人關係。",
+      "artistStatementSource": "https://www.bbk-bayern.de/aktuelles/open-call-2027-urban-ecologies-coexistence-and-control",
+      "classicTitle": "Klagenfurt｜Urban Ecologies: Coexistence and Control",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bbk-bayern.de/aktuelles/open-call-2027-urban-ecologies-coexistence-and-control",
+      "classicDesc": "面向國際個人與團體徵集在 Lendhafen 公共空間實現的跨領域作品，聚焦都市生態中共存、控制與人類／非人關係。",
+      "deadline": "2026-11-02T23:59:59+01:00",
+      "deadlineLabel": "截止 2026.11.02（官方僅公布日期）",
+      "deadlineTimezone": "Europe/Vienna",
+      "deadlinePrecision": "date",
+      "organizer": "Lendhauer",
+      "eligibility": "奧地利及國際個人創作者與團體；歡迎跨領域提案",
+      "budget": "製作費最高 EUR 4,000；藝術家費最高 EUR 2,500；旅費最高 EUR 1,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     }
   ],
-  "updated": "2026-10-04",
-  "generatedAt": "2026-10-04T05:20:00+08:00"
+  "updated": "2026-10-05",
+  "generatedAt": "2026-10-05T05:38:00+08:00"
 }

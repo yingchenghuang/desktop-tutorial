@@ -1,0 +1,673 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-05T05:38:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-05",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "NYC DCLA、Public Art Fund、Seattle Office of Arts & Culture、San Francisco Recreation and Parks、Madison Square Park Conservancy、Museum der 1000 Orte 第一方頁面",
+    "selectionPolicy": "已實現且持續開放的空間介入、建築整合、互動、光、地景與觀念性公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/05 固定 10＋5＋5；人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-05T05:38:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-05T05:38:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-01",
+      "dedupeKey": "art-misfit-toys-where-s-the-ball",
+      "name": "01｜Misfit Toys｜Where’s the Ball",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco, California",
+      "cityKeywords": [
+        "San Francisco",
+        "SF",
+        "舊金山"
+      ],
+      "media": [
+        "遊戲型公共藝術",
+        "互動裝置",
+        "公園步行空間"
+      ],
+      "works": "Where’s the Ball｜2026",
+      "comment": "色彩鮮明的遊戲型構件沿 JFK Promenade 展開，觀者透過尋找、移動與共同辨認啟動作品；原本以通行為主的步道因此成為好奇、對話與停留的公共遊戲場。",
+      "website": "https://recpark.sf.gov/m/newsflash/home/detail/2771",
+      "workPage": "https://recpark.sf.gov/m/newsflash/home/detail/2771",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://recpark.sf.gov/m/newsflash/home/detail/2771",
+      "artistStatement": "色彩鮮明的遊戲型構件沿 JFK Promenade 展開，觀者透過尋找、移動與共同辨認啟動作品；原本以通行為主的步道因此成為好奇、對話與停留的公共遊戲場。",
+      "artistStatementSource": "https://recpark.sf.gov/m/newsflash/home/detail/2771",
+      "classicTitle": "Where’s the Ball｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://recpark.sf.gov/m/newsflash/home/detail/2771",
+      "classicDesc": "以尋找機制和可親近尺度，把藝術觀看轉為跨年齡的城市遊戲。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-02",
+      "dedupeKey": "art-layqa-nuna-yawar-between-the-future-past",
+      "name": "02｜Layqa Nuna Yawar｜Between the Future Past",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Newark, New Jersey",
+      "cityKeywords": [
+        "Newark",
+        "Newark, New Jersey",
+        "紐華克"
+      ],
+      "media": [
+        "機場公共藝術",
+        "建築整合圖像",
+        "壓克力、噴墨織物與鋁板"
+      ],
+      "works": "Between the Future Past｜2021–2022",
+      "comment": "大幅圖像被嵌入航廈建築，讓移民、跨境與地方身分在旅客移動中交疊；作品不是裝飾牆，而是把公共交通空間轉成關於抵達與歸屬的敘事介面。",
+      "website": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "artistStatement": "大幅圖像被嵌入航廈建築，讓移民、跨境與地方身分在旅客移動中交疊；作品不是裝飾牆，而是把公共交通空間轉成關於抵達與歸屬的敘事介面。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "classicTitle": "Between the Future Past｜2021–2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "classicDesc": "以建築尺度的圖像回應機場作為遷徙、離境與返鄉的公共場域。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-03",
+      "dedupeKey": "art-rafael-lozano-hemmer-speaking-willow",
+      "name": "03｜Rafael Lozano-Hemmer｜Speaking Willow",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "Washington DC",
+        "華盛頓特區"
+      ],
+      "media": [
+        "互動聲音裝置",
+        "鋁構、揚聲器、LED 與多語錄音",
+        "永久公共委託"
+      ],
+      "works": "Speaking Willow｜2020",
+      "comment": "樹冠般結構依觀者所在位置播放不同語言，步行路徑決定可聽見的聲音組合；語言不再是標示，而成為由身體穿越啟動的空間媒材。",
+      "website": "https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "artistStatement": "樹冠般結構依觀者所在位置播放不同語言，步行路徑決定可聽見的聲音組合；語言不再是標示，而成為由身體穿越啟動的空間媒材。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "classicTitle": "Speaking Willow｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "classicDesc": "以數百種語言建立可步入的聲音樹蔭，將多元社群轉成公共聆聽經驗。",
+      "relatedByCity": [
+        "competition-2026-09-15-04"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-04",
+      "dedupeKey": "art-anna-valentina-murch-skytones",
+      "name": "04｜Anna Valentina Murch｜Skytones",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Seattle, Washington",
+      "cityKeywords": [
+        "Seattle",
+        "Seattle, Washington",
+        "西雅圖"
+      ],
+      "media": [
+        "建築整合光裝置",
+        "玻璃、光與電子控制",
+        "永久公共藝術"
+      ],
+      "works": "Skytones｜1998／2026 修復升級",
+      "comment": "作品藉修復與控制系統升級重新啟動，光線在音樂廳公共空間中隨時間改變，使建築表面不斷出現天空、色彩與城市節奏的映照。",
+      "website": "https://artbeat.seattle.gov/2026/06/10/art-highlight-skytones-by-anna-valentina-murch/",
+      "workPage": "https://artbeat.seattle.gov/2026/06/10/art-highlight-skytones-by-anna-valentina-murch/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/06/10/art-highlight-skytones-by-anna-valentina-murch/",
+      "artistStatement": "作品藉修復與控制系統升級重新啟動，光線在音樂廳公共空間中隨時間改變，使建築表面不斷出現天空、色彩與城市節奏的映照。",
+      "artistStatementSource": "https://artbeat.seattle.gov/2026/06/10/art-highlight-skytones-by-anna-valentina-murch/",
+      "classicTitle": "Skytones｜1998／2026 修復升級",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artbeat.seattle.gov/2026/06/10/art-highlight-skytones-by-anna-valentina-murch/",
+      "classicDesc": "長期公共藝術透過保存更新延續其時間性，而非成為靜止物件。",
+      "relatedByCity": [
+        "competition-2026-10-05-01"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-05",
+      "dedupeKey": "art-sanjay-vora-reflection-projection",
+      "name": "05｜Sanjay Vora｜Reflection & Projection",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco, California",
+      "cityKeywords": [
+        "San Francisco",
+        "SF",
+        "舊金山"
+      ],
+      "media": [
+        "互動公共藝術",
+        "彩繪鏡面不鏽鋼磁磚",
+        "永久委託"
+      ],
+      "works": "Reflection & Projection｜2026",
+      "comment": "約八乘十英尺的鏡面磁磚裝置在活動中心入口折射觀者、街景與色彩，社群成員會進入作品影像，讓「歸屬」透過共同觀看與被觀看持續生成。",
+      "website": "https://recpark.sf.gov/m/newsflash/home/detail/2654",
+      "workPage": "https://recpark.sf.gov/m/newsflash/home/detail/2654",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://recpark.sf.gov/m/newsflash/home/detail/2654",
+      "artistStatement": "約八乘十英尺的鏡面磁磚裝置在活動中心入口折射觀者、街景與色彩，社群成員會進入作品影像，讓「歸屬」透過共同觀看與被觀看持續生成。",
+      "artistStatementSource": "https://recpark.sf.gov/m/newsflash/home/detail/2654",
+      "classicTitle": "Reflection & Projection｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://recpark.sf.gov/m/newsflash/home/detail/2654",
+      "classicDesc": "鏡面與步行視角把公共建築入口轉成共享自我影像的裝置。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-06",
+      "dedupeKey": "art-cjay-roughgarden-naga",
+      "name": "06｜Cjay Roughgarden 與協作團隊｜Naga",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco, California",
+      "cityKeywords": [
+        "San Francisco",
+        "SF",
+        "舊金山"
+      ],
+      "media": [
+        "大型公共裝置",
+        "回收材料與燈光",
+        "城市藝術路徑"
+      ],
+      "works": "Naga｜2025",
+      "comment": "蜿蜒形體沿公園步道展開，尺度、光線與群眾募資讓作品同時成為可接近的城市地標與社群共同完成的公共設施式雕塑。",
+      "website": "https://recpark.sf.gov/m/newsflash/Home/Detail/3067",
+      "workPage": "https://recpark.sf.gov/m/newsflash/Home/Detail/3067",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://recpark.sf.gov/m/newsflash/Home/Detail/3067",
+      "artistStatement": "蜿蜒形體沿公園步道展開，尺度、光線與群眾募資讓作品同時成為可接近的城市地標與社群共同完成的公共設施式雕塑。",
+      "artistStatementSource": "https://recpark.sf.gov/m/newsflash/Home/Detail/3067",
+      "classicTitle": "Naga｜2025",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://recpark.sf.gov/m/newsflash/Home/Detail/3067",
+      "classicDesc": "以非人物、可穿行的巨大生物形態連結夜間景觀、步行與社群投入。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-07",
+      "dedupeKey": "art-kate-raudenbush-seed-of-self",
+      "name": "07｜Kate Raudenbush｜Seed of Self",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco, California",
+      "cityKeywords": [
+        "San Francisco",
+        "SF",
+        "舊金山"
+      ],
+      "media": [
+        "大型臨時裝置",
+        "金屬、鏡面球體、座椅與光",
+        "公園公共藝術"
+      ],
+      "works": "Seed of Self｜2026",
+      "comment": "裂開的種子包覆黃銅曼陀羅、鏡面球與可停留座椅，觀者可進入內部，在反射與夜間光線間把自我觀看轉成集體休憩。",
+      "website": "https://www.bigartloop.org/kate-raudenbush-seed-of-self",
+      "workPage": "https://www.bigartloop.org/kate-raudenbush-seed-of-self",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bigartloop.org/kate-raudenbush-seed-of-self",
+      "artistStatement": "裂開的種子包覆黃銅曼陀羅、鏡面球與可停留座椅，觀者可進入內部，在反射與夜間光線間把自我觀看轉成集體休憩。",
+      "artistStatementSource": "https://www.bigartloop.org/kate-raudenbush-seed-of-self",
+      "classicTitle": "Seed of Self｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bigartloop.org/kate-raudenbush-seed-of-self",
+      "classicDesc": "作品以容納身體的種子結構討論生長、內觀與公共停留。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-08",
+      "dedupeKey": "art-jack-champion-an-attempted-murder",
+      "name": "08｜Jack Champion｜An Attempted Murder",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco, California",
+      "cityKeywords": [
+        "San Francisco",
+        "SF",
+        "舊金山"
+      ],
+      "media": [
+        "大型臨時雕塑",
+        "複合媒材",
+        "公園場域介入"
+      ],
+      "works": "An Attempted Murder｜2026",
+      "comment": "兩隻巨大烏鴉介入 Panhandle 草地，以語言雙關與異常尺度改變熟悉公園景觀；作品把日常物種轉成需要繞行、靠近與重新辨認的城市事件。",
+      "website": "https://www.bigartloop.org/jack-champion-an-attempted-murder",
+      "workPage": "https://www.bigartloop.org/jack-champion-an-attempted-murder",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bigartloop.org/jack-champion-an-attempted-murder",
+      "artistStatement": "兩隻巨大烏鴉介入 Panhandle 草地，以語言雙關與異常尺度改變熟悉公園景觀；作品把日常物種轉成需要繞行、靠近與重新辨認的城市事件。",
+      "artistStatementSource": "https://www.bigartloop.org/jack-champion-an-attempted-murder",
+      "classicTitle": "An Attempted Murder｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bigartloop.org/jack-champion-an-attempted-murder",
+      "classicDesc": "非人物具象形態藉尺度錯置重組公園觀看與幽默感。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-09",
+      "dedupeKey": "art-griffin-loop-launch-intention",
+      "name": "09｜Griffin Loop｜Launch Intention",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco, California",
+      "cityKeywords": [
+        "San Francisco",
+        "SF",
+        "舊金山"
+      ],
+      "media": [
+        "大型臨時裝置",
+        "紙飛機形構築",
+        "參與式公共藝術"
+      ],
+      "works": "Launch Intention｜2026",
+      "comment": "五十英尺長的紙飛機形體落在 Marina Green，將輕盈手勢放大為地景尺度；共同書寫意念、摺紙與拋擲活動把雕塑轉成群體行動平台。",
+      "website": "https://www.bigartloop.org/griffin-loop-launch-intention",
+      "workPage": "https://www.bigartloop.org/griffin-loop-launch-intention",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bigartloop.org/griffin-loop-launch-intention",
+      "artistStatement": "五十英尺長的紙飛機形體落在 Marina Green，將輕盈手勢放大為地景尺度；共同書寫意念、摺紙與拋擲活動把雕塑轉成群體行動平台。",
+      "artistStatementSource": "https://www.bigartloop.org/griffin-loop-launch-intention",
+      "classicTitle": "Launch Intention｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bigartloop.org/griffin-loop-launch-intention",
+      "classicDesc": "作品以放大、參與和海濱風勢串聯個人願望與公共空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "current-2026-10-05-10",
+      "dedupeKey": "art-illuminate-7x7",
+      "name": "10｜Illuminate 與協作團隊｜7X7",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / San Francisco, California",
+      "cityKeywords": [
+        "San Francisco",
+        "SF",
+        "舊金山"
+      ],
+      "media": [
+        "城市光藝術",
+        "四十九道光束",
+        "暫時性公共裝置"
+      ],
+      "works": "7X7｜2026",
+      "comment": "四十九道光束取自舊金山七乘七英里的城市尺度，在 Civic Center 上空組成可變色的夜間場域；作品把抽象地理數字轉成全城共享的可見事件。",
+      "website": "https://recpark.sf.gov/m/newsflash/home/detail/2945",
+      "workPage": "https://recpark.sf.gov/m/newsflash/home/detail/2945",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://recpark.sf.gov/m/newsflash/home/detail/2945",
+      "artistStatement": "四十九道光束取自舊金山七乘七英里的城市尺度，在 Civic Center 上空組成可變色的夜間場域；作品把抽象地理數字轉成全城共享的可見事件。",
+      "artistStatementSource": "https://recpark.sf.gov/m/newsflash/home/detail/2945",
+      "classicTitle": "7X7｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://recpark.sf.gov/m/newsflash/home/detail/2945",
+      "classicDesc": "以光束、節慶時間與城市尺度構成非物質的公共地標。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "global-classic-2026-10-05-11",
+      "dedupeKey": "art-cristina-iglesias-landscape-and-memory",
+      "name": "11｜Cristina Iglesias｜Landscape and Memory",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "公共藝術經典",
+        "青銅、水與機械系統",
+        "場域特定裝置"
+      ],
+      "works": "Landscape and Memory｜2022",
+      "comment": "下沉青銅池與循環水流讓公園地表彷彿被潮汐打開，城市地景在乾濕、顯隱之間切換，喚回曼哈頓曾經的水文記憶。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/cristina-iglesias-landscape-and-memory/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/cristina-iglesias-landscape-and-memory/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/cristina-iglesias-landscape-and-memory/",
+      "artistStatement": "下沉青銅池與循環水流讓公園地表彷彿被潮汐打開，城市地景在乾濕、顯隱之間切換，喚回曼哈頓曾經的水文記憶。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/cristina-iglesias-landscape-and-memory/",
+      "classicTitle": "Landscape and Memory｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/cristina-iglesias-landscape-and-memory/",
+      "classicDesc": "以水與地表機械運動讓被城市覆蓋的自然史重新出現。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "global-classic-2026-10-05-12",
+      "dedupeKey": "art-leonardo-drew-city-in-the-grass",
+      "name": "12｜Leonardo Drew｜City in the Grass",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "公共藝術經典",
+        "鋁、砂、木與彩色表面",
+        "可步入地景裝置"
+      ],
+      "works": "City in the Grass｜2019",
+      "comment": "長達百英尺的起伏地景把城市網格、地毯與廢墟感疊合，觀者沿邊界移動並改變視點，公園草地因此成為一座介於地圖與想像城市之間的表面。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/leonardo-drew-city-in-the-grass/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/leonardo-drew-city-in-the-grass/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/leonardo-drew-city-in-the-grass/",
+      "artistStatement": "長達百英尺的起伏地景把城市網格、地毯與廢墟感疊合，觀者沿邊界移動並改變視點，公園草地因此成為一座介於地圖與想像城市之間的表面。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/leonardo-drew-city-in-the-grass/",
+      "classicTitle": "City in the Grass｜2019",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/leonardo-drew-city-in-the-grass/",
+      "classicDesc": "將繪畫性表面擴張成可由身體閱讀的城市地形。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "global-classic-2026-10-05-13",
+      "dedupeKey": "art-nicole-eisenman-fixed-crane",
+      "name": "13｜Nicole Eisenman｜Fixed Crane",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "公共藝術經典",
+        "大型場域雕塑",
+        "機械結構與複合媒材"
+      ],
+      "works": "Fixed Crane｜2024",
+      "comment": "藝術家借用施工吊車的語彙，把城市生產與勞動機具轉成失去效率、具有荒謬姿態的雕塑；熟悉的基礎設施在公園中成為對城市權力的提問。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/nicole-eisenman-fixed-crane/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/nicole-eisenman-fixed-crane/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/nicole-eisenman-fixed-crane/",
+      "artistStatement": "藝術家借用施工吊車的語彙，把城市生產與勞動機具轉成失去效率、具有荒謬姿態的雕塑；熟悉的基礎設施在公園中成為對城市權力的提問。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/nicole-eisenman-fixed-crane/",
+      "classicTitle": "Fixed Crane｜2024",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/nicole-eisenman-fixed-crane/",
+      "classicDesc": "以都市機械的錯置揭露建造、勞動與公共空間的關係。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "global-classic-2026-10-05-14",
+      "dedupeKey": "art-hugh-hayden-brier-patch",
+      "name": "14｜Hugh Hayden｜Brier Patch",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "公共藝術經典",
+        "木材與學校桌椅",
+        "場域特定裝置"
+      ],
+      "works": "Brier Patch｜2022",
+      "comment": "大量學校桌椅延伸出纏繞枝條，熟悉的教育家具變成難以穿越的灌叢；作品以誘惑與阻礙並存的空間討論機會、制度與美國夢。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/hugh-hayden-brier-patch/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/hugh-hayden-brier-patch/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/hugh-hayden-brier-patch/",
+      "artistStatement": "大量學校桌椅延伸出纏繞枝條，熟悉的教育家具變成難以穿越的灌叢；作品以誘惑與阻礙並存的空間討論機會、制度與美國夢。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/hugh-hayden-brier-patch/",
+      "classicTitle": "Brier Patch｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/hugh-hayden-brier-patch/",
+      "classicDesc": "由標準化家具長出尖銳枝條，將社會制度轉成可感的身體障礙。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "global-classic-2026-10-05-15",
+      "dedupeKey": "art-maya-lin-ghost-forest",
+      "name": "15｜Maya Lin｜Ghost Forest",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "公共藝術經典",
+        "大西洋白雪松",
+        "氣候地景裝置"
+      ],
+      "works": "Ghost Forest｜2021",
+      "comment": "枯死白雪松被移置到城市公園，直立樹幹形成安靜卻強烈的氣候景觀；「鬼森林」把海平面上升與鹽化造成的生態死亡帶到日常通勤視野。",
+      "website": "https://madisonsquarepark.org/art/exhibitions/maya-lin-ghost-forest/",
+      "workPage": "https://madisonsquarepark.org/art/exhibitions/maya-lin-ghost-forest/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/maya-lin-ghost-forest/",
+      "artistStatement": "枯死白雪松被移置到城市公園，直立樹幹形成安靜卻強烈的氣候景觀；「鬼森林」把海平面上升與鹽化造成的生態死亡帶到日常通勤視野。",
+      "artistStatementSource": "https://madisonsquarepark.org/art/exhibitions/maya-lin-ghost-forest/",
+      "classicTitle": "Ghost Forest｜2021",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://madisonsquarepark.org/art/exhibitions/maya-lin-ghost-forest/",
+      "classicDesc": "以真實受損樹木把遠方氣候現象轉成城市中心的集體尺度。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "german-classic-2026-10-05-16",
+      "dedupeKey": "art-hans-dieter-bohnet-farb-form-objekt-wunderapfel-zauberapfel",
+      "name": "16｜Hans Dieter Bohnet｜Farb-Form-Objekt (Wunderapfel/Zauberapfel)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "動力雕塑",
+        "金屬球體與色彩"
+      ],
+      "works": "Farb-Form-Objekt (Wunderapfel/Zauberapfel)｜1972",
+      "comment": "可轉動的球體藉切分、色彩與觀看角度不斷變形，工業材料不再維持穩定外觀，而在建築空間中成為由時間完成的視覺事件。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farb-form-objekt-wunderapfel-zauberapfel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farb-form-objekt-wunderapfel-zauberapfel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farb-form-objekt-wunderapfel-zauberapfel",
+      "artistStatement": "可轉動的球體藉切分、色彩與觀看角度不斷變形，工業材料不再維持穩定外觀，而在建築空間中成為由時間完成的視覺事件。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farb-form-objekt-wunderapfel-zauberapfel",
+      "classicTitle": "Farb-Form-Objekt (Wunderapfel/Zauberapfel)｜1972",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/farb-form-objekt-wunderapfel-zauberapfel",
+      "classicDesc": "以動力、幾何與反射建立 Bonner Republik 時期技術樂觀主義的建築藝術。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "german-classic-2026-10-05-17",
+      "dedupeKey": "art-gunter-grohs-o-t-glasgestaltung",
+      "name": "17｜Günter Grohs｜o. T. (Glasgestaltung)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Quedlinburg",
+      "cityKeywords": [
+        "Quedlinburg",
+        "奎德林堡"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "玻璃藝術",
+        "噴砂與彩色 ESG 玻璃"
+      ],
+      "works": "o. T. (Glasgestaltung)｜2006",
+      "comment": "噴砂與彩色附著層直接介入研究機構門廳與主廊的玻璃立面，日光、植物研究主題與穿行視線在透明表面上重疊。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasgestaltung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasgestaltung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasgestaltung",
+      "artistStatement": "噴砂與彩色附著層直接介入研究機構門廳與主廊的玻璃立面，日光、植物研究主題與穿行視線在透明表面上重疊。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasgestaltung",
+      "classicTitle": "o. T. (Glasgestaltung)｜2006",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasgestaltung",
+      "classicDesc": "玻璃不是附掛裝飾，而是光線與動線共同完成的建築膜層。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "german-classic-2026-10-05-18",
+      "dedupeKey": "art-matt-mullican-o-t-bodenzeichnung",
+      "name": "18｜Matt Mullican｜o. T. (Bodenzeichnung)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Hamburg",
+      "cityKeywords": [
+        "Hamburg",
+        "漢堡"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "地坪嵌入",
+        "石材與符號系統"
+      ],
+      "works": "o. T. (Bodenzeichnung)｜2001",
+      "comment": "方形與圓形符號以特殊鑄造方式嵌入石地坪，把藝術家的宇宙觀編碼成必須被踩踏與穿越的路徑；語言、圖示與建築入口被合成一張公共認知地圖。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodenzeichnung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodenzeichnung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodenzeichnung",
+      "artistStatement": "方形與圓形符號以特殊鑄造方式嵌入石地坪，把藝術家的宇宙觀編碼成必須被踩踏與穿越的路徑；語言、圖示與建築入口被合成一張公共認知地圖。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodenzeichnung",
+      "classicTitle": "o. T. (Bodenzeichnung)｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-bodenzeichnung",
+      "classicDesc": "地面不只導引交通，也成為結構化世界觀的公共介面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "german-classic-2026-10-05-19",
+      "dedupeKey": "art-johannes-peter-holzinger-visuelles-leitsystem-winkel-welle-halbschale-spirale-und-deren-kombinationen",
+      "name": "19｜Johannes Peter Hölzinger｜Visuelles Leitsystem (Winkel, Welle, Halbschale, Spirale und deren Kombinationen)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "視覺導引系統",
+        "建築整合形構"
+      ],
+      "works": "Visuelles Leitsystem (Winkel, Welle, Halbschale, Spirale und deren Kombinationen)｜1989",
+      "comment": "角、波浪、半殼與螺旋等幾何語彙遍布建築群，兼具方向辨識與環境塑形；導視不再是附屬標牌，而成為統整步行、建築和藝術的系統。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/visuelles-leitsystem-winkel-welle-halbschale-spirale-und-deren-kombinationen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/visuelles-leitsystem-winkel-welle-halbschale-spirale-und-deren-kombinationen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/visuelles-leitsystem-winkel-welle-halbschale-spirale-und-deren-kombinationen",
+      "artistStatement": "角、波浪、半殼與螺旋等幾何語彙遍布建築群，兼具方向辨識與環境塑形；導視不再是附屬標牌，而成為統整步行、建築和藝術的系統。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/visuelles-leitsystem-winkel-welle-halbschale-spirale-und-deren-kombinationen",
+      "classicTitle": "Visuelles Leitsystem (Winkel, Welle, Halbschale, Spirale und deren Kombinationen)｜1989",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/visuelles-leitsystem-winkel-welle-halbschale-spirale-und-deren-kombinationen",
+      "classicDesc": "以整體藝術觀把功能性導引升級為可被身體記憶的空間構成。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-05",
+      "id": "german-classic-2026-10-05-20",
+      "dedupeKey": "art-alexander-camaro-o-t-glasbausteinfenster",
+      "name": "20｜Alexander Camaro｜o. T. (Glasbausteinfenster)",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "德國 Kunst am Bau 經典",
+        "建築玻璃",
+        "彩色玻璃磚牆"
+      ],
+      "works": "o. T. (Glasbausteinfenster)｜1975",
+      "comment": "彩色玻璃磚牆將自然光過濾成厚實色帶，牆體同時是結構、界面與光的媒材；作品以模組化單元回應 Scharoun 建築的流動空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasbausteinfenster",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasbausteinfenster",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasbausteinfenster",
+      "artistStatement": "彩色玻璃磚牆將自然光過濾成厚實色帶，牆體同時是結構、界面與光的媒材；作品以模組化單元回應 Scharoun 建築的流動空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasbausteinfenster",
+      "classicTitle": "o. T. (Glasbausteinfenster)｜1975",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasbausteinfenster",
+      "classicDesc": "讓建築牆體本身成為持續隨日照改變的色光裝置。",
+      "relatedByCity": [
+        "competition-2026-08-24-03",
+        "competition-2026-08-31-05",
+        "competition-2026-09-01-02",
+        "competition-2026-09-01-05",
+        "competition-2026-09-08-05"
+      ]
+    }
+  ]
+}
