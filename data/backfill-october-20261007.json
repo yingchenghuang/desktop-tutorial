@@ -1,0 +1,668 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-07T05:04:02+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-07",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "KÖR Wien、Public Art Fund、Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "已實現且持續開放的空間介入、建築整合、互動、光、聲音、水與地景公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/07 固定 10＋5＋5；人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-07T05:04:02+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-07T05:04:02+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-01",
+      "dedupeKey": "art-claudia-marzendorfer-a-chicken-can-t-lay-a-duck-egg",
+      "name": "01｜Claudia Märzendorfer｜A Chicken Can't Lay a Duck Egg",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "A Chicken Can't Lay a Duck Egg｜2026.05.13–10.30",
+      "comment": "作品設於維也納 Graben 公共藝術場域，以日常物件與語言的錯位重新切入高度商業化的城市核心；暫時性介入讓熟悉街景產生不穩定、可重新閱讀的縫隙。",
+      "website": "https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "workPage": "https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "artistStatement": "作品設於維也納 Graben 公共藝術場域，以日常物件與語言的錯位重新切入高度商業化的城市核心；暫時性介入讓熟悉街景產生不穩定、可重新閱讀的縫隙。",
+      "artistStatementSource": "https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "classicTitle": "A Chicken Can't Lay a Duck Egg｜2026.05.13–10.30",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/a-chicken-cant-lay-a-duck-egg/",
+      "classicDesc": "以輕微荒謬與物件錯位打開城市日常的想像空間。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-02",
+      "dedupeKey": "art-christian-kosmas-mayer-the-lost-garden",
+      "name": "02｜Christian Kosmas Mayer｜The Lost Garden",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "The Lost Garden｜2025–永久",
+      "comment": "逾三百平方公尺的多段壁畫把已消失的 Prónay Garden 帶回 Meidling 車站；作品不復原單一歷史真相，而以手繪研究與機器轉譯討論影像如何生產記憶。",
+      "website": "https://www.koer.or.at/projects/the-lost-garden/",
+      "workPage": "https://www.koer.or.at/projects/the-lost-garden/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/the-lost-garden/",
+      "artistStatement": "逾三百平方公尺的多段壁畫把已消失的 Prónay Garden 帶回 Meidling 車站；作品不復原單一歷史真相，而以手繪研究與機器轉譯討論影像如何生產記憶。",
+      "artistStatementSource": "https://www.koer.or.at/projects/the-lost-garden/",
+      "classicTitle": "The Lost Garden｜2025–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/the-lost-garden/",
+      "classicDesc": "把消失花園的缺席轉成通勤空間中的歷史影像生成。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-03",
+      "dedupeKey": "art-barbara-kapusta-this-is-the-space-we-inhabit-as-neighbors",
+      "name": "03｜Barbara Kapusta｜This is the space we inhabit as neighbors",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "This is the space we inhabit as neighbors｜2025–永久",
+      "comment": "文字被拆解並嵌入 Otto-Preminger-Straße 的建築場域，拒絕單一可讀性；鄰里、語言與犯錯的可能性共同構成一種開放的公共政治。",
+      "website": "https://www.koer.or.at/projects/this-is-the-space-we-inhabit-as-neighbors/",
+      "workPage": "https://www.koer.or.at/projects/this-is-the-space-we-inhabit-as-neighbors/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/this-is-the-space-we-inhabit-as-neighbors/",
+      "artistStatement": "文字被拆解並嵌入 Otto-Preminger-Straße 的建築場域，拒絕單一可讀性；鄰里、語言與犯錯的可能性共同構成一種開放的公共政治。",
+      "artistStatementSource": "https://www.koer.or.at/projects/this-is-the-space-we-inhabit-as-neighbors/",
+      "classicTitle": "This is the space we inhabit as neighbors｜2025–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/this-is-the-space-we-inhabit-as-neighbors/",
+      "classicDesc": "以難以一次讀完的文字，讓鄰里公共性保持可協商狀態。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-04",
+      "dedupeKey": "art-gelatin-clegg-and-guttmann-rfm-architektur-assemblage-familiar-stories-from-form-home",
+      "name": "04｜Gelatin, Clegg & Guttmann, RfM_Architektur｜Assemblage familiar: stories from / form home",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "建築/場域",
+        "社會參與",
+        "裝置"
+      ],
+      "works": "Assemblage familiar｜2025–永久",
+      "comment": "混凝土無頂小屋、多語公共書櫃與可居住立面由居民參與形成，把移民社區的不同生活經驗嵌入住宅公共空間，作品功能透過實際使用才完整。",
+      "website": "https://www.koer.or.at/projects/assemblage-familiar/",
+      "workPage": "https://www.koer.or.at/projects/assemblage-familiar/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/assemblage-familiar/",
+      "artistStatement": "混凝土無頂小屋、多語公共書櫃與可居住立面由居民參與形成，把移民社區的不同生活經驗嵌入住宅公共空間，作品功能透過實際使用才完整。",
+      "artistStatementSource": "https://www.koer.or.at/projects/assemblage-familiar/",
+      "classicTitle": "Assemblage familiar｜2025–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/assemblage-familiar/",
+      "classicDesc": "三組介入把住宅公共空間變成共享、閱讀與共作的平台。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-05",
+      "dedupeKey": "art-luisa-kasalicky-vektorgotik",
+      "name": "05｜Luisa Kasalicky｜Vektorgotik",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "Vektorgotik｜2025–永久",
+      "comment": "壁畫回應九〇年代住宅立面，以向量化的新哥德肋拱形式穿插既有窗洞；歷史建築語彙不被複製，而被轉成平面結構與住宅尺度的對話。",
+      "website": "https://www.koer.or.at/projects/vektorgotik/",
+      "workPage": "https://www.koer.or.at/projects/vektorgotik/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/vektorgotik/",
+      "artistStatement": "壁畫回應九〇年代住宅立面，以向量化的新哥德肋拱形式穿插既有窗洞；歷史建築語彙不被複製，而被轉成平面結構與住宅尺度的對話。",
+      "artistStatementSource": "https://www.koer.or.at/projects/vektorgotik/",
+      "classicTitle": "Vektorgotik｜2025–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/vektorgotik/",
+      "classicDesc": "以向量化哥德結構重新編排住宅立面的時間層次。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-06",
+      "dedupeKey": "art-franz-graf-sued",
+      "name": "06｜Franz Graf｜SUED",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "SUED｜2012–永久",
+      "comment": "六十五片玻璃以陶瓷數位印刷形成總站地下通道的四段影像帶，作品沿行走方向展開，使轉乘空間從單純交通設施轉為連續觀看的城市界面。",
+      "website": "https://www.koer.or.at/projects/sued/",
+      "workPage": "https://www.koer.or.at/projects/sued/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/sued/",
+      "artistStatement": "六十五片玻璃以陶瓷數位印刷形成總站地下通道的四段影像帶，作品沿行走方向展開，使轉乘空間從單純交通設施轉為連續觀看的城市界面。",
+      "artistStatementSource": "https://www.koer.or.at/projects/sued/",
+      "classicTitle": "SUED｜2012–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/sued/",
+      "classicDesc": "玻璃影像帶把通道的移動節奏轉化為連續閱讀。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-07",
+      "dedupeKey": "art-ernst-caramelle-ohne-titel",
+      "name": "07｜Ernst Caramelle｜Ohne Titel",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "建築/場域",
+        "光/影像/投影"
+      ],
+      "works": "Ohne Titel｜2013–永久",
+      "comment": "七十公尺長牆面以矽酸鹽塗料與對側鏡面共同構成；色面、反射與旅客移動持續互換位置，使地下通道成為沒有固定正面的空間畫作。",
+      "website": "https://www.koer.or.at/projects/ohne-titel/",
+      "workPage": "https://www.koer.or.at/projects/ohne-titel/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/ohne-titel/",
+      "artistStatement": "七十公尺長牆面以矽酸鹽塗料與對側鏡面共同構成；色面、反射與旅客移動持續互換位置，使地下通道成為沒有固定正面的空間畫作。",
+      "artistStatementSource": "https://www.koer.or.at/projects/ohne-titel/",
+      "classicTitle": "Ohne Titel｜2013–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/ohne-titel/",
+      "classicDesc": "色面與鏡面把通道變成由身體移動完成的繪畫。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-08",
+      "dedupeKey": "art-michael-kienzer-lines-and-double",
+      "name": "08｜Michael Kienzer｜Lines and Double",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Lines and Double｜2017–永久",
+      "comment": "三維構件脫離地鐵牆面，直接介入月台的尺度、表面與工程結構；作品把功能與非功能並置，拒絕把公共藝術縮減為裝飾或資訊傳達。",
+      "website": "https://www.koer.or.at/projects/lines-and-double/",
+      "workPage": "https://www.koer.or.at/projects/lines-and-double/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/lines-and-double/",
+      "artistStatement": "三維構件脫離地鐵牆面，直接介入月台的尺度、表面與工程結構；作品把功能與非功能並置，拒絕把公共藝術縮減為裝飾或資訊傳達。",
+      "artistStatementSource": "https://www.koer.or.at/projects/lines-and-double/",
+      "classicTitle": "Lines and Double｜2017–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/lines-and-double/",
+      "classicDesc": "脫牆的構件以空間張力重新拆解地鐵建築。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-09",
+      "dedupeKey": "art-ken-lum-pi",
+      "name": "09｜Ken Lum｜Pi",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "數位/互動",
+        "建築/場域"
+      ],
+      "works": "Pi｜2006–永久",
+      "comment": "鏡面、LED 計數器、圓周率與統計資料占據 Karlsplatz 地下通道；行人在鏡中看見自身與持續變動的數字並列，個體被拉進人口、遷移與歸屬的尺度。",
+      "website": "https://www.koer.or.at/projects/pi/",
+      "workPage": "https://www.koer.or.at/projects/pi/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/pi/",
+      "artistStatement": "鏡面、LED 計數器、圓周率與統計資料占據 Karlsplatz 地下通道；行人在鏡中看見自身與持續變動的數字並列，個體被拉進人口、遷移與歸屬的尺度。",
+      "artistStatementSource": "https://www.koer.or.at/projects/pi/",
+      "classicTitle": "Pi｜2006–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/pi/",
+      "classicDesc": "用即時數字與鏡像把全球統計轉成身體性的公共經驗。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "current-2026-10-07-10",
+      "dedupeKey": "art-gelatin-wirwasser",
+      "name": "10｜GELATIN｜WirWasser",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "雕塑",
+        "社會參與"
+      ],
+      "works": "WirWasser｜2023–永久",
+      "comment": "環形人物構成噴泉池體，中央水柱每日以不同色光照明；作品把維也納供水一百五十週年的基礎設施記憶，轉為可聚集、可親近的共同體空間。",
+      "website": "https://www.koer.or.at/projects/wewater/",
+      "workPage": "https://www.koer.or.at/projects/wewater/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/wewater/",
+      "artistStatement": "環形人物構成噴泉池體，中央水柱每日以不同色光照明；作品把維也納供水一百五十週年的基礎設施記憶，轉為可聚集、可親近的共同體空間。",
+      "artistStatementSource": "https://www.koer.or.at/projects/wewater/",
+      "classicTitle": "WirWasser｜2023–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/wewater/",
+      "classicDesc": "以可使用的當代噴泉連結城市水系、慶典與共同責任。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "global-classic-2026-10-07-01",
+      "dedupeKey": "art-marvin-torffield-volume",
+      "name": "11｜Marvin Torffield｜Volume",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "地景/大地藝術"
+      ],
+      "works": "Volume｜1980",
+      "comment": "三塊大型發泡聚苯乙烯被熱線切成起伏的白色楔形，如冰層或臨時地貌落在中央公園；輕質工業材料因此取得地景般尺度與季節性記憶。",
+      "website": "https://www.publicartfund.org/exhibitions/view/volume/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/volume/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/volume/",
+      "artistStatement": "三塊大型發泡聚苯乙烯被熱線切成起伏的白色楔形，如冰層或臨時地貌落在中央公園；輕質工業材料因此取得地景般尺度與季節性記憶。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/volume/",
+      "classicTitle": "Volume｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/volume/",
+      "classicDesc": "以人工白色地貌回應紐約缺席的冬季。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "global-classic-2026-10-07-02",
+      "dedupeKey": "art-sandro-martini-untitled",
+      "name": "12｜Sandro Martini｜Untitled",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Untitled｜1980–1981",
+      "comment": "手染帆布色帶懸掛於紐約公共圖書館後方，並在展期中每日重新排列；作品把固定建築背面轉成不斷變化的色彩、風與勞動介面。",
+      "website": "https://www.publicartfund.org/exhibitions/view/untitled-martini/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/untitled-martini/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/untitled-martini/",
+      "artistStatement": "手染帆布色帶懸掛於紐約公共圖書館後方，並在展期中每日重新排列；作品把固定建築背面轉成不斷變化的色彩、風與勞動介面。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/untitled-martini/",
+      "classicTitle": "Untitled｜1980–1981",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/untitled-martini/",
+      "classicDesc": "每日變換的帆布構成讓公共空間拒絕固定構圖。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "global-classic-2026-10-07-03",
+      "dedupeKey": "art-alice-adams-globe",
+      "name": "13｜Alice Adams｜Globe",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Globe｜1980–1981",
+      "comment": "橡木、層壓柏木與松木以榫卯組成十五乘十七英尺的開放結構，借用十六世紀木構劇場語彙，在市政廳公園中形成可被環繞閱讀的建築性雕塑。",
+      "website": "https://www.publicartfund.org/exhibitions/view/globe/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/globe/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/globe/",
+      "artistStatement": "橡木、層壓柏木與松木以榫卯組成十五乘十七英尺的開放結構，借用十六世紀木構劇場語彙，在市政廳公園中形成可被環繞閱讀的建築性雕塑。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/globe/",
+      "classicTitle": "Globe｜1980–1981",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/globe/",
+      "classicDesc": "榫卯木構把劇場記憶轉為城市公園中的開放骨架。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "global-classic-2026-10-07-04",
+      "dedupeKey": "art-rachel-whiteread-water-tower",
+      "name": "14｜Rachel Whiteread｜Water Tower",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "光/影像/投影"
+      ],
+      "works": "Water Tower｜1998–永久",
+      "comment": "半透明樹脂翻鑄木製水塔內部，日光使其折射成屋頂信標，陰天則顯露幽靈般的舊表面，夜晚幾乎消失；作品在物質存在與視覺消退之間擺盪。",
+      "website": "https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "artistStatement": "半透明樹脂翻鑄木製水塔內部，日光使其折射成屋頂信標，陰天則顯露幽靈般的舊表面，夜晚幾乎消失；作品在物質存在與視覺消退之間擺盪。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "classicTitle": "Water Tower｜1998–永久",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/water-tower/",
+      "classicDesc": "以負空間翻模讓城市水塔同時成為實體與消逝影像。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "global-classic-2026-10-07-05",
+      "dedupeKey": "art-anish-kapoor-descension",
+      "name": "15｜Anish Kapoor｜Descension",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "裝置"
+      ],
+      "works": "Descension｜2017",
+      "comment": "黑色水流不斷旋入地面圓孔，讓原本無形的重力與下降被視覺化；觀者在布魯克林橋公園邊緣面對一個既吸引又拒絕進入的動態空洞。",
+      "website": "https://www.publicartfund.org/exhibitions/view/anish-kapoor-descension/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/anish-kapoor-descension/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/anish-kapoor-descension/",
+      "artistStatement": "黑色水流不斷旋入地面圓孔，讓原本無形的重力與下降被視覺化；觀者在布魯克林橋公園邊緣面對一個既吸引又拒絕進入的動態空洞。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/anish-kapoor-descension/",
+      "classicTitle": "Descension｜2017",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/anish-kapoor-descension/",
+      "classicDesc": "以持續渦流把地面改造成深度、危險與未知的知覺裝置。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "german-classic-2026-10-07-01",
+      "dedupeKey": "art-rebecca-horn-verspiegeltes-planetensystem",
+      "name": "16｜Rebecca Horn｜Verspiegeltes Planetensystem",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "數位/互動",
+        "光/影像/投影"
+      ],
+      "works": "Verspiegeltes Planetensystem｜2000",
+      "comment": "二十一件帶電動馬達的鏡面塑體在交通部歷史建築中緩慢運動，反射將大廳擴展成近乎無限的光學空間，也以軌道與宇宙暗示機構的航空任務。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem",
+      "artistStatement": "二十一件帶電動馬達的鏡面塑體在交通部歷史建築中緩慢運動，反射將大廳擴展成近乎無限的光學空間，也以軌道與宇宙暗示機構的航空任務。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem",
+      "classicTitle": "Verspiegeltes Planetensystem｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem",
+      "classicDesc": "動態鏡面讓建築內部成為持續變形的行星系統。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "german-classic-2026-10-07-02",
+      "dedupeKey": "art-daniel-buren-la-grande-fenetre",
+      "name": "17｜Daniel Buren｜La Grande Fenêtre",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "光/影像/投影"
+      ],
+      "works": "La Grande Fenêtre｜2001",
+      "comment": "黑白條紋鋼框分成十六格，背光黃藍玻璃嵌入白牆與黑窗的嚴格網格；作品不增加巨大量體，而以色光把歷史建築入口變成新的視覺中心。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "artistStatement": "黑白條紋鋼框分成十六格，背光黃藍玻璃嵌入白牆與黑窗的嚴格網格；作品不增加巨大量體，而以色光把歷史建築入口變成新的視覺中心。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "classicTitle": "La Grande Fenêtre｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre",
+      "classicDesc": "以條紋、玻璃與背光介入紀念建築的秩序。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "german-classic-2026-10-07-03",
+      "dedupeKey": "art-gei-ler-and-lippert-unterton",
+      "name": "18｜Geißler & Lippert｜Unterton",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "數位/互動",
+        "建築/場域"
+      ],
+      "works": "Unterton｜2012",
+      "comment": "八座地下溝槽裝設電磁槌，由影像辨識讀取廣場行人數量與位置，敲擊鑄鐵蓋形成不同節奏；不可見的互動把通道式廣場轉成可被聽見的共同空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "artistStatement": "八座地下溝槽裝設電磁槌，由影像辨識讀取廣場行人數量與位置，敲擊鑄鐵蓋形成不同節奏；不可見的互動把通道式廣場轉成可被聽見的共同空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "classicTitle": "Unterton｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unterton",
+      "classicDesc": "用地下聲響回應行人流動，使歷史場址被重新感知。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "german-classic-2026-10-07-04",
+      "dedupeKey": "art-peter-bruning-nr-11-67-autobahndenkmal",
+      "name": "19｜Peter Brüning｜Nr. 11/67, Autobahndenkmal",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Wuppertal",
+      "cityKeywords": [
+        "Wuppertal",
+        "伍珀塔爾"
+      ],
+      "media": [
+        "雕塑",
+        "地景/大地藝術"
+      ],
+      "works": "Nr. 11/67, Autobahndenkmal｜1969",
+      "comment": "八公尺高的石砌柱體托起兩個彩色鐵環，以交通圖示把雙向高速公路捲起並固定為地景標誌；作品的尺度與簡潔符號專為高速移動中的瞬間辨識而設計。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nr-11-67-autobahndenkmal",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nr-11-67-autobahndenkmal",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nr-11-67-autobahndenkmal",
+      "artistStatement": "八公尺高的石砌柱體托起兩個彩色鐵環，以交通圖示把雙向高速公路捲起並固定為地景標誌；作品的尺度與簡潔符號專為高速移動中的瞬間辨識而設計。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nr-11-67-autobahndenkmal",
+      "classicTitle": "Nr. 11/67, Autobahndenkmal｜1969",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nr-11-67-autobahndenkmal",
+      "classicDesc": "把交通符號、速度與道路基礎設施凝縮為可瞬間辨讀的地景紀念物。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-07",
+      "id": "german-classic-2026-10-07-05",
+      "dedupeKey": "art-barbara-trautmann-insulaner",
+      "name": "20｜Barbara Trautmann｜Insulaner",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Greifswald - Insel Riems",
+      "cityKeywords": [
+        "Greifswald",
+        "Insel Riems",
+        "格賴夫斯瓦爾德",
+        "里姆斯島"
+      ],
+      "media": [
+        "雕塑",
+        "地景/大地藝術"
+      ],
+      "works": "Insulaner｜2014",
+      "comment": "一百八十九個橘紅色二十面體散布於近四百平方公尺草地，借用病毒研究的幾何形態；排列會隨觀看位置、季節與天候改變，成為研究園區的當代識別。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insulaner",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insulaner",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insulaner",
+      "artistStatement": "一百八十九個橘紅色二十面體散布於近四百平方公尺草地，借用病毒研究的幾何形態；排列會隨觀看位置、季節與天候改變，成為研究園區的當代識別。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insulaner",
+      "classicTitle": "Insulaner｜2014",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insulaner",
+      "classicDesc": "以病毒幾何與警示色把科學研究轉成可變地景。",
+      "relatedByCity": []
+    }
+  ]
+}

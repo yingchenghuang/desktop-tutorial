@@ -1,0 +1,657 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-06T05:33:19+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-06",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Public Art Fund、KÖR Wien、Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "已實現且持續開放的空間介入、建築整合、互動、光、地景與觀念性公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/06 固定 10＋5＋5；人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-06T05:33:19+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-06T05:33:19+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-01",
+      "dedupeKey": "art-forrest-myers-the-wall",
+      "name": "01｜Forrest Myers｜The Wall",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "The Wall｜1973",
+      "comment": "由垂直與水平鋼構形成的大尺度網格直接附著於城市建築側牆，作品把原本被忽略的立面轉成可從街道閱讀的公共結構，也讓建築表面與雕塑共享同一尺度。",
+      "website": "https://www.publicartfund.org/exhibitions/view/thewall-myers/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/thewall-myers/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/thewall-myers/",
+      "artistStatement": "由垂直與水平鋼構形成的大尺度網格直接附著於城市建築側牆，作品把原本被忽略的立面轉成可從街道閱讀的公共結構，也讓建築表面與雕塑共享同一尺度。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/thewall-myers/",
+      "classicTitle": "The Wall｜1973",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/thewall-myers/",
+      "classicDesc": "以耐候鋼網格把城市立面由背景轉成公共藝術本體。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-02",
+      "dedupeKey": "art-david-saunders-seat",
+      "name": "02｜David Saunders｜Seat",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Bronx, New York",
+      "cityKeywords": [
+        "Bronx",
+        "The Bronx",
+        "布朗克斯",
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Seat｜1987",
+      "comment": "作品以人人可辨識的圖像與可坐的尺度回應 Westchester Square 多語社群；它把紀念物從單向觀看轉為身體使用，透過坐下、相遇與停留建立公共性。",
+      "website": "https://www.publicartfund.org/exhibitions/view/seat/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/seat/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/seat/",
+      "artistStatement": "作品以人人可辨識的圖像與可坐的尺度回應 Westchester Square 多語社群；它把紀念物從單向觀看轉為身體使用，透過坐下、相遇與停留建立公共性。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/seat/",
+      "classicTitle": "Seat｜1987",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/seat/",
+      "classicDesc": "讓雕塑成為跨語言、可實際使用的社區座席。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-03",
+      "dedupeKey": "art-richard-haas-arcade",
+      "name": "03｜Richard Haas｜Arcade",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "建築/場域",
+        "壁畫/街頭"
+      ],
+      "works": "Arcade｜1978",
+      "comment": "透視壁畫在裸露牆面上創造出虛構拱廊，使平面立面產生可延伸的建築深度；作品以視覺錯覺補寫城市空缺，並重新編排行人在街道中的尺度感。",
+      "website": "https://www.publicartfund.org/exhibitions/view/arcade/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/arcade/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/arcade/",
+      "artistStatement": "透視壁畫在裸露牆面上創造出虛構拱廊，使平面立面產生可延伸的建築深度；作品以視覺錯覺補寫城市空缺，並重新編排行人在街道中的尺度感。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/arcade/",
+      "classicTitle": "Arcade｜1978",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/arcade/",
+      "classicDesc": "以建築幻視把封閉牆面轉成想像中的城市通道。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-04",
+      "dedupeKey": "art-anna-valdez-spring-migration",
+      "name": "04｜Anna Valdez｜Spring Migration",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約",
+        "Governors Island"
+      ],
+      "media": [
+        "光/影像/投影",
+        "壁畫/街頭"
+      ],
+      "works": "Spring Migration｜2026",
+      "comment": "作品為紐約首艘混合動力渡輪量身製作，以候鳥、島嶼植物與經數位處理的地景環繞船體；移動中的渡輪將抵達、離開與庇護轉成穿越港灣的公共圖像。",
+      "website": "https://www.govisland.com/things-to-do/public-art/spring-migration",
+      "workPage": "https://www.govisland.com/things-to-do/public-art/spring-migration",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.govisland.com/things-to-do/public-art/spring-migration",
+      "artistStatement": "作品為紐約首艘混合動力渡輪量身製作，以候鳥、島嶼植物與經數位處理的地景環繞船體；移動中的渡輪將抵達、離開與庇護轉成穿越港灣的公共圖像。",
+      "artistStatementSource": "https://www.govisland.com/things-to-do/public-art/spring-migration",
+      "classicTitle": "Spring Migration｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.govisland.com/things-to-do/public-art/spring-migration",
+      "classicDesc": "以移動載體和鳥類象徵連結島嶼歷史、遷徙與生態觀看。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-05",
+      "dedupeKey": "art--kunstmeile-ottakring",
+      "name": "05｜多位藝術家｜Kunstmeile Ottakring",
+      "tier": "動態情報層",
+      "region": "全球",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "雕塑",
+        "光/影像/投影"
+      ],
+      "works": "Kunstmeile Ottakring｜自 1998",
+      "comment": "配合 U3 延伸線，十四組藝術家把光、文字、雕塑與牆面介入散布於 Ottakring 車站至舊煙草工廠之間；作品不是單點地標，而是一條由通勤與步行串起的城市藝術帶。",
+      "website": "https://www.koer.or.at/projects/kunstmeile-ottakring/",
+      "workPage": "https://www.koer.or.at/projects/kunstmeile-ottakring/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/kunstmeile-ottakring/",
+      "artistStatement": "配合 U3 延伸線，十四組藝術家把光、文字、雕塑與牆面介入散布於 Ottakring 車站至舊煙草工廠之間；作品不是單點地標，而是一條由通勤與步行串起的城市藝術帶。",
+      "artistStatementSource": "https://www.koer.or.at/projects/kunstmeile-ottakring/",
+      "classicTitle": "Kunstmeile Ottakring｜自 1998",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/kunstmeile-ottakring/",
+      "classicDesc": "以交通基礎設施為骨架，把多件作品編成可日常穿越的公共藝術路徑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-06",
+      "dedupeKey": "art-sighard-gille-gesang-vom-leben",
+      "name": "06｜Sighard Gille｜Gesang vom Leben",
+      "tier": "動態情報層",
+      "region": "全球",
+      "country": "德國 / Leipzig",
+      "cityKeywords": [
+        "Leipzig",
+        "萊比錫"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "壁畫/街頭"
+      ],
+      "works": "Gesang vom Leben｜1981",
+      "comment": "大尺幅壁畫把人物、自然與生命循環編織成連續視覺場，在公共建築內部建立超越裝飾的精神尺度；觀看會隨行進距離在整體節奏與局部細節間切換。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gesang-vom-leben",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gesang-vom-leben",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gesang-vom-leben",
+      "artistStatement": "大尺幅壁畫把人物、自然與生命循環編織成連續視覺場，在公共建築內部建立超越裝飾的精神尺度；觀看會隨行進距離在整體節奏與局部細節間切換。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gesang-vom-leben",
+      "classicTitle": "Gesang vom Leben｜1981",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gesang-vom-leben",
+      "classicDesc": "以壁畫整合建築動線，讓生命敘事成為日常公共空間的背景與主體。",
+      "relatedByCity": [
+        "opportunity-2027-kuenstlergut-proesitz-symposium"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-07",
+      "dedupeKey": "art-carl-heinz-kliemann-metall-collage-wand",
+      "name": "07｜Carl-Heinz Kliemann｜Metall-Collage-Wand",
+      "tier": "動態情報層",
+      "region": "全球",
+      "country": "日本 / Tokyo",
+      "cityKeywords": [
+        "Tokyo",
+        "東京",
+        "Tōkyō"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Metall-Collage-Wand｜1980",
+      "comment": "金屬構件以層疊、穿透與陰影形成可隨光線變化的牆面，作品把德國公共建築委託帶入東京，讓建築界面成為跨文化觀看的抽象場。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/metall-collage-wand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/metall-collage-wand",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/metall-collage-wand",
+      "artistStatement": "金屬構件以層疊、穿透與陰影形成可隨光線變化的牆面，作品把德國公共建築委託帶入東京，讓建築界面成為跨文化觀看的抽象場。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/metall-collage-wand",
+      "classicTitle": "Metall-Collage-Wand｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/metall-collage-wand",
+      "classicDesc": "以金屬層次與陰影使牆體成為持續變化的建築藝術。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-08",
+      "dedupeKey": "art-klaus-bosselmann-o-t-toranlage",
+      "name": "08｜Klaus Bösselmann｜o. T. (Toranlage)",
+      "tier": "動態情報層",
+      "region": "全球",
+      "country": "德國 / Aurich",
+      "cityKeywords": [
+        "Aurich",
+        "奧里希"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "o. T. (Toranlage)｜1983",
+      "comment": "鍛造鋼構不只標示邊界，也把開合、穿越與視線框取變成作品的一部分；入口因此同時承擔安全、導引與雕塑性的公共經驗。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-toranlage",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-toranlage",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-toranlage",
+      "artistStatement": "鍛造鋼構不只標示邊界，也把開合、穿越與視線框取變成作品的一部分；入口因此同時承擔安全、導引與雕塑性的公共經驗。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-toranlage",
+      "classicTitle": "o. T. (Toranlage)｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-toranlage",
+      "classicDesc": "以門的功能和鋼構語彙，將進出行為轉成建築藝術事件。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-09",
+      "dedupeKey": "art-stan-douglas-penn-station-s-half-century",
+      "name": "09｜Stan Douglas｜Penn Station’s Half Century",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "光/影像/投影"
+      ],
+      "works": "Penn Station’s Half Century｜2020",
+      "comment": "九幅玻璃影像嵌入 Moynihan Train Hall 候車室壁龕，透過檔案、演員重演與 CGI 重建舊賓州車站被忽略的歷史片段，使交通建築成為集體記憶的劇場。",
+      "website": "https://www.publicartfund.org/exhibitions/view/mth/stan-douglas-penn-stations-half-century/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/mth/stan-douglas-penn-stations-half-century/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/mth/stan-douglas-penn-stations-half-century/",
+      "artistStatement": "九幅玻璃影像嵌入 Moynihan Train Hall 候車室壁龕，透過檔案、演員重演與 CGI 重建舊賓州車站被忽略的歷史片段，使交通建築成為集體記憶的劇場。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/mth/stan-douglas-penn-stations-half-century/",
+      "classicTitle": "Penn Station’s Half Century｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/mth/stan-douglas-penn-stations-half-century/",
+      "classicDesc": "以研究、重演與建築整合影像召回消失車站的公共歷史。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "current-2026-10-06-10",
+      "dedupeKey": "art-elmgreen-dragset-the-hive",
+      "name": "10｜Elmgreen & Dragset｜The Hive",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Queens, New York",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "The Hive｜2020",
+      "comment": "懸吊於 Moynihan Train Hall 的巨大倒置城市模型由九十座發光建築構成，旅客從下方穿行時，天際線由頭頂向下延伸；熟悉的城市尺度因此被翻轉為共同抵達的想像入口。",
+      "website": "https://www.publicartfund.org/exhibitions/view/mth/elmgreen-dragset-the-hive/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/mth/elmgreen-dragset-the-hive/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/mth/elmgreen-dragset-the-hive/",
+      "artistStatement": "懸吊於 Moynihan Train Hall 的巨大倒置城市模型由九十座發光建築構成，旅客從下方穿行時，天際線由頭頂向下延伸；熟悉的城市尺度因此被翻轉為共同抵達的想像入口。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/mth/elmgreen-dragset-the-hive/",
+      "classicTitle": "The Hive｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/mth/elmgreen-dragset-the-hive/",
+      "classicDesc": "以倒置、發光的城市模型改寫交通大廳的天空與方向感。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "global-classic-2026-10-06-01",
+      "dedupeKey": "art-edra-soto-graft",
+      "name": "11｜Edra Soto｜Graft",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "Graft｜2024",
+      "comment": "藝術家把波多黎各住宅常見的裝飾性混凝土牆轉譯為可穿透的公共屏風，讓觀看、遮蔽、殖民歷史與離散身分在城市公園中重疊。",
+      "website": "https://www.publicartfund.org/exhibitions/view/edra-soto-graft/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/edra-soto-graft/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/edra-soto-graft/",
+      "artistStatement": "藝術家把波多黎各住宅常見的裝飾性混凝土牆轉譯為可穿透的公共屏風，讓觀看、遮蔽、殖民歷史與離散身分在城市公園中重疊。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/edra-soto-graft/",
+      "classicTitle": "Graft｜2024",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/edra-soto-graft/",
+      "classicDesc": "以建築構件的移植討論文化記憶、邊界與觀看權。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "global-classic-2026-10-06-02",
+      "dedupeKey": "art-cannupa-hanska-luger-attrition",
+      "name": "12｜Cannupa Hanska Luger｜Attrition",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Attrition｜2024",
+      "comment": "巨型野牛骨骼般的形體把物種消失、殖民暴力與土地記憶帶入市政公園；身體尺度的穿行使歷史不再抽象，而成為必須繞行與面對的公共空間。",
+      "website": "https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
+      "artistStatement": "巨型野牛骨骼般的形體把物種消失、殖民暴力與土地記憶帶入市政公園；身體尺度的穿行使歷史不再抽象，而成為必須繞行與面對的公共空間。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
+      "classicTitle": "Attrition｜2024",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/cannupa-hanska-luger-attrition/",
+      "classicDesc": "以消逝物種的尺度揭示土地治理與殖民歷史。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "global-classic-2026-10-06-03",
+      "dedupeKey": "art-huma-bhabha-before-the-end",
+      "name": "13｜Huma Bhabha｜Before the End",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Before the End｜2024",
+      "comment": "經由軟木、黏土等手工原型轉鑄的青銅形體同時像遺跡與未來生命，作品以破碎、混種的身體把市政公園變成文明終點與開端相互折疊的場域。",
+      "website": "https://www.publicartfund.org/exhibitions/view/huma-bhabha-before-the-end/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/huma-bhabha-before-the-end/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/huma-bhabha-before-the-end/",
+      "artistStatement": "經由軟木、黏土等手工原型轉鑄的青銅形體同時像遺跡與未來生命，作品以破碎、混種的身體把市政公園變成文明終點與開端相互折疊的場域。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/huma-bhabha-before-the-end/",
+      "classicTitle": "Before the End｜2024",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/huma-bhabha-before-the-end/",
+      "classicDesc": "以考古感與科幻想像質疑紀念雕塑所宣稱的穩定歷史。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "global-classic-2026-10-06-04",
+      "dedupeKey": "art-fred-eversley-parabolic-light",
+      "name": "14｜Fred Eversley｜Parabolic Light",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "光/影像/投影"
+      ],
+      "works": "Parabolic Light｜2023",
+      "comment": "大型透明拋物面透鏡以色彩、反射與折射重組中央公園入口的光線；觀者與城市影像在弧面中被壓縮、翻轉，作品由日照和移動共同完成。",
+      "website": "https://www.publicartfund.org/exhibitions/view/fred-eversley-parabolic-light/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/fred-eversley-parabolic-light/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/fred-eversley-parabolic-light/",
+      "artistStatement": "大型透明拋物面透鏡以色彩、反射與折射重組中央公園入口的光線；觀者與城市影像在弧面中被壓縮、翻轉，作品由日照和移動共同完成。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/fred-eversley-parabolic-light/",
+      "classicTitle": "Parabolic Light｜2023",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/fred-eversley-parabolic-light/",
+      "classicDesc": "以工程光學把公共空間轉成持續變化的感知儀器。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "global-classic-2026-10-06-05",
+      "dedupeKey": "art-phyllida-barlow-prank",
+      "name": "15｜Phyllida Barlow｜PRANK",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "PRANK｜2023",
+      "comment": "粗獷構件以失衡、傾斜與鮮明色塊佔據市政公園，既像施工殘骸又像舞台道具；作品迫使行人重新判斷尺度、穩定與城市秩序。",
+      "website": "https://www.publicartfund.org/exhibitions/view/phyllida-barlow-prank/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/phyllida-barlow-prank/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/phyllida-barlow-prank/",
+      "artistStatement": "粗獷構件以失衡、傾斜與鮮明色塊佔據市政公園，既像施工殘骸又像舞台道具；作品迫使行人重新判斷尺度、穩定與城市秩序。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/phyllida-barlow-prank/",
+      "classicTitle": "PRANK｜2023",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/phyllida-barlow-prank/",
+      "classicDesc": "以貌似臨時的巨大構築擾動公共空間的穩定感。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "german-classic-2026-10-06-01",
+      "dedupeKey": "art-ferdinand-kriwet-statistik-der-sozialpolitik",
+      "name": "16｜Ferdinand Kriwet｜Statistik der Sozialpolitik",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Statistik der Sozialpolitik｜1983",
+      "comment": "統計語彙、字詞與圖形被轉成橫跨建築的視覺節奏，社會政策資料不再只屬於表格，而成為可由行走與觀看讀取的公共語言。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statistik-der-sozialpolitik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statistik-der-sozialpolitik",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statistik-der-sozialpolitik",
+      "artistStatement": "統計語彙、字詞與圖形被轉成橫跨建築的視覺節奏，社會政策資料不再只屬於表格，而成為可由行走與觀看讀取的公共語言。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statistik-der-sozialpolitik",
+      "classicTitle": "Statistik der Sozialpolitik｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/statistik-der-sozialpolitik",
+      "classicDesc": "以文字與統計的視覺化介入政府建築，連結制度資訊與空間經驗。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "german-classic-2026-10-06-02",
+      "dedupeKey": "art-clegg-guttmann-humiliation",
+      "name": "17｜Clegg & Guttmann｜Humiliation",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Humiliation｜2012",
+      "comment": "作品重構絞架與示眾刑具，把公共廣場曾承載的權力展演帶回當代觀看；它不塑造英雄，而讓制度暴力、群眾凝視與公共羞辱成為可被討論的空間記憶。",
+      "website": "https://www.koer.or.at/projects/humiliation/",
+      "workPage": "https://www.koer.or.at/projects/humiliation/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/humiliation/",
+      "artistStatement": "作品重構絞架與示眾刑具，把公共廣場曾承載的權力展演帶回當代觀看；它不塑造英雄，而讓制度暴力、群眾凝視與公共羞辱成為可被討論的空間記憶。",
+      "artistStatementSource": "https://www.koer.or.at/projects/humiliation/",
+      "classicTitle": "Humiliation｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/humiliation/",
+      "classicDesc": "以歷史刑具重構公共空間中的權力與觀看關係。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "german-classic-2026-10-06-03",
+      "dedupeKey": "art-matt-mullican-5-worlds-12-benches",
+      "name": "18｜Matt Mullican｜5 WORLDS 12 BENCHES",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "5 WORLDS 12 BENCHES｜2012",
+      "comment": "十二張長椅把藝術家的五層世界觀化為圖示、網格與可坐的城市家具；觀者透過使用而非遠觀進入符號系統，哲學分類因此落到日常身體尺度。",
+      "website": "https://www.koer.or.at/projects/5-worlds-12-benches/",
+      "workPage": "https://www.koer.or.at/projects/5-worlds-12-benches/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/5-worlds-12-benches/",
+      "artistStatement": "十二張長椅把藝術家的五層世界觀化為圖示、網格與可坐的城市家具；觀者透過使用而非遠觀進入符號系統，哲學分類因此落到日常身體尺度。",
+      "artistStatementSource": "https://www.koer.or.at/projects/5-worlds-12-benches/",
+      "classicTitle": "5 WORLDS 12 BENCHES｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/5-worlds-12-benches/",
+      "classicDesc": "以可使用長椅把抽象世界模型轉成公共生活介面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "german-classic-2026-10-06-04",
+      "dedupeKey": "art--kunstgastgeber-gemeindebau-herweghhof-matteottihof-metzleinstalerhof-reumannhof",
+      "name": "19｜多位藝術家與社區參與者｜Kunstgastgeber Gemeindebau: Herweghhof／Matteottihof／Metzleinstalerhof／Reumannhof",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "社會參與"
+      ],
+      "works": "Kunstgastgeber Gemeindebau: Herweghhof／Matteottihof／Metzleinstalerhof／Reumannhof｜2012",
+      "comment": "藝術家以住戶作為「藝術 Gastgeber」，讓對話、翻譯、聲音與小型裝置進入住家花園、通道和社區空間；公共藝術在此由共同製作與鄰里關係生成。",
+      "website": "https://www.koer.or.at/projects/kunstgastgeber-gemeindebau-herweghhof-matteottihof-metzleinstalerhof-reumannhof/",
+      "workPage": "https://www.koer.or.at/projects/kunstgastgeber-gemeindebau-herweghhof-matteottihof-metzleinstalerhof-reumannhof/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/kunstgastgeber-gemeindebau-herweghhof-matteottihof-metzleinstalerhof-reumannhof/",
+      "artistStatement": "藝術家以住戶作為「藝術 Gastgeber」，讓對話、翻譯、聲音與小型裝置進入住家花園、通道和社區空間；公共藝術在此由共同製作與鄰里關係生成。",
+      "artistStatementSource": "https://www.koer.or.at/projects/kunstgastgeber-gemeindebau-herweghhof-matteottihof-metzleinstalerhof-reumannhof/",
+      "classicTitle": "Kunstgastgeber Gemeindebau: Herweghhof／Matteottihof／Metzleinstalerhof／Reumannhof｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/kunstgastgeber-gemeindebau-herweghhof-matteottihof-metzleinstalerhof-reumannhof/",
+      "classicDesc": "以社區住戶的接待與協作重新定義公共空間和作品作者。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-06",
+      "id": "german-classic-2026-10-06-05",
+      "dedupeKey": "art--lowengasse-passageway-artistic-redesign",
+      "name": "20｜藝術家團隊｜Löwengasse passageway artistic redesign",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "Löwengasse passageway artistic redesign｜2008",
+      "comment": "永久藝術重新組織 Löwengasse 通道的表面、光線與行走感，使原本只具交通功能的過渡空間成為可辨識、可停留的城市內部；藝術與整建工程被視為同一設計。",
+      "website": "https://www.koer.or.at/projects/artistic-redesign-of-the-loewengasse-passageway-1030-vienna/",
+      "workPage": "https://www.koer.or.at/projects/artistic-redesign-of-the-loewengasse-passageway-1030-vienna/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/artistic-redesign-of-the-loewengasse-passageway-1030-vienna/",
+      "artistStatement": "永久藝術重新組織 Löwengasse 通道的表面、光線與行走感，使原本只具交通功能的過渡空間成為可辨識、可停留的城市內部；藝術與整建工程被視為同一設計。",
+      "artistStatementSource": "https://www.koer.or.at/projects/artistic-redesign-of-the-loewengasse-passageway-1030-vienna/",
+      "classicTitle": "Löwengasse passageway artistic redesign｜2008",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projects/artistic-redesign-of-the-loewengasse-passageway-1030-vienna/",
+      "classicDesc": "以整體場域設計提升城市通道的感知、安全與地方辨識。",
+      "relatedByCity": []
+    }
+  ]
+}
+
