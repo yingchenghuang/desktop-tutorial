@@ -1,12 +1,13 @@
 {
+  "updated": "2026-10-08",
+  "generatedAt": "2026-10-08T04:58:56+08:00",
   "meta": {
-    "generatedAt": "2026-10-07T05:04:02+08:00",
+    "date": "2026-10-08",
     "timezone": "Asia/Taipei",
-    "date": "2026-10-07",
-    "total": 109,
+    "total": 113,
     "addedToday": 5,
-    "expiredRemoved": 4,
-    "retained": 104
+    "expiredRemoved": 1,
+    "retained": 108
   },
   "entries": [
     {
@@ -481,6 +482,9 @@
       "budget": "個人圖錄最高 €27,000；個人計畫 €35,000；團體計畫 €55,000",
       "applicationFee": "免費",
       "relatedByCity": [
+        "art-daniel-buren-la-grande-fenetre",
+        "art-gei-ler-and-lippert-unterton",
+        "art-rebecca-horn-verspiegeltes-planetensystem",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-15-01",
         "classic-german-2026-08-15-02",
@@ -629,9 +633,8 @@
         "german-classic-2026-10-04-18",
         "german-classic-2026-10-04-19",
         "german-classic-2026-10-05-20",
-        "art-rebecca-horn-verspiegeltes-planetensystem",
-        "art-daniel-buren-la-grande-fenetre",
-        "art-gei-ler-and-lippert-unterton"
+        "german-classic-2026-10-08-19",
+        "german-classic-2026-10-08-20"
       ]
     },
     {
@@ -709,45 +712,6 @@
       "eligibility": "年滿 18 歲之全美藝術家或團隊皆可申請；主辦方優先考量當地、區域及科羅拉多州藝術家",
       "budget": "最高 US$100,000",
       "applicationFee": "免費",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-08-27",
-      "id": "competition-2026-08-27-05",
-      "dedupeKey": "opportunity-2026-08-27-mount-allison-wabanaki-doorway",
-      "name": "05｜Mount Allison University｜Wabanaki Ornamental Doorway",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "加拿大 / Sackville",
-      "cityKeywords": [
-        "Sackville",
-        "薩克維爾"
-      ],
-      "media": [
-        "公共藝術",
-        "建築整合",
-        "原住民族藝術"
-      ],
-      "works": "R.P. Bell Library 永久門廊公共藝術｜截止 2026.10.07 16:00",
-      "comment": "徵求以 Wabanaki 知識、語言、溝通與藝術實踐為基礎的當代永久作品，整合於圖書館入口門廊並彰顯原住民族在場。",
-      "website": "https://mta.ca/about/news/mount-allison-seeks-indigenous-artists-two-public-art-opportunities-rp-bell-library-tue",
-      "workPage": "https://mta.ca/about/news/mount-allison-seeks-indigenous-artists-two-public-art-opportunities-rp-bell-library-tue",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://mta.ca/about/news/mount-allison-seeks-indigenous-artists-two-public-art-opportunities-rp-bell-library-tue",
-      "artistStatement": "徵求以 Wabanaki 知識、語言、溝通與藝術實踐為基礎的當代永久作品，整合於圖書館入口門廊並彰顯原住民族在場。",
-      "artistStatementSource": "https://mta.ca/about/news/mount-allison-seeks-indigenous-artists-two-public-art-opportunities-rp-bell-library-tue",
-      "classicTitle": "Mount Allison University｜Wabanaki Ornamental Doorway",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://mta.ca/about/news/mount-allison-seeks-indigenous-artists-two-public-art-opportunities-rp-bell-library-tue",
-      "classicDesc": "徵求以 Wabanaki 知識、語言、溝通與藝術實踐為基礎的當代永久作品，整合於圖書館入口門廊並彰顯原住民族在場。",
-      "deadline": "2026-10-07T16:00:00-03:00",
-      "deadlineLabel": "截止 2026.10.07",
-      "deadlineTimezone": "America/Moncton",
-      "deadlinePrecision": "time",
-      "organizer": "Mount Allison University",
-      "eligibility": "Wabanaki 藝術家或由 Wabanaki 成員主導的團隊",
-      "budget": "未公開",
-      "applicationFee": "未公開",
       "relatedByCity": []
     },
     {
@@ -922,6 +886,9 @@
       "budget": "專案補助額依個案審查；須編列展覽費與官方建議之最低合理報酬",
       "applicationFee": "免費",
       "relatedByCity": [
+        "art-daniel-buren-la-grande-fenetre",
+        "art-gei-ler-and-lippert-unterton",
+        "art-rebecca-horn-verspiegeltes-planetensystem",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-15-01",
         "classic-german-2026-08-15-02",
@@ -1070,9 +1037,8 @@
         "german-classic-2026-10-04-18",
         "german-classic-2026-10-04-19",
         "german-classic-2026-10-05-20",
-        "art-rebecca-horn-verspiegeltes-planetensystem",
-        "art-daniel-buren-la-grande-fenetre",
-        "art-gei-ler-and-lippert-unterton"
+        "german-classic-2026-10-08-19",
+        "german-classic-2026-10-08-20"
       ]
     },
     {
@@ -1114,6 +1080,9 @@
       "budget": "個人圖錄最高 €27,000；個人計畫最高 €35,000；團體計畫最高 €55,000",
       "applicationFee": "未公開",
       "relatedByCity": [
+        "art-daniel-buren-la-grande-fenetre",
+        "art-gei-ler-and-lippert-unterton",
+        "art-rebecca-horn-verspiegeltes-planetensystem",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-15-01",
         "classic-german-2026-08-15-02",
@@ -1262,9 +1231,8 @@
         "german-classic-2026-10-04-18",
         "german-classic-2026-10-04-19",
         "german-classic-2026-10-05-20",
-        "art-rebecca-horn-verspiegeltes-planetensystem",
-        "art-daniel-buren-la-grande-fenetre",
-        "art-gei-ler-and-lippert-unterton"
+        "german-classic-2026-10-08-19",
+        "german-classic-2026-10-08-20"
       ]
     },
     {
@@ -1305,6 +1273,9 @@
       "budget": "總額約 €500,000，個案額度依評審與預算核定",
       "applicationFee": "未公開",
       "relatedByCity": [
+        "art-daniel-buren-la-grande-fenetre",
+        "art-gei-ler-and-lippert-unterton",
+        "art-rebecca-horn-verspiegeltes-planetensystem",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-15-01",
         "classic-german-2026-08-15-02",
@@ -1453,9 +1424,8 @@
         "german-classic-2026-10-04-18",
         "german-classic-2026-10-04-19",
         "german-classic-2026-10-05-20",
-        "art-rebecca-horn-verspiegeltes-planetensystem",
-        "art-daniel-buren-la-grande-fenetre",
-        "art-gei-ler-and-lippert-unterton"
+        "german-classic-2026-10-08-19",
+        "german-classic-2026-10-08-20"
       ]
     },
     {
@@ -2006,6 +1976,9 @@
       "budget": "個人出版最高 €27,000；個人計畫最高 €35,000；群體計畫最高 €55,000",
       "applicationFee": "免費",
       "relatedByCity": [
+        "art-daniel-buren-la-grande-fenetre",
+        "art-gei-ler-and-lippert-unterton",
+        "art-rebecca-horn-verspiegeltes-planetensystem",
         "classic-german-2026-08-12-02",
         "classic-german-2026-08-15-01",
         "classic-german-2026-08-15-02",
@@ -2154,9 +2127,8 @@
         "german-classic-2026-10-04-18",
         "german-classic-2026-10-04-19",
         "german-classic-2026-10-05-20",
-        "art-rebecca-horn-verspiegeltes-planetensystem",
-        "art-daniel-buren-la-grande-fenetre",
-        "art-gei-ler-and-lippert-unterton"
+        "german-classic-2026-10-08-19",
+        "german-classic-2026-10-08-20"
       ]
     },
     {
@@ -5398,8 +5370,210 @@
       "budget": "EUR 620,000",
       "applicationFee": "未公開",
       "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-08",
+      "id": "competition-2026-10-08-01",
+      "dedupeKey": "opportunity-beautifulpb-coastal-gateway-mural-2026",
+      "name": "01｜beautifulPB｜Coastal Gateway Mural",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / San Diego, California",
+      "cityKeywords": [
+        "San Diego",
+        "聖地牙哥",
+        "Mission Bay",
+        "米遜灣"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與",
+        "城市基礎設施"
+      ],
+      "works": "Mission Bay Park 社區共繪道路壁畫｜US$6,000｜截止 2026.11.01",
+      "comment": "徵求聖地牙哥郡壁畫藝術家，設計 Rose Creek 自行車道與 Mike Gotch Memorial Bridge 入口最多 70×150 呎的地面壁畫，並帶領社區共同彩繪。",
+      "website": "https://arts.ca.gov/collective/beautifulpb-231-5-beautifulpb-coastal-gateway-mural/",
+      "workPage": "https://arts.ca.gov/collective/beautifulpb-231-5-beautifulpb-coastal-gateway-mural/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://arts.ca.gov/collective/beautifulpb-231-5-beautifulpb-coastal-gateway-mural/",
+      "artistStatement": "壁畫須結合導視、在地野生動物、原生棲地與生態認同，將自行車與步行入口轉為可辨識的公共門戶。",
+      "artistStatementSource": "https://arts.ca.gov/collective/beautifulpb-231-5-beautifulpb-coastal-gateway-mural/",
+      "classicTitle": "Coastal Gateway Mural｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://arts.ca.gov/collective/beautifulpb-231-5-beautifulpb-coastal-gateway-mural/",
+      "classicDesc": "以社區共繪與生態導視重塑 Mission Bay 自行車入口。",
+      "deadline": "2026-11-01T23:59:59-08:00",
+      "deadlineLabel": "截止 2026.11.01（官方僅公布日期）",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "date",
+      "organizer": "beautifulPB",
+      "eligibility": "聖地牙哥郡在地藝術家；具公共藝術、社區參與及大型壁畫經驗，並符合 City of San Diego 藝術家定義",
+      "budget": "US$6,000 設計與社區彩繪指導費；油漆與活動材料另由主辦提供",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-08",
+      "id": "competition-2026-10-08-02",
+      "dedupeKey": "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+      "name": "02｜West Hollywood｜Santa Monica Boulevard / Doheny Drive Median RFQ",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / West Hollywood, California",
+      "cityKeywords": [
+        "West Hollywood",
+        "西好萊塢",
+        "Los Angeles",
+        "洛杉磯"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "平台/策展"
+      ],
+      "works": "Inventing Traditions 臨時公共藝術展｜截止 2026.12.17",
+      "comment": "市府徵求專業藝術家與策展人資格，三名入選者將受邀為 Santa Monica Boulevard／Doheny Drive 交通分隔島提出臨時公共藝術展方案。",
+      "website": "https://arts.ca.gov/collective/city-of-west-hollywood-arts-division-246-5-temporary-public-art-exhibition-%E2%94%80-santa-monica-boulevard-at-doheny-drive-traffic-median-request-for-qualifications-rfq/",
+      "workPage": "https://arts.ca.gov/collective/city-of-west-hollywood-arts-division-246-5-temporary-public-art-exhibition-%E2%94%80-santa-monica-boulevard-at-doheny-drive-traffic-median-request-for-qualifications-rfq/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://arts.ca.gov/collective/city-of-west-hollywood-arts-division-246-5-temporary-public-art-exhibition-%E2%94%80-santa-monica-boulevard-at-doheny-drive-traffic-median-request-for-qualifications-rfq/",
+      "artistStatement": "主題 Inventing Traditions 探討傳統如何演變，以及大型全球事件如何重塑社群與文化身分；資格階段不需完整提案。",
+      "artistStatementSource": "https://arts.ca.gov/collective/city-of-west-hollywood-arts-division-246-5-temporary-public-art-exhibition-%E2%94%80-santa-monica-boulevard-at-doheny-drive-traffic-median-request-for-qualifications-rfq/",
+      "classicTitle": "Santa Monica Boulevard / Doheny Drive Median RFQ",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://arts.ca.gov/collective/city-of-west-hollywood-arts-division-246-5-temporary-public-art-exhibition-%E2%94%80-santa-monica-boulevard-at-doheny-drive-traffic-median-request-for-qualifications-rfq/",
+      "classicDesc": "以交通分隔島臨時展回應傳統、全球事件與社群身分。",
+      "deadline": "2026-12-17T23:59:59-08:00",
+      "deadlineLabel": "截止 2026.12.17（官方僅公布日期）",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "date",
+      "organizer": "City of West Hollywood Arts Division",
+      "eligibility": "專業藝術家與策展人；可提出既有或新製作作品，資格階段免交完整方案",
+      "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-08",
+      "id": "competition-2026-10-08-03",
+      "dedupeKey": "opportunity-paramount-hay-tree-public-market-murals-2026",
+      "name": "03｜City of Paramount｜Hay Tree Public Market Exterior Murals",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Paramount, California",
+      "cityKeywords": [
+        "Paramount",
+        "派拉蒙",
+        "Los Angeles County",
+        "洛杉磯郡"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "百年市場建築三面外牆壁畫｜US$31,500｜截止 2026.10.30",
+      "comment": "為 1926 年建築改造中的 Hay Tree Public Market 徵求三面外牆壁畫；各面預估 10×30 呎，並鄰接加州歷史地標 Hay Tree。",
+      "website": "https://arts.ca.gov/collective/city-of-paramount-246-5-hay-tree-public-market-exterior-murals/",
+      "workPage": "https://arts.ca.gov/collective/city-of-paramount-246-5-hay-tree-public-market-exterior-murals/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://arts.ca.gov/collective/city-of-paramount-246-5-hay-tree-public-market-exterior-murals/",
+      "artistStatement": "壁畫將新食品市場、未來市立博物館、百年建築與在地歷史地標連成可由街道閱讀的文化立面。",
+      "artistStatementSource": "https://arts.ca.gov/collective/city-of-paramount-246-5-hay-tree-public-market-exterior-murals/",
+      "classicTitle": "Hay Tree Public Market Exterior Murals",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://arts.ca.gov/collective/city-of-paramount-246-5-hay-tree-public-market-exterior-murals/",
+      "classicDesc": "以三面壁畫連結市場再生、地方博物館與歷史地標。",
+      "deadline": "2026-10-30T23:59:59-07:00",
+      "deadlineLabel": "截止 2026.10.30（官方僅公布日期）",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "date",
+      "organizer": "City of Paramount",
+      "eligibility": "具經驗、位於鄰近地區或願意前往 Paramount 執行的藝術家",
+      "budget": "每平方呎 US$35；每面約 US$10,500，三面預估總額 US$31,500，含材料、住宿、交通及餐食",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-08",
+      "id": "competition-2026-10-08-04",
+      "dedupeKey": "opportunity-iowans-create-community-mural-rfq-2026",
+      "name": "04｜Iowa Economic Development Authority｜Iowans Create Community Mural Program",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Iowa（設置社區待選）",
+      "cityKeywords": [
+        "Iowa",
+        "愛荷華州",
+        "Statewide",
+        "全州"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "社會參與"
+      ],
+      "works": "社區參與式指標壁畫｜US$25,000｜截止 2026.10.30 23:59 CDT",
+      "comment": "面向愛荷華州藝術家或團隊，負責社區參與、規劃、設計、製作與安裝；最終設置城市／社區由官方遴選程序確定，現階段未公開。",
+      "website": "https://opportunityiowa.gov/community-mural-program-rfq",
+      "workPage": "https://opportunityiowa.gov/community-mural-program-rfq",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunityiowa.gov/community-mural-program-rfq",
+      "artistStatement": "作品目標是以統一而有活力的視覺，呈現獲選社區適合生活、工作與成長的地方特質。",
+      "artistStatementSource": "https://opportunityiowa.gov/community-mural-program-rfq",
+      "classicTitle": "Iowans Create Community Mural Program",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunityiowa.gov/community-mural-program-rfq",
+      "classicDesc": "以藝術家主導的社區參與，把地方認同轉為大型公共壁畫。",
+      "deadline": "2026-10-30T23:59:00-05:00",
+      "deadlineLabel": "截止 2026.10.30 23:59 CDT",
+      "deadlineTimezone": "America/Chicago",
+      "deadlinePrecision": "time",
+      "organizer": "Iowa Economic Development Authority / Iowa Arts Council",
+      "eligibility": "個人藝術家或團隊代表；美國公民、永久居民或申請中，且為全職愛荷華州居民並具永久住所",
+      "budget": "US$25,000，涵蓋藝術家費、管理、材料、設備、旅費與社區參與等全部成本",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-08",
+      "id": "competition-2026-10-08-05",
+      "dedupeKey": "opportunity-calgary-art-bus-rfq-2027",
+      "name": "05｜Calgary Arts Development｜Art Bus RFQ 2027",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "加拿大 / Calgary, Alberta",
+      "cityKeywords": [
+        "Calgary",
+        "卡加利",
+        "Mohkinsstsis",
+        "Alberta",
+        "亞伯達省"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "城市基礎設施",
+        "社會參與"
+      ],
+      "works": "2027 Art Bus 車身公共藝術｜截止 2026.10.12 13:00 MDT",
+      "comment": "將選最多七名藝術家／團隊，為 Calgary Transit 車身創作原作並提供既有作品作車內展示，公共移動載體展期約十二週。",
+      "website": "https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
+      "workPage": "https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
+      "artistStatement": "四項主題涵蓋原住民故事、公共運輸作為社會空間、社群文化，以及美感、幽默與希望；印製、安裝及維護另由主辦負擔。",
+      "artistStatementSource": "https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
+      "classicTitle": "Art Bus RFQ 2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
+      "classicDesc": "把公車轉為跨社區移動的公共藝術與文化敘事載體。",
+      "deadline": "2026-10-12T13:00:00-06:00",
+      "deadlineLabel": "截止 2026.10.12 13:00 MDT",
+      "deadlineTimezone": "America/Edmonton",
+      "deadlinePrecision": "time",
+      "organizer": "Calgary Arts Development / City of Calgary / Calgary Transit",
+      "eligibility": "居住於 Calgary／Mohkinsstsis、任何職涯階段與媒材的藝術家；Treaty 7 區域 FNMI 藝術家／團隊免居住限制；2023–2026 Art Bus 或 2023–2028 Centre City Banners 入選者不得申請",
+      "budget": "未公開；印製、安裝與維護由主辦另行支付，不計入藝術家工作範圍",
+      "applicationFee": "未公開",
+      "relatedByCity": []
     }
-  ],
-  "updated": "2026-10-07",
-  "generatedAt": "2026-10-07T05:04:02+08:00"
+  ]
 }
