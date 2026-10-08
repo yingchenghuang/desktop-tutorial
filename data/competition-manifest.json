@@ -1,16 +1,16 @@
 {
-  "version": "2026-10-09-competition-r65",
+  "version": "2026-10-09-competition-r66",
   "generatedAt": "2026-10-09T04:58:01+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 114,
+  "activeEntries": 113,
   "addedToday": 5,
-  "expiredRemoved": 3,
+  "expiredRemoved": 4,
   "duplicateRemoved": 1,
-  "deadlineTimezoneEntries": 114,
-  "deadlinePrecisionEntries": 114,
-  "cityKeywordEntries": 114,
-  "note": "2026-10-09 新增 5 則有效徵件，保留 109 則既有未截止唯一項目，移除 3 則逾期案件及 1 則同案重複。",
+  "deadlineTimezoneEntries": 113,
+  "deadlinePrecisionEntries": 113,
+  "cityKeywordEntries": 113,
+  "note": "2026-10-09 新增 5 則有效徵件，保留 108 則既有未截止唯一項目，移除 4 則逾期案件及 1 則同案重複；Miami Beach 案於部署驗收前到期並已移除。",
   "germanAddedToday": 0
 }

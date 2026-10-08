@@ -4,10 +4,10 @@
   "meta": {
     "date": "2026-10-09",
     "timezone": "Asia/Taipei",
-    "total": 114,
+    "total": 113,
     "addedToday": 5,
-    "expiredRemoved": 3,
-    "retained": 109,
+    "expiredRemoved": 4,
+    "retained": 108,
     "duplicateRemoved": 1
   },
   "entries": [
@@ -3394,46 +3394,6 @@
       "eligibility": "華盛頓州、尤其 Kirkland 居住或工作的藝術家優先鼓勵；女性認同藝術家特別鼓勵；新進與成熟藝術家皆可",
       "budget": "USD 8,000，至少採購一件，含藝術家時間、材料與完成壁畫",
       "applicationFee": "USD 25",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-10-04",
-      "id": "competition-2026-10-04-01",
-      "dedupeKey": "opportunity-city-of-miami-beach-miami-beach-17th-street-parking-garage-g5-permanent-mural-project",
-      "name": "01｜Miami Beach｜17th Street Parking Garage (G5) Permanent Mural Project",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "美國 / Miami Beach, Florida",
-      "cityKeywords": [
-        "Miami Beach",
-        "Miami Beach, Florida",
-        "邁阿密海灘"
-      ],
-      "media": [
-        "永久壁畫",
-        "停車建築",
-        "公共藝術委託"
-      ],
-      "works": "17th Street Parking Garage (G5) Permanent Mural Project｜截止 2026.10.08 17:00 EDT（官方寫 EST，依 Miami 當日實際偏移校正）",
-      "comment": "為 17th Street 停車建築外牆徵求大型永久壁畫，需回應高流量城市入口、建築表面與日夜可見性。",
-      "website": "https://cityofmiamibeach.submittable.com/submit",
-      "workPage": "https://cityofmiamibeach.submittable.com/submit",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cityofmiamibeach.submittable.com/submit",
-      "artistStatement": "為 17th Street 停車建築外牆徵求大型永久壁畫，需回應高流量城市入口、建築表面與日夜可見性。",
-      "artistStatementSource": "https://cityofmiamibeach.submittable.com/submit",
-      "classicTitle": "Miami Beach｜17th Street Parking Garage (G5) Permanent Mural Project",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://cityofmiamibeach.submittable.com/submit",
-      "classicDesc": "為 17th Street 停車建築外牆徵求大型永久壁畫，需回應高流量城市入口、建築表面與日夜可見性。",
-      "deadline": "2026-10-08T17:00:00-04:00",
-      "deadlineLabel": "截止 2026.10.08 17:00 EDT（官方寫 EST，依 Miami 當日實際偏移校正）",
-      "deadlineTimezone": "America/New_York",
-      "deadlinePrecision": "time",
-      "organizer": "City of Miami Beach",
-      "eligibility": "具大型公共藝術或壁畫經驗的專業視覺藝術家／團隊；官方未列地域限制",
-      "budget": "USD 170,000 全包；兩名準決選者各 USD 1,200",
-      "applicationFee": "未公開",
       "relatedByCity": []
     },
     {
