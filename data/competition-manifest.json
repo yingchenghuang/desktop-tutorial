@@ -1,17 +1,16 @@
 {
-  "version": "2026-10-08-competition-r64",
-  "generatedAt": "2026-10-08T04:58:56+08:00",
+  "version": "2026-10-09-competition-r65",
+  "generatedAt": "2026-10-09T04:58:01+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 113,
+  "activeEntries": 114,
   "addedToday": 5,
-  "expiredRemoved": 1,
-  "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 113,
-  "deadlinePrecisionEntries": 113,
-  "cityKeywordEntries": 113,
-  "note": "2026-10-08 新增 5 則有效徵件，保留 108 則既有未截止唯一項目，移除 1 則逾期案件。",
+  "expiredRemoved": 3,
+  "duplicateRemoved": 1,
+  "deadlineTimezoneEntries": 114,
+  "deadlinePrecisionEntries": 114,
+  "cityKeywordEntries": 114,
+  "note": "2026-10-09 新增 5 則有效徵件，保留 109 則既有未截止唯一項目，移除 3 則逾期案件及 1 則同案重複。",
   "germanAddedToday": 0
 }
-

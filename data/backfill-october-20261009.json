@@ -1,0 +1,691 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-09T04:58:01+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-09",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Public Art Fund、Art Platform Japan、Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "當期或持續展出之場域介入、聲音、動力、光、建築整合與地景公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/09 固定 10＋5＋5；加入日本公共藝術史案例，人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-09T04:58:01+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-09T04:58:01+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-01",
+      "dedupeKey": "art-monira-al-qadiri-first-sun-2025",
+      "name": "01｜Monira Al Qadiri｜First Sun",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "加拿大 / Toronto",
+      "cityKeywords": [
+        "Toronto",
+        "多倫多"
+      ],
+      "media": [
+        "雕塑",
+        "地景/環境"
+      ],
+      "works": "First Sun｜2025–持續展出",
+      "comment": "彩繪鋁製人形—聖甲蟲混種雕塑把古埃及旭日神轉化為當代生態寓言，討論人類、昆蟲與自然系統的再連結。",
+      "website": "https://www.publicartfund.org/exhibitions/view/monira-al-qadiri-first-sun/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/monira-al-qadiri-first-sun/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/monira-al-qadiri-first-sun/",
+      "artistStatement": "作品以虹彩與雌雄同體形象交疊性別、權力與非人生命，並在公園步道提出跨物種共存的未來想像。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/monira-al-qadiri-first-sun/",
+      "classicTitle": "First Sun｜2025–持續展出",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/monira-al-qadiri-first-sun/",
+      "classicDesc": "彩繪鋁製人形—聖甲蟲混種雕塑把古埃及旭日神轉化為當代生態寓言，討論人類、昆蟲與自然系統的再連結。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-02",
+      "dedupeKey": "art-camille-henrot-dogs-2026",
+      "name": "02｜Camille Henrot｜Dogs",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "暫時性作品"
+      ],
+      "works": "Dogs｜2026–2027",
+      "comment": "一組以青銅、石、鋼與混凝土製作的犬形雕塑佔據中央公園入口，將依附、馴化與個體差異置入城市社交場域。",
+      "website": "https://www.publicartfund.org/exhibitions/view/camille-henrot-dogs/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/camille-henrot-dogs/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/camille-henrot-dogs/",
+      "artistStatement": "藝術家從卡通、古埃及雕塑與犬展等視覺來源出發，以狗作為忠誠、依賴與社會規訓的鏡像。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/camille-henrot-dogs/",
+      "classicTitle": "Dogs｜2026–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/camille-henrot-dogs/",
+      "classicDesc": "一組以青銅、石、鋼與混凝土製作的犬形雕塑佔據中央公園入口，將依附、馴化與個體差異置入城市社交場域。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-03",
+      "dedupeKey": "art-genesis-belanger-heads-or-tails-2026",
+      "name": "03｜Genesis Belanger｜Heads or Tails",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "裝置",
+        "暫時性作品"
+      ],
+      "works": "Heads or Tails｜2026",
+      "comment": "超現實日常物件散布於市政廳公園，藉由放大的商品、身體碎片與公共座具，揭露消費心理與城市焦慮。",
+      "website": "https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "artistStatement": "作品把熟悉的物品變成帶有心理張力的場景，使公共空間像一座可步入的廣告夢境，也反問私密生活如何被市場塑形。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "classicTitle": "Heads or Tails｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/genesis-belanger-heads-or-tails/",
+      "classicDesc": "超現實日常物件散布於市政廳公園，藉由放大的商品、身體碎片與公共座具，揭露消費心理與城市焦慮。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-04",
+      "dedupeKey": "art-woody-de-othello-guardian-spirit-2025-2026",
+      "name": "04｜Woody De Othello｜Guardian Spirit",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Brooklyn",
+      "cityKeywords": [
+        "Brooklyn",
+        "布魯克林",
+        "New York City",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "地景/環境"
+      ],
+      "works": "Guardian Spirit｜2025–2027",
+      "comment": "四件大型青銅與三件紅木圖騰在濱水公園形成守護性場域，讓電話、梳子、耳與手等日常形象承載情緒和療癒。",
+      "website": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "artistStatement": "作品援引西非與中非 nkisi 的精神容器觀念，將傾聽、憐憫、記憶與自由轉化為城市共享空間中的保護力量。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "classicTitle": "Guardian Spirit｜2025–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/woody-de-othello-guardian-spirit/",
+      "classicDesc": "四件大型青銅與三件紅木圖騰在濱水公園形成守護性場域，讓電話、梳子、耳與手等日常形象承載情緒和療癒。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-05",
+      "dedupeKey": "art-thaddeus-mosley-touching-the-earth-2025",
+      "name": "05｜Thaddeus Mosley｜Touching the Earth",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Pittsburgh",
+      "cityKeywords": [
+        "Pittsburgh",
+        "匹茲堡"
+      ],
+      "media": [
+        "雕塑",
+        "地景/環境"
+      ],
+      "works": "Touching the Earth｜2025–2027",
+      "comment": "大型木雕在城市公共綠地以鑿痕、木紋與垂直節奏回應身體移動，讓材料重量與近似舞蹈的平衡共存。",
+      "website": "https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "artistStatement": "藝術家以直接雕刻保留木材的生命痕跡，使作品不靠人物紀念敘事，而以材料、重力與地面接觸建立公共性。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "classicTitle": "Touching the Earth｜2025–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/thaddeus-mosley-touching-the-earth/",
+      "classicDesc": "大型木雕在城市公共綠地以鑿痕、木紋與垂直節奏回應身體移動，讓材料重量與近似舞蹈的平衡共存。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-06",
+      "dedupeKey": "art-layqa-nuna-yawar-between-the-future-past-2021-22",
+      "name": "06｜Layqa Nuna Yawar｜Between the Future Past",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Newark",
+      "cityKeywords": [
+        "Newark",
+        "紐瓦克",
+        "New Jersey",
+        "紐澤西"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "Between the Future Past｜2021–2022",
+      "comment": "長達 350 呎的航廈壁畫串連原生動植物、移民、勞動者與被忽略的城市人物，將抵達大廳轉化為循環時間的公共敘事。",
+      "website": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "artistStatement": "藝術家以 Kichwa 原住民背景重新構想歷史壁畫，使敘事可從兩個方向閱讀，並讓多族裔 Newark 經驗進入交通基礎設施。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "classicTitle": "Between the Future Past｜2021–2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "classicDesc": "長達 350 呎的航廈壁畫串連原生動植物、移民、勞動者與被忽略的城市人物，將抵達大廳轉化為循環時間的公共敘事。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-07",
+      "dedupeKey": "art-karyn-olivier-approach-2022",
+      "name": "07｜Karyn Olivier｜Approach",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Newark",
+      "cityKeywords": [
+        "Newark",
+        "紐瓦克",
+        "Elizabeth",
+        "伊麗莎白",
+        "New Jersey",
+        "紐澤西"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Approach｜2022",
+      "comment": "兩座 50 呎懸吊螺旋以鋁、不鏽鋼與地方攝影組成，旅客從不同樓層觀看時，地景與天空交替翻轉。",
+      "website": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "artistStatement": "作品以飛行與跨時區造成的方向感轉換為核心，將 Newark 與 Elizabeth 的建築、基礎設施和地形折疊成移動中的城市肖像。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "classicTitle": "Approach｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/newark-liberty-international-airport/",
+      "classicDesc": "兩座 50 呎懸吊螺旋以鋁、不鏽鋼與地方攝影組成，旅客從不同樓層觀看時，地景與天空交替翻轉。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-08",
+      "dedupeKey": "art-jeppe-hein-all-your-wishes-2020",
+      "name": "08｜Jeppe Hein｜All Your Wishes",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Queens",
+      "cityKeywords": [
+        "Queens",
+        "皇后區",
+        "New York City",
+        "紐約"
+      ],
+      "media": [
+        "裝置",
+        "互動藝術",
+        "建築/場域"
+      ],
+      "works": "All Your Wishes｜2020",
+      "comment": "七十顆鏡面氣球與三張扭轉紅椅散布 LaGuardia 航廈，將候機、仰望、休息與偶遇變成可參與的社會雕塑。",
+      "website": "https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "artistStatement": "藝術家以熟悉物件的尺度與行為偏移創造驚奇，讓交通節點中的陌生人透過反射、座椅與共同觀看重新感知彼此。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "classicTitle": "All Your Wishes｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "classicDesc": "七十顆鏡面氣球與三張扭轉紅椅散布 LaGuardia 航廈，將候機、仰望、休息與偶遇變成可參與的社會雕塑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-09",
+      "dedupeKey": "art-sarah-sze-shorter-than-the-day-2020",
+      "name": "09｜Sarah Sze｜Shorter than the Day",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Queens",
+      "cityKeywords": [
+        "Queens",
+        "皇后區",
+        "New York City",
+        "紐約"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Shorter than the Day｜2020",
+      "comment": "數百張天空影像構成懸浮巨球，從晨光、白晝、夕照到午夜呈現一天的循環，鋁與鋼將短暫影像轉成耐久結構。",
+      "website": "https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "artistStatement": "作品把資訊、時間與物質交錯，使旅客繞行時逐步看見地球般脆弱的球體，思考永久公共委託如何封存瞬間。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "classicTitle": "Shorter than the Day｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/terminalb/",
+      "classicDesc": "數百張天空影像構成懸浮巨球，從晨光、白晝、夕照到午夜呈現一天的循環，鋁與鋼將短暫影像轉成耐久結構。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "current-2026-10-09-10",
+      "dedupeKey": "art-rafael-lozano-hemmer-speaking-willow-2020",
+      "name": "10｜Rafael Lozano-Hemmer｜Speaking Willow",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "Washington DC",
+        "華盛頓特區"
+      ],
+      "media": [
+        "互動藝術",
+        "聲音藝術",
+        "裝置"
+      ],
+      "works": "Speaking Willow｜2020–永久展出",
+      "comment": "互動樹冠懸掛以不同語言錄音的鐘形揚聲器，訪客穿行樹下即觸發聲音，使全球語言多樣性成為可步入的公共環境。",
+      "website": "https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "artistStatement": "語言既標示社群差異也建立連結；作品以身體移動啟動個別聲音，讓多重母語在同一空間短暫共存。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "classicTitle": "Speaking Willow｜2020–永久展出",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/rafael-lozano-hemmer-speaking-willow/",
+      "classicDesc": "互動樹冠懸掛以不同語言錄音的鐘形揚聲器，訪客穿行樹下即觸發聲音，使全球語言多樣性成為可步入的公共環境。",
+      "relatedByCity": [
+        "opportunity-2026-09-15-sound-scene-sounds-of-the-city"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-11",
+      "dedupeKey": "art-taro-okamoto-dream-plant-1983",
+      "name": "11｜岡本太郎 Taro Okamoto｜Dream Plant 夢の樹",
+      "tier": "全球經典層",
+      "region": "東亞",
+      "country": "日本 / Kanuma",
+      "cityKeywords": [
+        "Kanuma",
+        "鹿沼市",
+        "鹿沼"
+      ],
+      "media": [
+        "雕塑",
+        "地景/環境"
+      ],
+      "works": "Dream Plant 夢の樹｜1983",
+      "comment": "鹿沼市文化會館前庭的公共紀念性造型以植物般分枝與鮮明生命感，讓文化設施入口成為城市想像的生長節點。",
+      "website": "https://artplatform.go.jp/collections/W33147",
+      "workPage": "https://artplatform.go.jp/collections/W33147",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33147",
+      "artistStatement": "作品以「夢之樹」取代傳統人物紀念形式，把向上生長、分岔與生命能量轉化為可辨識的公共標誌。",
+      "artistStatementSource": "https://artplatform.go.jp/collections/W33147",
+      "classicTitle": "Dream Plant 夢の樹｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33147",
+      "classicDesc": "鹿沼市文化會館前庭的公共紀念性造型以植物般分枝與鮮明生命感，讓文化設施入口成為城市想像的生長節點。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-12",
+      "dedupeKey": "art-taro-okamoto-myth-1980",
+      "name": "12｜岡本太郎 Taro Okamoto｜Myth 神話",
+      "tier": "全球經典層",
+      "region": "東亞",
+      "country": "日本 / Matsue",
+      "cityKeywords": [
+        "Matsue",
+        "松江市",
+        "松江"
+      ],
+      "media": [
+        "雕塑",
+        "地景/環境"
+      ],
+      "works": "Myth 神話｜1980",
+      "comment": "為島根國民體育大會主場館製作的 7.5 公尺象徵雕塑，以強烈色彩與抽象生命形態為運動公園建立遠距辨識。",
+      "website": "https://artplatform.go.jp/collections/W33136",
+      "workPage": "https://artplatform.go.jp/collections/W33136",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33136",
+      "artistStatement": "作品將「神話」處理成公共場域中的原始能量與集體儀式，而非對單一人物的紀念。",
+      "artistStatementSource": "https://artplatform.go.jp/collections/W33136",
+      "classicTitle": "Myth 神話｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33136",
+      "classicDesc": "為島根國民體育大會主場館製作的 7.5 公尺象徵雕塑，以強烈色彩與抽象生命形態為運動公園建立遠距辨識。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-13",
+      "dedupeKey": "art-taro-okamoto-tree-of-children-1985",
+      "name": "13｜岡本太郎 Taro Okamoto｜Tree of Children こどもの樹",
+      "tier": "全球經典層",
+      "region": "東亞",
+      "country": "日本 / Tokyo",
+      "cityKeywords": [
+        "Tokyo",
+        "東京",
+        "Aoyama",
+        "青山"
+      ],
+      "media": [
+        "雕塑",
+        "社會參與"
+      ],
+      "works": "Tree of Children こどもの樹｜1985",
+      "comment": "青山兒童設施前的多面孔樹狀雕塑，將每位孩子的獨特個性化為向不同方向伸展的公共形象。",
+      "website": "https://artplatform.go.jp/collections/W33149",
+      "workPage": "https://artplatform.go.jp/collections/W33149",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33149",
+      "artistStatement": "作品以多樣而不相同的臉部和枝梢主張兒童能自由成長；其人物元素屬觀念性群體象徵，而非城市名人塑像。",
+      "artistStatementSource": "https://artplatform.go.jp/collections/W33149",
+      "classicTitle": "Tree of Children こどもの樹｜1985",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33149",
+      "classicDesc": "青山兒童設施前的多面孔樹狀雕塑，將每位孩子的獨特個性化為向不同方向伸展的公共形象。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-14",
+      "dedupeKey": "art-taro-okamoto-young-dream-1974",
+      "name": "14｜岡本太郎 Taro Okamoto｜Young Dream 若い夢",
+      "tier": "全球經典層",
+      "region": "東亞",
+      "country": "日本 / Himeji",
+      "cityKeywords": [
+        "Himeji",
+        "姬路市",
+        "姫路市",
+        "Yumesaki",
+        "夢前"
+      ],
+      "media": [
+        "雕塑",
+        "水景"
+      ],
+      "works": "Young Dream 若い夢｜1974",
+      "comment": "夢前新城中央廣場的噴泉紀念體以抽象有機形態與水流結合，為住宅新城塑造共同地標。",
+      "website": "https://artplatform.go.jp/collections/W33129",
+      "workPage": "https://artplatform.go.jp/collections/W33129",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33129",
+      "artistStatement": "作品把「年輕的夢」轉化為可由居民環繞、觀看與經過的水景裝置，將新城公共生活與未完成的未來感連結。",
+      "artistStatementSource": "https://artplatform.go.jp/collections/W33129",
+      "classicTitle": "Young Dream 若い夢｜1974",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33129",
+      "classicDesc": "夢前新城中央廣場的噴泉紀念體以抽象有機形態與水流結合，為住宅新城塑造共同地標。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-15",
+      "dedupeKey": "art-taro-okamoto-elan-1976",
+      "name": "15｜岡本太郎 Taro Okamoto｜Elan エラン",
+      "tier": "全球經典層",
+      "region": "東亞",
+      "country": "日本 / Tokyo",
+      "cityKeywords": [
+        "Tokyo",
+        "東京",
+        "Taito",
+        "台東區",
+        "台東"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Elan エラン｜1976",
+      "comment": "設置於台東區建築內的公共造型以「élan vital／生命躍動」為題，將緊湊的垂直形體嵌入日常動線。",
+      "website": "https://artplatform.go.jp/collections/W33132",
+      "workPage": "https://artplatform.go.jp/collections/W33132",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33132",
+      "artistStatement": "作品把生命衝動濃縮為向上、偏斜而帶張力的形態，讓建築內部獲得超越裝飾的精神節點。",
+      "artistStatementSource": "https://artplatform.go.jp/collections/W33132",
+      "classicTitle": "Elan エラン｜1976",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://artplatform.go.jp/collections/W33132",
+      "classicDesc": "設置於台東區建築內的公共造型以「élan vital／生命躍動」為題，將緊湊的垂直形體嵌入日常動線。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-16",
+      "dedupeKey": "art-jenny-holzer-installation-fur-reichstagsgebaude-1999",
+      "name": "16｜Jenny Holzer｜Installation für Reichstagsgebäude",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "光環境",
+        "文字介入",
+        "建築/場域"
+      ],
+      "works": "Installation für Reichstagsgebäude｜1999",
+      "comment": "國會北入口鋼製 LED 光柱連續播放 447 篇自 1871 至 1999 年的議會發言，約二十日才完整循環一次。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/installation-fur-reichstagsgebaude",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/installation-fur-reichstagsgebaude",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/installation-fur-reichstagsgebaude",
+      "artistStatement": "四面同時出現不同立場，使政治辯論在建築中成為無休止的光之支柱，具體化民主不只有單一觀點。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/installation-fur-reichstagsgebaude",
+      "classicTitle": "Installation für Reichstagsgebäude｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/installation-fur-reichstagsgebaude",
+      "classicDesc": "國會北入口鋼製 LED 光柱連續播放 447 篇自 1871 至 1999 年的議會發言，約二十日才完整循環一次。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-17",
+      "dedupeKey": "art-norbert-kricke-raumkurve-raumplastik-bonn-1985",
+      "name": "17｜Norbert Kricke｜Raumkurve / Raumplastik Bonn",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "邦恩"
+      ],
+      "media": [
+        "雕塑",
+        "地景/環境",
+        "Kunst am Bau"
+      ],
+      "works": "Raumkurve / Raumplastik Bonn｜1985",
+      "comment": "霧面不鏽鋼線束從圓形水面伸向周邊建築，以近乎無量體的方式把空間、方向與時間納入雕塑。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raumkurve-raumplastik-bonn",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raumkurve-raumplastik-bonn",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raumkurve-raumplastik-bonn",
+      "artistStatement": "Kricke 明確拒絕以人物或量體為核心；線條如天線穿越場域，讓分散年代的建築進入動態關係。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raumkurve-raumplastik-bonn",
+      "classicTitle": "Raumkurve / Raumplastik Bonn｜1985",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/raumkurve-raumplastik-bonn",
+      "classicDesc": "霧面不鏽鋼線束從圓形水面伸向周邊建築，以近乎無量體的方式把空間、方向與時間納入雕塑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-18",
+      "dedupeKey": "art-philipp-fritzsche-neugier-2001",
+      "name": "18｜Philipp Fritzsche｜Neugier",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "動力藝術",
+        "建築/場域",
+        "Kunst am Bau"
+      ],
+      "works": "Neugier｜2001",
+      "comment": "兩顆鏡面球沿四層樓高的鋼軌獨立升降，既像科技裝置也像移動眼睛，將研究、觀看與監控疊合。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/neugier",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/neugier",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/neugier",
+      "artistStatement": "作品利用原西德駐東德常駐代表處的歷史，使「好奇」同時指向求知、凝視與國家監視，並以運動持續改寫立面。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/neugier",
+      "classicTitle": "Neugier｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/neugier",
+      "classicDesc": "兩顆鏡面球沿四層樓高的鋼軌獨立升降，既像科技裝置也像移動眼睛，將研究、觀看與監控疊合。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-19",
+      "dedupeKey": "art-realities-united-90deg-8-4deg-2020",
+      "name": "19｜realities:united｜90° – 8,4°",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "塞爾維亞／德國文化脈絡 / Belgrade",
+      "cityKeywords": [
+        "Belgrade",
+        "貝爾格勒",
+        "Beograd",
+        "Београд"
+      ],
+      "media": [
+        "光環境",
+        "建築/場域",
+        "Kunst am Bau"
+      ],
+      "works": "90° – 8,4°｜2020",
+      "comment": "德國駐貝爾格勒使館以四面彩色鏡與金屬框構成地面、牆面與天花介入，隨日照和觀者移動產生萬花筒式色彩。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/90deg-8-4deg",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/90deg-8-4deg",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/90deg-8-4deg",
+      "artistStatement": "作品以可變反射回應「白色城市」Belgrade 的建築語境，將外交建築的固定幾何轉成流動的觀看位置。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/90deg-8-4deg",
+      "classicTitle": "90° – 8,4°｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/90deg-8-4deg",
+      "classicDesc": "德國駐貝爾格勒使館以四面彩色鏡與金屬框構成地面、牆面與天花介入，隨日照和觀者移動產生萬花筒式色彩。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-09",
+      "id": "classic-2026-10-09-20",
+      "dedupeKey": "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002",
+      "name": "20｜Maurizio Nannucci｜Zeit/Licht, Zeit/Bild, Zeit/Raum",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "光環境",
+        "文字介入",
+        "Kunst am Bau"
+      ],
+      "works": "Zeit/Licht, Zeit/Bild, Zeit/Raum｜2002",
+      "comment": "六組霓虹文字置於德國外交部新舊建築連接隧道前，以「時間／光、時間／圖像、時間／空間」建立變動關係。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeit-licht-zeit-bild-zeit-raum",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeit-licht-zeit-bild-zeit-raum",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeit-licht-zeit-bild-zeit-raum",
+      "artistStatement": "作品把原供商業訊息的發光文字轉化為哲學介面，使閱讀成為穿越建築、歷史與外交空間的文化行動。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeit-licht-zeit-bild-zeit-raum",
+      "classicTitle": "Zeit/Licht, Zeit/Bild, Zeit/Raum｜2002",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeit-licht-zeit-bild-zeit-raum",
+      "classicDesc": "六組霓虹文字置於德國外交部新舊建築連接隧道前，以「時間／光、時間／圖像、時間／空間」建立變動關係。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    }
+  ]
+}

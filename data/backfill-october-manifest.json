@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-08-public-art-r90",
-  "generatedAt": "2026-10-08T04:58:56+08:00",
+  "version": "2026-10-09-public-art-r91",
+  "generatedAt": "2026-10-09T04:58:01+08:00",
   "files": [
     "backfill-october-20261001.json",
     "backfill-october-20261002.json",
@@ -9,14 +9,14 @@
     "backfill-october-20261005.json",
     "backfill-october-20261006.json",
     "backfill-october-20261007.json",
-    "backfill-october-20261008.json"
+    "backfill-october-20261008.json",
+    "backfill-october-20261009.json"
   ],
-  "expectedEntries": 160,
-  "statementEntries": 160,
-  "statementSourceEntries": 160,
+  "expectedEntries": 180,
+  "statementEntries": 180,
+  "statementSourceEntries": 180,
   "statementBacklog": 0,
-  "imageEntries": 160,
+  "imageEntries": 180,
   "imageBacklog": 0,
-  "note": "截至 2026-10-08 已發布 8 個十月每日檔、共 160 則；每日維持 10／5／5，排除傳統城市人物紀念雕塑。"
+  "note": "截至 2026-10-09 已發布 9 個十月每日檔、共 180 則；每日維持 10／5／5，加入日本公共藝術線並排除傳統城市人物紀念雕塑。"
 }
-
