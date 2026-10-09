@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-09",
-  "generatedAt": "2026-10-09T04:58:01+08:00",
+  "updated": "2026-10-10",
+  "generatedAt": "2026-10-10T04:55:59+08:00",
   "meta": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "timezone": "Asia/Taipei",
-    "total": 113,
+    "total": 116,
     "addedToday": 5,
-    "expiredRemoved": 4,
-    "retained": 108,
-    "duplicateRemoved": 1
+    "expiredRemoved": 2,
+    "retained": 111,
+    "duplicateRemoved": 0
   },
   "entries": [
     {
@@ -90,7 +90,7 @@
       "budget": "未公開",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "art-genesis-belanger-heads-or-tails-2026"
+        "art-tom-finkelpearl-crossroads-1987"
       ]
     },
     {
@@ -254,43 +254,6 @@
     {
       "category": "公開徵件",
       "status": "官方來源",
-      "updated": "2026-08-22",
-      "id": "competition-2026-08-22-04",
-      "dedupeKey": "opportunity-2026-08-22-city-of-london-city-public-art-panel-",
-      "name": "04｜City of London｜City Public Art Panel 申請",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "英國 / London",
-      "cityKeywords": [
-        "London",
-        "倫敦"
-      ],
-      "media": [
-        "平台/策展"
-      ],
-      "works": "City Public Art Panel 申請｜截止 2026-10-08",
-      "comment": "公共藝術提案須在會議前至少兩週送審，並說明安全、維護與場地條件。",
-      "website": "https://www.cityoflondon.gov.uk/services/planning/planning-application-requirements/public-art-applications",
-      "workPage": "https://www.cityoflondon.gov.uk/services/planning/planning-application-requirements/public-art-applications",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityoflondon.gov.uk/services/planning/planning-application-requirements/public-art-applications",
-      "artistStatement": "公共藝術提案須在會議前至少兩週送審，並說明安全、維護與場地條件。",
-      "artistStatementSource": "https://www.cityoflondon.gov.uk/services/planning/planning-application-requirements/public-art-applications",
-      "classicTitle": "City Public Art Panel 申請",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityoflondon.gov.uk/services/planning/planning-application-requirements/public-art-applications",
-      "classicDesc": "公共藝術提案須在會議前至少兩週送審，並說明安全、維護與場地條件。",
-      "deadline": "2026-10-08T23:59:59+01:00",
-      "deadlineLabel": "截止 2026-10-08",
-      "deadlineTimezone": "Europe/London",
-      "deadlinePrecision": "date",
-      "organizer": "City of London",
-      "eligibility": "擬在倫敦金融城公共領域設置藝術的提案方",
-      "budget": "未公開；屬審議申請",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
       "updated": "2026-08-23",
       "id": "competition-2026-08-23-03",
       "dedupeKey": "opportunity-2026-08-23-hessische-kulturstiftung-18",
@@ -363,7 +326,7 @@
       "budget": "個人圖錄最高 €27,000；個人計畫 €35,000；團體計畫 €55,000",
       "applicationFee": "免費",
       "relatedByCity": [
-        "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002"
+        "art-ortraud-lerch-mosaikbrunnen-1964"
       ]
     },
     {
@@ -605,7 +568,7 @@
       "budget": "專案補助額依個案審查；須編列展覽費與官方建議之最低合理報酬",
       "applicationFee": "免費",
       "relatedByCity": [
-        "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002"
+        "art-ortraud-lerch-mosaikbrunnen-1964"
       ]
     },
     {
@@ -647,7 +610,7 @@
       "budget": "個人圖錄最高 €27,000；個人計畫最高 €35,000；團體計畫最高 €55,000",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002"
+        "art-ortraud-lerch-mosaikbrunnen-1964"
       ]
     },
     {
@@ -688,7 +651,7 @@
       "budget": "總額約 €500,000，個案額度依評審與預算核定",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002"
+        "art-ortraud-lerch-mosaikbrunnen-1964"
       ]
     },
     {
@@ -1020,7 +983,7 @@
       "budget": "旅行獎助每名 €25,000；紐約、巴黎、倫敦一年 €25,000；伊斯坦堡半年 €12,500；京都＋日本旅行半年 €15,000；另可申請最高 €7,700 製作／展示補助",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "art-genesis-belanger-heads-or-tails-2026"
+        "art-tom-finkelpearl-crossroads-1987"
       ]
     },
     {
@@ -1105,7 +1068,7 @@
       "budget": "個人出版最高 €27,000；個人計畫最高 €35,000；群體計畫最高 €55,000",
       "applicationFee": "免費",
       "relatedByCity": [
-        "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002"
+        "art-ortraud-lerch-mosaikbrunnen-1964"
       ]
     },
     {
@@ -1397,9 +1360,7 @@
       "eligibility": "所有地區、所有經驗與媒材的藝術家；須滿 18 歲或與成人共同申請",
       "budget": "$500–$1,500 honorarium",
       "applicationFee": "免費",
-      "relatedByCity": [
-        "art-rafael-lozano-hemmer-speaking-willow-2020"
-      ]
+      "relatedByCity": []
     },
     {
       "category": "公開徵件",
@@ -2532,45 +2493,6 @@
       "organizer": "City of Eastvale",
       "eligibility": "具公共藝術經驗之藝術家或藝術家團隊；其他限制未公開",
       "budget": "未公開",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "可信二手來源",
-      "updated": "2026-09-28",
-      "id": "competition-2026-09-28-05",
-      "dedupeKey": "opportunity-2026-09-28-geelong-city-hall-projections-eoi",
-      "name": "05｜City of Greater Geelong｜City Hall Projections EOI",
-      "tier": "競圖資料庫",
-      "region": "大洋洲",
-      "country": "澳洲 / Geelong, Victoria",
-      "cityKeywords": [
-        "Geelong",
-        "吉朗"
-      ],
-      "media": [
-        "光/影像/投影",
-        "數位/互動",
-        "建築/場域"
-      ],
-      "works": "City Hall Projections EOI｜截止 2026.10.09",
-      "comment": "徵集可投影於 Geelong City Hall 立面的影音數位作品，預定於 2026 年 11 月 21 日至 2027 年 1 月 10 日公開呈現。",
-      "website": "https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
-      "workPage": "https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
-      "artistStatement": "徵集可投影於 Geelong City Hall 立面的影音數位作品。",
-      "artistStatementSource": "https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
-      "classicTitle": "City Hall Projections EOI",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artshub.com.au/opportunity/geelong-city-hall-projections-eoi-2874880/",
-      "classicDesc": "市政廳立面投影委託。",
-      "deadline": "2026-10-09T23:59:59+11:00",
-      "deadlineLabel": "截止 2026.10.09",
-      "deadlineTimezone": "Australia/Melbourne",
-      "deadlinePrecision": "date",
-      "organizer": "City of Greater Geelong",
-      "eligibility": "澳洲媒體、投影藝術家或團隊",
-      "budget": "AUD 20,000",
       "applicationFee": "未公開",
       "relatedByCity": []
     },
@@ -4179,7 +4101,9 @@
       "eligibility": "專業藝術家與策展人；可提出既有或新製作作品，資格階段免交完整方案",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+        "art-elsa-flores-roberto-gil-de-montes-peter-shire-paseo-cesar-chavez-1995"
+      ]
     },
     {
       "category": "公開徵件",
@@ -4339,7 +4263,9 @@
       "eligibility": "專業藝術家與藝術家團隊；官方頁載明之地理與專業資格適用",
       "budget": "未公開",
       "applicationFee": "未公開",
-      "relatedByCity": []
+      "relatedByCity": [
+        "art-elsa-flores-roberto-gil-de-montes-peter-shire-paseo-cesar-chavez-1995"
+      ]
     },
     {
       "category": "公開徵件",
@@ -4501,6 +4427,208 @@
       "eligibility": "藝術家與藝術家團隊；完整地理資格依官方徵件文件",
       "budget": "未公開",
       "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "competition-2026-10-10-01",
+      "dedupeKey": "opportunity-18315-fremont-boxart-2026",
+      "name": "01｜Fremont｜boxART! Program",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Fremont, California",
+      "cityKeywords": [
+        "Fremont",
+        "佛利蒙",
+        "費利蒙"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "公共設施整合"
+      ],
+      "works": "交通號誌控制箱公共藝術｜US$1,000／箱｜截止 2026.11.15 23:59 PST",
+      "comment": "Fremont 市府徵求藝術家以戶外級壓克力顏料直接彩繪交通號誌控制箱，主題為「Creating Exceptional Experiences」，把日常道路設備轉化為社區公共藝術。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18315/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18315/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18315/CAFE",
+      "artistStatement": "設計須原創、完成度高並可適應控制箱各面；市府先清潔與打底，完工後加上抗紫外線保護層，藝術家需於 2027 年 6 月 30 日前完成。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18315/CAFE",
+      "classicTitle": "Fremont｜boxART! Program",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18315/CAFE",
+      "classicDesc": "設計須原創、完成度高並可適應控制箱各面；市府先清潔與打底，完工後加上抗紫外線保護層，藝術家需於 2027 年 6 月 30 日前完成。",
+      "deadline": "2026-11-15T23:59:00-08:00",
+      "deadlineLabel": "截止 2026.11.15 23:59 PST",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Fremont Community Services Department",
+      "eligibility": "18 歲以上、具繪畫經驗的專業藝術家或團隊；優先鼓勵灣區與在地藝術家",
+      "budget": "每完成一座控制箱 US$1,000",
+      "applicationFee": "US$0",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "competition-2026-10-10-02",
+      "dedupeKey": "opportunity-18267-albuquerque-fire-station-36",
+      "name": "02｜Albuquerque｜Fire Station 36 Public Art RFQ",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Albuquerque, New Mexico",
+      "cityKeywords": [
+        "Albuquerque",
+        "阿布奎基",
+        "Burque"
+      ],
+      "media": [
+        "雕塑",
+        "地景/環境",
+        "建築/場域"
+      ],
+      "works": "Fire Station 36 戶外場域特定公共藝術｜US$80,000｜截止 2026.10.23 23:59",
+      "comment": "Bernalillo County Arts Board 徵求藝術家或團隊，為新建節能消防站的 Community Risk Reduction Center 前庭創作耐候、低維護的大型戶外作品。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18267/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18267/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18267/CAFE",
+      "artistStatement": "作品應回應服務、韌性、永續與社區合作，並可適度引用消防站熊吉祥物、雲梯車歷史或消防符號；社區參與受到鼓勵。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18267/CAFE",
+      "classicTitle": "Albuquerque｜Fire Station 36 Public Art RFQ",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18267/CAFE",
+      "classicDesc": "作品應回應服務、韌性、永續與社區合作，並可適度引用消防站熊吉祥物、雲梯車歷史或消防符號；社區參與受到鼓勵。",
+      "deadline": "2026-10-23T23:59:00-06:00",
+      "deadlineLabel": "截止 2026.10.23 23:59（Albuquerque 當地時間）",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "Bernalillo County Public Art / Bernalillo County Arts Board",
+      "eligibility": "居住於 New Mexico、Oklahoma、Utah、Arizona、Colorado 或 Texas 的藝術家與藝術家團隊",
+      "budget": "US$80,000，全包",
+      "applicationFee": "US$0",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "competition-2026-10-10-03",
+      "dedupeKey": "opportunity-18298-clare-destination-clare-sculpture-walk-2027",
+      "name": "03｜Clare｜Destination Clare Art Sculpture Walk 2027",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Clare, Michigan",
+      "cityKeywords": [
+        "Clare",
+        "克萊爾",
+        "Clare County",
+        "克萊爾郡"
+      ],
+      "media": [
+        "雕塑",
+        "暫時性作品",
+        "地景/環境"
+      ],
+      "works": "Clare County 戶外雕塑步道｜US$1,000 入選酬金｜截止 2027.02.28",
+      "comment": "Clare County Arts Council 徵選十件耐候且適合公共安全條件的戶外雕塑，於 2027 年 5 月至 2028 年 4 月在郡內社區輪展。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18298/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18298/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18298/CAFE",
+      "artistStatement": "評選著重藝術性、創意、戶外耐久與固定方式；入選作品可標售，另設最佳作品與觀眾票選獎，並可選擇延長借展。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18298/CAFE",
+      "classicTitle": "Clare｜Destination Clare Art Sculpture Walk 2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18298/CAFE",
+      "classicDesc": "評選著重藝術性、創意、戶外耐久與固定方式；入選作品可標售，另設最佳作品與觀眾票選獎，並可選擇延長借展。",
+      "deadline": "2027-02-28T23:59:59-05:00",
+      "deadlineLabel": "截止 2027.02.28（官方僅公布日期）",
+      "deadlineTimezone": "America/Detroit",
+      "deadlinePrecision": "date",
+      "organizer": "Clare County Arts Council",
+      "eligibility": "美國居民；每位藝術家最多提交三件作品",
+      "budget": "每件入選酬金 US$1,000；最佳作品 US$2,500、觀眾票選 US$1,000；平台列示總額 US$35,000",
+      "applicationFee": "US$0",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "competition-2026-10-10-04",
+      "dedupeKey": "opportunity-18314-santa-rosa-public-art-walk-2027-2029",
+      "name": "04｜Santa Rosa｜Public Art Walk 2027–2029",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Santa Rosa, California",
+      "cityKeywords": [
+        "Santa Rosa",
+        "聖塔羅莎",
+        "Sonoma County",
+        "索諾馬郡"
+      ],
+      "media": [
+        "雕塑",
+        "暫時性作品",
+        "地景/環境"
+      ],
+      "works": "市中心兩年期臨時公共藝術步道｜US$5,000／件｜截止 2026.12.15",
+      "comment": "Santa Rosa 公共藝術計畫徵選最多十件已完成、適合戶外的作品，於市中心與 Railroad Square 展出約兩年，主題為「Inspired by…」。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18314/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18314/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18314/CAFE",
+      "artistStatement": "提案須說明作品受哪些文化傳統、藝術運動、技法或創作者啟發，並提出安裝計畫；作品須能承受天候、公共接觸與工程安全要求。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18314/CAFE",
+      "classicTitle": "Santa Rosa｜Public Art Walk 2027–2029",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18314/CAFE",
+      "classicDesc": "提案須說明作品受哪些文化傳統、藝術運動、技法或創作者啟發，並提出安裝計畫；作品須能承受天候、公共接觸與工程安全要求。",
+      "deadline": "2026-12-15T23:59:59-08:00",
+      "deadlineLabel": "截止 2026.12.15（官方僅公布日期）",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "date",
+      "organizer": "City of Santa Rosa Arts & Culture / Public Art Program",
+      "eligibility": "居住或工作於美國、18 歲以上的藝術家與藝術家團隊；須提交已完成作品",
+      "budget": "每件入選作品 US$5,000",
+      "applicationFee": "US$0",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "competition-2026-10-10-05",
+      "dedupeKey": "opportunity-17972-lafayette-art-on-the-street-2027",
+      "name": "05｜Lafayette｜Art on the Street 2027",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Lafayette, Colorado",
+      "cityKeywords": [
+        "Lafayette",
+        "拉法葉",
+        "Boulder County",
+        "博爾德郡"
+      ],
+      "media": [
+        "雕塑",
+        "暫時性作品",
+        "地景/環境"
+      ],
+      "works": "市中心一年期戶外雕塑借展｜US$1,200／件｜截止 2026.10.22 23:59 MDT",
+      "comment": "Lafayette 市府徵選 2027 年 Art on the Street 戶外雕塑，預計填入 21 個市中心公共點位，展期一年並搭配社區回應計畫。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/17972/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/17972/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17972/CAFE",
+      "artistStatement": "計畫強調媒材、主題、藝術家與故事的多樣性；入選作品各獲酬金，另有藝術卓越、觀眾票選與最具啟發性獎。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/17972/CAFE",
+      "classicTitle": "Lafayette｜Art on the Street 2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/17972/CAFE",
+      "classicDesc": "計畫強調媒材、主題、藝術家與故事的多樣性；入選作品各獲酬金，另有藝術卓越、觀眾票選與最具啟發性獎。",
+      "deadline": "2026-10-22T23:59:00-06:00",
+      "deadlineLabel": "截止 2026.10.22 23:59 MDT",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "City of Lafayette Arts & Cultural Resources Department / Public Art Committee",
+      "eligibility": "全美藝術家；每人最多提交三件作品",
+      "budget": "每件入選酬金 US$1,200；另設 US$1,000、US$500、US$500 獎項",
+      "applicationFee": "US$0",
       "relatedByCity": []
     }
   ]

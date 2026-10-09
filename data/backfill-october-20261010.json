@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-10T04:55:59+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-10",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Los Angeles Union Station／Metro、Public Art Fund、Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "永久交通建築整合、場域介入、光、聲音、水景、公共座具與地景公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/10 固定 10＋5＋5；聚焦交通空間整合、公共設施與 Kunst am Bau，人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-10T04:55:59+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-10T04:55:59+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-01",
+      "dedupeKey": "art-bill-bell-a-train-1995",
+      "name": "01｜Bill Bell｜A Train",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "光環境",
+        "互動藝術",
+        "聲音藝術",
+        "建築/場域"
+      ],
+      "works": "A Train｜1995–永久設置",
+      "comment": "十二支脈動光棒在電扶梯上方生成三百多個稍縱即逝的圖像，並以隱藏麥克風回應旅客聲音，把通勤動線改造成周邊視覺與聲響的感知場。",
+      "website": "https://www.unionstationla.com/artwork/bill-bell/",
+      "workPage": "https://www.unionstationla.com/artwork/bill-bell/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/bill-bell/",
+      "artistStatement": "作品需在移動中以周邊視野捕捉；火車、計程車與城市文化符號不是靜態圖像，而是被身體速度與聲音共同啟動的交通藝術。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/bill-bell/",
+      "classicTitle": "A Train｜1995–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/bill-bell/",
+      "classicDesc": "十二支脈動光棒在電扶梯上方生成三百多個稍縱即逝的圖像，並以隱藏麥克風回應旅客聲音，把通勤動線改造成周邊視覺與聲響的感知場。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-02",
+      "dedupeKey": "art-christopher-sproat-union-chairs-1993",
+      "name": "02｜Christopher Sproat｜Union Chairs",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "雕塑",
+        "公共座具",
+        "建築/場域"
+      ],
+      "works": "Union Chairs｜1993–永久設置",
+      "comment": "寬大的花崗岩雕塑座椅回應車站歷史大廳的木皮革俱樂部椅，把月台等待的基本功能轉化為具有尺度、重量與場所記憶的公共家具。",
+      "website": "https://www.unionstationla.com/artwork/christopher-sproat/",
+      "workPage": "https://www.unionstationla.com/artwork/christopher-sproat/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/christopher-sproat/",
+      "artistStatement": "作品不以獨立物件佔據空間，而讓乘客實際坐入雕塑；歷史家具的輪廓因此在新的運輸基礎設施中持續被身體使用。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/christopher-sproat/",
+      "classicTitle": "Union Chairs｜1993–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/christopher-sproat/",
+      "classicDesc": "寬大的花崗岩雕塑座椅回應車站歷史大廳的木皮革俱樂部椅，把月台等待的基本功能轉化為具有尺度、重量與場所記憶的公共家具。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-03",
+      "dedupeKey": "art-cynthia-carlson-la-city-of-angels-1993",
+      "name": "03｜Cynthia Carlson｜LA: City of Angels",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域",
+        "複合媒材"
+      ],
+      "works": "LA: City of Angels｜1993–永久設置",
+      "comment": "鋁製翼形懸浮於南加州海岸線壁畫上方，十一個天使名稱分別指涉海洋、蔬菜、地震、夏日降溫與城市醜聞，將地名神話拆解成多重城市寓言。",
+      "website": "https://www.unionstationla.com/artwork/cynthia-carlson/",
+      "workPage": "https://www.unionstationla.com/artwork/cynthia-carlson/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/cynthia-carlson/",
+      "artistStatement": "三維壁畫以宗教天使名和地方日常建立詼諧對照，使「天使之城」不再是單一宣傳形象，而是由氣候、地景、食物與矛盾組成。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/cynthia-carlson/",
+      "classicTitle": "LA: City of Angels｜1993–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/cynthia-carlson/",
+      "classicDesc": "鋁製翼形懸浮於南加州海岸線壁畫上方，十一個天使名稱分別指涉海洋、蔬菜、地震、夏日降溫與城市醜聞，將地名神話拆解成多重城市寓言。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-04",
+      "dedupeKey": "art-east-los-streetscapers-la-sombra-del-arroyo-1995",
+      "name": "04｜East Los Streetscapers｜La Sombra del Arroyo",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "陶瓷",
+        "水景",
+        "建築/場域"
+      ],
+      "works": "La Sombra del Arroyo｜1995–永久設置",
+      "comment": "手繪陶磚在步行橋下形成樹冠、鳥獸與原生動物的陰影場，鑄銅樹幹與浮雕地磚把候車座區轉化為消失溪流的生態記憶。",
+      "website": "https://www.unionstationla.com/artwork/east-los-streetscapers/",
+      "workPage": "https://www.unionstationla.com/artwork/east-los-streetscapers/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/east-los-streetscapers/",
+      "artistStatement": "作品以「河谷之蔭」在硬質交通廣場重建遮蔭與棲地意象，讓休息、穿越與觀看共同指向場址被都市化覆蓋的自然歷史。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/east-los-streetscapers/",
+      "classicTitle": "La Sombra del Arroyo｜1995–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/east-los-streetscapers/",
+      "classicDesc": "手繪陶磚在步行橋下形成樹冠、鳥獸與原生動物的陰影場，鑄銅樹幹與浮雕地磚把候車座區轉化為消失溪流的生態記憶。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-05",
+      "dedupeKey": "art-james-doolin-los-angeles-circa-series-1995-96",
+      "name": "05｜James Doolin｜Los Angeles (Circa 1870, Circa 1910, Circa 1960 and After 2000)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "Los Angeles (Circa 1870, Circa 1910, Circa 1960 and After 2000)｜1995–1996，永久設置",
+      "comment": "四幅大型壁畫從農地、鐵路、城市擴張、立體交流道一路推演至未來運輸網，把交通基礎設施本身變成閱讀洛杉磯都市化的時間剖面。",
+      "website": "https://www.unionstationla.com/artwork/james-doolin/",
+      "workPage": "https://www.unionstationla.com/artwork/james-doolin/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/james-doolin/",
+      "artistStatement": "作品以同一城市的四個時段並置，使交通不只是背景，而是塑造地景、尺度與生活方式的主要力量；旅客在總部動線中穿越一部推測性城市史。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/james-doolin/",
+      "classicTitle": "Los Angeles (Circa 1870, Circa 1910, Circa 1960 and After 2000)｜1995–1996，永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/james-doolin/",
+      "classicDesc": "四幅大型壁畫從農地、鐵路、城市擴張、立體交流道一路推演至未來運輸網，把交通基礎設施本身變成閱讀洛杉磯都市化的時間剖面。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-06",
+      "dedupeKey": "art-margaret-nielsen-la-dialogs-1996",
+      "name": "06｜Margaret Nielsen｜LA Dialogs",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "LA Dialogs｜1996–永久設置",
+      "comment": "超尺度的杯子、帽子、鉛筆與雪景球等觀光紀念品覆滿牆面，將個人收藏的懷舊感放大為城市共同記憶，也揭示地方形象如何被商品化。",
+      "website": "https://www.unionstationla.com/artwork/margaret-nielsen/",
+      "workPage": "https://www.unionstationla.com/artwork/margaret-nielsen/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/margaret-nielsen/",
+      "artistStatement": "作品以微小紀念物作為記憶載體；當物件被放大到建築尺度，私人旅遊回憶轉成可被陌生人共同辨認、質疑與重組的城市對話。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/margaret-nielsen/",
+      "classicTitle": "LA Dialogs｜1996–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/margaret-nielsen/",
+      "classicDesc": "超尺度的杯子、帽子、鉛筆與雪景球等觀光紀念品覆滿牆面，將個人收藏的懷舊感放大為城市共同記憶，也揭示地方形象如何被商品化。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-07",
+      "dedupeKey": "art-may-sun-richard-wyatt-city-of-dreams-river-of-history-1995",
+      "name": "07｜May Sun／Richard Wyatt｜City of Dreams, River of History",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "水景",
+        "建築/場域"
+      ],
+      "works": "City of Dreams, River of History｜1995–永久設置",
+      "comment": "壁畫、水族箱、青銅鋪面符號、河石、舊華埠出土物與起伏座椅共同構成多層場域，將被掩覆的洛杉磯河與移民歷史帶回車站入口。",
+      "website": "https://www.unionstationla.com/artwork/may-sun-and-richard-wyatt/",
+      "workPage": "https://www.unionstationla.com/artwork/may-sun-and-richard-wyatt/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/may-sun-and-richard-wyatt/",
+      "artistStatement": "作品不把歷史壓縮成紀念像，而讓河流、生物、考古碎片與居民圖像彼此交疊；公共空間因而成為能坐下、穿越與持續補寫的城市檔案。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/may-sun-and-richard-wyatt/",
+      "classicTitle": "City of Dreams, River of History｜1995–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/may-sun-and-richard-wyatt/",
+      "classicDesc": "壁畫、水族箱、青銅鋪面符號、河石、舊華埠出土物與起伏座椅共同構成多層場域，將被掩覆的洛杉磯河與移民歷史帶回車站入口。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-08",
+      "dedupeKey": "art-michael-amescua-guardians-of-the-track-1995-2016",
+      "name": "08｜Michael Amescua｜Guardians of the Track",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "金屬",
+        "建築/場域",
+        "公共設施整合"
+      ],
+      "works": "Guardians of the Track｜1995／2016，永久設置",
+      "comment": "切割鋼板以擬人形、天體符號與幾何圖樣包覆交通總部外牆並兼作廣場護欄，將安全設施、遮蔽與視覺敘事合為一體。",
+      "website": "https://www.unionstationla.com/artwork/michael-amescua/",
+      "workPage": "https://www.unionstationla.com/artwork/michael-amescua/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/michael-amescua/",
+      "artistStatement": "作品以公共設施的功能位置作為雕塑條件；圖像不紀念單一人物，而形成守護動線的集體性符號，使建築邊界兼具通透與防護。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/michael-amescua/",
+      "classicTitle": "Guardians of the Track｜1995／2016，永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/michael-amescua/",
+      "classicDesc": "切割鋼板以擬人形、天體符號與幾何圖樣包覆交通總部外牆並兼作廣場護欄，將安全設施、遮蔽與視覺敘事合為一體。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-09",
+      "dedupeKey": "art-noel-korten-kim-yasuda-reunion-1996",
+      "name": "09｜Noel Korten／Kim Yasuda｜ReUnion",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "玻璃",
+        "金屬",
+        "建築/場域"
+      ],
+      "works": "ReUnion｜1996–永久設置",
+      "comment": "金屬肋骨與玻璃板構成六組葉片或翅膀般的候車棚，沿巴士廣場形成連續起伏的雲帶，把遮蔭、等待與社會相遇轉化為作品。",
+      "website": "https://www.unionstationla.com/artwork/noel-korten-and-kim-yasuda/",
+      "workPage": "https://www.unionstationla.com/artwork/noel-korten-and-kim-yasuda/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/noel-korten-and-kim-yasuda/",
+      "artistStatement": "作品題名同時指向重聚與 Union Station； shelter、movement、evolution、change 四組概念被嵌入日常候車行為，使建築構件成為社會雕塑。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/noel-korten-and-kim-yasuda/",
+      "classicTitle": "ReUnion｜1996–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/noel-korten-and-kim-yasuda/",
+      "classicDesc": "金屬肋骨與玻璃板構成六組葉片或翅膀般的候車棚，沿巴士廣場形成連續起伏的雲帶，把遮蔭、等待與社會相遇轉化為作品。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "current-2026-10-10-10",
+      "dedupeKey": "art-elsa-flores-roberto-gil-de-montes-peter-shire-paseo-cesar-chavez-1995",
+      "name": "10｜Elsa Flores／Roberto Gil de Montes／Peter Shire｜Paseo César Chavez",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯",
+        "LA"
+      ],
+      "media": [
+        "陶瓷",
+        "水景",
+        "公共座具"
+      ],
+      "works": "Paseo César Chavez｜1995–永久設置",
+      "comment": "彩色陶磚包覆座椅、植栽池與三座各具聲響的噴泉，於街角構成可休息、聆聽與穿越的微型公園，三位藝術家的語彙在同一公共系統中共存。",
+      "website": "https://www.unionstationla.com/artwork/elsa-flores-roberto-gil-de-montes-and-peter-shire/",
+      "workPage": "https://www.unionstationla.com/artwork/elsa-flores-roberto-gil-de-montes-and-peter-shire/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/elsa-flores-roberto-gil-de-montes-and-peter-shire/",
+      "artistStatement": "作品以可坐、可聽、可接近的水景取代遠觀式紀念物，讓合作差異成為廣場活力；陶磚圖像與流水聲把交通節點轉為日常停留場所。",
+      "artistStatementSource": "https://www.unionstationla.com/artwork/elsa-flores-roberto-gil-de-montes-and-peter-shire/",
+      "classicTitle": "Paseo César Chavez｜1995–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.unionstationla.com/artwork/elsa-flores-roberto-gil-de-montes-and-peter-shire/",
+      "classicDesc": "彩色陶磚包覆座椅、植栽池與三座各具聲響的噴泉，於街角構成可休息、聆聽與穿越的微型公園，三位藝術家的語彙在同一公共系統中共存。",
+      "relatedByCity": [
+        "opportunity-west-hollywood-santa-monica-doheny-median-rfq-2026",
+        "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-11",
+      "dedupeKey": "art-richard-nonas-agriculture-1988",
+      "name": "11｜Richard Nonas｜Agriculture",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "石材",
+        "地景/環境",
+        "暫時性作品"
+      ],
+      "works": "Agriculture｜1988–1989",
+      "comment": "四列長達 85 呎的花崗岩、石灰岩與褐砂岩置入紐約州館廢墟，短石材垂直倚靠其上，像史前梁柱系統介入一座失修的未來主義遺構。",
+      "website": "https://www.publicartfund.org/exhibitions/view/agriculture/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/agriculture/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/agriculture/",
+      "artistStatement": "Nonas 將場址稱為「未來的廢墟」；作品以古老建築的殘片感對照世界博覽會遺址，使公共藝術成為不同時間尺度彼此摩擦的考古裝置。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/agriculture/",
+      "classicTitle": "Agriculture｜1988–1989",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/agriculture/",
+      "classicDesc": "四列長達 85 呎的花崗岩、石灰岩與褐砂岩置入紐約州館廢墟，短石材垂直倚靠其上，像史前梁柱系統介入一座失修的未來主義遺構。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-12",
+      "dedupeKey": "art-david-saunders-seat-westchester-square",
+      "name": "12｜David Saunders｜Seat",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約",
+        "Bronx",
+        "布朗克斯"
+      ],
+      "media": [
+        "雕塑",
+        "公共座具",
+        "社會參與"
+      ],
+      "works": "Seat｜永久設置",
+      "comment": "一張空的雕塑座椅設置於 Westchester Square Park，以最普遍的休息姿態邀請不同語言與識字背景的居民，把公共紀念形式轉向日常個體。",
+      "website": "https://www.publicartfund.org/exhibitions/view/seat/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/seat/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/seat/",
+      "artistStatement": "藝術家主張公共紀念物應直接擁抱每個人的想像；空座不指向特定偉人，而以可理解的情感圖像承認普通人的尊嚴。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/seat/",
+      "classicTitle": "Seat｜永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/seat/",
+      "classicDesc": "一張空的雕塑座椅設置於 Westchester Square Park，以最普遍的休息姿態邀請不同語言與識字背景的居民，把公共紀念形式轉向日常個體。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-13",
+      "dedupeKey": "art-jene-highstein-totem-1980",
+      "name": "13｜Jene Highstein｜Totem",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "暫時性作品",
+        "交通空間"
+      ],
+      "works": "Totem｜1980–1981",
+      "comment": "重達約七千磅的抽象量體被置於 West Broadway 交通島，六呎高的緊縮垂直形體改變車流環繞的小尺度空地，並開啟該處後續公共藝術展覽系列。",
+      "website": "https://www.publicartfund.org/exhibitions/view/totem/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/totem/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/totem/",
+      "artistStatement": "作品以無人物、無敘事的材料存在感測試交通基礎設施能否成為藝術場址；鄰近居民藝術家優先的展覽政策也由此形成。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/totem/",
+      "classicTitle": "Totem｜1980–1981",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/totem/",
+      "classicDesc": "重達約七千磅的抽象量體被置於 West Broadway 交通島，六呎高的緊縮垂直形體改變車流環繞的小尺度空地，並開啟該處後續公共藝術展覽系列。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-14",
+      "dedupeKey": "art-tony-smith-cigarette-1998",
+      "name": "14｜Tony Smith｜Cigarette",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "雕塑",
+        "暫時性作品",
+        "建築/場域"
+      ],
+      "works": "Cigarette｜1998",
+      "comment": "巨大黑色幾何結構在 Doris C. Freedman Plaza 形成通往中央公園的門架，尺度迫使行人從內外、遠近與穿越關係重新感受雕塑。",
+      "website": "https://www.publicartfund.org/exhibitions/view/cigarette/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/cigarette/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/cigarette/",
+      "artistStatement": "Tony Smith 將模組幾何帶入城市環境；作品不提供單一正面，而以身體繞行與城市背景的切換產生不同構圖，成為公共尺度極簡雕塑的重要案例。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/cigarette/",
+      "classicTitle": "Cigarette｜1998",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/cigarette/",
+      "classicDesc": "巨大黑色幾何結構在 Doris C. Freedman Plaza 形成通往中央公園的門架，尺度迫使行人從內外、遠近與穿越關係重新感受雕塑。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-15",
+      "dedupeKey": "art-tom-finkelpearl-crossroads-1987",
+      "name": "15｜Tom Finkelpearl｜Crossroads",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約",
+        "Queens",
+        "皇后區"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "Crossroads｜1987–1988",
+      "comment": "建築雕塑、兩處廢棄地鐵入口整修與兩輛重新塗裝的事故車共同構成場域，倒置住宅、企業塔與物件場景把公共設施修復變成消費社會寓言。",
+      "website": "https://www.publicartfund.org/exhibitions/view/crossroads/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/crossroads/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/crossroads/",
+      "artistStatement": "作品同時修繕城市空間與製造批判性敘事；家庭和諧、電視疏離與企業電話的場景並置，讓基礎設施改善不只是美化，而成為公共討論。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/crossroads/",
+      "classicTitle": "Crossroads｜1987–1988",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/crossroads/",
+      "classicDesc": "建築雕塑、兩處廢棄地鐵入口整修與兩輛重新塗裝的事故車共同構成場域，倒置住宅、企業塔與物件場景把公共設施修復變成消費社會寓言。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-16",
+      "dedupeKey": "art-hd-schrader-stromungen-2003",
+      "name": "16｜HD Schrader｜Strömungen",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Rostock",
+      "cityKeywords": [
+        "Rostock",
+        "羅斯托克"
+      ],
+      "media": [
+        "不鏽鋼",
+        "Kunst am Bau",
+        "地景/環境"
+      ],
+      "works": "Strömungen｜2003",
+      "comment": "八件彎成波形的方鋼元件在入口前密集直立，以各自不同的旋轉與朝向形成編舞；噴砂表面隨日照呈現如水面流動的灰色變化。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "artistStatement": "作品以具體藝術的簡化形式回應海事與水文機構的潮汐、海況及風暴潮任務，讓機構功能不靠圖像說明，而透過光與材料被感知。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "classicTitle": "Strömungen｜2003",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stromungen",
+      "classicDesc": "八件彎成波形的方鋼元件在入口前密集直立，以各自不同的旋轉與朝向形成編舞；噴砂表面隨日照呈現如水面流動的灰色變化。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-17",
+      "dedupeKey": "art-ortraud-lerch-mosaikbrunnen-1964",
+      "name": "17｜Ortraud Lerch｜Mosaikbrunnen",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "馬賽克",
+        "水景",
+        "Kunst am Bau"
+      ],
+      "works": "Mosaikbrunnen｜1964",
+      "comment": "淺長方形水池以玻璃馬賽克鋪成由中心展開的花形圖案，青綠、藍、橙、紅色石粒與低矮噴泉共同維持地面圖像的可讀性。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaikbrunnen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaikbrunnen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaikbrunnen",
+      "artistStatement": "作品把建築軸線、花園路徑與水面圖像結合，色彩語彙介於 Miró、Matisse 剪紙與普普花卉之間；即使受損停用，仍是東德建築整合藝術的重要保存案例。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaikbrunnen",
+      "classicTitle": "Mosaikbrunnen｜1964",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mosaikbrunnen",
+      "classicDesc": "淺長方形水池以玻璃馬賽克鋪成由中心展開的花形圖案，青綠、藍、橙、紅色石粒與低矮噴泉共同維持地面圖像的可讀性。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-18",
+      "dedupeKey": "art-nan-hoover-proposal-2000",
+      "name": "18｜Nan Hoover｜Proposal",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Eberswalde",
+      "cityKeywords": [
+        "Eberswalde",
+        "埃伯斯瓦爾德"
+      ],
+      "media": [
+        "錄像",
+        "光環境",
+        "Kunst am Bau"
+      ],
+      "works": "Proposal｜2000",
+      "comment": "三部螢幕的錄像裝置貼近水路航運機關大廳牆面，以無彩抽象影像和時間變化作為建築補充，尺度約 200 × 250 公分。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "artistStatement": "Hoover 強調公共藝術必須同時考慮建築、使用者、移動與功能；作品不把自己當成自主物件，而以光影時間柔性介入行政空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "classicTitle": "Proposal｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/proposal",
+      "classicDesc": "三部螢幕的錄像裝置貼近水路航運機關大廳牆面，以無彩抽象影像和時間變化作為建築補充，尺度約 200 × 250 公分。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-19",
+      "dedupeKey": "art-jurgen-hans-grummer-steinkreisel-1972",
+      "name": "19｜Jürgen Hans Grümmer｜Steinkreisel",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "邦恩"
+      ],
+      "media": [
+        "玄武岩",
+        "地景/環境",
+        "Kunst am Bau"
+      ],
+      "works": "Steinkreisel｜1972",
+      "comment": "直徑約十六公尺的玄武岩石圈、T 形巨石群、磚地坪與周邊石列共同塑造中央廣場；切割與自然表面並置，部分石材同時作為座位。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkreisel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkreisel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkreisel",
+      "artistStatement": "作品以近似古老建築的材料秩序對抗兩座高樓的現代尺度，並把雕塑、鋪面、車行安全與休息功能整合為一套城市空間系統。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkreisel",
+      "classicTitle": "Steinkreisel｜1972",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steinkreisel",
+      "classicDesc": "直徑約十六公尺的玄武岩石圈、T 形巨石群、磚地坪與周邊石列共同塑造中央廣場；切割與自然表面並置，部分石材同時作為座位。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-10",
+      "id": "classic-2026-10-10-20",
+      "dedupeKey": "art-tadashi-kawamata-nest-bonn-2012",
+      "name": "20｜Tadashi Kawamata｜Nest",
+      "tier": "德國經典層",
+      "region": "東亞",
+      "country": "德國／日本 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "邦恩"
+      ],
+      "media": [
+        "木構",
+        "裝置",
+        "Kunst am Bau"
+      ],
+      "works": "Nest｜2012",
+      "comment": "三公尺高的粗鋸落葉松板在聯合國氣候秘書處玻璃中庭角落集結成巨大巢穴，臨時性外觀以兩至二點五噸重量懸掛於理性建築內。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "artistStatement": "作品以庇護、氣候危機與公民不服從的「巢」對照現代建築的秩序；它不是順從建築的裝飾，而是刻意使既有空間定義鬆動的 Kunst gegen den Bau。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "classicTitle": "Nest｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/nest",
+      "classicDesc": "三公尺高的粗鋸落葉松板在聯合國氣候秘書處玻璃中庭角落集結成巨大巢穴，臨時性外觀以兩至二點五噸重量懸掛於理性建築內。",
+      "relatedByCity": []
+    }
+  ]
+}
