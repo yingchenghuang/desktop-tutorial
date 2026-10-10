@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-10",
-  "generatedAt": "2026-10-10T04:55:59+08:00",
+  "updated": "2026-10-11",
+  "generatedAt": "2026-10-11T04:59:02+08:00",
   "meta": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "timezone": "Asia/Taipei",
-    "total": 116,
+    "total": 119,
     "addedToday": 5,
     "expiredRemoved": 2,
-    "retained": 111,
+    "retained": 114,
     "duplicateRemoved": 0
   },
   "entries": [
@@ -90,7 +90,9 @@
       "budget": "未公開",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "art-tom-finkelpearl-crossroads-1987"
+        "art-tom-finkelpearl-crossroads-1987",
+        "art-isamu-noguchi-unidentified-object-1979",
+        "art-bill-brand-subway-obscura-1989"
       ]
     },
     {
@@ -326,7 +328,8 @@
       "budget": "個人圖錄最高 €27,000；個人計畫 €35,000；團體計畫 €55,000",
       "applicationFee": "免費",
       "relatedByCity": [
-        "art-ortraud-lerch-mosaikbrunnen-1964"
+        "art-ortraud-lerch-mosaikbrunnen-1964",
+        "art-seebach-stegat-global-barocc-2022"
       ]
     },
     {
@@ -568,7 +571,8 @@
       "budget": "專案補助額依個案審查；須編列展覽費與官方建議之最低合理報酬",
       "applicationFee": "免費",
       "relatedByCity": [
-        "art-ortraud-lerch-mosaikbrunnen-1964"
+        "art-ortraud-lerch-mosaikbrunnen-1964",
+        "art-seebach-stegat-global-barocc-2022"
       ]
     },
     {
@@ -610,7 +614,8 @@
       "budget": "個人圖錄最高 €27,000；個人計畫最高 €35,000；團體計畫最高 €55,000",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "art-ortraud-lerch-mosaikbrunnen-1964"
+        "art-ortraud-lerch-mosaikbrunnen-1964",
+        "art-seebach-stegat-global-barocc-2022"
       ]
     },
     {
@@ -651,7 +656,8 @@
       "budget": "總額約 €500,000，個案額度依評審與預算核定",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "art-ortraud-lerch-mosaikbrunnen-1964"
+        "art-ortraud-lerch-mosaikbrunnen-1964",
+        "art-seebach-stegat-global-barocc-2022"
       ]
     },
     {
@@ -983,7 +989,9 @@
       "budget": "旅行獎助每名 €25,000；紐約、巴黎、倫敦一年 €25,000；伊斯坦堡半年 €12,500；京都＋日本旅行半年 €15,000；另可申請最高 €7,700 製作／展示補助",
       "applicationFee": "未公開",
       "relatedByCity": [
-        "art-tom-finkelpearl-crossroads-1987"
+        "art-tom-finkelpearl-crossroads-1987",
+        "art-isamu-noguchi-unidentified-object-1979",
+        "art-assemble-matthew-raw-clay-station-2017"
       ]
     },
     {
@@ -1068,7 +1076,8 @@
       "budget": "個人出版最高 €27,000；個人計畫最高 €35,000；群體計畫最高 €55,000",
       "applicationFee": "免費",
       "relatedByCity": [
-        "art-ortraud-lerch-mosaikbrunnen-1964"
+        "art-ortraud-lerch-mosaikbrunnen-1964",
+        "art-seebach-stegat-global-barocc-2022"
       ]
     },
     {
@@ -1360,7 +1369,9 @@
       "eligibility": "所有地區、所有經驗與媒材的藝術家；須滿 18 歲或與成人共同申請",
       "budget": "$500–$1,500 honorarium",
       "applicationFee": "免費",
-      "relatedByCity": []
+      "relatedByCity": [
+        "art-christa-naher-die-vier-elemente-1994"
+      ]
     },
     {
       "category": "公開徵件",
@@ -3047,45 +3058,6 @@
       "category": "公開徵件",
       "status": "官方來源",
       "updated": "2026-10-02",
-      "id": "competition-2026-10-02-04",
-      "dedupeKey": "opportunity-2026-10-02-portsmouth-hanover-street-parking-garage-public-art",
-      "name": "04｜Portsmouth｜Hanover Street Parking Garage Public Art",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "美國 / Portsmouth, New Hampshire",
-      "cityKeywords": [
-        "Portsmouth",
-        "朴次茅斯"
-      ],
-      "media": [
-        "停車場公共藝術",
-        "壁畫／雕塑／光影",
-        "Percent for Art"
-      ],
-      "works": "Hanover Street Parking Garage Public Art｜截止 2026.10.09（官方僅公布日期，採當地 23:59:59 EDT）",
-      "comment": "為 Hanover Street Parking Garage 外牆徵求原創公共藝術，可採壁畫、戶外雕塑、投影或燈光介入，讓大型交通設施成為更具辨識度的城市界面。",
-      "website": "https://www.portsmouthnh.gov/city/press-releases/public-art-review-committee-seeks-artists-hanover-garage-project",
-      "workPage": "https://www.portsmouthnh.gov/city/press-releases/public-art-review-committee-seeks-artists-hanover-garage-project",
-      "photo": "https://www.portsmouthnh.gov/sites/default/files/styles/news_detail/public/2026-09/Hanover%20Garage.jpg?itok=EiGKOcaD",
-      "artistStatement": "為 Hanover Street Parking Garage 外牆徵求原創公共藝術，可採壁畫、戶外雕塑、投影或燈光介入，讓大型交通設施成為更具辨識度的城市界面。",
-      "artistStatementSource": "https://www.portsmouthnh.gov/city/press-releases/public-art-review-committee-seeks-artists-hanover-garage-project",
-      "classicTitle": "Portsmouth｜Hanover Street Parking Garage Public Art",
-      "classicImage": "https://www.portsmouthnh.gov/sites/default/files/styles/news_detail/public/2026-09/Hanover%20Garage.jpg?itok=EiGKOcaD",
-      "classicDesc": "為 Hanover Street Parking Garage 外牆徵求原創公共藝術，可採壁畫、戶外雕塑、投影或燈光介入，讓大型交通設施成為更具辨識度的城市界面。",
-      "deadline": "2026-10-09T23:59:59-04:00",
-      "deadlineLabel": "截止 2026.10.09（官方僅公布日期，採當地 23:59:59 EDT）",
-      "deadlineTimezone": "America/New_York",
-      "deadlinePrecision": "date",
-      "organizer": "City of Portsmouth Public Art Review Committee",
-      "eligibility": "任何類型藝術家皆可申請",
-      "budget": "最高 USD 60,000，含全部費用",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-10-02",
       "id": "competition-2026-10-02-05",
       "dedupeKey": "opportunity-2026-10-02-avondale-donatela-park-public-art",
       "name": "05｜Avondale｜Donatela Park Public Art",
@@ -3751,44 +3723,6 @@
       "organizer": "City of Gainesville",
       "eligibility": "依官方徵件資格之專業藝術家或團隊",
       "budget": "US$48,915；入圍設計費各 US$1,000",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-10-06",
-      "id": "competition-2026-10-06-03",
-      "dedupeKey": "opportunity-2026-10-06-portsmouth-nh-hanover-garage-mural",
-      "name": "03｜Portsmouth｜Hanover Parking Garage Mural",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "美國 / Portsmouth, New Hampshire",
-      "cityKeywords": [
-        "Portsmouth",
-        "朴次茅斯"
-      ],
-      "media": [
-        "壁畫/街頭",
-        "建築/場域"
-      ],
-      "works": "Hanover Parking Garage Mural｜US$60,000",
-      "comment": "停車場壁畫委託，要求回應市中心環境並兼顧耐候、尺度與長期維護。",
-      "website": "https://www.cityofportsmouth.com/arts/public-art-opportunities",
-      "workPage": "https://www.cityofportsmouth.com/arts/public-art-opportunities",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofportsmouth.com/arts/public-art-opportunities",
-      "artistStatement": "停車場壁畫委託，要求回應市中心環境並兼顧耐候、尺度與長期維護。",
-      "artistStatementSource": "https://www.cityofportsmouth.com/arts/public-art-opportunities",
-      "classicTitle": "Hanover Parking Garage Mural",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofportsmouth.com/arts/public-art-opportunities",
-      "classicDesc": "以大型壁畫重塑市中心停車建築界面。",
-      "deadline": "2026-10-09T23:59:59-04:00",
-      "deadlineLabel": "截止 2026.10.09",
-      "deadlineTimezone": "America/New_York",
-      "deadlinePrecision": "date",
-      "organizer": "City of Portsmouth",
-      "eligibility": "依官方徵件資格之藝術家或團隊",
-      "budget": "US$60,000",
       "applicationFee": "未公開",
       "relatedByCity": []
     },
@@ -4629,6 +4563,206 @@
       "eligibility": "全美藝術家；每人最多提交三件作品",
       "budget": "每件入選酬金 US$1,200；另設 US$1,000、US$500、US$500 獎項",
       "applicationFee": "US$0",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "competition-2026-10-11-01",
+      "dedupeKey": "call-south-salt-lake-water-tower-plaza-shade-2026",
+      "name": "01｜South Salt Lake｜Water Tower Plaza Artistic Shade Structure",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / South Salt Lake, Utah",
+      "cityKeywords": [
+        "South Salt Lake",
+        "南鹽湖城",
+        "Salt Lake City",
+        "鹽湖城"
+      ],
+      "media": [
+        "建築/場域",
+        "公共設施整合",
+        "光環境"
+      ],
+      "works": "Water Tower Plaza 永久藝術遮棚｜最高 US$90,000｜截止 2026.10.30 17:00 MDT",
+      "comment": "South Salt Lake Arts 徵求藝術家或藝術設計團隊，為 Water Tower Plaza 約 1,025 平方英尺草地設計大型永久遮棚，兼具遮蔭、地標、日間光影與夜間照明。",
+      "website": "https://form.jotform.com/SouthSaltLakeArts/water-tower-plaza-rfq",
+      "workPage": "https://form.jotform.com/SouthSaltLakeArts/water-tower-plaza-rfq",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://form.jotform.com/SouthSaltLakeArts/water-tower-plaza-rfq",
+      "artistStatement": "作品須耐受 Utah 風、雪載重與紫外線，並與城市、建築及結構工程團隊協作；三名決選者各獲 US$3,000 提案酬金。",
+      "artistStatementSource": "https://form.jotform.com/SouthSaltLakeArts/water-tower-plaza-rfq",
+      "classicTitle": "South Salt Lake｜Water Tower Plaza Artistic Shade Structure",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://form.jotform.com/SouthSaltLakeArts/water-tower-plaza-rfq",
+      "classicDesc": "作品須耐受 Utah 風、雪載重與紫外線，並與城市、建築及結構工程團隊協作；三名決選者各獲 US$3,000 提案酬金。",
+      "deadline": "2026-10-30T17:00:00-06:00",
+      "deadlineLabel": "截止 2026.10.30 17:00 MDT",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "City of South Salt Lake／South Salt Lake Arts",
+      "eligibility": "18 歲以上、居住美國的藝術家、設計師或藝術家主導團隊；須具大型戶外裝置、結構材料及跨專業協作經驗",
+      "budget": "最高 US$90,000；三名決選者各 US$3,000（得標者酬金由總委託額扣除）",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "competition-2026-10-11-02",
+      "dedupeKey": "opportunity-18294-fort-collins-water-quality-services-building",
+      "name": "02｜Fort Collins｜Water Quality Services Division Building Public Art",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Fort Collins, Colorado",
+      "cityKeywords": [
+        "Fort Collins",
+        "科林斯堡"
+      ],
+      "media": [
+        "建築/場域",
+        "地景/環境",
+        "雕塑"
+      ],
+      "works": "Water Quality Services Division Building 永久公共藝術｜US$295,000｜截止 2026.11.16 23:59 MST",
+      "comment": "Fort Collins Art in Public Places 徵求藝術家或團隊，為水質服務部門新建築創作戶外或由公共區域可見的永久作品，回應水環境、公共服務與建築場域。",
+      "website": "https://opportunities.wearecreativewest.org/opportunity/18294/CAFE",
+      "workPage": "https://opportunities.wearecreativewest.org/opportunity/18294/CAFE",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18294/CAFE",
+      "artistStatement": "委託涵蓋設計、工程、製作、運輸與安裝；作品需耐久、低維護，並與專案設計及施工團隊協調。",
+      "artistStatementSource": "https://opportunities.wearecreativewest.org/opportunity/18294/CAFE",
+      "classicTitle": "Fort Collins｜Water Quality Services Division Building Public Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://opportunities.wearecreativewest.org/opportunity/18294/CAFE",
+      "classicDesc": "委託涵蓋設計、工程、製作、運輸與安裝；作品需耐久、低維護，並與專案設計及施工團隊協調。",
+      "deadline": "2026-11-16T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.11.16 23:59 MST",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "City of Fort Collins Art in Public Places Program",
+      "eligibility": "18 歲以上、獲准在美國工作的藝術家或團隊；限 Colorado、Wyoming、Utah、Arizona、New Mexico、Oklahoma、Nebraska、Kansas 居民",
+      "budget": "US$295,000，全包",
+      "applicationFee": "US$0",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "competition-2026-10-11-03",
+      "dedupeKey": "call-olympia-art-crossings-4-5-2026",
+      "name": "03｜Olympia｜Art Crossings #4 and #5",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Olympia, Washington",
+      "cityKeywords": [
+        "Olympia",
+        "奧林匹亞"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "交通空間"
+      ],
+      "works": "兩處永久公共藝術節點｜每案 US$55,000｜截止 2026.12.08 23:59 PST",
+      "comment": "Olympia 市府徵求兩件永久公共藝術，設置於城市入口與步行交通節點，延續 Art Crossings 系列，以視覺地標連結街區、移動路徑與地方身份。",
+      "website": "https://www.olympiawa.gov/community/arts,_culture___heritage/art_crossing_call_for_art.php",
+      "workPage": "https://www.olympiawa.gov/community/arts,_culture___heritage/art_crossing_call_for_art.php",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.olympiawa.gov/community/arts,_culture___heritage/art_crossing_call_for_art.php",
+      "artistStatement": "計畫優先考量與 Olympia 有關聯的藝術家，作品須適合戶外長期展示、公共安全與城市維護條件；入選者需與市府完成場址整合。",
+      "artistStatementSource": "https://www.olympiawa.gov/community/arts,_culture___heritage/art_crossing_call_for_art.php",
+      "classicTitle": "Olympia｜Art Crossings #4 and #5",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.olympiawa.gov/community/arts,_culture___heritage/art_crossing_call_for_art.php",
+      "classicDesc": "計畫優先考量與 Olympia 有關聯的藝術家，作品須適合戶外長期展示、公共安全與城市維護條件；入選者需與市府完成場址整合。",
+      "deadline": "2026-12-08T23:59:00-08:00",
+      "deadlineLabel": "截止 2026.12.08 23:59 PST",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "City of Olympia Arts Commission／Parks, Arts & Recreation",
+      "eligibility": "與 Olympia 有連結的藝術家；市府職員、委員、專案人員及家屬與既有 Art Crossings 藝術家不具資格",
+      "budget": "每處 US$55,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "competition-2026-10-11-04",
+      "dedupeKey": "rfq-roseville-veterans-memorial-hall-mural-2026",
+      "name": "04｜Roseville｜Veterans Memorial Hall Mural",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Roseville, California",
+      "cityKeywords": [
+        "Roseville",
+        "羅斯維爾",
+        "Placer County",
+        "普萊瑟郡"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域",
+        "社會參與"
+      ],
+      "works": "Veterans Memorial Hall 場域壁畫｜最高 US$17,850｜截止 2026.11.20 23:59 PST",
+      "comment": "Blue Line Arts 與 Roseville 市府徵求壁畫藝術家，為 Veterans Memorial Hall 創作尊重退伍軍人經驗、可與社區歷史及建築立面對話的公共壁畫。",
+      "website": "https://www.bluelinearts.org/rfq-mural-vetsmemorial",
+      "workPage": "https://www.bluelinearts.org/rfq-mural-vetsmemorial",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bluelinearts.org/rfq-mural-vetsmemorial",
+      "artistStatement": "資格階段著重公共壁畫經驗與協作能力；退伍軍人、現役軍人、軍眷及 Sacramento 地區藝術家列為優先考量，選定後進入設計與安裝。",
+      "artistStatementSource": "https://www.bluelinearts.org/rfq-mural-vetsmemorial",
+      "classicTitle": "Roseville｜Veterans Memorial Hall Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bluelinearts.org/rfq-mural-vetsmemorial",
+      "classicDesc": "資格階段著重公共壁畫經驗與協作能力；退伍軍人、現役軍人、軍眷及 Sacramento 地區藝術家列為優先考量，選定後進入設計與安裝。",
+      "deadline": "2026-11-20T23:59:00-08:00",
+      "deadlineLabel": "截止 2026.11.20 23:59 PT",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "Blue Line Arts／City of Roseville",
+      "eligibility": "具資格的美國壁畫藝術家；優先退伍軍人、現役軍人、軍眷及 Sacramento 地區創作者",
+      "budget": "最高 US$17,850（安裝 US$17,600＋設計 US$250）",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "competition-2026-10-11-05",
+      "dedupeKey": "call-albuquerque-sawmural-mini-mural-festival-2026",
+      "name": "05｜Albuquerque｜SawMural Mini-Mural Festival RFQ",
+      "tier": "競圖資料庫",
+      "region": "西方",
+      "country": "美國 / Albuquerque, New Mexico",
+      "cityKeywords": [
+        "Albuquerque",
+        "阿布奎基",
+        "Burque"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "暫時性作品",
+        "社會參與"
+      ],
+      "works": "SawMural Mini-Mural Festival 公共壁畫徵件｜截止 2026.11.13 23:59 MST",
+      "comment": "Albuquerque 市府公共藝術計畫公開徵求 SawMural Mini-Mural Festival 藝術家資格，以小型壁畫及現場創作擴大城市公共藝術參與。",
+      "website": "https://www.cabq.gov/artsculture/public-art/for-artists/opportunities-for-artists",
+      "workPage": "https://www.cabq.gov/artsculture/public-art/for-artists/opportunities-for-artists",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cabq.gov/artsculture/public-art/for-artists/opportunities-for-artists",
+      "artistStatement": "官方機會頁確認徵件仍開放及截止時間；資格、酬金與申請費未在公開摘要揭露，故資料庫明確標記未公開，不進行推測。",
+      "artistStatementSource": "https://www.cabq.gov/artsculture/public-art/for-artists/opportunities-for-artists",
+      "classicTitle": "Albuquerque｜SawMural Mini-Mural Festival RFQ",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cabq.gov/artsculture/public-art/for-artists/opportunities-for-artists",
+      "classicDesc": "官方機會頁確認徵件仍開放及截止時間；資格、酬金與申請費未在公開摘要揭露，故資料庫明確標記未公開，不進行推測。",
+      "deadline": "2026-11-13T23:59:00-07:00",
+      "deadlineLabel": "截止 2026.11.13 23:59 MST",
+      "deadlineTimezone": "America/Denver",
+      "deadlinePrecision": "time",
+      "organizer": "City of Albuquerque Public Art Program",
+      "eligibility": "未公開",
+      "budget": "未公開",
+      "applicationFee": "未公開",
       "relatedByCity": []
     }
   ]

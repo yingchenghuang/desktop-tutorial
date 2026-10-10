@@ -1,0 +1,738 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-11T04:59:02+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-11",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Art on the Underground、Public Art Fund、Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "永久交通建築整合、場域介入、光、環境、去殖民與 Kunst am Bau；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/11 固定 10＋5＋5；聚焦交通空間整合、公共設施、環境與 Kunst am Bau，人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-11T04:59:02+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-11T04:59:02+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-01",
+      "dedupeKey": "art-quinlan-hastings-angels-of-history-2024",
+      "name": "01｜Hannah Quinlan／Rosie Hastings｜Angels of History",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "馬賽克",
+        "建築/場域",
+        "LGBTQ+",
+        "交通空間"
+      ],
+      "works": "Angels of History｜2024–永久設置",
+      "comment": "大型馬賽克嵌入 St James’s Park 站新入口，以跨世代酷兒人物與歷史圖像重新組織通勤建築的公共敘事，讓原本中性的交通節點成為可見、可辯論的社會記憶場。",
+      "website": "https://art.tfl.gov.uk/projects/angels-of-history/",
+      "workPage": "https://art.tfl.gov.uk/projects/angels-of-history/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/angels-of-history/",
+      "artistStatement": "作品借用公共建築常見的紀念性馬賽克語言，卻把被主流歷史忽略的酷兒生活置於核心；觀看不再只是裝飾性的經過，而是對誰能進入公共記憶的提問。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/angels-of-history/",
+      "classicTitle": "Angels of History｜2024–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/angels-of-history/",
+      "classicDesc": "大型馬賽克嵌入 St James’s Park 站新入口，以跨世代酷兒人物與歷史圖像重新組織通勤建築的公共敘事，讓原本中性的交通節點成為可見、可辯論的社會記憶場。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-02",
+      "dedupeKey": "art-daniel-buren-diamonds-and-circles-2017",
+      "name": "02｜Daniel Buren｜Diamonds and Circles, works in situ",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "建築/場域",
+        "公共設施整合",
+        "色彩",
+        "交通空間"
+      ],
+      "works": "Diamonds and Circles, works in situ｜2017–永久設置",
+      "comment": "黑白條紋、彩色菱形與圓形遍布 Tottenham Court Road 站牆面、玻璃與入口，將藝術分散至乘客實際行走的建築表面，形成不斷變換的視覺節奏。",
+      "website": "https://art.tfl.gov.uk/projects/permanent-commission-by-daniel-buren/",
+      "workPage": "https://art.tfl.gov.uk/projects/permanent-commission-by-daniel-buren/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/permanent-commission-by-daniel-buren/",
+      "artistStatement": "Buren 延續 in situ 方法，不把作品當成可搬移的孤立物件，而讓尺度、色彩與重複模組依附站體結構；公共藝術因此與導向、速度和城市地下空間同時發生。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/permanent-commission-by-daniel-buren/",
+      "classicTitle": "Diamonds and Circles, works in situ｜2017–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/permanent-commission-by-daniel-buren/",
+      "classicDesc": "黑白條紋、彩色菱形與圓形遍布 Tottenham Court Road 站牆面、玻璃與入口，將藝術分散至乘客實際行走的建築表面，形成不斷變換的視覺節奏。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-03",
+      "dedupeKey": "art-john-maine-sea-strata-2011",
+      "name": "03｜John Maine｜Sea Strata",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "石材",
+        "浮雕",
+        "建築/場域",
+        "交通空間"
+      ],
+      "works": "Sea Strata｜2011–永久設置",
+      "comment": "Portland 石浮雕沿 Green Park 站建築立面展開，層狀紋理借鑑海洋化石與沉積結構，把地質時間壓入繁忙入口的日常表皮。",
+      "website": "https://art.tfl.gov.uk/projects/sea-strata/",
+      "workPage": "https://art.tfl.gov.uk/projects/sea-strata/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/sea-strata/",
+      "artistStatement": "作品以石材自身的生成歷史回應地下工程：乘客在進出地鐵時，同時經過一段被雕刻強化的地層想像，使都市交通與深時間建立關係。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/sea-strata/",
+      "classicTitle": "Sea Strata｜2011–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/sea-strata/",
+      "classicDesc": "Portland 石浮雕沿 Green Park 站建築立面展開，層狀紋理借鑑海洋化石與沉積結構，把地質時間壓入繁忙入口的日常表皮。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-04",
+      "dedupeKey": "art-robyn-denny-enamel-panels-1988",
+      "name": "04｜Robyn Denny｜Enamel Panels",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "琺瑯",
+        "建築/場域",
+        "色彩",
+        "交通空間"
+      ],
+      "works": "Enamel Panels｜1988–永久設置",
+      "comment": "抽象琺瑯板沿 Embankment 站月台形成連續色帶，以耐久工業材料把列車移動、乘客視線與幾何構圖結合。",
+      "website": "https://art.tfl.gov.uk/projects/enamel-panels/",
+      "workPage": "https://art.tfl.gov.uk/projects/enamel-panels/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/enamel-panels/",
+      "artistStatement": "Denny 將戰後抽象繪畫轉化為公共運輸尺度；圖像不要求定點凝視，而在列車到站、離站與行人通過時被分段讀取，證明移動本身可以是觀看方法。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/enamel-panels/",
+      "classicTitle": "Enamel Panels｜1988–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/enamel-panels/",
+      "classicDesc": "抽象琺瑯板沿 Embankment 站月台形成連續色帶，以耐久工業材料把列車移動、乘客視線與幾何構圖結合。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-05",
+      "dedupeKey": "art-jacqueline-poncelet-wrapper-2012",
+      "name": "05｜Jacqueline Poncelet｜Wrapper",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "琺瑯",
+        "建築/場域",
+        "公共設施整合",
+        "交通空間"
+      ],
+      "works": "Wrapper｜2012–永久設置",
+      "comment": "約一千五百塊搪瓷板以多組圖樣包覆 Edgware Road 站外牆，從街區服飾、植物與城市紋理汲取語彙，使通風與機電建築轉化為巨型城市織物。",
+      "website": "https://art.tfl.gov.uk/projects/wrapper-by-jacqueline-poncelet/",
+      "workPage": "https://art.tfl.gov.uk/projects/wrapper-by-jacqueline-poncelet/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/wrapper-by-jacqueline-poncelet/",
+      "artistStatement": "作品把被視為純機能的基礎設施當作公共表面；重複但不單調的圖樣回應周邊多元社群，讓建築包覆成為城市差異並存的隱喻。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/wrapper-by-jacqueline-poncelet/",
+      "classicTitle": "Wrapper｜2012–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/wrapper-by-jacqueline-poncelet/",
+      "classicDesc": "約一千五百塊搪瓷板以多組圖樣包覆 Edgware Road 站外牆，從街區服飾、植物與城市紋理汲取語彙，使通風與機電建築轉化為巨型城市織物。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-06",
+      "dedupeKey": "art-larry-achiampong-pan-african-flag-union-2022",
+      "name": "06｜Larry Achiampong｜PAN AFRICAN FLAG FOR THE RELIC TRAVELLERS’ ALLIANCE (UNION)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Westminster",
+        "西敏"
+      ],
+      "media": [
+        "公共設施整合",
+        "圖像",
+        "去殖民",
+        "交通空間"
+      ],
+      "works": "PAN AFRICAN FLAG FOR THE RELIC TRAVELLERS’ ALLIANCE (UNION)｜2022–永久設置",
+      "comment": "重新設計的圓標以泛非色彩取代熟悉的 Underground 配色，永久置入 Westminster 站，把交通識別系統轉化為對非洲離散、身份與制度空間的公共陳述。",
+      "website": "https://art.tfl.gov.uk/projects/pan-african-flag-for-the-relic-travellers-alliance-union/",
+      "workPage": "https://art.tfl.gov.uk/projects/pan-african-flag-for-the-relic-travellers-alliance-union/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/pan-african-flag-for-the-relic-travellers-alliance-union/",
+      "artistStatement": "作品借用最具辨識度的城市符號，並以替換色彩改寫其權力含義；它不是附加雕塑，而是在公共系統內部打開去殖民閱讀。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/pan-african-flag-for-the-relic-travellers-alliance-union/",
+      "classicTitle": "PAN AFRICAN FLAG FOR THE RELIC TRAVELLERS’ ALLIANCE (UNION)｜2022–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/pan-african-flag-for-the-relic-travellers-alliance-union/",
+      "classicDesc": "重新設計的圓標以泛非色彩取代熟悉的 Underground 配色，永久置入 Westminster 站，把交通識別系統轉化為對非洲離散、身份與制度空間的公共陳述。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-07",
+      "dedupeKey": "art-joy-gregory-a-taste-of-home-2024",
+      "name": "07｜Joy Gregory｜A Taste of Home",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Heathrow",
+        "希斯洛"
+      ],
+      "media": [
+        "攝影",
+        "拼貼",
+        "建築/場域",
+        "交通空間"
+      ],
+      "works": "A Taste of Home｜2024–持續設置",
+      "comment": "二十四件攝影與拼貼作品環繞 Heathrow Terminal 4 站圓形大廳，以食物、家庭器物與遷徙記憶把機場交通空間轉化為關於「家」如何被攜帶的集體圖像。",
+      "website": "https://art.tfl.gov.uk/projects/a-taste-of-home/",
+      "workPage": "https://art.tfl.gov.uk/projects/a-taste-of-home/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/a-taste-of-home/",
+      "artistStatement": "Gregory 從多元社群的飲食與日常經驗出發，讓跨國移動不只指向遠方，也觸發味覺、語言與家庭記憶；作品把過境空間變成可共享的文化入口。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/a-taste-of-home/",
+      "classicTitle": "A Taste of Home｜2024–持續設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/a-taste-of-home/",
+      "classicDesc": "二十四件攝影與拼貼作品環繞 Heathrow Terminal 4 站圓形大廳，以食物、家庭器物與遷徙記憶把機場交通空間轉化為關於「家」如何被攜帶的集體圖像。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-08",
+      "dedupeKey": "art-zadie-xa-griffin-guardian-underworlds-connect-2022",
+      "name": "08｜Zadie Xa｜Griffin and Guardian／Underworlds Connect",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Aldgate",
+        "奧德門"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域",
+        "神話敘事",
+        "交通空間"
+      ],
+      "works": "Griffin and Guardian／Underworlds Connect｜2022–持續設置",
+      "comment": "兩組作品在 Aldgate East 站內外連結韓國神話、守護獸與地下世界意象，藉鮮明色彩與混種圖像回應東倫敦多語文化及地鐵的地下性。",
+      "website": "https://art.tfl.gov.uk/projects/zadie-xa-aldgate-east/",
+      "workPage": "https://art.tfl.gov.uk/projects/zadie-xa-aldgate-east/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/zadie-xa-aldgate-east/",
+      "artistStatement": "Xa 把離散文化中的神話視為可移動的知識，不以單一族群標誌固定地方，而讓守護、遷徙與地下通道構成新的城市關係。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/zadie-xa-aldgate-east/",
+      "classicTitle": "Griffin and Guardian／Underworlds Connect｜2022–持續設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/zadie-xa-aldgate-east/",
+      "classicDesc": "兩組作品在 Aldgate East 站內外連結韓國神話、守護獸與地下世界意象，藉鮮明色彩與混種圖像回應東倫敦多語文化及地鐵的地下性。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-09",
+      "dedupeKey": "art-alexandre-da-cunha-sunset-sunrise-sunset-2021",
+      "name": "09｜Alexandre da Cunha｜Sunset, Sunrise, Sunset",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Battersea",
+        "巴特西"
+      ],
+      "media": [
+        "動態裝置",
+        "光環境",
+        "建築/場域",
+        "交通空間"
+      ],
+      "works": "Sunset, Sunrise, Sunset｜2021–永久設置",
+      "comment": "兩道長約一百公尺與六十公尺的動態廣告牌式壁帶，透過機械翻頁與色彩漸變模擬日出日落，將 Battersea Power Station 站月台的等待時間轉為緩慢光景。",
+      "website": "https://art.tfl.gov.uk/projects/sunset-sunrise-sunset/",
+      "workPage": "https://art.tfl.gov.uk/projects/sunset-sunrise-sunset/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/sunset-sunrise-sunset/",
+      "artistStatement": "作品借用商業顯示技術卻移除廣告訊息，以循環色彩讓機械節奏回到自然時間；乘客的短暫等待因此與一個無法加速的晝夜尺度相遇。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/sunset-sunrise-sunset/",
+      "classicTitle": "Sunset, Sunrise, Sunset｜2021–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/sunset-sunrise-sunset/",
+      "classicDesc": "兩道長約一百公尺與六十公尺的動態廣告牌式壁帶，透過機械翻頁與色彩漸變模擬日出日落，將 Battersea Power Station 站月台的等待時間轉為緩慢光景。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "current-2026-10-11-10",
+      "dedupeKey": "art-assemble-matthew-raw-clay-station-2017",
+      "name": "10｜Assemble／Matthew Raw｜Clay Station",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "Seven Sisters",
+        "七姊妹"
+      ],
+      "media": [
+        "陶瓷",
+        "建築/場域",
+        "公共設施整合",
+        "交通空間"
+      ],
+      "works": "Clay Station｜2017–永久設置",
+      "comment": "數千塊手工擠壓、上釉的陶磚覆蓋 Seven Sisters 站入口與附屬建築，將居民熟悉的街角結構以觸感、色差與人工痕跡重新辨識。",
+      "website": "https://art.tfl.gov.uk/projects/underline-assemble/",
+      "workPage": "https://art.tfl.gov.uk/projects/underline-assemble/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/underline-assemble/",
+      "artistStatement": "Clay Station 把修繕、工藝與公共藝術合併：每塊陶件的差異抵抗標準化建材，也使基礎設施更新保留可被觸摸與記住的人工作用。",
+      "artistStatementSource": "https://art.tfl.gov.uk/projects/underline-assemble/",
+      "classicTitle": "Clay Station｜2017–永久設置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://art.tfl.gov.uk/projects/underline-assemble/",
+      "classicDesc": "數千塊手工擠壓、上釉的陶磚覆蓋 Seven Sisters 站入口與附屬建築，將居民熟悉的街角結構以觸感、色差與人工痕跡重新辨識。",
+      "relatedByCity": [
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-11",
+      "dedupeKey": "art-olav-westphalen-esus-2000",
+      "name": "11｜Olav Westphalen｜Extremely Site Un-Specific Sculpture (E.S.U.S.)",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約",
+        "Queens",
+        "皇后區"
+      ],
+      "media": [
+        "雕塑",
+        "太陽能",
+        "暫時性作品",
+        "移動式裝置"
+      ],
+      "works": "Extremely Site Un-Specific Sculpture (E.S.U.S.)｜2000",
+      "comment": "紅色玻璃纖維雕塑架在可調三腳架上，頂端太陽能燈於不同公園與廣場遷移；它以刻意「不專屬場址」的姿態質疑公共藝術必須永久綁定一地的慣例。",
+      "website": "https://www.publicartfund.org/exhibitions/view/extremely-site-un-specific-sculpture-e-s-u-s/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/extremely-site-un-specific-sculpture-e-s-u-s/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/extremely-site-un-specific-sculpture-e-s-u-s/",
+      "artistStatement": "E.S.U.S. 將臨時性變成核心概念：同一物件在不同背景中重新產生比例、方向與意義，公共性來自移動、再定位與城市差異，而非永恆基座。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/extremely-site-un-specific-sculpture-e-s-u-s/",
+      "classicTitle": "Extremely Site Un-Specific Sculpture (E.S.U.S.)｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/extremely-site-un-specific-sculpture-e-s-u-s/",
+      "classicDesc": "紅色玻璃纖維雕塑架在可調三腳架上，頂端太陽能燈於不同公園與廣場遷移；它以刻意「不專屬場址」的姿態質疑公共藝術必須永久綁定一地的慣例。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-12",
+      "dedupeKey": "art-bill-brand-subway-obscura-1989",
+      "name": "12｜Bill Brand｜Subway Obscura",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約",
+        "Manhattan",
+        "曼哈頓"
+      ],
+      "media": [
+        "影像裝置",
+        "光學裝置",
+        "交通空間",
+        "暫時性作品"
+      ],
+      "works": "Subway Obscura｜1989–1990",
+      "comment": "作品利用地鐵空間與行車運動生成類似暗箱與連續影像的觀看經驗，讓原本快速掠過的牆面成為只在列車移動中成立的城市影像機器。",
+      "website": "https://www.publicartfund.org/exhibitions/view/subway-obscura/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/subway-obscura/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/subway-obscura/",
+      "artistStatement": "Brand 不把影片放進螢幕，而以乘客、車速、光線和隧道共同構成媒介；作品顯示公共交通不只是展示地點，也能直接成為電影裝置的機械結構。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/subway-obscura/",
+      "classicTitle": "Subway Obscura｜1989–1990",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/subway-obscura/",
+      "classicDesc": "作品利用地鐵空間與行車運動生成類似暗箱與連續影像的觀看經驗，讓原本快速掠過的牆面成為只在列車移動中成立的城市影像機器。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-13",
+      "dedupeKey": "art-stephen-korns-floating-lights-hudson-river-1980",
+      "name": "13｜Stephen Korns｜Installation of Floating Lights in Hudson River",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約",
+        "Hudson River",
+        "哈德遜河"
+      ],
+      "media": [
+        "光環境",
+        "水景",
+        "暫時性作品",
+        "地景/環境"
+      ],
+      "works": "Installation of Floating Lights in Hudson River｜1980",
+      "comment": "一圈燈光漂浮於哈德遜河面，在潮汐、波浪與夜色中持續改變幾何輪廓；作品沒有固定基座，而把河流運動直接納入形式。",
+      "website": "https://www.publicartfund.org/exhibitions/view/installation-of-floating-lights-in-hudson-river/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/installation-of-floating-lights-in-hudson-river/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/installation-of-floating-lights-in-hudson-river/",
+      "artistStatement": "Korns 以最低限度的光線標記不可控制的水體，使城市邊界在夜間變成流動場域；公共藝術的材料因此包含潮汐、反射與遠距離觀看。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/installation-of-floating-lights-in-hudson-river/",
+      "classicTitle": "Installation of Floating Lights in Hudson River｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/installation-of-floating-lights-in-hudson-river/",
+      "classicDesc": "一圈燈光漂浮於哈德遜河面，在潮汐、波浪與夜色中持續改變幾何輪廓；作品沒有固定基座，而把河流運動直接納入形式。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-14",
+      "dedupeKey": "art-alan-sonfist-earths-eye-1990",
+      "name": "14｜Alan Sonfist｜Earth’s Eye",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約",
+        "Lower Manhattan",
+        "下曼哈頓"
+      ],
+      "media": [
+        "地景/環境",
+        "生態藝術",
+        "場域特定",
+        "暫時性作品"
+      ],
+      "works": "Earth’s Eye｜1990–1991",
+      "comment": "作品在下曼哈頓回應已被填平的 Collect Pond，以大地與植物構成一隻凝視城市的「眼」，把被街道覆蓋的水文與自然史重新帶入公共記憶。",
+      "website": "https://www.publicartfund.org/exhibitions/view/earths-eye/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/earths-eye/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/earths-eye/",
+      "artistStatement": "Sonfist 將紀念對象從人物轉向消失的生態系；作品要求城市居民把當代地表視為多層歷史，而自然不是都市之外的背景，是被壓抑但仍能被召回的基礎。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/earths-eye/",
+      "classicTitle": "Earth’s Eye｜1990–1991",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/earths-eye/",
+      "classicDesc": "作品在下曼哈頓回應已被填平的 Collect Pond，以大地與植物構成一隻凝視城市的「眼」，把被街道覆蓋的水文與自然史重新帶入公共記憶。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-15",
+      "dedupeKey": "art-isamu-noguchi-unidentified-object-1979",
+      "name": "15｜Isamu Noguchi｜Unidentified Object",
+      "tier": "全球經典層",
+      "region": "東亞",
+      "country": "美國／日本 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "玄武岩",
+        "雕塑",
+        "場域特定"
+      ],
+      "works": "Unidentified Object｜1979",
+      "comment": "重約八噸、高約十一點五呎的黑色玄武岩量體進入紐約公共空間，粗獷表面與城市鋪面、建築尺度形成強烈的物質對照。",
+      "website": "https://www.publicartfund.org/exhibitions/view/unidentified-object/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/unidentified-object/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/unidentified-object/",
+      "artistStatement": "題名拒絕替石頭指定功能或形象；Noguchi 讓自然材料在城市秩序中保持陌生，使行人透過繞行、觸感與重量感重新衡量公共空間。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/unidentified-object/",
+      "classicTitle": "Unidentified Object｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/unidentified-object/",
+      "classicDesc": "重約八噸、高約十一點五呎的黑色玄武岩量體進入紐約公共空間，粗獷表面與城市鋪面、建築尺度形成強烈的物質對照。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-hessian-culture-foundation-travel-residency"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-16",
+      "dedupeKey": "art-jurgen-partenheimer-weltachse-1999",
+      "name": "16｜Jürgen Partenheimer｜Weltachse",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "愛爾福特"
+      ],
+      "media": [
+        "青銅",
+        "Kunst am Bau",
+        "建築/場域"
+      ],
+      "works": "Weltachse｜1999",
+      "comment": "數個深群青色青銅立方體配置於聯邦勞動法院場域，簡潔幾何體在建築軸線、步行尺度與光線之間建立既穩定又偏移的空間節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltachse",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltachse",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltachse",
+      "artistStatement": "「世界軸」並非具象紀念柱，而以多個低矮量體分散中心；作品把司法建築的權威軸線轉化為可由身體穿行、比較與重新定位的關係。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltachse",
+      "classicTitle": "Weltachse｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltachse",
+      "classicDesc": "數個深群青色青銅立方體配置於聯邦勞動法院場域，簡潔幾何體在建築軸線、步行尺度與光線之間建立既穩定又偏移的空間節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-17",
+      "dedupeKey": "art-klaus-steinmann-golmkreis-1999",
+      "name": "17｜Klaus Steinmann｜Golmkreis",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Potsdam",
+      "cityKeywords": [
+        "Potsdam",
+        "波茨坦",
+        "Golm",
+        "戈爾姆"
+      ],
+      "media": [
+        "雕塑",
+        "地景/環境",
+        "Kunst am Bau"
+      ],
+      "works": "Golmkreis｜1999",
+      "comment": "十個元素在 Potsdam-Golm 研究園區形成圓形配置，作品於建築與開放地景之間建立方向、聚合與停留的共同尺度。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golmkreis",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golmkreis",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golmkreis",
+      "artistStatement": "Golmkreis 不以單一主體支配廣場，而用環狀秩序把分散建築重新關聯；公共藝術在此更像一套可讀的空間座標，協助使用者感受場域整體。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golmkreis",
+      "classicTitle": "Golmkreis｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golmkreis",
+      "classicDesc": "十個元素在 Potsdam-Golm 研究園區形成圓形配置，作品於建築與開放地景之間建立方向、聚合與停留的共同尺度。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-18",
+      "dedupeKey": "art-gerhard-richter-clouds-sylt-1992",
+      "name": "18｜Gerhard Richter｜Clouds (Sylt)／Wolken über Sylt",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂",
+        "邦恩"
+      ],
+      "media": [
+        "油畫",
+        "建築/場域",
+        "Kunst am Bau"
+      ],
+      "works": "Clouds (Sylt)／Wolken über Sylt｜1992（原作 1971）",
+      "comment": "六幅雲景畫作安置於 Bundeskunsthalle 會議空間，攝影般天空被切分為連續面板，使室內行政與討論場域獲得一個既開放又不可抵達的視覺遠景。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/clouds-sylt-wolken-uber-sylt",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/clouds-sylt-wolken-uber-sylt",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/clouds-sylt-wolken-uber-sylt",
+      "artistStatement": "Richter 的雲既像自然窗口，也提醒圖像是被繪製的表面；當它與建築固定結合，作品在封閉會議室內製造尺度與時間的心理位移。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/clouds-sylt-wolken-uber-sylt",
+      "classicTitle": "Clouds (Sylt)／Wolken über Sylt｜1992（原作 1971）",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/clouds-sylt-wolken-uber-sylt",
+      "classicDesc": "六幅雲景畫作安置於 Bundeskunsthalle 會議空間，攝影般天空被切分為連續面板，使室內行政與討論場域獲得一個既開放又不可抵達的視覺遠景。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-19",
+      "dedupeKey": "art-seebach-stegat-global-barocc-2022",
+      "name": "19｜Seebach und Stegat｜GLOBAL BAROCC – CCORAB LABOLG",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "鏡面裝置",
+        "文字藝術",
+        "Kunst am Bau",
+        "去殖民"
+      ],
+      "works": "GLOBAL BAROCC – CCORAB LABOLG｜2022",
+      "comment": "鏡面字樣置入 Humboldt Forum 樓梯間，正讀與反讀的標題把「全球巴洛克」轉成視覺迴文，讓觀者與重建宮殿、殖民收藏的矛盾同時映入作品。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/global-barocc-ccorab-labolg",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/global-barocc-ccorab-labolg",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/global-barocc-ccorab-labolg",
+      "artistStatement": "作品利用反射與語言翻轉拒絕單向歷史敘事；觀看者自身被納入文字，使建築的帝國象徵、全球收藏與當代批判在通行路徑中碰撞。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/global-barocc-ccorab-labolg",
+      "classicTitle": "GLOBAL BAROCC – CCORAB LABOLG｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/global-barocc-ccorab-labolg",
+      "classicDesc": "鏡面字樣置入 Humboldt Forum 樓梯間，正讀與反讀的標題把「全球巴洛克」轉成視覺迴文，讓觀者與重建宮殿、殖民收藏的矛盾同時映入作品。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-11",
+      "id": "classic-2026-10-11-20",
+      "dedupeKey": "art-christa-naher-die-vier-elemente-1994",
+      "name": "20｜Christa Näher｜Die vier Elemente",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國文化脈絡／美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "Washington DC",
+        "華盛頓特區"
+      ],
+      "media": [
+        "繪畫",
+        "建築/場域",
+        "Kunst am Bau"
+      ],
+      "works": "Die vier Elemente｜1994",
+      "comment": "作品以空氣、水、土、火四元素組成德國駐外建築中的空間敘事，不以國家徽記直接宣示身份，而從自然基本結構建立感知與文化象徵。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-vier-elemente",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-vier-elemente",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-vier-elemente",
+      "artistStatement": "Näher 將古老元素觀念轉化為當代公共建築中的視覺序列；四種力量既分立又互相依存，使外交空間的代表性轉向更普遍的環境與生命尺度。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-vier-elemente",
+      "classicTitle": "Die vier Elemente｜1994",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-vier-elemente",
+      "classicDesc": "作品以空氣、水、土、火四元素組成德國駐外建築中的空間敘事，不以國家徽記直接宣示身份，而從自然基本結構建立感知與文化象徵。",
+      "relatedByCity": [
+        "opportunity-2026-09-15-sound-scene-sounds-of-the-city"
+      ]
+    }
+  ]
+}
