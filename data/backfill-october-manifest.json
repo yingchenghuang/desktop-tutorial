@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-11-public-art-r93",
-  "generatedAt": "2026-10-11T04:59:02+08:00",
+  "version": "2026-10-11-public-art-r94",
+  "generatedAt": "2026-10-11T05:15:00+08:00",
   "files": [
     "backfill-october-20261001.json",
     "backfill-october-20261002.json",
@@ -20,5 +20,5 @@
   "statementBacklog": 0,
   "imageEntries": 220,
   "imageBacklog": 0,
-  "note": "截至 2026-10-11 已發布 11 個十月每日檔、共 220 則；每日維持 10／5／5，聚焦場域介入、交通建築整合、環境與 Kunst am Bau，持續排除傳統城市人物紀念雕塑。"
+  "note": "截至 2026-10-11 已發布 11 個十月每日檔、共 220 則；每日維持 10／5／5，聚焦場域介入、交通建築整合、環境與 Kunst am Bau，持續排除傳統城市人物紀念雕塑；並清理一筆資格地區誤作城市關鍵字造成的跨庫誤連。"
 }

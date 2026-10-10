@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-11-competition-r68",
-  "generatedAt": "2026-10-11T04:59:02+08:00",
+  "version": "2026-10-11-competition-r69",
+  "generatedAt": "2026-10-11T05:15:00+08:00",
   "files": [
     "competitions.json"
   ],
@@ -11,6 +11,6 @@
   "deadlineTimezoneEntries": 119,
   "deadlinePrecisionEntries": 119,
   "cityKeywordEntries": 119,
-  "note": "2026-10-11 新增 5 則有效徵件，保留 114 則既有未截止項目，僅移除 2 則已逾期案件。",
+  "note": "2026-10-11 新增 5 則有效徵件，保留 114 則既有未截止項目，僅移除 2 則已逾期案件；另將 Wiesbaden 案的資格地區自 cityKeywords 移除並重建同城關聯。",
   "germanAddedToday": 0
 }
