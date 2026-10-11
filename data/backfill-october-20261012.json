@@ -1,0 +1,693 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-12T05:15:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-12",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Public Art Fund 第一方作品頁",
+    "selectionPolicy": "永久建築整合、場域介入、地景、文字、光、運動與觀念性公共藝術；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/12 固定 10＋5＋5；20 則皆為已實現作品，未混入競圖、補助或獎項，人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-12T05:15:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-12T05:15:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-01",
+      "dedupeKey": "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
+      "name": "01｜Marcel Odenbach｜Als sähe ich im Himmel die Erde",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "拼貼",
+        "天花藝術",
+        "Kunst am Bau"
+      ],
+      "works": "Als sähe ich im Himmel die Erde｜2000–永久設置",
+      "comment": "彩色影印與媒體圖像構成的天花帶狀作品，將建築、歷史與全球責任壓縮進聯邦政府空間，使抬頭觀看成為閱讀政治記憶的動作。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/als-sahe-ich-im-himmel-die-erde",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/als-sahe-ich-im-himmel-die-erde",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/als-sahe-ich-im-himmel-die-erde",
+      "artistStatement": "Odenbach 以影像蒙太奇拒絕單一敘事；碎片必須在行走與仰視中逐步拼合，讓公共建築的代表性與世界事件彼此碰撞。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/als-sahe-ich-im-himmel-die-erde",
+      "classicTitle": "Als sähe ich im Himmel die Erde｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/als-sahe-ich-im-himmel-die-erde",
+      "classicDesc": "彩色影印與媒體圖像構成的天花帶狀作品，將建築、歷史與全球責任壓縮進聯邦政府空間，使抬頭觀看成為閱讀政治記憶的動作。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-02",
+      "dedupeKey": "art-reinhard-omir-kinetische-sa-ule-brunnenskulptur-1973",
+      "name": "02｜Reinhard Omir｜Kinetische Säule (Brunnenskulptur)",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "阿富汗 / Kabul",
+      "cityKeywords": [
+        "Kabul",
+        "喀布爾"
+      ],
+      "media": [
+        "動力裝置",
+        "水景",
+        "Kunst am Bau"
+      ],
+      "works": "Kinetische Säule (Brunnenskulptur)｜1973–永久設置",
+      "comment": "動力柱體與水景共同組成使館建築中的流動焦點；機械運動、水與反光把固定庭院轉化為持續變化的感知場。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur",
+      "artistStatement": "作品把雕塑從靜態物件轉成時間系統，以運動與水聲連接建築尺度、氣候與人的停留。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur",
+      "classicTitle": "Kinetische Säule (Brunnenskulptur)｜1973",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur",
+      "classicDesc": "動力柱體與水景共同組成使館建築中的流動焦點；機械運動、水與反光把固定庭院轉化為持續變化的感知場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-03",
+      "dedupeKey": "art-ernst-joachim-petras-fight-1993",
+      "name": "03｜Ernst-Joachim Petras｜Fight",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "德國 / Luckenwalde",
+      "cityKeywords": [
+        "Luckenwalde",
+        "盧肯瓦爾德"
+      ],
+      "media": [
+        "不鏽鋼",
+        "抽象雕塑",
+        "Kunst am Bau"
+      ],
+      "works": "Fight｜1993–永久設置",
+      "comment": "兩組上色不鏽鋼形體在體育設施外形成拉扯、支撐與失衡關係，以抽象結構提示競逐，而非再現具名人物。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/fight",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/fight",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/fight",
+      "artistStatement": "Petras 將運動的衝突轉譯成量體與方向；觀者可從不同角度判讀力量如何交換，場域因此成為身體性的閱讀。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/fight",
+      "classicTitle": "Fight｜1993",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/fight",
+      "classicDesc": "兩組上色不鏽鋼形體在體育設施外形成拉扯、支撐與失衡關係，以抽象結構提示競逐，而非再現具名人物。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-04",
+      "dedupeKey": "art-ernst-joachim-petras-dynamik-und-aktivita-t-in-beziehung-zum-sport-1996",
+      "name": "04｜Ernst-Joachim Petras｜Dynamik und Aktivität in Beziehung zum Sport",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "德國 / Ahrensfelde",
+      "cityKeywords": [
+        "Ahrensfelde",
+        "阿倫斯費爾德"
+      ],
+      "media": [
+        "不鏽鋼",
+        "場域特定",
+        "Kunst am Bau"
+      ],
+      "works": "Dynamik und Aktivität in Beziehung zum Sport｜1996–永久設置",
+      "comment": "六件霧面不鏽鋼彎折構件散布於運動設施開放空間，以方向、間距與折線把跑動的軌跡轉換成可穿行的空間節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/dynamik-und-aktivitat-in-beziehung-zum-sport",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/dynamik-und-aktivitat-in-beziehung-zum-sport",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/dynamik-und-aktivitat-in-beziehung-zum-sport",
+      "artistStatement": "作品不以單一正面構圖統攝觀看，而讓人在構件之間移動，透過身體速度理解「動態」如何成為公共空間秩序。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/dynamik-und-aktivitat-in-beziehung-zum-sport",
+      "classicTitle": "Dynamik und Aktivität in Beziehung zum Sport｜1996",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/dynamik-und-aktivitat-in-beziehung-zum-sport",
+      "classicDesc": "六件霧面不鏽鋼彎折構件散布於運動設施開放空間，以方向、間距與折線把跑動的軌跡轉換成可穿行的空間節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-05",
+      "dedupeKey": "art-horst-ring-industrie-und-arbeiterklasse-1970",
+      "name": "05｜Horst Ring｜Industrie und Arbeiterklasse",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "德國 / Cottbus",
+      "cityKeywords": [
+        "Cottbus",
+        "科特布斯"
+      ],
+      "media": [
+        "建築牆面",
+        "壁畫",
+        "Kunst am Bau"
+      ],
+      "works": "Industrie und Arbeiterklasse｜1970–永久設置",
+      "comment": "作品整合於鐵路維修工業建築牆面，以大尺度構圖回應勞動、機械與集體生產的場所歷史，重點在建築表皮與社會敘事的結合。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/industrie-und-arbeiterklasse",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/industrie-und-arbeiterklasse",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/industrie-und-arbeiterklasse",
+      "artistStatement": "此作可被視為工業場域如何以藝術建立自我表述的歷史案例；其公共性來自日常工作動線，而非獨立紀念座。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/industrie-und-arbeiterklasse",
+      "classicTitle": "Industrie und Arbeiterklasse｜1970",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/industrie-und-arbeiterklasse",
+      "classicDesc": "作品整合於鐵路維修工業建築牆面，以大尺度構圖回應勞動、機械與集體生產的場所歷史，重點在建築表皮與社會敘事的結合。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-06",
+      "dedupeKey": "art-peter-reichenberger-hta-0-90-handtellerabdru-cke-1991",
+      "name": "06｜Peter Reichenberger｜HTA 0°–90° (Handtellerabdrücke)",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "油畫",
+        "樓梯空間",
+        "Kunst am Bau"
+      ],
+      "works": "HTA 0°–90° (Handtellerabdrücke)｜1991–永久設置",
+      "comment": "六幅大型油畫沿樓梯空間展開，手掌印與色彩逐層轉變，使上下移動本身成為閱讀作品的時間軸。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/hta-0deg-90deg-handtellerabdrucke",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/hta-0deg-90deg-handtellerabdrucke",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/hta-0deg-90deg-handtellerabdrucke",
+      "artistStatement": "Reichenberger 讓最直接的身體痕跡進入制度建築；重複的掌印既像測量單位，也讓匿名個體重新留在公共空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/hta-0deg-90deg-handtellerabdrucke",
+      "classicTitle": "HTA 0°–90° (Handtellerabdrücke)｜1991",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/hta-0deg-90deg-handtellerabdrucke",
+      "classicDesc": "六幅大型油畫沿樓梯空間展開，手掌印與色彩逐層轉變，使上下移動本身成為閱讀作品的時間軸。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-07",
+      "dedupeKey": "art-ricardo-saro-o-t-1999",
+      "name": "07｜Ricardo Saro｜o. T.",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "艾福特"
+      ],
+      "media": [
+        "油畫",
+        "建築整合",
+        "Kunst am Bau"
+      ],
+      "works": "o. T.｜1999–永久設置",
+      "comment": "成對油畫以紅、藍基本色形體回應室內格狀天花與極簡建築，透過比例與間距改變牆面和空間的視覺重心。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-13",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-13",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-13",
+      "artistStatement": "Saro 不把繪畫視為附掛裝飾，而以兩件作品間的關係校準建築；觀者的視線在畫面、牆與天花之間往返。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-13",
+      "classicTitle": "o. T.｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-13",
+      "classicDesc": "成對油畫以紅、藍基本色形體回應室內格狀天花與極簡建築，透過比例與間距改變牆面和空間的視覺重心。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-08",
+      "dedupeKey": "art-antje-schiffers-o-t-2008",
+      "name": "08｜Antje Schiffers｜o. T.",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "塔吉克 / Dushanbe",
+      "cityKeywords": [
+        "Dushanbe",
+        "Duschanbe",
+        "杜尚別"
+      ],
+      "media": [
+        "壁畫",
+        "建築整合",
+        "外交空間"
+      ],
+      "works": "o. T.｜2008–永久設置",
+      "comment": "外部城市景觀壁畫與室內餐桌圖像跨越簽證區內外，將行政邊界轉譯為關於日常、款待與共同生活的兩面敘事。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-4",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-4",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-4",
+      "artistStatement": "Schiffers 以尋常圖像介入高度規範的外交建築，使「跨越邊界」不只指旅行，也指陌生人之間建立共同性的可能。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-4",
+      "classicTitle": "o. T.｜2008",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-4",
+      "classicDesc": "外部城市景觀壁畫與室內餐桌圖像跨越簽證區內外，將行政邊界轉譯為關於日常、款待與共同生活的兩面敘事。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-09",
+      "dedupeKey": "art-klaus-schneider-ein-wu-rfelwurf-un-coup-de-de-s-1994",
+      "name": "09｜Klaus Schneider｜Ein Würfelwurf (Un Coup De Dés)",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "德國 / Frankfurt am Main",
+      "cityKeywords": [
+        "Frankfurt am Main",
+        "Frankfurt",
+        "法蘭克福"
+      ],
+      "media": [
+        "混合媒材",
+        "文字藝術",
+        "Kunst am Bau"
+      ],
+      "works": "Ein Würfelwurf (Un Coup De Dés)｜1994–永久設置",
+      "comment": "四組藍色圖文板置於德國國家圖書館閱讀空間，以文字、圖像與偶然性呼應閱讀時的跳躍、停頓和聯想。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-wurfelwurf-un-coup-de-des",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-wurfelwurf-un-coup-de-des",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-wurfelwurf-un-coup-de-des",
+      "artistStatement": "作品借用「擲骰」概念，把知識空間從線性秩序轉成機率與組合；每次觀看都可能形成不同的意義路徑。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-wurfelwurf-un-coup-de-des",
+      "classicTitle": "Ein Würfelwurf (Un Coup De Dés)｜1994",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ein-wurfelwurf-un-coup-de-des",
+      "classicDesc": "四組藍色圖文板置於德國國家圖書館閱讀空間，以文字、圖像與偶然性呼應閱讀時的跳躍、停頓和聯想。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "current-2026-10-12-10",
+      "dedupeKey": "art-hannes-schulz-tattenpach-aufsteigender-pho-nix-1953",
+      "name": "10｜Hannes Schulz-Tattenpach｜Aufsteigender Phönix",
+      "tier": "動態情報層",
+      "region": "跨文化",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "建築藝術",
+        "浮雕",
+        "Kunst am Bau"
+      ],
+      "works": "Aufsteigender Phönix｜1953–永久設置",
+      "comment": "鳳凰意象整合於戰後聯邦建築，以抽象化的上升動勢指向重建與制度更新；作品依附建築而非塑造特定人物紀念像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufsteigender-phonix",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufsteigender-phonix",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufsteigender-phonix",
+      "artistStatement": "鳳凰在此是空間象徵而非肖像：它把材料、建築入口與戰後政治想像疊合，讓公共建築承載可辨識的歷史轉折。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufsteigender-phonix",
+      "classicTitle": "Aufsteigender Phönix｜1953",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufsteigender-phonix",
+      "classicDesc": "鳳凰意象整合於戰後聯邦建築，以抽象化的上升動勢指向重建與制度更新；作品依附建築而非塑造特定人物紀念像。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "global-classic-2026-10-12-11",
+      "dedupeKey": "art-eric-arctander-nieuw-amsterdam-shoreline-1980",
+      "name": "11｜Eric Arctander｜Nieuw Amsterdam Shoreline",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "地景介入",
+        "街道線條",
+        "城市記憶"
+      ],
+      "works": "Nieuw Amsterdam Shoreline｜1980",
+      "comment": "約七千英尺長的綠、藍雙線沿金融區街道重畫十七世紀海岸線，使填海後消失的水陸邊界重新進入行人尺度。",
+      "website": "https://www.publicartfund.org/exhibitions/view/nieuw-amsterdam-shoreline/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/nieuw-amsterdam-shoreline/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/nieuw-amsterdam-shoreline/",
+      "artistStatement": "Arctander 用極少的標記揭露城市地表並非自然不變；行走線條等於穿越被基礎建設覆蓋的殖民與環境歷史。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/nieuw-amsterdam-shoreline/",
+      "classicTitle": "Nieuw Amsterdam Shoreline｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/nieuw-amsterdam-shoreline/",
+      "classicDesc": "約七千英尺長的綠、藍雙線沿金融區街道重畫十七世紀海岸線，使填海後消失的水陸邊界重新進入行人尺度。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "global-classic-2026-10-12-12",
+      "dedupeKey": "art-harriet-brickman-beached-forms-passages-1980",
+      "name": "12｜Harriet Brickman｜Beached Forms: Passages",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / Fishers Island, New York",
+      "cityKeywords": [
+        "Fishers Island",
+        "費雪斯島",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "地景藝術",
+        "海岸介入",
+        "場域特定"
+      ],
+      "works": "Beached Forms: Passages｜1980",
+      "comment": "幾何地貌形體跨越約六十英尺海灘，順應潮線、砂質與海岸尺度，使作品介於人工通道和被沖刷的地形之間。",
+      "website": "https://www.publicartfund.org/exhibitions/view/beached-forms-passages/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/beached-forms-passages/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/beached-forms-passages/",
+      "artistStatement": "Brickman 以最少造型回應不斷變動的岸線；作品的完整性不是永久不變，而在潮汐、侵蝕與人的穿行中持續生成。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/beached-forms-passages/",
+      "classicTitle": "Beached Forms: Passages｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/beached-forms-passages/",
+      "classicDesc": "幾何地貌形體跨越約六十英尺海灘，順應潮線、砂質與海岸尺度，使作品介於人工通道和被沖刷的地形之間。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "global-classic-2026-10-12-13",
+      "dedupeKey": "art-alan-finkel-view-for-the-catenary-curve-1981–1982",
+      "name": "13｜Alan Finkel｜View for the Catenary Curve",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / Brooklyn, New York",
+      "cityKeywords": [
+        "Brooklyn",
+        "布魯克林",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "觀景裝置",
+        "再利用",
+        "場域特定"
+      ],
+      "works": "View for the Catenary Curve｜1981–1982",
+      "comment": "藝術家改造水塔形成可進入的觀看站，框取布魯克林大橋懸鏈曲線，使工業物件成為理解橋梁結構與城市景觀的光學工具。",
+      "website": "https://www.publicartfund.org/exhibitions/view/view-for-the-catenary-curve/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/view-for-the-catenary-curve/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/view-for-the-catenary-curve/",
+      "artistStatement": "Finkel 不是新增一個被觀看的雕塑，而是製造觀看城市的裝置；框景把視線、工程曲線與身體位置組織成同一作品。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/view-for-the-catenary-curve/",
+      "classicTitle": "View for the Catenary Curve｜1981–1982",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/view-for-the-catenary-curve/",
+      "classicDesc": "藝術家改造水塔形成可進入的觀看站，框取布魯克林大橋懸鏈曲線，使工業物件成為理解橋梁結構與城市景觀的光學工具。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "global-classic-2026-10-12-14",
+      "dedupeKey": "art-tony-smith-smug-1998",
+      "name": "14｜Tony Smith｜Smug",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "抽象雕塑",
+        "鋼構",
+        "場域特定"
+      ],
+      "works": "Smug｜1998",
+      "comment": "大型黑色幾何體在 Bryant Park 草地形成既似建築又似伏臥生物的模糊尺度，迫使觀者繞行比較身體與量體。",
+      "website": "https://www.publicartfund.org/exhibitions/view/smug/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/smug/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/smug/",
+      "artistStatement": "Smith 以模組和轉折拒絕單一正面；作品的意義來自步行中不斷改變的輪廓，公共空間因而成為測量雕塑的身體場。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/smug/",
+      "classicTitle": "Smug｜1998",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/smug/",
+      "classicDesc": "大型黑色幾何體在 Bryant Park 草地形成既似建築又似伏臥生物的模糊尺度，迫使觀者繞行比較身體與量體。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "global-classic-2026-10-12-15",
+      "dedupeKey": "art-william-fulbrecht-bill-of-rights-and-seeds-1990",
+      "name": "15｜William Fulbrecht｜Bill of Rights and Seeds",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "New York City",
+        "NYC",
+        "紐約"
+      ],
+      "media": [
+        "文字藝術",
+        "混凝土",
+        "公共記憶"
+      ],
+      "works": "Bill of Rights and Seeds｜1990",
+      "comment": "刻有權利文本的混凝土與鑄鐵標記分布於市政廳公園和 Fort Greene Park，把抽象公民權利置入可踩踏、可閱讀的日常地面。",
+      "website": "https://www.publicartfund.org/exhibitions/view/bill-of-rights-and-seeds/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/bill-of-rights-and-seeds/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/bill-of-rights-and-seeds/",
+      "artistStatement": "Fulbrecht 將法律語言從文件移到公共路徑，讓「權利」不只是制度宣告，也成為城市使用者在行走中反覆遭遇的物質訊息。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/bill-of-rights-and-seeds/",
+      "classicTitle": "Bill of Rights and Seeds｜1990",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/bill-of-rights-and-seeds/",
+      "classicDesc": "刻有權利文本的混凝土與鑄鐵標記分布於市政廳公園和 Fort Greene Park，把抽象公民權利置入可踩踏、可閱讀的日常地面。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "german-classic-2026-10-12-16",
+      "dedupeKey": "art-leni-hoffmann-bmas-2011",
+      "name": "16｜Leni Hoffmann｜bmas",
+      "tier": "德國經典層",
+      "region": "跨文化",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "牆面介入",
+        "色彩",
+        "Kunst am Bau"
+      ],
+      "works": "bmas｜2011",
+      "comment": "藝術家以灌注材料、強化灰泥與高光漆重塑牆面，色彩和反射隨視角與光線改變，使部會建築表皮成為不穩定的感知介面。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bmas",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bmas",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bmas",
+      "artistStatement": "Hoffmann 的作品介於繪畫、材料與建築之間；它不描繪圖像，而以表面差異讓人察覺空間如何因移動而改變。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bmas",
+      "classicTitle": "bmas｜2011",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/bmas",
+      "classicDesc": "藝術家以灌注材料、強化灰泥與高光漆重塑牆面，色彩和反射隨視角與光線改變，使部會建築表皮成為不穩定的感知介面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "german-classic-2026-10-12-17",
+      "dedupeKey": "art-thomas-stricker-mehr-als-siebenzehntel-2001",
+      "name": "17｜Thomas Stricker｜mehr als siebenzehntel",
+      "tier": "德國經典層",
+      "region": "跨文化",
+      "country": "德國 / Hamburg",
+      "cityKeywords": [
+        "Hamburg",
+        "漢堡"
+      ],
+      "media": [
+        "青銅",
+        "可進入雕塑",
+        "Kunst am Bau"
+      ],
+      "works": "mehr als siebenzehntel｜2001",
+      "comment": "約二點五公尺的青銅膠囊式構造包含土壤與珊瑚意象，置於海事法院空間，連接航海、地球物質與封閉容器的尺度。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mehr-als-siebenzehntel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mehr-als-siebenzehntel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mehr-als-siebenzehntel",
+      "artistStatement": "Stricker 將地質與生命材料濃縮成可繞行、可進入想像的容器；法院的規範性空間因此出現指向海洋與全球循環的異質核心。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mehr-als-siebenzehntel",
+      "classicTitle": "mehr als siebenzehntel｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mehr-als-siebenzehntel",
+      "classicDesc": "約二點五公尺的青銅膠囊式構造包含土壤與珊瑚意象，置於海事法院空間，連接航海、地球物質與封閉容器的尺度。",
+      "relatedByCity": [
+        "call-hamburg-desy-kunst-am-bau-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "german-classic-2026-10-12-18",
+      "dedupeKey": "art-arnold-dreyblatt-inschriften-2010",
+      "name": "18｜Arnold Dreyblatt｜Inschriften",
+      "tier": "德國經典層",
+      "region": "跨文化",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "文字藝術",
+        "光柵影像",
+        "Kunst am Bau"
+      ],
+      "works": "Inschriften｜2010",
+      "comment": "光柵文字板讓詞句隨觀看角度浮現或消失，將行走方向變成資訊可見性的條件，對應檔案、記憶與制度語言。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/inschriften",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/inschriften",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/inschriften",
+      "artistStatement": "Dreyblatt 把閱讀改造成空間事件：文字沒有固定呈現，而由觀者的位置觸發，提醒公共記憶總與選擇、遮蔽和觀看條件相關。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/inschriften",
+      "classicTitle": "Inschriften｜2010",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/inschriften",
+      "classicDesc": "光柵文字板讓詞句隨觀看角度浮現或消失，將行走方向變成資訊可見性的條件，對應檔案、記憶與制度語言。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "german-classic-2026-10-12-19",
+      "dedupeKey": "art-dellbru-gge-de-moll-spuren-von-leben-2011",
+      "name": "19｜Dellbrügge & de Moll｜Spuren von Leben",
+      "tier": "德國經典層",
+      "region": "跨文化",
+      "country": "德國 / Köln",
+      "cityKeywords": [
+        "Köln",
+        "Cologne",
+        "科隆"
+      ],
+      "media": [
+        "礦物塗料",
+        "牆面藝術",
+        "科技意象"
+      ],
+      "works": "Spuren von Leben｜2011",
+      "comment": "以礦物塗料在混凝土牆面轉譯火星探測車輪跡，讓航太科技留下的遠地痕跡成為地球研究建築中的尺度與方向圖案。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spuren-von-leben",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spuren-von-leben",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spuren-von-leben",
+      "artistStatement": "作品把探索的證據從火星地表搬回人的建築環境；痕跡既是資料，也是對生命、移動和未知空間的視覺提問。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spuren-von-leben",
+      "classicTitle": "Spuren von Leben｜2011",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/spuren-von-leben",
+      "classicDesc": "以礦物塗料在混凝土牆面轉譯火星探測車輪跡，讓航太科技留下的遠地痕跡成為地球研究建築中的尺度與方向圖案。",
+      "relatedByCity": [
+        "opportunity-2026-08-29-koeln-marie-luise-nikuta-platz"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-12",
+      "id": "german-classic-2026-10-12-20",
+      "dedupeKey": "art-dellbru-gge-de-moll-die-architekten-2019",
+      "name": "20｜Dellbrügge & de Moll｜DIE ARCHITEKTEN",
+      "tier": "德國經典層",
+      "region": "跨文化",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "文字裝置",
+        "再生材料",
+        "Kunst am Bau"
+      ],
+      "works": "DIE ARCHITEKTEN｜2019",
+      "comment": "一百一十個由共和國宮殘材與白水泥製成的字母拼出建築師名字，以廢墟材料介入新建築，質疑單一作者和天才崇拜。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-architekten",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-architekten",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-architekten",
+      "artistStatement": "作品把被拆除建築的物質帶回制度空間，並以名字的集體排列揭露建築從來是多人、多時代與政治選擇共同作用的結果。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-architekten",
+      "classicTitle": "DIE ARCHITEKTEN｜2019",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-architekten",
+      "classicDesc": "一百一十個由共和國宮殘材與白水泥製成的字母拼出建築師名字，以廢墟材料介入新建築，質疑單一作者和天才崇拜。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    }
+  ]
+}
