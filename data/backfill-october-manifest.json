@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-12-public-art-r95",
-  "generatedAt": "2026-10-12T05:15:00+08:00",
+  "version": "2026-10-13-public-art-r96",
+  "generatedAt": "2026-10-13T05:15:00+08:00",
   "files": [
     "backfill-october-20261001.json",
     "backfill-october-20261002.json",
@@ -13,13 +13,14 @@
     "backfill-october-20261009.json",
     "backfill-october-20261010.json",
     "backfill-october-20261011.json",
-    "backfill-october-20261012.json"
+    "backfill-october-20261012.json",
+    "backfill-october-20261013.json"
   ],
-  "expectedEntries": 240,
-  "statementEntries": 240,
-  "statementSourceEntries": 240,
+  "expectedEntries": 260,
+  "statementEntries": 260,
+  "statementSourceEntries": 260,
   "statementBacklog": 0,
-  "imageEntries": 240,
+  "imageEntries": 260,
   "imageBacklog": 0,
-  "note": "截至 2026-10-12，10 月每日固定 20 則且皆為作品資料；本日配置 10／5／5，排除傳統人物紀念雕塑，來源、圖片、城市與去重欄位完整。"
+  "note": "截至 2026-10-13，10 月每日固定 20 則且皆為作品資料；本日配置 10／5／5，排除傳統人物紀念雕塑，來源、圖片、城市與去重欄位完整。"
 }

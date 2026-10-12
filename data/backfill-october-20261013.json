@@ -1,0 +1,705 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-13T05:15:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-13",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Aspen Art Museum、Public Art Fund、Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "當期或持續開放的空間裝置、永久 Kunst am Bau、場域介入、建築整合、公共媒體與觀念性作品；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/13 固定 10＋5＋5；20 則皆為作品資料，未混入競圖、補助或獎項，傳統人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-13T05:15:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-13T05:15:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-01",
+      "dedupeKey": "art-kerstin-bratsch-fossil-psychic-stone-mimicry-aspen-2026",
+      "name": "01｜Kerstin Brätsch｜Fossil Psychic Stone Mimicry (Aspen)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Aspen",
+      "cityKeywords": [
+        "Aspen",
+        "阿斯本"
+      ],
+      "media": [
+        "場域特定",
+        "雕塑座椅",
+        "彩繪玻璃"
+      ],
+      "works": "Fossil Psychic Stone Mimicry (Aspen)｜2026–2027",
+      "comment": "四組可供坐臥的屋頂雕塑把混凝土、大理石、天然石、馬賽克與彩繪玻璃疊成「心理化石」；觀者的停留與山光變化共同完成作品。",
+      "website": "https://aspenartmuseum.org/exhibition/kerstin-bratsch/",
+      "workPage": "https://aspenartmuseum.org/exhibition/kerstin-bratsch/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://aspenartmuseum.org/exhibition/kerstin-bratsch/",
+      "artistStatement": "Brätsch 把繪畫延伸成可使用的地景物件，讓礦物、人工色彩與身體接觸在阿斯本屋頂形成一套不斷變動的感知系統。",
+      "artistStatementSource": "https://aspenartmuseum.org/exhibition/kerstin-bratsch/",
+      "classicTitle": "Fossil Psychic Stone Mimicry (Aspen)｜2026–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://aspenartmuseum.org/exhibition/kerstin-bratsch/",
+      "classicDesc": "四組可供坐臥的屋頂雕塑把混凝土、大理石、天然石、馬賽克與彩繪玻璃疊成「心理化石」；觀者的停留與山光變化共同完成作品。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-02",
+      "dedupeKey": "art-adrian-villar-rojas-first-gods-lost-animals-2026",
+      "name": "02｜Adrián Villar Rojas｜First Gods, Lost Animals",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Aspen",
+      "cityKeywords": [
+        "Aspen",
+        "阿斯本"
+      ],
+      "media": [
+        "沉浸式裝置",
+        "場域改造",
+        "複合媒材"
+      ],
+      "works": "First Gods, Lost Animals｜2026–2027",
+      "comment": "藝術家把兩層展場重構為洞穴般的異質環境，讓地質、建築殘餘、物件與虛構生物共處，觀眾不是觀看單件作品，而是進入一個被重新編排的時間層。",
+      "website": "https://aspenartmuseum.org/exhibition/adrian-villar-rojas/",
+      "workPage": "https://aspenartmuseum.org/exhibition/adrian-villar-rojas/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://aspenartmuseum.org/exhibition/adrian-villar-rojas/",
+      "artistStatement": "Villar Rojas 以現場製作與材料變化質疑文明、物種和建築的穩定性；作品把美術館轉成未來考古現場。",
+      "artistStatementSource": "https://aspenartmuseum.org/exhibition/adrian-villar-rojas/",
+      "classicTitle": "First Gods, Lost Animals｜2026–2027",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://aspenartmuseum.org/exhibition/adrian-villar-rojas/",
+      "classicDesc": "藝術家把兩層展場重構為洞穴般的異質環境，讓地質、建築殘餘、物件與虛構生物共處，觀眾不是觀看單件作品，而是進入一個被重新編排的時間層。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-03",
+      "dedupeKey": "art-anthea-hamilton-cauliflower-sundial-2025",
+      "name": "03｜Anthea Hamilton｜Cauliflower Sundial",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Aspen",
+      "cityKeywords": [
+        "Aspen",
+        "阿斯本"
+      ],
+      "media": [
+        "公共雕塑",
+        "鋁鑄造",
+        "時間裝置"
+      ],
+      "works": "Cauliflower Sundial｜2025–持續展示",
+      "comment": "放大的花椰菜以鑄鋁成形並作為日晷運作，把日常蔬菜、雕塑尺度與太陽時間疊合；影子每天移動，使作品成為環境狀態的讀取裝置。",
+      "website": "https://aspenartmuseum.org/exhibition/anthea-hamilton/",
+      "workPage": "https://aspenartmuseum.org/exhibition/anthea-hamilton/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://aspenartmuseum.org/exhibition/anthea-hamilton/",
+      "artistStatement": "Hamilton 以幽默的物件轉置打破功能與象徵的邊界，讓「看時間」變成觀察光、季節與身體位置的公共經驗。",
+      "artistStatementSource": "https://aspenartmuseum.org/exhibition/anthea-hamilton/",
+      "classicTitle": "Cauliflower Sundial｜2025",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://aspenartmuseum.org/exhibition/anthea-hamilton/",
+      "classicDesc": "放大的花椰菜以鑄鋁成形並作為日晷運作，把日常蔬菜、雕塑尺度與太陽時間疊合；影子每天移動，使作品成為環境狀態的讀取裝置。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-04",
+      "dedupeKey": "art-ulrich-bruschke-zero-breite-modified-cellular-towers-2012",
+      "name": "04｜Ulrich Brüschke｜0° Breite (Modified Cellular Towers)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "戶外裝置",
+        "通訊結構"
+      ],
+      "works": "0° Breite (Modified Cellular Towers)｜2012–永久設置",
+      "comment": "藝術家改造通訊塔的技術語彙，以赤道「零度緯線」為概念，把安全機關的封閉基地連向全球定位與無形訊號網絡。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite",
+      "artistStatement": "作品不以獨立雕塑占據廣場，而是滲入既有基礎設施；真假功能難以辨識，觀看因而轉向權力、監控與全球連結。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite",
+      "classicTitle": "0° Breite (Modified Cellular Towers)｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/0-breite",
+      "classicDesc": "藝術家改造通訊塔的技術語彙，以赤道「零度緯線」為概念，把安全機關的封閉基地連向全球定位與無形訊號網絡。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-05",
+      "dedupeKey": "art-gerhard-mayer-grossloge-royal-york-zur-freundschaft-2016",
+      "name": "05｜Gerhard Mayer｜Großloge Royal York zur Freundschaft",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "壁畫",
+        "建築記憶"
+      ],
+      "works": "Großloge Royal York zur Freundschaft｜2016–永久設置",
+      "comment": "以六毫米平刷與橢圓模板在兩面牆上重建已消失的柏林會館；線條密度使建築像記憶殘影般在入口空間浮現。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grossloge-royal-york-zur-freundschaft",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grossloge-royal-york-zur-freundschaft",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grossloge-royal-york-zur-freundschaft",
+      "artistStatement": "Mayer 把歷史照片轉譯為不相交的筆觸，讓公共建築的現址同時容納已消失的城市地層與自由、平等、寬容等政治價值。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grossloge-royal-york-zur-freundschaft",
+      "classicTitle": "Großloge Royal York zur Freundschaft｜2016",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grossloge-royal-york-zur-freundschaft",
+      "classicDesc": "以六毫米平刷與橢圓模板在兩面牆上重建已消失的柏林會館；線條密度使建築像記憶殘影般在入口空間浮現。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-06",
+      "dedupeKey": "art-margret-middell-o-t-die-welle-2006",
+      "name": "06｜Margret Middell｜o. T. (Die Welle)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Rostock",
+      "cityKeywords": [
+        "Rostock",
+        "羅斯托克"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "戶外雕塑",
+        "鋼"
+      ],
+      "works": "o. T. (Die Welle)｜2006–永久設置",
+      "comment": "彎折金屬形成近似波浪的抽象體量，立於波羅的海漁業研究機構入口，使海流、風與研究任務轉化為可繞行的空間節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-die-welle",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-die-welle",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-die-welle",
+      "artistStatement": "Middell 保留材料受力與彎曲的可見痕跡，讓雕塑不模仿海浪，而以結構張力回應港區環境。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-die-welle",
+      "classicTitle": "o. T. (Die Welle)｜2006",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-die-welle",
+      "classicDesc": "彎折金屬形成近似波浪的抽象體量，立於波羅的海漁業研究機構入口，使海流、風與研究任務轉化為可繞行的空間節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-07",
+      "dedupeKey": "art-katharina-grosse-o-t-wandarbeit-2011",
+      "name": "07｜Katharina Grosse｜o. T. (Wandarbeit)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "空間繪畫",
+        "噴繪"
+      ],
+      "works": "o. T. (Wandarbeit)｜2011–永久設置",
+      "comment": "高飽和色彩越過牆面與建築分界，以噴槍留下速度、霧化與覆蓋痕跡；繪畫不再是壁上圖像，而成為改變動線與尺度感的空間事件。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit",
+      "artistStatement": "Grosse 將顏色視為沒有固定邊界的行動，讓建築表面、空氣感與觀者移動共同構成擴張中的畫面。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit",
+      "classicTitle": "o. T. (Wandarbeit)｜2011",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit",
+      "classicDesc": "高飽和色彩越過牆面與建築分界，以噴槍留下速度、霧化與覆蓋痕跡；繪畫不再是壁上圖像，而成為改變動線與尺度感的空間事件。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-08",
+      "dedupeKey": "art-thaddaus-huppi-golem-2006",
+      "name": "08｜Thaddäus Hüppi｜Golem",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Waldshut-Tiengen",
+      "cityKeywords": [
+        "Waldshut-Tiengen",
+        "瓦爾茨胡特-廷根"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "場域裝置",
+        "雕塑"
+      ],
+      "works": "Golem｜2006–永久設置",
+      "comment": "作品以當代形式回應「人造生命」的文化母題，置入海關與交通系統之間；它更像被啟動的空間角色，而非紀念某位人物的城市塑像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golem",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golem",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golem",
+      "artistStatement": "Hüppi 透過怪誕尺度與敘事暗示，使制度化邊界旁的日常通行產生不安與想像，公共性來自遭遇而非崇拜。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golem",
+      "classicTitle": "Golem｜2006",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/golem",
+      "classicDesc": "作品以當代形式回應「人造生命」的文化母題，置入海關與交通系統之間；它更像被啟動的空間角色，而非紀念某位人物的城市塑像。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-09",
+      "dedupeKey": "art-horst-rave-o-t-wandgestaltung-1988",
+      "name": "09｜Horst Rave｜o. T. (Wandgestaltung)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "壁面整合",
+        "抽象構成"
+      ],
+      "works": "o. T. (Wandgestaltung)｜1988–永久設置",
+      "comment": "抽象壁面構成沿行政建築的尺度與行進視線展開，將色塊、節奏和牆體接合，使原本中性的通道成為可閱讀的建築界面。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-1",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-1",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-1",
+      "artistStatement": "Rave 不把藝術當作牆上的附加物，而以比例、位置與視線關係建立作品，讓建築使用者在移動中完成觀看。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-1",
+      "classicTitle": "o. T. (Wandgestaltung)｜1988",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-1",
+      "classicDesc": "抽象壁面構成沿行政建築的尺度與行進視線展開，將色塊、節奏和牆體接合，使原本中性的通道成為可閱讀的建築界面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "current-2026-10-13-10",
+      "dedupeKey": "art-gerhard-merz-o-t-wandbilder-1994",
+      "name": "10｜Gerhard Merz｜o. T. (Wandbilder)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "壁畫",
+        "建築整合"
+      ],
+      "works": "o. T. (Wandbilder)｜1994–永久設置",
+      "comment": "顏色直接進入入口大廳牆體，與建築比例、光線及行進方向共同作用；作品以極少元素改寫空間的重心與秩序。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder",
+      "artistStatement": "Merz 將繪畫理解為建築性的比例實驗，拒絕敘事圖像，讓色彩本身成為界定公共空間的材料。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder",
+      "classicTitle": "o. T. (Wandbilder)｜1994",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder",
+      "classicDesc": "顏色直接進入入口大廳牆體，與建築比例、光線及行進方向共同作用；作品以極少元素改寫空間的重心與秩序。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "classic-2026-10-13-11",
+      "dedupeKey": "art-alex-katz-nine-women-times-square-1977",
+      "name": "11｜Alex Katz｜Nine Women",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "公共媒體",
+        "巨型看板",
+        "繪畫"
+      ],
+      "works": "Nine Women｜1977–1982",
+      "comment": "長達 240 英尺的時報廣場看板以二十三張二十英尺高的臉部圖像切入商業訊息洪流，把城市廣告基礎設施暫時轉為公共繪畫。",
+      "website": "https://www.publicartfund.org/exhibitions/view/nine-women/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/nine-women/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/nine-women/",
+      "artistStatement": "Katz 以扁平、清晰、連續的人像節奏抵抗時報廣場的擁塞視覺，作品主張藝術可以直接重組最商業化的都市界面。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/nine-women/",
+      "classicTitle": "Nine Women｜1977–1982",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/nine-women/",
+      "classicDesc": "長達 240 英尺的時報廣場看板以二十三張二十英尺高的臉部圖像切入商業訊息洪流，把城市廣告基礎設施暫時轉為公共繪畫。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "classic-2026-10-13-12",
+      "dedupeKey": "art-jenny-holzer-messages-to-the-public-untitled-1982",
+      "name": "12｜Jenny Holzer｜Messages to the Public: Untitled",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "文字藝術",
+        "電子看板",
+        "公共媒體"
+      ],
+      "works": "Messages to the Public: Untitled｜1982",
+      "comment": "三十秒文字動畫每天在時報廣場電子燈板反覆播放逾五十次，把格言插入廣告循環，利用相同媒介反向揭露權力、暴力與私有制。",
+      "website": "https://www.publicartfund.org/exhibitions/view/messages-to-the-public/messages-to-the-public-holzer/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/messages-to-the-public/messages-to-the-public-holzer/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/messages-to-the-public/messages-to-the-public-holzer/",
+      "artistStatement": "Holzer 把語言置於公共資訊系統，使匿名句子既像命令也像質疑；觀者必須在消費訊息與政治判斷之間迅速切換。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/messages-to-the-public/messages-to-the-public-holzer/",
+      "classicTitle": "Messages to the Public: Untitled｜1982",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/messages-to-the-public/messages-to-the-public-holzer/",
+      "classicDesc": "三十秒文字動畫每天在時報廣場電子燈板反覆播放逾五十次，把格言插入廣告循環，利用相同媒介反向揭露權力、暴力與私有制。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "classic-2026-10-13-13",
+      "dedupeKey": "art-general-idea-aids-times-square-1989",
+      "name": "13｜General Idea｜Messages to the Public: AIDS",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "公共媒體",
+        "電子看板",
+        "行動主義"
+      ],
+      "works": "Messages to the Public: AIDS｜1989",
+      "comment": "藝術團體借用 LOVE 圖像結構，把 AIDS 四字置入時報廣場電子看板；作品以熟悉的消費視覺迫使公共空間正視當時被污名化的疫情。",
+      "website": "https://www.publicartfund.org/exhibitions/view/aids/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/aids/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/aids/",
+      "artistStatement": "General Idea 透過圖像挪用讓疾病名稱獲得城市可見性，將公共藝術轉成反污名、傳播與政治介入的媒介。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/aids/",
+      "classicTitle": "Messages to the Public: AIDS｜1989",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/aids/",
+      "classicDesc": "藝術團體借用 LOVE 圖像結構，把 AIDS 四字置入時報廣場電子看板；作品以熟悉的消費視覺迫使公共空間正視當時被污名化的疫情。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "classic-2026-10-13-14",
+      "dedupeKey": "art-ethan-breckenridge-im-ok-youre-ok-2006",
+      "name": "14｜Ethan Breckenridge｜I’m OK–You’re OK",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "公共裝置",
+        "現成物",
+        "場域介入"
+      ],
+      "works": "I’m OK–You’re OK｜2006",
+      "comment": "約一百台家具推車堆組成十六英尺高的垂直結構，將城市搬運工具變成介於臨時建築、塔與陷阱之間的公共裝置。",
+      "website": "https://www.publicartfund.org/exhibitions/view/trapdoor/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/trapdoor/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/trapdoor/",
+      "artistStatement": "Breckenridge 以重複現成物放大都市勞動的隱形基礎，結構看似可移動卻又被鎖定，形成穩定與失衡的心理張力。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/trapdoor/",
+      "classicTitle": "I’m OK–You’re OK｜2006",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/trapdoor/",
+      "classicDesc": "約一百台家具推車堆組成十六英尺高的垂直結構，將城市搬運工具變成介於臨時建築、塔與陷阱之間的公共裝置。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "classic-2026-10-13-15",
+      "dedupeKey": "art-melvin-edwards-brighter-days-2021",
+      "name": "15｜Melvin Edwards｜Brighter Days",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "公共雕塑",
+        "鋼索",
+        "鏈條"
+      ],
+      "works": "Brighter Days｜2021",
+      "comment": "六件跨越五十年的鏈條雕塑在城市廣場形成鬆緊不一的線性結構；工業鋼材同時指向勞動、束縛、連結與韌性。",
+      "website": "https://www.publicartfund.org/exhibitions/view/brighterdays/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/brighterdays/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/brighterdays/",
+      "artistStatement": "Edwards 讓沉重金屬保留政治記憶，也藉懸掛、拉力與開放空隙創造可以穿行、對望與重新聯結的公共場域。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/brighterdays/",
+      "classicTitle": "Brighter Days｜2021",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/brighterdays/",
+      "classicDesc": "六件跨越五十年的鏈條雕塑在城市廣場形成鬆緊不一的線性結構；工業鋼材同時指向勞動、束縛、連結與韌性。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "german-2026-10-13-16",
+      "dedupeKey": "art-wolfgang-nestler-o-t-1999-berlin",
+      "name": "16｜Wolfgang Nestler｜o. T.",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋼雕塑",
+        "空間構成"
+      ],
+      "works": "o. T.｜1999",
+      "comment": "抽象鋼構在司法建築中以支撐、傾斜與交叉關係建立張力，不塑造英雄人物，而讓秩序、平衡與判斷成為可感知的空間問題。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-14",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-14",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-14",
+      "artistStatement": "Nestler 以最少結構揭示力的方向和材料重量，觀者從不同角度讀到穩定與危險並存，對應司法判斷的複雜性。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-14",
+      "classicTitle": "o. T.｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-14",
+      "classicDesc": "抽象鋼構在司法建築中以支撐、傾斜與交叉關係建立張力，不塑造英雄人物，而讓秩序、平衡與判斷成為可感知的空間問題。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "german-2026-10-13-17",
+      "dedupeKey": "art-walter-womacka-aus-der-geschichte-der-deutschen-arbeiterbewegung-1964",
+      "name": "17｜Walter Womacka｜Aus der Geschichte der deutschen Arbeiterbewegung",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "彩色玻璃",
+        "建築整合"
+      ],
+      "works": "Aus der Geschichte der deutschen Arbeiterbewegung｜1964",
+      "comment": "約一百八十平方公尺的彩色玻璃把歷史敘事整合進大廳採光面，政治圖像不是獨立雕像，而是隨光線變化的建築皮層。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aus-der-geschichte-der-deutschen-arbeiterbewegung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aus-der-geschichte-der-deutschen-arbeiterbewegung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aus-der-geschichte-der-deutschen-arbeiterbewegung",
+      "artistStatement": "Womacka 以玻璃的透明與色彩把集體歷史編入日常通行，使國家敘事同時成為空間氛圍與觀看框架。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aus-der-geschichte-der-deutschen-arbeiterbewegung",
+      "classicTitle": "Aus der Geschichte der deutschen Arbeiterbewegung｜1964",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aus-der-geschichte-der-deutschen-arbeiterbewegung",
+      "classicDesc": "約一百八十平方公尺的彩色玻璃把歷史敘事整合進大廳採光面，政治圖像不是獨立雕像，而是隨光線變化的建築皮層。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "german-2026-10-13-18",
+      "dedupeKey": "art-walter-womacka-der-mensch-das-mass-aller-dinge-1968",
+      "name": "18｜Walter Womacka｜Der Mensch, das Maß aller Dinge",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "建築壁畫",
+        "公共敘事"
+      ],
+      "works": "Der Mensch, das Maß aller Dinge｜1968",
+      "comment": "大型建築壁畫以人的尺度、勞動與知識作為城市建設的衡量基準；作品與現代主義立面共同形成東柏林公共空間的歷史地層。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-mensch-das-mass-aller-dinge",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-mensch-das-mass-aller-dinge",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-mensch-das-mass-aller-dinge",
+      "artistStatement": "其核心不是紀念單一人物，而是以整體構圖表達人、科技與社會的集體關係，展現特定時代的公共藝術觀。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-mensch-das-mass-aller-dinge",
+      "classicTitle": "Der Mensch, das Maß aller Dinge｜1968",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-mensch-das-mass-aller-dinge",
+      "classicDesc": "大型建築壁畫以人的尺度、勞動與知識作為城市建設的衡量基準；作品與現代主義立面共同形成東柏林公共空間的歷史地層。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "german-2026-10-13-19",
+      "dedupeKey": "art-paul-uwe-dreyer-o-t-wandarbeit-1975",
+      "name": "19｜Paul Uwe Dreyer｜o. T. (Wandarbeit)",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "抽象壁畫",
+        "幾何構成"
+      ],
+      "works": "o. T. (Wandarbeit)｜1975",
+      "comment": "幾何抽象牆面置於中央樓梯背牆，以方向、色面與建築軸線組織行進視野；非具象形式在冷戰城市中成為空間秩序的語言。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit-3",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit-3",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit-3",
+      "artistStatement": "Dreyer 以精確比例和色彩關係讓牆面從背景轉為主動界面，作品的內容存在於身體移動和視覺校準之中。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit-3",
+      "classicTitle": "o. T. (Wandarbeit)｜1975",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandarbeit-3",
+      "classicDesc": "幾何抽象牆面置於中央樓梯背牆，以方向、色面與建築軸線組織行進視野；非具象形式在冷戰城市中成為空間秩序的語言。",
+      "relatedByCity": [
+        "opportunity-2026-08-24-land-berlin-praesentationen-zeitgenoessischer-bildender-kunst-2027",
+        "opportunity-2026-08-31-berlin-contemporary-art-presentation-2027",
+        "opportunity-2026-09-01-berlin-contemporary-art-presentations-2027",
+        "opportunity-2026-09-01-berlin-impact-funding-2027",
+        "opportunity-2026-berlin-visual-art-presentations-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "german-2026-10-13-20",
+      "dedupeKey": "art-josef-partykiewicz-politikerzoo-1977",
+      "name": "20｜Josef Partykiewicz｜Politikerzoo",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "政治諷刺",
+        "壁面裝置"
+      ],
+      "works": "Politikerzoo｜1977",
+      "comment": "以政治人物的諷刺性群像介入波昂新聞俱樂部室內，作品關注媒體、權力與社交網絡；其為建築整合的批判圖像，而非歌頌式城市人物紀念像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/politikerzoo",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/politikerzoo",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/politikerzoo",
+      "artistStatement": "Partykiewicz 以漫畫式觀察拆解政治權威，使公共機構內部成為可以被調侃、辨認與討論的權力劇場。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/politikerzoo",
+      "classicTitle": "Politikerzoo｜1977",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/politikerzoo",
+      "classicDesc": "以政治人物的諷刺性群像介入波昂新聞俱樂部室內，作品關注媒體、權力與社交網絡；其為建築整合的批判圖像，而非歌頌式城市人物紀念像。",
+      "relatedByCity": []
+    }
+  ]
+}

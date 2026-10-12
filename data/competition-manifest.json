@@ -1,16 +1,16 @@
 {
-  "version": "2026-10-12-competition-r70",
-  "generatedAt": "2026-10-12T05:15:00+08:00",
+  "version": "2026-10-13-competition-r71",
+  "generatedAt": "2026-10-13T05:15:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 122,
+  "activeEntries": 126,
   "addedToday": 5,
-  "expiredRemoved": 2,
+  "expiredRemoved": 1,
   "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 122,
-  "deadlinePrecisionEntries": 122,
-  "cityKeywordEntries": 122,
-  "note": "2026-10-12 新增 5 則有效徵件，保留 117 則既有未截止項目，僅移除 2 則已逾期案件；重建競圖至公共藝術同城關聯。",
-  "germanAddedToday": 3
+  "deadlineTimezoneEntries": 126,
+  "deadlinePrecisionEntries": 126,
+  "cityKeywordEntries": 126,
+  "note": "2026-10-13 新增 5 則有效徵件，保留 121 則既有未截止項目，僅移除 1 則已逾期案件；重建競圖至公共藝術同城關聯。",
+  "germanAddedToday": 1
 }

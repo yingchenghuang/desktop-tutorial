@@ -1,14 +1,13 @@
 {
-  "updated": "2026-10-12",
-  "generatedAt": "2026-10-12T05:15:00+08:00",
+  "updated": "2026-10-13",
+  "generatedAt": "2026-10-13T05:15:00+08:00",
   "meta": {
-    "date": "2026-10-12",
-    "timezone": "Asia/Taipei",
-    "total": 122,
+    "activeEntries": 126,
     "addedToday": 5,
-    "expiredRemoved": 2,
-    "retained": 117,
-    "duplicateRemoved": 0
+    "expiredRemoved": 1,
+    "duplicateRemoved": 0,
+    "source": "官方主辦機構徵件頁",
+    "note": "保留 121 則既有未截止項目，新增 5 則，移除 1 則已逾期項目。"
   },
   "entries": [
     {
@@ -176,6 +175,11 @@
         "art-stephen-korns-floating-lights-hudson-river-1980",
         "art-alan-sonfist-earths-eye-1990",
         "art-isamu-noguchi-unidentified-object-1979",
+        "art-eric-arctander-nieuw-amsterdam-shoreline-1980",
+        "art-harriet-brickman-beached-forms-passages-1980",
+        "art-alan-finkel-view-for-the-catenary-curve-1981–1982",
+        "art-tony-smith-smug-1998",
+        "art-william-fulbrecht-bill-of-rights-and-seeds-1990",
         "art-2026-09-13-koer-curators-chisinau-new-york-2024",
         "art-woody-de-othello-guardian-spirit-2026-2027",
         "art-genesis-belanger-heads-or-tails-2026",
@@ -185,11 +189,11 @@
         "art-orly-genger-red-yellow-and-blue-2013",
         "art-jim-campbell-scattered-light-2010-2011",
         "art-leo-villareal-buckyball-2012-2013",
-        "art-eric-arctander-nieuw-amsterdam-shoreline-1980",
-        "art-harriet-brickman-beached-forms-passages-1980",
-        "art-alan-finkel-view-for-the-catenary-curve-1981–1982",
-        "art-tony-smith-smug-1998",
-        "art-william-fulbrecht-bill-of-rights-and-seeds-1990"
+        "art-alex-katz-nine-women-times-square-1977",
+        "art-jenny-holzer-messages-to-the-public-untitled-1982",
+        "art-general-idea-aids-times-square-1989",
+        "art-ethan-breckenridge-im-ok-youre-ok-2006",
+        "art-melvin-edwards-brighter-days-2021"
       ]
     },
     {
@@ -471,6 +475,9 @@
         "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002",
         "art-ortraud-lerch-mosaikbrunnen-1964",
         "art-seebach-stegat-global-barocc-2022",
+        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
+        "art-arnold-dreyblatt-inschriften-2010",
+        "art-dellbru-gge-de-moll-die-architekten-2019",
         "art-2026-09-01-tim-trantenroth-untitled",
         "art-2026-09-01-emeka-ogboh-kosmos",
         "art-2026-09-01-beerenpetry-262-klinken",
@@ -546,9 +553,13 @@
         "art-gei-ler-lippert-unterton-2012",
         "art-bernhard-heiliger-echo-i-und-echo-ii-1987",
         "art-peter-wuthrich-600-bucher-fur-600-parlamentarierinnen",
-        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
-        "art-arnold-dreyblatt-inschriften-2010",
-        "art-dellbru-gge-de-moll-die-architekten-2019"
+        "art-ulrich-bruschke-zero-breite-modified-cellular-towers-2012",
+        "art-gerhard-mayer-grossloge-royal-york-zur-freundschaft-2016",
+        "art-katharina-grosse-o-t-wandarbeit-2011",
+        "art-wolfgang-nestler-o-t-1999-berlin",
+        "art-walter-womacka-aus-der-geschichte-der-deutschen-arbeiterbewegung-1964",
+        "art-walter-womacka-der-mensch-das-mass-aller-dinge-1968",
+        "art-paul-uwe-dreyer-o-t-wandarbeit-1975"
       ]
     },
     {
@@ -884,6 +895,9 @@
         "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002",
         "art-ortraud-lerch-mosaikbrunnen-1964",
         "art-seebach-stegat-global-barocc-2022",
+        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
+        "art-arnold-dreyblatt-inschriften-2010",
+        "art-dellbru-gge-de-moll-die-architekten-2019",
         "art-2026-09-01-tim-trantenroth-untitled",
         "art-2026-09-01-emeka-ogboh-kosmos",
         "art-2026-09-01-beerenpetry-262-klinken",
@@ -959,9 +973,13 @@
         "art-gei-ler-lippert-unterton-2012",
         "art-bernhard-heiliger-echo-i-und-echo-ii-1987",
         "art-peter-wuthrich-600-bucher-fur-600-parlamentarierinnen",
-        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
-        "art-arnold-dreyblatt-inschriften-2010",
-        "art-dellbru-gge-de-moll-die-architekten-2019"
+        "art-ulrich-bruschke-zero-breite-modified-cellular-towers-2012",
+        "art-gerhard-mayer-grossloge-royal-york-zur-freundschaft-2016",
+        "art-katharina-grosse-o-t-wandarbeit-2011",
+        "art-wolfgang-nestler-o-t-1999-berlin",
+        "art-walter-womacka-aus-der-geschichte-der-deutschen-arbeiterbewegung-1964",
+        "art-walter-womacka-der-mensch-das-mass-aller-dinge-1968",
+        "art-paul-uwe-dreyer-o-t-wandarbeit-1975"
       ]
     },
     {
@@ -1086,6 +1104,9 @@
         "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002",
         "art-ortraud-lerch-mosaikbrunnen-1964",
         "art-seebach-stegat-global-barocc-2022",
+        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
+        "art-arnold-dreyblatt-inschriften-2010",
+        "art-dellbru-gge-de-moll-die-architekten-2019",
         "art-2026-09-01-tim-trantenroth-untitled",
         "art-2026-09-01-emeka-ogboh-kosmos",
         "art-2026-09-01-beerenpetry-262-klinken",
@@ -1161,9 +1182,13 @@
         "art-gei-ler-lippert-unterton-2012",
         "art-bernhard-heiliger-echo-i-und-echo-ii-1987",
         "art-peter-wuthrich-600-bucher-fur-600-parlamentarierinnen",
-        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
-        "art-arnold-dreyblatt-inschriften-2010",
-        "art-dellbru-gge-de-moll-die-architekten-2019"
+        "art-ulrich-bruschke-zero-breite-modified-cellular-towers-2012",
+        "art-gerhard-mayer-grossloge-royal-york-zur-freundschaft-2016",
+        "art-katharina-grosse-o-t-wandarbeit-2011",
+        "art-wolfgang-nestler-o-t-1999-berlin",
+        "art-walter-womacka-aus-der-geschichte-der-deutschen-arbeiterbewegung-1964",
+        "art-walter-womacka-der-mensch-das-mass-aller-dinge-1968",
+        "art-paul-uwe-dreyer-o-t-wandarbeit-1975"
       ]
     },
     {
@@ -1287,6 +1312,9 @@
         "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002",
         "art-ortraud-lerch-mosaikbrunnen-1964",
         "art-seebach-stegat-global-barocc-2022",
+        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
+        "art-arnold-dreyblatt-inschriften-2010",
+        "art-dellbru-gge-de-moll-die-architekten-2019",
         "art-2026-09-01-tim-trantenroth-untitled",
         "art-2026-09-01-emeka-ogboh-kosmos",
         "art-2026-09-01-beerenpetry-262-klinken",
@@ -1362,9 +1390,13 @@
         "art-gei-ler-lippert-unterton-2012",
         "art-bernhard-heiliger-echo-i-und-echo-ii-1987",
         "art-peter-wuthrich-600-bucher-fur-600-parlamentarierinnen",
-        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
-        "art-arnold-dreyblatt-inschriften-2010",
-        "art-dellbru-gge-de-moll-die-architekten-2019"
+        "art-ulrich-bruschke-zero-breite-modified-cellular-towers-2012",
+        "art-gerhard-mayer-grossloge-royal-york-zur-freundschaft-2016",
+        "art-katharina-grosse-o-t-wandarbeit-2011",
+        "art-wolfgang-nestler-o-t-1999-berlin",
+        "art-walter-womacka-aus-der-geschichte-der-deutschen-arbeiterbewegung-1964",
+        "art-walter-womacka-der-mensch-das-mass-aller-dinge-1968",
+        "art-paul-uwe-dreyer-o-t-wandarbeit-1975"
       ]
     },
     {
@@ -1836,6 +1868,9 @@
         "art-maurizio-nannucci-zeit-licht-zeit-bild-zeit-raum-2002",
         "art-ortraud-lerch-mosaikbrunnen-1964",
         "art-seebach-stegat-global-barocc-2022",
+        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
+        "art-arnold-dreyblatt-inschriften-2010",
+        "art-dellbru-gge-de-moll-die-architekten-2019",
         "art-2026-09-01-tim-trantenroth-untitled",
         "art-2026-09-01-emeka-ogboh-kosmos",
         "art-2026-09-01-beerenpetry-262-klinken",
@@ -1911,9 +1946,13 @@
         "art-gei-ler-lippert-unterton-2012",
         "art-bernhard-heiliger-echo-i-und-echo-ii-1987",
         "art-peter-wuthrich-600-bucher-fur-600-parlamentarierinnen",
-        "art-marcel-odenbach-als-sa-he-ich-im-himmel-die-erde-2000",
-        "art-arnold-dreyblatt-inschriften-2010",
-        "art-dellbru-gge-de-moll-die-architekten-2019"
+        "art-ulrich-bruschke-zero-breite-modified-cellular-towers-2012",
+        "art-gerhard-mayer-grossloge-royal-york-zur-freundschaft-2016",
+        "art-katharina-grosse-o-t-wandarbeit-2011",
+        "art-wolfgang-nestler-o-t-1999-berlin",
+        "art-walter-womacka-aus-der-geschichte-der-deutschen-arbeiterbewegung-1964",
+        "art-walter-womacka-der-mensch-das-mass-aller-dinge-1968",
+        "art-paul-uwe-dreyer-o-t-wandarbeit-1975"
       ]
     },
     {
@@ -2094,6 +2133,7 @@
       "budget": "首獎 €20,000；入圍作品於 2027-02-25 頒獎後展出六週",
       "applicationFee": "免費",
       "relatedByCity": [
+        "institution-koer-wien-public-art-vienna",
         "art-2026-09-05-infoscreen-20-seconds-art-2024"
       ]
     },
@@ -5047,48 +5087,6 @@
     {
       "category": "公開徵件",
       "status": "官方來源",
-      "updated": "2026-10-08",
-      "id": "competition-2026-10-08-05",
-      "dedupeKey": "opportunity-calgary-art-bus-rfq-2027",
-      "name": "05｜Calgary Arts Development｜Art Bus RFQ 2027",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "加拿大 / Calgary, Alberta",
-      "cityKeywords": [
-        "Calgary",
-        "卡加利",
-        "Mohkinsstsis",
-        "Alberta",
-        "亞伯達省"
-      ],
-      "media": [
-        "壁畫/街頭",
-        "城市基礎設施",
-        "社會參與"
-      ],
-      "works": "2027 Art Bus 車身公共藝術｜截止 2026.10.12 13:00 MDT",
-      "comment": "將選最多七名藝術家／團隊，為 Calgary Transit 車身創作原作並提供既有作品作車內展示，公共移動載體展期約十二週。",
-      "website": "https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
-      "workPage": "https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
-      "artistStatement": "四項主題涵蓋原住民故事、公共運輸作為社會空間、社群文化，以及美感、幽默與希望；印製、安裝及維護另由主辦負擔。",
-      "artistStatementSource": "https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
-      "classicTitle": "Art Bus RFQ 2027",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://calgaryartsdevelopment.com/public-art/opportunities/all/art-bus-rfq-2027-guidelines/",
-      "classicDesc": "把公車轉為跨社區移動的公共藝術與文化敘事載體。",
-      "deadline": "2026-10-12T13:00:00-06:00",
-      "deadlineLabel": "截止 2026.10.12 13:00 MDT",
-      "deadlineTimezone": "America/Edmonton",
-      "deadlinePrecision": "time",
-      "organizer": "Calgary Arts Development / City of Calgary / Calgary Transit",
-      "eligibility": "居住於 Calgary／Mohkinsstsis、任何職涯階段與媒材的藝術家；Treaty 7 區域 FNMI 藝術家／團隊免居住限制；2023–2026 Art Bus 或 2023–2028 Centre City Banners 入選者不得申請",
-      "budget": "未公開；印製、安裝與維護由主辦另行支付，不計入藝術家工作範圍",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
       "updated": "2026-10-09",
       "id": "competition-2026-10-09-01",
       "dedupeKey": "opportunity-2026-10-09-los-angeles-convention-center-expansion-rfq",
@@ -5788,12 +5786,12 @@
         "classic-german-dieter-glasmacher-werner-noefer-gruenspan-wall-painting-hamburg",
         "art-matt-mullican-o-t-bodenzeichnung",
         "art-francois-morellet-all-over-strukturen-1976",
+        "art-thomas-stricker-mehr-als-siebenzehntel-2001",
         "art-2026-09-02-heimo-zobernig-isgh-pavement",
         "art-2026-09-02-alf-lechner-untitled-hamburg",
         "art-2026-09-07-museum-all-over-structures",
         "art-2026-09-16-german-classic-o-t-korrespondierende-rohren",
-        "art-2026-09-25-current-elfenbein-i-elfenbein-ii-jochen-lempert",
-        "art-thomas-stricker-mehr-als-siebenzehntel-2001"
+        "art-2026-09-25-current-elfenbein-i-elfenbein-ii-jochen-lempert"
       ]
     },
     {
@@ -5921,6 +5919,210 @@
       "organizer": "Bundesrepublik Deutschland／GMSH",
       "eligibility": "歐洲經濟區專業視覺藝術家；須以德文參賽",
       "budget": "未公開",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "competition-2026-10-13-01",
+      "dedupeKey": "opportunity-2026-10-13-cologne-kunstsaulen-2027-2028",
+      "name": "01｜Stadt Köln｜Kunstsäulen 2027/2028",
+      "tier": "競圖資料庫",
+      "region": "跨文化",
+      "country": "德國 / Cologne",
+      "cityKeywords": [
+        "Cologne",
+        "Köln",
+        "科隆"
+      ],
+      "media": [
+        "公共媒體",
+        "城市介入",
+        "平面藝術"
+      ],
+      "works": "27 座城市廣告柱藝術展示｜每位入選者 €600，製作張貼由市府負擔｜截止 2026.10.20",
+      "comment": "面向本地、全國與國際專業視覺藝術家，徵集可於 27 座廣告柱輪替展示的原創圖像；四位入選者各展示三個月。",
+      "website": "https://www.stadt-koeln.de/leben-in-koeln/kultur/kulturfoerderung/bildende-kunst-medienkunst/ausschreibung-kunst-im-oeffentlichen-raum-2026",
+      "workPage": "https://www.stadt-koeln.de/leben-in-koeln/kultur/kulturfoerderung/bildende-kunst-medienkunst/ausschreibung-kunst-im-oeffentlichen-raum-2026",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-koeln.de/leben-in-koeln/kultur/kulturfoerderung/bildende-kunst-medienkunst/ausschreibung-kunst-im-oeffentlichen-raum-2026",
+      "artistStatement": "計畫把商業廣告柱轉為城市尺度的藝術媒介，使同一圖像在多處街道同步出現並形成分散式公共展覽。",
+      "artistStatementSource": "https://www.stadt-koeln.de/leben-in-koeln/kultur/kulturfoerderung/bildende-kunst-medienkunst/ausschreibung-kunst-im-oeffentlichen-raum-2026",
+      "classicTitle": "Kunstsäulen 2027/2028",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stadt-koeln.de/leben-in-koeln/kultur/kulturfoerderung/bildende-kunst-medienkunst/ausschreibung-kunst-im-oeffentlichen-raum-2026",
+      "classicDesc": "計畫把商業廣告柱轉為城市尺度的藝術媒介，使同一圖像在多處街道同步出現並形成分散式公共展覽。",
+      "deadline": "2026-10-20T23:59:59+02:00",
+      "deadlineLabel": "截止 2026.10.20",
+      "deadlineTimezone": "Europe/Berlin",
+      "deadlinePrecision": "date",
+      "organizer": "Stadt Köln",
+      "eligibility": "本地、全國與國際專業視覺藝術家；可提出藝術攝影、城市藝術等原創圖像",
+      "budget": "每位入選者酬金 €600；每一圖像印製、張貼及維護費約 €3,500，由主辦單位負擔",
+      "applicationFee": "未公開",
+      "relatedByCity": [
+        "classic-german-gerhard-richter-south-transept-window-cologne-cathedral",
+        "classic-german-claes-oldenburg-coosje-van-bruggen-dropped-cone-2001-ko-ln",
+        "art-sabine-funke-o-t-wandmalerei",
+        "art-dellbru-gge-de-moll-spuren-von-leben-2011"
+      ]
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "competition-2026-10-13-02",
+      "dedupeKey": "opportunity-2026-10-13-klagenfurt-urban-ecologies-coexistence-and-control-2027",
+      "name": "02｜Lendhauer｜Urban Ecologies: Coexistence and Control",
+      "tier": "競圖資料庫",
+      "region": "跨文化",
+      "country": "奧地利 / Klagenfurt am Wörthersee",
+      "cityKeywords": [
+        "Klagenfurt am Wörthersee",
+        "Klagenfurt",
+        "克拉根福"
+      ],
+      "media": [
+        "場域特定",
+        "跨域裝置",
+        "公共空間"
+      ],
+      "works": "Lendhafen 場域特定計畫｜製作最高 €4,000＋酬金最高 €2,500｜截止 2026.11.02",
+      "comment": "開放國際藝術家、設計師、建築師、表演者、理論工作者及跨域個人／團隊，提案須回應港區城市生態、共存與控制。",
+      "website": "https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "workPage": "https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "artistStatement": "徵件把 Lendhafen 視為社會、生態與基礎設施交會的實驗場，期待作品在現地揭示人與非人行動者的權力關係。",
+      "artistStatementSource": "https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "classicTitle": "Urban Ecologies: Coexistence and Control",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.lendhafen.at/open-call-2027-urban-ecologies-coexistence-and-control/",
+      "classicDesc": "徵件把 Lendhafen 視為社會、生態與基礎設施交會的實驗場，期待作品在現地揭示人與非人行動者的權力關係。",
+      "deadline": "2026-11-02T23:59:59+01:00",
+      "deadlineLabel": "截止 2026.11.02",
+      "deadlineTimezone": "Europe/Vienna",
+      "deadlinePrecision": "date",
+      "organizer": "Lendhauer",
+      "eligibility": "國際藝術家、設計師、建築師、表演者、理論工作者，以及跨領域個人或團隊",
+      "budget": "製作費最高 €4,000；藝術家酬金最高 €2,500；旅費最高 €1,000",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "competition-2026-10-13-03",
+      "dedupeKey": "opportunity-2026-10-13-avondale-donatela-park-public-art",
+      "name": "03｜City of Avondale｜Donatela Park Public Art",
+      "tier": "競圖資料庫",
+      "region": "跨文化",
+      "country": "美國 / Avondale, Arizona",
+      "cityKeywords": [
+        "Avondale",
+        "阿文代爾"
+      ],
+      "media": [
+        "公共雕塑",
+        "公園藝術",
+        "場域特定"
+      ],
+      "works": "Donatela Park 公共藝術｜US$100,000｜截止 2026.11.03 17:00 MST",
+      "comment": "徵求具公共藝術經驗的專業雕塑藝術家或設計型建築師，為新公園提出耐候、可維護並能回應社區的場域作品。",
+      "website": "https://www.avondaleaz.gov/government/public-art/artist-opportunities/donatela-park/",
+      "workPage": "https://www.avondaleaz.gov/government/public-art/artist-opportunities/donatela-park/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.avondaleaz.gov/government/public-art/artist-opportunities/donatela-park/",
+      "artistStatement": "委託將藝術納入新公園的日常動線與社群使用，重點是場所辨識、耐久性及跨年齡公共經驗。",
+      "artistStatementSource": "https://www.avondaleaz.gov/government/public-art/artist-opportunities/donatela-park/",
+      "classicTitle": "Donatela Park Public Art",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.avondaleaz.gov/government/public-art/artist-opportunities/donatela-park/",
+      "classicDesc": "委託將藝術納入新公園的日常動線與社群使用，重點是場所辨識、耐久性及跨年齡公共經驗。",
+      "deadline": "2026-11-03T17:00:00-07:00",
+      "deadlineLabel": "截止 2026.11.03 17:00 MST",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "City of Avondale",
+      "eligibility": "具公共藝術經驗的專業雕塑藝術家或設計型建築師",
+      "budget": "US$100,000，包含設計、製作、運輸、安裝及相關費用",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "competition-2026-10-13-04",
+      "dedupeKey": "opportunity-2026-10-13-st-catharines-150-legacy-mural",
+      "name": "04｜City of St. Catharines｜St. Catharines 150 Legacy Mural",
+      "tier": "競圖資料庫",
+      "region": "跨文化",
+      "country": "加拿大 / St. Catharines, Ontario",
+      "cityKeywords": [
+        "St. Catharines",
+        "Saint Catharines",
+        "聖凱瑟琳斯"
+      ],
+      "media": [
+        "壁畫",
+        "公共藝術",
+        "城市記憶"
+      ],
+      "works": "Ontario Street Parking Garage 壁畫｜CAD$50,000｜截止 2026.11.22 23:59 EST",
+      "comment": "開放居住於安大略省或與聖凱瑟琳斯有深厚連結的專業視覺／壁畫藝術家與藝術家主導團隊，須具大型公共藝術或壁畫經驗。",
+      "website": "https://www.stcatharines.ca/arts-culture-and-events/public-art/calls-to-artists/",
+      "workPage": "https://www.stcatharines.ca/arts-culture-and-events/public-art/calls-to-artists/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stcatharines.ca/arts-culture-and-events/public-art/calls-to-artists/",
+      "artistStatement": "150 週年遺產壁畫將停車建築立面轉為城市記憶載體，透過當代圖像連接歷史、地方身份與未來想像。",
+      "artistStatementSource": "https://www.stcatharines.ca/arts-culture-and-events/public-art/calls-to-artists/",
+      "classicTitle": "St. Catharines 150 Legacy Mural",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.stcatharines.ca/arts-culture-and-events/public-art/calls-to-artists/",
+      "classicDesc": "150 週年遺產壁畫將停車建築立面轉為城市記憶載體，透過當代圖像連接歷史、地方身份與未來想像。",
+      "deadline": "2026-11-22T23:59:00-05:00",
+      "deadlineLabel": "截止 2026.11.22 23:59 EST",
+      "deadlineTimezone": "America/Toronto",
+      "deadlinePrecision": "time",
+      "organizer": "City of St. Catharines",
+      "eligibility": "居住於安大略省或與聖凱瑟琳斯有深厚連結的專業視覺／壁畫藝術家或藝術家主導團隊；須具公共藝術、壁畫或大型作品經驗",
+      "budget": "CAD$50,000（含 HST 與全部專案成本）；入圍者提案酬金 CAD$1,500",
+      "applicationFee": "未公開",
+      "relatedByCity": []
+    },
+    {
+      "category": "公開徵件",
+      "status": "官方來源",
+      "updated": "2026-10-13",
+      "id": "competition-2026-10-13-05",
+      "dedupeKey": "opportunity-2026-10-13-winston-salem-dream-center-mural",
+      "name": "05｜City of Winston-Salem｜Dream Center Mural Project",
+      "tier": "競圖資料庫",
+      "region": "跨文化",
+      "country": "美國 / Winston-Salem, North Carolina",
+      "cityKeywords": [
+        "Winston-Salem",
+        "Winston Salem",
+        "溫斯頓-撒冷"
+      ],
+      "media": [
+        "壁畫",
+        "社區藝術",
+        "公共藝術"
+      ],
+      "works": "Dream Center 外牆壁畫｜US$60,000｜截止 2026.11.13 23:59 EST",
+      "comment": "開放年滿 18 歲、可合法在美國工作的專業藝術家、壁畫家或團隊，須具相近規模公共藝術經驗；三組入圍者各獲 US$1,000。",
+      "website": "https://www.cityofws.org/3602/Public-Art-Opportunities",
+      "workPage": "https://www.cityofws.org/3602/Public-Art-Opportunities",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofws.org/3602/Public-Art-Opportunities",
+      "artistStatement": "委託以大型壁畫強化 Dream Center 的社區可見性，內容需結合人物、地方敘事與機構使命，並能承受戶外環境。",
+      "artistStatementSource": "https://www.cityofws.org/3602/Public-Art-Opportunities",
+      "classicTitle": "Dream Center Mural Project",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.cityofws.org/3602/Public-Art-Opportunities",
+      "classicDesc": "委託以大型壁畫強化 Dream Center 的社區可見性，內容需結合人物、地方敘事與機構使命，並能承受戶外環境。",
+      "deadline": "2026-11-13T23:59:00-05:00",
+      "deadlineLabel": "截止 2026.11.13 23:59 EST",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "time",
+      "organizer": "City of Winston-Salem",
+      "eligibility": "年滿 18 歲、可合法在美國工作的專業藝術家、壁畫家或藝術家團隊；須具相近預算與規模之公共藝術經驗",
+      "budget": "US$60,000 全包；三組入圍者各獲 US$1,000",
       "applicationFee": "未公開",
       "relatedByCity": []
     }
