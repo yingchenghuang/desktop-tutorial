@@ -1,16 +1,16 @@
 {
-  "version": "2026-10-13-competition-r71",
-  "generatedAt": "2026-10-13T05:15:00+08:00",
+  "version": "2026-10-14-competition-r72",
+  "generatedAt": "2026-10-14T05:20:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 126,
+  "activeEntries": 123,
   "addedToday": 5,
-  "expiredRemoved": 1,
+  "expiredRemoved": 8,
   "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 126,
-  "deadlinePrecisionEntries": 126,
-  "cityKeywordEntries": 126,
-  "note": "2026-10-13 新增 5 則有效徵件，保留 121 則既有未截止項目，僅移除 1 則已逾期案件；重建競圖至公共藝術同城關聯。",
-  "germanAddedToday": 1
+  "deadlineTimezoneEntries": 123,
+  "deadlinePrecisionEntries": 123,
+  "cityKeywordEntries": 123,
+  "note": "保留 118 則既有未截止項目，新增 5 則；依實際截止瞬間移除 8 則，所有有效 deadline 皆含時區偏移。",
+  "germanAddedToday": 0
 }

@@ -1,0 +1,669 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-14T05:20:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-14",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Public Art Fund、KÖR Wien 第一方作品頁",
+    "selectionPolicy": "當期、持續開放或已實現的空間裝置、永久 Kunst am Bau、場域介入、建築整合、公共行動與觀念性作品；排除傳統城市人物紀念雕塑，競圖與補助完全分流。",
+    "note": "10/14 固定 10＋5＋5；20 則皆為作品資料，未混入競圖、補助或獎項，傳統人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-14T05:20:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-14T05:20:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-01",
+      "dedupeKey": "art-2026-10-14-current-karl-josef-dierkes-lichtwand",
+      "name": "01｜Karl Josef Dierkes｜Lichtwand",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "青銅",
+        "空間雕塑"
+      ],
+      "works": "Lichtwand｜1974",
+      "comment": "中央內院的巨型青銅壁體以雙凹中軸與離地翼形削弱重量感，讓光線把封閉量體轉成向周遭展開的空間雕塑。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwand",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwand",
+      "artistStatement": "Dierkes 將作品精確對準建築軸線；粗糙有機表皮與幾何邊界形成張力，使雕塑成為理性行政建築中的光與空間反題。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwand",
+      "classicTitle": "Lichtwand｜1974",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lichtwand",
+      "classicDesc": "中央內院的巨型青銅壁體以雙凹中軸與離地翼形削弱重量感，讓光線把封閉量體轉成向周遭展開的空間雕塑。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-02",
+      "dedupeKey": "art-2026-10-14-current-fritz-koenig-gro-es-kugelrelief-ii",
+      "name": "02｜Fritz Koenig｜Großes Kugelrelief II",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋁浮雕",
+        "建築整合"
+      ],
+      "works": "Großes Kugelrelief II｜1970",
+      "comment": "鋁製層疊水平面在球體處聚焦，並把雙扇門的垂直分線向上延伸；深浮雕把建築格網轉化為帶有推進感的空間節點。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosses-kugelrelief-ii",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosses-kugelrelief-ii",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosses-kugelrelief-ii",
+      "artistStatement": "Koenig 以球與線的抽象語彙，把會議空間的門楣由裝飾面提升為能向室內傳遞動勢的建築構件。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosses-kugelrelief-ii",
+      "classicTitle": "Großes Kugelrelief II｜1970",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosses-kugelrelief-ii",
+      "classicDesc": "鋁製層疊水平面在球體處聚焦，並把雙扇門的垂直分線向上延伸；深浮雕把建築格網轉化為帶有推進感的空間節點。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-03",
+      "dedupeKey": "art-2026-10-14-current-hubert-kiecol-stelen-allee-mit-hecken-und-ba-nken",
+      "name": "03｜Hubert Kiecol｜Stelen / Allee mit Hecken und Bänken",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "白色混凝土",
+        "屋頂地景"
+      ],
+      "works": "Stelen / Allee mit Hecken und Bänken｜2001",
+      "comment": "白色混凝土柱、長椅與植栽槽以規律節奏介入外交部屋頂；簡約構件在城市天際線前標定一個無屋頂的想像空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stelen-allee-mit-hecken-und-banken",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stelen-allee-mit-hecken-und-banken",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stelen-allee-mit-hecken-und-banken",
+      "artistStatement": "Kiecol 讓看似功能性的建築元素脫離實用目的，以尺度、間距與純白材質重新組織屋頂露台的行走和視線。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stelen-allee-mit-hecken-und-banken",
+      "classicTitle": "Stelen / Allee mit Hecken und Bänken｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/stelen-allee-mit-hecken-und-banken",
+      "classicDesc": "白色混凝土柱、長椅與植栽槽以規律節奏介入外交部屋頂；簡約構件在城市天際線前標定一個無屋頂的想像空間。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-04",
+      "dedupeKey": "art-2026-10-14-current-bernd-krimmel-o-t-mosaik",
+      "name": "04｜Bernd Krimmel｜o. T. (Mosaik)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Darmstadt",
+      "cityKeywords": [
+        "Darmstadt",
+        "達姆施塔特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "馬賽克",
+        "玻璃與天然石"
+      ],
+      "works": "o. T. (Mosaik)｜1956",
+      "comment": "長達二十公尺的天然石與彩色玻璃馬賽克完整嵌入高樓入口大廳，以連續色面把通行空間轉化為橫向展開的建築圖像。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-mosaik-1",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-mosaik-1",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-mosaik-1",
+      "artistStatement": "作品以耐久材料和牆體尺度處理戰後行政建築的公共入口，使圖像、動線與建築表皮形成不可分割的整體。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-mosaik-1",
+      "classicTitle": "o. T. (Mosaik)｜1956",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-mosaik-1",
+      "classicDesc": "長達二十公尺的天然石與彩色玻璃馬賽克完整嵌入高樓入口大廳，以連續色面把通行空間轉化為橫向展開的建築圖像。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-05",
+      "dedupeKey": "art-2026-10-14-current-ulrike-drasdo-o-t-wandbeha-nge",
+      "name": "05｜Ulrike Drasdo｜o. T. (Wandbehänge)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "艾福特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "纖維藝術",
+        "羊毛織物"
+      ],
+      "works": "o. T. (Wandbehänge)｜1999",
+      "comment": "兩件大型平織羊毛壁掛以柔性表面回應聯邦勞動法院會議室，在硬質司法建築中引入吸音、觸覺與色彩節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbehange",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbehange",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbehange",
+      "artistStatement": "Drasdo 將編織視為建築尺度的空間媒介；纖維不只是掛飾，而是調節聲學、尺度與會議氛圍的構成。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbehange",
+      "classicTitle": "o. T. (Wandbehänge)｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbehange",
+      "classicDesc": "兩件大型平織羊毛壁掛以柔性表面回應聯邦勞動法院會議室，在硬質司法建築中引入吸音、觸覺與色彩節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-06",
+      "dedupeKey": "art-2026-10-14-current-system-design-o-t-wandgestaltung-und-leitsystem",
+      "name": "06｜System Design｜o. T. (Wandgestaltung und Leitsystem)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "導視系統",
+        "環境設計"
+      ],
+      "works": "o. T. (Wandgestaltung und Leitsystem)｜1972",
+      "comment": "黃、橙單色牆板、家具與外牆構成跨越室內外的整體導視，以光和色彩把行政培訓建築組織成可辨識的環境系統。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-und-leitsystem",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-und-leitsystem",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-und-leitsystem",
+      "artistStatement": "System Design 把視覺傳達、家具和建築共同設計，主張導向資訊與感知環境可以由同一套色彩秩序生成。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-und-leitsystem",
+      "classicTitle": "o. T. (Wandgestaltung und Leitsystem)｜1972",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-und-leitsystem",
+      "classicDesc": "黃、橙單色牆板、家具與外牆構成跨越室內外的整體導視，以光和色彩把行政培訓建築組織成可辨識的環境系統。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-07",
+      "dedupeKey": "art-2026-10-14-current-peter-nagel-auf-der-bru-cke",
+      "name": "07｜Peter Nagel｜Auf der Brücke",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Kiel",
+      "cityKeywords": [
+        "Kiel",
+        "基爾"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "油彩壁畫",
+        "場域轉置"
+      ],
+      "works": "Auf der Brücke｜1982／2016 遷置／2023 再遷置",
+      "comment": "原為邊境公路休息站量身繪製的十公尺長壁畫，以橋欄連接畫面與座椅高度；作品歷經兩次轉置，現於基爾職業學校餐廳公開可見。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-der-brucke",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-der-brucke",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-der-brucke",
+      "artistStatement": "Nagel 以錯視橋面讓觀看者同時成為畫中被觀看的人；遷移歷史又使作品成為德國邊界變遷與場域保存的見證。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-der-brucke",
+      "classicTitle": "Auf der Brücke｜1982／2016 遷置／2023 再遷置",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-der-brucke",
+      "classicDesc": "原為邊境公路休息站量身繪製的十公尺長壁畫，以橋欄連接畫面與座椅高度；作品歷經兩次轉置，現於基爾職業學校餐廳公開可見。",
+      "relatedByCity": [
+        "call-kronshagen-bundeswehr-kunst-am-bau-2026"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-08",
+      "dedupeKey": "art-2026-10-14-current-james-fraser-carpenter-o-t-glasfassade",
+      "name": "08｜James Fraser Carpenter｜o. T. (Glasfassade)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "二向色玻璃",
+        "光環境"
+      ],
+      "works": "o. T. (Glasfassade)｜1999",
+      "comment": "外交部中庭立面以二向色玻璃與金屬反射器導入南向日光；顏色隨天候、時間與觀看角度變動，夜間再向城市發光。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasfassade",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasfassade",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasfassade",
+      "artistStatement": "Carpenter 將玻璃幕牆設計成可變的光學膜，讓藝術、結構和環境工程共同表述外交建築的透明與開放。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasfassade",
+      "classicTitle": "o. T. (Glasfassade)｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-glasfassade",
+      "classicDesc": "外交部中庭立面以二向色玻璃與金屬反射器導入南向日光；顏色隨天候、時間與觀看角度變動，夜間再向城市發光。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-09",
+      "dedupeKey": "art-2026-10-14-current-ansgar-nierhoff-streckungen-na-he-und-ferne-raum-erfahren",
+      "name": "09｜Ansgar Nierhoff｜Streckungen (Nähe und Ferne, Raum erfahren)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鍛造鋼",
+        "地景介入"
+      ],
+      "works": "Streckungen (Nähe und Ferne, Raum erfahren)｜1986",
+      "comment": "兩組各四座鍛鋼塊以不同間距標出緊密與開闊的中心；觀者在湖泊、樹木與行政建築之間移動，才讀出完整軸線。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/streckungen-nahe-und-ferne-raum-erfahren",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/streckungen-nahe-und-ferne-raum-erfahren",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/streckungen-nahe-und-ferne-raum-erfahren",
+      "artistStatement": "Nierhoff 以重量、距離和站位讓雕塑成為測量環境的裝置；植栽多年生長後，作品與自然的權力關係也持續改變。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/streckungen-nahe-und-ferne-raum-erfahren",
+      "classicTitle": "Streckungen (Nähe und Ferne, Raum erfahren)｜1986",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/streckungen-nahe-und-ferne-raum-erfahren",
+      "classicDesc": "兩組各四座鍛鋼塊以不同間距標出緊密與開闊的中心；觀者在湖泊、樹木與行政建築之間移動，才讀出完整軸線。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "current-2026-10-14-10",
+      "dedupeKey": "art-2026-10-14-current-bernd-damke-ku-nstlerische-wandgestaltung",
+      "name": "10｜Bernd Damke｜Künstlerische Wandgestaltung",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Hürth",
+      "cityKeywords": [
+        "Hürth",
+        "許爾特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "色彩環境",
+        "木板壁面"
+      ],
+      "works": "Künstlerische Wandgestaltung｜1972",
+      "comment": "近二十公尺長的黃、紅、橙木板序列覆滿餐廳牆面，以 System Design 的色彩研究調節情緒並與家具共同形成環境。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kunstlerische-wandgestaltung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kunstlerische-wandgestaltung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kunstlerische-wandgestaltung",
+      "artistStatement": "Damke 把色彩知覺研究轉成建築尺度的視覺系統，讓單色模組不再是附加裝飾，而是日常使用空間的心理基礎設施。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kunstlerische-wandgestaltung",
+      "classicTitle": "Künstlerische Wandgestaltung｜1972",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kunstlerische-wandgestaltung",
+      "classicDesc": "近二十公尺長的黃、紅、橙木板序列覆滿餐廳牆面，以 System Design 的色彩研究調節情緒並與家具共同形成環境。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "global-2026-10-14-11",
+      "dedupeKey": "art-2026-10-14-global-sol-lewitt-3-x-3-x-1",
+      "name": "11｜Sol LeWitt｜3 x 3 x 1",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "概念藝術",
+        "極簡雕塑",
+        "幾何結構"
+      ],
+      "works": "3 x 3 x 1｜1987",
+      "comment": "大型開放立方體以三乘三單元執行增減一格的數值操作；簡單規則同時改變量體、空隙和觀者穿越視線。",
+      "website": "https://www.publicartfund.org/exhibitions/view/3-x-3-x-1/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/3-x-3-x-1/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/3-x-3-x-1/",
+      "artistStatement": "LeWitt 將作品的核心放在可被描述的生成規則，使公共雕塑從單一造型轉為概念、模組與空間關係的可視化。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/3-x-3-x-1/",
+      "classicTitle": "3 x 3 x 1｜1987",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/3-x-3-x-1/",
+      "classicDesc": "大型開放立方體以三乘三單元執行增減一格的數值操作；簡單規則同時改變量體、空隙和觀者穿越視線。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "global-2026-10-14-12",
+      "dedupeKey": "art-2026-10-14-global-liz-larner-2001",
+      "name": "12｜Liz Larner｜2001",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "公共雕塑",
+        "電腦建模",
+        "虹彩塗層"
+      ],
+      "works": "2001｜2006–2007 展出",
+      "comment": "十二呎尺度的工業材料量體疊合球體到立方體的六個變形階段，綠紫虹彩表面隨角度與光線持續改變。",
+      "website": "https://www.publicartfund.org/exhibitions/view/2001-2/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/2001-2/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2001-2/",
+      "artistStatement": "Larner 以電腦動畫建立形體，把現代雕塑的球與方體壓縮到同一中心；靜止物件因此呈現同時發生的變形。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/2001-2/",
+      "classicTitle": "2001｜2006–2007 展出",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/2001-2/",
+      "classicDesc": "十二呎尺度的工業材料量體疊合球體到立方體的六個變形階段，綠紫虹彩表面隨角度與光線持續改變。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "global-2026-10-14-13",
+      "dedupeKey": "art-2026-10-14-global-liz-craft-the-spare",
+      "name": "13｜Liz Craft｜The Spare",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "公共雕塑",
+        "青銅",
+        "場域反差"
+      ],
+      "works": "The Spare｜2004",
+      "comment": "三組仙人掌從廢輪胎長出的青銅雕塑被移植到中央公園，以沙漠廢墟意象對照人工營造的翠綠景觀。",
+      "website": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-spare/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-spare/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-spare/",
+      "artistStatement": "Craft 把日常廢棄物和植物鑄成兼具流行文化與不安感的異物，藉錯置挑戰公共空間裡高藝術與低文化的界線。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-spare/",
+      "classicTitle": "The Spare｜2004",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-spare/",
+      "classicDesc": "三組仙人掌從廢輪胎長出的青銅雕塑被移植到中央公園，以沙漠廢墟意象對照人工營造的翠綠景觀。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "global-2026-10-14-14",
+      "dedupeKey": "art-2026-10-14-global-olav-westphalen-the-weight-of-dead-prey",
+      "name": "14｜Olav Westphalen｜The Weight of Dead Prey",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "場域特定",
+        "公共雕塑",
+        "制度批判"
+      ],
+      "works": "The Weight of Dead Prey｜2004",
+      "comment": "等身猛虎與模擬動物玩具被置於中央公園動物園入口附近，讓觀眾直面人類馴服野性、又浪漫化自然的矛盾。",
+      "website": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-weight-of-dead-prey/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-weight-of-dead-prey/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-weight-of-dead-prey/",
+      "artistStatement": "Westphalen 以漫畫式幽默把新聞中的圈養猛獸轉為場域批評；圍欄、玩具與動物共同構成對觀看制度的反問。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-weight-of-dead-prey/",
+      "classicTitle": "The Weight of Dead Prey｜2004",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-the-weight-of-dead-prey/",
+      "classicDesc": "等身猛虎與模擬動物玩具被置於中央公園動物園入口附近，讓觀眾直面人類馴服野性、又浪漫化自然的矛盾。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "global-2026-10-14-15",
+      "dedupeKey": "art-2026-10-14-global-jackie-ferrara-love-seat",
+      "name": "15｜Jackie Ferrara｜Love Seat",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "功能性公共藝術",
+        "雪松木",
+        "城市家具"
+      ],
+      "works": "Love Seat｜1986",
+      "comment": "雪松木二乘四構件與黑色條紋組成可實際入座的長椅，作品面向市長辦公室，把政治中心轉成共享休息場。",
+      "website": "https://www.publicartfund.org/exhibitions/view/love-seat/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/love-seat/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/love-seat/",
+      "artistStatement": "Ferrara 以家具尺度和幽默語意鬆動市政廣場的權威感，主張使用、停留與社交本身就是公共藝術的形式。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/love-seat/",
+      "classicTitle": "Love Seat｜1986",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/love-seat/",
+      "classicDesc": "雪松木二乘四構件與黑色條紋組成可實際入座的長椅，作品面向市長辦公室，把政治中心轉成共享休息場。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "german-2026-10-14-16",
+      "dedupeKey": "art-2026-10-14-german-valie-export-peter-weibel-tapp-und-tastkino",
+      "name": "16｜VALIE EXPORT／Peter Weibel｜Tapp- und Tastkino",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共行動",
+        "身體藝術",
+        "參與式藝術"
+      ],
+      "works": "Tapp- und Tastkino｜1968",
+      "comment": "藝術家把紙箱綁在胸前作為微型電影院，邀請路人伸手進入；「看電影」被改寫為受時間限制、需承擔倫理關係的觸覺事件。",
+      "website": "https://www.koer.or.at/projekte/tapp-und-tastkino/",
+      "workPage": "https://www.koer.or.at/projekte/tapp-und-tastkino/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/tapp-und-tastkino/",
+      "artistStatement": "作品把銀幕、女性身體與觀眾權力直接搬上街頭，以參與機制揭露影像消費中的凝視與身體政治。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/tapp-und-tastkino/",
+      "classicTitle": "Tapp- und Tastkino｜1968",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/tapp-und-tastkino/",
+      "classicDesc": "藝術家把紙箱綁在胸前作為微型電影院，邀請路人伸手進入；「看電影」被改寫為受時間限制、需承擔倫理關係的觸覺事件。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "german-2026-10-14-17",
+      "dedupeKey": "art-2026-10-14-german-gu-nter-brus-otto-muehl-malte-olschewski-peter-weibel-oswald-wiener-kunst-und-revolution",
+      "name": "17｜Günter Brus／Otto Muehl／Malte Olschewski／Peter Weibel／Oswald Wiener｜Kunst und Revolution",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共行動",
+        "維也納行動主義",
+        "制度批判"
+      ],
+      "works": "Kunst und Revolution｜1968",
+      "comment": "1968 年的集體行動在維也納大學講堂以身體、國家象徵與禁忌行為正面衝撞校園和國家制度，並引發逮捕與審判。",
+      "website": "https://www.koer.or.at/projekte/kunst-und-revolution/",
+      "workPage": "https://www.koer.or.at/projekte/kunst-und-revolution/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/kunst-und-revolution/",
+      "artistStatement": "作品把公共性推向法律、道德與言論自由的邊界；其歷史意義不在可收藏物件，而在行動如何迫使社會界定藝術的限度。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/kunst-und-revolution/",
+      "classicTitle": "Kunst und Revolution｜1968",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/kunst-und-revolution/",
+      "classicDesc": "1968 年的集體行動在維也納大學講堂以身體、國家象徵與禁忌行為正面衝撞校園和國家制度，並引發逮捕與審判。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "german-2026-10-14-18",
+      "dedupeKey": "art-2026-10-14-german-thomas-baumga-rtel-spraybanane",
+      "name": "18｜Thomas Baumgärtel｜Spraybanane",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "街頭藝術",
+        "模板噴畫",
+        "城市標記"
+      ],
+      "works": "Spraybanane｜1992 起",
+      "comment": "黃色香蕉模板自 1992 年起出現在維也納多處藝術場館，從曾被視為毀損的塗記，逐步轉化為非官方的藝術場所認證。",
+      "website": "https://www.koer.or.at/projekte/spraybanane/",
+      "workPage": "https://www.koer.or.at/projekte/spraybanane/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/spraybanane/",
+      "artistStatement": "Baumgärtel 以可複製符號建立跨城市的另類地圖；標記既質疑誰有權命名藝術空間，也讓街道成為流通媒介。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/spraybanane/",
+      "classicTitle": "Spraybanane｜1992 起",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/spraybanane/",
+      "classicDesc": "黃色香蕉模板自 1992 年起出現在維也納多處藝術場館，從曾被視為毀損的塗記，逐步轉化為非官方的藝術場所認證。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "german-2026-10-14-19",
+      "dedupeKey": "art-2026-10-14-german-peter-fend-topographie-ii-untergrund",
+      "name": "19｜Peter Fend 等十位藝術家｜Topographie II／Untergrund",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "錄像裝置",
+        "地鐵藝術",
+        "城市媒體"
+      ],
+      "works": "Topographie II／Untergrund｜1991",
+      "comment": "十位藝術家的錄像裝置進入維也納地鐵，把地下交通網絡變成分散式影像展場，日常移動與藝術觀看在通勤途中交疊。",
+      "website": "https://www.koer.or.at/projekte/topographie-ii-untergrund/",
+      "workPage": "https://www.koer.or.at/projekte/topographie-ii-untergrund/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/topographie-ii-untergrund/",
+      "artistStatement": "計畫以城市基礎設施取代白盒子展場，讓媒體藝術直接面對非自願觀眾、速度與公共資訊環境。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/topographie-ii-untergrund/",
+      "classicTitle": "Topographie II／Untergrund｜1991",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/topographie-ii-untergrund/",
+      "classicDesc": "十位藝術家的錄像裝置進入維也納地鐵，把地下交通網絡變成分散式影像展場，日常移動與藝術觀看在通勤途中交疊。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-14",
+      "id": "german-2026-10-14-20",
+      "dedupeKey": "art-2026-10-14-german-adolf-frohner-circa-55-schritte-durch-europa",
+      "name": "20｜Adolf Frohner｜Circa 55 Schritte durch Europa",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "地鐵藝術",
+        "牆面雕塑",
+        "歷史敘事"
+      ],
+      "works": "Circa 55 Schritte durch Europa｜1993 起",
+      "comment": "西站地鐵通道四十公尺長牆面以約五十五步的行程壓縮歐洲從石器時代至二十一世紀的文化與思想變化。",
+      "website": "https://www.koer.or.at/projekte/circa-55-schritte-durch-europa/",
+      "workPage": "https://www.koer.or.at/projekte/circa-55-schritte-durch-europa/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/circa-55-schritte-durch-europa/",
+      "artistStatement": "Frohner 把歷史閱讀嵌入轉乘步伐，使通道不是展示容器，而是由身體速度逐段啟動的時間軸。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/circa-55-schritte-durch-europa/",
+      "classicTitle": "Circa 55 Schritte durch Europa｜1993 起",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/circa-55-schritte-durch-europa/",
+      "classicDesc": "西站地鐵通道四十公尺長牆面以約五十五步的行程壓縮歐洲從石器時代至二十一世紀的文化與思想變化。",
+      "relatedByCity": []
+    }
+  ]
+}
