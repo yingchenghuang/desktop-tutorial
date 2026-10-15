@@ -1,0 +1,687 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-16T05:40:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-16",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Public Art Fund 第一方作品頁",
+    "selectionPolicy": "當期、持續開放或已實現的空間裝置、Kunst am Bau、場域介入、地景與觀念性作品；排除傳統城市人物紀念雕塑，競圖與獎助完全分流。",
+    "note": "10/16 固定 10＋5＋5；20 則皆為作品資料，未混入競圖、補助或獎項，傳統人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-16T05:40:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-16T05:40:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-01",
+      "dedupeKey": "art-2026-10-16-current-peter-tutzauer-briefe",
+      "name": "01｜Peter Tutzauer｜Briefe",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鏡面",
+        "花崗岩",
+        "建築整合"
+      ],
+      "works": "Briefe｜1988",
+      "comment": "鏡面、花崗岩與彩色板材把郵政部大樓樓層門廳重構為由反射、折線與通道交織的空間；信封幾何不只作圖像，也延伸既有走廊方向。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/briefe",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/briefe",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/briefe",
+      "artistStatement": "Tutzauer 以「信件」回應建築原用途，透過虛擬鏡像與實體石牆的對照，使部門歷史、材料和人的移動成為同一件空間作品。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/briefe",
+      "classicTitle": "Briefe｜1988",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/briefe",
+      "classicDesc": "鏡面、花崗岩與彩色板材把郵政部大樓樓層門廳重構為由反射、折線與通道交織的空間；信封幾何不只作圖像，也延伸既有走廊方向。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-02",
+      "dedupeKey": "art-2026-10-16-current-walter-ibscher-das-gro-e-rad",
+      "name": "02｜Walter Ibscher｜Das große Rad",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Nürnberg",
+      "cityKeywords": [
+        "Nuremberg",
+        "Nürnberg",
+        "紐倫堡"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "金屬雕塑",
+        "場域特定"
+      ],
+      "works": "Das große Rad｜2003",
+      "comment": "大型輪形結構以開放幾何立於聯邦就業署場域，圓周、軸線與中空部位在步行視角中交替重組，成為連接建築與公共動線的方向標。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-grosse-rad",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-grosse-rad",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-grosse-rad",
+      "artistStatement": "Ibscher 將輪子的運動潛能凝結成靜態結構；作品不描繪人物，而以尺度、穿透與循環意象回應制度空間中的流動。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-grosse-rad",
+      "classicTitle": "Das große Rad｜2003",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/das-grosse-rad",
+      "classicDesc": "大型輪形結構以開放幾何立於聯邦就業署場域，圓周、軸線與中空部位在步行視角中交替重組，成為連接建築與公共動線的方向標。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-03",
+      "dedupeKey": "art-2026-10-16-current-caroline-krause-deutsche-architektur",
+      "name": "03｜Caroline Krause｜Deutsche Architektur",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "攝影裝置",
+        "建築檔案"
+      ],
+      "works": "Deutsche Architektur｜2000",
+      "comment": "作品把德國建築的影像與分類帶入聯邦建築，使建築不只是容納藝術的背景，也成為被觀看、編輯與比較的內容。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/deutsche-architektur",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/deutsche-architektur",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/deutsche-architektur",
+      "artistStatement": "Krause 以檔案式影像檢視國家如何透過建築表述自己；並置方法拒絕單一典範，讓歷史差異在公共機構內保持可見。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/deutsche-architektur",
+      "classicTitle": "Deutsche Architektur｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/deutsche-architektur",
+      "classicDesc": "作品把德國建築的影像與分類帶入聯邦建築，使建築不只是容納藝術的背景，也成為被觀看、編輯與比較的內容。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-04",
+      "dedupeKey": "art-2026-10-16-current-ansgar-nierhoff-die-bastion",
+      "name": "04｜Ansgar Nierhoff｜Die Bastion",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋼雕塑",
+        "建築外部介入"
+      ],
+      "works": "Die Bastion｜1981",
+      "comment": "厚重鋼構以堡壘般的封閉感切入開放場地，銳利邊界、縫隙與周圍通行形成拉扯，使防禦性結構轉為可繞行的公共感知。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-bastion",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-bastion",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-bastion",
+      "artistStatement": "Nierhoff 以工業鋼材測試重量、切割與空間阻力；作品的公共性來自觀者如何在障礙、入口與距離之間重新選擇路徑。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-bastion",
+      "classicTitle": "Die Bastion｜1981",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-bastion",
+      "classicDesc": "厚重鋼構以堡壘般的封閉感切入開放場地，銳利邊界、縫隙與周圍通行形成拉扯，使防禦性結構轉為可繞行的公共感知。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-05",
+      "dedupeKey": "art-2026-10-16-current-karl-hillert-die-geschichte-der-mathematik",
+      "name": "05｜Karl Hillert｜Die Geschichte der Mathematik",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "牆面藝術",
+        "數學圖像"
+      ],
+      "works": "Die Geschichte der Mathematik｜1970",
+      "comment": "數學史的符號與結構被轉化為建築尺度的牆面序列，抽象知識不再只停留於文字，而在日常通行中以比例、節奏和圖形展開。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-geschichte-der-mathematik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-geschichte-der-mathematik",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-geschichte-der-mathematik",
+      "artistStatement": "Hillert 將科學史視為可被空間閱讀的文化材料；作品以視覺秩序連結公共建築、教育與集體知識。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-geschichte-der-mathematik",
+      "classicTitle": "Die Geschichte der Mathematik｜1970",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/die-geschichte-der-mathematik",
+      "classicDesc": "數學史的符號與結構被轉化為建築尺度的牆面序列，抽象知識不再只停留於文字，而在日常通行中以比例、節奏和圖形展開。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-06",
+      "dedupeKey": "art-2026-10-16-current-heinz-gu-nter-prager-doppelkreuz-14-89",
+      "name": "06｜Heinz-Günter Prager｜Doppelkreuz 14/89",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋼構雕塑",
+        "幾何介入"
+      ],
+      "works": "Doppelkreuz 14/89｜1992",
+      "comment": "交錯鋼構以雙十字建立多重軸線，量體在不同方向呈現開放或封閉，迫使觀看者透過移動辨認作品與建築之間的尺度關係。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelkreuz-14-89",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelkreuz-14-89",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelkreuz-14-89",
+      "artistStatement": "Prager 將雕塑濃縮為結構、重量與方位；編號式標題降低敘事指引，使場所與身體成為理解作品的主要依據。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelkreuz-14-89",
+      "classicTitle": "Doppelkreuz 14/89｜1992",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/doppelkreuz-14-89",
+      "classicDesc": "交錯鋼構以雙十字建立多重軸線，量體在不同方向呈現開放或封閉，迫使觀看者透過移動辨認作品與建築之間的尺度關係。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-07",
+      "dedupeKey": "art-2026-10-16-current-georg-meistermann-ehrenchronik-demokratischen-verhaltens",
+      "name": "07｜Georg Meistermann｜Ehrenchronik demokratischen Verhaltens",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "玻璃與牆面藝術",
+        "民主記憶"
+      ],
+      "works": "Ehrenchronik demokratischen Verhaltens｜1970",
+      "comment": "作品以非英雄式的視覺編排紀錄民主行為，把榮譽從單一人物紀念轉向制度倫理與公民實踐，並整合於公共建築表面。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ehrenchronik-demokratischen-verhaltens",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ehrenchronik-demokratischen-verhaltens",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ehrenchronik-demokratischen-verhaltens",
+      "artistStatement": "Meistermann 用抽象圖像承載政治記憶，拒絕傳統紀念像的個人崇拜，讓民主被理解為持續發生的共同責任。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ehrenchronik-demokratischen-verhaltens",
+      "classicTitle": "Ehrenchronik demokratischen Verhaltens｜1970",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/ehrenchronik-demokratischen-verhaltens",
+      "classicDesc": "作品以非英雄式的視覺編排紀錄民主行為，把榮譽從單一人物紀念轉向制度倫理與公民實踐，並整合於公共建築表面。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-08",
+      "dedupeKey": "art-2026-10-16-current-chili-martina-seitz-funken",
+      "name": "08｜Chili Martina Seitz｜Funken",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "玻璃纖維強化塑料",
+        "色彩裝置"
+      ],
+      "works": "Funken｜2012",
+      "comment": "三座約六公尺高的彩色構件立於 Berlin-Adlershof 校園，其輪廓源自金屬火花試驗的光跡；鮮明色彩把瞬間能量放大為長久地標。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funken",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funken",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funken",
+      "artistStatement": "Seitz 將科學測試中的短暫火花轉譯為可步行環繞的立體形態，使材料研究、校園辨識與日常公共生活交會。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funken",
+      "classicTitle": "Funken｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funken",
+      "classicDesc": "三座約六公尺高的彩色構件立於 Berlin-Adlershof 校園，其輪廓源自金屬火花試驗的光跡；鮮明色彩把瞬間能量放大為長久地標。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-09",
+      "dedupeKey": "art-2026-10-16-current-friederike-tebbe-anette-haas-gema-ldegalerie-bnd",
+      "name": "09｜Friederike Tebbe／Anette Haas｜Gemäldegalerie BND",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "繪畫裝置",
+        "制度空間"
+      ],
+      "works": "Gemäldegalerie BND｜2015",
+      "comment": "繪畫序列進入聯邦情報局建築，透過並列與尺度建立一座制度內部的「畫廊」，使圖像觀看與高度管制的工作環境產生張力。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gemaldegalerie-bnd",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gemaldegalerie-bnd",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gemaldegalerie-bnd",
+      "artistStatement": "兩位藝術家以繪畫的公開觀看傳統碰觸封閉機構，讓色彩、表面與展示秩序反問可見性如何在制度中被安排。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gemaldegalerie-bnd",
+      "classicTitle": "Gemäldegalerie BND｜2015",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/gemaldegalerie-bnd",
+      "classicDesc": "繪畫序列進入聯邦情報局建築，透過並列與尺度建立一座制度內部的「畫廊」，使圖像觀看與高度管制的工作環境產生張力。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "current-2026-10-16-10",
+      "dedupeKey": "art-2026-10-16-current-fritz-koenig-gro-e-flora",
+      "name": "10｜Fritz Koenig｜Große Flora",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "青銅雕塑",
+        "外交建築"
+      ],
+      "works": "Große Flora｜1978",
+      "comment": "抽象植物形態以大型青銅量體立於倫敦外交建築場域，枝幹般結構向上展開，將自然生長轉為建築前可繞行的垂直節奏。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-flora",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-flora",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-flora",
+      "artistStatement": "Koenig 不複製花卉外觀，而以節點、伸展與重力提煉「生長」；作品藉有機結構緩和現代建築的幾何秩序。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-flora",
+      "classicTitle": "Große Flora｜1978",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-flora",
+      "classicDesc": "抽象植物形態以大型青銅量體立於倫敦外交建築場域，枝幹般結構向上展開，將自然生長轉為建築前可繞行的垂直節奏。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "global-2026-10-16-11",
+      "dedupeKey": "art-2026-10-16-global-julie-farris-sarah-wayland-smith-a-clearing-in-the-streets",
+      "name": "11｜Julie Farris／Sarah Wayland-Smith｜A Clearing in the Streets",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "暫時性地景",
+        "都市農業",
+        "參與式公共藝術"
+      ],
+      "works": "A Clearing in the Streets｜2009",
+      "comment": "Collect Pond Park 內的圓形田地種植玉米、南瓜與豆類，把曼哈頓街區短暫轉成可聚集、照料和辨認季節的公共空地。",
+      "website": "https://www.publicartfund.org/exhibitions/view/a-clearing-in-the-streets/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/a-clearing-in-the-streets/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/a-clearing-in-the-streets/",
+      "artistStatement": "兩位創作者以「三姐妹」共生種植法回應城市土地史，讓生長、維護與共享收成取代永久紀念物，公共性由時間與照護生成。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/a-clearing-in-the-streets/",
+      "classicTitle": "A Clearing in the Streets｜2009",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/a-clearing-in-the-streets/",
+      "classicDesc": "Collect Pond Park 內的圓形田地種植玉米、南瓜與豆類，把曼哈頓街區短暫轉成可聚集、照料和辨認季節的公共空地。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "global-2026-10-16-12",
+      "dedupeKey": "art-2026-10-16-global-pierre-huyghe-a-journey-that-wasn-t",
+      "name": "12｜Pierre Huyghe｜A Journey That Wasn’t",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "公共表演",
+        "冰上裝置",
+        "光與聲"
+      ],
+      "works": "A Journey That Wasn’t｜2005",
+      "comment": "Wollman Rink 被轉為帶有冰、光、音樂與群眾的臨時舞台；真實探險、虛構敘事與現場演出互相滲透，觀眾也成為事件的一部分。",
+      "website": "https://www.publicartfund.org/exhibitions/view/a-journey-that-wasnt/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/a-journey-that-wasnt/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/a-journey-that-wasnt/",
+      "artistStatement": "Huyghe 讓公共作品以製作過程與共同見證存在，質疑紀錄、表演和現實的界線，而不是提供一件可被固定收藏的物件。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/a-journey-that-wasnt/",
+      "classicTitle": "A Journey That Wasn’t｜2005",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/a-journey-that-wasnt/",
+      "classicDesc": "Wollman Rink 被轉為帶有冰、光、音樂與群眾的臨時舞台；真實探險、虛構敘事與現場演出互相滲透，觀眾也成為事件的一部分。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "global-2026-10-16-13",
+      "dedupeKey": "art-2026-10-16-global-biff-elrod-ascent-descent",
+      "name": "13｜Biff Elrod｜Ascent-Descent",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "交通空間介入",
+        "壁畫",
+        "色彩序列"
+      ],
+      "works": "Ascent-Descent｜1986–1988",
+      "comment": "Christopher Street PATH 車站樓梯沿線的人形與色彩由暗轉明，乘客上下移動時才逐段組成完整序列，通勤路徑因而成為觀看機制。",
+      "website": "https://www.publicartfund.org/exhibitions/view/ascent-descent/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/ascent-descent/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/ascent-descent/",
+      "artistStatement": "Elrod 把垂直交通的方向、疲勞與光線納入作品，讓壁畫不是靜止背景，而是由身體位移啟動的時間性經驗。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/ascent-descent/",
+      "classicTitle": "Ascent-Descent｜1986–1988",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/ascent-descent/",
+      "classicDesc": "Christopher Street PATH 車站樓梯沿線的人形與色彩由暗轉明，乘客上下移動時才逐段組成完整序列，通勤路徑因而成為觀看機制。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "global-2026-10-16-14",
+      "dedupeKey": "art-2026-10-16-global-farah-al-qasimi-back-and-forth-disco",
+      "name": "14｜Farah Al Qasimi｜Back and Forth Disco",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "城市攝影裝置",
+        "公車候車亭",
+        "多點公共藝術"
+      ],
+      "works": "Back and Forth Disco｜2020",
+      "comment": "十七幅影像分布於紐約一百座公車候車亭，家庭、商店與裝飾細節進入廣告版位，使私人生活的色彩與城市等待時間交會。",
+      "website": "https://www.publicartfund.org/exhibitions/view/backandforthdisco/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/backandforthdisco/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/backandforthdisco/",
+      "artistStatement": "Al Qasimi 以跨城市分散展示打破單一展場，將移民日常、消費影像與公共傳播結構並置，讓熟悉的廣告設施承載更複雜的地方身分。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/backandforthdisco/",
+      "classicTitle": "Back and Forth Disco｜2020",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/backandforthdisco/",
+      "classicDesc": "十七幅影像分布於紐約一百座公車候車亭，家庭、商店與裝飾細節進入廣告版位，使私人生活的色彩與城市等待時間交會。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "global-2026-10-16-15",
+      "dedupeKey": "art-2026-10-16-global-eric-arctander-big-apple-boogie-woogie",
+      "name": "15｜Eric Arctander｜Big Apple Boogie Woogie",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "街道介入",
+        "彩色膠帶",
+        "行進式公共藝術"
+      ],
+      "works": "Big Apple Boogie Woogie｜1983",
+      "comment": "彩色格線沿 Madison Avenue 路面展開，引用 Mondrian 的城市節奏並配合藝術遊行；街道本身成為短暫、可步行的畫面。",
+      "website": "https://www.publicartfund.org/exhibitions/view/big-apple-boogie-woogie/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/big-apple-boogie-woogie/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/big-apple-boogie-woogie/",
+      "artistStatement": "Arctander 將現代繪畫語彙放大到城市尺度，讓交通網格、行進隊伍與觀眾共同完成作品，平面構圖因此轉化為公共事件。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/big-apple-boogie-woogie/",
+      "classicTitle": "Big Apple Boogie Woogie｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/big-apple-boogie-woogie/",
+      "classicDesc": "彩色格線沿 Madison Avenue 路面展開，引用 Mondrian 的城市節奏並配合藝術遊行；街道本身成為短暫、可步行的畫面。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "german-2026-10-16-16",
+      "dedupeKey": "art-2026-10-16-german-fritz-koenig-kugelkopfsa-ule",
+      "name": "16｜Fritz Koenig｜Kugelkopfsäule",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "塞內加爾 / Dakar",
+      "cityKeywords": [
+        "Dakar",
+        "達卡"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "青銅柱體",
+        "外交建築"
+      ],
+      "works": "Kugelkopfsäule｜1981",
+      "comment": "球體與柱體被壓縮成具有頭部聯想的抽象構造，置於達卡外交建築場域；簡潔輪廓在強烈日光下形成清楚陰影與方向性。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kugelkopfsaule",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kugelkopfsaule",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kugelkopfsaule",
+      "artistStatement": "Koenig 以基本幾何保留人體尺度的暗示，卻避開傳統肖像紀念，讓作品成為建築、氣候與跨文化場所之間的抽象節點。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kugelkopfsaule",
+      "classicTitle": "Kugelkopfsäule｜1981",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kugelkopfsaule",
+      "classicDesc": "球體與柱體被壓縮成具有頭部聯想的抽象構造，置於達卡外交建築場域；簡潔輪廓在強烈日光下形成清楚陰影與方向性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "german-2026-10-16-17",
+      "dedupeKey": "art-2026-10-16-german-simon-ungers-paravent",
+      "name": "17｜Simon Ungers｜Paravent",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "美國 / Washington, D.C.",
+      "cityKeywords": [
+        "Washington, D.C.",
+        "Washington DC",
+        "華盛頓特區"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋼構屏風",
+        "空間分隔"
+      ],
+      "works": "Paravent｜1994",
+      "comment": "折展式金屬構架介於牆、屏風與雕塑之間，在華盛頓外交建築內重新分配視線和通行；開口與遮蔽隨角度改變。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravent",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravent",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravent",
+      "artistStatement": "Ungers 把建築元素轉化為自主作品，以最少構件測試界線如何同時分隔和連接空間，使日常路徑成為作品的一部分。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravent",
+      "classicTitle": "Paravent｜1994",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paravent",
+      "classicDesc": "折展式金屬構架介於牆、屏風與雕塑之間，在華盛頓外交建築內重新分配視線和通行；開口與遮蔽隨角度改變。",
+      "relatedByCity": [
+        "opportunity-2026-09-15-sound-scene-sounds-of-the-city",
+        "opportunity-2026-10-16-wmata-art-in-transit-bladensburg-bus-garage-public-art-project"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "german-2026-10-16-18",
+      "dedupeKey": "art-2026-10-16-german-ina-holitzka-simili-trilogie",
+      "name": "18｜Ina Holitzka｜Simili-Trilogie",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Offenbach am Main",
+      "cityKeywords": [
+        "Offenbach am Main",
+        "Offenbach",
+        "奧芬巴赫"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "三聯裝置",
+        "反射材料"
+      ],
+      "works": "Simili-Trilogie｜2008",
+      "comment": "三件相互呼應的表面與形態組成序列，反射、相似與差異在建築空間中被反覆辨認；觀者位置改變時，三件作品之間的關係也隨之移動。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/simili-trilogie",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/simili-trilogie",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/simili-trilogie",
+      "artistStatement": "Holitzka 以「相似但不相同」作為觀看問題，讓重複不只是形式，而成為辨識、記憶與建築節奏之間的心理活動。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/simili-trilogie",
+      "classicTitle": "Simili-Trilogie｜2008",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/simili-trilogie",
+      "classicDesc": "三件相互呼應的表面與形態組成序列，反射、相似與差異在建築空間中被反覆辨認；觀者位置改變時，三件作品之間的關係也隨之移動。",
+      "relatedByCity": [
+        "opportunity-2028-senefelder-award-14"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "german-2026-10-16-19",
+      "dedupeKey": "art-2026-10-16-german-erich-wiesner-toranlage-und-einfriedung",
+      "name": "19｜Erich Wiesner｜Toranlage und Einfriedung",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "泰國 / Bangkok",
+      "cityKeywords": [
+        "Bangkok",
+        "曼谷"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "入口設計",
+        "圍界系統"
+      ],
+      "works": "Toranlage und Einfriedung｜1973",
+      "comment": "入口與圍界被整體設計為色彩、節奏與穿越共同作用的建築藝術；作品不附著於基地，而直接構成公共與外交領域交界。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/toranlage-und-einfriedung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/toranlage-und-einfriedung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/toranlage-und-einfriedung",
+      "artistStatement": "Wiesner 把安全邊界轉化為可被閱讀的空間序列，使門、欄杆和步行速度共同塑造到達經驗，展現 Kunst am Bau 對基礎設施的整合。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/toranlage-und-einfriedung",
+      "classicTitle": "Toranlage und Einfriedung｜1973",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/toranlage-und-einfriedung",
+      "classicDesc": "入口與圍界被整體設計為色彩、節奏與穿越共同作用的建築藝術；作品不附著於基地，而直接構成公共與外交領域交界。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-16",
+      "id": "german-2026-10-16-20",
+      "dedupeKey": "art-2026-10-16-german-waldemar-grzimek-a-sendes-rind",
+      "name": "20｜Waldemar Grzimek｜Äsendes Rind",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Greifswald",
+      "cityKeywords": [
+        "Greifswald",
+        "格賴夫斯瓦爾德"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "青銅動物雕塑",
+        "戶外場域"
+      ],
+      "works": "Äsendes Rind｜1960",
+      "comment": "低伏的牛隻形體以水平量感貼近草地，作品避開人物紀念像的英雄姿態，改以動物、觸感與日常尺度連結建築外部空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/asendes-rind",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/asendes-rind",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/asendes-rind",
+      "artistStatement": "Grzimek 透過簡化而有重量感的動物身體回應戰後公共場所，讓雕塑的親近性與環境關係勝過敘事性的權威象徵。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/asendes-rind",
+      "classicTitle": "Äsendes Rind｜1960",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/asendes-rind",
+      "classicDesc": "低伏的牛隻形體以水平量感貼近草地，作品避開人物紀念像的英雄姿態，改以動物、觸感與日常尺度連結建築外部空間。",
+      "relatedByCity": []
+    }
+  ]
+}

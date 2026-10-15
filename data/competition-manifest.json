@@ -1,17 +1,17 @@
 {
-  "version": "2026-10-15-competition-r73",
-  "generatedAt": "2026-10-15T05:25:00+08:00",
+  "version": "2026-10-16-competition-r74",
+  "generatedAt": "2026-10-16T05:40:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 120,
+  "activeEntries": 124,
   "addedToday": 5,
-  "expiredRemoved": 3,
-  "duplicateRemoved": 4,
-  "deadlineTimezoneEntries": 120,
-  "deadlinePrecisionEntries": 120,
-  "cityKeywordEntries": 120,
-  "note": "保留 115 則既有未截止且去重合規項目，新增 5 則；移除 3 則逾期、4 則同案重複與 1 則非公共藝術委託獎助，所有有效 deadline 皆含時區偏移。",
+  "expiredRemoved": 1,
+  "duplicateRemoved": 0,
+  "deadlineTimezoneEntries": 124,
+  "deadlinePrecisionEntries": 124,
+  "cityKeywordEntries": 124,
+  "note": "保留 119 則既有未截止項目，新增 5 則；移除 1 則逾期項目，所有有效 deadline 皆含時區偏移。",
   "germanAddedToday": 0,
-  "scopeRemoved": 1
+  "scopeRemoved": 0
 }
