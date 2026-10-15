@@ -1,0 +1,674 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-15T05:25:00+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-15",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Public Art Fund、KÖR Wien 第一方作品頁",
+    "selectionPolicy": "當期、持續開放或已實現的空間裝置、Kunst am Bau、場域介入、建築整合、公共行動與觀念性作品；排除傳統城市人物紀念雕塑，競圖與獎助完全分流。",
+    "note": "10/15 固定 10＋5＋5；20 則皆為作品資料，未混入競圖、補助或獎項，傳統人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-15T05:25:00+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-15T05:25:00+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "第一方作品頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-01",
+      "dedupeKey": "art-2026-10-15-current-engelbert-kremser-o-t-pergola",
+      "name": "01｜Engelbert Kremser｜o. T. (Pergola)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "彩色混凝土",
+        "建築整合"
+      ],
+      "works": "o. T. (Pergola)｜1983",
+      "comment": "彩色混凝土構成的棚架沿庭院邊界展開，把遮蔭、通行與觀看組織成可進入的幾何構架；作品不是附加雕塑，而是庭院空間本身的一部分。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-pergola",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-pergola",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-pergola",
+      "artistStatement": "Kremser 以建築語彙取代獨立基座，讓色彩、柱列與人的步行共同完成作品，將行政建築的過渡區轉為具有節奏的公共場所。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-pergola",
+      "classicTitle": "o. T. (Pergola)｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-pergola",
+      "classicDesc": "彩色混凝土構成的棚架沿庭院邊界展開，把遮蔭、通行與觀看組織成可進入的幾何構架；作品不是附加雕塑，而是庭院空間本身的一部分。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-02",
+      "dedupeKey": "art-2026-10-15-current-rolf-szymanski-l-epheme-re-und-anabase",
+      "name": "02｜Rolf Szymanski｜L'Ephemère und Anabase",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "青銅雕塑",
+        "庭院介入"
+      ],
+      "works": "L'Ephemère und Anabase｜1983",
+      "comment": "兩件自由立於庭院的抽象雕塑，以收束與外擴的身體性輪廓回應周圍建築；觀者繞行時，量體的開口與陰影持續改變。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lephemere-und-anabase",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lephemere-und-anabase",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lephemere-und-anabase",
+      "artistStatement": "Szymanski 將雕塑理解為與人體相遇的能量體，而非建築前的裝飾；雙件配置以距離和方向建立一段可被步行感知的對話。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lephemere-und-anabase",
+      "classicTitle": "L'Ephemère und Anabase｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/lephemere-und-anabase",
+      "classicDesc": "兩件自由立於庭院的抽象雕塑，以收束與外擴的身體性輪廓回應周圍建築；觀者繞行時，量體的開口與陰影持續改變。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-03",
+      "dedupeKey": "art-2026-10-15-current-konstanze-trommer-rot-gold-schwarz",
+      "name": "03｜Konstanze Trommer｜Rot-Gold-Schwarz",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "色彩裝置",
+        "牆面藝術"
+      ],
+      "works": "Rot-Gold-Schwarz｜2001",
+      "comment": "紅、金、黑三種色域被轉化為建築尺度的牆面構成，在日常通行中形成非具象的視覺節奏，也使國家象徵從旗幟脫離為空間經驗。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rot-gold-schwarz",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rot-gold-schwarz",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rot-gold-schwarz",
+      "artistStatement": "Trommer 以有限色彩和比例關係介入公共建築，讓熟悉的政治色彩不再只是徽記，而成為身體經過時逐段展開的感知場。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rot-gold-schwarz",
+      "classicTitle": "Rot-Gold-Schwarz｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rot-gold-schwarz",
+      "classicDesc": "紅、金、黑三種色域被轉化為建築尺度的牆面構成，在日常通行中形成非具象的視覺節奏，也使國家象徵從旗幟脫離為空間經驗。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-04",
+      "dedupeKey": "art-2026-10-15-current-ju-rgen-klauke-the-big-easy",
+      "name": "04｜Jürgen Klauke｜The Big Easy",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "攝影裝置",
+        "建築整合"
+      ],
+      "works": "The Big Easy｜1990",
+      "comment": "攝影圖像以重複、編排與尺度進入博物館建築，使人物姿態不再是單張照片的內容，而成為引導視線與移動的空間序列。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-big-easy",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-big-easy",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-big-easy",
+      "artistStatement": "Klauke 長期以身體、角色與媒介化自我為題；在公共建築中，影像編排讓觀看者意識到身分如何被展示機制塑造。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-big-easy",
+      "classicTitle": "The Big Easy｜1990",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/the-big-easy",
+      "classicDesc": "攝影圖像以重複、編排與尺度進入博物館建築，使人物姿態不再是單張照片的內容，而成為引導視線與移動的空間序列。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-05",
+      "dedupeKey": "art-2026-10-15-current-charles-crodel-o-t-sa-ulenverkleidung",
+      "name": "05｜Charles Crodel｜o. T. (Säulenverkleidung)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "柱面裝飾",
+        "陶瓷與建築整合"
+      ],
+      "works": "o. T. (Säulenverkleidung)｜1954",
+      "comment": "入口柱體以連續圖像與材質包覆，讓承重構件同時成為敘事表面；觀看必須繞柱移動，圖像因而依身體路徑逐步顯現。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-saulenverkleidung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-saulenverkleidung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-saulenverkleidung",
+      "artistStatement": "Crodel 把繪畫從平面牆面移到建築支柱，藉環繞式閱讀連接結構與裝飾，呈現戰後公共建築中藝術整合的早期方法。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-saulenverkleidung",
+      "classicTitle": "o. T. (Säulenverkleidung)｜1954",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-saulenverkleidung",
+      "classicDesc": "入口柱體以連續圖像與材質包覆，讓承重構件同時成為敘事表面；觀看必須繞柱移動，圖像因而依身體路徑逐步顯現。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-06",
+      "dedupeKey": "art-2026-10-15-current-eberhard-fiebig-gro-e-wuwa",
+      "name": "06｜Eberhard Fiebig｜Große Wuwa",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋼構雕塑",
+        "場域特定"
+      ],
+      "works": "Große Wuwa｜1997",
+      "comment": "大型折板鋼構以銳利轉折和中空結構切入開放空間；量體隨觀看角度在封閉、穿透與失衡之間轉換，形成可繞行的方向標。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-wuwa",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-wuwa",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-wuwa",
+      "artistStatement": "Fiebig 以工業製作和幾何摺疊探索雕塑的內外關係，使厚重金屬不靠敘事象徵，而以結構、比例和重力直接介入場所。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-wuwa",
+      "classicTitle": "Große Wuwa｜1997",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-wuwa",
+      "classicDesc": "大型折板鋼構以銳利轉折和中空結構切入開放空間；量體隨觀看角度在封閉、穿透與失衡之間轉換，形成可繞行的方向標。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-07",
+      "dedupeKey": "art-2026-10-15-current-hugo-jamin-o-t-gegliederte-ordnung",
+      "name": "07｜Hugo Jamin｜o. T. (Gegliederte Ordnung)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "抽象浮雕",
+        "牆面構成"
+      ],
+      "works": "o. T. (Gegliederte Ordnung)｜1974",
+      "comment": "模組化浮凸單元沿牆面建立分節秩序，重複之中保留方向與深度的變化；光線移動時，陰影使靜態表面產生時間性。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gegliederte-ordnung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gegliederte-ordnung",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gegliederte-ordnung",
+      "artistStatement": "Jamin 將秩序視為可被觀看與行走感知的關係，而非封閉圖案；作品以低限手段把牆面轉化為建築與光共同作用的場。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gegliederte-ordnung",
+      "classicTitle": "o. T. (Gegliederte Ordnung)｜1974",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gegliederte-ordnung",
+      "classicDesc": "模組化浮凸單元沿牆面建立分節秩序，重複之中保留方向與深度的變化；光線移動時，陰影使靜態表面產生時間性。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-08",
+      "dedupeKey": "art-2026-10-15-current-fritz-koenig-gro-e-bilderschriftkugel-brasilia",
+      "name": "08｜Fritz Koenig｜Große Bilderschriftkugel Brasilia",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "巴西 / Brasília",
+      "cityKeywords": [
+        "Brasília",
+        "Brasilia",
+        "巴西利亞"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "青銅球體",
+        "建築前廣場"
+      ],
+      "works": "Große Bilderschriftkugel Brasilia｜1970",
+      "comment": "巨型球體表面布滿近似圖像文字的起伏符號，置於現代主義建築前方；封閉圓體與開闊廣場形成尺度對照，也把觀看引向環繞運動。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-bilderschriftkugel-brasilia",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-bilderschriftkugel-brasilia",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-bilderschriftkugel-brasilia",
+      "artistStatement": "Koenig 以球體承載難以被單一語言翻譯的符號，讓雕塑在外交建築場域中成為跨文化閱讀與共同記憶的開放載體。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-bilderschriftkugel-brasilia",
+      "classicTitle": "Große Bilderschriftkugel Brasilia｜1970",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-bilderschriftkugel-brasilia",
+      "classicDesc": "巨型球體表面布滿近似圖像文字的起伏符號，置於現代主義建築前方；封閉圓體與開闊廣場形成尺度對照，也把觀看引向環繞運動。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-09",
+      "dedupeKey": "art-2026-10-15-current-dirk-klomann-weltbilderbogen",
+      "name": "09｜Dirk Klomann｜Weltbilderbogen",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "影像拼貼",
+        "建築整合"
+      ],
+      "works": "Weltbilderbogen｜2000",
+      "comment": "世界圖像被組成橫向展開的視覺帶，在公共建築內把不同地理、媒體與觀看尺度並置；觀者移動才能逐段建立關聯。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltbilderbogen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltbilderbogen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltbilderbogen",
+      "artistStatement": "Klomann 不以單一總體圖像代表世界，而藉剪接與並列揭示全球視覺知識如何被選擇、分類並在制度空間中傳播。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltbilderbogen",
+      "classicTitle": "Weltbilderbogen｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/weltbilderbogen",
+      "classicDesc": "世界圖像被組成橫向展開的視覺帶，在公共建築內把不同地理、媒體與觀看尺度並置；觀者移動才能逐段建立關聯。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "current-2026-10-15-10",
+      "dedupeKey": "art-2026-10-15-current-thomas-struth-paradise-4-daintree-australien",
+      "name": "10｜Thomas Struth｜Paradise 4, Daintree, Australien",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "大型攝影",
+        "室內空間介入"
+      ],
+      "works": "Paradise 4, Daintree, Australien｜2001",
+      "comment": "熱帶雨林的大型攝影以繁複、無中心的植被佔據公共建築牆面；視線難以找到唯一焦點，觀看因此在細節中不斷游移。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paradise-4-daintree-australien",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paradise-4-daintree-australien",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paradise-4-daintree-australien",
+      "artistStatement": "Struth 以高密度自然景觀對照制度化室內空間，讓「天堂」既像可沉浸的避難所，也暴露觀看者無法掌握自然全貌的限制。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paradise-4-daintree-australien",
+      "classicTitle": "Paradise 4, Daintree, Australien｜2001",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/paradise-4-daintree-australien",
+      "classicDesc": "熱帶雨林的大型攝影以繁複、無中心的植被佔據公共建築牆面；視線難以找到唯一焦點，觀看因此在細節中不斷游移。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "global-2026-10-15-11",
+      "dedupeKey": "art-2026-10-15-global-alexander-calder-alexander-calder-in-new-york",
+      "name": "11｜Alexander Calder｜Alexander Calder in New York",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "公共雕塑",
+        "動態雕塑",
+        "多點城市展覽"
+      ],
+      "works": "Alexander Calder in New York｜2006–2007",
+      "comment": "多件大型穩定雕塑與動態雕塑進入紐約公共空間，作品以平衡、懸垂和鮮明色面回應廣場尺度，也讓風成為持續改變構圖的共同作者。",
+      "website": "https://www.publicartfund.org/exhibitions/view/alexander-calder-in-new-york/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/alexander-calder-in-new-york/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/alexander-calder-in-new-york/",
+      "artistStatement": "Calder 把雕塑從固定量體轉為力、重量與空氣的關係；多點展示進一步讓同一套形式語彙與不同城市背景發生對話。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/alexander-calder-in-new-york/",
+      "classicTitle": "Alexander Calder in New York｜2006–2007",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/alexander-calder-in-new-york/",
+      "classicDesc": "多件大型穩定雕塑與動態雕塑進入紐約公共空間，作品以平衡、懸垂和鮮明色面回應廣場尺度，也讓風成為持續改變構圖的共同作者。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "global-2026-10-15-12",
+      "dedupeKey": "art-2026-10-15-global-alicja-kwade-against-the-run",
+      "name": "12｜Alicja Kwade｜Against the Run",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "公共裝置",
+        "時鐘機械",
+        "動力藝術"
+      ],
+      "works": "Against the Run｜2015–2016",
+      "comment": "既有街鐘的指針照常前進，錶盤卻以相反方向旋轉；兩種運動互相抵消又彼此暴露，使日常計時裝置變成感知時間的陷阱。",
+      "website": "https://www.publicartfund.org/exhibitions/view/alicja-kwade-against-the-run/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/alicja-kwade-against-the-run/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/alicja-kwade-against-the-run/",
+      "artistStatement": "Kwade 以微小但精確的機械改造質疑被視為客觀的時間制度，讓通勤者在熟悉物件中察覺測量、知覺與現實並不完全一致。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/alicja-kwade-against-the-run/",
+      "classicTitle": "Against the Run｜2015–2016",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/alicja-kwade-against-the-run/",
+      "classicDesc": "既有街鐘的指針照常前進，錶盤卻以相反方向旋轉；兩種運動互相抵消又彼此暴露，使日常計時裝置變成感知時間的陷阱。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "global-2026-10-15-13",
+      "dedupeKey": "art-2026-10-15-global-anselm-kiefer-uraeus",
+      "name": "13｜Anselm Kiefer｜Uraeus",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "公共雕塑",
+        "鉛與鋼",
+        "場域特定"
+      ],
+      "works": "Uraeus｜2018",
+      "comment": "巨大的展翼形體、書本與蛇形符號架於城市廣場，沉重材質與上升姿態並置，把神話、知識、毀滅與再生壓縮在同一座雕塑中。",
+      "website": "https://www.publicartfund.org/exhibitions/view/anselm-kiefer-uraeus/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/anselm-kiefer-uraeus/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/anselm-kiefer-uraeus/",
+      "artistStatement": "Kiefer 以歷史負重的材料和象徵系統處理文明記憶；作品在金融區的開放場域中，使權力與知識的意象接受公共生活重新詮釋。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/anselm-kiefer-uraeus/",
+      "classicTitle": "Uraeus｜2018",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/anselm-kiefer-uraeus/",
+      "classicDesc": "巨大的展翼形體、書本與蛇形符號架於城市廣場，沉重材質與上升姿態並置，把神話、知識、毀滅與再生壓縮在同一座雕塑中。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "global-2026-10-15-14",
+      "dedupeKey": "art-2026-10-15-global-ai-weiwei-good-fences-make-good-neighbors",
+      "name": "14｜Ai Weiwei｜Good Fences Make Good Neighbors",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "多點公共藝術",
+        "金屬圍籬",
+        "社會介入"
+      ],
+      "works": "Good Fences Make Good Neighbors｜2017–2018",
+      "comment": "數百件圍籬、通道、燈箱與海報分布五區，把邊界設施嵌入拱門、廣場與日常街景；觀者必須穿過、繞行並重新辨認城市中的隔離機制。",
+      "website": "https://www.publicartfund.org/exhibitions/view/ai-weiwei-good-fences-make-good-neighbors/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/ai-weiwei-good-fences-make-good-neighbors/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/ai-weiwei-good-fences-make-good-neighbors/",
+      "artistStatement": "艾未未以可通行的障礙物回應移民、國界與接納問題，讓圍籬不只是政治隱喻，而成為公眾以身體經驗自由與限制的城市基礎設施。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/ai-weiwei-good-fences-make-good-neighbors/",
+      "classicTitle": "Good Fences Make Good Neighbors｜2017–2018",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/ai-weiwei-good-fences-make-good-neighbors/",
+      "classicDesc": "數百件圍籬、通道、燈箱與海報分布五區，把邊界設施嵌入拱門、廣場與日常街景；觀者必須穿過、繞行並重新辨認城市中的隔離機制。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "global-2026-10-15-15",
+      "dedupeKey": "art-2026-10-15-global-yayoi-kusama-narcissus-garden",
+      "name": "15｜Yayoi Kusama｜Narcissus Garden",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "紐約市"
+      ],
+      "media": [
+        "公共裝置",
+        "鏡面球體",
+        "參與式藝術"
+      ],
+      "works": "Narcissus Garden｜2004",
+      "comment": "大量鏡面球體鋪展於中央公園地景，天空、樹木與遊人被切割成不斷變動的反射；可重複單元把場所轉化為流動的集體自畫像。",
+      "website": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-narcissus-garden/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-narcissus-garden/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-narcissus-garden/",
+      "artistStatement": "草間彌生以增殖和鏡映消解單一作者與中心視點；作品同時吸引自拍，也反問觀看慾望、商品化與自我如何在公共空間循環。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-narcissus-garden/",
+      "classicTitle": "Narcissus Garden｜2004",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/whitney-biennial-2004-narcissus-garden/",
+      "classicDesc": "大量鏡面球體鋪展於中央公園地景，天空、樹木與遊人被切割成不斷變動的反射；可重複單元把場所轉化為流動的集體自畫像。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "german-2026-10-15-16",
+      "dedupeKey": "art-2026-10-15-german-christoph-steinbrener-rainer-dempf-delete-die-entschriftung-des-o-ffentlichen-raums",
+      "name": "16｜Christoph Steinbrener／Rainer Dempf｜Delete. Die Entschriftung des öffentlichen Raums",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "城市介入",
+        "暫時性裝置",
+        "媒體批判"
+      ],
+      "works": "Delete. Die Entschriftung des öffentlichen Raums｜2005",
+      "comment": "Neubaugasse 沿街商業招牌與文字被黃色覆層暫時遮蔽，熟悉街景突然失去語言資訊；空白化讓人重新看見廣告密度、建築表面與視覺噪音。",
+      "website": "https://www.koer.or.at/projekte/delete-die-entschriftung-des-oeffentlichen-raums/",
+      "workPage": "https://www.koer.or.at/projekte/delete-die-entschriftung-des-oeffentlichen-raums/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/delete-die-entschriftung-des-oeffentlichen-raums/",
+      "artistStatement": "藝術家沒有再增加一則訊息，而以刪除作為公共介入，檢驗商業文字如何佔據共同視野，以及缺席能否成為更強的城市溝通。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/delete-die-entschriftung-des-oeffentlichen-raums/",
+      "classicTitle": "Delete. Die Entschriftung des öffentlichen Raums｜2005",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/delete-die-entschriftung-des-oeffentlichen-raums/",
+      "classicDesc": "Neubaugasse 沿街商業招牌與文字被黃色覆層暫時遮蔽，熟悉街景突然失去語言資訊；空白化讓人重新看見廣告密度、建築表面與視覺噪音。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "german-2026-10-15-17",
+      "dedupeKey": "art-2026-10-15-german-add-on-20-ho-henmeter",
+      "name": "17｜多位藝術家｜add on. 20 höhenmeter",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "暫時性建築",
+        "參與式公共藝術",
+        "城市介入"
+      ],
+      "works": "add on. 20 höhenmeter｜2005",
+      "comment": "Wallensteinplatz 上出現高約二十公尺的多層臨時構築，平台、房間與活動空間向上疊加，讓廣場在短期內獲得新的垂直公共生活。",
+      "website": "https://www.koer.or.at/projekte/add-on-20-hoehenmeter/",
+      "workPage": "https://www.koer.or.at/projekte/add-on-20-hoehenmeter/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/add-on-20-hoehenmeter/",
+      "artistStatement": "計畫以可使用的建築而非孤立物件測試公共空間的可能性；藝術、居住、展演與社交在同一結構中交疊，公共性由實際使用生成。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/add-on-20-hoehenmeter/",
+      "classicTitle": "add on. 20 höhenmeter｜2005",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/add-on-20-hoehenmeter/",
+      "classicDesc": "Wallensteinplatz 上出現高約二十公尺的多層臨時構築，平台、房間與活動空間向上疊加，讓廣場在短期內獲得新的垂直公共生活。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "german-2026-10-15-18",
+      "dedupeKey": "art-2026-10-15-german-liam-gillick-construction-of-one",
+      "name": "18｜Liam Gillick｜Construction of One",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "公共裝置",
+        "文字藝術",
+        "都市媒體"
+      ],
+      "works": "Construction of One｜2004",
+      "comment": "可移動看板式結構以色彩、框架與文字進入街道，介於廣告載體、建築模型和抽象雕塑之間，使訊息的展示條件成為作品內容。",
+      "website": "https://www.koer.or.at/projekte/rolling-boards-construction-of-one/",
+      "workPage": "https://www.koer.or.at/projekte/rolling-boards-construction-of-one/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/rolling-boards-construction-of-one/",
+      "artistStatement": "Gillick 關注制度、協商與生產關係；作品借用城市傳播設備，讓觀者思考誰建構公共敘事，以及形式如何預先安排資訊的可見性。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/rolling-boards-construction-of-one/",
+      "classicTitle": "Construction of One｜2004",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/rolling-boards-construction-of-one/",
+      "classicDesc": "可移動看板式結構以色彩、框架與文字進入街道，介於廣告載體、建築模型和抽象雕塑之間，使訊息的展示條件成為作品內容。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "german-2026-10-15-19",
+      "dedupeKey": "art-2026-10-15-german-public-netbase-nikeground-rethinking-space",
+      "name": "19｜Public Netbase｜nikeground – rethinking space",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "媒體行動",
+        "城市介入",
+        "企業批判"
+      ],
+      "works": "nikeground – rethinking space｜2003",
+      "comment": "虛構的 Nike 城市計畫宣稱將 Karlsplatz 改名並設置巨型商標，精心仿造的宣傳系統一度被當成真實企業接管，引發廣泛公共爭議。",
+      "website": "https://www.koer.or.at/projekte/nikeground-rethinking-space/",
+      "workPage": "https://www.koer.or.at/projekte/nikeground-rethinking-space/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/nikeground-rethinking-space/",
+      "artistStatement": "Public Netbase 以策略性虛構揭露品牌如何想像並佔用公共空間；作品的材料不是雕塑本身，而是可信度、媒體擴散與市民反應。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/nikeground-rethinking-space/",
+      "classicTitle": "nikeground – rethinking space｜2003",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/nikeground-rethinking-space/",
+      "classicDesc": "虛構的 Nike 城市計畫宣稱將 Karlsplatz 改名並設置巨型商標，精心仿造的宣傳系統一度被當成真實企業接管，引發廣泛公共爭議。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-15",
+      "id": "german-2026-10-15-20",
+      "dedupeKey": "art-2026-10-15-german-cai-guo-qiang-i-am-the-y2k-bug",
+      "name": "20｜Cai Guo-Qiang｜I am the Y2K Bug",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "奧地利 / Wien",
+      "cityKeywords": [
+        "Vienna",
+        "Wien",
+        "維也納"
+      ],
+      "media": [
+        "火藥藝術",
+        "公共事件",
+        "時間性介入"
+      ],
+      "works": "I am the Y2K Bug｜1999",
+      "comment": "跨越千禧年前夕的火藥與煙火行動，把對 Y2K 電腦危機的集體焦慮轉為短暫可見的城市事件；光、聲與消逝共同構成作品。",
+      "website": "https://www.koer.or.at/projekte/i-am-the-y2k-bug/",
+      "workPage": "https://www.koer.or.at/projekte/i-am-the-y2k-bug/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/i-am-the-y2k-bug/",
+      "artistStatement": "蔡國強以不可完全控制的爆發媒介連結技術恐懼與節慶期待，讓公共藝術不是永久物件，而是城市共同經歷的一個時間切口。",
+      "artistStatementSource": "https://www.koer.or.at/projekte/i-am-the-y2k-bug/",
+      "classicTitle": "I am the Y2K Bug｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.koer.or.at/projekte/i-am-the-y2k-bug/",
+      "classicDesc": "跨越千禧年前夕的火藥與煙火行動，把對 Y2K 電腦危機的集體焦慮轉為短暫可見的城市事件；光、聲與消逝共同構成作品。",
+      "relatedByCity": []
+    }
+  ]
+}
