@@ -1,0 +1,725 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-17T05:03:09+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-17",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Public Art Fund 第一方作品頁",
+    "selectionPolicy": "當期、持續開放或已實現的空間裝置、Kunst am Bau、場域介入、地景與觀念性作品；排除傳統城市人物紀念雕塑，競圖與獎助完全分流。",
+    "note": "10/17 固定 10＋5＋5；20 則皆為作品資料，未混入競圖、補助或獎項，傳統人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-17T05:03:09+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-17T05:03:09+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "來源頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-01",
+      "dedupeKey": "art-2026-10-17-current-christine-gersch-vier-teufel-kleines-kanzleramt-kaspertheater",
+      "name": "01｜Christine Gersch｜Vier Teufel／Kleines Kanzleramt – Kaspertheater",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "屋頂裝置",
+        "遊戲空間",
+        "木構"
+      ],
+      "works": "Vier Teufel／Kleines Kanzleramt – Kaspertheater｜1999",
+      "comment": "四個高彩度「小魔鬼」沿托兒所斜屋頂滑落，並以縮小的「小總理府」木屋回應鄰近政府建築；作品同時介入屋頂安全、兒童遊戲與國家建築的尺度。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/vier-teufel-kleines-kanzleramt-kaspertheater",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/vier-teufel-kleines-kanzleramt-kaspertheater",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/vier-teufel-kleines-kanzleramt-kaspertheater",
+      "artistStatement": "Gersch 把威權建築語彙轉成可親近的木偶劇與守護形象，使政府區的紀念性被兒童身體、色彩和遊戲重新校準。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/vier-teufel-kleines-kanzleramt-kaspertheater",
+      "classicTitle": "Vier Teufel／Kleines Kanzleramt – Kaspertheater｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/vier-teufel-kleines-kanzleramt-kaspertheater",
+      "classicDesc": "四個高彩度「小魔鬼」沿托兒所斜屋頂滑落，並以縮小的「小總理府」木屋回應鄰近政府建築；作品同時介入屋頂安全、兒童遊戲與國家建築的尺度。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-02",
+      "dedupeKey": "art-2026-10-17-current-katharina-grosse-o-t",
+      "name": "02｜Katharina Grosse｜o. T.",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "艾爾福特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "壓克力",
+        "鋁板",
+        "擴張繪畫"
+      ],
+      "works": "o. T.｜1999",
+      "comment": "三件無框壓克力鋁板以水平、垂直色帶回應聯邦勞動法院的格狀天花、木牆與家具；繪畫不是附掛裝飾，而以比例與方向接續室內結構。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-11",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-11",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-11",
+      "artistStatement": "Grosse 將「擴張繪畫」放入司法建築，讓色彩在自主圖像與場所功能之間保持張力，觀看者的移動也參與畫面組成。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-11",
+      "classicTitle": "o. T.｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-11",
+      "classicDesc": "三件無框壓克力鋁板以水平、垂直色帶回應聯邦勞動法院的格狀天花、木牆與家具；繪畫不是附掛裝飾，而以比例與方向接續室內結構。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-03",
+      "dedupeKey": "art-2026-10-17-current-franz-gutmann-o-t-brunnen",
+      "name": "03｜Franz Gutmann｜o. T.（Brunnen）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "噴泉",
+        "入口地景",
+        "雕塑"
+      ],
+      "works": "o. T.（Brunnen）｜1982",
+      "comment": "噴泉設於聯邦勞動與社會部食堂入口，把原軍營建築更新後的過渡空間轉成由水聲、停留與通行共同構成的門廳前場。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-brunnen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-brunnen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-brunnen",
+      "artistStatement": "Gutmann 以可被日常使用的水景取代孤立物件，使機關工作者的到達、休息和交會成為作品持續運作的條件。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-brunnen",
+      "classicTitle": "o. T.（Brunnen）｜1982",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-brunnen",
+      "classicDesc": "噴泉設於聯邦勞動與社會部食堂入口，把原軍營建築更新後的過渡空間轉成由水聲、停留與通行共同構成的門廳前場。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-04",
+      "dedupeKey": "art-2026-10-17-current-gisela-hachmann-ruch-o-t-installation-von-bildzeichen",
+      "name": "04｜Gisela Hachmann-Ruch｜o. T.（Installation von Bildzeichen）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "符號裝置",
+        "建築整合",
+        "視覺語言"
+      ],
+      "works": "o. T.（Installation von Bildzeichen）｜2000",
+      "comment": "一組圖像符號沿外交部建築空間展開，將抽象記號置入日常動線；符號既像導視又拒絕單一解碼，在制度空間中形成多義的閱讀層。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-von-bildzeichen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-von-bildzeichen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-von-bildzeichen",
+      "artistStatement": "Hachmann-Ruch 把「標示」轉為不完全說明的公共語言，使觀看者在識別、誤讀與重新連結之間感知建築。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-von-bildzeichen",
+      "classicTitle": "o. T.（Installation von Bildzeichen）｜2000",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-von-bildzeichen",
+      "classicDesc": "一組圖像符號沿外交部建築空間展開，將抽象記號置入日常動線；符號既像導視又拒絕單一解碼，在制度空間中形成多義的閱讀層。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-05",
+      "dedupeKey": "art-2026-10-17-current-erich-hauser-skulptur",
+      "name": "05｜Erich Hauser｜Skulptur",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "日本 / Tokyo",
+      "cityKeywords": [
+        "Tokyo",
+        "東京",
+        "東京都"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "不鏽鋼雕塑",
+        "反射表面",
+        "幾何構成"
+      ],
+      "works": "Skulptur｜1979",
+      "comment": "拋光不鏽鋼構件在東京歌德學院形成折面與切口，日光、建築立面和行人被不斷帶入反射，量體因此隨觀看位置改變。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/skulptur",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/skulptur",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/skulptur",
+      "artistStatement": "Hauser 以工業材料的精確加工建立非敘事公共雕塑；作品讓技術、光與外交文化空間彼此映照。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/skulptur",
+      "classicTitle": "Skulptur｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/skulptur",
+      "classicDesc": "拋光不鏽鋼構件在東京歌德學院形成折面與切口，日光、建築立面和行人被不斷帶入反射，量體因此隨觀看位置改變。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-06",
+      "dedupeKey": "art-2026-10-17-current-rebecca-horn-wald-der-vogelfreien-sa-nger",
+      "name": "06｜Rebecca Horn｜Wald der vogelfreien Sänger",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "動力裝置",
+        "聲音",
+        "機械結構"
+      ],
+      "works": "Wald der vogelfreien Sänger｜1992",
+      "comment": "機械化構件與聲響在德國聯邦藝術展覽館內形成一座不穩定的「歌者森林」，觀者穿行時遭遇週期性運動、碰撞與迴響。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/wald-der-vogelfreien-sanger",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/wald-der-vogelfreien-sanger",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/wald-der-vogelfreien-sanger",
+      "artistStatement": "Horn 把建築內部轉成可聽見的機械生態；自由、失序與身體警覺不是圖像主題，而由裝置的時間和聲響直接發生。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/wald-der-vogelfreien-sanger",
+      "classicTitle": "Wald der vogelfreien Sänger｜1992",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/wald-der-vogelfreien-sanger",
+      "classicDesc": "機械化構件與聲響在德國聯邦藝術展覽館內形成一座不穩定的「歌者森林」，觀者穿行時遭遇週期性運動、碰撞與迴響。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-07",
+      "dedupeKey": "art-2026-10-17-current-ilya-kabakov-flu-gel",
+      "name": "07｜Ilya Kabakov｜Flügel",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Frankfurt am Main",
+      "cityKeywords": [
+        "Frankfurt am Main",
+        "Frankfurt",
+        "法蘭克福"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "裝置",
+        "建築寓言",
+        "懸置構造"
+      ],
+      "works": "Flügel｜1996",
+      "comment": "「翼」被置入德國國家圖書館，介於可飛行的想像與被典藏、分類的知識制度之間；懸置形態改變讀者對上方空間的感知。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flugel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flugel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flugel",
+      "artistStatement": "Kabakov 以近乎敘事道具的裝置，讓圖書館同時成為逃逸與記憶的場所，指出知識建築也承載未完成的願望。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flugel",
+      "classicTitle": "Flügel｜1996",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flugel",
+      "classicDesc": "「翼」被置入德國國家圖書館，介於可飛行的想像與被典藏、分類的知識制度之間；懸置形態改變讀者對上方空間的感知。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-08",
+      "dedupeKey": "art-2026-10-17-current-hans-kaiser-steine",
+      "name": "08｜Hans Kaiser｜Steine",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "石材",
+        "地景構成",
+        "戶外雕塑"
+      ],
+      "works": "Steine｜1970",
+      "comment": "石塊以低伏、分散的方式進入今日聯合國園區，沒有單一正面；人必須在其間移動，才會理解重量、間距與建築前地的關係。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steine",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steine",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steine",
+      "artistStatement": "Kaiser 將石材從紀念碑式垂直姿態拉回地面，使場域、步幅與停留成為作品的主要尺度。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steine",
+      "classicTitle": "Steine｜1970",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/steine",
+      "classicDesc": "石塊以低伏、分散的方式進入今日聯合國園區，沒有單一正面；人必須在其間移動，才會理解重量、間距與建築前地的關係。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-09",
+      "dedupeKey": "art-2026-10-17-current-klaus-kinold-o-t-wu-stenansicht-tempel",
+      "name": "09｜Klaus Kinold｜o. T.（Wüstenansicht／Tempel）",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "艾爾福特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "攝影裝置",
+        "建築圖像",
+        "空間序列"
+      ],
+      "works": "o. T.（Wüstenansicht／Tempel）｜1999",
+      "comment": "沙漠景觀與神殿影像被置入聯邦勞動法院，以建築攝影的寂靜、尺度和透視回望實際司法空間，形成場所之中的遠方場所。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wustenansicht-tempel",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wustenansicht-tempel",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wustenansicht-tempel",
+      "artistStatement": "Kinold 以精確攝影把旅行、建築史與制度日常重疊；影像不是窗景，而是重新調整室內距離感的空間構件。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wustenansicht-tempel",
+      "classicTitle": "o. T.（Wüstenansicht／Tempel）｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wustenansicht-tempel",
+      "classicDesc": "沙漠景觀與神殿影像被置入聯邦勞動法院，以建築攝影的寂靜、尺度和透視回望實際司法空間，形成場所之中的遠方場所。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "current-2026-10-17-10",
+      "dedupeKey": "art-2026-10-17-current-fritz-koenig-gro-e-karyatide",
+      "name": "10｜Fritz Koenig｜Große Karyatide",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "西班牙 / Madrid",
+      "cityKeywords": [
+        "Madrid",
+        "馬德里"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "青銅雕塑",
+        "外交建築",
+        "抽象構造"
+      ],
+      "works": "Große Karyatide｜1966",
+      "comment": "大型青銅「女像柱」以球體、支柱與關節般節點支撐外交建築前場，保留身體暗示卻不塑造特定人物，重量與平衡成為核心。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-karyatide",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-karyatide",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-karyatide",
+      "artistStatement": "Koenig 將古典女像柱轉譯為抽象結構，讓支撐、站立和建築秩序成為可從多方向閱讀的公共雕塑。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-karyatide",
+      "classicTitle": "Große Karyatide｜1966",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-karyatide",
+      "classicDesc": "大型青銅「女像柱」以球體、支柱與關節般節點支撐外交建築前場，保留身體暗示卻不塑造特定人物，重量與平衡成為核心。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "global-2026-10-17-11",
+      "dedupeKey": "art-2026-10-17-global-nicholas-galanin-in-every-language-there-is-land-en-cada-lengua-hay-una-tierra",
+      "name": "11｜Nicholas Galanin｜In every language there is Land／En cada lengua hay una Tierra",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "耐候鋼",
+        "文字雕塑",
+        "場域特定",
+        "去殖民公共藝術"
+      ],
+      "works": "In every language there is Land／En cada lengua hay una Tierra｜2023",
+      "comment": "三十英尺高耐候鋼以美墨邊境牆相同尺度與材料拼出「LAND」，並借用 LOVE 雕塑的字形結構，把邊界、土地與愛的公共語彙相互扭轉。",
+      "website": "https://www.publicartfund.org/exhibitions/view/nicholas-galanin-in-every-language-there-is-land-en-cada-lengua-hay-una-tierra/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/nicholas-galanin-in-every-language-there-is-land-en-cada-lengua-hay-una-tierra/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/nicholas-galanin-in-every-language-there-is-land-en-cada-lengua-hay-una-tierra/",
+      "artistStatement": "Galanin 以被用來阻隔遷徙的材料重寫流通符號，主張土地關係先於國界，也把原住民族持續存在帶入城市河岸。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/nicholas-galanin-in-every-language-there-is-land-en-cada-lengua-hay-una-tierra/",
+      "classicTitle": "In every language there is Land／En cada lengua hay una Tierra｜2023",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/nicholas-galanin-in-every-language-there-is-land-en-cada-lengua-hay-una-tierra/",
+      "classicDesc": "三十英尺高耐候鋼以美墨邊境牆相同尺度與材料拼出「LAND」，並借用 LOVE 雕塑的字形結構，把邊界、土地與愛的公共語彙相互扭轉。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "global-2026-10-17-12",
+      "dedupeKey": "art-2026-10-17-global-carmen-winant-my-mother-and-eye",
+      "name": "12｜Carmen Winant｜My Mother and Eye",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City／Chicago／Boston",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Chicago",
+        "芝加哥",
+        "Boston",
+        "波士頓"
+      ],
+      "media": [
+        "城市攝影裝置",
+        "公車候車亭",
+        "檔案影像",
+        "多城市公共藝術"
+      ],
+      "works": "My Mother and Eye｜2025",
+      "comment": "藝術家與母親各自在少女時期橫越美國的影像被拼接，散布於三座城市的候車亭；私人家庭檔案進入通勤與廣告的公共視線。",
+      "website": "https://www.publicartfund.org/exhibitions/view/carmen-winant-my-mother-and-eye/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/carmen-winant-my-mother-and-eye/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/carmen-winant-my-mother-and-eye/",
+      "artistStatement": "Winant 把兩代女性的移動並置，讓自我表述、旅行自由與母女記憶在城市等待時間中被重新觀看。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/carmen-winant-my-mother-and-eye/",
+      "classicTitle": "My Mother and Eye｜2025",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/carmen-winant-my-mother-and-eye/",
+      "classicDesc": "藝術家與母親各自在少女時期橫越美國的影像被拼接，散布於三座城市的候車亭；私人家庭檔案進入通勤與廣告的公共視線。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-06-chicago-city-murals-neighborhood",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "global-2026-10-17-13",
+      "dedupeKey": "art-2026-10-17-global-clifford-prince-king-let-me-know-when-you-get-home",
+      "name": "13｜Clifford Prince King｜Let me know when you get home",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City／Chicago／Boston",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Chicago",
+        "芝加哥",
+        "Boston",
+        "波士頓"
+      ],
+      "media": [
+        "城市攝影裝置",
+        "公車候車亭",
+        "新聞報攤",
+        "酷兒影像"
+      ],
+      "works": "Let me know when you get home｜2024",
+      "comment": "旅途中親密友人的日常片段分布於候車亭與報攤，影像在城市街道中形成一段關於暫時居所、照護與黑人酷兒生活的視覺旅程。",
+      "website": "https://www.publicartfund.org/exhibitions/view/clifford-prince-king-let-me-know-when-you-get-home/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/clifford-prince-king-let-me-know-when-you-get-home/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/clifford-prince-king-let-me-know-when-you-get-home/",
+      "artistStatement": "King 讓「到家告知我」成為公共照護語句；家不只是一處地址，也可能由陪伴、凝視與短暫共同生活構成。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/clifford-prince-king-let-me-know-when-you-get-home/",
+      "classicTitle": "Let me know when you get home｜2024",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/clifford-prince-king-let-me-know-when-you-get-home/",
+      "classicDesc": "旅途中親密友人的日常片段分布於候車亭與報攤，影像在城市街道中形成一段關於暫時居所、照護與黑人酷兒生活的視覺旅程。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-06-chicago-city-murals-neighborhood",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "global-2026-10-17-14",
+      "dedupeKey": "art-2026-10-17-global-wendy-red-star-travels-pretty",
+      "name": "14｜Wendy Red Star｜Travels Pretty",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City／Chicago／Boston",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Chicago",
+        "芝加哥",
+        "Boston",
+        "波士頓"
+      ],
+      "media": [
+        "壓克力",
+        "數位輸出",
+        "公車候車亭",
+        "原住民族檔案"
+      ],
+      "works": "Travels Pretty｜2022",
+      "comment": "十二件新作以 Crow／Apsáalooke 女性名字、家族檔案與鮮明圖像覆蓋三百座候車亭，把原住民族女性主體帶入城市廣告網絡。",
+      "website": "https://www.publicartfund.org/exhibitions/view/wendyredstar/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/wendyredstar/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/wendyredstar/",
+      "artistStatement": "Red Star 以家族研究與當代設計反制博物館式他者化；大量分布的公共展示讓命名、親屬與自我再現重新取得可見度。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/wendyredstar/",
+      "classicTitle": "Travels Pretty｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/wendyredstar/",
+      "classicDesc": "十二件新作以 Crow／Apsáalooke 女性名字、家族檔案與鮮明圖像覆蓋三百座候車亭，把原住民族女性主體帶入城市廣告網絡。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-06-chicago-city-murals-neighborhood",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "global-2026-10-17-15",
+      "dedupeKey": "art-2026-10-17-global-felipe-baeza-unruly-forms",
+      "name": "15｜Felipe Baeza｜Unruly Forms",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國／墨西哥多城市",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Chicago",
+        "芝加哥",
+        "Boston",
+        "波士頓",
+        "Mexico City",
+        "Ciudad de México",
+        "墨西哥城",
+        "León",
+        "萊昂",
+        "Querétaro",
+        "克雷塔羅"
+      ],
+      "media": [
+        "城市海報裝置",
+        "混合媒材圖像",
+        "公車候車亭",
+        "跨國公共藝術"
+      ],
+      "works": "Unruly Forms｜2023",
+      "comment": "八件以人類、植物與神話形態交纏的圖像跨越美墨六城候車亭，單一中央身形同時呈現多重身分與變形狀態。",
+      "website": "https://www.publicartfund.org/exhibitions/view/felipe-baeza-unruly-forms/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/felipe-baeza-unruly-forms/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/felipe-baeza-unruly-forms/",
+      "artistStatement": "Baeza 把不受邊界約束的身體放進高度規格化的廣告框架，讓遷徙、酷兒性與想像力對抗固定分類。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/felipe-baeza-unruly-forms/",
+      "classicTitle": "Unruly Forms｜2023",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/felipe-baeza-unruly-forms/",
+      "classicDesc": "八件以人類、植物與神話形態交纏的圖像跨越美墨六城候車亭，單一中央身形同時呈現多重身分與變形狀態。",
+      "relatedByCity": [
+        "opportunity-2026-08-13-nyc-escr-call-for-art-2026",
+        "opportunity-2026-10-06-chicago-city-murals-neighborhood",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "german-2026-10-17-16",
+      "dedupeKey": "art-2026-10-17-german-fritz-ku-hn-o-t-tu-ren-und-vorda-cher",
+      "name": "16｜Fritz Kühn｜o. T.（Türen und Vordächer）",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "匈牙利 / Budapest",
+      "cityKeywords": [
+        "Budapest",
+        "布達佩斯"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鍛鐵",
+        "門扉",
+        "雨棚"
+      ],
+      "works": "o. T.（Türen und Vordächer）｜1967",
+      "comment": "門與雨棚被整體塑造成金屬節奏，藝術不再附著於大使館，而直接成為進出、遮蔽與邊界的基礎設施。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-turen-und-vordacher",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-turen-und-vordacher",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-turen-und-vordacher",
+      "artistStatement": "Kühn 將鍛鐵工藝提升為建築空間語言，使外交建築的安全與儀式性透過細部、陰影和身體穿越被感知。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-turen-und-vordacher",
+      "classicTitle": "o. T.（Türen und Vordächer）｜1967",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-turen-und-vordacher",
+      "classicDesc": "門與雨棚被整體塑造成金屬節奏，藝術不再附著於大使館，而直接成為進出、遮蔽與邊界的基礎設施。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "german-2026-10-17-17",
+      "dedupeKey": "art-2026-10-17-german-wolfgang-nestler-technik-und-wissenschaft",
+      "name": "17｜Wolfgang Nestler｜Technik und Wissenschaft",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Aachen",
+      "cityKeywords": [
+        "Aachen",
+        "亞琛"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "金屬構成",
+        "科學意象",
+        "軍事建築"
+      ],
+      "works": "Technik und Wissenschaft｜1979",
+      "comment": "抽象金屬結構以節點、桿件與力學關係回應「技術與科學」，在軍營場域中把知識系統轉成可從多方向觀看的構造。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/technik-und-wissenschaft",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/technik-und-wissenschaft",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/technik-und-wissenschaft",
+      "artistStatement": "Nestler 不以說明性圖像歌頌科技，而讓連接、支撐與平衡本身成為內容，將制度空間導向結構性的思考。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/technik-und-wissenschaft",
+      "classicTitle": "Technik und Wissenschaft｜1979",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/technik-und-wissenschaft",
+      "classicDesc": "抽象金屬結構以節點、桿件與力學關係回應「技術與科學」，在軍營場域中把知識系統轉成可從多方向觀看的構造。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "german-2026-10-17-18",
+      "dedupeKey": "art-2026-10-17-german-ingeborg-scha-ffler-wolf-o-t-gobelin",
+      "name": "18｜Ingeborg Schäffler-Wolf｜o. T.（Gobelin）",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "掛毯",
+        "纖維藝術",
+        "室內整合"
+      ],
+      "works": "o. T.（Gobelin）｜1982",
+      "comment": "大型掛毯以纖維、色層與編織節奏柔化聯邦建築的硬質表面；觀看距離改變時，整體色域與材料細節交替浮現。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin",
+      "artistStatement": "Schäffler-Wolf 讓傳統織造進入現代行政建築，證明建築整合不只依賴重材質，也能由吸音、觸感和時間性建立場所。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin",
+      "classicTitle": "o. T.（Gobelin）｜1982",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin",
+      "classicDesc": "大型掛毯以纖維、色層與編織節奏柔化聯邦建築的硬質表面；觀看距離改變時，整體色域與材料細節交替浮現。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "german-2026-10-17-19",
+      "dedupeKey": "art-2026-10-17-german-stefan-sous-o-t-skulptur",
+      "name": "19｜Stefan Sous｜o. T.（Skulptur）",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "雕塑",
+        "制度空間",
+        "抽象量體"
+      ],
+      "works": "o. T.（Skulptur）｜2012",
+      "comment": "抽象雕塑設於聯邦情報局總部，以不可一眼讀盡的折面與空隙處理封閉機構中的可見性；觀看必須繞行完成。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-skulptur",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-skulptur",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-skulptur",
+      "artistStatement": "Sous 讓雕塑的遮蔽、穿透與方向成為制度隱喻，但不提供單一象徵，公共性保留在身體探索與材料經驗中。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-skulptur",
+      "classicTitle": "o. T.（Skulptur）｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-skulptur",
+      "classicDesc": "抽象雕塑設於聯邦情報局總部，以不可一眼讀盡的折面與空隙處理封閉機構中的可見性；觀看必須繞行完成。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-17",
+      "id": "german-2026-10-17-20",
+      "dedupeKey": "art-2026-10-17-german-konstanze-trommer-zwei-zellen",
+      "name": "20｜Konstanze Trommer｜Zwei Zellen",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Quedlinburg",
+      "cityKeywords": [
+        "Quedlinburg",
+        "奎德林堡"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "雙體裝置",
+        "生物研究",
+        "場域特定"
+      ],
+      "works": "Zwei Zellen｜2007",
+      "comment": "兩個細胞般量體在植物研究機構形成一組既分離又相互依存的空間單元，尺度把微觀生物結構放大到人的步行經驗。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zwei-zellen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zwei-zellen",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zwei-zellen",
+      "artistStatement": "Trommer 以「兩個細胞」回應研究場所，讓分裂、連結與生命結構成為建築使用者可直接穿行感知的模型。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zwei-zellen",
+      "classicTitle": "Zwei Zellen｜2007",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zwei-zellen",
+      "classicDesc": "兩個細胞般量體在植物研究機構形成一組既分離又相互依存的空間單元，尺度把微觀生物結構放大到人的步行經驗。",
+      "relatedByCity": []
+    }
+  ]
+}
