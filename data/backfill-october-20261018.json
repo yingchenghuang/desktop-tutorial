@@ -1,0 +1,741 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-18T04:57:59+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-18",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Museum der 1000 Orte、Public Art Fund 第一方作品頁",
+    "selectionPolicy": "已實現的空間裝置、Kunst am Bau、場域介入、媒體立面與觀念性作品；排除傳統城市人物紀念雕塑，競圖與獎助完全分流。",
+    "note": "10/18 固定 10＋5＋5；20 則皆為作品資料，未混入競圖、補助或獎項，傳統人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-18T04:57:59+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-18T04:57:59+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "來源頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-01",
+      "dedupeKey": "art-2026-10-18-current-katja-novitskova-earth-potential",
+      "name": "01｜Katja Novitskova｜EARTH POTENTIAL",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "城市公園裝置",
+        "鋁板數位印刷",
+        "鋼鋁支架",
+        "科學影像"
+      ],
+      "works": "EARTH POTENTIAL｜2017",
+      "comment": "七件大型鋁板裝置將衛星、顯微鏡與網路取得的地球、天體及微生物影像散布於 City Hall Park，使公園變成尺度錯置的科幻地景。",
+      "website": "https://www.publicartfund.org/exhibitions/view/katja-novitskova-earth-potential/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/katja-novitskova-earth-potential/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/katja-novitskova-earth-potential/",
+      "artistStatement": "Novitskova 以攝影、放大與並置讓肉眼不可見的生命系統進入公共空間，追問科學影像如何塑造我們對真實、未來與地球潛能的理解。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/katja-novitskova-earth-potential/",
+      "classicTitle": "EARTH POTENTIAL｜2017",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/katja-novitskova-earth-potential/",
+      "classicDesc": "七件大型鋁板裝置將衛星、顯微鏡與網路取得的地球、天體及微生物影像散布於 City Hall Park，使公園變成尺度錯置的科幻地景。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-02",
+      "dedupeKey": "art-2026-10-18-current-mark-handforth-lamppost",
+      "name": "02｜Mark Handforth｜Lamppost",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "工業街燈",
+        "紅色燈光",
+        "戶外裝置",
+        "城市物件轉譯"
+      ],
+      "works": "Lamppost｜2003",
+      "comment": "原高四十五呎的工業街燈被兩度折彎，倒伏並以五枚紅色發光燈頭支撐於中央公園入口，仍保留照亮公共空間的部分功能。",
+      "website": "https://www.publicartfund.org/exhibitions/view/lamppost/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/lamppost/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/lamppost/",
+      "artistStatement": "Handforth 將最熟悉的城市基礎設施扭成近乎超現實的身體姿態；功能、幽默與失衡共同改變入口廣場的尺度感。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/lamppost/",
+      "classicTitle": "Lamppost｜2003",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/lamppost/",
+      "classicDesc": "原高四十五呎的工業街燈被兩度折彎，倒伏並以五枚紅色發光燈頭支撐於中央公園入口，仍保留照亮公共空間的部分功能。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-03",
+      "dedupeKey": "art-2026-10-18-current-oscar-tuazon-people",
+      "name": "03｜Oscar Tuazon｜People",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / Brooklyn, New York",
+      "cityKeywords": [
+        "Brooklyn",
+        "布魯克林",
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "工業與自然材料",
+        "遊戲場構造",
+        "噴泉",
+        "場域建築"
+      ],
+      "works": "People｜2012",
+      "comment": "三件作品沿 Brooklyn Bridge Park 的一、二號碼頭配置：樹木化為噴泉或支撐球牆，水泥方體被樹穿越並框取濱水景觀。",
+      "website": "https://www.publicartfund.org/exhibitions/view/people/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/people/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/people/",
+      "artistStatement": "Tuazon 讓雕塑被實際使用；樹、鋼、混凝土與遊戲設施彼此支撐，使公共性不在觀看距離，而在遊戲、重量與日常磨耗中生成。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/people/",
+      "classicTitle": "People｜2012",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/people/",
+      "classicDesc": "三件作品沿 Brooklyn Bridge Park 的一、二號碼頭配置：樹木化為噴泉或支撐球牆，水泥方體被樹穿越並框取濱水景觀。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-04",
+      "dedupeKey": "art-2026-10-18-current-james-yamada-our-starry-night",
+      "name": "04｜James Yamada｜Our Starry Night",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "粉體塗裝鋁",
+        "一千九百枚 LED",
+        "金屬感測器",
+        "互動通道"
+      ],
+      "works": "Our Starry Night｜2008",
+      "comment": "十二呎高的通道裝置嵌入一千九百枚彩色 LED；觀者穿越時，隱藏的金屬感測器會依手機、鑰匙或飾品數量觸發不同亮度與圖樣。",
+      "website": "https://www.publicartfund.org/exhibitions/view/our-starry-night/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/our-starry-night/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/our-starry-night/",
+      "artistStatement": "Yamada 把安全偵測技術改寫成個別化星光：每具身體攜帶的日常金屬成為光的譜系，公園入口因此回應每一位通行者。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/our-starry-night/",
+      "classicTitle": "Our Starry Night｜2008",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/our-starry-night/",
+      "classicDesc": "十二呎高的通道裝置嵌入一千九百枚彩色 LED；觀者穿越時，隱藏的金屬感測器會依手機、鑰匙或飾品數量觸發不同亮度與圖樣。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-05",
+      "dedupeKey": "art-2026-10-18-current-adrienne-elise-tarver-she-who-sits",
+      "name": "05｜Adrienne Elise Tarver｜She who sits",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / 多城市",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Chicago",
+        "芝加哥",
+        "Boston",
+        "波士頓"
+      ],
+      "media": [
+        "城市候車亭",
+        "公共繪畫",
+        "檔案拼貼",
+        "跨城市計畫"
+      ],
+      "works": "She who sits｜2024",
+      "comment": "六件新作分布於紐約、芝加哥與波士頓候車亭，以私人照片與《Ebony》雜誌等媒體檔案重組安坐於親密空間的黑人女性。",
+      "website": "https://www.publicartfund.org/exhibitions/view/adrienne-elise-tarver-she-who-sits/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/adrienne-elise-tarver-she-who-sits/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/adrienne-elise-tarver-she-who-sits/",
+      "artistStatement": "Tarver 把坐下由被動等待轉為休息與權力的回收；廣告媒體中的黑人母系形象，讓城市通勤網絡成為自我表述的公共場域。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/adrienne-elise-tarver-she-who-sits/",
+      "classicTitle": "She who sits｜2024",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/adrienne-elise-tarver-she-who-sits/",
+      "classicDesc": "六件新作分布於紐約、芝加哥與波士頓候車亭，以私人照片與《Ebony》雜誌等媒體檔案重組安坐於親密空間的黑人女性。",
+      "relatedByCity": [
+        "opportunity-2026-10-06-chicago-city-murals-neighborhood",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-06",
+      "dedupeKey": "art-2026-10-18-current-thomas-houseago-masks-pentagon",
+      "name": "06｜Thomas Houseago｜Masks (Pentagon)",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "場域特定雕塑",
+        "五面巨型面具",
+        "可進入空間",
+        "建築尺度介入"
+      ],
+      "works": "Masks (Pentagon)｜2015",
+      "comment": "五面高約十四至十六呎半的巨大面具連成五角空間，觀者可進入其中，並從眼孔重新框取 Rockefeller Center 的廣場與摩天樓。",
+      "website": "https://www.publicartfund.org/exhibitions/view/thomas-houseago-masks-pentagon/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/thomas-houseago-masks-pentagon/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/thomas-houseago-masks-pentagon/",
+      "artistStatement": "Houseago 將臉孔由人物再現轉成建築；面具既包圍身體又成為觀看城市的窗，使雕塑、室內與公共廣場彼此滲透。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/thomas-houseago-masks-pentagon/",
+      "classicTitle": "Masks (Pentagon)｜2015",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/thomas-houseago-masks-pentagon/",
+      "classicDesc": "五面高約十四至十六呎半的巨大面具連成五角空間，觀者可進入其中，並從眼孔重新框取 Rockefeller Center 的廣場與摩天樓。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-07",
+      "dedupeKey": "art-2026-10-18-current-various-artists-commercial-break",
+      "name": "07｜Various Artists｜Commercial Break",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "城市數位螢幕",
+        "公共影像",
+        "多藝術家計畫",
+        "廣告媒體介入"
+      ],
+      "works": "Commercial Break｜2017",
+      "comment": "二十多位藝術家的數位作品進入紐約多處商業螢幕與城市顯示系統，作為 Public Art Fund 四十週年城市計畫的一部分。",
+      "website": "https://www.publicartfund.org/exhibitions/view/40th-anniversary/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/40th-anniversary/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/40th-anniversary/",
+      "artistStatement": "Commercial Break 借用廣告傳播的即時性與分布網絡，使公共藝術不依附單一廣場，而在通勤、消費與資訊流中短暫中斷城市常態。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/40th-anniversary/",
+      "classicTitle": "Commercial Break｜2017",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/40th-anniversary/",
+      "classicDesc": "二十多位藝術家的數位作品進入紐約多處商業螢幕與城市顯示系統，作為 Public Art Fund 四十週年城市計畫的一部分。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-08",
+      "dedupeKey": "art-2026-10-18-current-roy-lichtenstein-roy-lichtenstein-at-city-hall",
+      "name": "08｜Roy Lichtenstein｜Roy Lichtenstein at City Hall",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "城市公園展覽",
+        "巨型筆觸雕塑",
+        "彩繪金屬",
+        "繪畫空間化"
+      ],
+      "works": "Roy Lichtenstein at City Hall｜2003",
+      "comment": "City Hall Park 的雕塑展以首次完整尺度展出的《Element #E》為核心，四道彩色筆觸升至五十呎以上，將平面繪畫動勢懸置於城市空中。",
+      "website": "https://www.publicartfund.org/exhibitions/view/roy-lichtenstein-at-city-hall/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/roy-lichtenstein-at-city-hall/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/roy-lichtenstein-at-city-hall/",
+      "artistStatement": "Lichtenstein 把印刷與繪畫的符號轉成公共尺度的構造；作品在市政建築旁，使「手勢」同時成為圖像、物體與城市標誌。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/roy-lichtenstein-at-city-hall/",
+      "classicTitle": "Roy Lichtenstein at City Hall｜2003",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/roy-lichtenstein-at-city-hall/",
+      "classicDesc": "City Hall Park 的雕塑展以首次完整尺度展出的《Element #E》為核心，四道彩色筆觸升至五十呎以上，將平面繪畫動勢懸置於城市空中。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-09",
+      "dedupeKey": "art-2026-10-18-current-various-artists-on-the-flip-side",
+      "name": "09｜Various Artists｜On the Flip Side",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "城市廣告介入",
+        "公共影像",
+        "公車候車亭",
+        "多藝術家計畫"
+      ],
+      "works": "On the Flip Side｜2026",
+      "comment": "多位藝術家的圖像進入紐約城市候車亭廣告面，以正反、翻面與另一側為策展線索，將通勤視線轉成對被忽略敘事的公共閱讀。",
+      "website": "https://www.publicartfund.org/exhibitions/view/on-the-flip-side/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/on-the-flip-side/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/on-the-flip-side/",
+      "artistStatement": "計畫利用廣告框架的重複分布，把單一展場拆成城市尺度的觀看網絡；等待與移動成為遇見作品的條件。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/on-the-flip-side/",
+      "classicTitle": "On the Flip Side｜2026",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/on-the-flip-side/",
+      "classicDesc": "多位藝術家的圖像進入紐約城市候車亭廣告面，以正反、翻面與另一側為策展線索，將通勤視線轉成對被忽略敘事的公共閱讀。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "current-2026-10-18-10",
+      "dedupeKey": "art-2026-10-18-current-arthur-weyhe-untitled",
+      "name": "10｜Arthur Weyhe｜Untitled",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "雪松木柱",
+        "二十六呎結構",
+        "開放式建築",
+        "濱水介入"
+      ],
+      "works": "Untitled｜1980",
+      "comment": "銀灰色雪松木柱構造自 Waterside Plaza 升起二十六呎，以沒有表皮的開放骨架讓天空、雲、樹與鄰近建築填入其縫隙。",
+      "website": "https://www.publicartfund.org/exhibitions/view/untitled-weyhe/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/untitled-weyhe/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/untitled-weyhe/",
+      "artistStatement": "Weyhe 不以量體封閉空間，而讓環境補完雕塑；木柱形成可被風景穿透的建築邊界，回應濱水廣場的尺度與天候。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/untitled-weyhe/",
+      "classicTitle": "Untitled｜1980",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/untitled-weyhe/",
+      "classicDesc": "銀灰色雪松木柱構造自 Waterside Plaza 升起二十六呎，以沒有表皮的開放骨架讓天空、雲、樹與鄰近建築填入其縫隙。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "global-2026-10-18-11",
+      "dedupeKey": "art-2026-10-18-global-ai-da-muluneh-this-is-where-i-am",
+      "name": "11｜Aïda Muluneh｜This is where I am",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國／象牙海岸多城市",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Chicago",
+        "芝加哥",
+        "Boston",
+        "波士頓",
+        "Abidjan",
+        "阿比讓"
+      ],
+      "media": [
+        "公共攝影",
+        "公車候車亭",
+        "手繪背景",
+        "跨城市裝置"
+      ],
+      "works": "This is where I am｜2023",
+      "comment": "十二件攝影作品分布於紐約、芝加哥、波士頓與阿比讓三百三十多座候車亭；手繪場景、象徵物與非洲女性形象進入城市廣告網絡。",
+      "website": "https://www.publicartfund.org/exhibitions/view/aida-muluneh-this-is-where-i-am/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/aida-muluneh-this-is-where-i-am/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/aida-muluneh-this-is-where-i-am/",
+      "artistStatement": "Muluneh 以衣索比亞詩歌與革命年份為起點，讓移民經驗、國家記憶、見證與韌性在日常候車時間中被看見。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/aida-muluneh-this-is-where-i-am/",
+      "classicTitle": "This is where I am｜2023",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/aida-muluneh-this-is-where-i-am/",
+      "classicDesc": "十二件攝影作品分布於紐約、芝加哥、波士頓與阿比讓三百三十多座候車亭；手繪場景、象徵物與非洲女性形象進入城市廣告網絡。",
+      "relatedByCity": [
+        "opportunity-2026-10-06-chicago-city-murals-neighborhood",
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "global-2026-10-18-12",
+      "dedupeKey": "art-2026-10-18-global-nina-chanel-abney-san-juan-heal",
+      "name": "12｜Nina Chanel Abney｜San Juan Heal",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "建築立面委託",
+        "公共壁畫",
+        "圖像敘事",
+        "地方記憶"
+      ],
+      "works": "San Juan Heal｜2022",
+      "comment": "David Geffen Hall 立面的巨大圖像以人物、文字與符號重建曾被都市更新迫遷的 San Juan Hill 黑人與棕色社群，納入醫護、爵士樂與鄰里歷史。",
+      "website": "https://www.publicartfund.org/exhibitions/view/lincoln-center/nina-chanel-abney-san-juan-heal/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/lincoln-center/nina-chanel-abney-san-juan-heal/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/lincoln-center/nina-chanel-abney-san-juan-heal/",
+      "artistStatement": "Abney 讓新文化建築的外牆承認其所在地被抹除的社群；鮮明視覺不是裝飾，而是追問誰能進入城市的公共記憶。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/lincoln-center/nina-chanel-abney-san-juan-heal/",
+      "classicTitle": "San Juan Heal｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/lincoln-center/nina-chanel-abney-san-juan-heal/",
+      "classicDesc": "David Geffen Hall 立面的巨大圖像以人物、文字與符號重建曾被都市更新迫遷的 San Juan Hill 黑人與棕色社群，納入醫護、爵士樂與鄰里歷史。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "global-2026-10-18-13",
+      "dedupeKey": "art-2026-10-18-global-william-tucker-victory",
+      "name": "13｜William Tucker｜Victory",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "木構",
+        "石膏玻璃纖維",
+        "大型抽象雕塑",
+        "廣場介入"
+      ],
+      "works": "Victory｜1983",
+      "comment": "重約一噸半、長寬各二十呎的木構與石膏玻璃纖維雕塑占據 Doris C. Freedman Plaza，以低伏、厚重而難以命名的形體抵抗傳統勝利紀念碑。",
+      "website": "https://www.publicartfund.org/exhibitions/view/victory/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/victory/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/victory/",
+      "artistStatement": "Tucker 將「勝利」從人物與姿態抽離，改由重量、表皮與不確定輪廓承擔；觀者必須繞行才能組合其抽象身體。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/victory/",
+      "classicTitle": "Victory｜1983",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/victory/",
+      "classicDesc": "重約一噸半、長寬各二十呎的木構與石膏玻璃纖維雕塑占據 Doris C. Freedman Plaza，以低伏、厚重而難以命名的形體抵抗傳統勝利紀念碑。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "global-2026-10-18-14",
+      "dedupeKey": "art-2026-10-18-global-george-sugarman-yellow-ascending",
+      "name": "14｜George Sugarman｜Yellow Ascending",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "焊接鋼",
+        "六組預製構件",
+        "黃色大型雕塑",
+        "城市展覽先例"
+      ],
+      "works": "Yellow Ascending｜1978",
+      "comment": "六組預製焊接鋼構成約二十五乘二十三呎、重一萬二千磅的黃色雕塑，成為 City Hall Park 首件當代藝術展示。",
+      "website": "https://www.publicartfund.org/exhibitions/view/yellow-ascending/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/yellow-ascending/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/yellow-ascending/",
+      "artistStatement": "作品不只以色彩和曲折構造向上推進，也開啟在五行政區特定公共地點輪替展出的制度想像，成為紐約公共藝術計畫史的節點。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/yellow-ascending/",
+      "classicTitle": "Yellow Ascending｜1978",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/yellow-ascending/",
+      "classicDesc": "六組預製焊接鋼構成約二十五乘二十三呎、重一萬二千磅的黃色雕塑，成為 City Hall Park 首件當代藝術展示。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "global-2026-10-18-15",
+      "dedupeKey": "art-2026-10-18-global-wyatt-kahn-life-in-the-abstract",
+      "name": "15｜Wyatt Kahn｜Life in the Abstract",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "耐候鋼",
+        "七件雕塑",
+        "繪畫空間化",
+        "城市公園"
+      ],
+      "works": "Life in the Abstract｜2022",
+      "comment": "七件耐候鋼雕塑把眼鏡、時鐘、梳子、手腳等日常物轉成焊接巨型線條，在 City Hall Park 串連私人生活、抽象構成與城市基礎設施。",
+      "website": "https://www.publicartfund.org/exhibitions/view/wyattkahn/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/wyattkahn/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/wyattkahn/",
+      "artistStatement": "Kahn 將十七幅線稿立體化，使繪畫的輪廓變成可繞行的公共物件；鏽蝕表面則把時間帶入現代主義雕塑語言。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/wyattkahn/",
+      "classicTitle": "Life in the Abstract｜2022",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/wyattkahn/",
+      "classicDesc": "七件耐候鋼雕塑把眼鏡、時鐘、梳子、手腳等日常物轉成焊接巨型線條，在 City Hall Park 串連私人生活、抽象構成與城市基礎設施。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "german-2026-10-18-16",
+      "dedupeKey": "art-2026-10-18-german-ian-hamilton-finlay-o-t",
+      "name": "16｜Ian Hamilton Finlay｜o. T.",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Erfurt",
+      "cityKeywords": [
+        "Erfurt",
+        "艾爾福特"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "文字裝置",
+        "庭園介入",
+        "司法建築"
+      ],
+      "works": "o. T.｜1999",
+      "comment": "英國詩人與藝術家為聯邦勞動法院戶外空間安排文字、物件與植栽關係，把庭園轉成關於秩序、尺度與語言的閱讀場所。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12",
+      "artistStatement": "Finlay 的場域不是雕塑基座，而是詞語、路徑與植物共同構成的公共文本；司法空間的權威因此被引向細讀與停留。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12",
+      "classicTitle": "o. T.｜1999",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12",
+      "classicDesc": "英國詩人與藝術家為聯邦勞動法院戶外空間安排文字、物件與植栽關係，把庭園轉成關於秩序、尺度與語言的閱讀場所。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "german-2026-10-18-17",
+      "dedupeKey": "art-2026-10-18-german-franz-west-recent-sculptures",
+      "name": "17｜Franz West｜Recent Sculptures",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "奧地利公共藝術",
+        "戶外雕塑",
+        "彩色鋁構",
+        "城市入口"
+      ],
+      "works": "Recent Sculptures｜2004",
+      "comment": "七件扭曲、環狀和彩色的大型雕塑沿林肯中心入口排列，將表演藝術機構的正式廣場變成可穿行的奇異地景。",
+      "website": "https://www.publicartfund.org/exhibitions/view/franz-west-recent-sculptures/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/franz-west-recent-sculptures/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/franz-west-recent-sculptures/",
+      "artistStatement": "West 以幽默、粗糙與身體尺度鬆動紀念性；雕塑不要求敬仰，而以近距離共處和社交狀態完成。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/franz-west-recent-sculptures/",
+      "classicTitle": "Recent Sculptures｜2004",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/franz-west-recent-sculptures/",
+      "classicDesc": "七件扭曲、環狀和彩色的大型雕塑沿林肯中心入口排列，將表演藝術機構的正式廣場變成可穿行的奇異地景。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "german-2026-10-18-18",
+      "dedupeKey": "art-2026-10-18-german-elmgreen-dragset-van-gogh-s-ear",
+      "name": "18｜Elmgreen & Dragset｜Van Gogh’s Ear",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "柏林藝術家組合",
+        "玻璃纖維",
+        "不鏽鋼",
+        "現成物轉譯"
+      ],
+      "works": "Van Gogh’s Ear｜2016",
+      "comment": "一座精密仿製的青藍色庭院泳池被豎立於 Rockefeller Center 第五大道入口，梯子、燈與跳板完整保留，卻失去原有使用方向。",
+      "website": "https://www.publicartfund.org/exhibitions/view/elmgreen-dragset-van-goghs-ear/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/elmgreen-dragset-van-goghs-ear/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/elmgreen-dragset-van-goghs-ear/",
+      "artistStatement": "長期工作於柏林的 Elmgreen & Dragset 以建築尺度的現成物錯置，讓泳池像高級櫥窗商品，也讓商業、觀光與藝術聚集的場址顯出荒謬。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/elmgreen-dragset-van-goghs-ear/",
+      "classicTitle": "Van Gogh’s Ear｜2016",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/elmgreen-dragset-van-goghs-ear/",
+      "classicDesc": "一座精密仿製的青藍色庭院泳池被豎立於 Rockefeller Center 第五大道入口，梯子、燈與跳板完整保留，卻失去原有使用方向。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "german-2026-10-18-19",
+      "dedupeKey": "art-2026-10-18-german-claudia-wieser-rehearsal",
+      "name": "19｜Claudia Wieser｜Rehearsal",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "美國 / Brooklyn, New York",
+      "cityKeywords": [
+        "Brooklyn",
+        "布魯克林",
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "德國公共藝術",
+        "手繪陶磚",
+        "幾何雕塑",
+        "可穿行裝置"
+      ],
+      "works": "Rehearsal｜2021",
+      "comment": "五件七至十三呎高的幾何量體覆以一千五百多片在柏林工作室手繪的陶磚，觀者可在 Brooklyn Bridge Park 的色面、鏡像與開口間穿行。",
+      "website": "https://www.publicartfund.org/exhibitions/view/claudia-wieser-rehearsal/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/claudia-wieser-rehearsal/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/claudia-wieser-rehearsal/",
+      "artistStatement": "Wieser 把現代主義抽象轉成排練場；身體移動、他人倒影與城市景觀共同決定每次觀看的構圖。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/claudia-wieser-rehearsal/",
+      "classicTitle": "Rehearsal｜2021",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/claudia-wieser-rehearsal/",
+      "classicDesc": "五件七至十三呎高的幾何量體覆以一千五百多片在柏林工作室手繪的陶磚，觀者可在 Brooklyn Bridge Park 的色面、鏡像與開口間穿行。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-18",
+      "id": "german-2026-10-18-20",
+      "dedupeKey": "art-2026-10-18-german-michael-sailstorfer-tornado",
+      "name": "20｜Michael Sailstorfer｜Tornado",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "德國公共藝術",
+        "黑色橡膠",
+        "鋼構",
+        "動態形象"
+      ],
+      "works": "Tornado｜2011",
+      "comment": "大量黑色卡車內胎纏繞鋼骨形成旋風般量體，懸置於中央公園入口；工業廢料似乎正在旋轉、吸入並改變周圍空間。",
+      "website": "https://www.publicartfund.org/exhibitions/view/tornado/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/tornado/",
+      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/tornado/",
+      "artistStatement": "Sailstorfer 以材料錯置與視覺不穩定製造「即將發生」的公共事件，讓幽默、危險感與城市能量同時存在。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/tornado/",
+      "classicTitle": "Tornado｜2011",
+      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/tornado/",
+      "classicDesc": "大量黑色卡車內胎纏繞鋼骨形成旋風般量體，懸置於中央公園入口；工業廢料似乎正在旋轉、吸入並改變周圍空間。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    }
+  ]
+}
