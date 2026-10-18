@@ -1,0 +1,735 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-19T04:56:35+08:00",
+    "timezone": "Asia/Taipei",
+    "date": "2026-10-19",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Public Art Fund 與 Museum der 1000 Orte 第一方作品頁",
+    "selectionPolicy": "已實現的空間介入、互動裝置、建築整合、城市媒介與 Kunst am Bau；排除傳統城市人物紀念雕塑，競圖與獎助完全分流。",
+    "note": "10/19 固定 10＋5＋5；20 則皆為作品資料，未混入競圖、補助或獎項，傳統人物紀念像排除檢查通過。",
+    "linkAudit": {
+      "checkedAt": "2026-10-19T04:56:35+08:00",
+      "checkedUniqueSources": 20,
+      "brokenOrBlockedReplaced": 0,
+      "rule": "第一方作品頁回讀"
+    },
+    "imageAudit": {
+      "checkedAt": "2026-10-19T04:56:35+08:00",
+      "imageEntries": 20,
+      "missing": 0,
+      "rule": "來源頁預覽圖片"
+    }
+  },
+  "entries": [
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-01",
+      "dedupeKey": "art-2026-10-19-current-mariko-mori-wave-ufo",
+      "name": "01｜Mariko Mori｜Wave UFO",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "互動裝置",
+        "腦波科技",
+        "聲音",
+        "即時影像"
+      ],
+      "works": "Wave UFO｜2003",
+      "comment": "銀白色艙體置入 590 Madison Avenue 玻璃中庭，三名觀眾一次進入；感測器把腦波轉成即時影像與聲音，使科技、建築與參與者共同構成作品。",
+      "website": "https://www.publicartfund.org/exhibitions/view/wave-ufo/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/wave-ufo/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/MoriM_1235_horizontal.jpg",
+      "artistStatement": "Mori 將佛教互聯觀與腦波科技結合，讓公共空間中的觀看轉為共享的身體經驗，而不是只在外部觀看一件物體。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/wave-ufo/",
+      "classicTitle": "Wave UFO｜2003",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/MoriM_1235_horizontal.jpg",
+      "classicDesc": "銀白色艙體置入 590 Madison Avenue 玻璃中庭，三名觀眾一次進入；感測器把腦波轉成即時影像與聲音，使科技、建築與參與者共同構成作品。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-02",
+      "dedupeKey": "art-2026-10-19-current-vito-acconci-rooms-from-below-a-display-system-for-show-windows",
+      "name": "02｜Vito Acconci｜Rooms from Below: A Display System for Show Windows",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "櫥窗介入",
+        "鏡面",
+        "彩色光",
+        "空間裝置"
+      ],
+      "works": "Rooms from Below: A Display System for Show Windows｜1999",
+      "comment": "Saks Fifth Avenue 櫥窗被旋轉九十度，玻璃成為地板，鏡面牆與天花板向內傾斜並複製視角，使購物展示變成可從下方觀看的建築房間。",
+      "website": "https://www.publicartfund.org/exhibitions/view/rooms-from-below-a-display-system-for-show-windows/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/rooms-from-below-a-display-system-for-show-windows/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/AcconciV_2016_Horizontal-1.jpg",
+      "artistStatement": "Acconci 透過方向錯置與多重反射，拆解商業櫥窗的單一正面，也把行人的身體與凝視納入城市展示系統。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/rooms-from-below-a-display-system-for-show-windows/",
+      "classicTitle": "Rooms from Below: A Display System for Show Windows｜1999",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/AcconciV_2016_Horizontal-1.jpg",
+      "classicDesc": "Saks Fifth Avenue 櫥窗被旋轉九十度，玻璃成為地板，鏡面牆與天花板向內傾斜並複製視角，使購物展示變成可從下方觀看的建築房間。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-03",
+      "dedupeKey": "art-2026-10-19-current-simon-grennan-christopher-sperandio-the-invisible-city",
+      "name": "03｜Simon Grennan & Christopher Sperandio｜The Invisible City",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "地鐵廣告介入",
+        "漫畫",
+        "公共敘事",
+        "大眾運輸"
+      ],
+      "works": "The Invisible City｜1999",
+      "comment": "漫畫以一般廣告格式進入紐約地鐵車廂，記錄夜班技師、店員、保全與酒吧工作者，使維持二十四小時城市運轉的勞動在通勤途中被看見。",
+      "website": "https://www.publicartfund.org/exhibitions/view/the-invisible-city/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/the-invisible-city/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/GrennanSperandio_0718_horizontal.jpg",
+      "artistStatement": "藝術家借用大眾廣告的分布網絡，把被忽略的夜間勞動轉成公共敘事，重新定義城市何者值得被展示。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/the-invisible-city/",
+      "classicTitle": "The Invisible City｜1999",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/GrennanSperandio_0718_horizontal.jpg",
+      "classicDesc": "漫畫以一般廣告格式進入紐約地鐵車廂，記錄夜班技師、店員、保全與酒吧工作者，使維持二十四小時城市運轉的勞動在通勤途中被看見。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-04",
+      "dedupeKey": "art-2026-10-19-current-josiah-mcelheny-the-metal-party",
+      "name": "04｜Josiah McElheny｜The Metal Party",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Brooklyn",
+        "布魯克林"
+      ],
+      "media": [
+        "參與式裝置",
+        "鋁板",
+        "鏡面玻璃",
+        "聲音"
+      ],
+      "works": "The Metal Party｜2001–2002",
+      "comment": "作品重構 1929 年包浩斯金屬派對，以鋁地板、玻璃球與反射表面形成銀色環境；觀眾穿上 Mylar 服裝並以拍立得留下自身在場。",
+      "website": "https://www.publicartfund.org/exhibitions/view/the-metal-party/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/the-metal-party/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/McElhenyJ_1142_horizontal.jpg",
+      "artistStatement": "McElheny 不把歷史做成靜態復原，而讓觀眾以服裝、聲音與影像重新演出集體現代性，公共性發生於參與過程。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/the-metal-party/",
+      "classicTitle": "The Metal Party｜2001–2002",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/McElhenyJ_1142_horizontal.jpg",
+      "classicDesc": "作品重構 1929 年包浩斯金屬派對，以鋁地板、玻璃球與反射表面形成銀色環境；觀眾穿上 Mylar 服裝並以拍立得留下自身在場。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-05",
+      "dedupeKey": "art-2026-10-19-current-jonah-freeman-sixteen-scenarios",
+      "name": "05｜Jonah Freeman｜Sixteen Scenarios",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Brooklyn",
+        "布魯克林"
+      ],
+      "media": [
+        "鏡面迷宮",
+        "鋁材",
+        "壓克力",
+        "霓虹燈"
+      ],
+      "works": "Sixteen Scenarios｜2002",
+      "comment": "Brooklyn Public Library 大廳出現由多入口、連通走道與中庭式房間組成的迷宮；彩色霓虹忽明忽滅，使圖書館入口轉成不穩定的都市劇場。",
+      "website": "https://www.publicartfund.org/exhibitions/view/sixteen-scenarios/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/sixteen-scenarios/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/FreemanJ_0602_horizontal.jpg",
+      "artistStatement": "Freeman 以通用鋼玻璃建築語彙製造感知偏差，讓人思考商場、賭場與辦公空間如何悄悄塑造情緒與行為。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/sixteen-scenarios/",
+      "classicTitle": "Sixteen Scenarios｜2002",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/FreemanJ_0602_horizontal.jpg",
+      "classicDesc": "Brooklyn Public Library 大廳出現由多入口、連通走道與中庭式房間組成的迷宮；彩色霓虹忽明忽滅，使圖書館入口轉成不穩定的都市劇場。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-06",
+      "dedupeKey": "art-2026-10-19-current-anissa-mack-pies-for-a-passerby",
+      "name": "06｜Anissa Mack｜Pies for a Passerby",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Brooklyn",
+        "布魯克林"
+      ],
+      "media": [
+        "參與式裝置",
+        "臨時建築",
+        "烘焙",
+        "對話"
+      ],
+      "works": "Pies for a Passerby｜2002",
+      "comment": "一座可運作的小屋被搬到 Brooklyn Public Library 廣場，藝術家在其中烤蘋果派、與路人交談，再把派放上窗台邀請人「偷走」。",
+      "website": "https://www.publicartfund.org/exhibitions/view/pies-for-a-passerby/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/pies-for-a-passerby/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/MackA_1082_horizontal.jpg",
+      "artistStatement": "Mack 把家庭勞動、贈與與美國文化想像移入公共廣場，使氣味、等待和陌生人互動成為作品媒材。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/pies-for-a-passerby/",
+      "classicTitle": "Pies for a Passerby｜2002",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/MackA_1082_horizontal.jpg",
+      "classicDesc": "一座可運作的小屋被搬到 Brooklyn Public Library 廣場，藝術家在其中烤蘋果派、與路人交談，再把派放上窗台邀請人「偷走」。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-07",
+      "dedupeKey": "art-2026-10-19-current-jocelyn-taylor-the-story-of-color",
+      "name": "07｜Jocelyn Taylor｜The Story of Color",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Brooklyn",
+        "布魯克林"
+      ],
+      "media": [
+        "錄像裝置",
+        "街店櫥窗",
+        "三螢幕",
+        "公共影像"
+      ],
+      "works": "The Story of Color｜2000",
+      "comment": "五組鬆散敘事在 Mott Street 與 Williamsburg 店面櫥窗播放，從 white、black、light、dark、color 等詞探討種族、性與人性的集體認知。",
+      "website": "https://www.publicartfund.org/exhibitions/view/the-story-of-color/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/the-story-of-color/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/TaylorJ_1771_horizontal.jpg",
+      "artistStatement": "Taylor 把錄像從展場移到日常街窗，讓語言中的顏色與身分意義在多元城市人口面前公開摩擦。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/the-story-of-color/",
+      "classicTitle": "The Story of Color｜2000",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/TaylorJ_1771_horizontal.jpg",
+      "classicDesc": "五組鬆散敘事在 Mott Street 與 Williamsburg 店面櫥窗播放，從 white、black、light、dark、color 等詞探討種族、性與人性的集體認知。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-08",
+      "dedupeKey": "art-2026-10-19-current-fatimah-tuggar-transient-transfer",
+      "name": "08｜Fatimah Tuggar｜Transient Transfer",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Bronx",
+        "布朗克斯"
+      ],
+      "media": [
+        "公車候車亭",
+        "數位拼貼",
+        "參與式平台",
+        "城市攝影"
+      ],
+      "works": "Transient Transfer｜2008",
+      "comment": "藝術家拍攝 Bronx 日常景象，居民再於博物館與網站互動介面重組影像；入選拼貼被放上 Grand Concourse 候車亭，形成由街區共同製作的展示網絡。",
+      "website": "https://www.publicartfund.org/exhibitions/view/transient-transfer/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/transient-transfer/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/TuggarF_Horizontal.jpg.jpg",
+      "artistStatement": "Tuggar 把作者權分散給城市使用者，使資料庫、介面與公車候車亭共同成為公共藝術基礎設施。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/transient-transfer/",
+      "classicTitle": "Transient Transfer｜2008",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/TuggarF_Horizontal.jpg.jpg",
+      "classicDesc": "藝術家拍攝 Bronx 日常景象，居民再於博物館與網站互動介面重組影像；入選拼貼被放上 Grand Concourse 候車亭，形成由街區共同製作的展示網絡。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-09",
+      "dedupeKey": "art-2026-10-19-current-dan-witz-sticks",
+      "name": "09｜Dan Witz｜Sticks",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Lower East Side",
+        "下東城"
+      ],
+      "media": [
+        "錯視壁畫",
+        "建築介入",
+        "戶外繪畫",
+        "反廣告"
+      ],
+      "works": "Sticks｜1998–1999",
+      "comment": "七幅大型錯視畫讓 Henry Street Settlement 劇場外牆彷彿被巨型尖木刺穿，以「自生防禦」對抗商業看板持續佔領城市牆面。",
+      "website": "https://www.publicartfund.org/exhibitions/view/sticks/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/sticks/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/WojnarowiczD_1964_horizontal.jpg",
+      "artistStatement": "Witz 以繪畫造成建築受力的幻覺，把牆面由廣告載體轉成街區防衛與批判性的公共表皮。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/sticks/",
+      "classicTitle": "Sticks｜1998–1999",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/WojnarowiczD_1964_horizontal.jpg",
+      "classicDesc": "七幅大型錯視畫讓 Henry Street Settlement 劇場外牆彷彿被巨型尖木刺穿，以「自生防禦」對抗商業看板持續佔領城市牆面。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "current-2026-10-19-10",
+      "dedupeKey": "art-2026-10-19-current-paul-mccarthy-the-box",
+      "name": "10｜Paul McCarthy｜The Box",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "建築複製",
+        "木構箱體",
+        "工作室裝置",
+        "空間錯置"
+      ],
+      "works": "The Box｜2001",
+      "comment": "藝術家工作室被精確複製後整體旋轉九十度塞入巨型木箱，家具、工具與影像設備從側牆突出；觀眾從窗框觀看如同進入立體畫面。",
+      "website": "https://www.publicartfund.org/exhibitions/view/the-box/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/the-box/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/McCarthyP_1135_horizontal.jpg",
+      "artistStatement": "McCarthy 以重力方向錯置讓熟悉工作空間失效，揭示展示框架如何把生活、勞動與混亂重新製造成可觀看的圖像。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/the-box/",
+      "classicTitle": "The Box｜2001",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/McCarthyP_1135_horizontal.jpg",
+      "classicDesc": "藝術家工作室被精確複製後整體旋轉九十度塞入巨型木箱，家具、工具與影像設備從側牆突出；觀眾從窗框觀看如同進入立體畫面。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "global-2026-10-19-11",
+      "dedupeKey": "art-2026-10-19-global-takashi-murakami-reversed-double-helix",
+      "name": "11｜Takashi Murakami｜Reversed Double Helix",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "大型雕塑",
+        "充氣裝置",
+        "公共座椅",
+        "場域轉化"
+      ],
+      "works": "Reversed Double Helix｜2003",
+      "comment": "三十英尺高多臂形體、漂浮眼球氣球與可坐的蘑菇森林共同改造 Rockefeller Plaza，將商業廣場轉成可進入的角色宇宙。",
+      "website": "https://www.publicartfund.org/exhibitions/view/reversed-double-helix/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/reversed-double-helix/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/MurakamiT_1276_horizontal.jpg",
+      "artistStatement": "Murakami 把流行圖像放大到建築尺度，讓觀看、休息與通行都被納入同一個高密度的公共視覺系統。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/reversed-double-helix/",
+      "classicTitle": "Reversed Double Helix｜2003",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/MurakamiT_1276_horizontal.jpg",
+      "classicDesc": "三十英尺高多臂形體、漂浮眼球氣球與可坐的蘑菇森林共同改造 Rockefeller Plaza，將商業廣場轉成可進入的角色宇宙。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "global-2026-10-19-12",
+      "dedupeKey": "art-2026-10-19-global-carolyn-castan-o-jennifer-cohen-luis-gispert-kirsten-hassenfeld-marc-swanson-semiprecious",
+      "name": "12｜Carolyn Castaño、Jennifer Cohen、Luis Gispert、Kirsten Hassenfeld、Marc Swanson｜Semiprecious",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Brooklyn",
+        "布魯克林"
+      ],
+      "media": [
+        "群展",
+        "反光材料",
+        "大型雕塑",
+        "戶外裝置"
+      ],
+      "works": "Semiprecious｜2004–2005",
+      "comment": "五位藝術家以閃耀、仿貴重與誘惑性的材料介入 MetroTech，從欲望、異國想像與人工性反思公共雕塑如何製造價值感。",
+      "website": "https://www.publicartfund.org/exhibitions/view/semiprecious/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/semiprecious/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/GispertL_0657_horizontal.jpg",
+      "artistStatement": "作品群把表面光澤當成批判工具，使城市廣場的消費性視覺與藝術物件的「珍貴」地位彼此映照。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/semiprecious/",
+      "classicTitle": "Semiprecious｜2004–2005",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/GispertL_0657_horizontal.jpg",
+      "classicDesc": "五位藝術家以閃耀、仿貴重與誘惑性的材料介入 MetroTech，從欲望、異國想像與人工性反思公共雕塑如何製造價值感。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "global-2026-10-19-13",
+      "dedupeKey": "art-2026-10-19-global-martin-basher-zipora-fried-sam-moyer-matt-sheridan-smith-kevin-zucker-total-recall",
+      "name": "13｜Martin Basher、Zipora Fried、Sam Moyer、Matt Sheridan Smith、Kevin Zucker｜Total Recall",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市",
+        "Brooklyn",
+        "布魯克林"
+      ],
+      "media": [
+        "大型委託",
+        "戶外雕塑",
+        "混合媒材",
+        "記憶主題"
+      ],
+      "works": "Total Recall｜2010–2011",
+      "comment": "五件大型新委託在 MetroTech 以多層、未來感與可變形結構回應記憶的不可靠性，讓廣場像一座由錯置殘片組成的共享記憶庫。",
+      "website": "https://www.publicartfund.org/exhibitions/view/total-recall/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/total-recall/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/BasherM_Horizontal.jpg.jpg",
+      "artistStatement": "群展把「記得」從私人心理活動轉成城市空間的材料操作，使作品在熟悉與陌生之間持續改寫場所。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/total-recall/",
+      "classicTitle": "Total Recall｜2010–2011",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/BasherM_Horizontal.jpg.jpg",
+      "classicDesc": "五件大型新委託在 MetroTech 以多層、未來感與可變形結構回應記憶的不可靠性，讓廣場像一座由錯置殘片組成的共享記憶庫。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "global-2026-10-19-14",
+      "dedupeKey": "art-2026-10-19-global-nam-june-paik-transmission",
+      "name": "14｜Nam June Paik｜Transmission",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "雷射裝置",
+        "傳輸塔",
+        "汽車雕塑",
+        "媒體藝術"
+      ],
+      "works": "Transmission｜2002",
+      "comment": "三十三英尺高真實傳輸塔在白天以階梯燈光閃爍，夜間則以雷射掃描 Rockefeller Plaza，並結合汽車與廣播技術的文化意象。",
+      "website": "https://www.publicartfund.org/exhibitions/view/transmission/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/transmission/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/PaikN_1324_horizontal.jpg",
+      "artistStatement": "Paik 將資訊基礎設施變成公共光環境，主張科技也能被重新配置為想像性、有人情尺度的共享媒介。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/transmission/",
+      "classicTitle": "Transmission｜2002",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/PaikN_1324_horizontal.jpg",
+      "classicDesc": "三十三英尺高真實傳輸塔在白天以階梯燈光閃爍，夜間則以雷射掃描 Rockefeller Plaza，並結合汽車與廣播技術的文化意象。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "global-2026-10-19-15",
+      "dedupeKey": "art-2026-10-19-global-richard-woods-wall-and-door-and-roof",
+      "name": "15｜Richard Woods｜wall and door and roof",
+      "tier": "全球經典層",
+      "region": "西方",
+      "country": "美國 / New York City",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約市"
+      ],
+      "media": [
+        "建築介入",
+        "印刷木紋",
+        "臨時結構",
+        "圖案裝置"
+      ],
+      "works": "wall and door and roof｜2009",
+      "comment": "誇張木紋、牆、門與屋頂語彙被植入 City Hall Park，使熟悉的房屋構件像放大的版畫切片，與歷史市政建築形成尺度與材質錯位。",
+      "website": "https://www.publicartfund.org/exhibitions/view/wall-and-door-and-roof/",
+      "workPage": "https://www.publicartfund.org/exhibitions/view/wall-and-door-and-roof/",
+      "photo": "https://www.publicartfund.org/wp-content/uploads/2019/06/WoodsR_Horizontal.jpg.jpg",
+      "artistStatement": "Woods 以可辨識卻不寫實的建築表皮，讓公共空間中的裝飾、建造與「家」的想像互相衝突。",
+      "artistStatementSource": "https://www.publicartfund.org/exhibitions/view/wall-and-door-and-roof/",
+      "classicTitle": "wall and door and roof｜2009",
+      "classicImage": "https://www.publicartfund.org/wp-content/uploads/2019/06/WoodsR_Horizontal.jpg.jpg",
+      "classicDesc": "誇張木紋、牆、門與屋頂語彙被植入 City Hall Park，使熟悉的房屋構件像放大的版畫切片，與歷史市政建築形成尺度與材質錯位。",
+      "relatedByCity": [
+        "opportunity-2026-10-14-stuyvesant-park-neighborhood-association-2026-sculpture-open-call-renewal-and-respite-found-in-nature"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "german-2026-10-19-16",
+      "dedupeKey": "art-2026-10-19-german-ju-rgen-partenheimer-o-t",
+      "name": "16｜Jürgen Partenheimer｜o. T.",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "鋁板",
+        "噴漆",
+        "油性粉筆"
+      ],
+      "works": "o. T.｜2001",
+      "comment": "外交部訪客等候空間的三組大型鋁板各由九個模組構成；幾何色面提供建築性骨架，自由線條則把抒情節奏擴散至整個房間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-5",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-5",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/8c621340aa1bfad62b8109e30474235199a9d0de.jpg",
+      "artistStatement": "Partenheimer 讓作品既可獨立又與柱列和牆面精確對位，示範「可移動的繪畫」仍能透過配置成為真正建築整合藝術。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-5",
+      "classicTitle": "o. T.｜2001",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/8c621340aa1bfad62b8109e30474235199a9d0de.jpg",
+      "classicDesc": "外交部訪客等候空間的三組大型鋁板各由九個模組構成；幾何色面提供建築性骨架，自由線條則把抒情節奏擴散至整個房間。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "german-2026-10-19-17",
+      "dedupeKey": "art-2026-10-19-german-anna-werkmeister-o-t-schilfhalme",
+      "name": "17｜Anna Werkmeister｜o. T.（Schilfhalme）",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "日本 / Tokyo",
+      "cityKeywords": [
+        "Tokyo",
+        "東京",
+        "東京都"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "錄像截圖",
+        "五聯畫",
+        "媒體轉譯"
+      ],
+      "works": "o. T.（Schilfhalme）｜2005",
+      "comment": "東京德國大使館八點五公尺長五聯畫取自風吹蘆葦錄像；垂直莖線、水平板列、靜止畫面與原始動態彼此拉扯，並回應中庭窗格。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-schilfhalme",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-schilfhalme",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/21ed49962c5590c857ce506bff8f6261df6956a6.jpg",
+      "artistStatement": "Werkmeister 將德國湖區影像與日本耐震文化連結，使自然、記憶與建築節奏在外交空間中形成跨文化場域。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-schilfhalme",
+      "classicTitle": "o. T.（Schilfhalme）｜2005",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/21ed49962c5590c857ce506bff8f6261df6956a6.jpg",
+      "classicDesc": "東京德國大使館八點五公尺長五聯畫取自風吹蘆葦錄像；垂直莖線、水平板列、靜止畫面與原始動態彼此拉扯，並回應中庭窗格。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "german-2026-10-19-18",
+      "dedupeKey": "art-2026-10-19-german-alexander-calder-te-tes-et-queue",
+      "name": "18｜Alexander Calder｜Têtes et Queue",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "公共雕塑",
+        "鋼材",
+        "Stabile",
+        "建築對話"
+      ],
+      "works": "Têtes et Queue｜1965",
+      "comment": "黑色與紅色鋼構置於 Neue Nationalgalerie 露台，以水平延伸、開放輪廓與遊戲性姿態對話 Mies van der Rohe 屋頂的嚴整網格。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tetes-et-queue",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tetes-et-queue",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5adcf047db639829b21dd51ccbabaff9f9c2dcca.jpg",
+      "artistStatement": "作品不是人物紀念像；Calder 以抽象穩定雕塑的動勢鬆動現代主義建築秩序，使露台成為身體繞行與視線交錯的空間。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/tetes-et-queue",
+      "classicTitle": "Têtes et Queue｜1965",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5adcf047db639829b21dd51ccbabaff9f9c2dcca.jpg",
+      "classicDesc": "黑色與紅色鋼構置於 Neue Nationalgalerie 露台，以水平延伸、開放輪廓與遊戲性姿態對話 Mies van der Rohe 屋頂的嚴整網格。",
+      "relatedByCity": [
+        "opportunity-2026-09-01-berlin-impact-funding-2027"
+      ]
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "german-2026-10-19-19",
+      "dedupeKey": "art-2026-10-19-german-waldemar-grzimek-gro-tierstele-und-kleintierstele",
+      "name": "19｜Waldemar Grzimek｜Großtierstele und Kleintierstele",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Insel Riems",
+      "cityKeywords": [
+        "Insel Riems",
+        "Riems",
+        "里姆斯島"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "石質浮雕",
+        "研究園區",
+        "動物圖像"
+      ],
+      "works": "Großtierstele und Kleintierstele｜1960",
+      "comment": "兩座橫向石碑以凸浮雕與凹浮雕呈現大型與小型動物，置入病毒研究島的海側外部空間，把研究對象、建築歷史與地景直接連結。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosstierstele-und-kleintierstele",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosstierstele-und-kleintierstele",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/3138e86c6da70470348e498dfa4b34f66b9a025e.jpg",
+      "artistStatement": "Grzimek 將科學機構的動物研究轉譯為可環繞觀看的低矮場域標記，重點是制度、物種與場所關係而非人物歌頌。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosstierstele-und-kleintierstele",
+      "classicTitle": "Großtierstele und Kleintierstele｜1960",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/3138e86c6da70470348e498dfa4b34f66b9a025e.jpg",
+      "classicDesc": "兩座橫向石碑以凸浮雕與凹浮雕呈現大型與小型動物，置入病毒研究島的海側外部空間，把研究對象、建築歷史與地景直接連結。",
+      "relatedByCity": []
+    },
+    {
+      "category": "作品/展覽",
+      "status": "官方來源",
+      "updated": "2026-10-19",
+      "id": "german-2026-10-19-20",
+      "dedupeKey": "art-2026-10-19-german-irene-thonke-fru-hling-sommer-herbst-winter",
+      "name": "20｜Irene Thonke｜Frühling, Sommer, Herbst, Winter",
+      "tier": "德國經典層",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "Kunst am Bau",
+        "掛毯",
+        "纖維藝術",
+        "室內整合"
+      ],
+      "works": "Frühling, Sommer, Herbst, Winter｜1952",
+      "comment": "四幅大型掛毯以米、紅、金、藍的主色對應四季，與 Villa Hammerschmidt 宴會廳金色灰泥天花和棋盤地板形成柔軟而持續的色彩序列。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/fruhling-sommer-herbst-winter",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/fruhling-sommer-herbst-winter",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/033d9d92a7fb8755ef8f50226fae8fe6fa9cc1eb.jpg",
+      "artistStatement": "Thonke 以纖維、吸音與季節節奏平衡代表性空間的硬質建築語彙；作品的公共性來自長期陪伴國家儀式，而非紀念單一人物。",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/fruhling-sommer-herbst-winter",
+      "classicTitle": "Frühling, Sommer, Herbst, Winter｜1952",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/033d9d92a7fb8755ef8f50226fae8fe6fa9cc1eb.jpg",
+      "classicDesc": "四幅大型掛毯以米、紅、金、藍的主色對應四季，與 Villa Hammerschmidt 宴會廳金色灰泥天花和棋盤地板形成柔軟而持續的色彩序列。",
+      "relatedByCity": []
+    }
+  ]
+}

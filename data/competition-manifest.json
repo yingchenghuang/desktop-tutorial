@@ -1,17 +1,17 @@
 {
-  "version": "2026-10-18-competition-r76",
-  "generatedAt": "2026-10-18T04:57:59+08:00",
+  "version": "2026-10-19-competition-r77",
+  "generatedAt": "2026-10-19T04:56:35+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 124,
+  "activeEntries": 129,
   "addedToday": 5,
-  "expiredRemoved": 5,
+  "expiredRemoved": 0,
   "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 124,
-  "deadlinePrecisionEntries": 124,
-  "cityKeywordEntries": 124,
-  "note": "保留 119 則既有未截止項目，新增 5 則；移除 5 則逾期項目，所有有效 deadline 皆含時區偏移。",
+  "deadlineTimezoneEntries": 129,
+  "deadlinePrecisionEntries": 129,
+  "cityKeywordEntries": 129,
+  "note": "保留 124 則既有未截止項目，新增 5 則；移除 0 則逾期項目，所有有效 deadline 皆含時區偏移。",
   "germanAddedToday": 0,
   "scopeRemoved": 0
 }
