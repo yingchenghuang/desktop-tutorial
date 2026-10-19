@@ -1,21 +1,21 @@
 {
   "meta": {
     "date": "2026-10-20",
-    "generatedAt": "2026-10-20T04:47:13+08:00",
+    "generatedAt": "2026-10-20T05:03:02+08:00",
     "timezone": "Asia/Taipei",
     "total": 20,
     "dynamicEntries": 10,
     "globalClassicEntries": 5,
     "germanClassicEntries": 5,
     "source": "Sculpture International Rotterdam／CBK Rotterdam 與 Kunsthalle Münster 官方英文作品頁",
-    "note": "10 則研究追蹤、5 則全球經典、5 則德國經典；追蹤包含歷史案例，不將研究日期標成作品發表日期。排除傳統人物紀念雕塑。",
+    "note": "10 則當期或持續開放案例、5 則全球經典、5 則德國經典；動態案例均為仍在公共空間使用或持續設置的作品，排除已結束臨時展與傳統人物紀念雕塑。",
     "dedupeAudit": {
       "historicalEntriesChecked": 1884,
       "duplicateWorkUrls": 0
     },
     "statementPolicy": "官方解說轉述與研究整理，非藝術家逐字引言",
     "imageAudit": {
-      "checkedAt": "2026-10-20T04:50:50+08:00",
+      "checkedAt": "2026-10-20T05:03:02+08:00",
       "checked": 20,
       "valid": 20,
       "missing": 0,
@@ -85,8 +85,8 @@
     },
     {
       "id": "art-20261020-03",
-      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/time-and-again",
-      "name": "03｜Ken Lum｜Time. And Again.",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/lost-luggage-depot-en",
+      "name": "03｜Jeff Wall｜Lost Luggage Depot",
       "category": "作品/展覽",
       "tier": "動態情報層",
       "region": "西方",
@@ -96,21 +96,22 @@
         "鹿特丹"
       ],
       "media": [
-        "攝影/文字"
+        "裝置",
+        "建築/場域"
       ],
-      "works": "Time. And Again.｜2021",
-      "comment": "五張肖像海報以勞動、育兒與失業的文字撞擊表情，將經濟脆弱性帶進街頭。鹿特丹展期為 2021 年 11 至 12 月，屬歷史案例。",
-      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/time-and-again/",
-      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/time-and-again/",
-      "photo": "https://www.sculptureinternationalrotterdam.nl/app/uploads/2021/11/JHML2201-1548-450x300.jpg",
-      "classicImage": "https://www.sculptureinternationalrotterdam.nl/app/uploads/2021/11/JHML2201-1548-450x300.jpg",
-      "classicTitle": "Time. And Again.｜2021",
-      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
-      "artistStatement": "依官方作品解說轉述：讓圖像與文字之間的摩擦，擾動廣告慣用的幸福敘事。",
-      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/time-and-again/",
+      "works": "Lost Luggage Depot｜2001",
+      "comment": "鑄鐵行李寄存架位於威廉敏娜碼頭，連結昔日移民登船、離境與失物的記憶；作品仍設於 Hotel New York 前方，讓港口歷史持續進入日常步行經驗。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/lost-luggage-depot-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/lost-luggage-depot-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24150956/jeffwall-450x678.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24150956/jeffwall-450x678.jpg",
+      "classicTitle": "Lost Luggage Depot｜2001",
+      "classicDesc": "2026 年 10 月 20 日研究入庫；作品自 2001 年設於 Hotel New York、Wilhelminakade 88，屬持續開放的永久公共藝術。",
+      "artistStatement": "依官方作品解說轉述：作品如同照片留下物質痕跡，以遺失行李回應碼頭移民、離境與記憶。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/lost-luggage-depot-en/",
       "status": "官方來源",
       "updated": "2026-10-20",
-      "researchUpdateType": "既有作品研究更新",
+      "researchUpdateType": "持續開放永久作品",
       "statementType": "官方解說轉述，非藝術家逐字引言"
     },
     {

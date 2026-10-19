@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-19",
-  "generatedAt": "2026-10-19T04:56:35+08:00",
+  "generatedAt": "2026-10-20T05:03:02+08:00",
   "meta": {
     "activeEntries": 122,
     "addedToday": 5,
@@ -8,8 +8,8 @@
     "duplicateRemoved": 8,
     "scopeRemoved": 0,
     "source": "城市政府、公共藝術計畫與官方徵件頁",
-    "note": "保留 117 則未截止唯一項目，新增 5 則；依含時區時間移除 4 則逾期案，合併 8 則同案重複。Hattiesburg 截止時區按基地推定並在個案標註。",
-    "generatedAt": "2026-10-20T04:49:48+08:00"
+    "note": "保留 117 則未截止唯一項目，新增 5 則；依含時區時間移除 4 則逾期案，合併 8 則同案重複。今日五案補齊英文與繁體中文城市關鍵字；官方未列預算或申請費者明確標示「未公開」。Hattiesburg 截止時區依基地推定並保留標記。",
+    "generatedAt": "2026-10-20T05:03:02+08:00"
   },
   "entries": [
     {
@@ -5210,7 +5210,8 @@
       "region": "西方",
       "country": "加拿大 / Guelph",
       "cityKeywords": [
-        "Guelph"
+        "Guelph",
+        "貴湖"
       ],
       "media": [
         "雕塑",
@@ -5233,7 +5234,7 @@
       "organizer": "Guelph Public Library Board",
       "eligibility": "主要居住地為加拿大且有當地工作資格的藝術家或團隊；詳見原住民藝術家條款",
       "budget": "CAD 250,000＋HST；第二階段提案費 CAD 2,500＋HST",
-      "applicationFee": "未於本次查核頁明示",
+      "applicationFee": "未公開",
       "sourceCheckedAt": "2026-10-20T04:49:48+08:00"
     },
     {
@@ -5245,7 +5246,8 @@
       "region": "西方",
       "country": "加拿大 / Guelph",
       "cityKeywords": [
-        "Guelph"
+        "Guelph",
+        "貴湖"
       ],
       "media": [
         "裝置",
@@ -5268,7 +5270,7 @@
       "organizer": "Friends of the Guelph Public Library",
       "eligibility": "主要居住地為加拿大且有當地工作資格的藝術家或團隊；詳見原住民藝術家條款",
       "budget": "CAD 250,000＋HST（如適用）；入圍提案費 CAD 2,500",
-      "applicationFee": "未於本次查核頁明示",
+      "applicationFee": "未公開",
       "sourceCheckedAt": "2026-10-20T04:49:48+08:00"
     },
     {
@@ -5280,7 +5282,8 @@
       "region": "西方",
       "country": "美國 / Hattiesburg",
       "cityKeywords": [
-        "Hattiesburg"
+        "Hattiesburg",
+        "哈蒂斯堡"
       ],
       "media": [
         "雕塑",
@@ -5302,8 +5305,8 @@
       "deadlinePrecision": "time",
       "organizer": "Hattiesburg Alliance for Public Art",
       "eligibility": "美國全國徵件；具公共藝術經驗的專業藝術家或團隊",
-      "budget": "公告網頁未列總額，請查閱完整簡章",
-      "applicationFee": "未於本次查核頁明示",
+      "budget": "未公開",
+      "applicationFee": "未公開",
       "sourceCheckedAt": "2026-10-20T04:49:48+08:00",
       "deadlineTimezoneInferred": true
     },
@@ -5316,7 +5319,8 @@
       "region": "西方",
       "country": "美國 / Rochester, Minnesota",
       "cityKeywords": [
-        "Rochester"
+        "Rochester",
+        "羅徹斯特"
       ],
       "media": [
         "裝置",
@@ -5351,7 +5355,8 @@
       "region": "西方",
       "country": "美國 / New York City",
       "cityKeywords": [
-        "New York City"
+        "New York City",
+        "紐約市"
       ],
       "media": [
         "光/影像/投影",
@@ -5374,7 +5379,7 @@
       "organizer": "FABnyc／Urban Design Forum",
       "eligibility": "個人燈光設計師或小型團隊；須能與藝術家合作並處理紐約戶外公共空間條件",
       "budget": "設計費 USD 10,000；製作安裝維護另有預算",
-      "applicationFee": "未於本次查核頁明示",
+      "applicationFee": "未公開",
       "sourceCheckedAt": "2026-10-20T04:49:48+08:00"
     }
   ]

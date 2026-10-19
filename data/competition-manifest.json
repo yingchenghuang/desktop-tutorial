@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-20-competition-r78",
-  "generatedAt": "2026-10-20T04:49:48+08:00",
+  "version": "2026-10-20-competition-r79",
+  "generatedAt": "2026-10-20T05:03:02+08:00",
   "files": [
     "competitions.json"
   ],
@@ -11,7 +11,7 @@
   "deadlineTimezoneEntries": 122,
   "deadlinePrecisionEntries": 122,
   "cityKeywordEntries": 122,
-  "note": "保留 117 則未截止唯一項目，新增 5 則；依含時區時間移除 4 則逾期案，合併 8 則同案重複。Hattiesburg 截止時區按基地推定並在個案標註。",
+  "note": "保留 117 則未截止唯一項目，新增 5 則；移除 4 則逾期案並合併 8 則同案重複。今日五案 cityKeywords 已補齊英文與繁體中文城市名；未公開欄位明確標示「未公開」。Hattiesburg 截止時區依基地推定並保留標記。",
   "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 1
