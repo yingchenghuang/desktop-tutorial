@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-19-public-art-r102",
-  "generatedAt": "2026-10-19T04:56:35+08:00",
+  "version": "2026-10-20-public-art-r103",
+  "generatedAt": "2026-10-20T04:50:50+08:00",
   "files": [
     "backfill-october-20261001.json",
     "backfill-october-20261002.json",
@@ -20,13 +20,14 @@
     "backfill-october-20261016.json",
     "backfill-october-20261017.json",
     "backfill-october-20261018.json",
-    "backfill-october-20261019.json"
+    "backfill-october-20261019.json",
+    "backfill-october-20261020.json"
   ],
-  "expectedEntries": 380,
-  "statementEntries": 380,
-  "statementSourceEntries": 380,
+  "expectedEntries": 400,
+  "statementEntries": 400,
+  "statementSourceEntries": 400,
   "statementBacklog": 0,
-  "imageEntries": 380,
+  "imageEntries": 400,
   "imageBacklog": 0,
-  "note": "截至 2026-10-19，10 月每日固定 20 則且皆為作品資料；本日配置 10／5／5，排除傳統人物紀念雕塑，來源、圖片、城市與去重欄位完整。"
+  "note": "截至 2026-10-20，十月 20 個每日檔、共 400 則。今日 10 則研究追蹤、5 則全球經典、5 則德國經典；圖片 20/20 驗證，對照 1,884 則歷史案例去重，歷史作品標示原始年份。"
 }

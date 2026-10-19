@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "date": "2026-10-20",
+    "generatedAt": "2026-10-20T04:47:13+08:00",
+    "timezone": "Asia/Taipei",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Sculpture International Rotterdam／CBK Rotterdam 與 Kunsthalle Münster 官方英文作品頁",
+    "note": "10 則研究追蹤、5 則全球經典、5 則德國經典；追蹤包含歷史案例，不將研究日期標成作品發表日期。排除傳統人物紀念雕塑。",
+    "dedupeAudit": {
+      "historicalEntriesChecked": 1884,
+      "duplicateWorkUrls": 0
+    },
+    "statementPolicy": "官方解說轉述與研究整理，非藝術家逐字引言",
+    "imageAudit": {
+      "checkedAt": "2026-10-20T04:50:50+08:00",
+      "checked": 20,
+      "valid": 20,
+      "missing": 0,
+      "method": "官方圖片 URL HTTP GET Range 與圖片檔頭核驗"
+    }
+  },
+  "entries": [
+    {
+      "id": "art-20261020-01",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/a-minute-of-shelter",
+      "name": "01｜Narges Mohammadi｜A Minute of Shelter",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "A Minute of Shelter｜2025",
+      "comment": "紅磚浴室牆呈現室內與室外兩面，以可上鎖的空間回應家暴中的避難需求，將城市紀念轉化為身體尺度的安全議題。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/a-minute-of-shelter/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/a-minute-of-shelter/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2025/07/27141528/Onthulling-A-Minute-of-Shelter-foto-Rhalda-Jansen-scaled.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2025/07/27141528/Onthulling-A-Minute-of-Shelter-foto-Rhalda-Jansen-scaled.jpg",
+      "classicTitle": "A Minute of Shelter｜2025",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：以日常材料與空間記憶承載女性安全的公共討論。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/a-minute-of-shelter/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-02",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/fontein-maashaven",
+      "name": "02｜Jeroen Jongeleen｜Fontein Maashaven",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "聲音/霧/水"
+      ],
+      "works": "Fontein Maashaven｜2022",
+      "comment": "藝術家把港池原有的不定時排水口指認為噴泉，以現成基礎設施介入都市更新，保留港區不整齊、難以預測的一面。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/fontein-maashaven/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/fontein-maashaven/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2022/01/24145937/Jeroen-Jongeleen-Fontein-Maashaven-foto-Jannes-Linders-JHML2207-4654-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2022/01/24145937/Jeroen-Jongeleen-Fontein-Maashaven-foto-Jannes-Linders-JHML2207-4654-800x500-1.jpg",
+      "classicTitle": "Fontein Maashaven｜2022",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：藉微小介入質疑藝術被用於仕紳化與城市行銷的方式。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/fontein-maashaven/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-03",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/time-and-again",
+      "name": "03｜Ken Lum｜Time. And Again.",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "攝影/文字"
+      ],
+      "works": "Time. And Again.｜2021",
+      "comment": "五張肖像海報以勞動、育兒與失業的文字撞擊表情，將經濟脆弱性帶進街頭。鹿特丹展期為 2021 年 11 至 12 月，屬歷史案例。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/time-and-again/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/time-and-again/",
+      "photo": "https://www.sculptureinternationalrotterdam.nl/app/uploads/2021/11/JHML2201-1548-450x300.jpg",
+      "classicImage": "https://www.sculptureinternationalrotterdam.nl/app/uploads/2021/11/JHML2201-1548-450x300.jpg",
+      "classicTitle": "Time. And Again.｜2021",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：讓圖像與文字之間的摩擦，擾動廣告慣用的幸福敘事。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/time-and-again/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-04",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/lage-dor",
+      "name": "04｜Gavin Turk｜L’Âge d’Or",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "L’Âge d’Or｜2021",
+      "comment": "沒有建築相連的青銅門立在移民啟航的港口，將跨越、離開與新生活的希望濃縮成可穿行的門框。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/lage-dor/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/lage-dor/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2021/06/24145924/348-2-Gavin-Turk-LAge-dOr-foto-Otto-Snoek-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2021/06/24145924/348-2-Gavin-Turk-LAge-dOr-foto-Otto-Snoek-800x500-1.jpg",
+      "classicTitle": "L’Âge d’Or｜2021",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：以開啟的門連接港口移民史與對未來的想像。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/lage-dor/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-05",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/the-plait",
+      "name": "05｜Kalliopi Lemos｜The Plait",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "The Plait｜2020",
+      "comment": "高聳鋼製髮辮立於 Westersingel，將身體局部放大為城市尺度；剪辮的意象連結女性自主與擺脫既有約束。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-plait/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-plait/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2021/03/24150204/SR_DroomenDaad_Vlecht_HR_sRGB-05-450x300.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2021/03/24150204/SR_DroomenDaad_Vlecht_HR_sRGB-05-450x300.jpg",
+      "classicTitle": "The Plait｜2020",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：以髮辮回應父權規訓，以及成長與解放的身體經驗。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-plait/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-06",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/everyone-is-dead-but-us-test",
+      "name": "06｜Ben Zegers｜Everyone is dead but us",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Everyone is dead but us｜2020",
+      "comment": "Binnenrotte 的兩隻大型鋁製腳掌如交易雙方對話，把市場活動、考古遺址與當代市民的存在放進同一個場景。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/everyone-is-dead-but-us-test/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/everyone-is-dead-but-us-test/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2020/09/24145957/Ben-Zegers-Iedereen-is-dood-behalve-wij-foto-Jannes-Linders-2-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2020/09/24145957/Ben-Zegers-Iedereen-is-dood-behalve-wij-foto-Jannes-Linders-2-800x500-1.jpg",
+      "classicTitle": "Everyone is dead but us｜2020",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：讓當下的身體姿態接續城市過去與未來。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/everyone-is-dead-but-us-test/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-07",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/pioneer-house",
+      "name": "07｜John Körmeling｜Pioneer House",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "Pioneer House｜1999",
+      "comment": "小屋架在港區海關建築屋頂，利用尺度與位置的錯置，讓邊境管理設施與拓荒者的自由想像互相映照。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/pioneer-house/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/pioneer-house/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/11/15105824/John-Kormeling-Pioniershuisje-foto-BKOR-archief-6-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/11/15105824/John-Kormeling-Pioniershuisje-foto-BKOR-archief-6-1.jpg",
+      "classicTitle": "Pioneer House｜1999",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：在藝術與建築交界，以幽默回應空間使用的既定規則。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/pioneer-house/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-08",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-7",
+      "name": "08｜Daan van Golden｜Untitled（Heerenlux 壁畫）",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "壁畫/街頭"
+      ],
+      "works": "Untitled（Heerenlux 壁畫）｜1993",
+      "comment": "包裝紙上的紅色花紋被放大為街頭壁畫；官方記錄修復時追索原始色號的過程，顯示色彩保存也是作品生命的一部分。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-7/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-7/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/10/24150402/Schermafbeelding-2019-10-29-om-12.54.41.png",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/10/24150402/Schermafbeelding-2019-10-29-om-12.54.41.png",
+      "classicTitle": "Untitled（Heerenlux 壁畫）｜1993",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：以日常圖案的重複、放大與裁切形成抽象節奏。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-7/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-09",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/marathon-sculpture",
+      "name": "09｜Henk Visch｜Marathon Sculpture",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Marathon Sculpture｜2001",
+      "comment": "二十種色彩與歷屆冠軍銘牌把賽事記憶帶到日常河岸，抽象形體沿馬拉松路線建立運動與城市的共同座標。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/marathon-sculpture/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/marathon-sculpture/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/09/24150255/Marathonbeeld_HenkVisch-foto-BKOR-archief-3-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/09/24150255/Marathonbeeld_HenkVisch-foto-BKOR-archief-3-800x500-1.jpg",
+      "classicTitle": "Marathon Sculpture｜2001",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：以色彩對應參賽者的多元國籍，使城市賽事留下持續可讀的痕跡。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/marathon-sculpture/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-10",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/yellow-free-zone",
+      "name": "10｜Adrien Lucca｜Yellow-free Zone",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "光/影像/投影"
+      ],
+      "works": "Yellow-free Zone｜2018",
+      "comment": "作品更換 Maashaven 地鐵站入口的照明光譜，讓物件上的黃色消退；通勤者與衣物也成為即時色彩實驗的一部分。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/yellow-free-zone/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/yellow-free-zone/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/02/24145954/JHML1812-9142-450x300.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/02/24145954/JHML1812-9142-450x300.jpg",
+      "classicTitle": "Yellow-free Zone｜2018",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：結合光色研究與感知，改寫人們對自身及周遭物件的觀看。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/yellow-free-zone/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-11",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-8",
+      "name": "11｜André Volten｜Untitled（Dordtselaan）",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Untitled（Dordtselaan）｜1964",
+      "comment": "鋼製抽象線構原設於校園，學校搬遷後入庫，2024 年修復重置於 Dordtselaan，提供公共藝術遷置與再使用的案例。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-8/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-8/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2024/09/19115555/Andre-Volten-Zonder-titel-foto-Jannes-Linders-JHML2502-0386.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2024/09/19115555/Andre-Volten-Zonder-titel-foto-Jannes-Linders-JHML2502-0386.jpg",
+      "classicTitle": "Untitled（Dordtselaan）｜1964",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：以工業型鋼形成三維線條，使結構與空間直接對話。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-8/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-12",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/curved-form",
+      "name": "12｜Barbara Hepworth｜Curved Form",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Curved Form｜1961",
+      "comment": "曲面、孔洞與繃緊的線索構成內外空間的聯繫，作品位於 de Doelen 大廳，可用來研究觀眾移動如何改變雕塑的閱讀。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/curved-form/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/curved-form/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/10/24145943/Barbara-Hepworth-Curved-Form-De-Doelen-foto-Aad-Hoogendoorn-1-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2019/10/24145943/Barbara-Hepworth-Curved-Form-De-Doelen-foto-Aad-Hoogendoorn-1-800x500-1.jpg",
+      "classicTitle": "Curved Form｜1961",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：空洞參與形體，讓內在空間與周遭環境建立關係。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/curved-form/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-13",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-6",
+      "name": "13｜Naum Gabo｜Untitled（De Bijenkorf）",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Untitled（De Bijenkorf）｜1957",
+      "comment": "大型金屬構造以分枝與核心組織透明體積，與百貨建築整合；官方另記錄 2018 年修復，提供戰後都市雕塑維護參照。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-6/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-6/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2018/03/24145942/Naum-Gabo-Zonder-titel-foto-Otto-Snoek-2-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2018/03/24145942/Naum-Gabo-Zonder-titel-foto-Otto-Snoek-2-800x500-1.jpg",
+      "classicTitle": "Untitled（De Bijenkorf）｜1957",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：以最少實體界定空間，讓重型結構產生近似植物生長與失重的感受。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-6/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-14",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/santa-claus-en",
+      "name": "14｜Paul McCarthy｜Santa Claus",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Santa Claus｜2001",
+      "comment": "聖誕老人與成人用品的並置引發選址及公共品味爭論。作品以消費符號與諧仿，讓街道成為藝術接受度的協商現場。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/santa-claus-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/santa-claus-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24150558/JHML1607-2847.-1200-800-px.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24150558/JHML1607-2847.-1200-800-px.jpg",
+      "classicTitle": "Santa Claus｜2001",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：以大眾文化形象及不協調物件，批判即時滿足的消費社會。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/santa-claus-en/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-15",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/cascade-en",
+      "name": "15｜Atelier Van Lieshout｜Cascade",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Cascade｜2010",
+      "comment": "油桶與柔軟人形堆疊成柱，把港口、資源消耗及經濟危機壓入單一輪廓；2019 年因街道改造遷置並調整基座。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/cascade-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/cascade-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2018/01/11133830/27-11-Atelier-van-Lieshout-Cascade-foto-Otto-Snoek-scaled.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2018/01/11133830/27-11-Atelier-van-Lieshout-Cascade-foto-Otto-Snoek-scaled.jpg",
+      "classicTitle": "Cascade｜2010",
+      "classicDesc": "2026 年 10 月 20 日研究入庫。作品年份與歷史展期依官方頁標示；入庫日期不代表新作發表。",
+      "artistStatement": "依官方作品解說轉述：結合紀念柱尺度與戲謔造形，讓衰敗、依存及個人韌性並存。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/cascade-en/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "researchUpdateType": "既有作品研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-16",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/per-kirkebybushaltestelle-1997-5157520n-737046e",
+      "name": "16｜Per Kirkeby｜Bushaltestelle",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "Bushaltestelle｜1997",
+      "comment": "磚牆、候車棚與內側座椅同時提供遮蔽、隔音及停留，讓雕塑成為每天被使用的街道設施。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/per-kirkebybushaltestelle-1997-5157520n-737046e/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/per-kirkebybushaltestelle-1997-5157520n-737046e/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/51/2d/512d9009334e48649703b442bce1dd46.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/51/2d/512d9009334e48649703b442bce1dd46.jpg",
+      "classicTitle": "Bushaltestelle｜1997",
+      "classicDesc": "德國公共空間經典研究；圖片及作品資料來自 Kunsthalle Münster 官方收藏頁。",
+      "artistStatement": "依官方作品解說轉述：以候車、休息與空間邊界，檢驗公共藝術的社會功能。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/per-kirkebybushaltestelle-1997-5157520n-737046e/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-17",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/per-kirkebybackstein-skulpturen-1987-5157552n-7365",
+      "name": "17｜Per Kirkeby｜Backstein-Skulpturen",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "Backstein-Skulpturen｜1987",
+      "comment": "一高一低的磚構沿用拱與扶壁語彙，又抽離其建築用途，在城堡前的草地建立可停留的雕塑空間。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/per-kirkebybackstein-skulpturen-1987-5157552n-7365/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/per-kirkebybackstein-skulpturen-1987-5157552n-7365/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/9e/29/9e2972a236bd94b2e50205a915085b67.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/9e/29/9e2972a236bd94b2e50205a915085b67.jpg",
+      "classicTitle": "Backstein-Skulpturen｜1987",
+      "classicDesc": "德國公共空間經典研究；圖片及作品資料來自 Kunsthalle Münster 官方收藏頁。",
+      "artistStatement": "依官方作品解說轉述：以失去原有功能的建築元素，重新界定建築與雕塑的關係。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/per-kirkebybackstein-skulpturen-1987-5157552n-7365/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-18",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/maria-nordman-de-civitate-1997-5158591n-737237e",
+      "name": "18｜Maria Nordman｜De Civitate",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "地景/大地藝術"
+      ],
+      "works": "De Civitate｜1991 種植／1997 揭幕",
+      "comment": "樹列組成可進入的房間，光、空氣與季節共同改變空間；原有銀杏因基地過濕而更換，提醒生態作品須接受場地回饋。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/maria-nordman-de-civitate-1997-5158591n-737237e/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/maria-nordman-de-civitate-1997-5158591n-737237e/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/9a/15/9a156d706e2ed662ef7fdbf0690bf345.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/9a/15/9a156d706e2ed662ef7fdbf0690bf345.jpg",
+      "classicTitle": "De Civitate｜1991 種植／1997 揭幕",
+      "classicDesc": "德國公共空間經典研究；圖片及作品資料來自 Kunsthalle Münster 官方收藏頁。",
+      "artistStatement": "依官方作品解說轉述：把時間與植物生長納入雕塑，使自然與文化的邊界持續變動。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/maria-nordman-de-civitate-1997-5158591n-737237e/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-19",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/hans-peter-feldmann-wc-anlage-am-domplatz-2007-515",
+      "name": "19｜Hans-Peter Feldmann｜WC-Anlage am Domplatz",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "WC-Anlage am Domplatz｜2007",
+      "comment": "藝術家更新廣場下方公廁的鏡面、馬賽克及裝飾，將公共藝術的價值放到最基本的衛生設施與使用尊嚴。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/hans-peter-feldmann-wc-anlage-am-domplatz-2007-515/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/hans-peter-feldmann-wc-anlage-am-domplatz-2007-515/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/5a/d9/5ad931092152f2d98e15fd6adace8d84.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/5a/d9/5ad931092152f2d98e15fd6adace8d84.jpg",
+      "classicTitle": "WC-Anlage am Domplatz｜2007",
+      "classicDesc": "德國公共空間經典研究；圖片及作品資料來自 Kunsthalle Münster 官方收藏頁。",
+      "artistStatement": "依官方作品解說轉述：以改善日常服務的空間品質，直接回應公共性的問題。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/hans-peter-feldmann-wc-anlage-am-domplatz-2007-515/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    },
+    {
+      "id": "art-20261020-20",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/tomitaro-nachiwindspiele-1995-5157524n-737457e",
+      "name": "20｜Tomitaro Nachi｜Windspiele",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "動力雕塑"
+      ],
+      "works": "Windspiele｜1995",
+      "comment": "五根立柱上的彩色翼片藉風旋轉，隨日光閃動；廣場的風向與光線參與構圖，讓變化成為作品的材料。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/tomitaro-nachiwindspiele-1995-5157524n-737457e/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/tomitaro-nachiwindspiele-1995-5157524n-737457e/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/73/c5/73c54cf2b97d1ff07f1f4154ea5947cc.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/73/c5/73c54cf2b97d1ff07f1f4154ea5947cc.jpg",
+      "classicTitle": "Windspiele｜1995",
+      "classicDesc": "德國公共空間經典研究；圖片及作品資料來自 Kunsthalle Münster 官方收藏頁。",
+      "artistStatement": "依官方作品解說轉述：透過光動力學，讓自然現象的短暫瞬間可以被感知。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/tomitaro-nachiwindspiele-1995-5157524n-737457e/",
+      "status": "官方來源",
+      "updated": "2026-10-20",
+      "statementType": "官方解說轉述，非藝術家逐字引言"
+    }
+  ]
+}
