@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "date": "2026-10-21",
+    "generatedAt": "2026-10-21T05:02:17+08:00",
+    "timezone": "Asia/Taipei",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "Sculpture International Rotterdam／CBK Rotterdam 與 Kunsthalle Münster 官方作品頁",
+    "note": "10 則持續開放的永久公共藝術、5 則全球經典、5 則德國經典；排除競圖與傳統人物紀念雕塑。",
+    "dedupeAudit": {
+      "historicalEntriesChecked": 1904,
+      "duplicateWorkUrls": 0
+    },
+    "statementPolicy": "官方解說轉述與研究整理，非藝術家逐字引言",
+    "imageAudit": {
+      "checkedAt": "2026-10-21T05:02:17+08:00",
+      "checked": 20,
+      "valid": 20,
+      "missing": 0,
+      "method": "官方圖片 URL 瀏覽器載入核驗"
+    }
+  },
+  "entries": [
+    {
+      "id": "art-20261021-01",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/formula-b-en",
+      "name": "01｜Job Koelewijn｜Formula B",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "裝置",
+        "聲音/霧/水"
+      ],
+      "works": "Formula B｜2001",
+      "comment": "刻寫在 Westersingel 水面的文字把失敗、再嘗試與城市步行並置；語句隨水流與視角變化，使閱讀成為一段不穩定的公共經驗。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/formula-b-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/formula-b-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/11144108/Job-Koelewijn-Formule-B.-2001-Westersingel-%C2%A9-Pieter-Vandermeer.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/11144108/Job-Koelewijn-Formule-B.-2001-Westersingel-%C2%A9-Pieter-Vandermeer.jpg",
+      "classicTitle": "Formula B｜2001",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "以文字與水景把持續嘗試的命題嵌入日常路徑，讓語言在流動環境中被反覆重新閱讀。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/formula-b-en/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-02",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/qwertz-en",
+      "name": "02｜Franz West｜Qwertz",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑",
+        "社會參與"
+      ],
+      "works": "Qwertz｜2000",
+      "comment": "五件彩色鋼製長卷散置在河岸，可被坐臥與觸碰；作品以可使用的形體消解雕塑只供觀看的距離。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/qwertz-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/qwertz-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24150559/JHML1204-2961-scaled.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24150559/JHML1204-2961-scaled.jpg",
+      "classicTitle": "Qwertz｜2000",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：作品要由觀者的身體介入完成，公共使用不是附帶功能，而是形式的一部分。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/qwertz-en/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-03",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/melly-shum-hates-her-job-en",
+      "name": "03｜Ken Lum｜Melly Shum Hates Her Job",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "壁畫/街頭"
+      ],
+      "works": "Melly Shum Hates Her Job｜1990",
+      "comment": "商業廣告格式與一句工作宣言長期占據街角立面；圖像的微笑和文字的厭倦互相衝突，將勞動情緒公開化。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/melly-shum-hates-her-job-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/melly-shum-hates-her-job-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/15144316/vanSIR_Ken-Lum-Melly-Shum-Hates-Her-Job-1990-Witte-de-Withstraat-Witte-de-With-centrum-voor-hedendaagse-kunst-%C2%A9-Jannes-Linders.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/15144316/vanSIR_Ken-Lum-Melly-Shum-Hates-Her-Job-1990-Witte-de-Withstraat-Witte-de-With-centrum-voor-hedendaagse-kunst-%C2%A9-Jannes-Linders.jpg",
+      "classicTitle": "Melly Shum Hates Her Job｜1990",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方脈絡轉述：借用廣告語法，把私人不滿轉成城市共同辨識的符號，並持續被更新重製。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/melly-shum-hates-her-job-en/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-04",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/elevazione-en",
+      "name": "04｜Giuseppe Penone｜Elevazione",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑",
+        "地景/大地藝術"
+      ],
+      "works": "Elevazione｜2001",
+      "comment": "青銅鑄造的樹幹與五棵活樹共同生長，讓永久材料與植物時間互為尺度；雕塑的完成被延伸到數十年的城市生態。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/elevazione-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/elevazione-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/20112211/Giuseppe-Penone-Elevazione-Westersingel-foto-Otto-Snoek.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/20112211/Giuseppe-Penone-Elevazione-Westersingel-foto-Otto-Snoek.jpg",
+      "classicTitle": "Elevazione｜2001",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方作品說明轉述：以青銅保存樹的形態，同時讓活樹持續改變作品，建立人工與自然的共生關係。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/elevazione-en/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-05",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/untitled",
+      "name": "05｜Joel Shapiro｜Untitled",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Untitled｜1999",
+      "comment": "五段近似梁柱的幾何體組成傾斜、將失去平衡的身體姿態；抽象形式在 Westersingel 將人的動勢帶入城市軸線。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145949/Joel-Shapiro-Zonder-titel-foto-Jannes-Linders-JHML2105-6901-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145949/Joel-Shapiro-Zonder-titel-foto-Jannes-Linders-JHML2105-6901-800x500-1.jpg",
+      "classicTitle": "Untitled｜1999",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：作品游移於人物與積木之間，以幾何形式的心理張力改變觀者對周遭空間的感知。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-06",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/the-individual-parallel-bilderberg-utopia-en",
+      "name": "06｜Willem Oorebeek｜The Individual Parallel – Bilderberg Utopia",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "建築/場域",
+        "光/影像/投影"
+      ],
+      "works": "The Individual Parallel – Bilderberg Utopia｜2014",
+      "comment": "整座旅館立面被點狀網格覆蓋，夜間微亮的圖案同時服從窗洞又切割建築，將印刷語法放大成城市表皮。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-individual-parallel-bilderberg-utopia-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-individual-parallel-bilderberg-utopia-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24151010/JHML1409-8596-scaled.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24151010/JHML1409-8596-scaled.jpg",
+      "classicTitle": "The Individual Parallel – Bilderberg Utopia｜2014",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依藝術家於官方頁的論述轉述：點陣原本是抽象定義，套用於建築後反而成為建築自身的影像。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-individual-parallel-bilderberg-utopia-en/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-07",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/1989-en",
+      "name": "07｜John Körmeling｜1989",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "1989｜1991",
+      "comment": "綠色霓虹數字「1989」置於住宅塔樓屋頂，以建成年份取代傳統地標名稱；夜間光字把一段都市開發史固定在天際線。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/1989-en/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/1989-en/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/15135017/John-Kormeling-1989-foto-Jannes-Linders-JHML1505-4928.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/15135017/John-Kormeling-1989-foto-Jannes-Linders-JHML1505-4928.jpg",
+      "classicTitle": "1989｜1991",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：藝術家以極簡的年份標記建築時間，使日常住宅成為可從遠處閱讀的城市記憶。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/1989-en/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-08",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/on-spam-lectori-salutem-6",
+      "name": "08｜Niels Post｜On Spam, Lectori Salutem #6",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "On Spam, Lectori Salutem #6｜2017",
+      "comment": "從垃圾郵件擷取的句子被製成大型文字構件嵌入城市建築，將被忽略的網路噪音帶回可見、可讀的公共表面。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/on-spam-lectori-salutem-6/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/on-spam-lectori-salutem-6/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2018/03/24150439/Erasmusbrug_SIR_04.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2018/03/24150439/Erasmusbrug_SIR_04.jpg",
+      "classicTitle": "On Spam, Lectori Salutem #6｜2017",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方藝術家資料轉述：創作把網路垃圾訊息轉化為牆面雕塑與場域介入，重新分配資訊的注意力。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/on-spam-lectori-salutem-6/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-09",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/the-long-thin-yellow-legs-of-architecture",
+      "name": "09｜Coop Himmelb(l)au｜The Long Thin Yellow Legs of Architecture",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "建築/場域",
+        "雕塑"
+      ],
+      "works": "The Long Thin Yellow Legs of Architecture｜1988",
+      "comment": "黃色鋼構以誇張支撐關係介入街道，既像未完成建築，也像將工程力學外露的城市繪圖。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-long-thin-yellow-legs-of-architecture/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-long-thin-yellow-legs-of-architecture/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145949/Coop-Himmelblau-The-Long-Thin-of-Yellow-Legs-of-Architecture-foto-Jannes-Linders-2-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145949/Coop-Himmelblau-The-Long-Thin-of-Yellow-Legs-of-Architecture-foto-Jannes-Linders-2-800x500-1.jpg",
+      "classicTitle": "The Long Thin Yellow Legs of Architecture｜1988",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方作品脈絡轉述：以解構式構架挑戰建築的穩定形象，讓行人從內外穿越觀看。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-long-thin-yellow-legs-of-architecture/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-10",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/maas-sculpture",
+      "name": "10｜Auke de Vries｜Maas Sculpture",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Maas Sculpture｜1982",
+      "comment": "細長鋼構與懸置構件跨越河岸視線，以輕量線條回應港口尺度；作品把風、河流與交通納入構圖。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/maas-sculpture/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/maas-sculpture/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145924/Auke-de-Vries-Maasbeeld-foto-Otto-Snoek-7-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145924/Auke-de-Vries-Maasbeeld-foto-Otto-Snoek-7-800x500-1.jpg",
+      "classicTitle": "Maas Sculpture｜1982",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方作品說明轉述：雕塑以近似空中素描的結構，在城市與 Maas 河之間建立開放、不封閉的空間關係。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/maas-sculpture/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "持續開放永久作品",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-11",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/the-bow",
+      "name": "11｜Frederico Carasso｜The Bow",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "The Bow｜1956",
+      "comment": "四十六公尺高的鋁柱自混凝土浪形基座升起，以船首的抽象形式紀念海運與戰爭損失；作品不是人物塑像，而是港口尺度的空間標誌。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-bow/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-bow/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145940/75-4-Frederico-Carasso-De-boeg-foto-Otto-Snoek-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145940/75-4-Frederico-Carasso-De-boeg-foto-Otto-Snoek-800x500-1.jpg",
+      "classicTitle": "The Bow｜1956",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方資料轉述：以船首、浪與垂直尺度凝縮 Rotterdam 的海港身分與集體記憶。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-bow/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-12",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/the-farewell",
+      "name": "12｜Umberto Mastroianni｜The Farewell",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "The Farewell｜1955",
+      "comment": "兩個相擁形體被壓縮成難以分辨的青銅量塊，表面保留鑄造孔洞與痕跡；離別由姿態與材質而非肖像敘事。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-farewell/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-farewell/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145939/Umberto-Mastroianni-Het-Afscheid-1955-c-Jannes-Linders-2011-JHML1204-2928-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145939/Umberto-Mastroianni-Het-Afscheid-1955-c-Jannes-Linders-2011-JHML1204-2928-800x500-1.jpg",
+      "classicTitle": "The Farewell｜1955",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：作品讓兩個身體的邊界互相滲透，並保留鑄造過程，使情感與製作痕跡同時可見。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/the-farewell/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-13",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/three-columns",
+      "name": "13｜George Rickey｜Three Columns",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑",
+        "數位/互動"
+      ],
+      "works": "Three Columns｜1989",
+      "comment": "三座動力雕塑以風驅動金屬構件緩慢旋轉，城市天候直接改寫每次觀看；紀念碑式垂直尺度因不斷偏移而失去僵固。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/three-columns/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/three-columns/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/15144826/George-Rickey-Three-Columns-foto-Aad-Hoogendoorn-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/15144826/George-Rickey-Three-Columns-foto-Aad-Hoogendoorn-1.jpg",
+      "classicTitle": "Three Columns｜1989",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方作品脈絡轉述：以精密平衡讓自然風成為共同作者，使雕塑在時間中持續變化。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/three-columns/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-14",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-5",
+      "name": "14｜Richard Artschwager｜Untitled",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Untitled｜1988",
+      "comment": "兩片混凝土板分列運河兩側，模仿又諷刺現代主義公共雕塑；彼此隔水相望，使場地本身成為作品的空隙。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-5/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-5/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145948/Richard-Artschwager-Zonder-titel-foto-Jannes-Linders-JHML2108-8062-800x500-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/24145948/Richard-Artschwager-Zonder-titel-foto-Jannes-Linders-JHML2108-8062-800x500-1.jpg",
+      "classicTitle": "Untitled｜1988",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：作品以近乎通用的抽象造型質疑「城市雕塑」的慣例，讓兩岸關係取代單一物件。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/untitled-5/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-15",
+      "dedupeKey": "work:https://www.sculptureinternationalrotterdam.nl/en/collection/screw-arch",
+      "name": "15｜Claes Oldenburg｜Screwarch",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "荷蘭 / Rotterdam",
+      "cityKeywords": [
+        "Rotterdam",
+        "鹿特丹"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Screwarch｜1982",
+      "comment": "日常螺絲被放大並彎曲成拱形，工業零件轉化為可穿越的城市尺度符號；物件用途與雕塑形式在誇張比例中互換。",
+      "website": "https://www.sculptureinternationalrotterdam.nl/en/collection/screw-arch/",
+      "workPage": "https://www.sculptureinternationalrotterdam.nl/en/collection/screw-arch/",
+      "photo": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/20155831/Claes-Oldenburg-Screwarch-foto-BKOR-archief-1.jpg",
+      "classicImage": "https://sculptureinternational.s3.eu-west-3.amazonaws.com/app/uploads/2015/05/20155831/Claes-Oldenburg-Screwarch-foto-BKOR-archief-1.jpg",
+      "classicTitle": "Screwarch｜1982",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方作品脈絡轉述：以放大、變形日常物，把熟悉功能轉成具幽默感的公共空間經驗。",
+      "artistStatementSource": "https://www.sculptureinternationalrotterdam.nl/en/collection/screw-arch/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": []
+    },
+    {
+      "id": "art-20261021-16",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/george-brecht-three-void-stones-1987-5158005n-7363",
+      "name": "16｜George Brecht｜Three VOID-Stones",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "雕塑",
+        "觀念藝術"
+      ],
+      "works": "Three VOID-Stones｜1987",
+      "comment": "冰河漂石只被刻上「VOID」，在公園草地上同時作為自然物、文字與事件；偶遇者需判斷藝術究竟發生於石頭、閱讀或位置。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/george-brecht-three-void-stones-1987-5158005n-7363/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/george-brecht-three-void-stones-1987-5158005n-7363/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/c1/66/c166aedef56d640ab4db3879ccb30bf8.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/c1/66/c166aedef56d640ab4db3879ccb30bf8.jpg",
+      "classicTitle": "Three VOID-Stones｜1987",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：以最少指令與偶然選址延續 Fluxus 事件譜，讓觀看與閱讀互相改變。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/george-brecht-three-void-stones-1987-5158005n-7363/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": [
+        "competition-2026-09-05-03"
+      ]
+    },
+    {
+      "id": "art-20261021-17",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/daniel-buren4-tore-1987-5157469n-737395e",
+      "name": "17｜Daniel Buren｜4 Tore",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "4 Tore｜1987",
+      "comment": "條紋門框以 8.7 公分垂直帶標記 Domplatz 的歷史邊界；現存門件迫使通行者感受宗教領域與城市空間曾經的分隔。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/daniel-buren4-tore-1987-5157469n-737395e/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/daniel-buren4-tore-1987-5157469n-737395e/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/48/55/4855d91515cc4e6b0ffd09a1e78cc324.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/48/55/4855d91515cc4e6b0ffd09a1e78cc324.jpg",
+      "classicTitle": "4 Tore｜1987",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：可重複的中性條紋只有在特定位置才成為作品，並藉通行阻礙使舊城空間結構重新可見。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/daniel-buren4-tore-1987-5157469n-737395e/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": [
+        "competition-2026-09-05-03"
+      ]
+    },
+    {
+      "id": "art-20261021-18",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/eduardo-chillida-toleranz-durch-dialog-1992-519616",
+      "name": "18｜Eduardo Chillida｜Tolerance Through Dialogue",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Tolerance Through Dialogue｜1992",
+      "comment": "兩件 L 形耐候鋼相向設置於市政廳內院，場地並為作品重新降高與整修；兩者之間的空隙連向西發里亞和談的歷史。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/eduardo-chillida-toleranz-durch-dialog-1992-519616/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/eduardo-chillida-toleranz-durch-dialog-1992-519616/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/30/a7/30a7016e5d4fb047b45d92585239b5b0.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/30/a7/30a7016e5d4fb047b45d92585239b5b0.jpg",
+      "classicTitle": "Tolerance Through Dialogue｜1992",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：將對話具體化為彼此面向、保持距離的形體，讓和平史與當代身體尺度相遇。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/eduardo-chillida-toleranz-durch-dialog-1992-519616/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": [
+        "competition-2026-09-05-03"
+      ]
+    },
+    {
+      "id": "art-20261021-19",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/ludger-gerdesschiff-fur-munster-1987-5158153n-7353",
+      "name": "19｜Ludger Gerdes｜Schiff für Münster",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "建築/場域"
+      ],
+      "works": "Schiff für Münster｜1987",
+      "comment": "四十三公尺長的船形島嶼由砂岩、木構、壕溝與白楊構成，在城郊草地把運河、城堡與知識航行的隱喻疊合。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/ludger-gerdesschiff-fur-munster-1987-5158153n-7353/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/ludger-gerdesschiff-fur-munster-1987-5158153n-7353/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/54/7e/547e540eaaf50865326198b5e1491084.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/54/7e/547e540eaaf50865326198b5e1491084.jpg",
+      "classicTitle": "Schiff für Münster｜1987",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：以堅固著地的船反轉航行與沉船的不穩定隱喻，將建築、植物和水道綁定為一個場域。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/ludger-gerdesschiff-fur-munster-1987-5158153n-7353/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": [
+        "competition-2026-09-05-03"
+      ]
+    },
+    {
+      "id": "art-20261021-20",
+      "dedupeKey": "work:https://www.kunsthallemuenster.de/en/collection/rebecca-horndas-gegenlaufige-konzert-1987-5158033n",
+      "name": "20｜Rebecca Horn｜Das gegenläufige Konzert",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Münster",
+      "cityKeywords": [
+        "Münster",
+        "Muenster",
+        "明斯特"
+      ],
+      "media": [
+        "裝置",
+        "聲音/霧/水"
+      ],
+      "works": "Das gegenläufige Konzert｜1987",
+      "comment": "機械槌、墓燭、可動鋼臂、玻璃漏斗與水池介入 Zwinger 塔，讓刑場、監獄與戰後荒蕪的歷史以聲響和週期運動被喚回。",
+      "website": "https://www.kunsthallemuenster.de/en/collection/rebecca-horndas-gegenlaufige-konzert-1987-5158033n/",
+      "workPage": "https://www.kunsthallemuenster.de/en/collection/rebecca-horndas-gegenlaufige-konzert-1987-5158033n/",
+      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/18/4c/184cb94ebbc8655403eb983e0d90ee4c.jpg",
+      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/18/4c/184cb94ebbc8655403eb983e0d90ee4c.jpg",
+      "classicTitle": "Das gegenläufige Konzert｜1987",
+      "classicDesc": "2026 年 10 月 21 日研究入庫；作品年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。",
+      "artistStatement": "依官方解說轉述：多個機械符號並非重建歷史，而是讓場地被壓抑的時間以反覆、相互牴觸的動作浮現。",
+      "artistStatementSource": "https://www.kunsthallemuenster.de/en/collection/rebecca-horndas-gegenlaufige-konzert-1987-5158033n/",
+      "status": "官方來源",
+      "updated": "2026-10-21",
+      "researchUpdateType": "公共藝術經典研究更新",
+      "statementType": "官方解說轉述，非藝術家逐字引言",
+      "relatedByCity": [
+        "competition-2026-09-05-03"
+      ]
+    }
+  ]
+}
