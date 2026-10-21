@@ -1,17 +1,17 @@
 {
-  "version": "2026-10-21-competition-r81",
-  "generatedAt": "2026-10-21T05:16:00+08:00",
+  "version": "2026-10-22-competition-r82",
+  "generatedAt": "2026-10-22T05:18:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 124,
+  "activeEntries": 128,
   "addedToday": 5,
-  "expiredRemoved": 3,
+  "expiredRemoved": 1,
   "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 124,
-  "deadlinePrecisionEntries": 124,
-  "cityKeywordEntries": 124,
-  "note": "保留 119 則執行時尚未截止的既有競圖，移除 3 則已逾期項目，新增 5 則未截止競圖；同步補齊 2026-10-21 明斯特公共藝術與既有同城競圖的雙向 relatedByCity 關聯。",
+  "deadlineTimezoneEntries": 128,
+  "deadlinePrecisionEntries": 128,
+  "cityKeywordEntries": 128,
+  "note": "保留 123 則執行時尚未截止的既有競圖，移除 1 則已逾期項目，新增 5 則未截止競圖；城市關鍵字與 relatedByCity 關聯完成。",
   "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 1
