@@ -1,0 +1,9 @@
+const fs=require('fs');
+const date='2026-10-23';
+const art=JSON.parse(fs.readFileSync('data/backfill-october-20261023.json','utf8')).entries;
+const competitions=JSON.parse(fs.readFileSync('data/competitions.json','utf8')).entries.filter(e=>e.updated===date);
+function media(values){const s=values.join(' '),o=[];if(/地景|公園|花園|自然|水景/.test(s))o.push('地景/大地藝術');if(/雕塑|鋼|青銅|花崗岩|洞石|金屬|木構/.test(s))o.push('雕塑');if(/裝置|委託|整合|公共藝術|硬幣|門扇/.test(s))o.push('裝置');if(/建築|入口|中庭|牆|立面|圍護|公園|場域|法院|車站|消防站/.test(s))o.push('建築/場域');if(/光|影像|攝影|投影|玻璃|LED|動畫/.test(s))o.push('光/影像/投影');if(/社區|社群|參與|互動|集體|公共/.test(s))o.push('社會參與');if(/壁畫|街頭|外牆/.test(s))o.push('壁畫/街頭');if(/聲音|水景/.test(s))o.push('聲音/霧/水');if(/數位|互動/.test(s))o.push('數位/互動');return[...new Set(o)].slice(0,3).length?[...new Set(o)].slice(0,3):['裝置'];}
+function common(e){return{'名稱':e.name,'類別':e.category,'層級':e.tier==='動態情報層'?'動態情報層':e.tier==='競圖資料庫'?'競圖資料庫':'經典檔案庫','地區':e.region,'媒介類型':media(e.media),'來源狀態':e.status,'國家地區':e.country,'城市關鍵字':e.cityKeywords.join('｜'),'代表作':e.works,'重點短評':e.comment,'官網連結':e.website,'圖片/作品頁':e.photo,'個人照片':e.photo,'創作者創作論述':e.artistStatement,'創作論述來源':e.artistStatementSource,'經典作品名稱':e.classicTitle,'經典作品圖':e.classicImage,'經典作品詳介':e.classicDesc,'去重Key':e.dedupeKey,'同城關聯':(e.relatedByCity||[]).join('｜'),'date:資訊更新日期:start':date,'date:資訊更新日期:is_datetime':0};}
+const pages=art.map(e=>({properties:common(e),cover:e.photo,content:`官方作品頁：[來源](${e.workPage})\n\n![作品圖片](${e.photo})\n\n${e.comment}`}));
+for(const e of competitions)pages.push({properties:{...common(e),'主辦單位':e.organizer,'參與資格':e.eligibility,'預算':e.budget,'申請費':e.applicationFee,'date:截止日期:start':e.deadline,'date:截止日期:is_datetime':1,'截止時區':e.deadlineTimezone,'截止精度':e.deadlinePrecision},cover:e.photo,content:`官方徵件頁：[來源](${e.workPage})\n\n![徵件圖片](${e.photo})\n\n${e.comment}`});
+process.stdout.write(JSON.stringify({parent:{type:'data_source_id',data_source_id:'18356b95-d3f2-4d4a-a4da-8dabcd6c7056'},pages}));

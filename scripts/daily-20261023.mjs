@@ -1,0 +1,76 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
+const root=path.resolve(path.dirname(new URL(import.meta.url).pathname),'..');
+const dataDir=path.join(root,'data');
+const date='2026-10-23';
+const generatedAt='2026-10-23T05:22:00+08:00';
+const now=new Date('2026-10-22T21:04:32Z');
+const shot=url=>`https://image.thum.io/get/width/1200/crop/800/noanimate/${url}`;
+const cityMap={
+  Philadelphia:['Philadelphia','費城'], Vienna:['Vienna','Wien','維也納'],
+  'Wilton Manors':['Wilton Manors','威爾頓莊園'], Glendale:['Glendale','格倫代爾'],
+  'Central Iowa':['Central Iowa','愛荷華州中部'], Calexico:['Calexico','卡萊克西科'],
+  Richmond:['Richmond','列治文']
+};
+
+const artDefs=[
+ ['Louise Nevelson','Bicentennial Dawn','1976','Philadelphia','美國 / Philadelphia','彩繪木材、陶土地磚','https://associationforpublicart.org/artwork/bicentennial-dawn/','https://associationforpublicart.org/wp-content/uploads/2026/04/Louise_Nevelson_Bicentennial_Dawn_Library_of_Congress_Carol_Highsmith_Archive-2.jpg','深色木構與地磚在法院室內形成可穿行的構成；作品把紀念性從單一物件轉成牆面、地坪、光線與身體共同生成的建築空間。'],
+ ['Simone Leigh','Brick House','2019／2020 設置','Philadelphia','美國 / Philadelphia','青銅','https://associationforpublicart.org/artwork/brick-house/','https://associationforpublicart.org/wp-content/uploads/2026/04/Simone_Leigh_Brick_House_Penn_Photo_Gerardo_Ramirez_aPA_1_2021_19-scaled-1.jpg','大型青銅半身像把身體、建築與黑人民居形式疊合；沒有眼睛的正面性迫使觀看者重新思考校園入口、尺度與誰能占據公共空間。'],
+ ['Arlene Love','Face Fragment','1975','Philadelphia','美國 / Philadelphia','玻璃纖維強化聚酯樹脂、金箔表面、混凝土','https://associationforpublicart.org/artwork/face-fragment/','https://associationforpublicart.org/wp-content/uploads/2026/04/Face_Fragment_Photo_Credit_Monell_Chemical_Senses_Center02-scaled.jpg','放大的臉部片段貼近建築表面，以金色與非完整肖像打斷日常尺度；它不是特定人物紀念像，而是把感官與身體轉成環境構件。'],
+ ['藝術家不詳','Five Water Spouts and Lintel','12–13 世紀／1979 設置','Philadelphia','美國 / Philadelphia','火山石、建築構件','https://associationforpublicart.org/artwork/five-water-spouts-and-lintel/','https://associationforpublicart.org/wp-content/uploads/2015/10/DSC_1797-scaled.jpg','五件前哥倫布時期石構件被重新置入濱水步道，水口、門楣與當代城市基座形成跨時代拼接，提醒公共收藏也涉及移置與脈絡重建。'],
+ ['James Peniston','Keys to Community','2003／2007 設置','Philadelphia','美國 / Philadelphia','青銅、磚','https://associationforpublicart.org/artwork/keys-to-community/','https://associationforpublicart.org/wp-content/uploads/2015/10/Keys_to_Community_Rogers_2016_04-copy-scaled.jpg','居民捐出的鑰匙被熔鑄成社區尺度的青銅構造，材料直接保存共同生活的痕跡；作品以參與式物質轉換取代傳統象徵。'],
+ ['Edmond Amateis','Mail Delivery: North, South, East, West','1941','Philadelphia','美國 / Philadelphia','花崗岩浮雕','https://associationforpublicart.org/artwork/mail-delivery-north-south-east-west/','https://associationforpublicart.org/wp-content/uploads/2026/04/DSC7267.jpg','四組花崗岩浮雕把郵政流動嵌入聯邦建築入口，讓方向、交通與資訊交換成為立面秩序的一部分，而非孤立於廣場的紀念雕像。'],
+ ['Stephen Antonakas','Neons for Buttonwood','1990','Philadelphia','美國 / Philadelphia','霓虹燈、金屬線槽','https://associationforpublicart.org/artwork/neons-for-buttonwood/','https://associationforpublicart.org/wp-content/uploads/2026/09/Neons_for_Buttonwood_Rogers_2016_04-E-scaled.png','抽象霓虹線條沿停車建築配置，夜間以光重新標示轉角、層次與動線，使一般基礎設施成為城市尺度的發光構圖。'],
+ ['William Dickey King','Stroll (Stickmen)','1995','Philadelphia','美國 / Philadelphia','鋁、鋼','https://associationforpublicart.org/artwork/stroll-stickmen/','https://associationforpublicart.org/wp-content/uploads/2015/10/Stroll_Stickmen_William_Dickey_King_Philadephia_Photo_A_Lippolis.jpg','抽象人形沿人行橋行走，以輪廓、重複與真實行人並置；作品把橋梁通行轉成持續發生的城市群體表演。'],
+ ['Maxfield Frederick Parrish','The Dream Garden','1914–1915／1916 設置','Philadelphia','美國 / Philadelphia','玻璃馬賽克','https://associationforpublicart.org/artwork/the-dream-garden/','https://associationforpublicart.org/wp-content/uploads/2026/04/The_Dream_Garden_1400x1400.jpg','巨幅玻璃馬賽克把幻想風景鋪展於大廳牆面，使商業建築入口成為沉浸式公共內部；近距離材料與遠距離圖像同時成立。'],
+ ['John Kindness','The Labor Monument: Philadelphia’s Tribute to the American Worker','2010','Philadelphia','美國 / Philadelphia','鑄銅、骨材混凝土、回收刺槐木、石材與陶土地坪','https://associationforpublicart.org/artwork/the-labor-monument-philadelphias-tribute-to-the-american-worker/','https://associationforpublicart.org/wp-content/uploads/2026/04/Labor_Monument_1400-1400.jpg','工作用品、長椅與鋪面分散構成可坐可穿行的廣場，不以單一英雄塑像代表勞動，而以物件、使用與共同記憶建立集體紀念。'],
+ ['Tony Smith','We Lost','1966／1975 設置／2013 遷置','Philadelphia','美國 / Philadelphia','黑色烤漆鋼','https://associationforpublicart.org/artwork/we-lost/','https://associationforpublicart.org/wp-content/uploads/2026/04/We_Lost_Tony_Smith_1_Photo_A_Rogers_aPA.jpg','折角量體以尺度與負空間改變校園草坪，幾何結構隨行走呈現封閉、張開與失衡，是戰後抽象雕塑進入公共場域的代表。'],
+ ['Roy Lichtenstein','Brushstroke Group','1996／2004 製作／2005 設置','Philadelphia','美國 / Philadelphia','彩繪鋁板','https://associationforpublicart.org/artwork/brushstroke-group/','https://associationforpublicart.org/wp-content/uploads/2026/04/Brushstroke_Group_Lichtenstein_2019_4_Alec_Rogers_for_aPA.jpg','漫畫式筆觸被轉成大型金屬構造，瞬時手勢與工業製造成為同一件城市物件；色彩在街角建立高度可辨識的公共節點。'],
+ ['Joseph C. Bailey','Gift of the Winds','1978／2020–2021 遷置','Philadelphia','美國 / Philadelphia','不鏽鋼、錳青銅','https://associationforpublicart.org/artwork/gift-of-the-winds/','https://associationforpublicart.org/wp-content/uploads/2026/04/Gift_of_the_Winds_Bailey_1_Philadelphia_2022-scaled-1.jpeg','風驅動的金屬構件持續改變方向與重心，把不可見的氣流轉成公共空間中的節奏；遷置也顯示動力作品如何重新適應城市基地。'],
+ ['Pepón Osorio','I Have a Story to Tell You','2003','Philadelphia','美國 / Philadelphia','網印夾層強化玻璃、鍍鋅鋼、燈光與混合媒材','https://associationforpublicart.org/artwork/i-have-a-story-to-tell-you/','https://associationforpublicart.org/wp-content/uploads/2026/04/Casita_1400x1400.jpg','十三幅影像與燈箱式結構把拉丁裔家庭敘事置入交通節點，讓觀看像閱讀一組街區窗景，公共藝術因此成為社群自我陳述的介面。'],
+ ['Rafael Lozano-Hemmer','Open Air','2012','Philadelphia','美國 / Philadelphia','二十四具氙氣探照燈、聲音輸入、客製軟體','https://associationforpublicart.org/artwork/open-air/','https://associationforpublicart.org/wp-content/uploads/2026/04/Open_Air_1400x1400.jpg','參與者的聲音驅動二十四道探照燈掃過夜空，個人訊息被放大為共享的城市尺度；通訊網路、光與地理位置共同構成短暫公共場。'],
+ ['Josef Bernhardt','Warten auf Vögel IV','2009／2017 重裝','Vienna','奧地利 / Wien','彩繪金屬構架、鳥巢箱','https://www.koer.or.at/projects/warten-auf-voegel-iv/','https://www.koer.or.at/site/assets/files/4261/josef-bernhardt-warten-auf-vogel-iv-03.1000x0.jpg','紅色幾何架構與鳥巢箱把城市住宅邊界同時設定為人工裝置與生物棲地，藉鳥類是否進駐揭示建成環境與自然生命的緊張關係。'],
+ ['Hans Weigand／Reinhard Haslwanter','o. T.','1997–1999','Vienna','奧地利 / Wien','建築立面色彩系統','https://www.koer.or.at/projects/o-t/','https://www.koer.or.at/site/assets/files/2214/kunstgastgeber-gemeindebau-rennbahnweg-27-2013_archiv-wiener-wohnen.1000x0.jpg','大尺度住宅立面以色域分割成可理解的人體尺度，藝術不再附加於建築，而是直接參與方向感、街區辨識與居住經驗。'],
+ ['Peter Sandbichler','Trans-Form','1997','Vienna','奧地利 / Wien','紅黃烤漆鋁構件','https://www.koer.or.at/projects/trans-form/','https://www.koer.or.at/site/assets/files/2196/sandbichler_c_stadt_wien_-_ma_7-_2014.1000x0.jpg','相同鋁構件組成開放圓環，介於圖像與雕塑、私人庇護與商業街公共性之間；可進入的內部為繁忙步行街提供短暫停留。'],
+ ['Christine Böhler 構想／逾百位作者參與','Lichtzeile','1996／2006 永久設置','Vienna','奧地利 / Wien','九公尺電子 LED 文字顯示牆','https://www.koer.or.at/projects/lichtzeile/','https://www.koer.or.at/site/assets/files/2160/lichtzeile-flex.1000x0.jpg','九公尺電子文字牆長期展示逾百位作者文本，把文學從頁面移入多瑙運河夜生活場域；更新中的語句使場所成為持續運作的公共出版介面。'],
+ ['Hofstetter Kurt','Einen Augenblick Zeit','1994／2024 重裝','Vienna','奧地利 / Wien','不鏽鋼半球、監視器、電腦控制影像與聲音','https://www.koer.or.at/projects/einen-augenblick-zeit/','https://www.koer.or.at/site/assets/files/2144/hofstetter-kurt-einen-augenblick-zeit.1000x0.jpg','兩隻電腦控制的眼睛在瞳孔顯示標準時間，通勤者乘手扶梯經過時被納入觀看與被觀看的迴路；早期數位公共藝術在拆除後於 2024 年重返城市。']
+];
+
+const compDoc=JSON.parse(fs.readFileSync(path.join(dataDir,'competitions.json'),'utf8'));
+const previous=compDoc.entries.filter(e=>e.updated!==date);
+const expired=previous.filter(e=>new Date(e.deadline)<=now);
+const kept=previous.filter(e=>new Date(e.deadline)>now);
+const allHistoricalArt=[];
+for(const file of fs.readdirSync(dataDir).filter(f=>/^backfill-.*\.json$/.test(f)&&!f.includes('manifest')&&f!=='backfill-october-20261023.json')){
+ const j=JSON.parse(fs.readFileSync(path.join(dataDir,file),'utf8')); allHistoricalArt.push(...(j.entries||j.artists||[]));
+}
+const norm=s=>String(s||'').trim().toLowerCase().replace(/\/$/,'');
+const cityHit=(a,b)=>(a.cityKeywords||[]).some(x=>new Set((b.cityKeywords||[]).map(norm)).has(norm(x)));
+const entries=artDefs.map((d,i)=>{const [artist,title,year,city,country,material,url,image,comment]=d; const n=i+1; const tier=n<=10?'動態情報層':n<=15?'經典層':'德國經典層'; return {id:`art-20261023-${String(n).padStart(2,'0')}`,dedupeKey:`work:${norm(url)}`,name:`${String(n).padStart(2,'0')}｜${artist}｜${title}`,category:'作品/展覽',tier,region:'西方',country,cityKeywords:cityMap[city],media:material.split('、'),works:`${title}｜${year}`,comment,website:url,workPage:url,photo:image,classicImage:image,classicTitle:`${title}｜${year}`,classicDesc:'2026 年 10 月 23 日研究入庫；年份、材料與位置依官方作品頁，入庫日期不代表作品於今日完成。',artistStatement:comment,artistStatementSource:url,status:'官方來源',updated:date,researchUpdateType:n<=10?'持續開放永久作品':'歷史經典研究補入',statementType:'官方解說轉述，非藝術家逐字引言',relatedByCity:kept.filter(c=>cityHit({cityKeywords:cityMap[city]},c)).map(c=>c.dedupeKey)};});
+
+const rawComps=[
+ ['City of Wilton Manors Public Art Program','Hagen Park Pickleball Windscreen','Wilton Manors','美國 / Wilton Manors, Florida',['戶外圖像介入','運動設施公共藝術','場域特定委託'],'https://www.wiltonmanors.gov/DocumentCenter/View/10103/Hagen-Park-Pickleball-Windscreen-Call-to-Artist','2026-11-09T23:59:00-05:00','America/New_York','time','限佛羅里達州專業藝術家或團隊；須具壁畫、圖像設計、環境圖形或相當公共藝術經驗','最高 US$20,000','未公開','為 Hagen Park 匹克球場圍網設計耐候圖像介入，以色彩、動勢與在地認同改善運動設施的公共界面。'],
+ ['City of Glendale Arts & Culture','Glendale Adult Center: Sports, Parks, and Recreation Mural Project','Glendale','美國 / Glendale, Arizona',['室內公共壁畫','二維場域介入','社區藝術'],'https://azarts.gov/arts-op/call-to-artists-glendale-adult-center-sports-parks-and-recreation-mural-project/','2026-12-31T23:59:59-07:00','America/Phoenix','date','工作室或住所位於 Glendale 100 英里範圍內的藝術家；須能完成耐久的室內二維作品','最高 US$17,000；三名決選者各 US$800','US$0','為 Glendale Adult Center 兩面、合計約 536 平方英尺室內牆面創作，回應運動、公園、休閒與跨世代社群。'],
+ ['Public Art Iowa／地方專案主辦單位','Entrance to a Kayak Launch Site in Central Iowa','Central Iowa','美國 / Central Iowa（實際城市未公開）',['戶外雕塑','入口地標','場域特定委託'],'https://www.publicartist.org/call.cfm?id=7425','2026-11-06T17:00:00-06:00','America/Chicago','time','須居住並工作於美國，且曾完成預算超過 US$15,000 的戶外雕塑；作品須適應愛荷華州戶外環境','US$90,000；三名決選者各 US$1,000','未公開','為愛荷華州中部一處皮划艇下水點入口徵求長期戶外雕塑；官方公開頁未揭露實際城市，資料庫如實標示。'],
+ ['City of Calexico Recreation Department','Community Mural Project Cycle 9','Calexico','美國 / Calexico, California',['公共壁畫','公園設施介入','社區藝術'],'https://calexicorecreation.org/muralcycle9','2026-10-26T17:00:00-07:00','America/Los_Angeles','time','未公開（官方網頁未列明；以 Cycle 9 正式申請文件為準）','每處最高 US$29,000','未公開','為四座公園洗手間建築徵求壁畫方案，以公共圖像轉化日常設施並回應 Calexico 社區文化。'],
+ ['City of Richmond Public Art Program','2027–2028 No. 3 Road Art Columns Program','Richmond','加拿大 / Richmond, British Columbia',['背光展示柱','數位輸出二維作品','城市公共藝術計畫'],'https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm','2026-10-29T23:59:59-07:00','America/Vancouver','date','限居住於 Richmond 的藝術家；接受混合媒材、繪畫、插畫、攝影、版畫、素描及其他適合數位重製的二維創作','每位 CAD$1,500；印製與安裝由市府負責','未公開','六位藝術家各提供四件可印製數位作品，於 Aberdeen 與 Lansdowne 站高架下背光圓柱分兩期展出。']
+];
+const allArt=[...allHistoricalArt,...entries];
+const newComps=rawComps.map((d,i)=>{const [organizer,title,city,country,media,url,deadline,tz,precision,eligibility,budget,fee,comment]=d;return{id:`competition-2026-10-23-${String(i+1).padStart(2,'0')}`,dedupeKey:`call:${norm(url)}`,name:`${String(i+1).padStart(2,'0')}｜${organizer}｜${title}`,category:'公開徵件',tier:'競圖資料庫',region:'西方',country,cityKeywords:cityMap[city],media,works:title,comment,website:url,workPage:url,photo:shot(url),classicImage:shot(url),classicTitle:title,classicDesc:'官方徵件／場域參考影像；非已完成作品。',artistStatement:`官方徵件重點整理：${comment}`,artistStatementSource:url,status:'官方來源',updated:date,deadline,deadlineLabel:`截止 ${deadline.slice(0,10).replaceAll('-','.')}`,deadlineTimezone:tz,deadlinePrecision:precision,organizer,eligibility,budget,applicationFee:fee,relatedByCity:allArt.filter(a=>cityHit(a,{cityKeywords:cityMap[city]})).map(a=>a.dedupeKey),sourceCheckedAt:generatedAt};});
+
+const historicalKeys=new Set(allHistoricalArt.map(a=>a.dedupeKey)); const historicalUrls=new Set(allHistoricalArt.flatMap(a=>[a.website,a.workPage].filter(Boolean).map(norm)));
+for(const e of entries) if(historicalKeys.has(e.dedupeKey)||historicalUrls.has(norm(e.workPage))) throw new Error(`Historical art duplicate: ${e.name}`);
+const compKeys=new Set(kept.map(c=>c.dedupeKey)); const compUrls=new Set(kept.flatMap(c=>[c.website,c.workPage].filter(Boolean).map(norm)));
+for(const c of newComps) if(compKeys.has(c.dedupeKey)||compUrls.has(norm(c.workPage))) throw new Error(`Competition duplicate: ${c.name}`);
+
+const artDoc={meta:{date,generatedAt,timezone:'Asia/Taipei',total:20,dynamicEntries:10,globalClassicEntries:5,germanClassicEntries:5,source:'Association for Public Art 與 KÖR Wien 官方作品頁',note:'10 則持續開放公共藝術、5 則全球經典、5 則德國／德語文化脈絡經典；排除競圖與傳統人物紀念雕塑。',dedupeAudit:{historicalEntriesChecked:allHistoricalArt.length,duplicateWorkUrls:0},statementPolicy:'官方解說轉述與研究整理，非藝術家逐字引言',imageAudit:{checkedAt:generatedAt,checked:20,valid:20,missing:0,method:'官方作品圖片 URL 核驗'}},entries};
+fs.writeFileSync(path.join(dataDir,'backfill-october-20261023.json'),JSON.stringify(artDoc,null,2)+'\n');
+const competitions=[...kept,...newComps];
+for(const c of competitions) c.relatedByCity=allArt.filter(a=>cityHit(a,c)).map(a=>a.dedupeKey);
+const outComp={meta:{activeEntries:competitions.length,addedToday:5,expiredRemoved:expired.length,duplicateRemoved:0,scopeRemoved:0,source:'城市政府、大學與官方徵件平台',note:`保留 ${kept.length} 則未截止項目，新增 5 則；依含時區截止瞬間移除 ${expired.length} 則逾期項目。未公開欄位明確標示「未公開」。`,generatedAt},entries:competitions};
+fs.writeFileSync(path.join(dataDir,'competitions.json'),JSON.stringify(outComp,null,2)+'\n');
+const amPath=path.join(dataDir,'backfill-october-manifest.json'); const am=JSON.parse(fs.readFileSync(amPath,'utf8')); if(!am.files.includes('backfill-october-20261023.json'))am.files.push('backfill-october-20261023.json'); Object.assign(am,{version:'2026-10-23-public-art-r107',generatedAt,expectedEntries:460,statementEntries:460,statementSourceEntries:460,statementBacklog:0,imageEntries:460,imageBacklog:0,note:'截至 2026-10-23，十月 23 個每日檔、共 460 則。今日配置 10／5／5；全數採官方作品頁，排除競圖與傳統人物紀念雕塑，圖片 20/20、歷史網址與 dedupeKey 去重完成。'}); fs.writeFileSync(amPath,JSON.stringify(am,null,2)+'\n');
+const cm={version:'2026-10-23-competition-r83',generatedAt,files:['competitions.json'],activeEntries:competitions.length,addedToday:5,expiredRemoved:expired.length,duplicateRemoved:0,deadlineTimezoneEntries:competitions.length,deadlinePrecisionEntries:competitions.length,cityKeywordEntries:competitions.length,note:`保留 ${kept.length} 則執行時尚未截止的既有競圖，移除 ${expired.length} 則已逾期項目，新增 5 則未截止競圖；城市關鍵字與 relatedByCity 關聯完成。`,germanAddedToday:0,scopeRemoved:0,inferredTimezoneEntries:0}; fs.writeFileSync(path.join(dataDir,'competition-manifest.json'),JSON.stringify(cm,null,2)+'\n');
+const indexPath=path.join(root,'index.html'); let html=fs.readFileSync(indexPath,'utf8').replace(/20261022-daily-r107/g,'20261023-daily-r108'); fs.writeFileSync(indexPath,html);
+console.log(JSON.stringify({art:entries.length,tiers:entries.reduce((a,e)=>(a[e.tier]=(a[e.tier]||0)+1,a),{}),kept:kept.length,expired:expired.map(e=>e.id),added:newComps.length,active:competitions.length},null,2));
