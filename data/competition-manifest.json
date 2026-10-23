@@ -1,17 +1,24 @@
 {
-  "version": "2026-10-23-competition-r83",
-  "generatedAt": "2026-10-23T05:22:00+08:00",
+  "version": "2026-10-24-competition-r84",
+  "generatedAt": "2026-10-24T05:28:00+08:00",
   "files": [
     "competitions.json"
   ],
   "activeEntries": 130,
   "addedToday": 5,
-  "expiredRemoved": 3,
+  "expiredRemoved": 5,
+  "expiredRemovedIds": [
+    "competition-2026-10-19-01",
+    "competition-2026-10-14-02",
+    "competition-2026-10-10-05",
+    "competition-2026-10-01-02",
+    "competition-2026-08-14-01"
+  ],
   "duplicateRemoved": 0,
   "deadlineTimezoneEntries": 130,
   "deadlinePrecisionEntries": 130,
   "cityKeywordEntries": 130,
-  "note": "保留 125 則執行時尚未截止的既有競圖，移除 3 則已逾期項目，新增 5 則未截止競圖；城市關鍵字與 relatedByCity 關聯完成。",
+  "note": "保留 125 則執行時尚未截止的既有競圖，移除 5 則已逾期項目，新增 5 則未截止競圖；城市關鍵字與 relatedByCity 關聯完成。",
   "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0
