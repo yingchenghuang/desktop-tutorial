@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "title": "日本・韓國公共藝術專題補充",
+    "generatedAt": "2026-10-27T07:45:00+08:00",
+    "total": 12,
+    "note": "依作品設置地分類，日本 6 則、韓國 6 則；歷史作品年份與參訪限制分列，論述為官方資料的編輯摘要。"
+  },
+  "entries": [
+    {
+      "id": "classic-20261027-jp-shedding",
+      "name": "倉掛純一＋日本大學藝術學部雕刻團隊｜Shedding House｜脫皮之家",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "日本／新潟縣十日町市・峠",
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Shedding House｜脫皮之家（2006）",
+      "comment": "以手工雕刻遍及老屋的牆面、地板與柱梁，讓既有構造和勞動痕跡成為作品。空屋再利用的參考重點是長期集體製作，以及藝術介入後的住宿營運。",
+      "website": "https://www.echigo-tsumari.jp/en/art/artwork/sheding_house/",
+      "workPage": "https://www.echigo-tsumari.jp/en/art/artwork/sheding_house/",
+      "photo": "",
+      "classicTitle": "Shedding House｜脫皮之家",
+      "classicImage": "https://www.echigo-tsumari.jp/assets/uploads/2020/02/D143_SheddingHouse_Kawase_2160.jpg",
+      "classicDesc": "以手工雕刻遍及老屋的牆面、地板與柱梁，讓既有構造和勞動痕跡成為作品。空屋再利用的參考重點是長期集體製作，以及藝術介入後的住宿營運。 原作年份：2006。參訪資訊：2026 年作品頁註明僅供住宿客人使用；預約與季節開放依官網公告。 圖片署名：KAWASE Kazue。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://www.echigo-tsumari.jp/en/art/artwork/sheding_house",
+      "artistStatement": "依官方作品解說整理：以雕刻重新觸及老屋的表面，透過共同勞動使房屋獲得新的生命與用途。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://www.echigo-tsumari.jp/en/art/artwork/sheding_house/",
+      "productionYear": "2006",
+      "accessNote": "2026 年作品頁註明僅供住宿客人使用；預約與季節開放依官網公告。",
+      "imageCredit": "KAWASE Kazue",
+      "imageSource": "https://www.echigo-tsumari.jp/assets/uploads/2020/02/D143_SheddingHouse_Kawase_2160.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "日本",
+        "Japan",
+        "十日町",
+        "Tokamachi",
+        "越後妻有",
+        "新潟"
+      ],
+      "sources": [
+        "https://www.echigo-tsumari.jp/en/art/artwork/sheding_house/"
+      ]
+    },
+    {
+      "id": "classic-20261027-jp-memory",
+      "name": "塩田千春 Chiharu Shiota｜House Memory｜家的記憶",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "日本／新潟縣十日町市・下蝦池",
+      "media": [
+        "裝置",
+        "纖維",
+        "建築/場域"
+      ],
+      "works": "House Memory｜家的記憶（2009）",
+      "comment": "黑色線網纏繞曾經養蠶的民居，將居民使用過的家具與生活器物包入空間。可作為聚落記憶、缺席與日常物件保存的案例，線材在此建立身體穿行和觀看的界線。",
+      "website": "https://www.echigo-tsumari.jp/en/media/200407-shiotachiharu/",
+      "workPage": "https://www.echigo-tsumari.jp/en/media/200407-shiotachiharu/",
+      "photo": "",
+      "classicTitle": "House Memory｜家的記憶",
+      "classicImage": "https://www.echigo-tsumari.jp/assets/uploads/2020/04/01_232Shiota01_miyamoto_l-750x500.jpg",
+      "classicDesc": "黑色線網纏繞曾經養蠶的民居，將居民使用過的家具與生活器物包入空間。可作為聚落記憶、缺席與日常物件保存的案例，線材在此建立身體穿行和觀看的界線。 原作年份：2009。參訪資訊：屬歷史作品檔案；現地開放時間依主辦單位當季公告。 圖片署名：Takenori Miyamoto＋Hiromi Seno。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://www.echigo-tsumari.jp/en/media/200407-shiotachiharu",
+      "artistStatement": "依官方作品解說整理：透過線與地方生活物件，讓空屋承載曾經在此生活的人們的記憶與痕跡。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://www.echigo-tsumari.jp/en/media/200407-shiotachiharu/",
+      "productionYear": "2009",
+      "accessNote": "屬歷史作品檔案；現地開放時間依主辦單位當季公告。",
+      "imageCredit": "Takenori Miyamoto＋Hiromi Seno",
+      "imageSource": "https://www.echigo-tsumari.jp/assets/uploads/2020/04/01_232Shiota01_miyamoto_l-750x500.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "日本",
+        "Japan",
+        "十日町",
+        "Tokamachi",
+        "越後妻有",
+        "新潟"
+      ],
+      "sources": [
+        "https://www.echigo-tsumari.jp/en/media/200407-shiotachiharu/"
+      ]
+    },
+    {
+      "id": "classic-20261027-jp-lastclass",
+      "name": "Christian Boltanski＋Jean Kalman｜The Last Class｜最後的教室",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "日本／新潟縣十日町市・松之山",
+      "media": [
+        "裝置",
+        "光/影像/投影",
+        "聲音/霧/水",
+        "建築/場域"
+      ],
+      "works": "The Last Class｜最後的教室（2006）",
+      "comment": "作品將廢校整體轉為暗光、聲音與物件交織的體驗場域，使離校與人口變化留下的空間感可以被身體感知。對廢校活化的啟發在於保留既有建築的情緒和時間層次。",
+      "website": "https://www.echigo-tsumari.jp/en/art/artwork/the_last_class/",
+      "workPage": "https://www.echigo-tsumari.jp/en/art/artwork/the_last_class/",
+      "photo": "",
+      "classicTitle": "The Last Class｜最後的教室",
+      "classicImage": "https://www.echigo-tsumari.jp/assets/uploads/2020/02/02-TheLastClass.jpg",
+      "classicDesc": "作品將廢校整體轉為暗光、聲音與物件交織的體驗場域，使離校與人口變化留下的空間感可以被身體感知。對廢校活化的啟發在於保留既有建築的情緒和時間層次。 原作年份：2006。參訪資訊：屬歷史作品檔案；入場日期及票務依越後妻有當季公告。 圖片署名：T. Kuratani。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://www.echigo-tsumari.jp/en/art/artwork/the_last_class",
+      "artistStatement": "依官方作品解說整理：以光線、聲音及建築中的痕跡，探問記憶、生命與人的缺席。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://www.echigo-tsumari.jp/en/art/artwork/the_last_class/",
+      "productionYear": "2006",
+      "accessNote": "屬歷史作品檔案；入場日期及票務依越後妻有當季公告。",
+      "imageCredit": "T. Kuratani",
+      "imageSource": "https://www.echigo-tsumari.jp/assets/uploads/2020/02/02-TheLastClass.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "日本",
+        "Japan",
+        "十日町",
+        "Tokamachi",
+        "越後妻有",
+        "新潟"
+      ],
+      "sources": [
+        "https://www.echigo-tsumari.jp/en/art/artwork/the_last_class/"
+      ]
+    },
+    {
+      "id": "classic-20261027-jp-tunnel",
+      "name": "馬岩松／MAD Architects｜Tunnel of Light｜光之隧道",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "日本／新潟縣十日町市・清津峽",
+      "media": [
+        "地景/大地藝術",
+        "建築/場域",
+        "裝置"
+      ],
+      "works": "Tunnel of Light｜光之隧道（2018；2021 年增設）",
+      "comment": "沿清津峽既有觀光隧道配置觀看裝置，末端以鏡面和淺水反射峽谷，使人的身影、自然與基礎設施形成共同畫面。適合研究既有遊憩設施如何轉化為感知地景的路徑。",
+      "website": "https://mb.echigo-tsumari.jp/en/art/artwork/periscopelight_cave/",
+      "workPage": "https://mb.echigo-tsumari.jp/en/art/artwork/periscopelight_cave/",
+      "photo": "",
+      "classicTitle": "Tunnel of Light｜光之隧道",
+      "classicImage": "https://mb.echigo-tsumari.jp/assets/uploads/2020/02/%EF%BC%AE079_Tunnel-of-Light_Nakamura_2160.jpg",
+      "classicDesc": "沿清津峽既有觀光隧道配置觀看裝置，末端以鏡面和淺水反射峽谷，使人的身影、自然與基礎設施形成共同畫面。適合研究既有遊憩設施如何轉化為感知地景的路徑。 原作年份：2018；2021 年增設。參訪資訊：旺季可能須預約，冬季亦可能受降雪影響；出發前請核對官方營運公告。 圖片署名：Nakamura Osamu。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://mb.echigo-tsumari.jp/en/art/artwork/periscopelight_cave",
+      "artistStatement": "依官方作品解說整理：以自然元素與隧道空間的介入，重新建立人與峽谷環境之間的感知關係。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://mb.echigo-tsumari.jp/en/art/artwork/periscopelight_cave/",
+      "productionYear": "2018；2021 年增設",
+      "accessNote": "旺季可能須預約，冬季亦可能受降雪影響；出發前請核對官方營運公告。",
+      "imageCredit": "Nakamura Osamu",
+      "imageSource": "https://mb.echigo-tsumari.jp/assets/uploads/2020/02/%EF%BC%AE079_Tunnel-of-Light_Nakamura_2160.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "日本",
+        "Japan",
+        "十日町",
+        "Tokamachi",
+        "越後妻有",
+        "新潟"
+      ],
+      "sources": [
+        "https://mb.echigo-tsumari.jp/en/art/artwork/periscopelight_cave/"
+      ]
+    },
+    {
+      "id": "classic-20261027-jp-dream",
+      "name": "Marina Abramović｜Dream House｜夢之家",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "日本／新潟縣十日町市・松之山湯本",
+      "media": [
+        "參與式/社會實踐",
+        "建築/場域"
+      ],
+      "works": "Dream House｜夢之家（2000）",
+      "comment": "藝術家以色彩房間、專用睡衣及睡眠儀式設計住宿經驗，邀請訪客記錄夢境，逐次累積成共同檔案。可作為參與式藝術把時間、身體和地方旅宿結合的案例。",
+      "website": "https://www.echigo-tsumari.jp/en/art/artwork/dream_house/",
+      "workPage": "https://www.echigo-tsumari.jp/en/art/artwork/dream_house/",
+      "photo": "",
+      "classicTitle": "Dream House｜夢之家",
+      "classicImage": "https://www.echigo-tsumari.jp/assets/uploads/2020/03/Y013-marina_house_1440-anzai.jpg",
+      "classicDesc": "藝術家以色彩房間、專用睡衣及睡眠儀式設計住宿經驗，邀請訪客記錄夢境，逐次累積成共同檔案。可作為參與式藝術把時間、身體和地方旅宿結合的案例。 原作年份：2000。參訪資訊：2026 年住宿季已於 10 月 18 日結束；後續參訪與住宿依主辦公告。 圖片署名：ANZAÏ。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://www.echigo-tsumari.jp/en/art/artwork/dream_house",
+      "artistStatement": "依官方作品解說整理：邀請住宿者透過睡眠與夢境參與作品，並以留下的夢境紀錄延續作品。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://www.echigo-tsumari.jp/en/art/artwork/dream_house/",
+      "productionYear": "2000",
+      "accessNote": "2026 年住宿季已於 10 月 18 日結束；後續參訪與住宿依主辦公告。",
+      "imageCredit": "ANZAÏ",
+      "imageSource": "https://www.echigo-tsumari.jp/assets/uploads/2020/03/Y013-marina_house_1440-anzai.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "日本",
+        "Japan",
+        "十日町",
+        "Tokamachi",
+        "越後妻有",
+        "新潟"
+      ],
+      "sources": [
+        "https://www.echigo-tsumari.jp/en/art/artwork/dream_house/"
+      ]
+    },
+    {
+      "id": "classic-20261027-jp-light",
+      "name": "James Turrell｜House of Light｜光之館",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "日本／新潟縣十日町市・上野",
+      "media": [
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "House of Light｜光之館（2000）",
+      "comment": "以日本傳統住宅為基礎，將天空、自然光與人工光配置為可居住的感知作品。觀看隨時間而變化，提供藝術住宿、地方建築與緩慢體驗相結合的參考。",
+      "website": "https://www.hikarinoyakata.com/english/",
+      "workPage": "https://www.hikarinoyakata.com/english/",
+      "photo": "",
+      "classicTitle": "House of Light｜光之館",
+      "classicImage": "https://www.hikarinoyakata.com/themes/hikarinoyakata/images/top/section3-img.png",
+      "classicDesc": "以日本傳統住宅為基礎，將天空、自然光與人工光配置為可居住的感知作品。觀看隨時間而變化，提供藝術住宿、地方建築與緩慢體驗相結合的參考。 原作年份：2000。參訪資訊：住宿須預約，日間參觀亦有指定時段；請依營運方最新公告安排。 圖片署名：Gentaro Ishizuka。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://www.hikarinoyakata.com/english",
+      "artistStatement": "依官方作品解說整理：從傳統住宅與光影感受出發，創造讓觀者在日夜變化中凝視天空和光的場所。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://www.hikarinoyakata.com/english/",
+      "productionYear": "2000",
+      "accessNote": "住宿須預約，日間參觀亦有指定時段；請依營運方最新公告安排。",
+      "imageCredit": "Gentaro Ishizuka",
+      "imageSource": "https://www.hikarinoyakata.com/themes/hikarinoyakata/images/top/section3-img.png",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "日本",
+        "Japan",
+        "十日町",
+        "Tokamachi",
+        "越後妻有",
+        "新潟"
+      ],
+      "sources": [
+        "https://www.hikarinoyakata.com/english/"
+      ]
+    },
+    {
+      "id": "classic-20261027-kr-peak",
+      "name": "MVRDV｜Anyang Peak｜安養之峰",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "韓國／京畿道安養市・安養藝術公園",
+      "media": [
+        "雕塑",
+        "建築/場域",
+        "地景/大地藝術"
+      ],
+      "works": "Anyang Peak｜安養之峰（2005–2006）",
+      "comment": "螺旋路徑沿山丘延伸成為眺望塔，內部留出可容納展演的空間。以行走放大山林經驗，將遊憩區更新與公共藝術結合，適合比較地景步行和聚集空間的關係。",
+      "website": "https://mvrdv.com/projects/102/anyang-peak",
+      "workPage": "https://mvrdv.com/projects/102/anyang-peak",
+      "photo": "",
+      "classicTitle": "Anyang Peak｜安養之峰",
+      "classicImage": "https://www.mvrdv.com/media//scraped/eaec0d69-f789-465a-a166-2c4598e8a1ce.jpg",
+      "classicDesc": "螺旋路徑沿山丘延伸成為眺望塔，內部留出可容納展演的空間。以行走放大山林經驗，將遊憩區更新與公共藝術結合，適合比較地景步行和聚集空間的關係。 原作年份：2005–2006。參訪資訊：創作者列為已實現作品；目前使用及公園管理資訊請向地方營運單位確認。 圖片署名：MVRDV。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://mvrdv.com/projects/102/anyang-peak",
+      "artistStatement": "依官方作品解說整理：以新的觀看路徑強化自然體驗，讓山丘轉化為能觀看風景、展演與相聚的公共場域。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://mvrdv.com/projects/102/anyang-peak",
+      "productionYear": "2005–2006",
+      "accessNote": "創作者列為已實現作品；目前使用及公園管理資訊請向地方營運單位確認。",
+      "imageCredit": "MVRDV",
+      "imageSource": "https://www.mvrdv.com/media//scraped/eaec0d69-f789-465a-a166-2c4598e8a1ce.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "韓國",
+        "Korea",
+        "Anyang",
+        "安養",
+        "APAP"
+      ],
+      "sources": [
+        "https://mvrdv.com/projects/102/anyang-peak"
+      ]
+    },
+    {
+      "id": "classic-20261027-kr-school",
+      "name": "LOT-EK／Ada Tolla＋Giuseppe Lignano｜APAP OpenSchool｜開放學校",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "韓國／京畿道安養市",
+      "media": [
+        "參與式/社會實踐",
+        "建築/場域"
+      ],
+      "works": "APAP OpenSchool｜開放學校（2010）",
+      "comment": "八個貨櫃以斜向排列構成架高空間，下方形成可集會的劇場，上方容納展覽及社區工作空間。它回應都市更新中地方街區與故事消失的問題，值得研究再利用材料和公共活動的搭配。",
+      "website": "https://lot-ek.com/index.php/layouts/project/apap-open-scholl",
+      "workPage": "https://lot-ek.com/index.php/layouts/project/apap-open-scholl",
+      "photo": "",
+      "classicTitle": "APAP OpenSchool｜開放學校",
+      "classicImage": "https://lot-ek.com/media/multimedia/APAP.jpg",
+      "classicDesc": "八個貨櫃以斜向排列構成架高空間，下方形成可集會的劇場，上方容納展覽及社區工作空間。它回應都市更新中地方街區與故事消失的問題，值得研究再利用材料和公共活動的搭配。 原作年份：2010。參訪資訊：2010 年 APAP 歷史案例；本次未確認現況與開放安排。 圖片署名：Kim Myoung-sik＋Sergio Perrone。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://lot-ek.com/index.php/layouts/project/apap-open-scholl",
+      "artistStatement": "依官方作品解說整理：以貨櫃組構開放的社區平台，使藝術活動與居民對都市變遷的討論得以相遇。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://lot-ek.com/index.php/layouts/project/apap-open-scholl",
+      "productionYear": "2010",
+      "accessNote": "2010 年 APAP 歷史案例；本次未確認現況與開放安排。",
+      "imageCredit": "Kim Myoung-sik＋Sergio Perrone",
+      "imageSource": "https://lot-ek.com/media/multimedia/APAP.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "韓國",
+        "Korea",
+        "Anyang",
+        "安養",
+        "APAP"
+      ],
+      "sources": [
+        "https://lot-ek.com/index.php/layouts/project/apap-open-scholl"
+      ]
+    },
+    {
+      "id": "classic-20261027-kr-crate",
+      "name": "Winter/Hoerbelt／Wolfgang Winter＋Berthold Hörbelt｜Anyang Cratehouse 2｜安養箱籠之家第二版",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "韓國／京畿道安養市・安養藝術公園",
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Anyang Cratehouse 2｜安養箱籠之家第二版（2024；原作 2005）",
+      "comment": "以箱籠模組形成可進入的透光構造。官方記錄指出，2005 年原作經歷山崩及風暴影響後，近二十年後更換為第二版，並改善基礎與耐久性。這是公共藝術長期維護、場地風險與重建決策的具體案例。",
+      "website": "https://winter-hoerbelt.de/anyang-cratehouse-2/",
+      "workPage": "https://winter-hoerbelt.de/anyang-cratehouse-2/",
+      "photo": "",
+      "classicTitle": "Anyang Cratehouse 2｜安養箱籠之家第二版",
+      "classicImage": "https://winter-hoerbelt.de/wp-content/gallery/cratehouse-ii-anyang-south-korea/IMG_9898_1.jpg",
+      "classicDesc": "以箱籠模組形成可進入的透光構造。官方記錄指出，2005 年原作經歷山崩及風暴影響後，近二十年後更換為第二版，並改善基礎與耐久性。這是公共藝術長期維護、場地風險與重建決策的具體案例。 原作年份：2024；原作 2005。參訪資訊：2024 年第二版案例；參觀與現場管理依公園公告。 圖片署名：Winter/Hoerbelt 官方作品圖。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://winter-hoerbelt.de/anyang-cratehouse-2",
+      "artistStatement": "依官方作品解說整理：以箱籠模組建造可使用的雕塑空間，並在更換作品時回應場地條件、穩定性與耐久需求。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://winter-hoerbelt.de/anyang-cratehouse-2/",
+      "productionYear": "2024；原作 2005",
+      "accessNote": "2024 年第二版案例；參觀與現場管理依公園公告。",
+      "imageCredit": "Winter/Hoerbelt 官方作品圖",
+      "imageSource": "https://winter-hoerbelt.de/wp-content/gallery/cratehouse-ii-anyang-south-korea/IMG_9898_1.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "韓國",
+        "Korea",
+        "Anyang",
+        "安養",
+        "APAP"
+      ],
+      "sources": [
+        "https://winter-hoerbelt.de/anyang-cratehouse-2/"
+      ]
+    },
+    {
+      "id": "classic-20261027-kr-openhouse",
+      "name": "raumlabor｜Open House｜開放之家",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "韓國／京畿道安養市",
+      "media": [
+        "參與式/社會實踐",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Open House｜開放之家（2010）",
+      "comment": "以垂直村落和社會雕塑為構想，透過工作坊與居民共同建造木構空間。作品回應安養快速都市重建下的社區關係，讓共同討論、製作及使用成為公共藝術的核心。",
+      "website": "https://www.raumlabor.net/project/open-house/",
+      "workPage": "https://www.raumlabor.net/project/open-house/",
+      "photo": "",
+      "classicTitle": "Open House｜開放之家",
+      "classicImage": "https://www.raumlabor.net/wp-content/uploads/2013/04/oh_finished-APAP-013a-1038x576-1-1024x568.jpg",
+      "classicDesc": "以垂直村落和社會雕塑為構想，透過工作坊與居民共同建造木構空間。作品回應安養快速都市重建下的社區關係，讓共同討論、製作及使用成為公共藝術的核心。 原作年份：2010。參訪資訊：APAP 2010 歷史計畫；本次未確認現地保留情形，請勿視為目前可參訪據點。 圖片署名：raumlabor／APAP 官方作品圖。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://www.raumlabor.net/project/open-house",
+      "artistStatement": "依官方作品解說整理：將集體設計、建造和活動編程結合，藉共同空間探討都市重建中的社區生活。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://www.raumlabor.net/project/open-house/",
+      "productionYear": "2010",
+      "accessNote": "APAP 2010 歷史計畫；本次未確認現地保留情形，請勿視為目前可參訪據點。",
+      "imageCredit": "raumlabor／APAP 官方作品圖",
+      "imageSource": "https://www.raumlabor.net/wp-content/uploads/2013/04/oh_finished-APAP-013a-1038x576-1-1024x568.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "韓國",
+        "Korea",
+        "Anyang",
+        "安養",
+        "APAP"
+      ],
+      "sources": [
+        "https://www.raumlabor.net/project/open-house/"
+      ]
+    },
+    {
+      "id": "classic-20261027-kr-spacewalk",
+      "name": "Heike Mutter＋Ulrich Genth｜Space Walk｜浦項太空步道",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "韓國／慶尚北道浦項市・環湖公園",
+      "media": [
+        "雕塑",
+        "參與式/社會實踐",
+        "建築/場域"
+      ],
+      "works": "Space Walk｜浦項太空步道（2021）",
+      "comment": "起伏的鋼構線條將步行、地景眺望與浦項鋼鐵產業的城市意象連在一起，觀者可進入指定步行區段；環形段無法通行。可研究身體參與及沿海環境的材料維護，但委託方公布的工程條件仍須按基地個別評估。",
+      "website": "https://newsroom.posco.com/en/birth-story-of-space-walk-from-material-to-construction/",
+      "workPage": "https://newsroom.posco.com/en/birth-story-of-space-walk-from-material-to-construction/",
+      "photo": "",
+      "classicTitle": "Space Walk｜浦項太空步道",
+      "classicImage": "https://creation.mcst.go.kr/attachFiles/editImage/CONTENTS/editImage/images/000004/MDE%3D_15.jpg",
+      "classicDesc": "起伏的鋼構線條將步行、地景眺望與浦項鋼鐵產業的城市意象連在一起，觀者可進入指定步行區段；環形段無法通行。可研究身體參與及沿海環境的材料維護，但委託方公布的工程條件仍須按基地個別評估。 原作年份：2021。參訪資訊：可通行區域與開放情形依現場管理及天候調整，請遵守現場公告。 圖片署名：Kim Byeong-gu, hongcomm.／韓國文化體育觀光部刊載。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://newsroom.posco.com/en/birth-story-of-space-walk-from-material-to-construction",
+      "artistStatement": "依官方作品解說整理：讓訪客透過行走成為雕塑的一部分，並以鋼材連接城市產業與地景體驗。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://newsroom.posco.com/en/birth-story-of-space-walk-from-material-to-construction/",
+      "productionYear": "2021",
+      "accessNote": "可通行區域與開放情形依現場管理及天候調整，請遵守現場公告。",
+      "imageCredit": "Kim Byeong-gu, hongcomm.／韓國文化體育觀光部刊載",
+      "imageSource": "https://creation.mcst.go.kr/attachFiles/editImage/CONTENTS/editImage/images/000004/MDE%3D_15.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "韓國",
+        "Korea",
+        "Pohang",
+        "浦項"
+      ],
+      "sources": [
+        "https://newsroom.posco.com/en/birth-story-of-space-walk-from-material-to-construction/",
+        "https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=277"
+      ]
+    },
+    {
+      "id": "classic-20261027-kr-bangbang",
+      "name": "raumlabor｜Bang Bang｜移動公共空間",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "東亞",
+      "country": "韓國／安養市與首爾之間",
+      "media": [
+        "參與式/社會實踐",
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "Bang Bang｜移動公共空間（2009；APAP 2010 計畫）",
+      "comment": "可向後方、兩側及上方展開的車體，透過氣囊與活動構件，在不同街區形成臨時公共空間。依活動需要容納工作坊、放映、音樂與鄰里會議，提供公共藝術跨基地巡迴和社區參與的操作參考。",
+      "website": "https://www.raumlabor.net/project/bang-bang/",
+      "workPage": "https://www.raumlabor.net/project/bang-bang/",
+      "photo": "",
+      "classicTitle": "Bang Bang｜移動公共空間",
+      "classicImage": "https://www.raumlabor.net/wp-content/uploads/2009/08/bb1.jpg",
+      "classicDesc": "可向後方、兩側及上方展開的車體，透過氣囊與活動構件，在不同街區形成臨時公共空間。依活動需要容納工作坊、放映、音樂與鄰里會議，提供公共藝術跨基地巡迴和社區參與的操作參考。 原作年份：2009；APAP 2010 計畫。參訪資訊：2009 年起的移動歷史計畫，非固定設置的現行參訪地點。 圖片署名：APAP 2010／raumlabor 刊載。",
+      "status": "官方來源",
+      "updated": "2026-10-27",
+      "dedupeKey": "https://www.raumlabor.net/project/bang-bang",
+      "artistStatement": "依官方作品解說整理：把可變形車輛作為與居民合作的工具，使藝術活動與鄰里交流能在城市不同位置發生。（編輯摘要，非藝術家直接引語。）",
+      "artistStatementSource": "https://www.raumlabor.net/project/bang-bang/",
+      "productionYear": "2009；APAP 2010 計畫",
+      "accessNote": "2009 年起的移動歷史計畫，非固定設置的現行參訪地點。",
+      "imageCredit": "APAP 2010／raumlabor 刊載",
+      "imageSource": "https://www.raumlabor.net/wp-content/uploads/2009/08/bb1.jpg",
+      "sourceCheckedAt": "2026-10-27",
+      "cityKeywords": [
+        "韓國",
+        "Korea",
+        "Anyang",
+        "安養",
+        "APAP"
+      ],
+      "sources": [
+        "https://www.raumlabor.net/project/bang-bang/"
+      ]
+    }
+  ]
+}
