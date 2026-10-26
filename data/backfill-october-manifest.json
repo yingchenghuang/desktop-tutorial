@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-24-public-art-r108",
-  "generatedAt": "2026-10-24T05:28:00+08:00",
+  "version": "2026-10-27-japan-korea-r110",
+  "generatedAt": "2026-10-27T07:45:00+08:00",
   "files": [
     "backfill-october-20261001.json",
     "backfill-october-20261002.json",
@@ -25,13 +25,14 @@
     "backfill-october-20261021.json",
     "backfill-october-20261022.json",
     "backfill-october-20261023.json",
-    "backfill-october-20261024.json"
+    "backfill-october-20261024.json",
+    "backfill-october-20261027-japan-korea.json"
   ],
-  "expectedEntries": 480,
-  "statementEntries": 480,
-  "statementSourceEntries": 480,
+  "expectedEntries": 492,
+  "statementEntries": 492,
+  "statementSourceEntries": 492,
   "statementBacklog": 0,
-  "imageEntries": 480,
+  "imageEntries": 492,
   "imageBacklog": 0,
-  "note": "截至 2026-10-24，十月 24 個每日檔、共 480 則。今日配置 10／5／5；全數採官方作品頁，排除競圖與傳統人物紀念雕塑，圖片 20/20、歷史網址與 dedupeKey 去重完成。"
+  "note": "截至 2026-10-27，保留十月 24 個每日檔共 480 則，另新增日本・韓國專題 12 則（各 6 則），合計 492 則。專題依設置地分類，附官方來源、圖片署名、原作年份與參訪限制；不計入每日配額。"
 }
