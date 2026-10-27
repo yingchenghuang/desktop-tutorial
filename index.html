@@ -38,7 +38,7 @@
   <div class="wrap command-inner">
     <div class="search"><input id="q" type="search" placeholder="搜尋藝術家、作品、城市、媒介、短評" autocomplete="off" aria-label="搜尋公共藝術檔案"></div>
     <div class="seg" role="group" aria-label="檔案層級" id="segTier"><button class="on" data-tier="全部">全部</button><button data-tier="經典檔案庫">經典檔案庫</button><button data-tier="全球指標藝術節展">全球指標藝術節展</button><button data-tier="動態情報層">動態情報層</button><button data-tier="全球重要展覽">全球重要展覽</button><button data-tier="競圖資料庫">公開徵選</button></div>
-    <div class="sortbox"><select id="sort" aria-label="排序方式"><option value="default">策展排序</option><option value="updated">最近更新</option><option value="name">名稱排序</option></select></div>
+    <div class="sortbox"><select id="sort" aria-label="排序方式"><option value="updated" selected>最近更新</option><option value="default">策展排序</option><option value="name">名稱排序</option></select></div>
   </div>
 </section>
 <div class="result-meta wrap archive-count" id="resultMeta"><span id="resultCount">載入中</span><button class="clear" id="clearBtn">清除篩選</button></div>
@@ -71,7 +71,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20261027-japan-korea-r110';
+  const cacheKey = '20261027-latest-first-r111';
   const manifestUrls = [
     'data/backfill-july-manifest.json?t=' + cacheKey,
     'data/backfill-august-manifest.json?t=' + cacheKey,
@@ -80,7 +80,7 @@
   ];
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
-    const response = await originalFetch(url);
+    const response = await originalFetch(url, { cache: 'no-store' });
     if (!response.ok) throw new Error('Unable to load ' + url);
     return response.json();
   }
@@ -127,9 +127,10 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20260915-daily-r68"></script>
+<script src="assets/app.js?t=20261027-latest-first-r111"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
+
 
 
