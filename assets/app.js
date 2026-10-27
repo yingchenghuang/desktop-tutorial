@@ -16,7 +16,7 @@
     cat: '全部',
     media: '全部',
     status: '全部',
-    sort: 'default'
+    sort: 'updated'
   };
   var lastFocus = null;
 
@@ -380,7 +380,9 @@
   }
 
   function renderLatest() {
-    var dynamics = sorted(DATA.filter(function (e) { return e.tier === '動態情報層'; })).slice(0, 12);
+    var dynamics = DATA.filter(function (e) { return e.tier === '動態情報層'; }).sort(function (a, b) {
+      return parseDate(b.updated) - parseDate(a.updated) || compareDefault(a, b);
+    }).slice(0, 12);
     var rail = $('#latestRail');
     if (!dynamics.length) {
       rail.innerHTML = '<div class="latest-empty">尚未建立動態情報層。</div>';
@@ -730,3 +732,4 @@
       $('#dailyLead').textContent = '資料載入失敗。';
     });
 })();
+
