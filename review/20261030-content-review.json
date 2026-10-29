@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-30",
+  "status": "passed_with_3_image_followups",
+  "reviewed": 20,
+  "configuration": {
+    "current": 10,
+    "globalClassics": 5,
+    "germanClassics": 5
+  },
+  "excludedTraditionalFigurativeMonuments": 0,
+  "identityOrAttributionIssues": 0,
+  "openAccessOrHistoricalStatusIssues": 0,
+  "imageAudit": {
+    "readBack": 17,
+    "firstPartyCaptionOnlyTimedOut": 3,
+    "missing": 0
+  },
+  "pendingImageIds": [
+    "art-20261030-02",
+    "art-20261030-05",
+    "art-20261030-10"
+  ],
+  "entries": [
+    {
+      "id": "art-20261030-01",
+      "dedupeKey": "work:https://publicartagencysweden.com/konst/behallarna",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-02",
+      "dedupeKey": "work:https://publicartagencysweden.com/konst/blink",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "第一方圖說與檔案身分已核對；圖檔回讀逾時待核"
+    },
+    {
+      "id": "art-20261030-03",
+      "dedupeKey": "work:https://publicartagencysweden.com/konst/graft",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-04",
+      "dedupeKey": "work:https://www.artangel.org.uk/project/1395-days-without-red",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-05",
+      "dedupeKey": "work:https://koro.no/kunstverk/soft-mirror-iii",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "第一方圖說與檔案身分已核對；圖檔回讀逾時待核"
+    },
+    {
+      "id": "art-20261030-06",
+      "dedupeKey": "work:https://koro.no/kunstverk/kaloskagathos",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-07",
+      "dedupeKey": "work:https://koro.no/kunstverk/amulets",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-08",
+      "dedupeKey": "work:https://koro.no/kunstverk/interior-landscape",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-09",
+      "dedupeKey": "work:https://koro.no/kunstverk/dogn-119-365",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-10",
+      "dedupeKey": "work:https://koro.no/kunstverk/queens-of-the-tear-duct",
+      "group": "current",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "第一方圖說與檔案身分已核對；圖檔回讀逾時待核"
+    },
+    {
+      "id": "art-20261030-11",
+      "dedupeKey": "work:https://creativetime.org/projects/tribute-in-light",
+      "group": "global",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-12",
+      "dedupeKey": "work:https://creativetime.org/projects/the-last-pictures",
+      "group": "global",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-13",
+      "dedupeKey": "work:https://creativetime.org/projects/key-to-the-city",
+      "group": "global",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-14",
+      "dedupeKey": "work:https://creativetime.org/projects/waiting-for-godot-in-new-orleans",
+      "group": "global",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-15",
+      "dedupeKey": "work:https://creativetime.org/projects/the-river-that-flows-both-ways",
+      "group": "global",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-16",
+      "dedupeKey": "work:https://www.skulptur-projekte-archiv.de/en-us/1997/projects/12",
+      "group": "german",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-17",
+      "dedupeKey": "work:https://www.skulptur-projekte-archiv.de/en-us/1997/projects/98",
+      "group": "german",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-18",
+      "dedupeKey": "work:https://www.skulptur-projekte-archiv.de/en-us/1997/projects/111",
+      "group": "german",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-19",
+      "dedupeKey": "work:https://www.skulptur-projekte-archiv.de/en-us/1997/projects/160",
+      "group": "german",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀並解碼圖像"
+    },
+    {
+      "id": "art-20261030-20",
+      "dedupeKey": "work:https://www.skulptur-projekte-archiv.de/en-us/1997/projects/81",
+      "group": "german",
+      "scope": "pass",
+      "source": "pass",
+      "identity": "pass",
+      "image": "已回讀；圖像為1977同一持續計畫歷史紀錄，非1997現場攝影"
+    }
+  ]
+}

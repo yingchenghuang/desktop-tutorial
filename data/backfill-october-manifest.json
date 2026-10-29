@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-29-reviewed-r112",
-  "generatedAt": "2026-10-29T14:10:08+08:00",
+  "version": "2026-10-30-reviewed-r113",
+  "generatedAt": "2026-10-30T05:00:00+08:00",
   "files": [
     "backfill-october-20261001.json",
     "backfill-october-20261002.json",
@@ -27,14 +27,15 @@
     "backfill-october-20261023.json",
     "backfill-october-20261024.json",
     "backfill-october-20261027-japan-korea.json",
-    "backfill-october-20261029.json"
+    "backfill-october-20261029.json",
+    "backfill-october-20261030.json"
   ],
-  "expectedEntries": 512,
+  "expectedEntries": 532,
   "statementEntries": 512,
   "statementSourceEntries": 512,
   "statementBacklog": 0,
-  "imageEntries": 512,
+  "imageEntries": 532,
   "imageBacklog": 0,
-  "note": "2026-10-29 新增20則已覆核文字資料，保留10月1日至24日480則及日本・韓國專題12則，共512則。今日14圖已回讀，6圖保留官方網址並標記待核。10月25日至27日補檔仍待審查；10月28日已覆核檔案尚未在本次發布中還原。日期代表資料維護，不代表補檔連續完成。",
+  "note": "2026-10-30新增20則實質覆核資料，保留既有512則，共532則。今日17圖完成回讀，3圖保留第一方網址並明確標記待核。10月25日至27日補檔仍待審查；10月28日已覆核檔案尚未還原，未混入本次發布。",
   "imageVerificationPending": 6
 }

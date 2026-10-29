@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-30",
+  "status": "passed",
+  "added": 5,
+  "retainedExisting": 119,
+  "expiredRemoved": 0,
+  "duplicateNewKeys": 0,
+  "allDeadlinesMachineParseable": true,
+  "allDeadlinesHaveOffset": true,
+  "allDeadlineTimezonesIana": true,
+  "legacyTimezoneCorrection": {
+    "id": "competition-2026-09-20-03",
+    "officialLabel": "MST",
+    "storedIana": "America/Phoenix",
+    "deadlineInstantChanged": false,
+    "source": "https://www.pittcountyarts.org/artists/artist-opportunities/the-downeast-exhibition"
+  },
+  "entries": [
+    {
+      "id": "competition-2026-10-30-01",
+      "dedupeKey": "opportunity-2026-10-30-open-call-meld-din-interesse-apen-prekvalifisering-kunstprosjekt-nye-aker-og-nye-rikshospitalet-arh",
+      "deadline": "2026-12-18T23:59:00+01:00",
+      "deadlineTimezone": "Europe/Oslo",
+      "eligibilityChecked": true,
+      "budgetChecked": true,
+      "feeChecked": true,
+      "source": "https://www.offentligkunstoppdrag.no/utlysning/open-call-meld-din-interesse-apen-prekvalifisering-kunstprosjekt-nye-aker-og-nye-rikshospitalet-arh/"
+    },
+    {
+      "id": "competition-2026-10-30-02",
+      "dedupeKey": "opportunity-2026-10-30-experiments-public-art-pearl-street-mall-50th-anniversary-call-artists",
+      "deadline": "2026-11-16T17:00:00-07:00",
+      "deadlineTimezone": "America/Denver",
+      "eligibilityChecked": true,
+      "budgetChecked": true,
+      "feeChecked": true,
+      "source": "https://bouldercolorado.gov/experiments-public-art-pearl-street-mall-50th-anniversary-call-artists"
+    },
+    {
+      "id": "competition-2026-10-30-03",
+      "dedupeKey": "opportunity-2026-10-30-call-for-art---housatonic",
+      "deadline": "2026-12-15T23:59:00-05:00",
+      "deadlineTimezone": "America/New_York",
+      "eligibilityChecked": true,
+      "budgetChecked": true,
+      "feeChecked": true,
+      "source": "https://portal.ct.gov/decdartsportal/knowledge-base/articles/programs-and-services/art-in-public-spaces/call-for-art---housatonic"
+    },
+    {
+      "id": "competition-2026-10-30-04",
+      "dedupeKey": "opportunity-2026-10-30-call-for-art---gateway",
+      "deadline": "2026-12-15T23:59:00-05:00",
+      "deadlineTimezone": "America/New_York",
+      "eligibilityChecked": true,
+      "budgetChecked": true,
+      "feeChecked": true,
+      "source": "https://portal.ct.gov/decdartsportal/knowledge-base/articles/programs-and-services/art-in-public-spaces/call-for-art---gateway"
+    },
+    {
+      "id": "competition-2026-10-30-05",
+      "dedupeKey": "opportunity-2026-10-30-call-for-art---northwestern",
+      "deadline": "2027-01-15T23:59:00-05:00",
+      "deadlineTimezone": "America/New_York",
+      "eligibilityChecked": true,
+      "budgetChecked": true,
+      "feeChecked": true,
+      "source": "https://portal.ct.gov/decdartsportal/knowledge-base/articles/programs-and-services/art-in-public-spaces/call-for-art---northwestern"
+    }
+  ]
+}

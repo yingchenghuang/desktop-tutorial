@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-30",
+  "total": 22,
+  "success": 17,
+  "blocked": 5,
+  "sites": [
+    {
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "blocked_401",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "公開正文回讀受阻，保留下次重查，不繞過限制"
+    },
+    {
+      "name": "KORO · Public Art Norway",
+      "url": "https://koro.no/english/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "MAPS · Museum of Art in Public Space",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "blocked_403",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "公開正文回讀受阻，保留下次重查，不繞過限制"
+    },
+    {
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "blocked_503",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "公開正文回讀受阻，保留下次重查，不繞過限制"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "blocked_503",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "公開正文回讀受阻，保留下次重查，不繞過限制"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Toronto · Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Vancouver · Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "Melbourne · Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "success",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "已讀取公開正文；無逐站新增數量承諾"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "blocked_403",
+      "checkedAt": "2026-10-30T05:00:00+08:00",
+      "note": "公開正文回讀受阻，保留下次重查，不繞過限制"
+    }
+  ]
+}
