@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-29",
+  "outcome": "partial",
+  "files": {
+    "publicArt": "data/backfill-october-20261029.json",
+    "competitionCandidates": "review/20261029-competition-candidates.json",
+    "contentReview": "review/20261029-content-review.json",
+    "sourceScan": "review/20261029-source-scan.json"
+  },
+  "validation": {
+    "publicArt": {
+      "entries": 20,
+      "distribution": "10/5/5",
+      "traditionalFigurativeExcluded": 0,
+      "dedupeKeyDuplicates": 0,
+      "cityKeywordMissing": 0,
+      "requiredFieldMissing": 0,
+      "imageHttp200": "14/20 in manual recheck;6 HTTP403"
+    },
+    "competitions": {
+      "addedCandidates": 5,
+      "unexpired": 5,
+      "deadlineParseableWithOffset": "5/5",
+      "deadlineTimezone": "5/5",
+      "deadlinePrecision": "5/5",
+      "dedupeKeyDuplicates": 0,
+      "requiredFieldMissing": 0,
+      "imageHttp200": "5/5"
+    },
+    "notion": {
+      "createPagesReturned": 25,
+      "publicArt": 20,
+      "competitions": 5,
+      "sampleFetched": 9,
+      "duplicatePrecheck": 0,
+      "postCountQuery": "passed:20 artworks+5 competitions,25 unique keys"
+    },
+    "fixedSources": {
+      "success": 16,
+      "blocked": 6
+    },
+    "github": {
+      "createBlob": "success after repository allow-list repaired",
+      "commitToMain": true,
+      "commit": "a1703052d4e9d879358a43a747420062778d37ab",
+      "pagesDeploy": true
+    },
+    "pages": {
+      "home": 200,
+      "latestPublishedArt": 200,
+      "artManifest": 200,
+      "competitions": 200,
+      "competitionManifest": 200,
+      "todayArt": 200,
+      "latestCompleteDailyDate": "2026-10-29",
+      "nonContiguousBackfill": true
+    }
+  },
+  "blockers": [
+    "10月25日至27日60則仍待實質審查",
+    "10月28日已覆核20則待從Notion重建發布",
+    "15筆未發布舊競圖時區疑義尚待回查",
+    "6張圖片後端回讀403，網站保留核對狀態"
+  ],
+  "decision": "今日已覆核20作品與5新徵件經正式GitHub整合發布，Pages成功；未帶入舊未審查批次。影像與歷史補檔缺口仍獨立追蹤。",
+  "manualFollowup": {
+    "checkedAt": "2026-10-29T05:47:19.335689+00:00",
+    "notionArt": 20,
+    "notionCompetitions": 5,
+    "uniqueKeys": 25,
+    "semanticDuplicateWorksReplaced": 3,
+    "imagesReadable": 14,
+    "imagesBlocked": 6,
+    "artistAttribution": "The Wilds and the Deep corrected to Martha Fleming / Lyne Lapointe",
+    "competitionsCorrected": [
+      "Austin:published itemized budgets and required Texas connection",
+      "OKC:contradictory team eligibility flagged",
+      "BCD:age and tax-ID requirements",
+      "Wittlich:brief ambiguity flagged"
+    ],
+    "localArtTierSchemaNormalized": true,
+    "websitePublished": true
+  }
+}

@@ -32,9 +32,11 @@
         "competitions": 5,
         "uniqueKeys": 25
       },
-      "published": false,
+      "published": true,
       "publicationPreparedAt": "2026-10-29T14:10:08+08:00"
-    }
+    },
+    "publishedAt": "2026-10-29T06:15:34+00:00",
+    "verifiedPublicationCommit": "a1703052d4e9d879358a43a747420062778d37ab"
   },
   "entries": [
     {
