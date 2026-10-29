@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-29",
+  "preparedAt": "2026-10-29T14:10:08+08:00",
+  "baseCommit": "751e5197254bd32af20e0d74c5cda12a57664411",
+  "newPublicArt": 20,
+  "newCompetitions": 5,
+  "activeCompetitions": 119,
+  "expiredRemoved": 16,
+  "imageVerified": 14,
+  "imagePending": 6,
+  "excludedUnpublishedDates": [
+    "2026-10-25",
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28"
+  ],
+  "authorization": "desktop-tutorial added to existing GitHub App installation; normal connector blob write succeeded",
+  "legacyCorrection": {
+    "id": "competition-2026-10-20-03",
+    "fields": [
+      "deadlineTimezone",
+      "budget",
+      "applicationFee",
+      "eligibility"
+    ],
+    "source": "https://hburgart.com/wp-content/uploads/2026-Call-for-Artists_MontagueSculpturePark-Industry-Industry.pdf"
+  }
+}

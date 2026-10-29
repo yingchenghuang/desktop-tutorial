@@ -136,6 +136,9 @@
       classicTitle: text(raw.classicTitle),
       classicImage: classicImage,
       classicDesc: text(raw.classicDesc),
+      imageCredit: text(raw.imageCredit),
+      imageVerification: text(raw.imageVerification),
+      accessNote: text(raw.accessNote),
       status: text(raw.status, links.length ? '可信二手來源' : '追蹤'),
       updated: updated,
       deadline: text(raw.deadline),
@@ -501,6 +504,14 @@
         e.works.split('；').map(function (w) { return esc(w.trim()); }).join('<em>·</em>') + '</p></div>'
       : '';
 
+    var imageDetails = e.imageCredit || e.imageVerification
+      ? '<div class="block"><div class="block-label">影像來源與核對</div><p>' +
+        [e.imageCredit, e.imageVerification].filter(Boolean).map(esc).join(' · ') + '</p></div>'
+      : '';
+    var accessDetails = e.accessNote
+      ? '<div class="block"><div class="block-label">參訪資訊</div><p>' + esc(e.accessNote) + '</p></div>'
+      : '';
+
     var mediaTags = '<div class="block"><div class="block-label">媒介類型</div><span class="tags">' +
       e.media.map(function (m) { return '<span class="tag">' + esc(m) + '</span>'; }).join('') + '</span></div>';
 
@@ -581,7 +592,7 @@
       fig +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
+      accessDetails + imageDetails + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
