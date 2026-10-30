@@ -1,7 +1,7 @@
 import fs from 'node:fs'; import path from 'node:path';
 const art=JSON.parse(fs.readFileSync('data/backfill-october-20261031.json')); const comp=JSON.parse(fs.readFileSync('data/competitions.json'));
 const artManifest=JSON.parse(fs.readFileSync('data/backfill-october-manifest.json')); const compManifest=JSON.parse(fs.readFileSync('data/competition-manifest.json'));
-const now=Date.parse('2026-10-31T05:00:00+08:00');
+const now=Date.now();
 const all=[]; for(const f of fs.readdirSync('data').filter(x=>x.endsWith('.json')&&!x.includes('manifest')&&x!=='competitions.json')){try{const j=JSON.parse(fs.readFileSync(path.join('data',f))); const es=j.entries||j.items||j.artists||[]; for(const e of es) all.push({...e,_file:f});}catch{}}
 const norm=s=>(s||'').toLowerCase().normalize('NFKD').replace(/\p{Diacritic}/gu,'').replace(/^\d+｜/,'').replace(/[^\p{L}\p{N}]+/gu,' ' ).trim();
 const dup=a=>{const m=new Map; for(const x of a){const k=x.dedupeKey;if(!k)continue;(m.get(k)||m.set(k,[]).get(k)).push(x)} return [...m].filter(([,v])=>v.length>1)};

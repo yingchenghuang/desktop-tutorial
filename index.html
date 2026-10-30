@@ -71,7 +71,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20261031-reviewed-r114';
+  const cacheKey = '20261031-reviewed-r115';
   const manifestUrls = [
     'data/backfill-july-manifest.json?t=' + cacheKey,
     'data/backfill-august-manifest.json?t=' + cacheKey,
@@ -90,9 +90,11 @@
     try {
       const seen = new Set(entries.map(keyOf).filter(Boolean));
       let latestVersion = '';
+      let latestGeneratedAt = '';
       const manifests = await Promise.all(manifestUrls.map(readJson));
       for (const manifest of manifests) {
         latestVersion = manifest.version || latestVersion;
+        if (Date.parse(manifest.generatedAt || '') > Date.parse(latestGeneratedAt || '')) latestGeneratedAt = manifest.generatedAt;
         const files = Array.isArray(manifest.files) ? manifest.files : [];
         const chunks = await Promise.all(files.map(file => readJson('data/' + file + '?t=' + cacheKey)));
         for (const chunk of chunks) {
@@ -106,7 +108,7 @@
         }
       }
       base.entries = entries;
-      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: latestVersion || '2026-07-11' });
+      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: latestVersion || '2026-07-11', backfillGeneratedAt: latestGeneratedAt });
     } catch (error) {
       base.entries = entries;
       base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillStatus: 'unavailable' });
@@ -127,7 +129,7 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20261031-reviewed-r114"></script>
+<script src="assets/app.js?t=20261031-reviewed-r115"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>

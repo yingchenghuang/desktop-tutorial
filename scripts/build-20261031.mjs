@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 
-const date='2026-10-31', generatedAt='2026-10-31T05:00:00+08:00';
+const date='2026-10-31', generatedAt='2026-10-31T05:35:00+08:00';
 const pdf='https://www.koer.or.at/site/assets/files/4865/e5_koer_folder2012_final.pdf';
 const pdfImg='https://image.thum.io/get/width/1200/noanimate/'+pdf;
 
@@ -57,10 +57,10 @@ fs.writeFileSync('data/competitions.json',JSON.stringify(comps,null,2)+'\n');
 const am=JSON.parse(fs.readFileSync('data/backfill-october-manifest.json','utf8'));
 if(!am.files.includes('backfill-october-20261031.json')) am.files.push('backfill-october-20261031.json');
 am.files=am.files.filter(f=>f!=='data/backfill-october-20261031.json');
-am.version='20261031-reviewed-r114'; am.generatedAt=generatedAt; am.expectedEntries=552; am.statementEntries=552; am.statementSourceEntries=552; am.imageEntries=552; am.note='十月公開資料累計：10月1–24日480則、日韓專題12則、10月29–31日人工／逐件覆核60則；10月25–28日未審核或待重建批次未納入。';
+am.version='20261031-reviewed-r115'; am.generatedAt=generatedAt; am.expectedEntries=552; am.statementEntries=552; am.statementSourceEntries=552; am.imageEntries=552; am.note='十月公開資料累計：10月1–24日480則、日韓專題12則、10月29–31日人工／逐件覆核60則；10月25–28日未審核或待重建批次未納入。';
 fs.writeFileSync('data/backfill-october-manifest.json',JSON.stringify(am,null,2)+'\n');
-const cm=JSON.parse(fs.readFileSync('data/competition-manifest.json','utf8')); Object.assign(cm,{version:'20261031-reviewed-r114',generatedAt,activeEntries:allComps.length,addedToday:5,expiredRemoved:expiredIds.length,expiredRemovedIds:expiredIds,deadlineTimezoneEntries:allComps.length,deadlinePrecisionEntries:allComps.length,cityKeywordEntries:allComps.length,note:comps.meta.note}); fs.writeFileSync('data/competition-manifest.json',JSON.stringify(cm,null,2)+'\n');
-let html=fs.readFileSync('index.html','utf8').replace(/20261030-reviewed-r113/g,'20261031-reviewed-r114'); fs.writeFileSync('index.html',html);
+const cm=JSON.parse(fs.readFileSync('data/competition-manifest.json','utf8')); Object.assign(cm,{version:'20261031-reviewed-r115',generatedAt,activeEntries:allComps.length,addedToday:5,expiredRemoved:expiredIds.length,expiredRemovedIds:expiredIds,deadlineTimezoneEntries:allComps.length,deadlinePrecisionEntries:allComps.length,cityKeywordEntries:allComps.length,note:comps.meta.note}); fs.writeFileSync('data/competition-manifest.json',JSON.stringify(cm,null,2)+'\n');
+let html=fs.readFileSync('index.html','utf8').replace(/20261030-reviewed-r113/g,'20261031-reviewed-r115').replace(/20261031-reviewed-r114/g,'20261031-reviewed-r115'); fs.writeFileSync('index.html',html);
 fs.mkdirSync('review',{recursive:true});
 fs.writeFileSync('review/20261031-content-review.json',JSON.stringify({date,reviewed:20,configuration:{current:10,globalClassic:5,germanClassic:5},excludedTraditionalFigurativeMonuments:true,primarySourceChecked:20,identityChecked:20,accessChecked:20,imageIdentityChecked:20,notes:['原始作品年份與歷史展期保留','KÖR四筆歷史條目之圖像由官方專刊逐件圖說核對']},null,2)+'\n');
 fs.writeFileSync('review/20261031-competition-review.json',JSON.stringify({date,added:5,expiredRemoved:expiredIds.length,expiredRemovedIds:expiredIds,active:allComps.length,officialSourceChecked:5,deadlineOffsetChecked:5,timezoneChecked:5,eligibilityBudgetFeeChecked:5},null,2)+'\n');

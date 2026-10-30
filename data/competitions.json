@@ -1,17 +1,18 @@
 {
   "meta": {
-    "activeEntries": 127,
+    "activeEntries": 126,
     "addedToday": 5,
-    "expiredRemoved": 2,
+    "expiredRemoved": 3,
     "expiredRemovedIds": [
       "competition-2026-10-14-04",
-      "competition-2026-10-23-05"
+      "competition-2026-10-23-05",
+      "competition-2026-10-06-01"
     ],
     "duplicateRemoved": 0,
     "scopeRemoved": 0,
     "source": "城市政府、公共藝術機構與正式申請平台",
     "note": "保留既有未截止徵件，新增今日5則；依實際截止瞬間清除2則已逾期徵件。",
-    "generatedAt": "2026-10-31T05:00:00+08:00"
+    "generatedAt": "2026-10-31T05:35:00+08:00"
   },
   "entries": [
     {
@@ -1833,44 +1834,6 @@
       "organizer": "City of Charlottetown",
       "eligibility": "居住於 Charlottetown 或 Epekwitk／Prince Edward Island 的藝術家",
       "budget": "每位 CAD 1,500＋適用 HST；印製與安裝由市府負擔",
-      "applicationFee": "未公開",
-      "relatedByCity": []
-    },
-    {
-      "category": "公開徵件",
-      "status": "官方來源",
-      "updated": "2026-10-06",
-      "id": "competition-2026-10-06-01",
-      "dedupeKey": "opportunity-2026-10-06-covington-permanent-allyship-sculpture",
-      "name": "01｜Covington｜Permanent Allyship Sculpture",
-      "tier": "競圖資料庫",
-      "region": "西方",
-      "country": "美國 / Covington, Kentucky",
-      "cityKeywords": [
-        "Covington",
-        "卡溫頓"
-      ],
-      "media": [
-        "雕塑",
-        "建築/場域"
-      ],
-      "works": "Permanent Allyship Sculpture｜US$100,000",
-      "comment": "以永久戶外雕塑表達社群盟友關係，作品須回應城市場址並能長期維護。",
-      "website": "https://www.artworkscincinnati.org/get-involved/artist-opportunities/",
-      "workPage": "https://www.artworkscincinnati.org/get-involved/artist-opportunities/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artworkscincinnati.org/get-involved/artist-opportunities/",
-      "artistStatement": "以永久戶外雕塑表達社群盟友關係，作品須回應城市場址並能長期維護。",
-      "artistStatementSource": "https://www.artworkscincinnati.org/get-involved/artist-opportunities/",
-      "classicTitle": "Permanent Allyship Sculpture",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.artworkscincinnati.org/get-involved/artist-opportunities/",
-      "classicDesc": "以城市公共雕塑建立可見、持久的盟友關係。",
-      "deadline": "2026-10-30T17:00:00-04:00",
-      "deadlineLabel": "截止 2026.10.30",
-      "deadlineTimezone": "America/New_York",
-      "deadlinePrecision": "time",
-      "organizer": "BLDG Refugee & Immigrant Services",
-      "eligibility": "專業藝術家或藝術家團隊；依官方簡章資格",
-      "budget": "US$100,000",
       "applicationFee": "未公開",
       "relatedByCity": []
     },

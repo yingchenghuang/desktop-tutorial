@@ -51,8 +51,11 @@
   }
 
   function versionDate(value) {
-    var match = String(value || '').match(/\d{4}-\d{2}-\d{2}/);
-    return match ? match[0] : '';
+    var raw = String(value || '');
+    var match = raw.match(/\d{4}-\d{2}-\d{2}/);
+    if (match) return match[0];
+    var compact = raw.match(/(\d{4})(\d{2})(\d{2})/);
+    return compact ? compact[1] + '-' + compact[2] + '-' + compact[3] : '';
   }
 
   function cityKeywords(raw) {
@@ -463,7 +466,8 @@
     }, '');
     var latestInfoDate = displayDate(latestInfo);
     var manifestDate = versionDate(META.backfillVersion);
-    var maintenance = parseDate(manifestDate) > parseDate(META.generatedAt) ? manifestDate : META.generatedAt;
+    var maintenance = [META.generatedAt, META.backfillGeneratedAt, META.competitionManifestGeneratedAt, META.exhibitionManifestGeneratedAt, META.landmarkEventManifestGeneratedAt, manifestDate]
+      .reduce(function (latest, candidate) { return parseDate(candidate) > parseDate(latest) ? candidate : latest; }, '');
     var maintenanceDate = displayDate(maintenance || latestInfo);
     var dynamicCount = dynamics.length;
 
@@ -717,8 +721,11 @@
       var competitions = payloads[2];
       META = json.meta || {};
       META.competitionManifestVersion = payloads[3].version || '';
+      META.competitionManifestGeneratedAt = payloads[3].generatedAt || '';
       META.exhibitionManifestVersion = payloads[4].version || '';
+      META.exhibitionManifestGeneratedAt = payloads[4].generatedAt || '';
       META.landmarkEventManifestVersion = payloads[6].version || '';
+      META.landmarkEventManifestGeneratedAt = payloads[6].generatedAt || '';
       META.exhibitionTotal = (exhibitions.entries || []).length;
       META.landmarkEventTotal = (payloads[5].entries || []).length;
       var rawEntries = (Array.isArray(json) ? json : (json.entries || []))
