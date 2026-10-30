@@ -29,13 +29,13 @@
     "backfill-october-20261027-japan-korea.json",
     "backfill-october-20261029.json",
     "backfill-october-20261030.json",
-    "data/backfill-october-20261031.json"
+    "backfill-october-20261031.json"
   ],
-  "expectedEntries": 612,
-  "statementEntries": 512,
-  "statementSourceEntries": 512,
+  "expectedEntries": 552,
+  "statementEntries": 552,
+  "statementSourceEntries": 552,
   "statementBacklog": 0,
-  "imageEntries": 612,
+  "imageEntries": 552,
   "imageBacklog": 0,
   "note": "十月公開資料累計：10月1–24日480則、日韓專題12則、10月29–31日人工／逐件覆核60則；10月25–28日未審核或待重建批次未納入。",
   "imageVerificationPending": 6
