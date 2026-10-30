@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "reviewed": 20,
+  "configuration": {
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5
+  },
+  "excludedTraditionalFigurativeMonuments": true,
+  "primarySourceChecked": 20,
+  "identityChecked": 20,
+  "accessChecked": 20,
+  "imageIdentityChecked": 20,
+  "notes": [
+    "原始作品年份與歷史展期保留",
+    "KÖR四筆歷史條目之圖像由官方專刊逐件圖說核對"
+  ]
+}

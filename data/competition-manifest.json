@@ -1,18 +1,18 @@
 {
-  "version": "2026-10-30-competition-r113",
-  "generatedAt": "2026-10-30T05:00:00+08:00",
+  "version": "20261031-reviewed-r114",
+  "generatedAt": "2026-10-31T05:00:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 124,
+  "activeEntries": 127,
   "addedToday": 5,
-  "expiredRemoved": 0,
+  "expiredRemoved": 2,
   "expiredRemovedIds": [],
   "duplicateRemoved": 0,
   "deadlineTimezoneEntries": 124,
   "deadlinePrecisionEntries": 124,
   "cityKeywordEntries": 124,
-  "note": "保留既有未截止徵件，新增今日5則；依實際截止瞬間清除0則已逾期徵件。所有有效deadline均含UTC偏移及IANA時區；另將既有DownEast官方明示MST的縮寫欄位映射為固定MST的America/Phoenix，截止瞬間不變。",
+  "note": "保留既有未截止徵件，新增今日5則；依實際截止瞬間清除2則已逾期徵件。",
   "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0

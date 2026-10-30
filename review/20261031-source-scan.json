@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-31",
+  "total": 22,
+  "success": 17,
+  "blocked": 5,
+  "method": "逐站HTTP回讀並確認非空HTML正文；受阻站不繞過限制",
+  "sites": [
+    {
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "httpStatus": 200,
+      "bytes": 195212,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Public Art Archive - Make Public Art More Public"
+    },
+    {
+      "name": "Institute for Public Art (IPA)",
+      "url": "https://www.instituteforpublicart.org/",
+      "httpStatus": 200,
+      "bytes": 62653,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Home / Institute for Public Art"
+    },
+    {
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "httpStatus": 200,
+      "bytes": 199711,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Home - CODAworx"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "httpStatus": 200,
+      "bytes": 43369,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": ""
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "httpStatus": 200,
+      "bytes": 184730,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "    Museum der 1000 Orte - Kunst am Bau im Auftrag des Bundes seit 1950"
+    },
+    {
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "httpStatus": 401,
+      "bytes": 89522,
+      "status": "回讀受阻",
+      "updateAssessment": "未讀到正文，不宣稱已查核；下次重試",
+      "title": "Bot check"
+    },
+    {
+      "name": "KORO · Public Art Norway",
+      "url": "https://koro.no/english/",
+      "httpStatus": 200,
+      "bytes": 105489,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "English - KORO"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "httpStatus": 200,
+      "bytes": 125115,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Home - Public Art Agency Sweden"
+    },
+    {
+      "name": "MAPS · Museum of Art in Public Space",
+      "url": "https://mapsmuseum.com/en/",
+      "httpStatus": 200,
+      "bytes": 90636,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "MAPS Museum | Front page"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "httpStatus": 200,
+      "bytes": 138603,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Kunst am Bau"
+    },
+    {
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "httpStatus": 200,
+      "bytes": 123158,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Public Art Fund | Official Site"
+    },
+    {
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "httpStatus": 200,
+      "bytes": 35998,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Home - Creative Time"
+    },
+    {
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "httpStatus": 200,
+      "bytes": 59892,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "YouTube logo"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "httpStatus": 403,
+      "bytes": 6212,
+      "status": "回讀受阻",
+      "updateAssessment": "未讀到正文，不宣稱已查核；下次重試",
+      "title": "Just a moment..."
+    },
+    {
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "httpStatus": 200,
+      "bytes": 104076,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Home | Forecast Public Art"
+    },
+    {
+      "name": "Art Platform Japan (APJ)",
+      "url": "https://artplatform.go.jp/",
+      "httpStatus": 503,
+      "bytes": 3859,
+      "status": "回讀受阻",
+      "updateAssessment": "未讀到正文，不宣稱已查核；下次重試",
+      "title": "メンテナンス中 | Under maintenance - Art Platform Japan"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "httpStatus": 503,
+      "bytes": 12259,
+      "status": "回讀受阻",
+      "updateAssessment": "未讀到正文，不宣稱已查核；下次重試",
+      "title": "緊急メンテナンスのお知らせ｜大地の芸術祭"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "httpStatus": 200,
+      "bytes": 85246,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "  공공미술아카이브 &lt; 문화 | 서울특별시"
+    },
+    {
+      "name": "Toronto · Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "httpStatus": 200,
+      "bytes": 36101,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Public Art &#8211; City of Toronto"
+    },
+    {
+      "name": "Vancouver · Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "httpStatus": 200,
+      "bytes": 51786,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Public art | City of Vancouver"
+    },
+    {
+      "name": "Melbourne · Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "httpStatus": 200,
+      "bytes": 93779,
+      "status": "成功回讀正文",
+      "updateAssessment": "已巡查；是否形成候選另依作品／計畫頁逐件核對",
+      "title": "Public artworks, fountains and monuments &mdash; CoM Open Data Portal"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "httpStatus": 403,
+      "bytes": 6006,
+      "status": "回讀受阻",
+      "updateAssessment": "未讀到正文，不宣稱已查核；下次重試",
+      "title": "Just a moment..."
+    }
+  ]
+}
