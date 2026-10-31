@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-01",
+  "added": 5,
+  "expiredRemoved": 12,
+  "expiredRemovedIds": [
+    "competition-2026-10-19-03",
+    "competition-2026-10-11-01",
+    "competition-2026-10-09-04",
+    "competition-2026-10-08-03",
+    "competition-2026-10-08-04",
+    "competition-2026-10-03-05",
+    "competition-2026-09-27-01",
+    "competition-2026-09-13-02",
+    "competition-2026-09-04-05",
+    "competition-2026-08-14-05",
+    "competition-2026-10-21-04",
+    "competition-2026-10-29-05"
+  ],
+  "active": 119,
+  "officialSourceChecked": 5,
+  "deadlineOffsetChecked": 5,
+  "timezoneChecked": 5,
+  "eligibilityBudgetFeeChecked": 5,
+  "unknownFieldsExplicitlyMarked": true
+}

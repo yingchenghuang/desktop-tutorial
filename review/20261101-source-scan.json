@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-01",
+  "checkedAt": "2026-11-01T05:25:00+08:00",
+  "summary": {"total": 22, "bodyRead": 17, "blocked": 5, "newItemsUsedToday": 9},
+  "sources": [
+    {"name":"Public Art Archive","url":"https://www.publicartarchive.org/","status":"body-read","note":"首頁、作品搜尋與分類正文可讀；逐件仍須排除人物紀念雕像。"},
+    {"name":"Institute for Public Art","url":"https://www.instituteforpublicart.org/","status":"body-read","note":"案例研究與公共場所營造說明可讀；本次無直接入選條目。"},
+    {"name":"CODAworx","url":"https://www.codaworx.com/","status":"body-read","note":"機會頁與平台提醒可讀；候選須回正式主辦來源核對。"},
+    {"name":"Americans for the Arts · Public Art","url":"https://artsu.americansforthearts.org/publicart","status":"body-read","note":"制度與訓練資源正文可讀；本次無作品條目。"},
+    {"name":"Museum der 1000 Orte","url":"https://www.museum-der-1000-orte.de/","status":"body-read","note":"聯邦Kunst am Bau作品索引正文可讀；本次未採用以避免與既有檔案重複。"},
+    {"name":"bbk berlin · Büro für Kunst im öffentlichen Raum","url":"https://kioer.bbk-kulturwerk.de/de","status":"blocked","http":"401","note":"指定入口回讀受阻；同機構可公開讀取的個別作品頁另行逐件核對並使用5件。"},
+    {"name":"KORO · Public Art Norway","url":"https://koro.no/english/","status":"body-read","note":"英文首頁與個別專案正文可讀；今日10件當期／持續設置作品由個別第一方頁核對。"},
+    {"name":"Public Art Agency Sweden","url":"https://publicartagencysweden.com/","status":"body-read","note":"作品與新聞列表正文可讀；本次無新增以避免近期重複。"},
+    {"name":"MAPS · Museum of Art in Public Space","url":"https://mapsmuseum.com/en/","status":"body-read","note":"當期展覽與公共空間計畫正文可讀；本次無直接入選條目。"},
+    {"name":"Swiss Federal Office · Kunst am Bau","url":"https://www.bbl.admin.ch/de/kunst-am-bau","status":"body-read","note":"競賽與評審報告列表正文可讀；本次無直接入選條目。"},
+    {"name":"Public Art Fund","url":"https://www.publicartfund.org/","status":"body-read","note":"當期、永久作品與計畫導覽正文可讀；本次無直接入選條目。"},
+    {"name":"Creative Time","url":"https://creativetime.org/","status":"body-read","note":"當期／歷史專案正文可讀；今日5件全球經典由個別第一方專案頁核對。"},
+    {"name":"Artangel","url":"https://www.artangel.org.uk/","status":"body-read","note":"當期計畫正文可讀；本次無新增以避免近期重複。"},
+    {"name":"Fourth Plinth · London","url":"https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square","status":"blocked","http":"403","note":"未讀到正文；保留下次重查，不繞過限制。"},
+    {"name":"Forecast Public Art","url":"https://forecastpublicart.org/","status":"body-read","note":"公共藝術資源與最新消息正文可讀；本次無直接入選條目。"},
+    {"name":"Art Platform Japan","url":"https://artplatform.go.jp/","status":"blocked","http":"503","note":"未讀到正文；保留下次重查。"},
+    {"name":"Echigo-Tsumari Art Field","url":"https://www.echigo-tsumari.jp/en/search/","status":"blocked","http":"503","note":"未讀到正文；保留下次重查。"},
+    {"name":"Seoul Public Art Archive","url":"https://news.seoul.go.kr/culture/design/public-archive","status":"body-read","note":"首爾公共美術檔案導覽正文可讀；本次無直接入選條目。"},
+    {"name":"Toronto · Public Art","url":"https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/","status":"body-read","note":"地圖、典藏與競圖入口正文可讀；本次無直接入選條目。"},
+    {"name":"Vancouver · Public Art","url":"https://vancouver.ca/parks-recreation-culture/public-art.aspx","status":"body-read","note":"典藏、機會與當期計畫正文可讀；本次無直接入選條目。"},
+    {"name":"Melbourne · Public Art Open Data","url":"https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/","status":"body-read","note":"資料集說明與結構可讀；未直接採用，避免把人物紀念物混入。"},
+    {"name":"文化部公共藝術官方網站","url":"https://publicart.moc.gov.tw/home/zh-tw","status":"blocked","http":"403","note":"未讀到正文；保留下次重查，不繞過限制。"}
+  ]
+}

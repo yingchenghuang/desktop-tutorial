@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-01",
+  "reviewed": 20,
+  "configuration": {
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5
+  },
+  "excludedTraditionalFigurativeMonuments": true,
+  "primarySourceChecked": 20,
+  "identityChecked": 20,
+  "accessChecked": 20,
+  "imageIdentityChecked": 20,
+  "directFirstPartyImages": 10,
+  "officialPagePreviews": 10,
+  "notes": [
+    "原始作品年份與歷史展期保留，不將歷史作品描述為今日新作",
+    "受限室內場域明示參訪限制",
+    "官方頁面預覽不冒充獨立作品圖檔"
+  ]
+}

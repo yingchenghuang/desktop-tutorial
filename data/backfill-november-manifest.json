@@ -1,0 +1,15 @@
+{
+  "version": "20261101-reviewed-r116",
+  "generatedAt": "2026-11-01T05:25:00+08:00",
+  "files": [
+    "backfill-november-20261101.json"
+  ],
+  "expectedEntries": 20,
+  "statementEntries": 20,
+  "statementSourceEntries": 20,
+  "statementBacklog": 0,
+  "imageEntries": 20,
+  "imageBacklog": 0,
+  "note": "十一月公開資料：11月1日逐件內容覆核20則（10當期／持續設置、5全球經典、5德語脈絡經典）。歷史月份與日韓專題由既有manifest持續載入。",
+  "imageVerificationPending": 10
+}
