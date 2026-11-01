@@ -2,14 +2,30 @@
   "meta": {
     "date": "2026-11-02",
     "generatedAt": "2026-11-02T05:42:00+08:00",
-    "version": "20261102-reviewed-r117",
-    "expectedEntries": 20,
-    "distribution": {
-      "current": 10,
-      "globalClassic": 5,
-      "germanClassic": 5
+    "timezone": "Asia/Taipei",
+    "total": 20,
+    "dynamicEntries": 10,
+    "globalClassicEntries": 5,
+    "germanClassicEntries": 5,
+    "source": "第一方公共藝術機構、藝術家、城市與政府委託頁",
+    "note": "10則當期或持續設置、5則全球經典、5則德語文化脈絡經典；逐件排除傳統人物雕像、胸像、寫實人物紀念碑、古典擬人雕塑與名人紀念雕像。",
+    "dedupeAudit": {
+      "duplicateDedupeKeys": 0
     },
-    "note": "20則公共藝術；逐件排除傳統人物雕像、胸像、寫實人物紀念碑與古典擬人雕塑，競圖另庫。"
+    "statementPolicy": "官方解說轉述與研究整理，非藝術家逐字引言",
+    "publicationStatus": "published",
+    "imageAudit": {
+      "checked": 20,
+      "firstPartyDirect": 20,
+      "officialPagePreviews": 0,
+      "missingUrls": 0
+    },
+    "contentAudit": {
+      "excludedTraditionalFigurativeMonuments": true,
+      "scopeReviewed": 20,
+      "identityReviewed": 20,
+      "accessStatusReviewed": 20
+    }
   },
   "entries": [
     {
