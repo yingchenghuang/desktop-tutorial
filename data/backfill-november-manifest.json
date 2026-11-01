@@ -1,15 +1,16 @@
 {
-  "version": "20261101-reviewed-r116",
-  "generatedAt": "2026-11-01T05:25:00+08:00",
+  "version": "20261102-reviewed-r117",
+  "generatedAt": "2026-11-02T05:42:00+08:00",
   "files": [
-    "backfill-november-20261101.json"
+    "backfill-november-20261101.json",
+    "backfill-november-20261102.json"
   ],
-  "expectedEntries": 20,
-  "statementEntries": 20,
-  "statementSourceEntries": 20,
+  "expectedEntries": 40,
+  "statementEntries": 40,
+  "statementSourceEntries": 40,
   "statementBacklog": 0,
-  "imageEntries": 20,
+  "imageEntries": 40,
   "imageBacklog": 0,
-  "note": "十一月公開資料：11月1日逐件內容覆核20則（10當期／持續設置、5全球經典、5德語脈絡經典）。歷史月份與日韓專題由既有manifest持續載入。",
-  "imageVerificationPending": 10
+  "note": "十一月公開資料：11月1–2日逐件內容覆核共40則；11月2日新增20則（10當期／持續設置、5全球經典、5德語脈絡經典）。歷史月份與日韓專題由既有manifest持續載入。",
+  "imageVerificationPending": 0
 }

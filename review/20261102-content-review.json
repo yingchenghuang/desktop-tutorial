@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-02",
+  "version": "20261102-reviewed-r117",
+  "publicArt": {
+    "count": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    },
+    "historicalDuplicateCount": 0,
+    "internalDuplicateCount": 0,
+    "excludedTraditionalFigurativeCount": 0,
+    "requiredFieldMissing": 0,
+    "imageReadback": {
+      "success": 20,
+      "blocked": 0
+    },
+    "scopeReview": "all_20_passed"
+  },
+  "competitions": {
+    "added": 5,
+    "active": 120,
+    "expiredRemoved": 4,
+    "duplicateCount": 0,
+    "expiredInActive": 0,
+    "deadlineTimezoneParsed": 120,
+    "sourceConflictNotes": [
+      "Santa Fe 官方正文把11月時區寫作MDT；依 America/Denver 實際偏移儲存為 -07:00 並保留註記"
+    ]
+  },
+  "knownBacklog": [
+    "2026-10-25至2026-10-27共60則仍待實質審查，未發布",
+    "2026-10-28已覆核20則仍需自Notion重建後另行發布"
+  ],
+  "sourceScan": {
+    "success": 20,
+    "blocked": 2
+  }
+}

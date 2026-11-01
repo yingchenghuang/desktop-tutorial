@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-02",
+  "sources": [
+    {
+      "name": "Public Art Archive",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Institute for Public Art",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "CODAworx",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "status": "read_blocked_401",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "首頁正文回讀遭401；保留追蹤，未繞過"
+    },
+    {
+      "name": "KORO · Public Art Norway",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "MAPS · Museum of Art in Public Space",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Public Art Fund",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Creative Time",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Artangel",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Forecast Public Art",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Art Platform Japan",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Toronto · Public Art",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Vancouver · Public Art",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "Melbourne · Public Art Open Data",
+      "status": "body_read_success",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "官方頁正文已回讀；未把來源站當作品計數"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "status": "read_blocked_403",
+      "checkedAt": "2026-11-02T05:36:00+08:00",
+      "note": "首頁正文回讀遭403；保留追蹤，未繞過"
+    }
+  ],
+  "summary": {
+    "success": 20,
+    "blocked": 2,
+    "pending": 0
+  }
+}
