@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-03",
+  "checkedAt": "2026-11-03T05:00:40+08:00",
+  "total": 22,
+  "readable": 17,
+  "blocked": 5,
+  "sites": [
+    {
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "readable",
+      "ref": "turn859view0",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "readable",
+      "ref": "turn859view1",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "readable",
+      "ref": "turn859view2",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "readable",
+      "ref": "turn859view3",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "readable",
+      "ref": "turn859view4",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "blocked_401",
+      "ref": "turn859view5",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "KORO · Public Art Norway",
+      "url": "https://koro.no/english/",
+      "status": "readable_current_update",
+      "ref": "turn859view6",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "readable",
+      "ref": "turn859view7",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "MAPS · Museum of Art in Public Space",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "readable",
+      "ref": "turn859view8",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "readable",
+      "ref": "turn859view9",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "readable",
+      "ref": "turn860view0",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "readable",
+      "ref": "turn860view1",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "readable_current_update",
+      "ref": "turn860view2",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "blocked_403",
+      "ref": "turn860view3",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "readable",
+      "ref": "turn860view4",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "blocked_503",
+      "ref": "turn860view5",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "blocked_503",
+      "ref": "turn860view6",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "readable",
+      "ref": "turn860view7",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Toronto · Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "readable",
+      "ref": "turn860view8",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Vancouver · Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "readable",
+      "ref": "turn860view9",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "Melbourne · Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "readable",
+      "ref": "turn860view10",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "blocked_403",
+      "ref": "turn860view11",
+      "checkedAt": "2026-11-03T05:00:40+08:00"
+    }
+  ],
+  "note": "readable 表示本次讀到正文；blocked 保留原始 HTTP 狀態並列入下次重查。22站僅為來源巡查，不計入每日作品或競圖數。"
+}

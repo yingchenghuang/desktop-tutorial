@@ -1,23 +1,24 @@
 {
-  "version": "20261102-reviewed-r117",
-  "generatedAt": "2026-11-02T05:42:00+08:00",
+  "version": "20261103-reviewed-r118",
+  "generatedAt": "2026-11-03T05:00:40+08:00",
   "files": [
     "competitions.json"
   ],
   "activeEntries": 120,
   "addedToday": 5,
-  "expiredRemoved": 4,
+  "expiredRemoved": 5,
   "expiredRemovedIds": [
-    "competition-2026-09-30-02",
-    "competition-2026-09-15-05",
-    "competition-2026-09-14-03",
-    "competition-2026-09-13-01"
+    "competition-2026-10-16-05",
+    "competition-2026-10-08-01",
+    "competition-2026-10-06-04",
+    "competition-2026-09-21-02",
+    "competition-2026-10-24-02"
   ],
   "duplicateRemoved": 0,
   "deadlineTimezoneEntries": 120,
   "deadlinePrecisionEntries": 120,
   "cityKeywordEntries": 120,
-  "note": "保留既有未截止徵件，新增今日5則；依 2026-11-02T05:42:00+08:00 實際截止瞬間清除 4 則已逾期項目。",
+  "note": "保留既有未截止徵件，新增今日5則；依 2026-11-03T05:00:40+08:00 實際截止瞬間清除 5 則已逾期項目。Norman 官方頁存在 CST／MST 文字矛盾，依主辦地及頁首正式欄採 America/Chicago 並明載。",
   "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0

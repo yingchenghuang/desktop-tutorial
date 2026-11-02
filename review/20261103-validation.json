@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-03",
+  "artCount": 20,
+  "groups": {
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5
+  },
+  "competitionActive": 120,
+  "competitionAdded": 5,
+  "expiredRemoved": 5,
+  "artDuplicateKeys": 0,
+  "competitionDuplicateKeys": 0,
+  "crossDatabaseDuplicateKeys": 0,
+  "artMissingFields": [],
+  "competitionMissingFields": [],
+  "deadlineIssues": [],
+  "cityKeywordMissing": 0,
+  "directTodayActiveCompetitionCityMatches": 6,
+  "relatedByCityFrontend": "app.js cityKeywords matching retained",
+  "imageAudit": {
+    "checked": 20,
+    "firstPartyDirect": 0,
+    "officialPagePreviews": 20,
+    "missingUrls": 0
+  },
+  "notion": {
+    "artwork": 20,
+    "competition": 5,
+    "duplicateKeys": 0
+  },
+  "publicationStatus": "ready",
+  "relatedByCity": {
+    "artEntriesWithLinks": 6,
+    "competitionEntriesWithLinks": 2,
+    "todayToActiveEdges": 6,
+    "cityKeywordMissing": 0
+  }
+}
