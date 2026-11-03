@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T05:00:40+08:00",
+  "total": 22,
+  "readable": 18,
+  "blocked": 4,
+  "sites": [
+    {
+      "name": "Public Art Archive",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Institute for Public Art",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "CODAworx",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "status": "blocked_401",
+      "note": "本次未讀到正文，保留追蹤並於下次重查。"
+    },
+    {
+      "name": "KORO · Public Art Norway",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "MAPS · Museum of Art in Public Space",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Public Art Fund",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Creative Time",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Artangel",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "status": "blocked_403",
+      "note": "本次未讀到正文，保留追蹤並於下次重查。"
+    },
+    {
+      "name": "Forecast Public Art",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Art Platform Japan",
+      "status": "blocked_503",
+      "note": "本次未讀到正文，保留追蹤並於下次重查。"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Toronto · Public Art",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Vancouver · Public Art",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "Melbourne · Public Art Open Data",
+      "status": "readable",
+      "note": "已讀取正文或正式索引；新發現另依作品／競圖／制度分流。"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "status": "blocked_403",
+      "note": "本次未讀到正文，保留追蹤並於下次重查。"
+    }
+  ]
+}

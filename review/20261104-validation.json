@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-04",
+  "version": "20261104-reviewed-r119",
+  "generatedAt": "2026-11-04T05:00:40+08:00",
+  "art": {
+    "total": 20,
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5,
+    "historyDedupeDuplicates": 0,
+    "missingRequired": 0
+  },
+  "competitions": {
+    "before": 120,
+    "retained": 118,
+    "added": 5,
+    "expiredRemoved": 2,
+    "active": 123,
+    "expiredActive": 0,
+    "parseableDeadline": 123,
+    "timezonePresent": 123,
+    "cityMissing": 0,
+    "missingRequired": 0,
+    "sameListingPageDifferentOpportunity": 3,
+    "identityDuplicates": 0,
+    "timezoneOffsetMismatches": 0
+  },
+  "dedupe": {
+    "publicArtInternal": 0,
+    "competitionsInternal": 0,
+    "crossStreams": 0,
+    "idDuplicates": 0
+  },
+  "cityLinks": {
+    "artMissing": 0,
+    "competitionMissing": 0,
+    "uiFieldsPresent": 0
+  },
+  "images": {
+    "artOfficialPagePreview": 20,
+    "artMissing": 0,
+    "competitionMissing": 0
+  },
+  "sourceScan": {
+    "readable": 18,
+    "blocked": 4,
+    "total": 22
+  }
+}
