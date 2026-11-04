@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T05:10:00+08:00",
+  "total": 22,
+  "success": 18,
+  "blocked": 4,
+  "note": "正文成功回讀18站；4站本次回讀受阻，保留追蹤且未宣稱查核正文。22站僅作來源巡查，不計入每日作品或競圖。",
+  "sites": [
+    {
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "success",
+      "observation": "作品搜尋與典藏入口可讀；未發現需取代本日已核定批次的新條目。"
+    },
+    {
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "success",
+      "observation": "案例研究正文可讀；首頁案例與獎項資訊已分流。"
+    },
+    {
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "success",
+      "observation": "專案與機會入口可讀；機會須回正式主辦來源核對。"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "success",
+      "observation": "制度、專業資源與機會入口可讀。"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "success",
+      "observation": "Kunst am Bau 作品索引正文可讀。"
+    },
+    {
+      "name": "bbk berlin · KiöR",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "blocked",
+      "observation": "401 Unauthorized；未讀到正文。"
+    },
+    {
+      "name": "KORO",
+      "url": "https://koro.no/english/",
+      "status": "success",
+      "observation": "英文首頁、計畫與典藏入口可讀；LABYRINTH官方頁完成圖像回讀。"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "success",
+      "observation": "永久、臨時作品與新聞入口可讀。"
+    },
+    {
+      "name": "MAPS Museum",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "success",
+      "observation": "公共空間展覽、研究與活動正文可讀。"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "success",
+      "observation": "競賽評審報告與已實現作品正文可讀。"
+    },
+    {
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "success",
+      "observation": "現正與即將展覽正文可讀；候選仍須作品身分與歷史去重。"
+    },
+    {
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "success",
+      "observation": "Upcoming/Ongoing/Recent正文可讀。"
+    },
+    {
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "success",
+      "observation": "目前計畫與典藏正文可讀。"
+    },
+    {
+      "name": "Fourth Plinth London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "blocked",
+      "observation": "403 Forbidden；未讀到正文。"
+    },
+    {
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "success",
+      "observation": "資源、補助與機會入口可讀；補助不混入每日作品。"
+    },
+    {
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "blocked",
+      "observation": "503 Service Unavailable；未讀到正文。"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "success",
+      "observation": "作品、展期與2026年11月最新消息正文可讀。"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "success",
+      "observation": "公共美術檔案列表正文可讀。"
+    },
+    {
+      "name": "Toronto Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "success",
+      "observation": "地圖、競圖與典藏入口可讀。"
+    },
+    {
+      "name": "Vancouver Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "success",
+      "observation": "當期計畫、機會與典藏入口可讀。"
+    },
+    {
+      "name": "Melbourne Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "success",
+      "observation": "資料集正文與schema可讀；人物紀念物仍須逐件排除。"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "blocked",
+      "observation": "403 Forbidden；未讀到正文。"
+    }
+  ]
+}

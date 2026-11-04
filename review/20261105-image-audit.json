@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T05:10:00+08:00",
+  "total": 20,
+  "verified": 20,
+  "pending": 0,
+  "method": "逐件以官方圖像網址或官方作品頁相簿人工視覺回讀；不以 HTTP 200 代替圖像身分核對。",
+  "exceptions": [
+    {
+      "id": "art-20261105-10",
+      "status": "verified_on_official_gallery",
+      "note": "直接 WebP 單檔在部分客戶端呈空白；KORO 官方頁相簿第2張清楚顯示地面嵌入式 LABYRINTH。"
+    },
+    {
+      "id": "art-20261105-11",
+      "status": "verified_special_disclosure",
+      "note": "Tino Sehgal 官方頁明示作品禁止攝影；現圖是藝術家肖像、非作品現場，已在 imageCredit/imageCaption/imageKind 揭露。"
+    },
+    {
+      "id": "art-20261105-14",
+      "status": "verified_installation_process",
+      "note": "Sol LeWitt 圖像為 2022 現場製作／安裝過程，非完成態，已在 imageCaption/imageKind 揭露。"
+    }
+  ],
+  "entries": [
+    {
+      "id": "art-20261105-01",
+      "name": "01｜Nikita Kadan｜The Objects from Another Place",
+      "photo": "https://www.echigo-tsumari.jp/assets/uploads/2025/03/タイトルなし-2.jpg",
+      "imageCredit": "Photo Nakamura Osamu／Echigo-Tsumari Art Field",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-02",
+      "name": "02｜Matsumoto Akinori＋Matsumoto Michiko｜The Planet TOLARIS in Nunagawa Campus",
+      "photo": "https://www.echigo-tsumari.jp/assets/uploads/2024/04/松本秋則＋松本倫子_Photo-by-Nakamura-Osamu.jpg",
+      "imageCredit": "Photo by Nakamura Osamu／Echigo-Tsumari Art Field",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-03",
+      "name": "03｜Nakazato Eros｜Three Horses Round and Round",
+      "photo": "https://www.echigo-tsumari.jp/assets/uploads/2025/03/くるくるさんば-Photo-by-Nakamura-Osamu-7-1.jpg",
+      "imageCredit": "Photo by Nakamura Osamu／Echigo-Tsumari Art Field",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-04",
+      "name": "04｜Moriyama Daido｜To Nirvana and Back",
+      "photo": "https://www.echigo-tsumari.jp/assets/uploads/2021/07/森山大道「彼岸は廻る」-photo-Kioku-Keizo.jpg",
+      "imageCredit": "Photo Kioku Keizo／Echigo-Tsumari Art Field",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-05",
+      "name": "05｜Nikita Kadan｜The Flag of Tsumari and Hostomel",
+      "photo": "https://www.echigo-tsumari.jp/assets/uploads/2024/11/タイトルなし.jpg",
+      "imageCredit": "官方作品頁未列攝影者／Echigo-Tsumari Art Field",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-06",
+      "name": "06｜Nakatani Michiko｜Voice from afar",
+      "photo": "https://www.echigo-tsumari.jp/assets/uploads/2021/10/中谷ミチコ「遠方の声」photo-Kioku-Keizo_2160.jpg",
+      "imageCredit": "Photo by Kioku Keizo／Echigo-Tsumari Art Field",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-07",
+      "name": "07｜Tanya Badanina｜White Clothes. Memories of the Future.",
+      "photo": "https://www.echigo-tsumari.jp/assets/uploads/2023/11/ターニャバダニナ　白い服　ph-Kioku-Keizo.jpg",
+      "imageCredit": "Photo Kioku Keizo／Echigo-Tsumari Art Field",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-08",
+      "name": "08｜Ma Yansong / MAD Architects｜Ephemeral Bubble",
+      "photo": "https://www.echigo-tsumari.jp/assets/uploads/2023/11/名称未設定-1.jpg",
+      "imageCredit": "Photo Zhu Yumeng／Echigo-Tsumari Art Field；圖像為現地建築裝置紀錄",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-09",
+      "name": "09｜Morten Haugmo｜Messing Board",
+      "photo": "https://koro.no/content/uploads/2026/10/DSF4975-scaled.jpg",
+      "imageCredit": "Dan Mariner／KORO",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-10",
+      "name": "10｜Hans Ragnar Mathisen｜LABYRINTH",
+      "photo": "https://koro.no/content/uploads/2026/05/kunstverk-069ELiATzCrgw.webp",
+      "imageCredit": "Monica Milch Gebhardt／KORO",
+      "imageVerification": "2026-11-05 人工回讀通過：KORO 官方作品頁相簿第2張顯示嵌入地面的 LABYRINTH；直接 WebP 單檔在部分客戶端呈空白，但官方頁相簿可見。"
+    },
+    {
+      "id": "art-20261105-11",
+      "name": "11｜Tino Sehgal｜This is so contemporary",
+      "photo": "https://kaldorartprojects.org.au/wp-content/uploads/2014/05/project-29-tino-sehgal-2.jpg",
+      "imageCredit": "藝術家肖像；作品演出不允許攝影；圖像權利與攝影資訊依官方頁面",
+      "imageVerification": "2026-11-05 人工回讀通過（特殊影像）：官方頁明示作品禁止攝影；圖為藝術家肖像而非作品現場，資料已明確揭露。"
+    },
+    {
+      "id": "art-20261105-12",
+      "name": "12｜Marina Abramović｜In Residence",
+      "photo": "https://kaldorartprojects.org.au/wp-content/uploads/2015/02/project-30-marina-abramovic-15-600x400.jpg",
+      "imageCredit": "官方展覽檔案；參與活動紀錄；圖像權利與攝影資訊依官方頁面",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-13",
+      "name": "13｜多位藝術家／策展Hans Ulrich Obrist及John Kaldor等｜do it (australia)",
+      "photo": "https://kaldorartprojects.org.au/wp-content/uploads/2020/02/doit_catalogue_background03_WEB.jpg",
+      "imageCredit": "Kaldor官方指令／計畫文件，非單一完成作品攝影。",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-14",
+      "name": "14｜Sol LeWitt｜Wall drawing #955: Loopy Doopy (red and purple)",
+      "photo": "https://kaldorartprojects.org.au/wp-content/uploads/2022/07/20220725KFHInstalling_012_WEB-600x600.jpg",
+      "imageCredit": "Kaldor／AGNSW官方牆面作品繪製過程紀錄，非完成展場全景。",
+      "imageVerification": "2026-11-05 人工回讀通過（安裝過程）：官方圖為 2022 現場製作／安裝影像，非完成態，資料已明確揭露。"
+    },
+    {
+      "id": "art-20261105-15",
+      "name": "15｜Thomas Demand｜The Object Lesson",
+      "photo": "https://kaldorartprojects.org.au/wp-content/uploads/2025/04/2025KPAP38_029_WEB-600x424.jpg",
+      "imageCredit": "官方作品頁圖像；攝影及使用條件詳原頁",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-16",
+      "name": "16｜Michael Kienzer｜Welcome",
+      "photo": "https://koernoe.at/img/bcbaff26-8827-4a7f-9418-2e9e2558d15a/04-kienzer-wien-woessner-2005.jpg?q=80&fit=max&w=1500&crop=2957%2C3646%2C0%2C0&s=b69ea16f6ce1bc32fefc5d24d3e84e26",
+      "imageCredit": "KOERNOE官方作品圖像；攝影及權利詳作品頁",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-17",
+      "name": "17｜Canan Dagdelen｜Libelluledae",
+      "photo": "https://koernoe.at/img/64087851-3d1d-41d1-936f-0d4127c0864a/560.01.pr,dagdelen-canan.jpg?q=80&fit=max&w=1500&crop=640%2C433%2C0%2C0&s=17bff124b6d9ee0bc2342de6ee041e8e",
+      "imageCredit": "KOERNOE官方作品圖像；攝影及權利詳作品頁",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-18",
+      "name": "18｜Brigitte Kowanz｜ANOTHER TIME ANOTHER PLACE",
+      "photo": "https://koernoe.at/img/3e64aa14-c045-4ea4-8bae-04274b326588/aep-2744.jpg?q=80&fit=max&w=1500&crop=2064%2C1376%2C0%2C0&s=2649fa9f8c968a9e87cd31fe369086f5",
+      "imageCredit": "KOERNOE官方作品圖像；攝影及權利詳作品頁",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-19",
+      "name": "19｜Olaf Nicolai｜Neunkirchen Landesberufsschule",
+      "photo": "https://koernoe.at/img/bc665e74-c902-41a3-8615-ec92635a2f37/87360002-olafnikolai-neunkirchen-woessner-2006.jpg?q=80&fit=max&w=1500&crop=3543%2C2480%2C0%2C0&s=efcf9d4e64afe2480f6fc1bd7c2cb6a4",
+      "imageCredit": "官方裝設環境紀錄；圖像權利與攝影資訊依官方頁面",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    },
+    {
+      "id": "art-20261105-20",
+      "name": "20｜Walter Kirpicsenko／Alexander Klose｜Hohenau Landmark",
+      "photo": "https://koernoe.at/img/84d08a41-8b1e-4d2b-b462-6a7ffb7eab28/05-kirpicsenko-hohenau-kirpicsenko-2005.jpg?q=80&fit=max&w=1500&crop=2048%2C1360%2C0%2C0&s=dbe6de10d408cd88600c4c78948a9391",
+      "imageCredit": "KOERNOE官方作品圖像；攝影及權利詳作品頁",
+      "imageVerification": "2026-11-05 人工回讀通過：官方圖像與作品身分、作者及影像性質相符。"
+    }
+  ]
+}
