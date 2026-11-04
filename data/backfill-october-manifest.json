@@ -1,6 +1,6 @@
 {
-  "version": "20261031-reviewed-r115",
-  "generatedAt": "2026-10-31T05:35:00+08:00",
+  "version": "20261105-october-backfill-r120",
+  "generatedAt": "2026-11-05T04:50:23+08:00",
   "files": [
     "backfill-october-20261001.json",
     "backfill-october-20261002.json",
@@ -26,17 +26,21 @@
     "backfill-october-20261022.json",
     "backfill-october-20261023.json",
     "backfill-october-20261024.json",
+    "backfill-october-20261025.json",
+    "backfill-october-20261026.json",
+    "backfill-october-20261027.json",
     "backfill-october-20261027-japan-korea.json",
+    "backfill-october-20261028.json",
     "backfill-october-20261029.json",
     "backfill-october-20261030.json",
     "backfill-october-20261031.json"
   ],
-  "expectedEntries": 552,
-  "statementEntries": 552,
-  "statementSourceEntries": 552,
+  "expectedEntries": 632,
+  "statementEntries": 632,
+  "statementSourceEntries": 632,
   "statementBacklog": 0,
-  "imageEntries": 552,
+  "imageEntries": 632,
   "imageBacklog": 0,
-  "note": "十月公開資料累計：10月1–24日480則、日韓專題12則、10月29–31日人工／逐件覆核60則；10月25–28日未審核或待重建批次未納入。",
+  "note": "十月公開資料累計632則；補齊10月25至28日各20則，另保留日韓專題12則。補檔實際覆核日期為11月5日。",
   "imageVerificationPending": 6
 }

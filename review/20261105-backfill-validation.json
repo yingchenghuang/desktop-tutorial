@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T04:51:48+08:00",
+  "workEntriesAdded": 100,
+  "workArchiveRestored": {
+    "2026-10-25": 20,
+    "2026-10-26": 20,
+    "2026-10-27": 20,
+    "2026-10-28": 20
+  },
+  "workEntriesToday": 20,
+  "duplicatesExcludedFromPreparedWork": 8,
+  "workImageNote": "官方作品影像與具名的場址或歷史文件圖分開描述。",
+  "activeCalls": 126,
+  "callsAdded": 5,
+  "expiredCallIds": [
+    "competition-2026-10-13-03"
+  ],
+  "duplicateCallIds": [
+    "competition-2026-09-21-03"
+  ],
+  "callSources": [
+    {
+      "id": "competition-2026-11-05-01",
+      "url": "https://eulsukdo-ecoart.com/en/"
+    },
+    {
+      "id": "competition-2026-11-05-02",
+      "url": "https://www.bbk-sachsenanhalt.de/wettbewerb-kunst-am-bau/"
+    },
+    {
+      "id": "competition-2026-11-05-03",
+      "url": "https://bost.org.uk/artist-open-call"
+    },
+    {
+      "id": "competition-2026-11-05-04",
+      "url": "https://www.peterborough.ca/recreation-culture-social-services/arts-and-culture/public-art-and-placemaking/call-to-artists-for-legacy-grant/"
+    },
+    {
+      "id": "competition-2026-11-05-05",
+      "url": "https://dcarts.dc.gov/public-art/color-curb-school-safety-program"
+    }
+  ]
+}
