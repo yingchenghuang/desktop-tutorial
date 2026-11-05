@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-06",
+  "contentAudit": {
+    "entries": 20,
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5,
+    "excludedTraditionalFigurativeMonuments": true,
+    "primarySourceReviewed": 20,
+    "imageMethod": "官方作品頁預覽；未宣稱原始圖檔重製授權"
+  },
+  "competitionAudit": {
+    "added": 5,
+    "expiredRemoved": 3,
+    "active": 128
+  },
+  "sourceScan": {
+    "total": 22,
+    "success": 18,
+    "blocked": 4
+  },
+  "notion": {
+    "status": "completed",
+    "created": 25,
+    "artworks": 20,
+    "competitions": 5,
+    "duplicates": 0
+  },
+  "github": {
+    "status": "prepared",
+    "baseCommit": "4f9772337c961054c88aca4ad23b675437a6a333"
+  },
+  "pages": {
+    "status": "pending"
+  }
+}

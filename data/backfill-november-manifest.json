@@ -1,19 +1,20 @@
 {
-  "version": "20261105-reviewed-r122",
-  "generatedAt": "2026-11-05T05:10:00+08:00",
+  "version": "20261106-reviewed-r123",
+  "generatedAt": "2026-11-06T05:25:00+08:00",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
     "backfill-november-20261103.json",
     "backfill-november-20261104.json",
-    "backfill-november-20261105.json"
+    "backfill-november-20261105.json",
+    "backfill-november-20261106.json"
   ],
-  "expectedEntries": 100,
-  "statementEntries": 100,
-  "statementSourceEntries": 100,
+  "expectedEntries": 120,
+  "statementEntries": 120,
+  "statementSourceEntries": 120,
   "statementBacklog": 0,
-  "imageEntries": 100,
+  "imageEntries": 120,
   "imageBacklog": 0,
-  "note": "十一月公開資料累計100則；11月5日新增20則，配置10／5／5。20筆已完成逐件圖像回讀；Tino Sehgal條目依官方禁攝規範使用並明示藝術家肖像，Sol LeWitt條目明示為安裝過程影像。",
+  "note": "十一月公開資料累計120則；11月6日新增20則，配置10／5／5。20筆均已核對官方作品頁、作者、年份、媒材與影像性質；影像採官方作品頁預覽。",
   "imageVerificationPending": 0
 }
