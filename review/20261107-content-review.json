@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-07",
+  "publicArt": {
+    "total": 20,
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5,
+    "missingFields": [],
+    "cityKeywordMissing": []
+  },
+  "competitions": {
+    "active": 129,
+    "addedToday": 5,
+    "expiredRemoved": 4,
+    "expiredRemovedIds": [
+      "competition-2026-10-09-01",
+      "competition-2026-10-07-02",
+      "competition-2026-09-07-01",
+      "competition-2026-11-04-02"
+    ],
+    "expiredRemaining": [],
+    "unparseableDeadlines": [],
+    "timezoneOffsetMismatches": [],
+    "missingFields": [],
+    "cityKeywordMissing": []
+  },
+  "dedupe": {
+    "duplicateKeys": [],
+    "duplicateCount": 0
+  },
+  "frontend": {
+    "crossCityLinkLogic": "assets/app.js runtime cityKeywords intersection between public-art and competition entries",
+    "manifestCacheBust": "data files use Date.now query validation; asset version advanced in index"
+  },
+  "image": {
+    "entries": 20,
+    "method": "official-work-page-preview",
+    "missing": [],
+    "disclosure": "未宣稱取得官方原始圖檔重製授權"
+  },
+  "sourceScope": {
+    "traditionalFigurativeMonumentsExcluded": true,
+    "openCallsExcludedFromPublicArt": true
+  },
+  "notionPreflight": {
+    "date": "2026-11-07",
+    "existingToday": 0,
+    "recentViewRowsChecked": 100,
+    "duplicateCandidatesRejected": [
+      "Semaforen i Henån",
+      "LABYRINTH",
+      "2027 Western Lights Festival",
+      "Art on the River 2027–2028: Tributaries",
+      "Marlborough Sports Garden Supergraphics"
+    ],
+    "remainingMatches": 0
+  },
+  "sourceScan": {
+    "total": 22,
+    "success": 19,
+    "blocked": 3,
+    "selectedSources": [
+      "Museum der 1000 Orte",
+      "KORO · Public Art Norway",
+      "Public Art Agency Sweden",
+      "Creative Time"
+    ]
+  },
+  "selectedPublicArt": [
+    {
+      "id": "art-20261107-01",
+      "name": "01｜Pia Ferm｜cappriccio",
+      "group": "current",
+      "source": "https://publicartagencysweden.com/konst/cappriccio/"
+    },
+    {
+      "id": "art-20261107-02",
+      "name": "02｜Salad Hilowle｜Behållarna",
+      "group": "current",
+      "source": "https://publicartagencysweden.com/konst/behallarna/"
+    },
+    {
+      "id": "art-20261107-03",
+      "name": "03｜Thomas Hämén｜Stjärnlikt grenverk",
+      "group": "current",
+      "source": "https://publicartagencysweden.com/konst/stjarnlikt-grenverk/"
+    },
+    {
+      "id": "art-20261107-04",
+      "name": "04｜Juri Markkula｜Windy",
+      "group": "current",
+      "source": "https://publicartagencysweden.com/konst/windy/"
+    },
+    {
+      "id": "art-20261107-05",
+      "name": "05｜Allora & Calzadilla｜Graft",
+      "group": "current",
+      "source": "https://publicartagencysweden.com/konst/graft/"
+    },
+    {
+      "id": "art-20261107-06",
+      "name": "06｜Arek Kouyoumdjian｜The square that dreamt to be a circle",
+      "group": "current",
+      "source": "https://koro.no/prosjekter/kartverket-e-blokka/"
+    },
+    {
+      "id": "art-20261107-07",
+      "name": "07｜Regula Dettwiler｜Catching Fire",
+      "group": "current",
+      "source": "https://koernoe.at/de/projekt/1145/catching-fire"
+    },
+    {
+      "id": "art-20261107-08",
+      "name": "08｜Christian Kosmas Mayer｜Formationen",
+      "group": "current",
+      "source": "https://koernoe.at/de/projekt/1154/formationen"
+    },
+    {
+      "id": "art-20261107-09",
+      "name": "09｜Magnhild Øen Nordahl｜Trening og arbeidskrav",
+      "group": "current",
+      "source": "https://koro.no/prosjekter/terningmoen-leir-befalsforlegning/"
+    },
+    {
+      "id": "art-20261107-10",
+      "name": "10｜Iren Gule｜Filth Eater – Filt(heat)er",
+      "group": "current",
+      "source": "https://koro.no/prosjekter/vestre-finnmark-tingrett-alta/"
+    },
+    {
+      "id": "art-20261107-11",
+      "name": "11｜Doug Aitken｜Sleepwalkers",
+      "group": "globalClassic",
+      "source": "https://creativetime.org/projects/sleepwalkers/"
+    },
+    {
+      "id": "art-20261107-12",
+      "name": "12｜Duke Riley｜Fly By Night",
+      "group": "globalClassic",
+      "source": "https://creativetime.org/projects/flybynight/"
+    },
+    {
+      "id": "art-20261107-13",
+      "name": "13｜Nick Cave｜HEARD•NY",
+      "group": "globalClassic",
+      "source": "https://creativetime.org/projects/heard-ny/"
+    },
+    {
+      "id": "art-20261107-14",
+      "name": "14｜Suzanne Lacy｜Between the Door and the Street",
+      "group": "globalClassic",
+      "source": "https://creativetime.org/projects/between-the-door-and-the-street/"
+    },
+    {
+      "id": "art-20261107-15",
+      "name": "15｜Cai Guo-Qiang｜Light Cycle",
+      "group": "globalClassic",
+      "source": "https://creativetime.org/projects/light-cycle/"
+    },
+    {
+      "id": "art-20261107-16",
+      "name": "16｜Daniel Buren｜La Grande Fenêtre",
+      "group": "germanClassic",
+      "source": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/la-grande-fenetre"
+    },
+    {
+      "id": "art-20261107-17",
+      "name": "17｜Rebecca Horn｜Verspiegeltes Planetensystem",
+      "group": "germanClassic",
+      "source": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/verspiegeltes-planetensystem"
+    },
+    {
+      "id": "art-20261107-18",
+      "name": "18｜Inges Idee｜Im selben Boot / In internationalen Gewässern",
+      "group": "germanClassic",
+      "source": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/im-selben-boot-in-internationalen-gewassern"
+    },
+    {
+      "id": "art-20261107-19",
+      "name": "19｜Hannsjörg Voth｜Scheitelhaltung",
+      "group": "germanClassic",
+      "source": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung"
+    },
+    {
+      "id": "art-20261107-20",
+      "name": "20｜Erich Hauser｜Flächenwand",
+      "group": "germanClassic",
+      "source": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flachenwand"
+    }
+  ],
+  "selectedCompetitions": [
+    {
+      "id": "competition-2026-11-07-01",
+      "name": "01｜City of Palo Alto Public Art Program｜Code:ART 2027 Lytton Plaza Installation",
+      "deadline": "2026-11-16T23:59:00-08:00",
+      "deadlineTimezone": "America/Los_Angeles",
+      "source": "https://www.paloalto.gov/Departments/Community-Services/Arts-Sciences/Public-Art-Program/Artist-Opportunities"
+    },
+    {
+      "id": "competition-2026-11-07-02",
+      "name": "02｜City of Palo Alto Public Art Program｜Code:ART 2027 Interactive Media Installations",
+      "deadline": "2026-11-16T23:59:00-08:00",
+      "deadlineTimezone": "America/Los_Angeles",
+      "source": "https://www.paloalto.gov/Departments/Community-Services/Arts-Sciences/Public-Art-Program/Artist-Opportunities"
+    },
+    {
+      "id": "competition-2026-11-07-03",
+      "name": "03｜Connecticut Office of the Arts / CT State Gateway｜CT State Gateway Art in Public Spaces Call for Art",
+      "deadline": "2026-12-15T23:59:00-05:00",
+      "deadlineTimezone": "America/New_York",
+      "source": "https://portal.ct.gov/decdartsportal/knowledge-base/articles/programs-and-services/art-in-public-spaces/call-for-art---gateway"
+    },
+    {
+      "id": "competition-2026-11-07-04",
+      "name": "04｜Public Art Boca / City of Boca Raton｜Downtown Library Atrium Window Commission",
+      "deadline": "2026-12-08T23:59:00-05:00",
+      "deadlineTimezone": "America/New_York",
+      "source": "https://myboca.us/2776/Call-for-Artists"
+    },
+    {
+      "id": "competition-2026-11-07-05",
+      "name": "05｜City of Glendale Office of Arts and Culture｜Glendale Adult Center Sports, Parks, and Recreation Mural",
+      "deadline": "2026-12-31T23:59:59-07:00",
+      "deadlineTimezone": "America/Phoenix",
+      "source": "https://www.glendaleaz.gov/Explore/Arts-Culture/Grant-Funding-Artist-Opportunities/Calls-to-Artists"
+    }
+  ]
+}

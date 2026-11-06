@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-07",
+  "summary": {
+    "total": 22,
+    "success": 19,
+    "blocked": 3,
+    "selectedSources": [
+      "Museum der 1000 Orte",
+      "KORO · Public Art Norway",
+      "Public Art Agency Sweden",
+      "Creative Time"
+    ]
+  },
+  "entries": [
+    {
+      "order": 1,
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 2,
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 3,
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 4,
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 5,
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "success_selected",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文並有項目進入本日候選與實質審查。"
+    },
+    {
+      "order": 6,
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "blocked_401",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "未讀到正文；保留追蹤，下次重查，未繞過存取限制。"
+    },
+    {
+      "order": 7,
+      "name": "KORO · Public Art Norway",
+      "url": "https://koro.no/english/",
+      "status": "success_selected",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文並有項目進入本日候選與實質審查。"
+    },
+    {
+      "order": 8,
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "success_selected",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文並有項目進入本日候選與實質審查。"
+    },
+    {
+      "order": 9,
+      "name": "MAPS · Museum of Art in Public Space",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 10,
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 11,
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 12,
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "success_selected",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文並有項目進入本日候選與實質審查。"
+    },
+    {
+      "order": 13,
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 14,
+      "name": "Fourth Plinth · London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 15,
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 16,
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "blocked_503",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "未讀到正文；保留追蹤，下次重查，未繞過存取限制。"
+    },
+    {
+      "order": 17,
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 18,
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 19,
+      "name": "Toronto · Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 20,
+      "name": "Vancouver · Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 21,
+      "name": "Melbourne · Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "success_no_selected_update",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "已讀取正文；本日未選入新條目。"
+    },
+    {
+      "order": 22,
+      "name": "文化部公共藝術官方網站",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "blocked_403",
+      "checkedAt": "2026-11-07T05:03:22+08:00",
+      "note": "未讀到正文；保留追蹤，下次重查，未繞過存取限制。"
+    }
+  ],
+  "additionalSources": [
+    {
+      "name": "KOERNOE",
+      "url": "https://koernoe.at/de/projekte",
+      "status": "success_selected"
+    },
+    {
+      "name": "City of Palo Alto",
+      "url": "https://www.paloalto.gov/Departments/Community-Services/Arts-Sciences/Public-Art-Program/Artist-Opportunities",
+      "status": "success_selected"
+    },
+    {
+      "name": "Connecticut Office of the Arts",
+      "url": "https://portal.ct.gov/decdartsportal/knowledge-base/articles/programs-and-services/art-in-public-spaces/call-for-art---gateway",
+      "status": "success_selected"
+    },
+    {
+      "name": "Public Art Boca",
+      "url": "https://myboca.us/2776/Call-for-Artists",
+      "status": "success_selected"
+    },
+    {
+      "name": "City of Glendale",
+      "url": "https://www.glendaleaz.gov/Explore/Arts-Culture/Grant-Funding-Artist-Opportunities/Calls-to-Artists",
+      "status": "success_selected"
+    }
+  ]
+}
