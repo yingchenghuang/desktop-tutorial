@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-08",
+  "status": "reviewed_with_image_endpoint_limits",
+  "publicArt": {
+    "total": 20,
+    "groups": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    },
+    "excludedTraditionalFigurativeMonuments": true,
+    "identityDateStatusAttributionReviewed": 20,
+    "sourceFieldsComplete": 20,
+    "imageUrlsPresent": 20,
+    "imageDirectlyDisplayedByRetrieval": 5,
+    "imageEndpointUnreachableByRetrieval": 15,
+    "note": "直接顯示統計僅計20件公共藝術；不可將影像端點不可讀誤報為內容缺漏。每筆仍保留第一方作品圖與圖像性質說明。"
+  },
+  "competitions": {
+    "added": 5,
+    "activeAfterCleanup": 131,
+    "expiredRemoved": [
+      "competition-2026-10-12-02",
+      "competition-2026-10-02-01",
+      "competition-2026-10-23-03"
+    ],
+    "deadlineMachineReadable": 131,
+    "timezoneFields": 131
+  },
+  "dedupe": {
+    "allNovemberArtDuplicateKeys": 0,
+    "activeCompetitionDuplicateKeys": 0,
+    "newVsPriorArt": 0,
+    "newVsPriorCompetitions": 0
+  },
+  "notion": {
+    "total": 25,
+    "art": 20,
+    "comp": 5,
+    "unique": 25,
+    "missingCity": 0,
+    "missingRequired": 0
+  }
+}

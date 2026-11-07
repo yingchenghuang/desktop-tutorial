@@ -1,6 +1,6 @@
 {
-  "version": "20261107-reviewed-r124",
-  "generatedAt": "2026-11-07T05:03:22+08:00",
+  "version": "20261108-reviewed-r125",
+  "generatedAt": "2026-11-08T05:00:00+08:00",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
@@ -8,14 +8,10 @@
     "backfill-november-20261104.json",
     "backfill-november-20261105.json",
     "backfill-november-20261106.json",
-    "backfill-november-20261107.json"
+    "backfill-november-20261107.json",
+    "backfill-november-20261108.json"
   ],
-  "expectedEntries": 140,
-  "statementEntries": 140,
-  "statementSourceEntries": 140,
-  "statementBacklog": 0,
-  "imageEntries": 140,
-  "imageBacklog": 0,
-  "note": "十一月公開資料累計140則；11月7日新增20則，配置10／5／5。20筆均已核對官方作品頁、作者、年份、媒材、場域狀態與影像性質；影像採官方作品頁預覽。",
-  "imageVerificationPending": 0
+  "expectedEntries": 160,
+  "imageEntries": 160,
+  "note": "11月1日至8日每日各20則公共藝術；本次新增20則（10／5／5）。保留既有歷史與專題資料；圖片25筆皆有第一方來源，今日20件中6張由回讀工具直接顯示、14張影像端點待核。"
 }

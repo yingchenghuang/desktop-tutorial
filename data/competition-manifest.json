@@ -1,24 +1,23 @@
 {
-  "version": "20261107-reviewed-r122",
-  "generatedAt": "2026-11-07T05:03:22+08:00",
+  "version": "20261108-reviewed-r125",
+  "generatedAt": "2026-11-08T05:00:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 129,
+  "activeEntries": 131,
   "addedToday": 5,
-  "expiredRemoved": 4,
+  "expiredRemoved": 3,
   "expiredRemovedIds": [
-    "competition-2026-10-09-01",
-    "competition-2026-10-07-02",
-    "competition-2026-09-07-01",
-    "competition-2026-11-04-02"
+    "competition-2026-10-12-02",
+    "competition-2026-10-02-01",
+    "competition-2026-10-23-03"
   ],
   "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 129,
-  "deadlinePrecisionEntries": 129,
-  "cityKeywordEntries": 129,
-  "note": "新增5則官方徵件，移除4則已截止項目。截止狀態依各地主辦單位日期與時區。",
-  "germanAddedToday": 0,
+  "deadlineTimezoneEntries": 131,
+  "deadlinePrecisionEntries": 131,
+  "cityKeywordEntries": 131,
+  "note": "新增5則官方徵件，移除3則已截止項目。截止狀態依各地主辦單位日期與時區。",
+  "germanAddedToday": 1,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0,
   "duplicateRemovedIds": []

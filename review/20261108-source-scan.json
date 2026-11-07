@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-08",
+  "summary": {
+    "readable": 18,
+    "blocked": 4,
+    "total": 22
+  },
+  "sites": [
+    {
+      "site": "Public Art Archive",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Institute for Public Art",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "CODAworx",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Americans for the Arts · Public Art",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Museum der 1000 Orte",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "status": "blocked_401",
+      "note": "本次未讀到正文，保留追蹤並於下次重查；未繞過存取限制。"
+    },
+    {
+      "site": "KORO · Public Art Norway",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Public Art Agency Sweden",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "MAPS · Museum of Art in Public Space",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Swiss Federal Office · Kunst am Bau",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Public Art Fund",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Creative Time",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Artangel",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Fourth Plinth · London",
+      "status": "blocked_403",
+      "note": "本次未讀到正文，保留追蹤並於下次重查；未繞過存取限制。"
+    },
+    {
+      "site": "Forecast Public Art",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Art Platform Japan",
+      "status": "blocked_503",
+      "note": "本次未讀到正文，保留追蹤並於下次重查；未繞過存取限制。"
+    },
+    {
+      "site": "Echigo-Tsumari Art Field",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Seoul Public Art Archive",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Toronto · Public Art",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Vancouver · Public Art",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "Melbourne · Public Art Open Data",
+      "status": "success",
+      "note": "已讀取官方頁面正文或索引；新發現另行逐件查核，不以站點代替作品。"
+    },
+    {
+      "site": "文化部公共藝術官方網站",
+      "status": "blocked_403",
+      "note": "本次未讀到正文，保留追蹤並於下次重查；未繞過存取限制。"
+    }
+  ]
+}
