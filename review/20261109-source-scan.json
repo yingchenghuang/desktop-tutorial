@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:00:00+08:00",
+  "summary": {
+    "total": 22,
+    "readable": 18,
+    "blocked": 4
+  },
+  "sites": [
+    {
+      "index": 1,
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 2,
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 3,
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 4,
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 5,
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 6,
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "回讀受阻",
+      "note": "HTTP 401"
+    },
+    {
+      "index": 7,
+      "name": "KORO · Public Art Norway",
+      "url": "https://koro.no/english/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 8,
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 9,
+      "name": "MAPS · Museum of Art in Public Space",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 10,
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 11,
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 12,
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 13,
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 14,
+      "name": "Fourth Plinth · London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "回讀受阻",
+      "note": "HTTP 403"
+    },
+    {
+      "index": 15,
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 16,
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "回讀受阻",
+      "note": "HTTP 503"
+    },
+    {
+      "index": 17,
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 18,
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 19,
+      "name": "Toronto · Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 20,
+      "name": "Vancouver · Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 21,
+      "name": "Melbourne · Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "成功",
+      "note": "正文可讀"
+    },
+    {
+      "index": 22,
+      "name": "文化部公共藝術官方網站",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "回讀受阻",
+      "note": "HTTP 403"
+    }
+  ],
+  "note": "受阻站未宣稱已查核正文，保留下次重查；未繞過登入、權限或存取限制。"
+}

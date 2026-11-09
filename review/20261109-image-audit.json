@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:00:00+08:00",
+  "publicArt": {
+    "total": 20,
+    "sourceFieldsPresent": 20,
+    "visuallyReadable": 8,
+    "readbackBlocked": 12,
+    "readableIds": [
+      "public-art-2026-11-09-01",
+      "public-art-2026-11-09-04",
+      "public-art-2026-11-09-08",
+      "public-art-2026-11-09-11",
+      "public-art-2026-11-09-12",
+      "public-art-2026-11-09-13",
+      "public-art-2026-11-09-14",
+      "public-art-2026-11-09-15"
+    ],
+    "blockedIds": [
+      "public-art-2026-11-09-02",
+      "public-art-2026-11-09-03",
+      "public-art-2026-11-09-05",
+      "public-art-2026-11-09-06",
+      "public-art-2026-11-09-07",
+      "public-art-2026-11-09-09",
+      "public-art-2026-11-09-10",
+      "public-art-2026-11-09-16",
+      "public-art-2026-11-09-17",
+      "public-art-2026-11-09-18",
+      "public-art-2026-11-09-19",
+      "public-art-2026-11-09-20"
+    ]
+  },
+  "competitions": {
+    "total": 5,
+    "sourceFieldsPresent": 5,
+    "visuallyReadable": 0,
+    "readbackBlocked": 5,
+    "blockedIds": [
+      "competition-2026-11-09-01",
+      "competition-2026-11-09-02",
+      "competition-2026-11-09-03",
+      "competition-2026-11-09-04",
+      "competition-2026-11-09-05"
+    ]
+  },
+  "note": "HTTP/欄位存在與圖像視覺核對分開記錄；受阻圖片保留第一方網址，未宣稱通過。"
+}

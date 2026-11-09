@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T05:00:00+08:00",
+  "publicArt": {
+    "total": 20,
+    "configuration": {
+      "current": 10,
+      "global": 5,
+      "german": 5
+    },
+    "excludedTraditionalFigurativeMonuments": 0,
+    "semanticDuplicates": 0,
+    "missingCityKeywords": 0,
+    "missingRequiredFields": 0
+  },
+  "competitions": {
+    "addedToday": 5,
+    "activeAfterCleanup": 134,
+    "priorActiveRetained": 129,
+    "expiredRemoved": [
+      "competition-2026-10-16-01",
+      "competition-2026-10-21-03"
+    ],
+    "expiredInActiveList": 0,
+    "invalidDeadlines": 0,
+    "missingCityKeywords": 0,
+    "missingRequiredFields": 0
+  },
+  "crossDatabase": {
+    "relatedByCityPairs": 4,
+    "reciprocalBroken": 0
+  },
+  "notion": {
+    "created": 25,
+    "publicArt": 20,
+    "competitions": 5,
+    "duplicateCreates": 0,
+    "queryMode": "saved-view fallback（SQL allowance exhausted）"
+  },
+  "imageAudit": {
+    "publicArtVisualSuccess": 8,
+    "publicArtBlocked": 12,
+    "competitionVisualSuccess": 0,
+    "competitionBlocked": 5
+  }
+}
