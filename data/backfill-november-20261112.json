@@ -7,7 +7,7 @@
     "dynamic": 10,
     "globalClassic": 5,
     "germanClassic": 5,
-    "note": "20件已實現公共藝術；原始作品年份保留。作品頁預覽圖待原始攝影核驗。"
+    "note": "20件已實現公共藝術；原始作品年份保留。作品頁預覽圖待原始攝影核驗。；已更新既有Robert Morris《Observatorium》官方原圖（Gert Schutte），總數維持20。"
   },
   "entries": [
     {
@@ -500,8 +500,8 @@
       "comment": "三個觀測狹口對準季節日出，土堤成為可步入的巨大時間儀器。",
       "website": "https://www.landartflevoland.nl/en/land-art/robert-morris-observatorium/",
       "workPage": "https://www.landartflevoland.nl/en/land-art/robert-morris-observatorium/",
-      "photo": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.landartflevoland.nl/en/land-art/robert-morris-observatorium/",
-      "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.landartflevoland.nl/en/land-art/robert-morris-observatorium/",
+      "photo": "https://www.landartflevoland.nl/site/assets/files/1182/rvatorium_1977_-_robert_morris__foto-_gert_schutte.1800x0.jpg",
+      "classicImage": "https://www.landartflevoland.nl/site/assets/files/1182/rvatorium_1977_-_robert_morris__foto-_gert_schutte.1800x0.jpg",
       "classicTitle": "Observatorium｜1977",
       "classicDesc": "三個觀測狹口對準季節日出，土堤成為可步入的巨大時間儀器。 媒材：環形土堤、鋼與花崗岩。參訪條件：戶外永久地景。",
       "artistStatement": "三個觀測狹口對準季節日出，土堤成為可步入的巨大時間儀器。",
@@ -509,18 +509,20 @@
       "status": "官方來源",
       "updated": "2026-11-12",
       "researchGroup": "globalClassic",
-      "material": "環形土堤、鋼與花崗岩",
-      "imageCredit": "攝影依第一方作品頁權利標註",
-      "imageRights": "官方作品頁面預覽；圖片版權歸原權利人",
+      "material": "土堤、水、草、貝殼、鋼、巴伐利亞花崗岩及木材",
+      "imageCredit": "Gert Schutte（Land Art Flevoland 第一方作品照）",
+      "imageRights": "作品與攝影著作權歸原權利人，官方網站原圖連結",
       "accessNote": "戶外永久地景",
       "statementType": "官方來源摘述",
       "sourceCheckedDate": "2026-11-13",
       "reviewStatus": "來源與作品內容核對；原始圖像待視覺核驗",
-      "imageVerification": "官方專屬作品頁預覽，尚未核對原始攝影圖",
-      "imageKind": "官方頁面預覽",
+      "imageVerification": "已於官方網站與圖片連結目視驗證原作品照片",
+      "imageKind": "第一方官方作品攝影",
       "relatedByCity": [],
       "collectionDate": "2026-11-12",
-      "reviewedAt": "2026-11-13"
+      "reviewedAt": "2026-11-13",
+      "collectionSeries": "Land Art Flevoland",
+      "seriesSource": "https://www.landartflevoland.nl/en/land-art/"
     },
     {
       "id": "public-art-2026-11-12-13",
