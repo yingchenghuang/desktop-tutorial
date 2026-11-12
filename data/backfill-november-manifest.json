@@ -1,6 +1,6 @@
 {
-  "version": "20261113-repair-r127",
-  "generatedAt": "2026-11-13T05:07:36+08:00",
+  "version": "20261113-reviewed-r128",
+  "generatedAt": "2026-11-13T06:02:20.864+08:00",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
@@ -12,10 +12,11 @@
     "backfill-november-20261108.json",
     "backfill-november-20261109.json",
     "backfill-november-20261110.json",
-    "backfill-november-20261111.json"
+    "backfill-november-20261111.json",
+    "backfill-november-20261112.json",
+    "backfill-november-20261113.json"
   ],
-  "expectedEntries": 220,
-  "imageEntries": 220,
-  "note": "11月1日至11日每日各20則公共藝術；本次補入11月10及11日共40則（每日10／5／5）。保留既有歷史與日韓專題；40筆均有第一方作品頁與官方頁面預覽，原始圖檔視覺複核另行標記。"
+  "expectedEntries": 260,
+  "imageEntries": 260,
+  "note": "11月1日至13日每日20件作品，11月12至13日補40件，均遵守10當期／5全球經典／5德語經典。保留原始創作年份及舊檔。圖片官方頁面預覽待獨立原始攝影核驗。"
 }
-
