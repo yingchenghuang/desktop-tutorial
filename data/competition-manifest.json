@@ -1,23 +1,46 @@
 {
-  "version": "20261109-reviewed-r126",
-  "generatedAt": "2026-11-09T05:00:00+08:00",
+  "version": "20261113-repair-r127",
+  "generatedAt": "2026-11-13T05:07:36+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 134,
+  "activeEntries": 122,
   "addedToday": 5,
-  "expiredRemoved": 2,
+  "addedThisRun": 10,
+  "expiredRemoved": 7,
   "expiredRemovedIds": [
-    "competition-2026-10-16-01",
-    "competition-2026-10-21-03"
+    "competition-2026-11-09-03",
+    "competition-2026-10-17-04",
+    "competition-2026-10-03-03",
+    "competition-2026-09-30-03",
+    "competition-2026-08-29-02",
+    "competition-2026-10-21-05",
+    "competition-2026-10-23-01"
   ],
-  "duplicateRemoved": 0,
-  "deadlineTimezoneEntries": 134,
-  "deadlinePrecisionEntries": 134,
-  "cityKeywordEntries": 134,
-  "note": "新增5則官方徵件，移除2則已截止項目；保留129則既有未截止項目。截止狀態依各地主辦地日期、時間與時區偏移判斷。",
-  "germanAddedToday": 0,
+  "duplicateRemoved": 15,
+  "duplicateRemovedIds": [
+    "competition-2026-08-29-01",
+    "competition-2026-08-30-01",
+    "competition-2026-08-24-05",
+    "competition-2026-10-21-01",
+    "competition-2026-10-21-02",
+    "competition-2026-11-05-02",
+    "competition-2026-11-01-03",
+    "competition-2026-10-23-02",
+    "competition-2026-10-17-03",
+    "competition-2026-10-11-04",
+    "competition-2026-10-08-02",
+    "competition-2026-10-10-04",
+    "competition-2026-10-29-01",
+    "competition-2026-10-31-04",
+    "competition-2026-10-30-04"
+  ],
+  "deadlineTimezoneEntries": 122,
+  "deadlinePrecisionEntries": 122,
+  "cityKeywordEntries": 122,
+  "note": "補入11月10及11日各5則官方徵件；移除7則已截止項目與15則同案重複副本，保留其餘未截止獨立徵件。截止狀態依各地主辦地日期、時間與時區偏移判斷。",
+  "germanAddedToday": 1,
   "scopeRemoved": 0,
-  "inferredTimezoneEntries": 0,
-  "duplicateRemovedIds": []
+  "inferredTimezoneEntries": 0
 }
+

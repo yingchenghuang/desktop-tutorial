@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-13T05:07:36+08:00",
+  "publicArt": {
+    "total": 20,
+    "configuration": {
+      "current": 10,
+      "global": 5,
+      "german": 5
+    },
+    "excludedTraditionalFigurativeMonuments": 0,
+    "semanticDuplicates": 0,
+    "missingCityKeywords": 0,
+    "missingRequiredFields": 0
+  },
+  "competitions": {
+    "addedToday": 5,
+    "expiredRemoved": [
+      "competition-2026-11-09-03",
+      "competition-2026-10-17-04",
+      "competition-2026-10-03-03",
+      "competition-2026-09-30-03",
+      "competition-2026-08-29-02",
+      "competition-2026-10-21-05",
+      "competition-2026-10-23-01"
+    ],
+    "duplicateRemoved": [
+      "competition-2026-08-29-01",
+      "competition-2026-08-30-01",
+      "competition-2026-08-24-05",
+      "competition-2026-10-21-01",
+      "competition-2026-10-21-02",
+      "competition-2026-11-05-02",
+      "competition-2026-11-01-03",
+      "competition-2026-10-23-02",
+      "competition-2026-10-17-03",
+      "competition-2026-10-11-04",
+      "competition-2026-10-08-02",
+      "competition-2026-10-10-04",
+      "competition-2026-10-29-01",
+      "competition-2026-10-31-04",
+      "competition-2026-10-30-04"
+    ],
+    "expiredInActiveList": 0,
+    "invalidDeadlines": 0,
+    "missingCityKeywords": 0,
+    "missingRequiredFields": 0
+  },
+  "imageAudit": {
+    "publicArtPagePreviews": 20,
+    "originalImageVisualVerificationPending": 20,
+    "competitionPagePreviews": 5
+  },
+  "note": "技術完整與圖像視覺核對分開記錄；本批採官方作品頁預覽，未宣稱原始圖檔已完成視覺驗收。"
+}
+
