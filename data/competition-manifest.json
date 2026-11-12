@@ -1,13 +1,13 @@
 {
-  "version": "20261113-repair-r127",
-  "generatedAt": "2026-11-13T05:07:36+08:00",
+  "version": "20261113-reviewed-r128",
+  "generatedAt": "2026-11-13T06:02:20.864+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 122,
+  "activeEntries": 131,
   "addedToday": 5,
   "addedThisRun": 10,
-  "expiredRemoved": 7,
+  "expiredRemoved": 1,
   "expiredRemovedIds": [
     "competition-2026-11-09-03",
     "competition-2026-10-17-04",
@@ -35,12 +35,11 @@
     "competition-2026-10-31-04",
     "competition-2026-10-30-04"
   ],
-  "deadlineTimezoneEntries": 122,
-  "deadlinePrecisionEntries": 122,
-  "cityKeywordEntries": 122,
-  "note": "補入11月10及11日各5則官方徵件；移除7則已截止項目與15則同案重複副本，保留其餘未截止獨立徵件。截止狀態依各地主辦地日期、時間與時區偏移判斷。",
+  "deadlineTimezoneEntries": 131,
+  "deadlinePrecisionEntries": 131,
+  "cityKeywordEntries": 131,
+  "note": "11月12至13日各新增5件有效公共藝術徵件，保留121筆既有未截止紀錄，移除1筆已過截止瞬間條目。",
   "germanAddedToday": 1,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0
 }
-
