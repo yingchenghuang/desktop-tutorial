@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-14",
+  "added": 5,
+  "retainedExisting": 127,
+  "expiredRemoved": 4,
+  "activeEntries": 132,
+  "deadlineParseErrors": 0,
+  "deadlineMissingOffset": 0,
+  "timezoneMissing": 0,
+  "cityKeywordMissing": 0,
+  "dedupeKeyDuplicates": 0,
+  "status": "validated",
+  "timezoneOffsetCorrections": [
+    "competition-2026-11-11-05",
+    "competition-2026-11-11-02",
+    "competition-2026-11-03-04"
+  ],
+  "timezoneOffsetErrors": 0
+}

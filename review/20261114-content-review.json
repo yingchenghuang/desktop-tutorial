@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-14",
+  "total": 20,
+  "configuration": {
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5
+  },
+  "excludedFigurativeMonuments": 0,
+  "competitionsMixed": 0,
+  "landArtSpecialMixed": 0,
+  "dedupeKeyDuplicates": 0,
+  "requiredFieldMissing": 0,
+  "cityKeywordMissing": 0,
+  "imageAudit": {
+    "officialPagePreview": 20,
+    "originalArtworkImageVerified": 0,
+    "note": "20筆均有官方來源頁與頁面預覽連結；未把HTTP可讀誤稱為原始作品攝影核驗。"
+  },
+  "status": "content-reviewed-after-current-scope-correction",
+  "currentScopeReplacements": [
+    "Schoolwork（2025暫時作品）→ No Gravity（2026永久設置）",
+    "Stream（2023暫時作品）→ Blindort（2026永久設置）"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T05:30:00+08:00",
+  "total": 23,
+  "success": 20,
+  "blocked": 3,
+  "sources": [
+    {
+      "name": "Public Art Archive",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Institute for Public Art",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "CODAworx",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "status": "回讀受阻",
+      "note": "官方頁回覆401/403；保留追蹤，下次重查，未繞過限制"
+    },
+    {
+      "name": "KORO · Public Art Norway",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "MAPS · Museum of Art in Public Space",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Public Art Fund",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Creative Time",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Artangel",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "status": "回讀受阻",
+      "note": "官方頁回覆401/403；保留追蹤，下次重查，未繞過限制"
+    },
+    {
+      "name": "Forecast Public Art",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Art Platform Japan",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Toronto · Public Art",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Vancouver · Public Art",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "Melbourne · Public Art Open Data",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "status": "回讀受阻",
+      "note": "官方頁回覆401/403；保留追蹤，下次重查，未繞過限制"
+    },
+    {
+      "name": "Land Art Flevoland",
+      "status": "成功讀取正文",
+      "note": "已讀取首頁或指定索引正文；候選仍須回到個別作品／簡章頁核對"
+    }
+  ]
+}

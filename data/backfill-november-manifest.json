@@ -1,6 +1,6 @@
 {
-  "version": "20261113-landart-r129",
-  "generatedAt": "2026-11-13T06:34:42.563+08:00",
+  "version": "20261114-reviewed-r130",
+  "generatedAt": "2026-11-14T05:30:00+08:00",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
@@ -15,9 +15,10 @@
     "backfill-november-20261111.json",
     "backfill-november-20261112.json",
     "backfill-november-20261113.json",
+    "backfill-november-20261114.json",
     "landart-flevoland-special-20261113.json"
   ],
-  "expectedEntries": 270,
-  "imageEntries": 270,
-  "note": "每日11/1–13共260件（各日固定20件、配比10／5／5）。另新增Land Art Flevoland獨立專題9件已實現地景藝術＋1平台來源共10筆；Robert Morris《Observatorium》既有收錄不重建。合計270筆，保留日韓補充和既有資料。地景作品官方原圖5張目視可讀，4張回讀逾時待核，來源授權以官方頁面為準。"
+  "expectedEntries": 290,
+  "imageEntries": 290,
+  "note": "11月1日至14日每日20則公共藝術共280則，另保留 Land Art Flevoland 獨立專題10則；競圖資料完全分流。"
 }
