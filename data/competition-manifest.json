@@ -1,47 +1,27 @@
 {
-  "version": "20261114-reviewed-r130",
-  "generatedAt": "2026-11-14T05:30:00+08:00",
+  "version": "20261115-reviewed-r131",
+  "generatedAt": "2026-11-15T05:30:00+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 132,
+  "activeEntries": 133,
   "addedToday": 5,
   "addedThisRun": 5,
   "expiredRemoved": 4,
   "expiredRemovedIds": [
-    "competition-2026-11-05-04",
-    "competition-2026-10-02-02",
-    "competition-2026-10-22-04",
-    "competition-2026-10-24-03"
+    "competition-2026-11-05-03",
+    "competition-2026-10-13-05",
+    "competition-2026-10-11-05",
+    "competition-2026-10-20-05"
   ],
-  "duplicateRemoved": 15,
-  "duplicateRemovedIds": [
-    "competition-2026-08-29-01",
-    "competition-2026-08-30-01",
-    "competition-2026-08-24-05",
-    "competition-2026-10-21-01",
-    "competition-2026-10-21-02",
-    "competition-2026-11-05-02",
-    "competition-2026-11-01-03",
-    "competition-2026-10-23-02",
-    "competition-2026-10-17-03",
-    "competition-2026-10-11-04",
-    "competition-2026-10-08-02",
-    "competition-2026-10-10-04",
-    "competition-2026-10-29-01",
-    "competition-2026-10-31-04",
-    "competition-2026-10-30-04"
-  ],
-  "deadlineTimezoneEntries": 132,
-  "deadlinePrecisionEntries": 132,
-  "cityKeywordEntries": 132,
-  "note": "11月14日新增5件有效公共藝術徵件，保留全部未截止紀錄，僅移除已超過實際截止瞬間項目。 並依 IANA 2026–2027 規則修正3筆既有北美期限的UTC偏移。",
-  "germanAddedToday": 1,
+  "duplicateRemoved": 0,
+  "duplicateRemovedIds": [],
+  "deadlineTimezoneEntries": 133,
+  "deadlinePrecisionEntries": 133,
+  "cityKeywordEntries": 133,
+  "note": "11月15日新增5件經Notion與網站去重的有效公共藝術徵件；保留全部未截止紀錄，僅移除已超過實際截止瞬間項目。",
+  "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0,
-  "timezoneCorrections": [
-    "competition-2026-11-11-05",
-    "competition-2026-11-11-02",
-    "competition-2026-11-03-04"
-  ]
+  "timezoneCorrections": []
 }

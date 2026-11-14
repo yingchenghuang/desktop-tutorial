@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-15",
+  "total": 20,
+  "distribution": {
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5
+  },
+  "excludedTraditionalPortraitMonuments": 0,
+  "competitionMixedIntoArt": 0,
+  "duplicateKeys": 0,
+  "cityKeywordsMissing": 0,
+  "sourceMissing": 0,
+  "imageMissing": 0,
+  "notes": [
+    "保留原始作品年份；updated僅代表資料維護日期。",
+    "Grass Roots Square依KORO公告標記2026重新開放；Varberg兩件依官方標示為施工中。",
+    "Joakim Ojanen作品雖具人物形體，但不是傳統歷史人物／名人紀念雕像，屬當代場域委託。"
+  ]
+}

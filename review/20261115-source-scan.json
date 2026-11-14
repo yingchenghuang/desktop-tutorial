@@ -1,0 +1,123 @@
+{
+  "date": "2026-11-15",
+  "total": 23,
+  "successful": 20,
+  "blocked": 3,
+  "sources": [
+    {
+      "name": "Public Art Archive",
+      "status": "success",
+      "note": "首頁、搜尋與典藏頁可回讀；未直接採用未核對的人物紀念像"
+    },
+    {
+      "name": "Institute for Public Art",
+      "status": "success",
+      "note": "案例研究頁可回讀"
+    },
+    {
+      "name": "CODAworx",
+      "status": "success",
+      "note": "產業文章可回讀；未將彙整機會直接當官方簡章"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "status": "success",
+      "note": "公共藝術資源頁可回讀"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "status": "success",
+      "note": "Kunst am Bau 典藏說明可回讀"
+    },
+    {
+      "name": "bbk berlin · KiöR",
+      "status": "blocked",
+      "note": "搜尋可見但正文回讀受阻；未宣稱查核新案"
+    },
+    {
+      "name": "KORO",
+      "status": "success",
+      "note": "專案正文可回讀並採用4件作品"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "status": "success",
+      "note": "作品正文可回讀並採用6件作品"
+    },
+    {
+      "name": "MAPS",
+      "status": "success",
+      "note": "網站與作品索引可回讀"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "status": "success",
+      "note": "制度頁可回讀"
+    },
+    {
+      "name": "Public Art Fund",
+      "status": "success",
+      "note": "展覽個案正文可回讀並採用5件經典"
+    },
+    {
+      "name": "Creative Time",
+      "status": "success",
+      "note": "專案頁可回讀；本日無採用"
+    },
+    {
+      "name": "Artangel",
+      "status": "success",
+      "note": "專案頁可回讀；本日無採用"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "status": "blocked",
+      "note": "搜尋結果可見但指定正文回讀受阻"
+    },
+    {
+      "name": "Forecast Public Art",
+      "status": "success",
+      "note": "機會頁可回讀；候選均已存在Notion故排除"
+    },
+    {
+      "name": "Art Platform Japan",
+      "status": "success",
+      "note": "資料頁可回讀；未把一般展覽誤列公共藝術"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "status": "success",
+      "note": "作品與開放資訊可回讀"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "status": "success",
+      "note": "檔案頁可回讀"
+    },
+    {
+      "name": "Toronto · Public Art",
+      "status": "success",
+      "note": "城市公共藝術頁可回讀"
+    },
+    {
+      "name": "Vancouver · Public Art",
+      "status": "success",
+      "note": "城市登錄庫與機會頁可回讀"
+    },
+    {
+      "name": "Melbourne Open Data",
+      "status": "success",
+      "note": "資料集可回讀；排除傳統人物雕像與紀念物"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "status": "blocked",
+      "note": "搜尋可見文件，但首頁正文回讀受阻"
+    },
+    {
+      "name": "Land Art Flevoland",
+      "status": "success",
+      "note": "典藏、參訪與數位檔案頁可回讀；無重複新增專題作品"
+    }
+  ]
+}
