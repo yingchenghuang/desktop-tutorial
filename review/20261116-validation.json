@@ -34,6 +34,44 @@
     "nextCursor": "s:mcp_non_archived_fb0b11fd-89e5-42e9-bab6-79ff7bc71340:41634a20-271a-817f-96ed-f5f57b74118d"
   },
   "pagesEndpoints": {
-    "status": "pending deployment verification"
-  }
+    "status": "success",
+    "verifiedAt": "2026-11-16T05:48:00+08:00",
+    "homepage": {
+      "url": "https://yingchenghuang.github.io/desktop-tutorial/",
+      "loaded": true,
+      "latestDateVisible": "2026-11-16",
+      "searchChecks": {
+        "KYSMIK": "1 / 2705",
+        "BrownsvilleGateway": "1 / 2705"
+      }
+    },
+    "dailyPublicArt": {
+      "url": "https://yingchenghuang.github.io/desktop-tutorial/data/backfill-november-20261116.json",
+      "loaded": true,
+      "containsKYSMIK": true
+    },
+    "publicArtManifest": {
+      "url": "https://yingchenghuang.github.io/desktop-tutorial/data/backfill-november-manifest.json",
+      "loaded": true,
+      "version": "20261116-reviewed-r133",
+      "expectedEntries": 330
+    },
+    "competitions": {
+      "url": "https://yingchenghuang.github.io/desktop-tutorial/data/competitions.json",
+      "loaded": true,
+      "version": "20261116-reviewed-r133",
+      "activeEntries": 137
+    },
+    "competitionManifest": {
+      "url": "https://yingchenghuang.github.io/desktop-tutorial/data/competition-manifest.json",
+      "loaded": true,
+      "version": "20261116-reviewed-r133",
+      "activeEntries": 137
+    },
+    "workflowQuery": {
+      "runsReturned": 0,
+      "note": "GitHub connector未回傳本commit的workflow run；以五個公開端點的最新內容回讀作部署完成證據。"
+    }
+  },
+  "publishedCommit": "c9655aff5bf5361aadc77913157310c1fe2341ee"
 }
