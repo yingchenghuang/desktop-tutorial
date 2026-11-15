@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-16",
+  "version": "20261116-reviewed-r133",
+  "publicArt": {
+    "count": 20,
+    "distribution": "10/5/5",
+    "duplicateDedupeKeys": 0,
+    "missingRequiredFields": 0,
+    "cityKeywordsMissing": 0
+  },
+  "competitions": {
+    "addedToday": 5,
+    "activeEntries": 137,
+    "retainedExistingUnexpired": 132,
+    "expiredRemoved": 1,
+    "duplicateDedupeKeys": 0,
+    "expiredActive": 0,
+    "deadlineParseErrors": 0,
+    "timezoneOffsetMismatches": 0,
+    "cityKeywordsMissing": 0
+  },
+  "crossDatabase": {
+    "duplicateDedupeKeys": 0,
+    "relatedByCityInterface": "既有前端邏輯保留；新資料使用 cityKeywords 與 relatedByCity 欄位"
+  },
+  "notion": {
+    "returned": 100,
+    "today": 25,
+    "art": 20,
+    "competitions": 5,
+    "uniqueKeys": 25,
+    "duplicates": [],
+    "hasMore": true,
+    "nextCursor": "s:mcp_non_archived_fb0b11fd-89e5-42e9-bab6-79ff7bc71340:41634a20-271a-817f-96ed-f5f57b74118d"
+  },
+  "pagesEndpoints": {
+    "status": "pending deployment verification"
+  }
+}

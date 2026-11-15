@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-16",
+  "publicArt": {
+    "total": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    },
+    "excludedTraditionalFigurativeMonuments": 0,
+    "duplicateKeys": 0,
+    "missingRequiredFields": 0,
+    "cityKeywordsMissing": 0,
+    "sourcePolicy": "逐件第一方來源；歷史作品保留原始年份，未把更新日誤作創作日。",
+    "imagePolicy": "20筆皆有官方作品頁與頁面預覽連結；頁面可讀不代表原圖可再利用。"
+  },
+  "competitions": {
+    "added": 5,
+    "active": 137,
+    "expiredRemoved": 1,
+    "duplicateKeys": 0,
+    "expiredActive": 0,
+    "deadlineParseErrors": 0,
+    "timezoneOffsetMismatches": 0,
+    "legacyTimezoneCorrections": [
+      {
+        "id": "competition-2026-11-11-05",
+        "previousDeadline": "2027-01-15T23:59:00-06:00",
+        "correctedDeadline": "2027-01-15T23:59:00-07:00",
+        "checkedAt": "2026-11-16",
+        "note": "官方明載 11:59 pm MST；America/Edmonton 於1月為 UTC-07:00。"
+      },
+      {
+        "id": "competition-2026-11-11-02",
+        "previousDeadline": "2027-01-11T23:59:59-07:00",
+        "correctedDeadline": "2027-01-11T23:59:59-08:00",
+        "checkedAt": "2026-11-16",
+        "note": "官方僅公布日期；依主辦地當日23:59:59，America/Vancouver 於1月為 UTC-08:00。"
+      },
+      {
+        "id": "competition-2026-11-03-04",
+        "previousDeadline": "2026-11-25T16:30:00-06:00",
+        "correctedDeadline": "2026-11-25T16:30:00-07:00",
+        "checkedAt": "2026-11-16",
+        "note": "官方明載 4:30 pm MT；America/Edmonton 於11月25日為 UTC-07:00。"
+      }
+    ]
+  },
+  "notion": {
+    "returned": 100,
+    "today": 25,
+    "art": 20,
+    "competitions": 5,
+    "uniqueKeys": 25,
+    "duplicates": [],
+    "hasMore": true,
+    "nextCursor": "s:mcp_non_archived_fb0b11fd-89e5-42e9-bab6-79ff7bc71340:41634a20-271a-817f-96ed-f5f57b74118d"
+  }
+}
