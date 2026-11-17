@@ -5,10 +5,11 @@
     "kind": "supplement",
     "sourceType": "uploaded homepage HTML snapshot",
     "totalSourceRecords": 101,
-    "alreadyIn60or70": 29,
-    "newRecords": 72,
+    "alreadyIn60or70": 28,
+    "newRecords": 73,
     "allPhotosMatched": 101,
-    "notes": "本資料源為上傳的Museum der 1000 Orte首頁HTML，101個獨立作品頁與101張實際照片。僅代表此份首頁快照，非官網全量作品集。已匹配過去60/70周年者回填原資料，不新增重複卡。其他作品之城市、媒材與深度解析需進入子頁補齊。影像依網站來源標註權利，尚未確認轉載許可。"
+    "notes": "本資料源為上傳的Museum der 1000 Orte首頁HTML，101個獨立作品頁與101張實際照片。僅代表此份首頁快照，非官網全量作品集。已匹配過去60/70周年者回填原資料，不新增重複卡。其他作品之城市、媒材與深度解析需進入子頁補齊。影像依網站來源標註權利，尚未確認轉載許可。",
+    "correctedMappings": "Mary Bauermeister兩作品分開記錄；末筆Platzartikulation原首頁HTML跨標籤誤抓修正；Veronika Kellndorfer斜線複合題名修正"
   },
   "entries": [
     {
@@ -2962,6 +2963,45 @@
       "imageStatus": "已配對原始館藏攝影",
       "reviewStatus": "已核對上傳首頁HTML的作品／藝術家／圖片署名；內容頁詳述待確認",
       "existingRecord": null
+    },
+    {
+      "id": "museum-1000-orte-linsenrelief-und-vier-linsenobjekte",
+      "dedupeKey": "art:m1000:linsenrelief-und-vier-linsenobjekte",
+      "name": "Mary Bauermeister｜Linsenrelief und vier Linsenobjekte（1979）",
+      "artist": "Mary Bauermeister",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國聯邦建築／海外館舍（地點待核）",
+      "cityKeywords": [],
+      "media": [
+        "建築/場域"
+      ],
+      "works": "Linsenrelief und vier Linsenobjekte｜1979",
+      "comment": "Mary Bauermeister 的《Linsenrelief und vier Linsenobjekte》（1979）在 Museum der 1000 Orte 官方首頁獨立列為作品，與2010年選集的《Vier Glasstelen》為不同的題名，現已獨立建檔以避免將兩件作品混為一談。作品實際安置地點、媒材細節與創作背景仍需查閱官方作品內頁。",
+      "classicTitle": "Linsenrelief und vier Linsenobjekte｜1979",
+      "classicDesc": "Mary Bauermeister《Linsenrelief und vier Linsenobjekte》，1979。官方首頁具有作品照片及攝影署名，尚需補充實際場址與詳細媒材。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e078dac3ddfcb67d9785a2fdc507ef8446a85c36.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e078dac3ddfcb67d9785a2fdc507ef8446a85c36.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e078dac3ddfcb67d9785a2fdc507ef8446a85c36.jpg",
+          "caption": "Mary Bauermeister｜Linsenrelief und vier Linsenobjekte（1979）",
+          "credit": "Archiv BBR (1979)",
+          "kind": "官方原始作品攝影"
+        }
+      ],
+      "imageCredit": "Archiv BBR (1979)",
+      "imageRights": "官方照片著作權歸原作者與攝影者，公開重製須另經授權",
+      "imageStatus": "外部圖片對應已確認",
+      "imageVerification": "官網首頁HTML含同名作品連結、照片及攝影來源",
+      "status": "官方來源",
+      "updated": "2026-11-18",
+      "collectionSeries": "Museum der 1000 Orte｜官方首頁作品索引",
+      "researchGroup": "museum1000OrteSnapshot",
+      "reviewStatus": "圖片與題名已核對，詳情待個別官方作品頁確認"
     }
   ],
   "matchedExisting": [
@@ -3020,13 +3060,6 @@
       "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6ef560efb802445778c0a6191a4b1768967349a0.jpg",
       "credit": "BBR / Werner Huthmacher (2011)",
       "officialUrl": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schalenrelief"
-    },
-    {
-      "name": "Mary Bauermeister｜Linsenrelief und vier Linsenobjekte（1979）",
-      "id": "kunst-am-bau-60-31",
-      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e078dac3ddfcb67d9785a2fdc507ef8446a85c36.jpg",
-      "credit": "Archiv BBR (1979)",
-      "officialUrl": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte"
     },
     {
       "name": "Michael Wirkner｜o. T. (Wandgestaltung)（2000）",
@@ -3106,7 +3139,7 @@
       "officialUrl": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise"
     },
     {
-      "name": "Veronika Kellndorfer｜le regard extérieur（未註明）",
+      "name": "Veronika Kellndorfer｜le regard extérieur / le regard intérieur（2010）",
       "id": "kunst-am-bau-60-60",
       "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7a4b71b0828c3d7a383ca8d36b2005d5d2d660cf.jpg",
       "credit": "BBR / Ulrich Schwarz (2010)",
@@ -3162,10 +3195,10 @@
       "officialUrl": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/berlin"
     },
     {
-      "name": "Gabriele Grosse｜Arachnura Celeste（1979）",
+      "name": "Otto Herbert Hajek｜Platzartikulation（1976）",
       "id": "kunst-am-bau-70-12",
-      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/88c09d688fdff06c8504a6daebe39268755c628b.jpg",
-      "credit": "Archiv BBR (1980)",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/1441d3d3eaf9590e587def30f56923ecd3e9fd9c.jpg",
+      "credit": "Archiv BBR (1978)",
       "officialUrl": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation"
     }
   ],
@@ -3280,7 +3313,7 @@
       "officialUrl": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/linsenrelief-und-vier-linsenobjekte",
       "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e078dac3ddfcb67d9785a2fdc507ef8446a85c36.jpg",
       "credit": "Archiv BBR (1979)",
-      "match": "kunst-am-bau-60-31"
+      "match": null
     },
     {
       "name": "TRAK Wendisch｜Feld（未註明）",
@@ -3675,7 +3708,7 @@
       "match": null
     },
     {
-      "name": "Veronika Kellndorfer｜le regard extérieur（未註明）",
+      "name": "Veronika Kellndorfer｜le regard extérieur / le regard intérieur（2010）",
       "officialUrl": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/le-regard-exterieur-le-regard-interieur",
       "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7a4b71b0828c3d7a383ca8d36b2005d5d2d660cf.jpg",
       "credit": "BBR / Ulrich Schwarz (2010)",
@@ -3871,10 +3904,10 @@
       "match": "kunst-am-bau-60-48"
     },
     {
-      "name": "Gabriele Grosse｜Arachnura Celeste（1979）",
+      "name": "Otto Herbert Hajek｜Platzartikulation（1976）",
       "officialUrl": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
-      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/88c09d688fdff06c8504a6daebe39268755c628b.jpg",
-      "credit": "Archiv BBR (1980)",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/1441d3d3eaf9590e587def30f56923ecd3e9fd9c.jpg",
+      "credit": "Archiv BBR (1978)",
       "match": "kunst-am-bau-70-12"
     }
   ]
