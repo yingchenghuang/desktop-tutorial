@@ -1,6 +1,6 @@
 {
-  "version": "publicspace-20261117-gallery-notion-r2",
-  "generatedAt": "2026-11-17T20:22:29+08:00",
+  "version": "publicspace-20261117-automated",
+  "generatedAt": "2026-11-17T20:23:15+08:00",
   "files": [
     "publicspace-special-20261117.json",
     "publicspace-catalog.json"
@@ -8,12 +8,12 @@
   "activeEntries": 248,
   "source": "https://www.publicspace.org/en/works",
   "sourceReportedMoreThan": 438,
-  "ingestionStatus": "indexed-images-linked-review-pending",
+  "ingestionStatus": "unreviewed-automated",
   "notionSyncedEntries": 248,
   "notionPlatformEntries": 1,
   "excludedFromDailyPublicArt": true,
   "excludedFromCompetitions": true,
-  "note": "2026-11-17 Notion 圖片速讀逐頁回讀248筆且唯一Key248、主圖官方網址248。官方候選作品圖庫來源URL共4057張，逐頁建立影像引用；圖片權利與圖片內容逐張人工核驗尚未完成。歐洲公共空間獨立專題，不計入每日公共藝術或競圖。官方資料庫超過438件，仍有缺漏未全量匯入。",
+  "note": "官方專題候選案例自動採集並保存圖庫外連；Notion已同步數量依前次人工查核維持，新增案例需另行同步；逐張視覺檢驗及影像權利仍待完成。",
   "autoDiscoveredUrls": 250,
   "autoImportedEntries": 248,
   "humanReviewRequired": true,
