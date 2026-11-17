@@ -95,6 +95,24 @@ def discover():
             urls.update(found)
             stats[str(year) + "-" + section] = len(found)
             time.sleep(0.35)
+    # Inspect the official picture gallery markup before choosing a reusable image URL.
+    try:
+        sample_html = get(ROOT + "/en/works/-/project/n024-bridgefoot-street-park")
+        sample_doc = BeautifulSoup(sample_html, "html.parser")
+        stats["imageProbeBridgefoot"] = [
+            {"tag":tag.name,"attrs":{k:str(v)[:270] for k,v in tag.attrs.items()},
+             "parentClass":str(tag.parent.get("class",""))[:100] if tag.parent else ""}
+            for tag in sample_doc.find_all(["img","source","picture"])[:35]
+        ]
+        stats["imageProbeMeta"] = [
+            {"attrs":{k:str(v)[:220] for k,v in tag.attrs.items()}}
+            for tag in sample_doc.find_all("meta") if "image" in str(tag.attrs).lower()
+        ][:15]
+        stats["imageGallerySnippet"] = [
+            str(x)[:400] for x in sample_doc.find_all(attrs={"class":re.compile("gallery|carousel|slide|photo|image",re.I)})[:12]
+        ]
+    except Exception as e:
+        stats["imageProbeError"] = str(e)[:240]
     return sorted(urls), stats
 
 def line_value(text, key):
