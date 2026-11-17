@@ -69,31 +69,31 @@ jobs:
               anchor='      try {\n        const spaceManifest = await readJson(\'data/publicspace-manifest.json?t=\' + cacheKey);'
               assert anchor in html
               enrichment="""      try {
-        const museum = await readJson('data/museum-1000-orte-catalog.json?t=' + cacheKey);
-        const byId = new Map();
-        for (const item of entries) {
-          if (item.id) byId.set(String(item.id), item);
-          if (item.dedupeKey) byId.set(String(item.dedupeKey), item);
-        }
-        let sourceLinked = 0;
-        for (const relation of (museum.crossReferences || [])) {
-          const target = byId.get(String(relation.existingRecordId || '')) ||
-            byId.get(String(relation.existingDedupeKey || ''));
-          if (!target) continue;
-          target.museumOriginalWorkPage = relation.officialUrl;
-          if (!String(target.comment || '').includes('Museum der 1000 Orte')) {
-            target.comment = String(target.comment || '') + ' Museum der 1000 Orte 官方館藏另有作品原始記錄。';
-          }
-          sourceLinked++;
-        }
-        base.meta = Object.assign({}, base.meta || {}, {
-          museum1000OfficialTotal: (museum.sourceRecords || []).length,
-          museum1000Matched: sourceLinked
-        });
-      } catch (error) {
-        base.meta = Object.assign({}, base.meta || {}, { museum1000Status: 'unavailable' });
-      }
-"""
+                      const museum = await readJson('data/museum-1000-orte-catalog.json?t=' + cacheKey);
+                      const byId = new Map();
+                      for (const item of entries) {
+                        if (item.id) byId.set(String(item.id), item);
+                        if (item.dedupeKey) byId.set(String(item.dedupeKey), item);
+                      }
+                      let sourceLinked = 0;
+                      for (const relation of (museum.crossReferences || [])) {
+                        const target = byId.get(String(relation.existingRecordId || '')) ||
+                          byId.get(String(relation.existingDedupeKey || ''));
+                        if (!target) continue;
+                        target.museumOriginalWorkPage = relation.officialUrl;
+                        if (!String(target.comment || '').includes('Museum der 1000 Orte')) {
+                          target.comment = String(target.comment || '') + ' Museum der 1000 Orte 官方館藏另有作品原始記錄。';
+                        }
+                        sourceLinked++;
+                      }
+                      base.meta = Object.assign({}, base.meta || {}, {
+                        museum1000OfficialTotal: (museum.sourceRecords || []).length,
+                        museum1000Matched: sourceLinked
+                      });
+                    } catch (error) {
+                      base.meta = Object.assign({}, base.meta || {}, { museum1000Status: 'unavailable' });
+                    }
+              """
               html=html.replace(anchor,enrichment+anchor)
           # The museum catalog is a supplement, never included in the daily 20.
           # Bust the bundle cache, including all existing manifest and CSS asset URLs.
