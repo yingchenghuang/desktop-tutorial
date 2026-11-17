@@ -156,7 +156,7 @@ def make_entry(s):
     comment=("德國聯邦建築藝術典藏「Museum der 1000 Orte」收錄作品。"
              +("創作者："+artist+"；" if artist else "")
              +("作品：《"+title+"》；" if title else "")
-             +("官方標示年代："+s.get("year","未載")+"；"
+             +"官方標示年代："+s.get("year","未載")+"；"
              +("城市："+city+"；" if city else "")
              +"媒材類型："+med+"。詳細創作脈絡及建築背景請參照此件作品的官方獨立介紹頁。")
     image_sources=s.get("imageSources",[])
