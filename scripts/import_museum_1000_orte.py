@@ -122,7 +122,7 @@ def official_data(url):
             "imageSources":images,"artistPage":artist_page,"headings":headings[:12],"access":access,
             "textIndicators":full[:480],"descriptionParagraphCount":len(paras)}
 def existing_index():
-    urls=set();namekeys=set()
+    urls={};namekeys={}
     files=[Path("data/artists.json")]+list(Path("data").glob("backfill-*.json"))+list(Path("data").glob("*special*.json"))
     for p in files:
         if p==DEST or not p.exists():continue
@@ -131,16 +131,17 @@ def existing_index():
         except:continue
         for item in obj.get("entries",[]) if isinstance(obj,dict) else []:
             if not isinstance(item,dict):continue
+            ref={"id":item.get("id",""),"dedupeKey":item.get("dedupeKey",""),"file":str(p),"name":item.get("name","")}
             for field in ("website","workPage","artistStatementSource"):
                 u=link_of(item.get(field,""))
-                if u:urls.add(u)
+                if u:urls.setdefault(u,ref)
             a=item.get("artist","")
             w=item.get("works","")
             if not a and "｜" in item.get("name",""):
                 a=item["name"].split("｜")[0]
             if w:w=w.split("｜")[0]
             elif "｜" in item.get("name",""):w=item["name"].split("｜")[1].split("（")[0]
-            if a and w:namekeys.add(norm(a)+"_"+norm(w))
+            if a and w:namekeys.setdefault(norm(a)+"_"+norm(w),ref)
     return urls,namekeys
 def make_entry(s):
     u=s["url"];slug=u.rsplit("/",1)[-1];artist=s.get("artist","");title=s.get("work","")
@@ -220,14 +221,22 @@ def main():
         except:pass
     existing_urls={e.get("website") for e in prior.get("entries",[])} if prior else set()
     new=[];cross=[];duplicate_new=set()
-    for s in records:
-        key=norm(s["artist"])+"_"+norm(s["work"])
-        if s["url"] in u0 or key in n0:
-            cross.append({"officialUrl":s["url"],"artist":s["artist"],"work":s["work"],"reason":"Existing site record; linked, not republished"})
+    for artwork in records:
+        key=norm(artwork["artist"])+"_"+norm(artwork["work"])
+        match=u0.get(artwork["url"]) or n0.get(key)
+        if match:
+            cross.append({"officialUrl":artwork["url"],"artist":artwork["artist"],"work":artwork["work"],
+                "year":artwork["year"],"location":artwork.get("location",""),
+                "imageCredit":artwork.get("imageCredit",""),
+                "imageSources":artwork.get("imageSources",[])[:5],
+                "officialDescriptionExcerpt":artwork.get("descriptionExcerpt","")[:150],
+                "reason":"exact official URL" if artwork["url"] in u0 else "artist and work title",
+                "existingRecordId":match.get("id"),"existingDedupeKey":match.get("dedupeKey"),
+                "existingDataFile":match.get("file")})
             continue
-        if s["url"] in duplicate_new:continue
-        duplicate_new.add(s["url"])
-        new.append(make_entry(s))
+        if artwork["url"] in duplicate_new:continue
+        duplicate_new.add(artwork["url"])
+        new.append(make_entry(artwork))
     for e in new:
         e["relatedByCity"]=[x["id"] for x in new if x["id"]!=e["id"] and e["cityKeywords"] and x["cityKeywords"]==e["cityKeywords"]][:18]
     if prior:
@@ -242,8 +251,14 @@ def main():
       "worksWithImageSourceLinks":images,"imagesRepublished":0,
       "scope":"Official museum records, excluding duplicates against existing published entries",
       "note":"Independent works have detailed original page URLs and image source references. No copyrighted images have been copied; translations and media rights remain to be reviewed.",
-      "status":"source-indexed, license-review-pending"},"entries":new,"crossReferences":cross}
-    if not new:raise RuntimeError("No unique new records; review required")
+      "status":"source-indexed, license-review-pending"},"entries":new,"crossReferences":cross,
+      "sourceRecords":[{"artist":r["artist"],"title":r["work"],"year":r["year"],"city":r.get("location",""),
+        "officialUrl":r["url"],"artistPage":r.get("artistPage",""),"technique":r.get("category",""),
+        "imageSources":r.get("imageSources",[])[:7],"imageCredit":r.get("imageCredit",""),
+        "accessNote":r.get("access",""),"sourceExcerpt":r.get("descriptionExcerpt","")[:120]} for r in records]}
+    if len(records)!=(len(new)+len(cross)):
+        raise RuntimeError("Total official records not accounted for")
+    if not new and not prior:raise RuntimeError("No unique new records; review required")
     DEST.parent.mkdir(exist_ok=True);AUDIT.parent.mkdir(exist_ok=True)
     DEST.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     MANIFEST.write_text(json.dumps({"version":TODAY+"-source-research","generatedAt":NOW,
@@ -251,7 +266,7 @@ def main():
        "imagesRepublished":0,"duplicatesLinked":len(cross),
        "sourceUrl":LIST,"rights":RULES,"reviewStatus":"著作權與研究查核中"},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     AUDIT.write_text(json.dumps({"sourceReportedCount":expected,"sourceLinksFound":len(urls),"parsed":len(records),
-      "failedPages":fail_pages,"failedDetails":errors,"duplicates":cross,
+      "failedPages":fail_pages,"failedDetails":errors,"duplicates":cross,"existingUrlMatchCount":sum(x["reason"]=="exact official URL" for x in cross),"existingNameMatchCount":sum(x["reason"]=="artist and work title" for x in cross),
       "imageExamples":[{"title":x["name"],"images":x["imageSources"][:1]} for x in new if x.get("imageSources")][:10]},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("RESULT",json.dumps(payload["meta"],ensure_ascii=False),flush=True)
 if __name__=="__main__":main()
