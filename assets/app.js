@@ -377,6 +377,12 @@
         title: '公開徵選',
         note: 'Open calls',
         entries: list.filter(function (e) { return e.tier === '競圖資料庫'; })
+      },
+      {
+        id: 'publicspace-cases',
+        title: '歐洲公共空間',
+        note: 'PublicSpace / CCCB · 都市公共空間與設計案例',
+        entries: list.filter(function (e) { return e.tier === '公共空間案例庫'; })
       }
     ];
     var cardIndex = 0;
