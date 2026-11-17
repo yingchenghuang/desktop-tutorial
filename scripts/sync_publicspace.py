@@ -80,6 +80,10 @@ def discover():
                 if unchanged >= 8:
                     break
             stats["worksBrowser"] = len(urls)
+            stats["indexButtons"] = [x.strip()[:90] for x in page.locator("button").all_text_contents() if x.strip()][:90]
+            stats["indexForms"] = page.locator("form").evaluate_all("(nodes) => nodes.slice(0,10).map(n => ({action:n.action,method:n.method,id:n.id}))")
+            stats["paginationLinks"] = page.locator("a[href]").evaluate_all("""(nodes) => nodes.filter(n => /next|more|page|cur=|delta=|pagination|^\\s*[23456789]\\s*$/i.test((n.textContent||'')+' '+n.href+' '+n.className)).slice(0,70).map(n => ({text:(n.textContent||'').trim().slice(0,60),href:n.href,className:String(n.className).slice(0,100)}))""")
+            stats["indexCardLinks"] = page.locator('a[href*="/works/-/project/"]').evaluate_all("(nodes) => nodes.slice(0,18).map(n=>({text:(n.textContent||'').trim().slice(0,80),href:n.href}))")
             browser.close()
     except Exception as e:
         stats["browserError"] = str(e)[:240]
