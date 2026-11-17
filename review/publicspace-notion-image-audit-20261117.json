@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-17",
+  "checkedAt": "2026-11-17T20:22:29+08:00",
+  "source": "Notion 圖片速讀 saved view; GitHub main data/publicspace-catalog.json",
+  "officialSite": "https://www.publicspace.org/en/works",
+  "notionDatabase": "https://app.notion.com/p/d1232d1e8e284745a0d14cd7d911ec62",
+  "notionView": "view://39134a20-271a-8171-b4cb-000c82179e5d",
+  "notionReview": {
+    "pagesRead": 3,
+    "rowsRead": 300,
+    "uniquePublicSpaceRows": 248,
+    "uniqueDedupeKeys": 248,
+    "duplicateKeyCount": 0,
+    "missingImageUrlCount": 0,
+    "officialImageUrlCount": 248,
+    "spotCheckGallery": {
+      "publicspace:n024-bridgefoot-street-park": 20,
+      "publicspace:p432-microdams": 2
+    },
+    "note": "Gallery image blocks on sampled pages were read back. Other entries created or updated successfully and each main image URL was verified in view metadata."
+  },
+  "githubArchive": {
+    "candidateCaseCount": 248,
+    "imagesReferenced": 4057,
+    "allCasesHaveGallery": true,
+    "imageURLVerification": "extracted from official page, not individually HTTP verified",
+    "imagesCopiedToGitHub": 0
+  },
+  "excludedFromDailyPublicArt": true,
+  "excludedFromCompetitions": true,
+  "incomplete": {
+    "officialCaseCount": "over 438 according to PublicSpace",
+    "missingOfficialCasesAtLeast": 190,
+    "rightsAudit": true,
+    "fullContentAudit": true,
+    "allImageHTTPAudit": true
+  }
+}

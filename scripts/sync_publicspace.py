@@ -295,10 +295,14 @@ def main():
        "autoImportedEntries":len(records),"ingestionStatus":"unreviewed-automated",
        "imageRecords":image_record_count,"imageTotal":image_total,
        "imageMissing":image_missing,"imageRightsReviewed":False,
-       "notionSyncedEntries":7,"notionPlatformEntries":1,
+       "notionSyncedEntries":min(manifest.get("notionSyncedEntries", 7),len(unique)),
+       "notionGalleryLinkedEntries":min(manifest.get("notionGalleryLinkedEntries", 7),len(unique)),
+       "notionGalleryImageLinks":manifest.get("notionGalleryImageLinks", 0),
+       "notionSyncVerifiedAt":manifest.get("notionSyncVerifiedAt", "未驗證"),
+       "notionPlatformEntries":1,
        "humanReviewRequired":True,"excludedFromDailyPublicArt":True,
        "excludedFromCompetitions":True,
-       "note":"全站候選案例自動採集，未完成全量逐筆人工驗收及Notion同步；不能把此數量當作已核對的公共藝術作品。"})
+       "note":"官方專題候選案例自動採集並保存圖庫外連；Notion已同步數量依前次人工查核維持，新增案例需另行同步；逐張視覺檢驗及影像權利仍待完成。"})
     MANIFEST.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print(json.dumps(report,ensure_ascii=False),flush=True)
     return 0
