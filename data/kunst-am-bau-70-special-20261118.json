@@ -10,8 +10,10 @@
     "total": 59,
     "newUniqueRecords": 46,
     "alreadyIn60Anniversary": 13,
-    "imageEntries": 0,
-    "notes": "從2020年316頁官方圖錄公開目錄頁完整建檔59個作品項目，當中13件與2010年60週年選集作品重疊並連回既有條目；46件提供網站獨立卡片。正式作品名非目錄所載，留待逐件補充；未使用無授權圖片。"
+    "imageEntries": 24,
+    "notes": "2020年70週年圖錄59個案例，46筆獨立卡片，13筆與2010年重疊。已為24件查核正式作品名稱、個別作品頁、外部原始攝影網址、圖說及中文論述；其餘待補。外部圖片需逐件確認公開展示授權。",
+    "enrichedWithSourceImages": 24,
+    "researchStatus": "已為24件查核正式作品名稱、個別作品頁、外部原始攝影網址、圖說及中文論述；其餘待補。外部圖片需逐件確認公開展示授權。"
   },
   "entries": [
     {
@@ -62,7 +64,7 @@
     {
       "id": "kunst-am-bau-70-03",
       "dedupeKey": "art:kab70-03",
-      "name": "Max Lingner｜Haus der Ministerien Berlin（1953；作品名待核）",
+      "name": "Max Lingner｜Aufbau der Republik（1952/1953）",
       "artist": "Max Lingner",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -73,21 +75,35 @@
         "柏林"
       ],
       "media": [
+        "壁畫/街頭",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1953",
+      "works": "Aufbau der Republik｜1952/1953",
       "workSite": "Haus der Ministerien Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第74–75頁。藝術家 Max Lingner；1953 年；建築場址 Haus der Ministerien Berlin。歸屬章節「新國家的建築藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Max Lingner｜Haus der Ministerien Berlin｜1953",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第74–75頁。藝術家 Max Lingner；1953 年；建築場址 Haus der Ministerien Berlin。歸屬章節「新國家的建築藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "這幅長達24公尺的壁畫置於前東德「各部會大樓」，現為德國聯邦財政部所在地。1952年製作的群眾行進場景結合工業、農業與青年組織形象，於1953年揭幕，讓原納粹航空部建築獲得新的國家敘事。前廣場後來加入紀念1953年東德起義的作品，令官方圖像與反抗記憶彼此對照。",
+      "classicTitle": "Aufbau der Republik｜1952/1953",
+      "classicDesc": "這幅長達24公尺的壁畫置於前東德「各部會大樓」，現為德國聯邦財政部所在地。1952年製作的群眾行進場景結合工業、農業與青年組織形象，於1953年揭幕，讓原納粹航空部建築獲得新的國家敘事。前廣場後來加入紀念1953年東德起義的作品，令官方圖像與反抗記憶彼此對照。 媒材：Meissen 瓷磚壁畫。原址：Haus der Ministerien Berlin（德國 / Berlin）。2020年圖錄第74–75頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufbau-der-republik",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufbau-der-republik",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ac6103cea4c96c54b8c79dc582a250beb076fd13.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ac6103cea4c96c54b8c79dc582a250beb076fd13.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ac6103cea4c96c54b8c79dc582a250beb076fd13.jpg",
+          "caption": "Aufbau der Republik｜1952/1953",
+          "credit": "BBR / Cordia Schlegelmilch（2016）",
+          "kind": "第一方作品攝影"
+        },
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fefde7aed7a1f64e7c801042954a49fb20539c4e.jpg",
+          "caption": "Aufbau der Republik 現場視角 2",
+          "credit": "BBR / Cordia Schlegelmilch（2016）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Cordia Schlegelmilch（2016）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -95,12 +111,12 @@
       "publication": "BMI/BBR, Deutscher Kunstverlag, 2020, ISBN 978-3-422-98617-6",
       "bookPageRange": "74–75",
       "section": "新國家的建築藝術",
-      "originalDate": "1953",
+      "originalDate": "1952/1953",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-07",
         "kunst-am-bau-70-08",
@@ -115,7 +131,11 @@
         "kunst-am-bau-70-23",
         "kunst-am-bau-70-24"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Aufbau der Republik",
+      "material": "Meissen 瓷磚壁畫",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aufbau-der-republik"
     },
     {
       "id": "kunst-am-bau-70-05",
@@ -165,7 +185,7 @@
     {
       "id": "kunst-am-bau-70-06",
       "dedupeKey": "art:kab70-06",
-      "name": "Hans Wimmer｜Bundesministerium für das Post- und Fernmeldewesen Bonn（1957；作品名待核）",
+      "name": "Hans Wimmer｜Fünf Erdteile（1957）",
       "artist": "Hans Wimmer",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -176,21 +196,29 @@
         "波昂"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1957",
+      "works": "Fünf Erdteile｜1957",
       "workSite": "Bundesministerium für das Post- und Fernmeldewesen Bonn",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第80–81頁。藝術家 Hans Wimmer；1957 年；建築場址 Bundesministerium für das Post- und Fernmeldewesen Bonn。歸屬章節「新國家的建築藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Hans Wimmer｜Bundesministerium für das Post- und Fernmeldewesen Bonn｜1957",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第80–81頁。藝術家 Hans Wimmer；1957 年；建築場址 Bundesministerium für das Post- und Fernmeldewesen Bonn。歸屬章節「新國家的建築藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "以公牛、老鷹、大象、獅子和袋鼠分別象徵歐洲、美洲、亞洲、非洲、大洋洲，設於波昂郵政部建築的萊茵河側牆。作品將郵政聯絡世界的功能轉為具象動物語言，延續藝術家在戰後德國雕塑中的寫實立場。",
+      "classicTitle": "Fünf Erdteile｜1957",
+      "classicDesc": "以公牛、老鷹、大象、獅子和袋鼠分別象徵歐洲、美洲、亞洲、非洲、大洋洲，設於波昂郵政部建築的萊茵河側牆。作品將郵政聯絡世界的功能轉為具象動物語言，延續藝術家在戰後德國雕塑中的寫實立場。 媒材：青銅動物雕塑，五件。原址：Bundesministerium für das Post- und Fernmeldewesen Bonn（德國 / Bonn）。2020年圖錄第80–81頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-erdteile",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-erdteile",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/10783d58fc278fe8326d2b646f46a5703cb5b413.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/10783d58fc278fe8326d2b646f46a5703cb5b413.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/10783d58fc278fe8326d2b646f46a5703cb5b413.jpg",
+          "caption": "Fünf Erdteile｜1957",
+          "credit": "BBR / Anja Schlamann（2010）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Anja Schlamann（2010）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -200,10 +228,10 @@
       "section": "新國家的建築藝術",
       "originalDate": "1957",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-04",
         "kunst-am-bau-70-09",
@@ -213,7 +241,11 @@
         "kunst-am-bau-70-16",
         "kunst-am-bau-70-17"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Fünf Erdteile",
+      "material": "青銅動物雕塑，五件",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/funf-erdteile"
     },
     {
       "id": "kunst-am-bau-70-07",
@@ -276,7 +308,7 @@
     {
       "id": "kunst-am-bau-70-08",
       "dedupeKey": "art:kab70-08",
-      "name": "Walter Womacka｜Staatsratsgebäude Berlin（1964；作品名待核）",
+      "name": "Walter Womacka｜Aus der Geschichte der deutschen Arbeiterbewegung（1964）",
       "artist": "Walter Womacka",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -287,21 +319,35 @@
         "柏林"
       ],
       "media": [
+        "壁畫/街頭",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1964",
+      "works": "Aus der Geschichte der deutschen Arbeiterbewegung｜1964",
       "workSite": "Staatsratsgebäude Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第102–103頁。藝術家 Walter Womacka；1964 年；建築場址 Staatsratsgebäude Berlin。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Walter Womacka｜Staatsratsgebäude Berlin｜1964",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第102–103頁。藝術家 Walter Womacka；1964 年；建築場址 Staatsratsgebäude Berlin。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "位於前東德國務委員會大樓主樓梯間的三層高玻璃作品，以工人、家庭、鴿子及社會主義運動人物構成歷史敘事。彩色玻璃貼附於大片透明玻璃，讓現代玻璃帷幕與社會主義寫實圖像並置，也記錄了東德將政治象徵融入建築的方式。",
+      "classicTitle": "Aus der Geschichte der deutschen Arbeiterbewegung｜1964",
+      "classicDesc": "位於前東德國務委員會大樓主樓梯間的三層高玻璃作品，以工人、家庭、鴿子及社會主義運動人物構成歷史敘事。彩色玻璃貼附於大片透明玻璃，讓現代玻璃帷幕與社會主義寫實圖像並置，也記錄了東德將政治象徵融入建築的方式。 媒材：彩色玻璃窗，約180平方公尺。原址：Staatsratsgebäude Berlin（德國 / Berlin）。2020年圖錄第102–103頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aus-der-geschichte-der-deutschen-arbeiterbewegung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aus-der-geschichte-der-deutschen-arbeiterbewegung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/249f2028928a7367af8441cc4d967a93f5bb7918.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/249f2028928a7367af8441cc4d967a93f5bb7918.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/249f2028928a7367af8441cc4d967a93f5bb7918.jpg",
+          "caption": "Aus der Geschichte der deutschen Arbeiterbewegung｜1964",
+          "credit": "BBR / Cordia Schlegelmilch（2017）",
+          "kind": "第一方作品攝影"
+        },
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5192b58f807b8cf203200835f31b586842f9e537.jpg",
+          "caption": "Aus der Geschichte der deutschen Arbeiterbewegung 現場視角 2",
+          "credit": "BBR / Cordia Schlegelmilch（2017）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Cordia Schlegelmilch（2017）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -311,10 +357,10 @@
       "section": "國家建設與自由",
       "originalDate": "1964",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -329,12 +375,16 @@
         "kunst-am-bau-70-23",
         "kunst-am-bau-70-24"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Aus der Geschichte der deutschen Arbeiterbewegung",
+      "material": "彩色玻璃窗，約180平方公尺",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/aus-der-geschichte-der-deutschen-arbeiterbewegung"
     },
     {
       "id": "kunst-am-bau-70-09",
       "dedupeKey": "art:kab70-09",
-      "name": "Angelika Baasner-Matussek｜Abgeordnetenhochhaus Deutscher Bundestag Bonn（1969/1970；作品名待核）",
+      "name": "Angelika Baasner-Matussek｜Schalenrelief（1970）",
       "artist": "Angelika Baasner-Matussek",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -345,21 +395,29 @@
         "波昂"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1969/1970",
+      "works": "Schalenrelief｜1970",
       "workSite": "Abgeordnetenhochhaus Deutscher Bundestag Bonn",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第104–105頁。藝術家 Angelika Baasner-Matussek；1969/1970 年；建築場址 Abgeordnetenhochhaus Deutscher Bundestag Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Angelika Baasner-Matussek｜Abgeordnetenhochhaus Deutscher Bundestag Bonn｜1969/1970",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第104–105頁。藝術家 Angelika Baasner-Matussek；1969/1970 年；建築場址 Abgeordnetenhochhaus Deutscher Bundestag Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "以日常茶碗為立體單元，依45度轉角與多階段旋轉重複排列，形成接近歐普藝術的波動效果。原設在波昂「Langer Eugen」國會高樓餐飲空間，作品回應建築模矩網格，讓理性的外牆秩序產生輕盈的視覺運動。",
+      "classicTitle": "Schalenrelief｜1970",
+      "classicDesc": "以日常茶碗為立體單元，依45度轉角與多階段旋轉重複排列，形成接近歐普藝術的波動效果。原設在波昂「Langer Eugen」國會高樓餐飲空間，作品回應建築模矩網格，讓理性的外牆秩序產生輕盈的視覺運動。 媒材：陶瓷茶碗浮雕。原址：Abgeordnetenhochhaus Deutscher Bundestag Bonn（德國 / Bonn）。2020年圖錄第104–105頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schalenrelief",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schalenrelief",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6ef560efb802445778c0a6191a4b1768967349a0.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6ef560efb802445778c0a6191a4b1768967349a0.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6ef560efb802445778c0a6191a4b1768967349a0.jpg",
+          "caption": "Schalenrelief｜1970",
+          "credit": "BBR / Werner Huthmacher（2011）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Werner Huthmacher（2011）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -367,12 +425,12 @@
       "publication": "BMI/BBR, Deutscher Kunstverlag, 2020, ISBN 978-3-422-98617-6",
       "bookPageRange": "104–105",
       "section": "國家建設與自由",
-      "originalDate": "1969/1970",
+      "originalDate": "1970",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-04",
         "kunst-am-bau-70-06",
@@ -382,12 +440,16 @@
         "kunst-am-bau-70-16",
         "kunst-am-bau-70-17"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Schalenrelief",
+      "material": "陶瓷茶碗浮雕",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/schalenrelief"
     },
     {
       "id": "kunst-am-bau-70-10",
       "dedupeKey": "art:kab70-10",
-      "name": "Ronald Paris｜Haus der Statistik Berlin（1969/1970；作品名待核）",
+      "name": "Ronald Paris｜Lob des Kommunismus（1969–1970）",
       "artist": "Ronald Paris",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -398,21 +460,29 @@
         "柏林"
       ],
       "media": [
+        "壁畫/街頭",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1969/1970",
+      "works": "Lob des Kommunismus｜1969–1970",
       "workSite": "Haus der Statistik Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第106–107頁。藝術家 Ronald Paris；1969/1970 年；建築場址 Haus der Statistik Berlin。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Ronald Paris｜Haus der Statistik Berlin｜1969/1970",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第106–107頁。藝術家 Ronald Paris；1969/1970 年；建築場址 Haus der Statistik Berlin。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Ronald Paris為東柏林「統計大樓」會議廳創作大型壁畫，題材取自布萊希特詩作，並融入工人、知識分子與政治寓言。作品原本限制公眾接近，後來移至柏林DDR Museum展示；這個轉換反映了東德政治藝術由國家內部宣示轉為公共歷史研究的過程。",
+      "classicTitle": "Lob des Kommunismus｜1969–1970",
+      "classicDesc": "Ronald Paris為東柏林「統計大樓」會議廳創作大型壁畫，題材取自布萊希特詩作，並融入工人、知識分子與政治寓言。作品原本限制公眾接近，後來移至柏林DDR Museum展示；這個轉換反映了東德政治藝術由國家內部宣示轉為公共歷史研究的過程。 媒材：壓克力／分散染料與顏料壁畫。原址：Haus der Statistik Berlin（德國 / Berlin）。2020年圖錄第106–107頁。",
+      "website": "https://www.ddr-museum.de/de/objects/1005667",
+      "workPage": "https://www.ddr-museum.de/de/objects/1005667",
+      "photo": "https://www.ddr-museum.de/application/files/thumbnails/content_image/1516/9148/3375/ddr-museum-haus-der-statistik-lob-des-kommunismus_1.webp",
+      "classicImage": "https://www.ddr-museum.de/application/files/thumbnails/content_image/1516/9148/3375/ddr-museum-haus-der-statistik-lob-des-kommunismus_1.webp",
+      "images": [
+        {
+          "url": "https://www.ddr-museum.de/application/files/thumbnails/content_image/1516/9148/3375/ddr-museum-haus-der-statistik-lob-des-kommunismus_1.webp",
+          "caption": "Lob des Kommunismus｜1969–1970",
+          "credit": "DDR Museum Berlin",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "DDR Museum Berlin",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -420,12 +490,12 @@
       "publication": "BMI/BBR, Deutscher Kunstverlag, 2020, ISBN 978-3-422-98617-6",
       "bookPageRange": "106–107",
       "section": "國家建設與自由",
-      "originalDate": "1969/1970",
+      "originalDate": "1969–1970",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -440,7 +510,11 @@
         "kunst-am-bau-70-23",
         "kunst-am-bau-70-24"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Lob des Kommunismus",
+      "material": "壓克力／分散染料與顏料壁畫",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.ddr-museum.de/de/objects/1005667"
     },
     {
       "id": "kunst-am-bau-70-11",
@@ -503,7 +577,7 @@
     {
       "id": "kunst-am-bau-70-12",
       "dedupeKey": "art:kab70-12",
-      "name": "Otto Herbert Hajek｜Bundesministerium für Ernährung und Landwirtschaft Bonn（1976；作品名待核）",
+      "name": "Otto Herbert Hajek｜Platzartikulation（1976）",
       "artist": "Otto Herbert Hajek",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -514,21 +588,35 @@
         "波昂"
       ],
       "media": [
+        "地景/大地藝術",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1976",
+      "works": "Platzartikulation｜1976",
       "workSite": "Bundesministerium für Ernährung und Landwirtschaft Bonn",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第110–111頁。藝術家 Otto Herbert Hajek；1976 年；建築場址 Bundesministerium für Ernährung und Landwirtschaft Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Otto Herbert Hajek｜Bundesministerium für Ernährung und Landwirtschaft Bonn｜1976",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第110–111頁。藝術家 Otto Herbert Hajek；1976 年；建築場址 Bundesministerium für Ernährung und Landwirtschaft Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Hajek把波昂聯邦農業部建築的正交模矩旋轉成45度，運用紅、黃、藍色域、三角形與圓形組織前廣場及入口動線。中央噴泉與金屬立柱將藝術從單件雕塑擴大成整體場域設計，室內地毯與牆面也呼應戶外幾何語言。",
+      "classicTitle": "Platzartikulation｜1976",
+      "classicDesc": "Hajek把波昂聯邦農業部建築的正交模矩旋轉成45度，運用紅、黃、藍色域、三角形與圓形組織前廣場及入口動線。中央噴泉與金屬立柱將藝術從單件雕塑擴大成整體場域設計，室內地毯與牆面也呼應戶外幾何語言。 媒材：彩色幾何鋪面、金屬立柱及噴泉。原址：Bundesministerium für Ernährung und Landwirtschaft Bonn（德國 / Bonn）。2020年圖錄第110–111頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/1441d3d3eaf9590e587def30f56923ecd3e9fd9c.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/1441d3d3eaf9590e587def30f56923ecd3e9fd9c.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/1441d3d3eaf9590e587def30f56923ecd3e9fd9c.jpg",
+          "caption": "Platzartikulation｜1976",
+          "credit": "BBR 檔案（1978）",
+          "kind": "第一方作品攝影"
+        },
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/25ec46e3ea1a75930ab3e14fb8a2960473c8d381.jpg",
+          "caption": "Platzartikulation 現場視角 2",
+          "credit": "BBR 檔案（1978）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR 檔案（1978）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -538,10 +626,10 @@
       "section": "國家建設與自由",
       "originalDate": "1976",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-04",
         "kunst-am-bau-70-06",
@@ -551,12 +639,16 @@
         "kunst-am-bau-70-16",
         "kunst-am-bau-70-17"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Platzartikulation",
+      "material": "彩色幾何鋪面、金屬立柱及噴泉",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation"
     },
     {
       "id": "kunst-am-bau-70-13",
       "dedupeKey": "art:kab70-13",
-      "name": "Ansgar Nierhoff｜Bundesministerien der Justiz, Bildung, Forschung Kreuzbauten Bonn（1977；作品名待核）",
+      "name": "Ansgar Nierhoff｜Plastische Kreuzung（1977）",
       "artist": "Ansgar Nierhoff",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -567,21 +659,29 @@
         "波昂"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1977",
+      "works": "Plastische Kreuzung｜1977",
       "workSite": "Bundesministerien der Justiz, Bildung, Forschung Kreuzbauten Bonn",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第112–113頁。藝術家 Ansgar Nierhoff；1977 年；建築場址 Bundesministerien der Justiz, Bildung, Forschung Kreuzbauten Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Ansgar Nierhoff｜Bundesministerien der Justiz, Bildung, Forschung Kreuzbauten Bonn｜1977",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第112–113頁。藝術家 Ansgar Nierhoff；1977 年；建築場址 Bundesministerien der Justiz, Bildung, Forschung Kreuzbauten Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "這件曾在1977年第六屆卡塞爾文件展亮相的作品，後安置於波昂聯邦部會「Kreuzbauten」下沉中庭。大型不鏽鋼十字結構與中庭邊界及階梯平行呼應，建築自身的交通、尺度與中軸關係成為藝術的延伸。",
+      "classicTitle": "Plastische Kreuzung｜1977",
+      "classicDesc": "這件曾在1977年第六屆卡塞爾文件展亮相的作品，後安置於波昂聯邦部會「Kreuzbauten」下沉中庭。大型不鏽鋼十字結構與中庭邊界及階梯平行呼應，建築自身的交通、尺度與中軸關係成為藝術的延伸。 媒材：不鏽鋼大型雕塑，約20公尺尺度。原址：Bundesministerien der Justiz, Bildung, Forschung Kreuzbauten Bonn（德國 / Bonn）。2020年圖錄第112–113頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/plastische-kreuzung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/plastische-kreuzung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/f3f00f5be2e567febdd060247a8b7bcd2d300461.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/f3f00f5be2e567febdd060247a8b7bcd2d300461.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/f3f00f5be2e567febdd060247a8b7bcd2d300461.jpg",
+          "caption": "Plastische Kreuzung｜1977",
+          "credit": "Michael Goergen（2005）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "Michael Goergen（2005）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -591,10 +691,10 @@
       "section": "國家建設與自由",
       "originalDate": "1977",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-04",
         "kunst-am-bau-70-06",
@@ -604,7 +704,11 @@
         "kunst-am-bau-70-16",
         "kunst-am-bau-70-17"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Plastische Kreuzung",
+      "material": "不鏽鋼大型雕塑，約20公尺尺度",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/plastische-kreuzung"
     },
     {
       "id": "kunst-am-bau-70-15",
@@ -720,7 +824,7 @@
     {
       "id": "kunst-am-bau-70-17",
       "dedupeKey": "art:kab70-17",
-      "name": "Rebecca Horn｜Plenarbereich Deutscher Bundestag Bonn（1997；作品名待核）",
+      "name": "Rebecca Horn｜Mondfluss（1997）",
       "artist": "Rebecca Horn",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -731,21 +835,29 @@
         "波昂"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1997",
+      "works": "Mondfluss｜1997",
       "workSite": "Plenarbereich Deutscher Bundestag Bonn",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第120–121頁。藝術家 Rebecca Horn；1997 年；建築場址 Plenarbereich Deutscher Bundestag Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Rebecca Horn｜Plenarbereich Deutscher Bundestag Bonn｜1997",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第120–121頁。藝術家 Rebecca Horn；1997 年；建築場址 Plenarbereich Deutscher Bundestag Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Rebecca Horn為波昂新議事廳創作的《Mondfluss》以液態金屬的意象穿越室內與周邊景觀。作品於兩德統一、首都遷往柏林的歷史轉折後完成，使原本象徵新國會的建築與時間、記憶和流動的意象產生關係。",
+      "classicTitle": "Mondfluss｜1997",
+      "classicDesc": "Rebecca Horn為波昂新議事廳創作的《Mondfluss》以液態金屬的意象穿越室內與周邊景觀。作品於兩德統一、首都遷往柏林的歷史轉折後完成，使原本象徵新國會的建築與時間、記憶和流動的意象產生關係。 媒材：水銀、水流與金屬場域裝置。原址：Plenarbereich Deutscher Bundestag Bonn（德國 / Bonn）。2020年圖錄第120–121頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mondfluss",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mondfluss",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/8cf1741c939efa4d06799b264994e6c3586f0e01.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/8cf1741c939efa4d06799b264994e6c3586f0e01.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/8cf1741c939efa4d06799b264994e6c3586f0e01.jpg",
+          "caption": "Mondfluss｜1997",
+          "credit": "BBR / Werner Huthmacher",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Werner Huthmacher",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -755,10 +867,10 @@
       "section": "國家建設與自由",
       "originalDate": "1997",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-04",
         "kunst-am-bau-70-06",
@@ -768,12 +880,16 @@
         "kunst-am-bau-70-14",
         "kunst-am-bau-70-16"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Mondfluss",
+      "material": "金屬與液態媒材的場域裝置（詳官方作品頁）",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mondfluss"
     },
     {
       "id": "kunst-am-bau-70-18",
       "dedupeKey": "art:kab70-18",
-      "name": "Jenny Holzer｜Reichstagsgebäude Deutscher Bundestag Berlin（1999；作品名待核）",
+      "name": "Jenny Holzer｜Installation für das Reichstagsgebäude（1999）",
       "artist": "Jenny Holzer",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -784,21 +900,35 @@
         "柏林"
       ],
       "media": [
-        "建築/場域"
+        "裝置",
+        "社會參與"
       ],
-      "works": "建築藝術專案｜作品名待核｜1999",
+      "works": "Installation für das Reichstagsgebäude｜1999",
       "workSite": "Reichstagsgebäude Deutscher Bundestag Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第136–137頁。藝術家 Jenny Holzer；1999 年；建築場址 Reichstagsgebäude Deutscher Bundestag Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Jenny Holzer｜Reichstagsgebäude Deutscher Bundestag Berlin｜1999",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第136–137頁。藝術家 Jenny Holzer；1999 年；建築場址 Reichstagsgebäude Deutscher Bundestag Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Jenny Holzer在柏林國會大廈北側入口設立四面LED光字柱，挑選1871至1999年間447份國會演說並依議題編排，每次循環約20天。相互並置的演說將議會的多元立場轉化為不斷向上流動的公共文字。",
+      "classicTitle": "Installation für das Reichstagsgebäude｜1999",
+      "classicDesc": "Jenny Holzer在柏林國會大廈北側入口設立四面LED光字柱，挑選1871至1999年間447份國會演說並依議題編排，每次循環約20天。相互並置的演說將議會的多元立場轉化為不斷向上流動的公共文字。 媒材：鋼柱、玻璃與LED跑馬文字。原址：Reichstagsgebäude Deutscher Bundestag Berlin（德國 / Berlin）。2020年圖錄第136–137頁。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/holzer",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/holzer",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/a38eb652576722a7c95652e3cc477e20ed356bc1.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/a38eb652576722a7c95652e3cc477e20ed356bc1.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/a38eb652576722a7c95652e3cc477e20ed356bc1.jpg",
+          "caption": "Installation für das Reichstagsgebäude｜1999",
+          "credit": "BBR / Cordia Schlegelmilch（2015）",
+          "kind": "第一方作品攝影"
+        },
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/296d421b760bcb5ec96c448c50015ef9b021257b.jpg",
+          "caption": "Installation für das Reichstagsgebäude 現場視角 2",
+          "credit": "BBR / Cordia Schlegelmilch（2015）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Cordia Schlegelmilch（2015）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -808,10 +938,10 @@
       "section": "統一後柏林首都建設",
       "originalDate": "1999",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -826,13 +956,17 @@
         "kunst-am-bau-70-23",
         "kunst-am-bau-70-24"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Installation für das Reichstagsgebäude",
+      "material": "鋼柱、玻璃與LED跑馬文字",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/holzer"
     },
     {
       "id": "kunst-am-bau-70-21",
       "dedupeKey": "art:kab70-21",
-      "name": "Katarína Zavarská｜Bundesministerium für Arbeit und Soziales Berlin（2000；作品名待核）",
-      "artist": "Katarína Zavarská",
+      "name": "Katarína Zavarská｜Genius loci, Berlin / die sozialen Konflikte der Weimarer Republik und der Wirtschaftskrise / Handwerk und Industrie / musisches und schöpferisches Arbeiten（2000）",
+      "artist": "Katarina Zavarska",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
       "region": "西方",
@@ -842,21 +976,29 @@
         "柏林"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜2000",
+      "works": "Genius loci, Berlin / die sozialen Konflikte der Weimarer Republik und der Wirtschaftskrise / Handwerk und Industrie / musisches und schöpferisches Arbeiten｜2000",
       "workSite": "Bundesministerium für Arbeit und Soziales Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第142–143頁。藝術家 Katarína Zavarská；2000 年；建築場址 Bundesministerium für Arbeit und Soziales Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Katarína Zavarská｜Bundesministerium für Arbeit und Soziales Berlin｜2000",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第142–143頁。藝術家 Katarína Zavarská；2000 年；建築場址 Bundesministerium für Arbeit und Soziales Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Zavarska在前納粹宣傳部、後作為聯邦勞動部的歷史建築內，以不同尺寸的染色印花氈布、文字與攝影拼貼創作系列牆面。作品將威瑪時代、勞動與文化活動交疊於一座承載政治斷裂的建築，呈現歷史記憶的多層閱讀。",
+      "classicTitle": "Genius loci, Berlin / die sozialen Konflikte der Weimarer Republik und der Wirtschaftskrise / Handwerk und Industrie / musisches und schöpferisches Arbeiten｜2000",
+      "classicDesc": "Zavarska在前納粹宣傳部、後作為聯邦勞動部的歷史建築內，以不同尺寸的染色印花氈布、文字與攝影拼貼創作系列牆面。作品將威瑪時代、勞動與文化活動交疊於一座承載政治斷裂的建築，呈現歷史記憶的多層閱讀。 媒材：染印氈布、文字、圖像與攝影拼貼。原址：Bundesministerium für Arbeit und Soziales Berlin（德國 / Berlin）。2020年圖錄第142–143頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/genius-loci-berlin-die-sozialen-konflikte-der-weimarer-republik-und-der-wirtschaftskrise-handwerk-und-industrie-musisches-und-sc",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/genius-loci-berlin-die-sozialen-konflikte-der-weimarer-republik-und-der-wirtschaftskrise-handwerk-und-industrie-musisches-und-sc",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/f1d4be432fd0817d94cbf9a0dad02ddd2eb7938a.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/f1d4be432fd0817d94cbf9a0dad02ddd2eb7938a.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/f1d4be432fd0817d94cbf9a0dad02ddd2eb7938a.jpg",
+          "caption": "Genius loci, Berlin / die sozialen Konflikte der Weimarer Republik und der Wirtschaftskrise / Handwerk und Industrie / musisches und schöpferisches Arbeiten｜2000",
+          "credit": "BBR / Cordia Schlegelmilch（2015）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Cordia Schlegelmilch（2015）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -866,10 +1008,10 @@
       "section": "統一後柏林首都建設",
       "originalDate": "2000",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -884,12 +1026,16 @@
         "kunst-am-bau-70-23",
         "kunst-am-bau-70-24"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Genius loci, Berlin / die sozialen Konflikte der Weimarer Republik und der Wirtschaftskrise / Handwerk und Industrie / musisches und schöpferisches Arbeiten",
+      "material": "染印氈布、文字、圖像與攝影拼貼",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/genius-loci-berlin-die-sozialen-konflikte-der-weimarer-republik-und-der-wirtschaftskrise-handwerk-und-industrie-musisches-und-sc"
     },
     {
       "id": "kunst-am-bau-70-23",
       "dedupeKey": "art:kab70-23",
-      "name": "Michael Wirkner｜Bundesministerium der Finanzen Berlin（2000；作品名待核）",
+      "name": "Michael Wirkner｜Ohne Titel (Wandgestaltung)（2000）",
       "artist": "Michael Wirkner",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -900,21 +1046,35 @@
         "柏林"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜2000",
+      "works": "Ohne Titel (Wandgestaltung)｜2000",
       "workSite": "Bundesministerium der Finanzen Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第146–147頁。藝術家 Michael Wirkner；2000 年；建築場址 Bundesministerium der Finanzen Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Michael Wirkner｜Bundesministerium der Finanzen Berlin｜2000",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第146–147頁。藝術家 Michael Wirkner；2000 年；建築場址 Bundesministerium der Finanzen Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Michael Wirkner在現德國聯邦財政部建築主階梯處設置九幅抽象「色彩帷幕」。原位址曾有納粹時代的帝國鷹與標語，藝術家以暖色及紅藍色場重構空間敘事，使歷史權力符號所在處轉成抽象藝術的公共觀看。",
+      "classicTitle": "Ohne Titel (Wandgestaltung)｜2000",
+      "classicDesc": "Michael Wirkner在現德國聯邦財政部建築主階梯處設置九幅抽象「色彩帷幕」。原位址曾有納粹時代的帝國鷹與標語，藝術家以暖色及紅藍色場重構空間敘事，使歷史權力符號所在處轉成抽象藝術的公共觀看。 媒材：九件抽象繪畫牆面。原址：Bundesministerium der Finanzen Berlin（德國 / Berlin）。2020年圖錄第146–147頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-2",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-2",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/95ce87aeedf9804920da04e3bb61aebb8e4e7243.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/95ce87aeedf9804920da04e3bb61aebb8e4e7243.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/95ce87aeedf9804920da04e3bb61aebb8e4e7243.jpg",
+          "caption": "Ohne Titel (Wandgestaltung)｜2000",
+          "credit": "BBR / Sandra Wildemann（2008）",
+          "kind": "第一方作品攝影"
+        },
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/fefde7aed7a1f64e7c801042954a49fb20539c4e.jpg",
+          "caption": "Ohne Titel (Wandgestaltung) 現場視角 2",
+          "credit": "BBR / Sandra Wildemann（2008）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Sandra Wildemann（2008）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -924,10 +1084,10 @@
       "section": "統一後柏林首都建設",
       "originalDate": "2000",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -942,12 +1102,16 @@
         "kunst-am-bau-70-22",
         "kunst-am-bau-70-24"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Ohne Titel (Wandgestaltung)",
+      "material": "九件抽象繪畫牆面",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandgestaltung-2"
     },
     {
       "id": "kunst-am-bau-70-24",
       "dedupeKey": "art:kab70-24",
-      "name": "Christiane Möbus｜Jakob-Kaiser-Haus Deutscher Bundestag Berlin（2001；作品名待核）",
+      "name": "Christiane Möbus｜Auf und ab und unterwegs（2001）",
       "artist": "Christiane Möbus",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -958,21 +1122,35 @@
         "柏林"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜2001",
+      "works": "Auf und ab und unterwegs｜2001",
       "workSite": "Jakob-Kaiser-Haus Deutscher Bundestag Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第148–149頁。藝術家 Christiane Möbus；2001 年；建築場址 Jakob-Kaiser-Haus Deutscher Bundestag Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Christiane Möbus｜Jakob-Kaiser-Haus Deutscher Bundestag Berlin｜2001",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第148–149頁。藝術家 Christiane Möbus；2001 年；建築場址 Jakob-Kaiser-Haus Deutscher Bundestag Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Christiane Möbus在柏林Jakob-Kaiser-Haus中庭吊掛黑、紅、黃、藍四艘真實八人競速艇，馬達依隨機模式將船體上下升降。藉由現成物、運動競賽和國會辦公空間的碰撞，讓建築挑空成為權力競合與日常勞動的動態舞台。",
+      "classicTitle": "Auf und ab und unterwegs｜2001",
+      "classicDesc": "Christiane Möbus在柏林Jakob-Kaiser-Haus中庭吊掛黑、紅、黃、藍四艘真實八人競速艇，馬達依隨機模式將船體上下升降。藉由現成物、運動競賽和國會辦公空間的碰撞，讓建築挑空成為權力競合與日常勞動的動態舞台。 媒材：四艘長約18公尺的八人競速艇、馬達鋼索及運動鞋。原址：Jakob-Kaiser-Haus Deutscher Bundestag Berlin（德國 / Berlin）。2020年圖錄第148–149頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-und-ab-und-unterwegs",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-und-ab-und-unterwegs",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/98529d5ca3da8983cb54799818263b4889696ad3.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/98529d5ca3da8983cb54799818263b4889696ad3.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/98529d5ca3da8983cb54799818263b4889696ad3.jpg",
+          "caption": "Auf und ab und unterwegs｜2001",
+          "credit": "BBR 檔案（2001）",
+          "kind": "第一方作品攝影"
+        },
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/29723c6a7731e895ddf1b8bc1af355f874702830.jpg",
+          "caption": "Auf und ab und unterwegs 現場視角 2",
+          "credit": "BBR 檔案（2001）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR 檔案（2001）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -982,10 +1160,10 @@
       "section": "統一後柏林首都建設",
       "originalDate": "2001",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -1000,7 +1178,11 @@
         "kunst-am-bau-70-22",
         "kunst-am-bau-70-23"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Auf und ab und unterwegs",
+      "material": "四艘長約18公尺的八人競速艇、馬達鋼索及運動鞋",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/auf-und-ab-und-unterwegs"
     },
     {
       "id": "kunst-am-bau-70-25",
@@ -1063,7 +1245,7 @@
     {
       "id": "kunst-am-bau-70-26",
       "dedupeKey": "art:kab70-26",
-      "name": "Katharina Grosse｜Marie-Elisabeth-Lüders-Haus II Deutscher Bundestag Berlin（2015；作品名待核）",
+      "name": "Katharina Grosse｜Ohne Titel（2015）",
       "artist": "Katharina Grosse",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1074,21 +1256,35 @@
         "柏林"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜2015",
+      "works": "Ohne Titel｜2015",
       "workSite": "Marie-Elisabeth-Lüders-Haus II Deutscher Bundestag Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第152–153頁。藝術家 Katharina Grosse；2015 年；建築場址 Marie-Elisabeth-Lüders-Haus II Deutscher Bundestag Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Katharina Grosse｜Marie-Elisabeth-Lüders-Haus II Deutscher Bundestag Berlin｜2015",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第152–153頁。藝術家 Katharina Grosse；2015 年；建築場址 Marie-Elisabeth-Lüders-Haus II Deutscher Bundestag Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Katharina Grosse以高彩度噴塗畫面介入柏林Marie-Elisabeth-Lüders-Haus增建部分。色彩跨越高聳立面及建築動線，讓原本嚴整的議會空間產生奔放的視覺轉折，延續藝術家將繪畫視為可包覆空間的媒介策略。",
+      "classicTitle": "Ohne Titel｜2015",
+      "classicDesc": "Katharina Grosse以高彩度噴塗畫面介入柏林Marie-Elisabeth-Lüders-Haus增建部分。色彩跨越高聳立面及建築動線，讓原本嚴整的議會空間產生奔放的視覺轉折，延續藝術家將繪畫視為可包覆空間的媒介策略。 媒材：大尺度噴塗繪畫及建築牆面。原址：Marie-Elisabeth-Lüders-Haus II Deutscher Bundestag Berlin（德國 / Berlin）。2020年圖錄第152–153頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-7",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-7",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c967b12867ad9a4642dff36de701ec82fb4c1848.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c967b12867ad9a4642dff36de701ec82fb4c1848.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c967b12867ad9a4642dff36de701ec82fb4c1848.jpg",
+          "caption": "Ohne Titel｜2015",
+          "credit": "Katharina Grosse / Nic Tenwiggenhorn（2015）",
+          "kind": "第一方作品攝影"
+        },
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/d5718d60005caf393824dd1a97463f56a68f1ce3.jpg",
+          "caption": "Ohne Titel 現場視角 2",
+          "credit": "Katharina Grosse / Nic Tenwiggenhorn（2015）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "Katharina Grosse / Nic Tenwiggenhorn（2015）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1098,10 +1294,10 @@
       "section": "統一後柏林首都建設",
       "originalDate": "2015",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -1116,12 +1312,16 @@
         "kunst-am-bau-70-22",
         "kunst-am-bau-70-23"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Ohne Titel",
+      "material": "大尺度噴塗繪畫及建築牆面",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-7"
     },
     {
       "id": "kunst-am-bau-70-27",
       "dedupeKey": "art:kab70-27",
-      "name": "Manuel Franke｜Bundesamt für Migration und Flüchtlinge Nürnberg（1997；作品名待核）",
+      "name": "Manuel Franke｜Zeitenklammer（1997）",
       "artist": "Manuel Franke",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1132,21 +1332,29 @@
         "紐倫堡"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1997",
+      "works": "Zeitenklammer｜1997",
       "workSite": "Bundesamt für Migration und Flüchtlinge Nürnberg",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第166–167頁。藝術家 Manuel Franke；1997 年；建築場址 Bundesamt für Migration und Flüchtlinge Nürnberg。歸屬章節「建築藝術的政治立場」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Manuel Franke｜Bundesamt für Migration und Flüchtlinge Nürnberg｜1997",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第166–167頁。藝術家 Manuel Franke；1997 年；建築場址 Bundesamt für Migration und Flüchtlinge Nürnberg。歸屬章節「建築藝術的政治立場」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "位於紐倫堡聯邦移民與難民署所在的前軍營，藝術與建築共同面對場址從納粹時代、戰後美軍駐地到民政機關的轉變。Franke以強烈色彩和空間片段介入既存走廊與牆面，透過場所歷史讓觀看者意識到不同時代的制度痕跡。",
+      "classicTitle": "Zeitenklammer｜1997",
+      "classicDesc": "位於紐倫堡聯邦移民與難民署所在的前軍營，藝術與建築共同面對場址從納粹時代、戰後美軍駐地到民政機關的轉變。Franke以強烈色彩和空間片段介入既存走廊與牆面，透過場所歷史讓觀看者意識到不同時代的制度痕跡。 媒材：色彩介入與建築裝置。原址：Bundesamt für Migration und Flüchtlinge Nürnberg（德國 / Nürnberg）。2020年圖錄第166–167頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitenklammer",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitenklammer",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6c43f0ac8d53f656d757fde08e17e8d7431cd8f3.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6c43f0ac8d53f656d757fde08e17e8d7431cd8f3.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6c43f0ac8d53f656d757fde08e17e8d7431cd8f3.jpg",
+          "caption": "Zeitenklammer｜1997",
+          "credit": "BBR / Bernd Hiepe（2012）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Bernd Hiepe（2012）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1156,19 +1364,23 @@
       "section": "建築藝術的政治立場",
       "originalDate": "1997",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-33"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Zeitenklammer",
+      "material": "色彩介入與建築裝置",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/zeitenklammer"
     },
     {
       "id": "kunst-am-bau-70-28",
       "dedupeKey": "art:kab70-28",
-      "name": "Hans Haacke｜Reichstagsgebäude Deutscher Bundestag Berlin（2000；作品名待核）",
+      "name": "Hans Haacke｜Der Bevölkerung（2000）",
       "artist": "Hans Haacke",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1179,21 +1391,29 @@
         "柏林"
       ],
       "media": [
-        "建築/場域"
+        "裝置",
+        "社會參與"
       ],
-      "works": "建築藝術專案｜作品名待核｜2000",
+      "works": "Der Bevölkerung｜2000",
       "workSite": "Reichstagsgebäude Deutscher Bundestag Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第168–169頁。藝術家 Hans Haacke；2000 年；建築場址 Reichstagsgebäude Deutscher Bundestag Berlin。歸屬章節「建築藝術的政治立場」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Hans Haacke｜Reichstagsgebäude Deutscher Bundestag Berlin｜2000",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第168–169頁。藝術家 Hans Haacke；2000 年；建築場址 Reichstagsgebäude Deutscher Bundestag Berlin。歸屬章節「建築藝術的政治立場」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Hans Haacke在柏林國會大廈內院設置寫有「DER BEVÖLKERUNG」（獻給居民）的種植空間，邀請國會議員從各選區帶入土壤。作品與議會建築正面的「DEM DEUTSCHEN VOLKE」形成對話，透過持續參與與自然生長重新討論人民、國家及代表權。",
+      "classicTitle": "Der Bevölkerung｜2000",
+      "classicDesc": "Hans Haacke在柏林國會大廈內院設置寫有「DER BEVÖLKERUNG」（獻給居民）的種植空間，邀請國會議員從各選區帶入土壤。作品與議會建築正面的「DEM DEUTSCHEN VOLKE」形成對話，透過持續參與與自然生長重新討論人民、國家及代表權。 媒材：土壤、植物、木構平台、文字。原址：Reichstagsgebäude Deutscher Bundestag Berlin（德國 / Berlin）。2020年圖錄第168–169頁。",
+      "website": "https://www.bundestag.de/besuche/kunst/kuenstler/haacke",
+      "workPage": "https://www.bundestag.de/besuche/kunst/kuenstler/haacke",
+      "photo": "https://www.bundestag.de/resource/image/218534/16x9/1852/1044/e2007ce0c433039a7fb909d65de95e6d/943142B7099BAFD9D5D937A7E38FBC1D/bevoelkerung.jpg",
+      "classicImage": "https://www.bundestag.de/resource/image/218534/16x9/1852/1044/e2007ce0c433039a7fb909d65de95e6d/943142B7099BAFD9D5D937A7E38FBC1D/bevoelkerung.jpg",
+      "images": [
+        {
+          "url": "https://www.bundestag.de/resource/image/218534/16x9/1852/1044/e2007ce0c433039a7fb909d65de95e6d/943142B7099BAFD9D5D937A7E38FBC1D/bevoelkerung.jpg",
+          "caption": "Der Bevölkerung｜2000",
+          "credit": "Deutscher Bundestag / VG Bild-Kunst",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "Deutscher Bundestag / VG Bild-Kunst",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1203,10 +1423,10 @@
       "section": "建築藝術的政治立場",
       "originalDate": "2000",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -1221,7 +1441,11 @@
         "kunst-am-bau-70-22",
         "kunst-am-bau-70-23"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Der Bevölkerung",
+      "material": "土壤、植物、木構平台、文字",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.bundestag.de/besuche/kunst/kuenstler/haacke"
     },
     {
       "id": "kunst-am-bau-70-30",
@@ -1284,7 +1508,7 @@
     {
       "id": "kunst-am-bau-70-31",
       "dedupeKey": "art:kab70-31",
-      "name": "Walter Womacka｜Haus des Lehrers Berlin（1962–1964；作品名待核）",
+      "name": "Walter Womacka｜Unser Leben（1964）",
       "artist": "Walter Womacka",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1295,21 +1519,29 @@
         "柏林"
       ],
       "media": [
+        "壁畫/街頭",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1962–1964",
+      "works": "Unser Leben｜1964",
       "workSite": "Haus des Lehrers Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第196–197頁。藝術家 Walter Womacka；1962–1964 年；建築場址 Haus des Lehrers Berlin。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Walter Womacka｜Haus des Lehrers Berlin｜1962–1964",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第196–197頁。藝術家 Walter Womacka；1962–1964 年；建築場址 Haus des Lehrers Berlin。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Womacka在東柏林「教師之家」建築外牆製作大型彩色馬賽克壁畫《Unser Leben》，以家庭、教育、科技與勞動生活構成社會主義現代化的理想圖像。作品與建築的玻璃立面及城市廣場相接，成為東德公共藝術最醒目的城市尺度案例之一。",
+      "classicTitle": "Unser Leben｜1964",
+      "classicDesc": "Womacka在東柏林「教師之家」建築外牆製作大型彩色馬賽克壁畫《Unser Leben》，以家庭、教育、科技與勞動生活構成社會主義現代化的理想圖像。作品與建築的玻璃立面及城市廣場相接，成為東德公共藝術最醒目的城市尺度案例之一。 媒材：建築外牆馬賽克壁畫。原址：Haus des Lehrers Berlin（德國 / Berlin）。2020年圖錄第196–197頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unser-leben",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unser-leben",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4795b0cffdc7946b5353bcd5f6812dcf5ae6aa05.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4795b0cffdc7946b5353bcd5f6812dcf5ae6aa05.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4795b0cffdc7946b5353bcd5f6812dcf5ae6aa05.jpg",
+          "caption": "Unser Leben｜1964",
+          "credit": "BBR / Cordia Schlegelmilch（2015）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Cordia Schlegelmilch（2015）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1317,12 +1549,12 @@
       "publication": "BMI/BBR, Deutscher Kunstverlag, 2020, ISBN 978-3-422-98617-6",
       "bookPageRange": "196–197",
       "section": "國家機構及其藝術",
-      "originalDate": "1962–1964",
+      "originalDate": "1964",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -1337,7 +1569,11 @@
         "kunst-am-bau-70-22",
         "kunst-am-bau-70-23"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Unser Leben",
+      "material": "建築外牆馬賽克壁畫",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/unser-leben"
     },
     {
       "id": "kunst-am-bau-70-32",
@@ -1479,7 +1715,7 @@
     {
       "id": "kunst-am-bau-70-35",
       "dedupeKey": "art:kab70-35",
-      "name": "Erich Hauser｜Staatsbibliothek zu Berlin（1977；作品名待核）",
+      "name": "Erich Hauser｜Flächenwand（1977）",
       "artist": "Erich Hauser",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1490,21 +1726,29 @@
         "柏林"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1977",
+      "works": "Flächenwand｜1977",
       "workSite": "Staatsbibliothek zu Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第204–205頁。藝術家 Erich Hauser；1977 年；建築場址 Staatsbibliothek zu Berlin。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Erich Hauser｜Staatsbibliothek zu Berlin｜1977",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第204–205頁。藝術家 Erich Hauser；1977 年；建築場址 Staatsbibliothek zu Berlin。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Erich Hauser的《Flächenwand》設於柏林國立圖書館，利用重複線條與大尺度平面構成懸吊的抽象立面。藝術以幾何秩序對應閱覽公共區的連續空間，形成輕重、透明與實體的視覺張力。",
+      "classicTitle": "Flächenwand｜1977",
+      "classicDesc": "Erich Hauser的《Flächenwand》設於柏林國立圖書館，利用重複線條與大尺度平面構成懸吊的抽象立面。藝術以幾何秩序對應閱覽公共區的連續空間，形成輕重、透明與實體的視覺張力。 媒材：金屬線性構成、懸吊空間結構。原址：Staatsbibliothek zu Berlin（德國 / Berlin）。2020年圖錄第204–205頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flachenwand",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flachenwand",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7c80c673530af26e1db2c685c3cca6004ff70a87.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7c80c673530af26e1db2c685c3cca6004ff70a87.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7c80c673530af26e1db2c685c3cca6004ff70a87.jpg",
+          "caption": "Flächenwand｜1977",
+          "credit": "BBR 檔案（1977）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR 檔案（1977）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1514,10 +1758,10 @@
       "section": "國家機構及其藝術",
       "originalDate": "1977",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -1532,7 +1776,11 @@
         "kunst-am-bau-70-22",
         "kunst-am-bau-70-23"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Flächenwand",
+      "material": "金屬線性構成、懸吊空間結構",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/flachenwand"
     },
     {
       "id": "kunst-am-bau-70-36",
@@ -1582,7 +1830,7 @@
     {
       "id": "kunst-am-bau-70-37",
       "dedupeKey": "art:kab70-37",
-      "name": "Sighard Gille｜Neues Gewandhaus Leipzig（1980/1981；作品名待核）",
+      "name": "Sighard Gille｜Gesang vom Leben（1981）",
       "artist": "Sighard Gille",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1593,21 +1841,29 @@
         "萊比錫"
       ],
       "media": [
+        "壁畫/街頭",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1980/1981",
+      "works": "Gesang vom Leben｜1981",
       "workSite": "Neues Gewandhaus Leipzig",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第208–209頁。藝術家 Sighard Gille；1980/1981 年；建築場址 Neues Gewandhaus Leipzig。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Sighard Gille｜Neues Gewandhaus Leipzig｜1980/1981",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第208–209頁。藝術家 Sighard Gille；1980/1981 年；建築場址 Neues Gewandhaus Leipzig。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Sighard Gille在萊比錫新布商大廈音樂廳的主大廳完成約714平方公尺的頂棚繪畫，將人物與生命主題融入高聳的建築前廳。這幅作品透過朝向城市廣場的玻璃帷幕對外可見，展現音樂場館如何以公共藝術連通街道與表演場景。",
+      "classicTitle": "Gesang vom Leben｜1981",
+      "classicDesc": "Sighard Gille在萊比錫新布商大廈音樂廳的主大廳完成約714平方公尺的頂棚繪畫，將人物與生命主題融入高聳的建築前廳。這幅作品透過朝向城市廣場的玻璃帷幕對外可見，展現音樂場館如何以公共藝術連通街道與表演場景。 媒材：大型頂棚繪畫，約714平方公尺。原址：Neues Gewandhaus Leipzig（德國 / Leipzig）。2020年圖錄第208–209頁。",
+      "website": "https://sighard-gille.de/neues-gewandhaus-leipzig/neues-gewandhaus-leipzig.php",
+      "workPage": "https://sighard-gille.de/neues-gewandhaus-leipzig/neues-gewandhaus-leipzig.php",
+      "photo": "https://mnd-assets.mynewsdesk.com/image/upload/c_fill%2Cdpr_auto%2Cf_auto%2Cg_auto%2Cq_auto%3Agood%2Cw_746/dyrtlyubryqarlqbzyeb",
+      "classicImage": "https://mnd-assets.mynewsdesk.com/image/upload/c_fill%2Cdpr_auto%2Cf_auto%2Cg_auto%2Cq_auto%3Agood%2Cw_746/dyrtlyubryqarlqbzyeb",
+      "images": [
+        {
+          "url": "https://mnd-assets.mynewsdesk.com/image/upload/c_fill%2Cdpr_auto%2Cf_auto%2Cg_auto%2Cq_auto%3Agood%2Cw_746/dyrtlyubryqarlqbzyeb",
+          "caption": "Gesang vom Leben｜1981",
+          "credit": "Leipzig Tourismus und Marketing GmbH",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "Leipzig Tourismus und Marketing GmbH",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1615,19 +1871,24 @@
       "publication": "BMI/BBR, Deutscher Kunstverlag, 2020, ISBN 978-3-422-98617-6",
       "bookPageRange": "208–209",
       "section": "國家機構及其藝術",
-      "originalDate": "1980/1981",
+      "originalDate": "1981",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Gesang vom Leben",
+      "material": "大型頂棚繪畫，約714平方公尺",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistOfficialUrl": "https://sighard-gille.de/neues-gewandhaus-leipzig/neues-gewandhaus-leipzig.php",
+      "artistStatementSource": "https://sighard-gille.de/neues-gewandhaus-leipzig/neues-gewandhaus-leipzig.php"
     },
     {
       "id": "kunst-am-bau-70-38",
       "dedupeKey": "art:kab70-38",
-      "name": "Hansjörg Voth｜Main-Donau-Kanal Hilpoltstein（1990–1992；作品名待核）",
+      "name": "Hansjörg Voth｜Scheitelhaltung（1992）",
       "artist": "Hansjörg Voth",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1638,21 +1899,29 @@
         "希爾波爾特施泰因"
       ],
       "media": [
+        "地景/大地藝術",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1990–1992",
+      "works": "Scheitelhaltung｜1992",
       "workSite": "Main-Donau-Kanal Hilpoltstein",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第210–211頁。藝術家 Hansjörg Voth；1990–1992 年；建築場址 Main-Donau-Kanal Hilpoltstein。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Hansjörg Voth｜Main-Donau-Kanal Hilpoltstein｜1990–1992",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第210–211頁。藝術家 Hansjörg Voth；1990–1992 年；建築場址 Main-Donau-Kanal Hilpoltstein。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Hannsjörg Voth在美因河至多瑙河運河的水利工程旁設置《Scheitelhaltung》，以楔形混凝土壁體與地表高差呼應運河的地形切割。作品將基礎建設本身轉化為地景閱讀，讓人從地面、船舶與堤岸形成不同的觀察角度。",
+      "classicTitle": "Scheitelhaltung｜1992",
+      "classicDesc": "Hannsjörg Voth在美因河至多瑙河運河的水利工程旁設置《Scheitelhaltung》，以楔形混凝土壁體與地表高差呼應運河的地形切割。作品將基礎建設本身轉化為地景閱讀，讓人從地面、船舶與堤岸形成不同的觀察角度。 媒材：混凝土量體與地景裝置。原址：Main-Donau-Kanal Hilpoltstein（德國 / Hilpoltstein）。2020年圖錄第210–211頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6912cfbd3a3a2485c0ba26707a27c33dd9f4b795.JPG",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6912cfbd3a3a2485c0ba26707a27c33dd9f4b795.JPG",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/6912cfbd3a3a2485c0ba26707a27c33dd9f4b795.JPG",
+          "caption": "Scheitelhaltung｜1992",
+          "credit": "BBR / Johannes Stahl（2013）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Johannes Stahl（2013）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1660,14 +1929,18 @@
       "publication": "BMI/BBR, Deutscher Kunstverlag, 2020, ISBN 978-3-422-98617-6",
       "bookPageRange": "210–211",
       "section": "國家機構及其藝術",
-      "originalDate": "1990–1992",
+      "originalDate": "1992",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Scheitelhaltung",
+      "material": "混凝土量體與地景裝置",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/scheitelhaltung"
     },
     {
       "id": "kunst-am-bau-70-40",
@@ -1899,7 +2172,7 @@
     {
       "id": "kunst-am-bau-70-45",
       "dedupeKey": "art:kab70-45",
-      "name": "François Morellet｜Hochschule der Bundeswehr Hamburg（1976；作品名待核）",
+      "name": "François Morellet｜All-Over Strukturen（1976）",
       "artist": "François Morellet",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1910,21 +2183,29 @@
         "漢堡"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1976",
+      "works": "All-Over Strukturen｜1976",
       "workSite": "Hochschule der Bundeswehr Hamburg",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第238–239頁。藝術家 François Morellet；1976 年；建築場址 Hochschule der Bundeswehr Hamburg。歸屬章節「軍隊作為藝術委託者」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "François Morellet｜Hochschule der Bundeswehr Hamburg｜1976",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第238–239頁。藝術家 François Morellet；1976 年；建築場址 Hochschule der Bundeswehr Hamburg。歸屬章節「軍隊作為藝術委託者」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Morellet將統計式線條與重複模組帶入漢堡聯邦國防軍大學公共空間，以規則化造形拆解建築的表面秩序。作品延續其以幾何、限制條件與遊戲規則建立抽象藝術的創作方向。",
+      "classicTitle": "All-Over Strukturen｜1976",
+      "classicDesc": "Morellet將統計式線條與重複模組帶入漢堡聯邦國防軍大學公共空間，以規則化造形拆解建築的表面秩序。作品延續其以幾何、限制條件與遊戲規則建立抽象藝術的創作方向。 媒材：幾何重複彩色牆面作品。原址：Hochschule der Bundeswehr Hamburg（德國 / Hamburg）。2020年圖錄第238–239頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/all-over-strukturen",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/all-over-strukturen",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/623af61015074a8ff235f3de622a92a0fab9d195.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/623af61015074a8ff235f3de622a92a0fab9d195.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/623af61015074a8ff235f3de622a92a0fab9d195.jpg",
+          "caption": "All-Over Strukturen｜1976",
+          "credit": "BBR / Archiv BMVg",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Archiv BMVg",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1934,12 +2215,16 @@
       "section": "軍隊作為藝術委託者",
       "originalDate": "1976",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "All-Over Strukturen",
+      "material": "幾何重複彩色牆面作品",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/all-over-strukturen"
     },
     {
       "id": "kunst-am-bau-70-46",
@@ -2126,7 +2411,7 @@
     {
       "id": "kunst-am-bau-70-54",
       "dedupeKey": "art:kab70-54",
-      "name": "Renate Wolff｜Deutsche Botschaft Mexiko-Stadt（2006；作品名待核）",
+      "name": "Renate Wolff｜Große Reise（2006）",
       "artist": "Renate Wolff",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -2137,21 +2422,29 @@
         "墨西哥城"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜2006",
+      "works": "Große Reise｜2006",
       "workSite": "Deutsche Botschaft Mexiko-Stadt",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第274–275頁。藝術家 Renate Wolff；2006 年；建築場址 Deutsche Botschaft Mexiko-Stadt。歸屬章節「世界對話與海外建築藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Renate Wolff｜Deutsche Botschaft Mexiko-Stadt｜2006",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第274–275頁。藝術家 Renate Wolff；2006 年；建築場址 Deutsche Botschaft Mexiko-Stadt。歸屬章節「世界對話與海外建築藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Renate Wolff在墨西哥城德國大使館內，以綠色植物剪影與彩色牆面構成《Große Reise》。作品將熱帶植物意象和現代使館建築並置，使外交空間中的地方文化經驗轉化為具體的室內敘事。",
+      "classicTitle": "Große Reise｜2006",
+      "classicDesc": "Renate Wolff在墨西哥城德國大使館內，以綠色植物剪影與彩色牆面構成《Große Reise》。作品將熱帶植物意象和現代使館建築並置，使外交空間中的地方文化經驗轉化為具體的室內敘事。 媒材：建築內部植物圖像牆面及空間裝置。原址：Deutsche Botschaft Mexiko-Stadt（墨西哥 / Mexiko-Stadt）。2020年圖錄第274–275頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ef2af1ab93fcf0744b5ebcbdd61695a5b5a71e03.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ef2af1ab93fcf0744b5ebcbdd61695a5b5a71e03.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/ef2af1ab93fcf0744b5ebcbdd61695a5b5a71e03.jpg",
+          "caption": "Große Reise｜2006",
+          "credit": "BBR / Christian Richters（2007）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Christian Richters（2007）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -2161,12 +2454,16 @@
       "section": "世界對話與海外建築藝術",
       "originalDate": "2006",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Große Reise",
+      "material": "建築內部植物圖像牆面及空間裝置",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosse-reise"
     },
     {
       "id": "kunst-am-bau-70-55",
@@ -2216,7 +2513,7 @@
     {
       "id": "kunst-am-bau-70-56",
       "dedupeKey": "art:kab70-56",
-      "name": "Roland Fuhrmann｜Bundesministerium des Innern, für Bau und Heimat Berlin（2017；作品名待核）",
+      "name": "Roland Fuhrmann｜Zusammenhalt（2017）",
       "artist": "Roland Fuhrmann",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -2227,21 +2524,35 @@
         "柏林"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜2017",
+      "works": "Zusammenhalt｜2017",
       "workSite": "Bundesministerium des Innern, für Bau und Heimat Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第288–289頁。藝術家 Roland Fuhrmann；2017 年；建築場址 Bundesministerium des Innern, für Bau und Heimat Berlin。歸屬章節「從競圖到實現」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Roland Fuhrmann｜Bundesministerium des Innern, für Bau und Heimat Berlin｜2017",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第288–289頁。藝術家 Roland Fuhrmann；2017 年；建築場址 Bundesministerium des Innern, für Bau und Heimat Berlin。歸屬章節「從競圖到實現」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Fuhrmann在柏林德國聯邦內政部庭園設置多組彩色不鏽鋼立柱，近看為人物影像與色帶，遠觀成為與建築前庭相連的群體。作品透過觀看位置的轉換表達社會凝聚與多元人群之間脆弱的相互依存。藝術家本人網站提供設計概念與影像。",
+      "classicTitle": "Zusammenhalt｜2017",
+      "classicDesc": "Fuhrmann在柏林德國聯邦內政部庭園設置多組彩色不鏽鋼立柱，近看為人物影像與色帶，遠觀成為與建築前庭相連的群體。作品透過觀看位置的轉換表達社會凝聚與多元人群之間脆弱的相互依存。藝術家本人網站提供設計概念與影像。 媒材：不鏽鋼及彩色影像印刷立柱。原址：Bundesministerium des Innern, für Bau und Heimat Berlin（德國 / Berlin）。2020年圖錄第288–289頁。",
+      "website": "https://rolandfuhrmann.de/work/zusammenhalt/",
+      "workPage": "https://rolandfuhrmann.de/work/zusammenhalt/",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/67be782852b6aa7c3beda0d0328b1519b25856ee.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/67be782852b6aa7c3beda0d0328b1519b25856ee.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/67be782852b6aa7c3beda0d0328b1519b25856ee.jpg",
+          "caption": "Zusammenhalt｜2017",
+          "credit": "Roland Fuhrmann（2017）",
+          "kind": "第一方作品攝影"
+        },
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/05451c26347cd42258e8cfff81e86219890cd7bb.jpg",
+          "caption": "Zusammenhalt 現場視角 2",
+          "credit": "Roland Fuhrmann（2017）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "Roland Fuhrmann（2017）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -2251,10 +2562,10 @@
       "section": "從競圖到實現",
       "originalDate": "2017",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -2269,12 +2580,17 @@
         "kunst-am-bau-70-22",
         "kunst-am-bau-70-23"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Zusammenhalt",
+      "material": "不鏽鋼及彩色影像印刷立柱",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistOfficialUrl": "https://rolandfuhrmann.de/work/zusammenhalt/",
+      "artistStatementSource": "https://rolandfuhrmann.de/work/zusammenhalt/"
     },
     {
       "id": "kunst-am-bau-70-57",
       "dedupeKey": "art:kab70-57",
-      "name": "Ursula Sax｜Robert Koch-Institut Berlin（1983/2013；作品名待核）",
+      "name": "Ursula Sax｜Rasterbild mit Vögeln（1983）",
       "artist": "Ursula Sax",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -2285,21 +2601,29 @@
         "柏林"
       ],
       "media": [
+        "裝置",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1983/2013",
+      "works": "Rasterbild mit Vögeln｜1983",
       "workSite": "Robert Koch-Institut Berlin",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第302–303頁。藝術家 Ursula Sax；1983/2013 年；建築場址 Robert Koch-Institut Berlin。歸屬章節「建築藝術的保存及流失」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Ursula Sax｜Robert Koch-Institut Berlin｜1983/2013",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第302–303頁。藝術家 Ursula Sax；1983/2013 年；建築場址 Robert Koch-Institut Berlin。歸屬章節「建築藝術的保存及流失」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Ursula Sax以多組幾何化鳥形金屬單元構成網格式壁面，置於柏林Robert Koch研究機構。看似規則的矩陣中包含角度差異與節奏變化，使科學機構的制度感與生命形態的抽象表現相互映照。",
+      "classicTitle": "Rasterbild mit Vögeln｜1983",
+      "classicDesc": "Ursula Sax以多組幾何化鳥形金屬單元構成網格式壁面，置於柏林Robert Koch研究機構。看似規則的矩陣中包含角度差異與節奏變化，使科學機構的制度感與生命形態的抽象表現相互映照。 媒材：金屬模組化鳥形浮雕。原址：Robert Koch-Institut Berlin（德國 / Berlin）。2020年圖錄第302–303頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rasterbild-mit-vogeln",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rasterbild-mit-vogeln",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5d654356a0c3e649921f3c029a0a387869acc39a.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5d654356a0c3e649921f3c029a0a387869acc39a.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5d654356a0c3e649921f3c029a0a387869acc39a.jpg",
+          "caption": "Rasterbild mit Vögeln｜1983",
+          "credit": "BBR / Cordia Schlegelmilch（2013）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "BBR / Cordia Schlegelmilch（2013）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -2307,12 +2631,12 @@
       "publication": "BMI/BBR, Deutscher Kunstverlag, 2020, ISBN 978-3-422-98617-6",
       "bookPageRange": "302–303",
       "section": "建築藝術的保存及流失",
-      "originalDate": "1983/2013",
+      "originalDate": "1983",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-03",
         "kunst-am-bau-70-07",
@@ -2327,12 +2651,16 @@
         "kunst-am-bau-70-22",
         "kunst-am-bau-70-23"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Rasterbild mit Vögeln",
+      "material": "金屬模組化鳥形浮雕",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/rasterbild-mit-vogeln"
     },
     {
       "id": "kunst-am-bau-70-58",
       "dedupeKey": "art:kab70-58",
-      "name": "Gerhard Bondzin｜Kulturpalast Dresden（1969/2017；作品名待核）",
+      "name": "Gerhard Bondzin｜Der Weg der roten Fahne（1969）",
       "artist": "Gerhard Bondzin",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -2343,21 +2671,29 @@
         "德勒斯登"
       ],
       "media": [
+        "壁畫/街頭",
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1969/2017",
+      "works": "Der Weg der roten Fahne｜1969",
       "workSite": "Kulturpalast Dresden",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第304–305頁。藝術家 Gerhard Bondzin；1969/2017 年；建築場址 Kulturpalast Dresden。歸屬章節「建築藝術的保存及流失」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Gerhard Bondzin｜Kulturpalast Dresden｜1969/2017",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第304–305頁。藝術家 Gerhard Bondzin；1969/2017 年；建築場址 Kulturpalast Dresden。歸屬章節「建築藝術的保存及流失」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Gerhard Bondzin在德勒斯登文化宮外牆創作《Der Weg der roten Fahne》，以群體人物、紅旗與歷史場景塑造東德革命敘事。隨文化宮2017年前後整修，作品成為討論保存社會主義時期建築藝術及其政治語境的重要案例。",
+      "classicTitle": "Der Weg der roten Fahne｜1969",
+      "classicDesc": "Gerhard Bondzin在德勒斯登文化宮外牆創作《Der Weg der roten Fahne》，以群體人物、紅旗與歷史場景塑造東德革命敘事。隨文化宮2017年前後整修，作品成為討論保存社會主義時期建築藝術及其政治語境的重要案例。 媒材：大型外牆馬賽克壁畫。原址：Kulturpalast Dresden（德國 / Dresden）。2020年圖錄第304–305頁。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-weg-der-roten-fahne",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-weg-der-roten-fahne",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/82894ba4084a068ca3e7635f5160055a9beb07c6.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/82894ba4084a068ca3e7635f5160055a9beb07c6.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/82894ba4084a068ca3e7635f5160055a9beb07c6.jpg",
+          "caption": "Der Weg der roten Fahne｜1969",
+          "credit": "Martin Maleschka（2020）",
+          "kind": "第一方作品攝影"
+        }
+      ],
+      "imageRights": "外部來源圖片，著作權由藝術家及攝影者保留；本站以來源網址展示並標註出處，公開再利用或轉載仍應取得權利人許可",
+      "imageStatus": "已建立作品對應外部影像與攝影署名",
+      "imageCredit": "Martin Maleschka（2020）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -2365,16 +2701,20 @@
       "publication": "BMI/BBR, Deutscher Kunstverlag, 2020, ISBN 978-3-422-98617-6",
       "bookPageRange": "304–305",
       "section": "建築藝術的保存及流失",
-      "originalDate": "1969/2017",
+      "originalDate": "1969",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照作品原頁、年份及影像；描述依典藏與研究文字重新撰寫",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "已確定正式作品名",
       "relatedByCity": [
         "kunst-am-bau-70-43"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Der Weg der roten Fahne",
+      "material": "大型外牆馬賽克壁畫",
+      "imageVerification": "已與藝術家、典藏機構或委託單位的作品頁逐件比對，外部圖片網址經網頁開啟驗證",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/der-weg-der-roten-fahne"
     }
   ],
   "duplicates": [
