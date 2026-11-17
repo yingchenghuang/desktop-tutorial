@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "date": "2026-11-18",
+    "kind": "supplement",
+    "collectionSeries": "60 x Kunst am Bau aus 60 Jahren",
+    "total": 2,
+    "sourceTotal": 60,
+    "note": "第一批2件，剩餘58件待審核；不計入每日20件，圖片待授權"
+  },
+  "entries": [
+    {
+      "id": "kunst-am-bau-60-20261118-01",
+      "dedupeKey": "art:henry-moore-large-two-forms-bonn-1979",
+      "name": "Henry Moore｜Large Two Forms（1979）",
+      "artist": "Henry Moore",
+      "works": "Large Two Forms｜1979",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "material": "青銅",
+      "comment": "1979年設置於波昂前聯邦總理府的兩件式青銅大型雕塑，以凸凹互補的有機量體回應政治建築與公共空間。",
+      "artistStatement": "1979年設置於波昂前聯邦總理府的兩件式青銅大型雕塑，以凸凹互補的有機量體回應政治建築與公共空間。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/large-two-forms",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/large-two-forms",
+      "photo": null,
+      "imageStatus": "待取得已授權圖片；官方作品頁含攝影與署名",
+      "status": "官方來源",
+      "updated": "2026-11-18",
+      "researchGroup": "kunstAmBau60Special",
+      "collectionSeries": "60 x Kunst am Bau aus 60 Jahren",
+      "sourcePages": "98–99",
+      "accessNote": "公開可見",
+      "relatedByCity": [],
+      "reviewStatus": "已核對原書與官方作品頁；圖片尚待授權"
+    },
+    {
+      "id": "kunst-am-bau-60-20261118-02",
+      "dedupeKey": "art:ansgar-nierhoff-sechs-assoziationstraeger-bonn-1979",
+      "name": "Ansgar Nierhoff｜Sechs Assoziationsträger（1979）",
+      "artist": "Ansgar Nierhoff",
+      "works": "Sechs Assoziationsträger｜1979",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "德國 / Bonn",
+      "cityKeywords": [
+        "Bonn",
+        "波昂"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "material": "不鏽鋼板、木材",
+      "comment": "六組木構與變形不鏽鋼構件分布於波昂聯邦部會建築綠地，連結農業、軍事與前營區歷史。",
+      "artistStatement": "六組木構與變形不鏽鋼構件分布於波昂聯邦部會建築綠地，連結農業、軍事與前營區歷史。",
+      "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sechs-assoziationstrager",
+      "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/sechs-assoziationstrager",
+      "photo": null,
+      "imageStatus": "待取得已授權圖片；官方作品頁含攝影與署名",
+      "status": "官方來源",
+      "updated": "2026-11-18",
+      "researchGroup": "kunstAmBau60Special",
+      "collectionSeries": "60 x Kunst am Bau aus 60 Jahren",
+      "sourcePages": "92–93",
+      "accessNote": "不對外開放",
+      "relatedByCity": [],
+      "reviewStatus": "已核對原書與官方作品頁；圖片尚待授權"
+    }
+  ]
+}
