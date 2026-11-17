@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:ital,wght@0,400;0,500;0,600&family=Noto+Serif+TC:wght@500;600&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?t=20260915-daily-r68">
+<link rel="stylesheet" href="assets/style.css?t=20261117-publicspace-images-r1">
 </head>
 <body>
 <header class="topbar" id="topbar">
@@ -72,7 +72,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20261117-publicspace-seed-r1';
+  const cacheKey = '20261117-publicspace-images-r1';
   const manifestUrls = [
     'data/backfill-july-manifest.json?t=' + cacheKey,
     'data/backfill-august-manifest.json?t=' + cacheKey,
@@ -115,7 +115,20 @@
           const spaceChunk = await readJson('data/' + filename + '?t=' + (spaceManifest.version || cacheKey));
           for (const entry of (spaceChunk.entries || [])) {
             const key = keyOf(entry);
-            if (!key || seen.has(key)) continue;
+            if (!key) continue;
+            if (seen.has(key)) {
+              const existing = entries.find(item => keyOf(item) === key);
+              if (existing && Array.isArray(entry.images) && entry.images.length) {
+                // Keep the earlier human-edited Chinese research, enrich with first-party galleries.
+                existing.photo = entry.photo;
+                existing.classicImage = entry.classicImage;
+                existing.images = entry.images;
+                existing.imageCredit = entry.imageCredit;
+                existing.imageVerification = entry.imageVerification;
+                existing.imageRights = entry.imageRights;
+              }
+              continue;
+            }
             seen.add(key);
             entries.push(entry);
           }
@@ -146,7 +159,7 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20261117-publicspace-seed-r1"></script>
+<script src="assets/app.js?t=20261117-publicspace-images-r1"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>

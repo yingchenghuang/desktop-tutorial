@@ -1013,3 +1013,14 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
   .ticker{overflow-x:auto}
   .tk-group[aria-hidden]{display:none}
 }
+
+/* PublicSpace first-party image gallery */
+.case-photo-gallery { margin-top:1.5rem; }
+.case-photo-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:14px; margin-top:12px; }
+.case-photo-grid figure { margin:0; min-width:0; }
+.case-photo-grid img { display:block; width:100%; height:auto; aspect-ratio:4/3; object-fit:cover; background:#e7e7e7; border-radius:3px; }
+.case-photo-grid figcaption { margin-top:7px; overflow-wrap:anywhere; font-size:0.75rem; line-height:1.55; opacity:.8; }
+.case-photo-grid figcaption span { display:block; }
+.case-photo-grid .image-load-failed img { display:none; }
+.case-photo-grid .image-load-failed::before { content:'影像暫時無法載入，點擊官方連結查閱'; display:block; padding:20px; border:1px solid #ddd; font-size:.8rem; }
+.case-gallery-rights { font-size:.75rem; line-height:1.6; opacity:.72; margin-top:12px; }

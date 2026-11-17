@@ -136,6 +136,10 @@
       website: website,
       workPage: workPage,
       photo: photo,
+      images: Array.isArray(raw.images) ? raw.images.filter(function (x) { return x && /^https?:\/\//i.test(x.url || ''); }).map(function (x) {
+        return { url: text(x.url), caption: text(x.caption), credit: text(x.credit), kind: text(x.kind) };
+      }) : [],
+      imageRights: text(raw.imageRights),
       classicTitle: text(raw.classicTitle),
       classicImage: classicImage,
       classicDesc: text(raw.classicDesc),
@@ -503,6 +507,18 @@
         (e.classicTitle ? '<figcaption>' + esc(e.classicTitle) + '</figcaption>' : '') + '</figure>'
       : '';
 
+    var galleryHtml = e.images.length
+      ? '<div class="block case-photo-gallery"><div class="block-label">官方專案照片與圖面 · 共 ' + e.images.length + ' 張</div>' +
+        '<div class="case-photo-grid">' + e.images.slice(1).map(function (img, index) {
+          return '<figure><a href="' + esc(img.url) + '" target="_blank" rel="noopener noreferrer" title="開啟官方原始影像">' +
+            '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(img.url) + '" alt="' + esc(img.caption || e.displayName) +
+            '" onerror="this.closest(\'figure\').classList.add(\'image-load-failed\')"></a>' +
+            '<figcaption><b>' + (index + 2) + '</b> ' + esc(img.caption || img.kind || '官方案例影像') +
+            (img.credit && img.credit !== '未公開' ? '<span>攝影／製作：' + esc(img.credit) + '</span>' : '') +
+            '</figcaption></figure>';
+        }).join('') + '</div>' +
+        '<p class="case-gallery-rights">圖像來自 PublicSpace 官方專案頁，著作權屬原權利人。點選影像查看官方原始檔。' + esc(e.imageRights || '') + '</p></div>'
+      : '';
     var works = e.works
       ? '<div class="block"><div class="block-label">代表作</div><p class="works-line">' +
         e.works.split('；').map(function (w) { return esc(w.trim()); }).join('<em>·</em>') + '</p></div>'
@@ -593,7 +609,7 @@
       '<h2>' + esc(e.displayName) + '</h2>' +
       (e.subName ? '<p class="sub">' + esc(e.subName) + '</p>' : '') +
       '<p class="loc">' + esc(e.country) + '・' + esc(e.region) + '・' + esc(e.category) + '</p>' +
-      fig +
+      fig + galleryHtml +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
       accessDetails + imageDetails + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
