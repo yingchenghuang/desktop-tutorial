@@ -1,0 +1,14 @@
+{
+  "version": "2026-11-18-source-research",
+  "generatedAt": "2026-11-17T23:51:35.109191+00:00",
+  "files": [
+    "museum-1000-orte-catalog.json"
+  ],
+  "expectedEntries": 11,
+  "imageSourceEntries": 11,
+  "imagesRepublished": 0,
+  "duplicatesLinked": 335,
+  "sourceUrl": "https://www.museum-der-1000-orte.de/kunstwerke",
+  "rights": "https://www.museum-der-1000-orte.de/nutzungsbedingungen",
+  "reviewStatus": "著作權與研究查核中"
+}
