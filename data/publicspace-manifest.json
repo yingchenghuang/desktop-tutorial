@@ -1,0 +1,16 @@
+{
+  "version": "publicspace-20261117-seed-r1",
+  "generatedAt": "2026-11-17T19:46:00+08:00",
+  "files": [
+    "publicspace-special-20261117.json"
+  ],
+  "activeEntries": 7,
+  "source": "https://www.publicspace.org/en/works",
+  "sourceReportedMoreThan": 438,
+  "ingestionStatus": "partial",
+  "notionSyncedEntries": 7,
+  "notionPlatformEntries": 1,
+  "excludedFromDailyPublicArt": true,
+  "excludedFromCompetitions": true,
+  "note": "來源提供超過438件典藏；目前僅7筆逐件回查並雙平台入庫，不能宣稱全量匯入。"
+}

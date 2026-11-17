@@ -201,7 +201,7 @@
   }
 
   function isPublicArtEntry(entry) {
-    return entry.category === '作品/展覽' && !isCompetitionEntry(entry);
+    return entry.category === '作品/展覽' && entry.tier !== '公共空間案例庫' && !isCompetitionEntry(entry);
   }
 
   function isCrossDatabaseCityMatch(entry, candidate) {
