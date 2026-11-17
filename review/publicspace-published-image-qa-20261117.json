@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-17",
+  "publishedCommit": "4e1a3d6774743e8e26108c01ae51753f6df9fb53",
+  "publicPagesDeployment": {
+    "runId": 44083245450,
+    "conclusion": "success",
+    "url": "https://github.com/yingchenghuang/desktop-tutorial/actions/runs/44083245450"
+  },
+  "deployedSiteAudit": {
+    "runId": 44083246950,
+    "conclusion": "success",
+    "url": "https://github.com/yingchenghuang/desktop-tutorial/actions/runs/44083246950"
+  },
+  "publicEndpoints": {
+    "homepage": {
+      "status": 200
+    },
+    "app_js": {
+      "status": 200
+    },
+    "publicspace_manifest": {
+      "status": 200
+    },
+    "publicspace_catalog": {
+      "status": 200
+    }
+  },
+  "website": {
+    "casesFound": 248,
+    "caseDedupeKeysUnique": true,
+    "imageLinks": 4057,
+    "missingCaseGallery": 0
+  },
+  "browser": {
+    "searchQuery": "Bridgefoot Street Park",
+    "results": 1,
+    "caseGallerySecondaryImages": 19,
+    "mainImage": 1,
+    "visualGalleryLoad": "page gallery DOM rendered; whole-gallery pixel/rights review pending"
+  },
+  "externalImageUrlSample": {
+    "tested": 6,
+    "success": 6,
+    "contentType": "image/jpeg",
+    "status": 200,
+    "fullTotalChecked": false
+  },
+  "notion": {
+    "database": "https://app.notion.com/p/d1232d1e8e284745a0d14cd7d911ec62",
+    "rows": 248,
+    "uniqueDedupeKeys": 248,
+    "duplicates": 0,
+    "rowsMissingMainImageUrl": 0,
+    "mainImageUrlDomain": "www.publicspace.org",
+    "fullGalleryInserted": 248,
+    "imagesReferenced": 4057,
+    "readbackSamples": {
+      "Bridgefoot_Street_Park": 20,
+      "Microdams": 2
+    }
+  },
+  "imageHandling": {
+    "type": "First-party externally hosted image URLs embedded in site and Notion",
+    "copiedToGitHub": 0,
+    "redistributionRightsAudited": false,
+    "all4057HTTPVerified": false
+  },
+  "limitations": {
+    "sourceCasesAdvertised": "more than 438",
+    "indexedCases": 248,
+    "estimatedRemainingAtLeast": 190,
+    "manuallyVerifiedArtworkClassification": false,
+    "imageRights": false,
+    "completePublishedArchive": false
+  },
+  "scope": "PublicSpace / CCCB independent archival series; does not affect daily public art 20 or competition 5"
+}
