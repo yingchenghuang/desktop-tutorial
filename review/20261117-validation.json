@@ -42,6 +42,22 @@
     "note": "同一資訊更新日期另有使用者獨立匯入的248筆 PublicSpace 案例；未刪除、未納入每日固定20則。"
   },
   "pages": {
-    "pending": true
+    "deploymentRun": {
+      "id": 44177063967,
+      "status": "success"
+    },
+    "postDeployVerificationRun": {
+      "id": 44177066724,
+      "status": "success"
+    },
+    "endpoints": [
+      "https://yingchenghuang.github.io/desktop-tutorial/",
+      "https://yingchenghuang.github.io/desktop-tutorial/data/backfill-november-20261117.json",
+      "https://yingchenghuang.github.io/desktop-tutorial/data/backfill-november-manifest.json",
+      "https://yingchenghuang.github.io/desktop-tutorial/data/competitions.json",
+      "https://yingchenghuang.github.io/desktop-tutorial/data/competition-manifest.json"
+    ],
+    "allReadable": true,
+    "verifiedVersion": "20261117-reviewed-r134"
   }
 }
