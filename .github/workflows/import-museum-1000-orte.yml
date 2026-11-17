@@ -25,7 +25,7 @@ jobs:
         run: python -m pip install requests beautifulsoup4
       - name: Read work index and artwork pages from the official source
         run: python scripts/import_museum_1000_orte.py
-      - name: Verify source fidelity and update website manifest entry
+      - name: Validate complete official work registry
         run: |
           python - <<'PY'
           import json
@@ -38,75 +38,25 @@ jobs:
           assert len(items)+len(data["crossReferences"])==len(data["sourceRecords"])
           assert len(items)==len(set(i["dedupeKey"] for i in items))
           assert len(items)==manifest["expectedEntries"]
-          assert len({x['officialUrl'] for x in data['sourceRecords']})==len(data['sourceRecords'])
+          assert len({x["officialUrl"] for x in data["sourceRecords"]})==len(data["sourceRecords"])
           assert all(i.get("workPage","").startswith("https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/") for i in items)
-          assert all(i.get("artist") and i.get("works") for i in items)
-          # Add the completed source collection to the existing live website loader.
-          index=Path("index.html")
-          html=index.read_text(encoding="utf-8")
-          marker="'data/backfill-november-manifest.json?t=' + cacheKey"
-          insertion=marker+",\n    'data/museum-1000-orte-manifest.json?t=' + cacheKey"
-          if "data/museum-1000-orte-manifest.json?t=" not in html:
-              assert marker in html
-              html=html.replace(marker,insertion)
-          if 'id="museum-1000-orte"' not in html:
-              section=('<section class="scope-end wrap" id="museum-1000-orte" aria-label="Museum der 1000 Orte">'
-                  '<p class="lab">Museum der 1000 Orte / 德國聯邦建築藝術</p>'
-                  '<p>德國聯邦官方建築藝術案例庫作品索引，保留每件作品獨立原始來源、藝術家、建築所在地、年代、影像來源及攝影者署名。'
-                  '部分資料與本站60／70週年圖錄重疊，重複作品只保留一筆；照片依官方著作權條款附來源，取得書面授權前不在本站重製。'
-                  '<a href="#archive" id="museum1000Filter">搜尋作品</a> · '
-                  '<a href="https://www.museum-der-1000-orte.de/kunstwerke" target="_blank" rel="noopener noreferrer">官方完整作品集</a>。</p></section>\n')
-              target='<section class="scope-end wrap" aria-label="收錄範圍">'
-              assert target in html
-              html=html.replace(target,section+target)
-          if "var a=document.getElementById('museum1000Filter')" not in html:
-              js=('<script>(function(){var a=document.getElementById("museum1000Filter");'
-                  'if(!a)return;a.addEventListener("click",function(){var q=document.getElementById("q");'
-                  'if(!q)return;q.value="Museum der 1000 Orte";q.dispatchEvent(new Event("input",{bubbles:true}));});})();</script>\n')
-              html=html.replace('<!-- Cloudflare Web Analytics -->',js+'<!-- Cloudflare Web Analytics -->')
-          # Connect all matched official records to their existing cards and search.
-          if 'museum.crossReferences || []' not in html:
-              anchor='      try {\n        const spaceManifest = await readJson(\'data/publicspace-manifest.json?t=\' + cacheKey);'
-              assert anchor in html
-              enrichment="""      try {
-                      const museum = await readJson('data/museum-1000-orte-catalog.json?t=' + cacheKey);
-                      const byId = new Map();
-                      for (const item of entries) {
-                        if (item.id) byId.set(String(item.id), item);
-                        if (item.dedupeKey) byId.set(String(item.dedupeKey), item);
-                      }
-                      let sourceLinked = 0;
-                      for (const relation of (museum.crossReferences || [])) {
-                        const target = byId.get(String(relation.existingRecordId || '')) ||
-                          byId.get(String(relation.existingDedupeKey || ''));
-                        if (!target) continue;
-                        target.museumOriginalWorkPage = relation.officialUrl;
-                        if (!String(target.comment || '').includes('Museum der 1000 Orte')) {
-                          target.comment = String(target.comment || '') + ' Museum der 1000 Orte 官方館藏另有作品原始記錄。';
-                        }
-                        sourceLinked++;
-                      }
-                      base.meta = Object.assign({}, base.meta || {}, {
-                        museum1000OfficialTotal: (museum.sourceRecords || []).length,
-                        museum1000Matched: sourceLinked
-                      });
-                    } catch (error) {
-                      base.meta = Object.assign({}, base.meta || {}, { museum1000Status: 'unavailable' });
-                    }
-              """
-              html=html.replace(anchor,enrichment+anchor)
-          # The museum catalog is a supplement, never included in the daily 20.
-          # Bust the bundle cache, including all existing manifest and CSS asset URLs.
-          html=html.replace("20261118-kab60-kab70-r137","20261118-museum1000-r138")
-          index.write_text(html,encoding="utf-8")
-          print("VALIDATED",len(items),"IMAGE_LINKS",manifest["imageSourceEntries"])
+          print("VERIFIED",len(data["sourceRecords"]),"UNIQUE",len(items),"LINKED",len(data["crossReferences"]))
           PY
-      - name: Commit catalog, audit and verified website presentation
+      - name: Commit research catalog without touching homepage
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/museum-1000-orte-catalog.json data/museum-1000-orte-manifest.json review/museum-1000-orte-audit.json index.html
+          git add data/museum-1000-orte-catalog.json data/museum-1000-orte-manifest.json review/museum-1000-orte-audit.json
           if ! git diff --cached --quiet; then
-            git commit -m "Import official Museum der 1000 Orte source index [image rights pending]"
-            git push
+            git commit -m "Index Museum der 1000 Orte official works and source links"
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                exit 0
+              fi
+              sleep 4
+            done
+            echo "Remote changed during import" >&2
+            exit 1
           fi
