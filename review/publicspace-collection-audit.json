@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:07:07+08:00",
+  "generatedAt": "2026-11-17T20:10:21+08:00",
   "discoveredUniqueUrls": 250,
   "newUrlsRequested": 2,
   "newRecordsImported": 0,
@@ -774,6 +774,12 @@
     ]
   },
   "sourceAdvertisedMoreThan": 438,
+  "imageRecords": 248,
+  "imageTotal": 4057,
+  "imageMissing": 0,
+  "imageMissingKeys": [],
+  "gallerySource": "Official project page #post-gallery / documents links",
+  "imageReusePermissionVerified": false,
   "humanReviewRequired": true,
   "notionBulkSyncPending": true
 }

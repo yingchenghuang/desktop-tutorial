@@ -1,6 +1,6 @@
 {
   "version": "publicspace-20261117-automated",
-  "generatedAt": "2026-11-17T20:07:07+08:00",
+  "generatedAt": "2026-11-17T20:10:21+08:00",
   "files": [
     "publicspace-special-20261117.json",
     "publicspace-catalog.json"
@@ -16,5 +16,9 @@
   "note": "全站候選案例自動採集，未完成全量逐筆人工驗收及Notion同步；不能把此數量當作已核對的公共藝術作品。",
   "autoDiscoveredUrls": 250,
   "autoImportedEntries": 248,
-  "humanReviewRequired": true
+  "humanReviewRequired": true,
+  "imageRecords": 248,
+  "imageTotal": 4057,
+  "imageMissing": 0,
+  "imageRightsReviewed": false
 }
