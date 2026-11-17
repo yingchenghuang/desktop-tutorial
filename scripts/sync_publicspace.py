@@ -102,13 +102,14 @@ def parse_case(url):
     if not html:
         return None
     doc = BeautifulSoup(html, "html.parser")
-    head = doc.find("h1")
-    name = head.get_text(" ", strip=True) if head else ""
+    # Liferay's page masthead often renders a blank h1 before the artwork title.
+    titles = [h.get_text(" ", strip=True) for h in doc.find_all("h1")]
+    name = next((t for t in titles if len(t)>3 and t.lower() not in ("works", "publicspace", "public space")), "")
     if not name or name.lower() in ("works", "publicspace", "public space"):
         return None
     text = doc.get_text("\n", strip=True)
-    place = doc.find("h2")
-    label = place.get_text(" ", strip=True) if place else ""
+    h2_values = [h.get_text(" ", strip=True) for h in doc.find_all("h2")]
+    label = next((t for t in h2_values if re.search(r"\([^)]+\)\s*,\s*(?:19|20)\d{2}", t)), "")
     m = re.search(r"^(.+?)\s*\(([^)]+)\)\s*,\s*(20\d\d|19\d\d)", label)
     city = m.group(1).strip() if m else line_value(text, "CITY")
     country = m.group(2).strip() if m else line_value(text, "COUNTRY")
@@ -164,6 +165,8 @@ def main():
     old = read_json(FILE, {"entries":[]})
     known = {e["dedupeKey"]: e for e in old.get("entries",[]) if e.get("dedupeKey")}
     new_urls = [u for u in urls if "publicspace:" + u.rsplit("/",1)[-1] not in known]
+    print("DISCOVERY", json.dumps({"uniqueUrls":len(urls),"sources":discovery},ensure_ascii=False),flush=True)
+    print("SAMPLE_URLS", new_urls[:10],flush=True)
     # Do not overwhelm the original institution: six concurrent requests maximum.
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
         for item in pool.map(parse_case, new_urls):
@@ -180,7 +183,7 @@ def main():
     AUDIT.write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     # A blocked or empty crawl must never replace existing case data.
     if not records:
-        print("NO_VALID_RECORDS; source blocked or page structure changed", flush=True)
+        print("NO_VALID_RECORDS; source blocked, title selectors changed, or index returned empty", flush=True)
         return 2
     FILE.parent.mkdir(parents=True, exist_ok=True)
     FILE.write_text(json.dumps({"meta":{"date":today,"generatedAt":now,
