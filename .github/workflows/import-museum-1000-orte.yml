@@ -33,9 +33,12 @@ jobs:
           data=json.loads(Path("data/museum-1000-orte-catalog.json").read_text())
           manifest=json.loads(Path("data/museum-1000-orte-manifest.json").read_text())
           items=data["entries"]
-          assert len(items)>30
+          assert len(data["sourceRecords"])>=300
+          assert len(items)>0
+          assert len(items)+len(data["crossReferences"])==len(data["sourceRecords"])
           assert len(items)==len(set(i["dedupeKey"] for i in items))
           assert len(items)==manifest["expectedEntries"]
+          assert len({x['officialUrl'] for x in data['sourceRecords']})==len(data['sourceRecords'])
           assert all(i.get("workPage","").startswith("https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/") for i in items)
           assert all(i.get("artist") and i.get("works") for i in items)
           # Add the completed source collection to the existing live website loader.
@@ -61,6 +64,38 @@ jobs:
                   'if(!a)return;a.addEventListener("click",function(){var q=document.getElementById("q");'
                   'if(!q)return;q.value="Museum der 1000 Orte";q.dispatchEvent(new Event("input",{bubbles:true}));});})();</script>\n')
               html=html.replace('<!-- Cloudflare Web Analytics -->',js+'<!-- Cloudflare Web Analytics -->')
+          # Connect all matched official records to their existing cards and search.
+          if 'museum.crossReferences || []' not in html:
+              anchor='      try {\n        const spaceManifest = await readJson(\'data/publicspace-manifest.json?t=\' + cacheKey);'
+              assert anchor in html
+              enrichment="""      try {
+        const museum = await readJson('data/museum-1000-orte-catalog.json?t=' + cacheKey);
+        const byId = new Map();
+        for (const item of entries) {
+          if (item.id) byId.set(String(item.id), item);
+          if (item.dedupeKey) byId.set(String(item.dedupeKey), item);
+        }
+        let sourceLinked = 0;
+        for (const relation of (museum.crossReferences || [])) {
+          const target = byId.get(String(relation.existingRecordId || '')) ||
+            byId.get(String(relation.existingDedupeKey || ''));
+          if (!target) continue;
+          target.museumOriginalWorkPage = relation.officialUrl;
+          if (!String(target.comment || '').includes('Museum der 1000 Orte')) {
+            target.comment = String(target.comment || '') + ' Museum der 1000 Orte 官方館藏另有作品原始記錄。';
+          }
+          sourceLinked++;
+        }
+        base.meta = Object.assign({}, base.meta || {}, {
+          museum1000OfficialTotal: (museum.sourceRecords || []).length,
+          museum1000Matched: sourceLinked
+        });
+      } catch (error) {
+        base.meta = Object.assign({}, base.meta || {}, { museum1000Status: 'unavailable' });
+      }
+"""
+              html=html.replace(anchor,enrichment+anchor)
+          # The museum catalog is a supplement, never included in the daily 20.
           # Bust the bundle cache, including all existing manifest and CSS asset URLs.
           html=html.replace("20261118-kab60-kab70-r137","20261118-museum1000-r138")
           index.write_text(html,encoding="utf-8")
