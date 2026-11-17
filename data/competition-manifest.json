@@ -1,47 +1,44 @@
 {
-  "version": "20261116-reviewed-r133",
-  "generatedAt": "2026-11-16T05:30:00+08:00",
+  "version": "20261117-reviewed-r134",
+  "generatedAt": "2026-11-18T04:57:45+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 137,
+  "activeEntries": 122,
   "addedToday": 5,
   "addedThisRun": 5,
-  "expiredRemoved": 1,
+  "expiredRemoved": 20,
   "expiredRemovedIds": [
-    "competition-2026-10-29-03"
+    "competition-2026-11-14-04",
+    "competition-2026-11-13-02",
+    "competition-2026-11-12-04",
+    "competition-2026-11-07-01",
+    "competition-2026-11-07-02",
+    "competition-2026-11-05-05",
+    "competition-2026-10-17-02",
+    "competition-2026-10-16-02",
+    "competition-2026-10-15-03",
+    "competition-2026-10-11-02",
+    "competition-2026-10-10-01",
+    "competition-2026-10-07-03",
+    "competition-2026-09-20-03",
+    "competition-2026-09-15-04",
+    "competition-2026-09-05-03",
+    "competition-2026-08-21-03",
+    "competition-2026-10-20-04",
+    "competition-2026-10-22-05",
+    "competition-2026-10-30-02",
+    "competition-2026-11-02-02"
   ],
   "duplicateRemoved": 0,
   "duplicateRemovedIds": [],
   "counts": {
-    "total": 137,
-    "active": 137
+    "total": 122,
+    "active": 122
   },
   "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0,
-  "timezoneCorrections": [
-    {
-      "id": "competition-2026-11-11-05",
-      "previousDeadline": "2027-01-15T23:59:00-06:00",
-      "correctedDeadline": "2027-01-15T23:59:00-07:00",
-      "checkedAt": "2026-11-16",
-      "note": "官方明載 11:59 pm MST；America/Edmonton 於1月為 UTC-07:00。"
-    },
-    {
-      "id": "competition-2026-11-11-02",
-      "previousDeadline": "2027-01-11T23:59:59-07:00",
-      "correctedDeadline": "2027-01-11T23:59:59-08:00",
-      "checkedAt": "2026-11-16",
-      "note": "官方僅公布日期；依主辦地當日23:59:59，America/Vancouver 於1月為 UTC-08:00。"
-    },
-    {
-      "id": "competition-2026-11-03-04",
-      "previousDeadline": "2026-11-25T16:30:00-06:00",
-      "correctedDeadline": "2026-11-25T16:30:00-07:00",
-      "checkedAt": "2026-11-16",
-      "note": "官方明載 4:30 pm MT；America/Edmonton 於11月25日為 UTC-07:00。"
-    }
-  ],
-  "note": "11月16日新增5件有效公共藝術徵件；保留全部未截止紀錄，移除1件已逾期項目，並依正式來源修正3筆既有期限UTC偏移。"
+  "timezoneCorrections": [],
+  "note": "11月17日新增5件有效公共藝術徵件；依 2026-11-18T04:57:45+08:00 實際截止瞬間移除20件已逾期項目，保留其餘未截止紀錄。"
 }

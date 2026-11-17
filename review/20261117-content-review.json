@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-17",
+  "distribution": {
+    "currentOrOngoing": 10,
+    "globalClassic": 5,
+    "germanOrGermanContextClassic": 5
+  },
+  "excludedScopes": [
+    "競圖",
+    "公開徵件",
+    "補助",
+    "獎項",
+    "傳統人物雕像",
+    "歷史人物立像",
+    "胸像",
+    "寫實人物紀念碑",
+    "古典擬人雕塑",
+    "名人紀念雕像"
+  ],
+  "entries": [
+    {
+      "id": "public-art-2026-11-17-01",
+      "name": "01｜Lois Klassen｜Blanketing",
+      "dedupeKey": "art:lois-klassen:blanketing:vancouver:2026",
+      "cityKeywords": [
+        "Vancouver",
+        "溫哥華"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=973&FromArtworkSearch=False",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=973&FromArtworkSearch=False",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-02",
+      "name": "02｜Carmen Rosen｜Water Woman",
+      "dedupeKey": "art:carmen-rosen:water-woman:vancouver:2026",
+      "cityKeywords": [
+        "Vancouver",
+        "溫哥華"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=996&FromArtworkSearch=False",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=996&FromArtworkSearch=False",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-03",
+      "name": "03｜Ken Lum｜The Yawn of Man",
+      "dedupeKey": "art:ken-lum:the-yawn-of-man:vancouver:2026",
+      "cityKeywords": [
+        "Vancouver",
+        "溫哥華"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=979&FromArtworkSearch=False",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=979&FromArtworkSearch=False",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-04",
+      "name": "04｜Hank Bull｜Landmark (Sequoia Symbiosis)",
+      "dedupeKey": "art:hank-bull:landmark-sequoia-symbiosis:vancouver:2025",
+      "cityKeywords": [
+        "Vancouver",
+        "溫哥華"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=976&FromArtworkSearch=False",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=976&FromArtworkSearch=False",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-05",
+      "name": "05｜Cheryl Hamilton｜Gentle Reminders",
+      "dedupeKey": "art:cheryl-hamilton:gentle-reminders:vancouver:2025",
+      "cityKeywords": [
+        "Vancouver",
+        "溫哥華"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=977&FromArtworkSearch=False",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=977&FromArtworkSearch=False",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-06",
+      "name": "06｜Thomas Cannell｜Spa:l' (Raven)",
+      "dedupeKey": "art:thomas-cannell:spa-l-raven:vancouver:2025",
+      "cityKeywords": [
+        "Vancouver",
+        "溫哥華"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=995&FromArtworkSearch=False",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=995&FromArtworkSearch=False",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-07",
+      "name": "07｜Caroline Monnet 與 Dean Baldwin Lew｜Trajet",
+      "dedupeKey": "art:caroline-monnet-dean-baldwin-lew:trajet:toronto:2026",
+      "cityKeywords": [
+        "Toronto",
+        "多倫多"
+      ],
+      "source": "https://www.toronto.ca/explore-enjoy/parks-recreation/places-spaces/beaches-gardens-attractions/biidaasige-park/public-art-at-biidaasige-park/",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.toronto.ca/explore-enjoy/parks-recreation/places-spaces/beaches-gardens-attractions/biidaasige-park/public-art-at-biidaasige-park/",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-08",
+      "name": "08｜Kristi Chen｜SAMA SAMA",
+      "dedupeKey": "art:kristi-chen:sama-sama:toronto:20262027",
+      "cityKeywords": [
+        "Toronto",
+        "多倫多"
+      ],
+      "source": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/public-art-monuments-collection/public-art-competitions/",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/public-art-monuments-collection/public-art-competitions/",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-09",
+      "name": "09｜Deborah Edmeades｜There We Would Now Have Been",
+      "dedupeKey": "art:deborah-edmeades:there-we-would-now-have-been:vancouver:2025",
+      "cityKeywords": [
+        "Vancouver",
+        "溫哥華"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=978&FromArtworkSearch=False",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=978&FromArtworkSearch=False",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-10",
+      "name": "10｜Lead Pencil Studio（Annie Han、Daniel Mihalyo）｜Home + Away",
+      "dedupeKey": "art:lead-pencil-studio-annie-han-daniel-mihalyo:home-away:vancouver:2024",
+      "cityKeywords": [
+        "Vancouver",
+        "溫哥華"
+      ],
+      "source": "https://covapp.vancouver.ca/publicartregistry/ArtworkDetail.aspx?ArtworkId=604&FromArtworkSearch=False",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://covapp.vancouver.ca/publicartregistry/ArtworkDetail.aspx?ArtworkId=604&FromArtworkSearch=False",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "current"
+    },
+    {
+      "id": "public-art-2026-11-17-11",
+      "name": "11｜Walter De Maria｜The Lightning Field",
+      "dedupeKey": "art:walter-de-maria:the-lightning-field:western-new-mexico:1977",
+      "cityKeywords": [
+        "Western New Mexico",
+        "New Mexico",
+        "新墨西哥州"
+      ],
+      "source": "https://www.diaart.org/exhibition/exhibitions-projects/walter-de-maria-the-lightning-field-site",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.diaart.org/exhibition/exhibitions-projects/walter-de-maria-the-lightning-field-site",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "globalClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-12",
+      "name": "12｜Michael Heizer｜Double Negative",
+      "dedupeKey": "art:michael-heizer:double-negative:overton:1969",
+      "cityKeywords": [
+        "Overton",
+        "Moapa Valley",
+        "奧弗頓"
+      ],
+      "source": "https://www.moca.org/artworks/double-negative-2",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.moca.org/artworks/double-negative-2",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "globalClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-13",
+      "name": "13｜Maya Lin｜Storm King Wavefield",
+      "dedupeKey": "art:maya-lin:storm-king-wavefield:new-windsor:20072008",
+      "cityKeywords": [
+        "New Windsor",
+        "紐約州新溫莎"
+      ],
+      "source": "https://stormking.org/wavefield/",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://stormking.org/wavefield/",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "globalClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-14",
+      "name": "14｜Tony Smith｜Snake Is Out",
+      "dedupeKey": "art:tony-smith:snake-is-out:new-york-city:1962197019821983",
+      "cityKeywords": [
+        "New York City",
+        "New York",
+        "紐約"
+      ],
+      "source": "https://www.publicartfund.org/exhibitions/view/snake-is-out/",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.publicartfund.org/exhibitions/view/snake-is-out/",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "globalClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-15",
+      "name": "15｜Harold Balazs｜Walking Round Thing",
+      "dedupeKey": "art:harold-balazs:walking-round-thing:seattle:19802024",
+      "cityKeywords": [
+        "Seattle",
+        "西雅圖"
+      ],
+      "source": "https://centerspotlight.seattle.gov/2024/05/30/seattle-center-welcomes-new-public-art/",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://centerspotlight.seattle.gov/2024/05/30/seattle-center-welcomes-new-public-art/",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "globalClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-16",
+      "name": "16｜Wolfgang Christ／Jürgen LIT Fischer｜Tetraeder（Haldenereignis Emscherblick）",
+      "dedupeKey": "art:wolfgang-christ-jurgen-lit-fischer:tetraeder-haldenereignis-emscherblick:bottrop:1995",
+      "cityKeywords": [
+        "Bottrop",
+        "博特羅普"
+      ],
+      "source": "https://www.bottrop.de/freizeit-tourismus/sehenswert/Tetraeder.php",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.bottrop.de/freizeit-tourismus/sehenswert/Tetraeder.php",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "germanClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-17",
+      "name": "17｜Lois Weinberger｜Das über die Pflanzen / ist eins mit ihnen",
+      "dedupeKey": "art:lois-weinberger:das-uber-die-pflanzen-ist-eins-mit-ihnen:kassel:1997",
+      "cityKeywords": [
+        "Kassel",
+        "卡塞爾"
+      ],
+      "source": "https://www.kassel.de/buerger/kunst_und_kultur/das-ueber-pflanzen-ist-eins-mit-ihnen.php",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kassel.de/buerger/kunst_und_kultur/das-ueber-pflanzen-ist-eins-mit-ihnen.php",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "germanClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-18",
+      "name": "18｜Ulrich Rückriem｜Ein Granitblock…",
+      "dedupeKey": "art:ulrich-ruckriem:ein-granitblock:kassel:1982",
+      "cityKeywords": [
+        "Kassel",
+        "卡塞爾"
+      ],
+      "source": "https://www1.kassel.de/buerger/kunst_und_kultur/ein-granitblock.php",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www1.kassel.de/buerger/kunst_und_kultur/ein-granitblock.php",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "germanClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-19",
+      "name": "19｜Haus-Rucker-Co｜Rahmenbau",
+      "dedupeKey": "art:haus-rucker-co:rahmenbau:kassel:1977",
+      "cityKeywords": [
+        "Kassel",
+        "卡塞爾"
+      ],
+      "source": "https://www.kassel.de/buerger/kunst_und_kultur/rahmenbau.php",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kassel.de/buerger/kunst_und_kultur/rahmenbau.php",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "germanClassic"
+    },
+    {
+      "id": "public-art-2026-11-17-20",
+      "name": "20｜Horst H. Baumann｜Laserscape Kassel",
+      "dedupeKey": "art:horst-h-baumann:laserscape-kassel:kassel:1977",
+      "cityKeywords": [
+        "Kassel",
+        "卡塞爾"
+      ],
+      "source": "https://www.kassel.de/buerger/kunst_und_kultur/laserscape-kassel.php",
+      "image": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://www.kassel.de/buerger/kunst_und_kultur/laserscape-kassel.php",
+      "imageVerification": "官方作品頁預覽圖；已核對頁面內作品名稱、作者及狀態，頁面可讀不等於原始影像可再利用",
+      "classification": "germanClassic"
+    }
+  ],
+  "dedupe": {
+    "previousWebsiteEntriesChecked": 330,
+    "exactKeyCollisions": [],
+    "semanticIdentityCollisions": [],
+    "notionPrecheck": "前10筆以Query Data Source查詢；其餘15筆依圖片速讀全量3228列回讀，未命中。"
+  },
+  "note": "逐件保留真正作品年份與歷史展期；圖片欄位有值不等於作品攝影已完成人工視覺驗證。"
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-18T04:57:45+08:00",
+  "publicArt": {
+    "total": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    },
+    "dedupeWithinRun": true,
+    "previousWebsiteEntriesChecked": 330,
+    "previousKeyCollisions": [],
+    "previousSemanticCollisions": [],
+    "missingRequired": []
+  },
+  "competitions": {
+    "active": 122,
+    "addedToday": 5,
+    "expiredRemoved": 20,
+    "duplicateKeys": [],
+    "expiredActive": [],
+    "badParse": [],
+    "timezoneOffsetMismatches": [],
+    "missingRequired": []
+  },
+  "city": {
+    "artMissing": [],
+    "competitionMissing": [],
+    "relatedBroken": []
+  },
+  "images": {
+    "publicArtFieldsPresent": 20,
+    "competitionFieldsPresent": 5,
+    "note": "本日影像欄位為官方作品／計畫頁或官方頁面預覽；不把HTTP 200等同逐件作品攝影人工驗證。"
+  },
+  "notion": {
+    "batchPublicArtCreated": 20,
+    "batchCompetitionsCreated": 5,
+    "batchDuplicateKeys": 0,
+    "postWriteBatchKeysVisible": 25,
+    "note": "同一資訊更新日期另有使用者獨立匯入的248筆 PublicSpace 案例；未刪除、未納入每日固定20則。"
+  },
+  "pages": {
+    "pending": true
+  }
+}

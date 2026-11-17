@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-17",
+  "checkedAt": "2026-11-18T04:57:45+08:00",
+  "added": [
+    {
+      "id": "competition-2026-11-17-01",
+      "name": "01｜Public Art Chattanooga｜RFQ: Indigenous Public Art Commissions",
+      "dedupeKey": "opportunity:public-art-chattanooga:rfq-indigenous-public-art-commissions:chattanooga:2026",
+      "deadline": "2027-01-10T23:59:59-05:00",
+      "deadlineTimezone": "America/New_York",
+      "deadlinePrecision": "date",
+      "organizer": "Public Art Chattanooga",
+      "eligibility": "原住民族藝術家或由原住民族藝術家領導的團隊；鼓勵跨部族合作；正式申請頁標示全美徵件",
+      "budget": "雕塑委託 US$225,000（設計酬金25,000＋製作200,000）；表面設計 US$50,500（設計12,500＋製作38,000）；入圍提案酬金 US$2,500",
+      "applicationFee": "未公開（正式申請頁未列）",
+      "source": "https://www.artworkarchive.com/call-for-entry/rfq-indigenous-public-art-commissions-chattanooga-tn-2027",
+      "imageVerification": "官方徵件頁面預覽；已核對主辦單位、期限與申請條件，非完成作品攝影"
+    },
+    {
+      "id": "competition-2026-11-17-02",
+      "name": "02｜4Culture｜Public Artist Roster: 2D Design Opportunities",
+      "dedupeKey": "opportunity:4culture:public-artist-roster-2d-design-opportunities:seattle:2026",
+      "deadline": "2027-01-14T16:00:00-08:00",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "time",
+      "organizer": "4Culture",
+      "eligibility": "華盛頓州個人藝術家或藝術團隊；以二維設計實務為主",
+      "budget": "設計費 US$2,000–50,000；製作與安裝另編列",
+      "applicationFee": "未公開（官方頁未列）",
+      "source": "https://www.4culture.org/grants/4culture-public-art-roster-2d/",
+      "imageVerification": "官方徵件頁面預覽；已核對主辦單位、期限與申請條件，非完成作品攝影"
+    },
+    {
+      "id": "competition-2026-11-17-03",
+      "name": "03｜City of Cedar Park｜Friends of Belle Sculptures",
+      "dedupeKey": "opportunity:city-of-cedar-park:friends-of-belle-sculptures:cedar-park:2026",
+      "deadline": "2026-12-31T17:00:00-06:00",
+      "deadlineTimezone": "America/Chicago",
+      "deadlinePrecision": "time",
+      "organizer": "City of Cedar Park",
+      "eligibility": "藝術家或藝術團隊；須提交原創設計並能於2027年9月10日前運送與安裝，官方簡章未列地域限制",
+      "budget": "US$40,000–50,000；入圍者提案酬金 US$250",
+      "applicationFee": "未公開（官方簡章未列）",
+      "source": "https://www.cedarparktexas.gov/DocumentCenter/View/11939/2026-Sculpture-Garden-Call-for-Entries",
+      "imageVerification": "官方徵件頁面預覽；已核對主辦單位、期限與申請條件，非完成作品攝影"
+    },
+    {
+      "id": "competition-2026-11-17-04",
+      "name": "04｜City of Pendleton Arts Commission｜Brownfield Park Mural",
+      "dedupeKey": "opportunity:city-of-pendleton-arts-commission:brownfield-park-mural:pendleton:2026",
+      "deadline": "2026-12-31T23:59:59-08:00",
+      "deadlineTimezone": "America/Los_Angeles",
+      "deadlinePrecision": "date",
+      "organizer": "City of Pendleton Arts Commission",
+      "eligibility": "18歲以上藝術家；官方說明本系列旨在讓未曾完成公共藝術者建立資歷，未公開地域限制",
+      "budget": "未公開（官方頁僅稱另有藝術家酬金與材料預算）",
+      "applicationFee": "未公開（官方頁未列）",
+      "source": "https://www.pendletonor.gov/bc-ac/page/arts-commission-seeks-proposals-new-brownfield-park-mural",
+      "imageVerification": "官方徵件頁面預覽；已核對主辦單位、期限與申請條件，非完成作品攝影"
+    },
+    {
+      "id": "competition-2026-11-17-05",
+      "name": "05｜City of Goodyear Arts & Culture｜Fire Station 189 Exterior Public Art RFQ",
+      "dedupeKey": "opportunity:city-of-goodyear-arts-culture:fire-station-189-exterior-public-art-rfq:goodyear:2026",
+      "deadline": "2027-01-04T23:59:00-07:00",
+      "deadlineTimezone": "America/Phoenix",
+      "deadlinePrecision": "time",
+      "organizer": "City of Goodyear Arts & Culture",
+      "eligibility": "亞利桑那州藝術家、團隊或教育機構；須具至少3件預算達US$60,000的公共藝術經驗及公共參與經驗",
+      "budget": "US$180,000",
+      "applicationFee": "未公開（市府正式頁回讀403，未採聚合頁費用欄推定）",
+      "source": "https://www.goodyearaz.gov/government/departments/parks-recreation/arts-culture/art-for-adults/call-to-artists-1718",
+      "imageVerification": "官方徵件頁面預覽；已核對主辦單位、期限與申請條件，非完成作品攝影"
+    }
+  ],
+  "expiredRemoved": [
+    {
+      "id": "competition-2026-11-14-04",
+      "name": "04｜The PASEO Project｜PASEO 2027 Biennial Open Call",
+      "deadline": "2026-11-15T23:59:59-07:00",
+      "deadlineTimezone": "America/Denver"
+    },
+    {
+      "id": "competition-2026-11-13-02",
+      "name": "02｜Camden Council｜First Nations Art at John Street Pocket Garden",
+      "deadline": "2026-11-16T23:59:59+11:00",
+      "deadlineTimezone": "Australia/Sydney"
+    },
+    {
+      "id": "competition-2026-11-12-04",
+      "name": "04｜North Yorkshire Council｜Selby Park Improvements Artist Commission",
+      "deadline": "2026-11-16T17:00:00+00:00",
+      "deadlineTimezone": "Europe/London"
+    },
+    {
+      "id": "competition-2026-11-07-01",
+      "name": "01｜City of Palo Alto Public Art Program｜Code:ART 2027 Lytton Plaza Installation",
+      "deadline": "2026-11-16T23:59:00-08:00",
+      "deadlineTimezone": "America/Los_Angeles"
+    },
+    {
+      "id": "competition-2026-11-07-02",
+      "name": "02｜City of Palo Alto Public Art Program｜Code:ART 2027 Interactive Media Installations",
+      "deadline": "2026-11-16T23:59:00-08:00",
+      "deadlineTimezone": "America/Los_Angeles"
+    },
+    {
+      "id": "competition-2026-11-05-05",
+      "name": "05｜DC Commission on the Arts and Humanities｜FY27 Color the Curb: School Safety Program",
+      "deadline": "2026-11-16T17:00:00-05:00",
+      "deadlineTimezone": "America/New_York"
+    },
+    {
+      "id": "competition-2026-10-17-02",
+      "name": "02｜City of Ames Public Art Commission｜2027–28 Ames Annual Outdoor Sculpture Exhibition",
+      "deadline": "2026-11-15T23:59:59-06:00",
+      "deadlineTimezone": "America/Chicago"
+    },
+    {
+      "id": "competition-2026-10-16-02",
+      "name": "02｜WMATA Art in Transit｜Bladensburg Bus Garage Public Art Project",
+      "deadline": "2026-11-15T23:59:59-05:00",
+      "deadlineTimezone": "America/New_York"
+    },
+    {
+      "id": "competition-2026-10-15-03",
+      "name": "03｜Create Gwinnett｜Nicole Love Hendrickson Artway Public Art Installation",
+      "deadline": "2026-11-17T12:00:00-05:00",
+      "deadlineTimezone": "America/New_York"
+    },
+    {
+      "id": "competition-2026-10-11-02",
+      "name": "02｜Fort Collins｜Water Quality Services Division Building Public Art",
+      "deadline": "2026-11-16T23:59:00-07:00",
+      "deadlineTimezone": "America/Denver"
+    },
+    {
+      "id": "competition-2026-10-10-01",
+      "name": "01｜Fremont｜boxART! Program",
+      "deadline": "2026-11-15T23:59:00-08:00",
+      "deadlineTimezone": "America/Los_Angeles"
+    },
+    {
+      "id": "competition-2026-10-07-03",
+      "name": "03｜Charlottetown｜Traffic Control Cabinet Wrap",
+      "deadline": "2026-11-16T23:59:00-04:00",
+      "deadlineTimezone": "America/Halifax"
+    },
+    {
+      "id": "competition-2026-09-20-03",
+      "name": "03｜Pitt County Arts Council｜2027 DownEast 全國戶外雕塑展",
+      "deadline": "2026-11-15T23:59:00-07:00",
+      "deadlineTimezone": "America/Phoenix"
+    },
+    {
+      "id": "competition-2026-09-15-04",
+      "name": "04｜Sound Scene 20｜Sounds of the City",
+      "deadline": "2026-11-15T23:59:59-05:00",
+      "deadlineTimezone": "America/New_York"
+    },
+    {
+      "id": "competition-2026-09-05-03",
+      "name": "03｜Nordwalde｜arsLITURGICA：Wen suchst du?",
+      "deadline": "2026-11-17T18:00:00+01:00",
+      "deadlineTimezone": "Europe/Berlin"
+    },
+    {
+      "id": "competition-2026-08-21-03",
+      "name": "36｜ars LITURGICA 2026｜聖狄奧尼修斯教堂永久藝術",
+      "deadline": "2026-11-17T18:00:00+01:00",
+      "deadlineTimezone": "Europe/Berlin"
+    },
+    {
+      "id": "competition-2026-10-20-04",
+      "name": "04｜Rochester Art Center｜Art4Trails 2026–27",
+      "deadline": "2026-11-15T23:45:00-06:00",
+      "deadlineTimezone": "America/Chicago"
+    },
+    {
+      "id": "competition-2026-10-22-05",
+      "name": "05｜Jewish Federation of Sarasota-Manatee｜Three Outdoor Sculpture Opportunities",
+      "deadline": "2026-11-15T23:59:59-05:00",
+      "deadlineTimezone": "America/New_York"
+    },
+    {
+      "id": "competition-2026-10-30-02",
+      "name": "02｜City of Boulder Office of Cultural and Economic Development｜Pearl Street Mall 50th Anniversary — Experiments in Public Art",
+      "deadline": "2026-11-16T17:00:00-07:00",
+      "deadlineTimezone": "America/Denver"
+    },
+    {
+      "id": "competition-2026-11-02-02",
+      "name": "02｜City of Santa Fe Arts & Culture Department｜AIPP Public Artist Roster：Muralists, Street Artists, Fabricators and Production Specialists",
+      "deadline": "2026-11-15T23:59:00-07:00",
+      "deadlineTimezone": "America/Denver"
+    }
+  ],
+  "activeAfter": 122,
+  "note": "Goodyear正式頁本次回讀403；其欄位依同一市府頁索引內容核對，未公開欄位保留未公開。Chattanooga兩個第一方頁面狀態矛盾已記錄。"
+}

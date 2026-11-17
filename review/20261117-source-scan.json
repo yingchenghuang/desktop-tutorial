@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-17",
+  "checkedAt": "2026-11-18T04:57:45+08:00",
+  "readable": [
+    "Public Art Archive",
+    "Institute for Public Art",
+    "CODAworx",
+    "Americans for the Arts · Public Art",
+    "Museum der 1000 Orte",
+    "KORO · Public Art Norway",
+    "Public Art Agency Sweden",
+    "MAPS · Museum of Art in Public Space",
+    "Swiss Federal Office · Kunst am Bau",
+    "Public Art Fund",
+    "Creative Time",
+    "Artangel",
+    "Forecast Public Art",
+    "Art Platform Japan",
+    "Echigo-Tsumari Art Field",
+    "Seoul Public Art Archive",
+    "Toronto · Public Art",
+    "Vancouver · Public Art",
+    "Melbourne · Public Art Open Data",
+    "Land Art Flevoland"
+  ],
+  "blocked": [
+    {
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "status": "HTTP 401，正文未讀取，保留下次重查"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "status": "HTTP 403，正文未讀取，保留下次重查"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "status": "HTTP 403，正文未讀取，保留下次重查"
+    }
+  ],
+  "note": "共23個固定來源（原22站＋Land Art Flevoland）；20站成功讀取，3站受阻。未將受阻站標示為已查核，也未繞過存取限制。"
+}
