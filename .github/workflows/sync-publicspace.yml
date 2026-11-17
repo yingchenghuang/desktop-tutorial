@@ -1,0 +1,55 @@
+name: Research PublicSpace case archive
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 2 * * *'
+  push:
+    paths:
+      - 'scripts/sync_publicspace.py'
+      - '.github/workflows/sync-publicspace.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicspace-case-ingest
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 playwright
+          python -m playwright install --with-deps chromium
+      - name: Scan first-party PublicSpace project archive
+        run: python scripts/sync_publicspace.py
+      - name: Validate generated catalog and preserve other data streams
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          d=json.loads(pathlib.Path('data/publicspace-catalog.json').read_text())
+          a=d['entries']
+          assert len(a)>0
+          assert len({x['dedupeKey'] for x in a})==len(a)
+          assert all(x['tier']=='公共空間案例庫' and x.get('cityKeywords') and x.get('website') for x in a)
+          assert all(x.get('researchGroup')=='publicspaceSpecial' for x in a)
+          print('Automated records',len(a),'still require human review')
+          PY
+      - name: Commit only PublicSpace archive and audit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/publicspace-catalog.json data/publicspace-manifest.json review/publicspace-collection-audit.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh PublicSpace independent case research catalog [unreviewed]"
+            git push
+          fi
