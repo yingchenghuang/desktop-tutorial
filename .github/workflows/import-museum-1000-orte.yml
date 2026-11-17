@@ -1,0 +1,77 @@
+name: Import Museum der 1000 Orte artwork catalog
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/import_museum_1000_orte.py'
+      - '.github/workflows/import-museum-1000-orte.yml'
+permissions:
+  contents: write
+concurrency:
+  group: museum-1000-orte-import
+  cancel-in-progress: false
+jobs:
+  source-archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 32
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install crawler parser
+        run: python -m pip install requests beautifulsoup4
+      - name: Read work index and artwork pages from the official source
+        run: python scripts/import_museum_1000_orte.py
+      - name: Verify source fidelity and update website manifest entry
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          data=json.loads(Path("data/museum-1000-orte-catalog.json").read_text())
+          manifest=json.loads(Path("data/museum-1000-orte-manifest.json").read_text())
+          items=data["entries"]
+          assert len(items)>30
+          assert len(items)==len(set(i["dedupeKey"] for i in items))
+          assert len(items)==manifest["expectedEntries"]
+          assert all(i.get("workPage","").startswith("https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/") for i in items)
+          assert all(i.get("artist") and i.get("works") for i in items)
+          # Add the completed source collection to the existing live website loader.
+          index=Path("index.html")
+          html=index.read_text(encoding="utf-8")
+          marker="'data/backfill-november-manifest.json?t=' + cacheKey"
+          insertion=marker+",\n    'data/museum-1000-orte-manifest.json?t=' + cacheKey"
+          if "data/museum-1000-orte-manifest.json?t=" not in html:
+              assert marker in html
+              html=html.replace(marker,insertion)
+          if 'id="museum-1000-orte"' not in html:
+              section=('<section class="scope-end wrap" id="museum-1000-orte" aria-label="Museum der 1000 Orte">'
+                  '<p class="lab">Museum der 1000 Orte / 德國聯邦建築藝術</p>'
+                  '<p>德國聯邦官方建築藝術案例庫作品索引，保留每件作品獨立原始來源、藝術家、建築所在地、年代、影像來源及攝影者署名。'
+                  '部分資料與本站60／70週年圖錄重疊，重複作品只保留一筆；照片依官方著作權條款附來源，取得書面授權前不在本站重製。'
+                  '<a href="#archive" id="museum1000Filter">搜尋作品</a> · '
+                  '<a href="https://www.museum-der-1000-orte.de/kunstwerke" target="_blank" rel="noopener noreferrer">官方完整作品集</a>。</p></section>\n')
+              target='<section class="scope-end wrap" aria-label="收錄範圍">'
+              assert target in html
+              html=html.replace(target,section+target)
+          if "var a=document.getElementById('museum1000Filter')" not in html:
+              js=('<script>(function(){var a=document.getElementById("museum1000Filter");'
+                  'if(!a)return;a.addEventListener("click",function(){var q=document.getElementById("q");'
+                  'if(!q)return;q.value="Museum der 1000 Orte";q.dispatchEvent(new Event("input",{bubbles:true}));});})();</script>\n')
+              html=html.replace('<!-- Cloudflare Web Analytics -->',js+'<!-- Cloudflare Web Analytics -->')
+          # Bust the bundle cache, including all existing manifest and CSS asset URLs.
+          html=html.replace("20261118-kab60-kab70-r137","20261118-museum1000-r138")
+          index.write_text(html,encoding="utf-8")
+          print("VALIDATED",len(items),"IMAGE_LINKS",manifest["imageSourceEntries"])
+          PY
+      - name: Commit catalog, audit and verified website presentation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/museum-1000-orte-catalog.json data/museum-1000-orte-manifest.json review/museum-1000-orte-audit.json index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Import official Museum der 1000 Orte source index [image rights pending]"
+            git push
+          fi
