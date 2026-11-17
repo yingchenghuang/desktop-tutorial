@@ -1,6 +1,6 @@
 {
-  "version": "20261118-kunst-am-bau-special-r135",
-  "generatedAt": "2026-11-18T12:00:00+08:00",
+  "version": "20261118-kab60-r136",
+  "generatedAt": "2026-11-17T22:50:49.678Z",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
@@ -22,7 +22,7 @@
     "landart-flevoland-special-20261113.json",
     "kunst-am-bau-60-special-20261118.json"
   ],
-  "expectedEntries": 352,
+  "expectedEntries": 410,
   "imageEntries": 350,
-  "note": "11月1日至17日固定340件、Land Art Flevoland專題10件、Kunst am Bau 60專題第一批2件；後者剩餘58件待審核，2件圖片尚未取得授權。11月18日固定20件尚未發布。"
+  "note": "2026-11-01至17日每日20件共340件，Land Art Flevoland專題10件，Kunst am Bau 60作品全部60件。Kunst am Bau 60件已建索引，圖片0件待權利確認；11月18日每日20件尚未發布。各專題與每日資料不重複計日量。"
 }
