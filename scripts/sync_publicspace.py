@@ -7,7 +7,7 @@ import re
 import time
 import unicodedata
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, unquote, urljoin
 import requests
 from bs4 import BeautifulSoup
 
@@ -119,6 +119,67 @@ def line_value(text, key):
     m = re.search(r"(?:^|\n)\s*" + re.escape(key) + r"\s*:\s*([^\n]+)", text, re.I)
     return m.group(1).strip() if m else ""
 
+
+def extract_gallery_images(doc):
+    """Read project gallery images only; exclude site logos, icons and non-project assets."""
+    gallery = doc.select('#post-gallery img[src], #control-by-post-gallery img[src]')
+    other = doc.select('img[src*="/documents/"]')
+    found, seen = [], set()
+    for img in list(gallery) + list(other):
+        src = (img.get("src") or img.get("data-src") or "").strip()
+        if not src:
+            continue
+        url = urljoin(ROOT, src)
+        p = urlsplit(url)
+        if p.netloc.lower() not in ("publicspace.org", "www.publicspace.org"):
+            continue
+        if "/documents/" not in p.path:
+            continue
+        key = p.scheme + "://" + p.netloc + p.path
+        if key in seen:
+            continue
+        seen.add(key)
+        parts = [unquote(x).replace("+", " ") for x in p.path.split("/") if x]
+        label = parts[-2] if len(parts) >= 2 else "官方案例攝影"
+        label = re.sub(r"\.(jpg|jpeg|png|webp|gif|tif|tiff)$", "", label, flags=re.I)
+        credit_match = re.search(r"(?:^|[ _-])credit[ _-]+(.+?)(?=(?:[ _-]+(?:19|20)\d{2})|$)", label, re.I)
+        credit = credit_match.group(1).strip(" _-.()") if credit_match else "未公開"
+        description = label.replace("_", " ").strip()
+        if re.search(r"sketch|plan|diagram|drawing|masterplan|map|croquis", label, re.I):
+            kind = "圖面／示意"
+        elif re.search(r"construction|process|workshop|before|previous", label, re.I):
+            kind = "施工／過程／改造前"
+        else:
+            kind = "官方案例照片"
+        found.append({"url":url, "caption":description[:280],
+                     "credit":credit[:140], "kind":kind,
+                     "sourcePage": "官方專案詳頁", "rights":"原權利人保留著作權，未取得再利用授權"})
+    return found
+
+def sync_images_for_record(record):
+    url = record.get("workPage") or record.get("website")
+    if not url or not record.get("dedupeKey", "").startswith("publicspace:"):
+        return record
+    if record.get("images") and record.get("imagesSyncedAt") == today:
+        return record
+    html = get(url)
+    if not html:
+        record["imageVerification"] = "官方頁面回讀失敗；保留舊圖片鏈結待重試"
+        return record
+    gallery = extract_gallery_images(BeautifulSoup(html, "html.parser"))
+    if gallery:
+        record["images"] = gallery
+        record["photo"] = gallery[0]["url"]
+        record["classicImage"] = gallery[0]["url"]
+        record["imageCredit"] = gallery[0]["credit"]
+        record["imageKind"] = "第一方作品攝影及附屬圖像，按官方頁面順序"
+        record["imageVerification"] = "已擷取官方專案頁原始圖片地址；逐張內容及授權仍待人工驗收"
+        record["imagesSyncedAt"] = today
+        record["imageRights"] = "僅外連官方圖片；未取得轉載、重製或再利用授權"
+    else:
+        record["imageVerification"] = "官方專案頁未擷取到可識別的作品圖片；待人工覆核"
+    return record
+
 def parse_case(url):
     html = get(url)
     if not html:
@@ -194,12 +255,24 @@ def main():
         for item in pool.map(parse_case, new_urls):
             if item and item.get("cityKeywords") and item.get("website"):
                 known[item["dedupeKey"]] = item
-    records = sorted(known.values(), key=lambda e: e["dedupeKey"])
+    # Refresh original gallery images for every discovered project, including older records.
+    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+        records = sorted(pool.map(sync_images_for_record, list(known.values())),
+                         key=lambda e: e["dedupeKey"])
+    known = {e["dedupeKey"]: e for e in records}
+    image_record_count = sum(bool(e.get("images")) for e in records)
+    image_total = sum(len(e.get("images",[])) for e in records)
+    image_missing = len(records)-image_record_count
     failures = len(new_urls) - (len(records) - len(old.get("entries",[])))
     report = {"generatedAt":now, "discoveredUniqueUrls":len(urls),
        "newUrlsRequested":len(new_urls), "newRecordsImported":max(0,len(records)-len(old.get("entries",[]))),
        "fetchFailuresOrInvalid":max(0,failures),"discovery":discovery,
        "sourceAdvertisedMoreThan":438,
+       "imageRecords":image_record_count, "imageTotal":image_total,
+       "imageMissing":image_missing,
+       "imageMissingKeys":[e["dedupeKey"] for e in records if not e.get("images")][:60],
+       "gallerySource":"Official project page #post-gallery / documents links",
+       "imageReusePermissionVerified":False,
        "humanReviewRequired":True, "notionBulkSyncPending":True}
     AUDIT.parent.mkdir(parents=True, exist_ok=True)
     AUDIT.write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
@@ -220,6 +293,8 @@ def main():
        "generatedAt":now,"files":["publicspace-special-20261117.json","publicspace-catalog.json"],
        "activeEntries":len(unique),"autoDiscoveredUrls":len(urls),
        "autoImportedEntries":len(records),"ingestionStatus":"unreviewed-automated",
+       "imageRecords":image_record_count,"imageTotal":image_total,
+       "imageMissing":image_missing,"imageRightsReviewed":False,
        "notionSyncedEntries":7,"notionPlatformEntries":1,
        "humanReviewRequired":True,"excludedFromDailyPublicArt":True,
        "excludedFromCompetitions":True,
