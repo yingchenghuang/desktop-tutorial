@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f8f8f6">
+<title>Kunst am Bau｜德國建築藝術研究專區｜公共藝術檔案</title>
+<meta name="description" content="獨立整理德國 Kunst am Bau 建築藝術委託、60週年與70週年圖錄及 Museum der 1000 Orte 作品，整合來源、年代、城市、圖片和作品研究。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./style.css?v=20261118-kab-portal-v1">
+</head>
+<body>
+<header class="top" id="top">
+  <div class="frame top-inner">
+    <a class="site-logo" href="../" aria-label="回到公共藝術檔案首頁"><span class="brand-dot"></span><span>公共藝術檔案</span><small>/ RESEARCH COLLECTIONS</small></a>
+    <nav class="top-links" aria-label="專題導覽">
+      <a href="#works">作品檔案</a><a href="#sources">研究來源</a><a href="#approach">選件原則</a>
+      <a class="back-link" href="../">返回主站 <span aria-hidden="true">↗</span></a>
+    </nav>
+  </div>
+</header>
+<main>
+  <section class="hero frame">
+    <div class="eyebrow"><span class="brand-dot"></span> GERMAN PUBLIC ART ARCHIVE <span class="edition">1950 → 2026</span></div>
+    <div class="hero-grid">
+      <div><h1>KUNST<br><em>AM</em> BAU<span class="period">.</span></h1><div class="hero-stripe"></div></div>
+      <div class="hero-side"><div class="index-number">SPECIAL COLLECTION <b>01</b></div>
+      <p class="hero-head">德國建築藝術<br>獨立研究專區</p>
+      <p class="hero-copy">從戰後聯邦政府的藝術委託，到東德建築藝術、國會建築、海外使館與當代場域介入。以作品與建築的關係為核心，將分散的官方典藏、週年圖錄與既有公共藝術資料重新歸檔。</p>
+      <div class="hero-buttons"><a class="action-main" href="#works">探索作品 <span>↘</span></a><a class="action-minor" href="#sources">了解文獻系統 ↗</a></div></div>
+    </div>
+    <div class="hero-footer">
+      <span>BAU · KUNST · RAUM · GESELLSCHAFT</span>
+      <span>依來源交叉歸檔，作品僅計算一次</span>
+    </div>
+  </section>
+  <section class="metrics frame" aria-label="專題收錄統計">
+    <div><span class="metric-label">獨立作品條目</span><strong id="statTotal">…</strong><span class="metric-note">跨圖錄去重</span></div>
+    <div><span class="metric-label">官方作品館藏索引</span><strong id="statOfficial">…</strong><span class="metric-note">Museum der 1000 Orte</span></div>
+    <div><span class="metric-label">已配對圖片</span><strong id="statImages">…</strong><span class="metric-note">附圖片來源與攝影署名</span></div>
+    <div><span class="metric-label">跨圖錄作品</span><strong id="statBoth">…</strong><span class="metric-note">60 / 70 週年共同入選</span></div>
+  </section>
+  <section class="intro frame" id="approach">
+    <div><span class="overline">01 / ARCHIVAL APPROACH</span><h2>藝術成為<br><i>建築的一部分。</i></h2></div>
+    <div class="intro-text"><p>「Kunst am Bau」指與建築工程及使用場所相連的藝術委託。這裡關注作品如何介入建築的立面、中庭、廣場、動線、記憶及制度，而非僅依藝術家知名度排名。</p><p>收錄以2010年60週年選集、2020年70週年圖錄與德國聯邦「Museum der 1000 Orte」的逐件作品紀錄為基礎；同一件作品可同時屬於多份來源，詳情頁會保留交叉引用。</p><p class="muted">排除純粹紀念性人物立像與胸像的擴充候選。歷史圖錄的場址與年代依當時出版紀錄，未查核的現況將明確標示。</p></div>
+  </section>
+  <section class="collection frame" id="works">
+    <div class="collection-heading"><div><span class="overline">02 / RESEARCH INDEX</span><h2>作品索引 <em>Werkverzeichnis</em></h2></div><p id="loadStatus" class="load-state" role="status">正在讀取典藏資料…</p></div>
+    <div class="toolbar">
+      <label class="search"><span class="sr-only">搜尋作品、藝術家或城市</span><span class="search-symbol" aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜尋藝術家、作品名稱、城市、建築、主題" autocomplete="off"><kbd>⌘ K</kbd></label>
+      <div class="selects">
+        <label class="sr-only" for="srcFilter">選擇來源</label><select id="srcFilter"><option value="all">全部研究來源</option><option value="2010">2010 / 60 週年</option><option value="2020">2020 / 70 週年</option><option value="museum">Museum der 1000 Orte</option></select>
+        <label class="sr-only" for="decadeFilter">選擇年代</label><select id="decadeFilter"><option value="all">全部年代</option></select>
+        <label class="sr-only" for="mediumFilter">選擇媒介</label><select id="mediumFilter"><option value="all">全部媒介</option></select>
+        <label class="sr-only" for="cityFilter">選擇城市</label><select id="cityFilter"><option value="all">全部城市</option></select>
+        <label class="sr-only" for="sortFilter">選擇排序</label><select id="sortFilter"><option value="year-asc">依創作年代</option><option value="year-desc">最新作品優先</option><option value="artist">依藝術家 A–Z</option></select>
+      </div>
+    </div>
+    <div class="filter-status"><div><strong id="filteredCount">0</strong> <span>件作品</span><span id="activeSummary">完整典藏索引</span></div><div class="toggle-group"><label><input type="checkbox" id="onlyImage"> 僅顯示有圖片</label><button id="resetFilters" type="button">清除篩選 ×</button></div></div>
+    <div id="worksGrid" class="works-grid" aria-live="polite"></div>
+    <div class="empty" id="emptyState" hidden><strong>目前沒有符合條件的作品</strong><p>請調整關鍵字、年代或來源分類。</p></div>
+    <div class="more-wrap"><button type="button" id="moreButton" class="more-button" hidden>顯示更多作品 <span id="moreLabel"></span><span aria-hidden="true">↓</span></button></div>
+  </section>
+  <section class="source-section" id="sources"><div class="frame"><div class="source-heading"><span class="overline">03 / PRIMARY SOURCES</span><h2>三條資料脈絡。<br>一個作品檔案。</h2><p>每件條目保留原始文獻與館藏來源。分類代表作品曾被收錄於該資料源，資料品質仍以逐件核對為準。</p></div><div class="source-grid">
+    <article><span class="source-number">I.</span><h3>60 × Kunst am Bau</h3><p class="source-year">1950–2010 / Jubiläumsausgabe</p><p>德國聯邦建築藝術60週年選集，60個案例，保留藝術家、原書頁碼、設置場址與媒材。</p><a href="#works" data-pick="2010">檢視本書作品 ↗</a></article>
+    <article><span class="source-number">II.</span><h3>70 Jahre Kunst am Bau</h3><p class="source-year">2020 / Jubiläumspublikation</p><p>德國建築藝術70週年圖錄的59個案例；與2010年選集相同的作品連結到原有條目。</p><a href="#works" data-pick="2020">檢視本書作品 ↗</a></article>
+    <article><span class="source-number">III.</span><h3>Museum der 1000 Orte</h3><p class="source-year">OFFICIAL DIGITAL ARCHIVE</p><p>德國聯邦建築及區域規劃局的建築藝術典藏，以獨立作品頁呈現藝術家、年代、作品影像與場址資料。</p><a href="#works" data-pick="museum">瀏覽官方來源作品 ↗</a></article>
+  </div>
+  <div class="source-end"><p>研究參考：<a href="https://www.museum-der-1000-orte.de/kunstwerke" target="_blank" rel="noopener noreferrer">Museum der 1000 Orte ↗</a><a href="https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html" target="_blank" rel="noopener noreferrer">BBR 70週年專題 ↗</a><a href="https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf" target="_blank" rel="noopener noreferrer">2020圖錄目錄 ↗</a></p></div>
+  </div></section>
+</main>
+<footer class="footer"><div class="frame"><div><span class="brand-dot"></span><strong>KUNST AM BAU</strong><span>© 公共藝術檔案 · 獨立研究專區</span></div><p>作品圖片與原文著作權歸各權利人。外部來源圖片附攝影署名；有待確認授權的影像僅作為來源參照，請依權利人規定使用。</p><a href="../">回到公共藝術主站 ↑</a></div></footer>
+<div id="detailOverlay" class="detail-overlay" hidden><div id="detailShade" class="detail-shade"></div><section id="detailPanel" class="detail-panel" role="dialog" aria-modal="true" aria-labelledby="detailTitle"><button type="button" class="close-detail" id="detailClose" aria-label="關閉作品詳細資料">關閉 ×</button><div id="detailBody"></div></section></div>
+<noscript><div class="frame">請啟用 JavaScript，才能使用作品索引篩選與詳細資料。</div></noscript>
+<script src="./app.js?v=20261118-kab-portal-v1" defer></script>
+</body>
+</html>
