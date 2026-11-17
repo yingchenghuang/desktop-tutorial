@@ -1,6 +1,6 @@
 {
-  "version": "20261118-kab60-r136",
-  "generatedAt": "2026-11-17T22:50:49.678Z",
+  "version": "20261118-kab60-kab70-r137",
+  "generatedAt": "2026-11-17T23:04:38.096Z",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
@@ -20,9 +20,10 @@
     "backfill-november-20261116.json",
     "backfill-november-20261117.json",
     "landart-flevoland-special-20261113.json",
-    "kunst-am-bau-60-special-20261118.json"
+    "kunst-am-bau-60-special-20261118.json",
+    "kunst-am-bau-70-special-20261118.json"
   ],
-  "expectedEntries": 410,
+  "expectedEntries": 456,
   "imageEntries": 350,
-  "note": "2026-11-01至17日每日20件共340件，Land Art Flevoland專題10件，Kunst am Bau 60作品全部60件。Kunst am Bau 60件已建索引，圖片0件待權利確認；11月18日每日20件尚未發布。各專題與每日資料不重複計日量。"
+  "note": "公共藝術每日20件至11/17共340件，Land Art Flevoland獨立專題10件，2010年Kunst am Bau 60週年專題60件，2020年70週年圖錄59件（13件已見前述60件，新增46件），網站檔案索引合計456件。70週年圖錄僅確認公開目錄的藝術家/場址/年份/頁碼，作品正式名稱與圖片尚未完成。11月18日每日20件另行計算尚未發布。"
 }
