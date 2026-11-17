@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:05:01+08:00",
+  "generatedAt": "2026-11-17T20:07:07+08:00",
   "discoveredUniqueUrls": 250,
   "newUrlsRequested": 2,
   "newRecordsImported": 0,
@@ -425,7 +425,353 @@
     "2002-finalists-only": 0,
     "2000-selected-only": 0,
     "2000-results": 3,
-    "2000-finalists-only": 0
+    "2000-finalists-only": 0,
+    "imageProbeBridgefoot": [
+      {
+        "tag": "img",
+        "attrs": {
+          "class": "['img-responsive']",
+          "src": "https://www.publicspace.org/o/public-space-frontend-theme/images/logo_publicspace.png",
+          "alt": ""
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "class": "['class_logo_fix']",
+          "src": "https://www.publicspace.org/o/public-space-frontend-theme/images/logo_publicspace_img.png",
+          "alt": ""
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem0",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295836/Bridgefoot+Street+Aerial+Photo_Credit_Gareth+Byrne_2023.JPG/8eaa9ea3-2bc1-4b74-720e-ddfe388075cd?version=1.0&t=1729878228186",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem1",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295832/Bridgefoot+Street+Park_Credit_DFLA+%281%29.jpg/a7f93f03-f510-f829-6d53-1dccb5e5bca1?version=1.0&t=1729878346666",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem2",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295833/Bridgefoot+Street+Park_Credit_Paul+Tierney+%281%29.jpg/0bb3a70d-e026-9b13-ec38-4bd280f77de8?version=1.0&t=1729878387492",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem3",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/The+main+route+through+the+park+from+east+to+west_Credit_DFLA_2023+%281%29.jpg/0b2a6aa6-c4bd-d732-0c35-9f59995ec28d?version=1.0&t=1729879195339",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem4",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Park+Official+Opening+in+2022_Credit_Paul+Tierney_2022+%283%29.jpg/66383497-2948-77d5-f5c7-5e99d2be9326?version=1.0&t=1729879169812",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem5",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Community+Engagement_Credit_Paul+Tierney_2021+%281%29.jpg/ed2a24ce-dd96-f33b-0608-5d3e287f643d?version=1.0&t=1729879136844",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem6",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Selection+of+Raw+Material+Selection_Credit_DFLA_2020+%281%29.jpg/caba3404-bafd-863d-fcb9-0ee9a387d25b?version=1.0&t=1729879117266",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem7",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street+in+Construction_Credit_Paul+Tierney_2021+%281%29.jpg/428601ae-7e8a-b9d5-e48c-eae0c7756d5a?version=1.0&t=1729879092394",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem8",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street+Aerial+Photo_Credit_Paul+Tierney+_2022+%281%29.jpg/cabe6d06-54a4-0716-6a05-56ac03d74fba?version=1.0&t=1729879067550",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem9",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/The+community+gardeners+at+work_Credit_DFLA_2023+%281%29.jpg/c1f1d6bc-54bd-ac65-f6e4-5c588c68183e?version=1.0&t=1729879028246",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem10",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Secondary+Raw+Materials+Used+in+All+Parts+of+the+Park_Credit_Paul+Tierney_2022+%281%29.jpg/9d5fc9b7-3337-7569-16d1-7506058a174e?version=1.0&t=1729878998369",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem11",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street+Informal+Play_Credit_Paul+Tierney_2022+%281%29.jpg/a64dd619-f01f-fc4a-cb78-929b8af522cd?version=1.0&t=1729878904527",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem12",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Mini-habitats+emerge+on+invented+waste+substrates_Credit_DFLA_2023+%281%29.jpg/c6ceac77-c3cb-b611-c33f-9e480b120136?version=1.0&t=1729878834927",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem13",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/The+Main+Mound_Credit_DFLA_2022+%281%29.jpg/b67f7bb7-a1b6-e7fa-b348-ce8746195f8d?version=1.0&t=1729878743398",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem14",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/View+of+Community+Garden_Credit_Paul+Tierney_2022+%281%29.jpg/76decc64-8148-a3d0-792b-a9c42feae060?version=1.0&t=1729878700795",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem15",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street_Sample+Garden_Credit_DFLA_2019+%281%29.jpg/a0ad0eee-5e57-a2d7-49e3-0f1080241e8e?version=1.0&t=1729878660109",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem16",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Park+Official+Opening+in+2022_Credit_Paul+Tierney_2022+%282%29.jpg/f9e9fbae-048e-6043-57b8-2b253406d5d6?version=1.0&t=1729878589584",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem17",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Simple+Landscape+Plan+of+Bridgefoot+Street+Park_Credit_DFLA_2022+%281%29.jpg/ca79bafb-516a-4c46-29e0-3d1c784e0f21?version=1.0&t=1729878530242",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem18",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Sample+Garden+Sketch+Plan_Credit_DFLA_2018+%281%29.jpg/7598258d-9dd8-5289-10ca-99ad47924ce3?version=1.0&t=1729878495261",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "id": "horizontal-slider1-elem19",
+          "class": "['horizontal-slider1-elem']",
+          "src": "https://www.publicspace.org/documents/220568/3295834/Bridgefoot_Sketch+Plan_Credit_DFLA+%282%29+%281%29.jpg/d61629b8-11b1-4d72-c02f-6593a75b4af9?version=1.0&t=1729878470482",
+          "alt": "+info"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295832/Bridgefoot+Street+Park_Credit_DFLA+%281%29.jpg/a7f93f03-f510-f829-6d53-1dccb5e5bca1?version=1.0&t=1729878346666",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295833/Bridgefoot+Street+Park_Credit_Paul+Tierney+%281%29.jpg/0bb3a70d-e026-9b13-ec38-4bd280f77de8?version=1.0&t=1729878387492",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/The+main+route+through+the+park+from+east+to+west_Credit_DFLA_2023+%281%29.jpg/0b2a6aa6-c4bd-d732-0c35-9f59995ec28d?version=1.0&t=1729879195339",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/Park+Official+Opening+in+2022_Credit_Paul+Tierney_2022+%283%29.jpg/66383497-2948-77d5-f5c7-5e99d2be9326?version=1.0&t=1729879169812",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/Community+Engagement_Credit_Paul+Tierney_2021+%281%29.jpg/ed2a24ce-dd96-f33b-0608-5d3e287f643d?version=1.0&t=1729879136844",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/Selection+of+Raw+Material+Selection_Credit_DFLA_2020+%281%29.jpg/caba3404-bafd-863d-fcb9-0ee9a387d25b?version=1.0&t=1729879117266",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street+in+Construction_Credit_Paul+Tierney_2021+%281%29.jpg/428601ae-7e8a-b9d5-e48c-eae0c7756d5a?version=1.0&t=1729879092394",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street+Aerial+Photo_Credit_Paul+Tierney+_2022+%281%29.jpg/cabe6d06-54a4-0716-6a05-56ac03d74fba?version=1.0&t=1729879067550",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/The+community+gardeners+at+work_Credit_DFLA_2023+%281%29.jpg/c1f1d6bc-54bd-ac65-f6e4-5c588c68183e?version=1.0&t=1729879028246",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/Secondary+Raw+Materials+Used+in+All+Parts+of+the+Park_Credit_Paul+Tierney_2022+%281%29.jpg/9d5fc9b7-3337-7569-16d1-7506058a174e?version=1.0&t=1729878998369",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street+Informal+Play_Credit_Paul+Tierney_2022+%281%29.jpg/a64dd619-f01f-fc4a-cb78-929b8af522cd?version=1.0&t=1729878904527",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/Mini-habitats+emerge+on+invented+waste+substrates_Credit_DFLA_2023+%281%29.jpg/c6ceac77-c3cb-b611-c33f-9e480b120136?version=1.0&t=1729878834927",
+          "alt": "img"
+        },
+        "parentClass": ""
+      },
+      {
+        "tag": "img",
+        "attrs": {
+          "src": "https://www.publicspace.org/documents/220568/3295834/The+Main+Mound_Credit_DFLA_2022+%281%29.jpg/b67f7bb7-a1b6-e7fa-b348-ce8746195f8d?version=1.0&t=1729878743398",
+          "alt": "img"
+        },
+        "parentClass": ""
+      }
+    ],
+    "imageProbeMeta": [
+      {
+        "attrs": {
+          "name": "msapplication-TileImage",
+          "content": "https://www.publicspace.org/o/public-space-frontend-theme/images/favicon/favicon_144x144.jpg"
+        }
+      }
+    ],
+    "imageGallerySnippet": [
+      "<div class=\"horizontal_carousel_container big margin_top_10\" id=\"control-by-post-gallery\">\n<ul class=\"horizontal_carousel visible-1 autoplay-0 scroll-1 navigation-1 easing-easeInOutQuint duration-750\" id=\"post-gallery\">\n<li>\n<a data-rel=\"gallery\" href=\"#\" title=\"+info\">\n<span class=\"icon fullscreen animated\"></span>\n<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem0\" src",
+      "<ul class=\"horizontal_carousel visible-1 autoplay-0 scroll-1 navigation-1 easing-easeInOutQuint duration-750\" id=\"post-gallery\">\n<li>\n<a data-rel=\"gallery\" href=\"#\" title=\"+info\">\n<span class=\"icon fullscreen animated\"></span>\n<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem0\" src=\"https://www.publicspace.org/documents/220568/3295836/Bridgefoot+Street+Aerial+Photo_Credi",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem0\" src=\"https://www.publicspace.org/documents/220568/3295836/Bridgefoot+Street+Aerial+Photo_Credit_Gareth+Byrne_2023.JPG/8eaa9ea3-2bc1-4b74-720e-ddfe388075cd?version=1.0&amp;t=1729878228186\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem1\" src=\"https://www.publicspace.org/documents/220568/3295832/Bridgefoot+Street+Park_Credit_DFLA+%281%29.jpg/a7f93f03-f510-f829-6d53-1dccb5e5bca1?version=1.0&amp;t=1729878346666\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem2\" src=\"https://www.publicspace.org/documents/220568/3295833/Bridgefoot+Street+Park_Credit_Paul+Tierney+%281%29.jpg/0bb3a70d-e026-9b13-ec38-4bd280f77de8?version=1.0&amp;t=1729878387492\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem3\" src=\"https://www.publicspace.org/documents/220568/3295834/The+main+route+through+the+park+from+east+to+west_Credit_DFLA_2023+%281%29.jpg/0b2a6aa6-c4bd-d732-0c35-9f59995ec28d?version=1.0&amp;t=1729879195339\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem4\" src=\"https://www.publicspace.org/documents/220568/3295834/Park+Official+Opening+in+2022_Credit_Paul+Tierney_2022+%283%29.jpg/66383497-2948-77d5-f5c7-5e99d2be9326?version=1.0&amp;t=1729879169812\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem5\" src=\"https://www.publicspace.org/documents/220568/3295834/Community+Engagement_Credit_Paul+Tierney_2021+%281%29.jpg/ed2a24ce-dd96-f33b-0608-5d3e287f643d?version=1.0&amp;t=1729879136844\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem6\" src=\"https://www.publicspace.org/documents/220568/3295834/Selection+of+Raw+Material+Selection_Credit_DFLA_2020+%281%29.jpg/caba3404-bafd-863d-fcb9-0ee9a387d25b?version=1.0&amp;t=1729879117266\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem7\" src=\"https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street+in+Construction_Credit_Paul+Tierney_2021+%281%29.jpg/428601ae-7e8a-b9d5-e48c-eae0c7756d5a?version=1.0&amp;t=1729879092394\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem8\" src=\"https://www.publicspace.org/documents/220568/3295834/Bridgefoot+Street+Aerial+Photo_Credit_Paul+Tierney+_2022+%281%29.jpg/cabe6d06-54a4-0716-6a05-56ac03d74fba?version=1.0&amp;t=1729879067550\"/>",
+      "<img alt=\"+info\" class=\"horizontal-slider1-elem\" id=\"horizontal-slider1-elem9\" src=\"https://www.publicspace.org/documents/220568/3295834/The+community+gardeners+at+work_Credit_DFLA_2023+%281%29.jpg/c1f1d6bc-54bd-ac65-f6e4-5c588c68183e?version=1.0&amp;t=1729879028246\"/>"
+    ]
   },
   "sourceAdvertisedMoreThan": 438,
   "humanReviewRequired": true,
