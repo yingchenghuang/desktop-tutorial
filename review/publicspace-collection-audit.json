@@ -1,12 +1,392 @@
 {
-  "generatedAt": "2026-11-17T20:01:58+08:00",
+  "generatedAt": "2026-11-17T20:05:01+08:00",
   "discoveredUniqueUrls": 250,
-  "newUrlsRequested": 250,
-  "newRecordsImported": 248,
+  "newUrlsRequested": 2,
+  "newRecordsImported": 0,
   "fetchFailuresOrInvalid": 2,
   "discovery": {
     "worksInitial": 1,
     "worksBrowser": 10,
+    "indexButtons": [
+      "Country",
+      "City",
+      "Edition",
+      "WHAT?",
+      "WHERE?",
+      "HOW?",
+      "Qualities",
+      "Hidden"
+    ],
+    "indexForms": [
+      {
+        "action": "https://www.publicspace.org/en/search?p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath=%2Fsearch.jsp&",
+        "method": "get",
+        "id": "_com_liferay_portal_search_web_portlet_SearchPortlet_top_menu_fm"
+      },
+      {
+        "action": "https://www.publicspace.org/en/works?p_p_id=org_publicspace_ProjectFrontendPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view",
+        "method": "post",
+        "id": "_org_publicspace_ProjectFrontendPortlet_fm"
+      },
+      {
+        "action": "https://www.publicspace.org/en/works#",
+        "method": "post",
+        "id": "hrefFm"
+      }
+    ],
+    "paginationLinks": [
+      {
+        "text": "Activation",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290997"
+      },
+      {
+        "text": "Consolidation",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290967"
+      },
+      {
+        "text": "Creation",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290966"
+      },
+      {
+        "text": "Transformation",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290968"
+      },
+      {
+        "text": "Skateparks",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291011"
+      },
+      {
+        "text": "Art │ Temporary Installations",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290985"
+      },
+      {
+        "text": "Boardwalks | Beaches",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290954"
+      },
+      {
+        "text": "Bridges │ Footbridges",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290982"
+      },
+      {
+        "text": "Canopies │  Greenhouses",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290983"
+      },
+      {
+        "text": "Corridors │ Connectors",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290989"
+      },
+      {
+        "text": "Cultural facilities",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290991"
+      },
+      {
+        "text": "Escalators │ Elevators",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290990"
+      },
+      {
+        "text": "Historical Heritage",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290987"
+      },
+      {
+        "text": "Housing",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291006"
+      },
+      {
+        "text": "Infrastructures │ Harbours",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290956"
+      },
+      {
+        "text": "Lighting │ Data │ Sound",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290992"
+      },
+      {
+        "text": "Markets │ Trade",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290993"
+      },
+      {
+        "text": "Orchards │ Productive spaces",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291010"
+      },
+      {
+        "text": "Parks │  Gardens",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290953"
+      },
+      {
+        "text": "Pedestrianizations",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290952"
+      },
+      {
+        "text": "Public baths │  Pools │ Fountains",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290984"
+      },
+      {
+        "text": "Public transport",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290955"
+      },
+      {
+        "text": "Sports facilities",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290957"
+      },
+      {
+        "text": "Squares │ Esplanades │ Courtyards",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290950"
+      },
+      {
+        "text": "Streets │ Roads │ Boulevards",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290951"
+      },
+      {
+        "text": "Urban sectors │ Complexes",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291009"
+      },
+      {
+        "text": "Viewpoints │ Watchtowers",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290986"
+      },
+      {
+        "text": "Compact neighbourhoods",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290960"
+      },
+      {
+        "text": "Historical centres",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290959"
+      },
+      {
+        "text": "Housing estates",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290961"
+      },
+      {
+        "text": "Industrial sectors",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290964"
+      },
+      {
+        "text": "Informal settlements",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290995"
+      },
+      {
+        "text": "Large infrastructures zones",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290963"
+      },
+      {
+        "text": "Military zones",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290988"
+      },
+      {
+        "text": "Natural areas │ Agricultural territories",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290994"
+      },
+      {
+        "text": "Scars │ Disruptions │ Voids",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290996"
+      },
+      {
+        "text": "Suburban peripheries │ Sprawling city",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290962"
+      },
+      {
+        "text": "Urban limits",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory2943483"
+      },
+      {
+        "text": "Waterfronts",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291007"
+      },
+      {
+        "text": "Accessibility │ Continuity",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290972"
+      },
+      {
+        "text": "AIM",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290970"
+      },
+      {
+        "text": "Cavities │ Underground spaces",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291004"
+      },
+      {
+        "text": "Commerce │ Production │ Labour",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291000"
+      },
+      {
+        "text": "Cooperation (public/public or public/private)",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290977"
+      },
+      {
+        "text": "Culture",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory2943484"
+      },
+      {
+        "text": "Ecology │ Sustainability",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290975"
+      },
+      {
+        "text": "Ensembles",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291003"
+      },
+      {
+        "text": "Landmarks │ Objects",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290980"
+      },
+      {
+        "text": "Memory │ Identity",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290976"
+      },
+      {
+        "text": "Mobility",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290971"
+      },
+      {
+        "text": "Open buildings",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291005"
+      },
+      {
+        "text": "Participation │ Bottom-up",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290974"
+      },
+      {
+        "text": "Pedagogy │ Awareness",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291001"
+      },
+      {
+        "text": "Playtime │ Leisure │ Sports",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290999"
+      },
+      {
+        "text": "Self-building (DIY) │ Collaborative design (DIWO)",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290998"
+      },
+      {
+        "text": "Self-management",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291002"
+      },
+      {
+        "text": "SHAPE",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290978"
+      },
+      {
+        "text": "Strips",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290981"
+      },
+      {
+        "text": "Surfaces",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290979"
+      },
+      {
+        "text": "Topographies",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory2941922"
+      },
+      {
+        "text": "Voids │ Gaps",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory291008"
+      },
+      {
+        "text": "Welfare │ Service",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCategory290973"
+      },
+      {
+        "text": "Albania",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCountry1"
+      },
+      {
+        "text": "Austria",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCountry4"
+      },
+      {
+        "text": "Belgium",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCountry5"
+      },
+      {
+        "text": "Bulgaria",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCountry8"
+      },
+      {
+        "text": "Croatia",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCountry9"
+      },
+      {
+        "text": "Cyprus",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCountry45"
+      },
+      {
+        "text": "Czech Republic",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCountry36"
+      },
+      {
+        "text": "Denmark",
+        "href": "https://www.publicspace.org/en/works#",
+        "className": "read_more white reply_button  featherCountry10"
+      }
+    ],
+    "indexCardLinks": [],
     "2026-selected-only": 21,
     "2026-results": 4,
     "2026-finalists-only": 0,
