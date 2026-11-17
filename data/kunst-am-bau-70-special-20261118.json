@@ -592,19 +592,19 @@
       "classicDesc": "Hajek把波昂聯邦農業部建築的正交模矩旋轉成45度，運用紅、黃、藍色域、三角形與圓形組織前廣場及入口動線。中央噴泉與金屬立柱將藝術從單件雕塑擴大成整體場域設計，室內地毯與牆面也呼應戶外幾何語言。 媒材：彩色幾何鋪面、金屬立柱及噴泉。原址：Bundesministerium für Ernährung und Landwirtschaft Bonn（德國 / Bonn）。2020年圖錄第110–111頁。",
       "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
       "workPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation",
-      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/88c09d688fdff06c8504a6daebe39268755c628b.jpg",
-      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/88c09d688fdff06c8504a6daebe39268755c628b.jpg",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/1441d3d3eaf9590e587def30f56923ecd3e9fd9c.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/1441d3d3eaf9590e587def30f56923ecd3e9fd9c.jpg",
       "images": [
         {
-          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/88c09d688fdff06c8504a6daebe39268755c628b.jpg",
-          "caption": "Gabriele Grosse｜Arachnura Celeste（1979）",
-          "credit": "Archiv BBR (1980)",
-          "kind": "Museum der 1000 Orte 官方作品照片"
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/homepage/images/1441d3d3eaf9590e587def30f56923ecd3e9fd9c.jpg",
+          "caption": "Otto Herbert Hajek｜Platzartikulation（1976）",
+          "credit": "Archiv BBR（1978）",
+          "kind": "官方作品攝影"
         }
       ],
       "imageRights": "Museum der 1000 Orte 首頁攝影原始來源；著作權歸原作及攝影權利人；轉載需依原站使用規定取得授權。",
       "imageStatus": "官方原始照片網址已對應；授權待核",
-      "imageCredit": "Archiv BBR (1980)",
+      "imageCredit": "Archiv BBR（1978）",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -630,7 +630,7 @@
       "sourceCheckedDate": "2026-11-18",
       "workTitle": "Platzartikulation",
       "material": "彩色幾何鋪面、金屬立柱及噴泉",
-      "imageVerification": "已以使用者提供官方首頁HTML內作品標題、URL與照片圖說配對；需再確認影像展示授權",
+      "imageVerification": "由上傳的官網HTML逐一比對作品題名與照片",
       "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/platzartikulation"
     },
     {
