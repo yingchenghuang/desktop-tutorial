@@ -10,7 +10,8 @@
     "scope": "60 examples directly from pages 40–159 in the 2010 BMVBS edition, 60 unique works",
     "note": "60件全數依PDF建立作品索引。4件有已查明的逐件官方網站連結，其餘由原書與官方平台首頁溯源。現有網站圖片0件，攝影權利與個別作品現況待核查。本專題不計入每日20件。",
     "verifiedWorkPages": 4,
-    "imageRightsNote": "官方作品圖片不得未經書面許可複製到網站；詳見museum-der-1000-orte.de/nutzungsbedingungen；目前0圖入庫。"
+    "imageRightsNote": "官方作品圖片不得未經書面許可複製到網站；詳見museum-der-1000-orte.de/nutzungsbedingungen；目前0圖入庫。",
+    "alsoIn2020Catalogue": 13
   },
   "entries": [
     {
@@ -95,9 +96,9 @@
       "works": "Plattenmosaik｜1951",
       "material": "彩色鋁板與螢光燈馬賽克",
       "workSite": "慕尼黑中央車站",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 42–43 頁作品。Rupprecht Geiger以彩色鋁板與螢光燈馬賽克介入「慕尼黑中央車站」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 42–43 頁作品。Rupprecht Geiger以彩色鋁板與螢光燈馬賽克介入「慕尼黑中央車站」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第72–73頁；同一作品只建立一筆索引。",
       "classicTitle": "Plattenmosaik｜1951",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 42–43 頁作品。Rupprecht Geiger以彩色鋁板與螢光燈馬賽克介入「慕尼黑中央車站」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 42–43 頁作品。Rupprecht Geiger以彩色鋁板與螢光燈馬賽克介入「慕尼黑中央車站」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第72–73頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -123,7 +124,16 @@
       "relatedByCity": [
         "kunst-am-bau-60-05"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "72–73",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-03",
@@ -145,9 +155,9 @@
       "works": "Ohne Titel｜1953",
       "material": "陶瓷浮雕",
       "workSite": "波昂聯邦議院舊大樓",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 44–45 頁作品。Hannes Schulz-Tattenpach (Odo Tattenpach)以陶瓷浮雕介入「波昂聯邦議院舊大樓」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 44–45 頁作品。Hannes Schulz-Tattenpach (Odo Tattenpach)以陶瓷浮雕介入「波昂聯邦議院舊大樓」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第76–77頁；同一作品只建立一筆索引。",
       "classicTitle": "Ohne Titel｜1953",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 44–45 頁作品。Hannes Schulz-Tattenpach (Odo Tattenpach)以陶瓷浮雕介入「波昂聯邦議院舊大樓」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 44–45 頁作品。Hannes Schulz-Tattenpach (Odo Tattenpach)以陶瓷浮雕介入「波昂聯邦議院舊大樓」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第76–77頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -184,7 +194,16 @@
         "kunst-am-bau-60-42",
         "kunst-am-bau-60-58"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "76–77",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-04",
@@ -496,9 +515,9 @@
       "works": "Espacio para una fuente｜1960",
       "material": "鋼製噴泉雕塑",
       "workSite": "瓦倫西亞德國學校",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 58–59 頁作品。Andreu Alfaro以鋼製噴泉雕塑介入「瓦倫西亞德國學校」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 58–59 頁作品。Andreu Alfaro以鋼製噴泉雕塑介入「瓦倫西亞德國學校」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第266–267頁；同一作品只建立一筆索引。",
       "classicTitle": "Espacio para una fuente｜1960",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 58–59 頁作品。Andreu Alfaro以鋼製噴泉雕塑介入「瓦倫西亞德國學校」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 58–59 頁作品。Andreu Alfaro以鋼製噴泉雕塑介入「瓦倫西亞德國學校」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第266–267頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -522,7 +541,16 @@
       "reviewStatus": "已核對2010年官方選集；作品最新狀態待追查",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "266–267",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-11",
@@ -640,9 +668,9 @@
       "works": "Kosmos 70｜1963 – 69",
       "material": "鋁製懸吊雕塑",
       "workSite": "德國國會大廈（舊）；移置規劃見原書",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 64–65 頁作品。Bernhard Heiliger以鋁製懸吊雕塑介入「德國國會大廈（舊）；移置規劃見原書」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 64–65 頁作品。Bernhard Heiliger以鋁製懸吊雕塑介入「德國國會大廈（舊）；移置規劃見原書」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第306–307頁；同一作品只建立一筆索引。",
       "classicTitle": "Kosmos 70｜1963 – 69",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 64–65 頁作品。Bernhard Heiliger以鋁製懸吊雕塑介入「德國國會大廈（舊）；移置規劃見原書」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 64–65 頁作品。Bernhard Heiliger以鋁製懸吊雕塑介入「德國國會大廈（舊）；移置規劃見原書」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第306–307頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -680,7 +708,16 @@
         "kunst-am-bau-60-56",
         "kunst-am-bau-60-60"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "306–307",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-14",
@@ -908,9 +945,9 @@
       "works": "Wasser-Licht-Stelen｜1970",
       "material": "不鏽鋼與內照明壓克力燈柱",
       "workSite": "德國駐巴西利亞大使館",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 74–75 頁作品。Günter Ferdinand Ris以不鏽鋼與內照明壓克力燈柱介入「德國駐巴西利亞大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 74–75 頁作品。Günter Ferdinand Ris以不鏽鋼與內照明壓克力燈柱介入「德國駐巴西利亞大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第270–271頁；同一作品只建立一筆索引。",
       "classicTitle": "Wasser-Licht-Stelen｜1970",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 74–75 頁作品。Günter Ferdinand Ris以不鏽鋼與內照明壓克力燈柱介入「德國駐巴西利亞大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 74–75 頁作品。Günter Ferdinand Ris以不鏽鋼與內照明壓克力燈柱介入「德國駐巴西利亞大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第270–271頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -934,7 +971,16 @@
       "reviewStatus": "已核對2010年官方選集；作品最新狀態待追查",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "270–271",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-19",
@@ -1566,9 +1612,9 @@
       "works": "Large Two Forms｜1979",
       "material": "青銅大型雕塑",
       "workSite": "波昂前聯邦總理府",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 98–99 頁作品。Henry Moore以青銅大型雕塑介入「波昂前聯邦總理府」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 98–99 頁作品。Henry Moore以青銅大型雕塑介入「波昂前聯邦總理府」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第114–115頁；同一作品只建立一筆索引。",
       "classicTitle": "Large Two Forms｜1979",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 98–99 頁作品。Henry Moore以青銅大型雕塑介入「波昂前聯邦總理府」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 98–99 頁作品。Henry Moore以青銅大型雕塑介入「波昂前聯邦總理府」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第114–115頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/large-two-forms",
@@ -1605,7 +1651,16 @@
         "kunst-am-bau-60-42",
         "kunst-am-bau-60-58"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "114–115",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-31",
@@ -1941,9 +1996,9 @@
       "works": "Gespräch zwischen den Blöcken｜1981/82",
       "material": "磚與青銅的廣場地景",
       "workSite": "不倫瑞克 Heinrich-der-Löwe 舊軍營",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 112–113 頁作品。Eberhard Linke以磚與青銅的廣場地景介入「不倫瑞克 Heinrich-der-Löwe 舊軍營」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 112–113 頁作品。Eberhard Linke以磚與青銅的廣場地景介入「不倫瑞克 Heinrich-der-Löwe 舊軍營」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第242–243頁；同一作品只建立一筆索引。",
       "classicTitle": "Gespräch zwischen den Blöcken｜1981/82",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 112–113 頁作品。Eberhard Linke以磚與青銅的廣場地景介入「不倫瑞克 Heinrich-der-Löwe 舊軍營」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 112–113 頁作品。Eberhard Linke以磚與青銅的廣場地景介入「不倫瑞克 Heinrich-der-Löwe 舊軍營」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第242–243頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -1967,7 +2022,16 @@
       "reviewStatus": "已核對2010年官方選集；作品最新狀態待追查",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "242–243",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-38",
@@ -2133,9 +2197,9 @@
       "works": "Doppelhorizontal-lichte Sechs, Helsinki-Berlin 1992｜1992",
       "material": "六聯複合媒材畫",
       "workSite": "德國駐赫爾辛基大使館",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 120–121 頁作品。Frank M. Zeidler以六聯複合媒材畫介入「德國駐赫爾辛基大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 120–121 頁作品。Frank M. Zeidler以六聯複合媒材畫介入「德國駐赫爾辛基大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第272–273頁；同一作品只建立一筆索引。",
       "classicTitle": "Doppelhorizontal-lichte Sechs, Helsinki-Berlin 1992｜1992",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 120–121 頁作品。Frank M. Zeidler以六聯複合媒材畫介入「德國駐赫爾辛基大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 120–121 頁作品。Frank M. Zeidler以六聯複合媒材畫介入「德國駐赫爾辛基大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第272–273頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -2159,7 +2223,16 @@
       "reviewStatus": "已核對2010年官方選集；作品最新狀態待追查",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "272–273",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-42",
@@ -2526,9 +2599,9 @@
       "works": "Berlin｜1999",
       "material": "鋼製雕塑",
       "workSite": "柏林聯邦總理府",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 134–135 頁作品。Eduardo Chillida以鋼製雕塑介入「柏林聯邦總理府」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 134–135 頁作品。Eduardo Chillida以鋼製雕塑介入「柏林聯邦總理府」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第138–139頁；同一作品只建立一筆索引。",
       "classicTitle": "Berlin｜1999",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 134–135 頁作品。Eduardo Chillida以鋼製雕塑介入「柏林聯邦總理府」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 134–135 頁作品。Eduardo Chillida以鋼製雕塑介入「柏林聯邦總理府」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第138–139頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -2566,7 +2639,16 @@
         "kunst-am-bau-60-56",
         "kunst-am-bau-60-60"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "138–139",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-49",
@@ -2588,9 +2670,9 @@
       "works": "Ohne Titel｜1999",
       "material": "板岩長椅",
       "workSite": "埃爾福特聯邦勞工法院",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第212–213頁；同一作品只建立一筆索引。",
       "classicTitle": "Ohne Titel｜1999",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第212–213頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -2614,7 +2696,16 @@
       "reviewStatus": "已核對2010年官方選集；作品最新狀態待追查",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "212–213",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-50",
@@ -2636,9 +2727,9 @@
       "works": "Ohne Titel｜1999/2000",
       "material": "青銅雕塑",
       "workSite": "柏林聯邦參議院",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 138–139 頁作品。Per Kirkeby以青銅雕塑介入「柏林聯邦參議院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 138–139 頁作品。Per Kirkeby以青銅雕塑介入「柏林聯邦參議院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第140–141頁；同一作品只建立一筆索引。",
       "classicTitle": "Ohne Titel｜1999/2000",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 138–139 頁作品。Per Kirkeby以青銅雕塑介入「柏林聯邦參議院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 138–139 頁作品。Per Kirkeby以青銅雕塑介入「柏林聯邦參議院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第140–141頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -2676,7 +2767,16 @@
         "kunst-am-bau-60-56",
         "kunst-am-bau-60-60"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "140–141",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-51",
@@ -2822,9 +2922,9 @@
       "works": "Als sähe ich im Himmel die Erde｜2000",
       "material": "彩色影印天花板飾帶",
       "workSite": "柏林聯邦經濟部",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 144–145 頁作品。Marcel Odenbach以彩色影印天花板飾帶介入「柏林聯邦經濟部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 144–145 頁作品。Marcel Odenbach以彩色影印天花板飾帶介入「柏林聯邦經濟部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第144–145頁；同一作品只建立一筆索引。",
       "classicTitle": "Als sähe ich im Himmel die Erde｜2000",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 144–145 頁作品。Marcel Odenbach以彩色影印天花板飾帶介入「柏林聯邦經濟部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 144–145 頁作品。Marcel Odenbach以彩色影印天花板飾帶介入「柏林聯邦經濟部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第144–145頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -2862,7 +2962,16 @@
         "kunst-am-bau-60-56",
         "kunst-am-bau-60-60"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "144–145",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-54",
@@ -3008,9 +3117,9 @@
       "works": "Roter Teppich｜2003",
       "material": "羊毛地毯",
       "workSite": "柏林國防部 Bendlerblock",
-      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 150–151 頁作品。Via Lewandowsky以羊毛地毯介入「柏林國防部 Bendlerblock」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 150–151 頁作品。Via Lewandowsky以羊毛地毯介入「柏林國防部 Bendlerblock」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第170–171頁；同一作品只建立一筆索引。",
       "classicTitle": "Roter Teppich｜2003",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 150–151 頁作品。Via Lewandowsky以羊毛地毯介入「柏林國防部 Bendlerblock」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 150–151 頁作品。Via Lewandowsky以羊毛地毯介入「柏林國防部 Bendlerblock」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第170–171頁；同一作品只建立一筆索引。",
       "artistStatement": "",
       "artistStatementSource": "",
       "website": "https://www.museum-der-1000-orte.de/",
@@ -3048,7 +3157,16 @@
         "kunst-am-bau-60-55",
         "kunst-am-bau-60-60"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "additionalSources": [
+        {
+          "collection": "70 Jahre Kunst am Bau in Deutschland",
+          "publicationYear": 2020,
+          "pages": "170–171",
+          "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+          "source": "BBR/BMI"
+        }
+      ]
     },
     {
       "id": "kunst-am-bau-60-57",
