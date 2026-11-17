@@ -8,7 +8,9 @@
     "editionDate": "2010",
     "imageEntries": 0,
     "scope": "60 examples directly from pages 40–159 in the 2010 BMVBS edition, 60 unique works",
-    "note": "60件全數依PDF建立作品索引。4件有已查明的逐件官方網站連結，其餘由原書與官方平台首頁溯源。現有網站圖片0件，攝影權利與個別作品現況待核查。本專題不計入每日20件。"
+    "note": "60件全數依PDF建立作品索引。4件有已查明的逐件官方網站連結，其餘由原書與官方平台首頁溯源。現有網站圖片0件，攝影權利與個別作品現況待核查。本專題不計入每日20件。",
+    "verifiedWorkPages": 4,
+    "imageRightsNote": "官方作品圖片不得未經書面許可複製到網站；詳見museum-der-1000-orte.de/nutzungsbedingungen；目前0圖入庫。"
   },
   "entries": [
     {
@@ -41,8 +43,8 @@
       "photo": "",
       "classicImage": "",
       "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "imageCredit": "BBR / Marnie Schäfer (2013)，© VG Bild-Kunst, Bonn",
+      "imageRights": "官方照片有受保護的著作權，Museum der 1000 Orte使用條款規定須先獲書面授權，故目前僅提供作品連結與攝影署名。",
       "imageVerification": "待核實來源與重製權利",
       "imageStatus": "原書含照片，網站圖檔尚待完成",
       "status": "官方來源",
@@ -53,8 +55,8 @@
       "bookPageRange": "40–41",
       "pdfPage": 22,
       "originalDate": "1945 – 50",
-      "accessNote": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
-      "reviewStatus": "已核對官方選集及 Museum der 1000 Orte 對應頁",
+      "accessNote": "德國聯邦官方資料標示：不對外開放／無法從公共區域觀看。原書記載作品構思於1945–1950，聯邦官方網站收錄年為1954。",
+      "reviewStatus": "已與Museum der 1000 Orte逐件官方紀錄交叉核對",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [
         "kunst-am-bau-60-03",
@@ -70,7 +72,8 @@
         "kunst-am-bau-60-42",
         "kunst-am-bau-60-58"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "historicalYearNote": "2010年原書：1945–1950；BBR數位檔案標註1954（安置或收錄年）。"
     },
     {
       "id": "kunst-am-bau-60-02",
@@ -1290,8 +1293,8 @@
       "photo": "",
       "classicImage": "",
       "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "imageCredit": "BBR / Cordia Schlegelmilch (2013)，© VG Bild-Kunst, Bonn",
+      "imageRights": "官方照片有受保護的著作權，Museum der 1000 Orte使用條款規定須先獲書面授權，故目前僅提供作品連結與攝影署名。",
       "imageVerification": "待核實來源與重製權利",
       "imageStatus": "原書含照片，網站圖檔尚待完成",
       "status": "官方來源",
@@ -1302,8 +1305,8 @@
       "bookPageRange": "88–89",
       "pdfPage": 46,
       "originalDate": "1978",
-      "accessNote": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
-      "reviewStatus": "已核對官方選集及 Museum der 1000 Orte 對應頁",
+      "accessNote": "德國聯邦官方資料標示：不對外開放／無法從公共區域觀看。",
+      "reviewStatus": "已與Museum der 1000 Orte逐件官方紀錄交叉核對",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [
         "kunst-am-bau-60-01",
@@ -1401,8 +1404,8 @@
       "photo": "",
       "classicImage": "",
       "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "imageCredit": "BBR / Bernd Hiepe (2015)，© VG Bild-Kunst, Bonn",
+      "imageRights": "官方照片有受保護的著作權，Museum der 1000 Orte使用條款規定須先獲書面授權，故目前僅提供作品連結與攝影署名。",
       "imageVerification": "待核實來源與重製權利",
       "imageStatus": "原書含照片，網站圖檔尚待完成",
       "status": "官方來源",
@@ -1413,8 +1416,8 @@
       "bookPageRange": "92–93",
       "pdfPage": 48,
       "originalDate": "1978",
-      "accessNote": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
-      "reviewStatus": "已核對官方選集及 Museum der 1000 Orte 對應頁",
+      "accessNote": "德國聯邦官方資料標示：不對外開放／無法從公共區域觀看。",
+      "reviewStatus": "已與Museum der 1000 Orte逐件官方紀錄交叉核對",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [
         "kunst-am-bau-60-01",
@@ -1430,7 +1433,9 @@
         "kunst-am-bau-60-42",
         "kunst-am-bau-60-58"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "historicalYearNote": "2010年原書記為1978；Museum der 1000 Orte 官方數位檔案列1979，為實際安置／完成年。",
+      "officialCatalogueYear": "1979"
     },
     {
       "id": "kunst-am-bau-60-28",
@@ -1571,8 +1576,8 @@
       "photo": "",
       "classicImage": "",
       "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "imageCredit": "BBR / Martin Seidel (2013)，© VG Bild-Kunst, Bonn",
+      "imageRights": "官方照片有受保護的著作權，Museum der 1000 Orte使用條款規定須先獲書面授權，故目前僅提供作品連結與攝影署名。",
       "imageVerification": "待核實來源與重製權利",
       "imageStatus": "原書含照片，網站圖檔尚待完成",
       "status": "官方來源",
@@ -1583,8 +1588,8 @@
       "bookPageRange": "98–99",
       "pdfPage": 51,
       "originalDate": "1979",
-      "accessNote": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
-      "reviewStatus": "已核對官方選集及 Museum der 1000 Orte 對應頁",
+      "accessNote": "德國聯邦官方資料標示：對外開放／可公開觀看。",
+      "reviewStatus": "已與Museum der 1000 Orte逐件官方紀錄交叉核對",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [
         "kunst-am-bau-60-01",
