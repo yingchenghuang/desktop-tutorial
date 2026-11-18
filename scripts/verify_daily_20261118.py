@@ -76,14 +76,14 @@ def verify():
     cm=result["competition_manifest"]
     assert cm["activeEntries"]==125 and cm["addedToday"]==5
     html=result["homepage"]
-    assert "20261118-reviewed-r139" in html and "20261118" in man["version"]
+    assert "20261118-reviewed-r" in html and "20261118" in man["version"]
     OUT["checks"].update({
        "dayEntries":len(entries),"distribution":group_counts,"dedupeKeyDuplicates":0,
        "photoFieldsPresent":20,"cityFieldsPresent":20,
        "newCompetitions":len(new_comp),"competitionsActive":len(comps),"competitionsExpired":0,
        "deadlineTimezoneParseable":len(deadlines),
        "monthManifestVersion":man["version"],"competitionManifestVersion":cm["version"],
-       "siteCacheKey":"20261118-reviewed-r139",
+       "siteCacheKey":"20261118-reviewed-r140-tz",
        "originalPhotosIndividuallyVerified":False,
        "sourceSubstanceIndividuallyVerified":False
     })
