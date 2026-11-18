@@ -97,86 +97,85 @@
     throw lastError;
   }
   async function withBackfill(data) {
-    const base = Array.isArray(data) ? { entries: data } : (data || {});
+    const base = Array.isArray(data) ? {entries:data} : (data || {});
     const entries = Array.isArray(base.entries) ? base.entries.slice() : [];
-    try {
-      const seen = new Set(entries.map(keyOf).filter(Boolean));
-      let latestVersion = '';
-      let latestGeneratedAt = '';
-      const manifests = await Promise.all(manifestUrls.map(async function(url) {
-        try { return await readJson(url); }
-        catch (error) { return null; }
-      }));
-      let failedChunks = 0;
-      for (const manifest of manifests) {
-        if (!manifest) { failedChunks++; continue; }
-        latestVersion = manifest.version || latestVersion;
-        if (manifest.generatedAt && (!latestGeneratedAt || Date.parse(manifest.generatedAt) > Date.parse(latestGeneratedAt))) latestGeneratedAt = manifest.generatedAt;
-        const files = Array.isArray(manifest.files) ? manifest.files : [];
-        const chunks = await Promise.all(files.map(async function(file) {
-          try { return await readJson('data/' + file + '?t=' + cacheKey); }
-          catch (error) { failedChunks++; return { entries: [] }; }
-        }));
-        for (const chunk of chunks) {
-          const chunkEntries = Array.isArray(chunk.entries) ? chunk.entries : [];
-          for (const entry of chunkEntries) {
-            const key = keyOf(entry);
-            if (!key || seen.has(key)) continue;
-            seen.add(key);
-            entries.push(entry);
-          }
-        }
-      }
-      try {
-        const spaceManifest = await readJson('data/publicspace-manifest.json?t=' + cacheKey);
-        for (const filename of (spaceManifest.files || [])) {
-          const spaceChunk = await readJson('data/' + filename + '?t=' + (spaceManifest.version || cacheKey));
-          for (const entry of (spaceChunk.entries || [])) {
-            const key = keyOf(entry);
-            if (!key) continue;
-            if (seen.has(key)) {
-              const existing = entries.find(item => keyOf(item) === key);
-              if (existing && Array.isArray(entry.images) && entry.images.length) {
-                // Keep the earlier human-edited Chinese research, enrich with first-party galleries.
-                existing.photo = entry.photo;
-                existing.classicImage = entry.classicImage;
-                existing.images = entry.images;
-                existing.imageCredit = entry.imageCredit;
-                existing.imageVerification = entry.imageVerification;
-                existing.imageRights = entry.imageRights;
-              }
-              continue;
-            }
-            seen.add(key);
-            entries.push(entry);
-          }
-        }
-        base.meta = Object.assign({}, base.meta || {}, { publicspaceStatus: spaceManifest.ingestionStatus || 'unknown', publicspaceCount: spaceManifest.activeEntries || 0 });
-      } catch (error) {
-        base.meta = Object.assign({}, base.meta || {}, { publicspaceStatus: 'unavailable' });
-      }
-      base.entries = entries;
-      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: latestVersion || '2026-07-11', backfillGeneratedAt: latestGeneratedAt, backfillStatus: failedChunks ? 'partial' : 'complete', backfillFailedChunks: failedChunks });
-    } catch (error) {
-      base.entries = entries;
-      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillStatus: 'unavailable' });
-    }
-    // A transient failure in an older archive chunk must never hide today's reviewed works.
-    try {
-      const current = await readJson('data/backfill-november-20261118.json?t=' + cacheKey);
-      const seenToday = new Set(entries.map(keyOf).filter(Boolean));
-      for (const entry of (current.entries || [])) {
+    const seen = new Set(entries.map(keyOf).filter(Boolean));
+    const failures = [];
+    let latestVersion = '';
+    let latestGeneratedAt = '';
+    const addEntries = chunk => {
+      const chunkEntries = Array.isArray(chunk && chunk.entries) ? chunk.entries : [];
+      for (const entry of chunkEntries) {
         const key = keyOf(entry);
-        if (key && !seenToday.has(key)) {
-          entries.push(entry);
-          seenToday.add(key);
+        if (!key) continue;
+        if (seen.has(key)) {
+          const existing = entries.find(item => keyOf(item) === key);
+          if (existing && Array.isArray(entry.images) && entry.images.length) {
+            existing.photo = entry.photo;
+            existing.classicImage = entry.classicImage;
+            existing.images = entry.images;
+            existing.imageCredit = entry.imageCredit;
+            existing.imageVerification = entry.imageVerification;
+            existing.imageRights = entry.imageRights;
+          }
+          continue;
+        }
+        seen.add(key);
+        entries.push(entry);
+      }
+    };
+    async function tryJson(url, attempts) {
+      let lastError;
+      for (let retry = 0; retry < (attempts || 3); retry++) {
+        try {
+          return await readJson(url);
+        } catch (error) {
+          lastError = error;
         }
       }
+      failures.push(url);
+      throw lastError;
+    }
+    // Newest month first so a transient failure in an old archive never hides today's work.
+    for (const url of manifestUrls.slice().reverse()) {
+      let manifest;
+      try {
+        manifest = await tryJson(url, 3);
+      } catch (error) {
+        continue;
+      }
+      if (!latestVersion) latestVersion = manifest.version || '';
+      if (Date.parse(manifest.generatedAt || '') > Date.parse(latestGeneratedAt || '')) latestGeneratedAt = manifest.generatedAt;
+      const files = Array.isArray(manifest.files) ? manifest.files.slice().reverse() : [];
+      for (let start = 0; start < files.length; start += 5) {
+        const group = files.slice(start, start + 5);
+        const results = await Promise.all(group.map(async file => {
+          try {
+            return await tryJson('data/' + file + '?t=' + (manifest.version || cacheKey), 3);
+          } catch (error) {
+            return null;
+          }
+        }));
+        for (const chunk of results) if (chunk) addEntries(chunk);
+      }
+    }
+    try {
+      const special = await tryJson('data/publicspace-manifest.json?t=' + cacheKey, 3);
+      for (const file of (special.files || [])) {
+        try {
+          addEntries(await tryJson('data/' + file + '?t=' + (special.version || cacheKey), 3));
+        } catch (error) {}
+      }
+      base.meta = Object.assign({}, base.meta || {}, { publicspaceStatus:special.ingestionStatus || 'unknown', publicspaceCount:special.activeEntries || 0 });
     } catch (error) {
-      base.meta = Object.assign({}, base.meta || {}, { currentDayStatus: 'unavailable' });
+      base.meta = Object.assign({}, base.meta || {}, { publicspaceStatus:'unavailable' });
     }
     base.entries = entries;
-    base.meta = Object.assign({}, base.meta || {}, { total: entries.length });
+    base.meta = Object.assign({}, base.meta || {}, {
+      total:entries.length, backfillVersion:latestVersion || '2026-07-11',
+      backfillGeneratedAt:latestGeneratedAt, backfillStatus:failures.length ? 'partial' : 'complete',
+      failedSources:failures
+    });
     return base;
   }
   window.fetch = async function(input, init) {
