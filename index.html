@@ -145,7 +145,7 @@
         continue;
       }
       if (!latestVersion) latestVersion = manifest.version || '';
-      if (Date.parse(manifest.generatedAt || '') > Date.parse(latestGeneratedAt || '')) latestGeneratedAt = manifest.generatedAt;
+      if (manifest.generatedAt && (!latestGeneratedAt || Date.parse(manifest.generatedAt) > Date.parse(latestGeneratedAt))) latestGeneratedAt = manifest.generatedAt;
       const files = Array.isArray(manifest.files) ? manifest.files.slice().reverse() : [];
       for (let start = 0; start < files.length; start += 5) {
         const group = files.slice(start, start + 5);
