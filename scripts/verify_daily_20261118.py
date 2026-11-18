@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Validate November 18, 2026's five public GitHub Pages endpoints and data integrity."""
 import json
+import traceback
 import time
 import sys
 import datetime
@@ -124,10 +125,10 @@ def verify_browser_search():
     OUT["checks"]["browserSearch"]=report
 
 if __name__=="__main__":
-    try:
-        verify()
-        verify_browser_search()
-    except Exception as exc:
-        OUT["errors"].append(repr(exc))
+    for task in (verify, verify_browser_search):
+        try:
+            task()
+        except Exception as exc:
+            OUT["errors"].append(task.__name__+": "+repr(exc)+" "+traceback.format_exc()[-1800:])
     print(json.dumps(OUT,ensure_ascii=False,indent=2),flush=True)
     sys.exit(0 if not OUT["errors"] else 1)
