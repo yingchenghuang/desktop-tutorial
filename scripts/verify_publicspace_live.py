@@ -14,7 +14,7 @@ def get(path, expect_json=False, attempts=5):
     last = None
     for n in range(attempts):
         try:
-            u = path if path.startswith("https://") else BASE + path
+            u = path if path.startswith("https://") else BASE + path + ("&" if "?" in path else "?") + "verify=" + str(time.time_ns())
             r = urlopen(Request(u, headers={"User-Agent":"Mozilla/5.0 PublicArtArchive/1.0"}), timeout=25)
             data = r.read()
             ct = r.headers.get("Content-Type", "")
@@ -104,11 +104,15 @@ def check_rendered_gallery():
 
 
 def check_daily_art_and_competitions():
-    from datetime import datetime, timezone
+    from datetime import datetime, timezone, timedelta
     from zoneinfo import ZoneInfo
     import re
-    art = get("data/backfill-november-20261118.json", True)
     nov = get("data/backfill-november-manifest.json", True)
+    daily_files = sorted(f for f in nov.get("files", []) if re.fullmatch(r"backfill-november-\d{8}\.json", f))
+    assert daily_files, "No daily public-art file in month manifest"
+    daily_file = daily_files[-1]
+    day = datetime.strptime(daily_file[-13:-5], "%Y%m%d").date().isoformat()
+    art = get("data/" + daily_file, True)
     comps = get("data/competitions.json", True)
     cman = get("data/competition-manifest.json", True)
     records = art.get("entries", [])
@@ -116,15 +120,16 @@ def check_daily_art_and_competitions():
     groups = {key: sum(e.get("researchGroup") == key for e in records)
               for key in ("current", "globalClassic", "germanClassic")}
     assert len(records) == 20 and groups == {"current":10,"globalClassic":5,"germanClassic":5}, groups
-    assert "backfill-november-20261118.json" in nov.get("files", []), "Today's file missing from month manifest"
+    assert daily_file in nov.get("files", []), "Latest daily file missing from month manifest"
     assert len({e.get("dedupeKey") for e in records}) == 20, "Art duplicate keys"
     assert all(e.get("website") and e.get("photo") and e.get("cityKeywords") and e.get("comment") and e.get("material") for e in records), "Art missing source/image/city/comment/material"
     assert len({e.get("dedupeKey") for e in active}) == len(active), "Competition duplicate keys"
     assert len(active) == cman.get("activeEntries"), "Competition manifest count mismatch"
-    added = [e for e in active if e.get("updated") == "2026-11-18"]
+    added = [e for e in active if e.get("updated") == day]
     assert len(added) == 5 and cman.get("addedToday") == 5, "Competition new count mismatch"
-    assert all(e.get("cityKeywords") and e.get("website") and e.get("photo") for e in active), "Competition missing city/source/image"
+    assert all(e.get("cityKeywords") and e.get("website") and (e.get("photo") or (e.get("imageDisplayPolicy") == "link-only" and e.get("imageSourceUrl") and e.get("imageCredit") and e.get("imageRights"))) for e in active), "Competition missing city/source/image provenance"
     offset_mismatches = []
+    verified_timezone_overrides = []
     now = datetime.now(timezone.utc)
     for e in active:
         dl = e.get("deadline", "")
@@ -132,23 +137,39 @@ def check_daily_art_and_competitions():
         instant = datetime.fromisoformat(dl)
         assert instant > now, "Expired competition: " + str(e.get("id"))
         tz = ZoneInfo(e.get("deadlineTimezone"))
-        if instant.utcoffset() != instant.astimezone(tz).utcoffset():
+        expected_offset = instant.astimezone(tz).utcoffset()
+        # Alberta adopted permanent UTC-06 on 2026-11-01. Older runner tzdb
+        # may still return MST; validate the sourced reform rather than change deadlines.
+        if (e.get("deadlineTimezone") == "America/Edmonton"
+                and instant.date().isoformat() >= "2026-11-01"
+                and e.get("timezoneCorrectionSource") == "https://www.alberta.ca/albertas-new-time-system-abt"):
+            expected_offset = timedelta(hours=-6)
+            verified_timezone_overrides.append(e["id"])
+        if instant.utcoffset() != expected_offset:
             offset_mismatches.append(e.get("id"))
     assert not offset_mismatches, "Timezone offset mismatch: " + repr(offset_mismatches)
-    REPORT["endpoints"]["backfill-november-20261118.json"] = {"status":200,"entries":len(records),"groups":groups}
+    REPORT["endpoints"][daily_file] = {"status":200,"entries":len(records),"groups":groups}
     REPORT["endpoints"]["backfill-november-manifest.json"] = {"status":200,"version":nov.get("version"),"fileCount":len(nov.get("files",[]))}
     REPORT["endpoints"]["competitions.json"] = {"status":200,"active":len(active),"addedToday":len(added),"expired":0}
     REPORT["endpoints"]["competition-manifest.json"] = {"status":200,"version":cman.get("version"),"active":cman.get("activeEntries")}
-    REPORT["daily"] = {"duplicateKeys":0,"missingSourceImageCity":0,"timezoneMismatches":0,"originalPhotoAudit":"not completed; official-page screenshots only"}
+    REPORT["daily"] = {"date":day,"duplicateKeys":0,"missingSourceImageCity":0,"timezoneMismatches":0,"verifiedAlbertaReformOverrides":verified_timezone_overrides,"originalPhotoAudit":"not completed for all original images; source links and rights notes retained"}
     return records, active
 
-def check_daily_search_and_city_link():
+def check_daily_search_and_city_link(records, active):
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True, args=["--no-sandbox"])
         page = browser.new_page(viewport={"width":1360,"height":900})
         page.goto(BASE,wait_until="domcontentloaded",timeout=70000)
         page.wait_for_function("()=>document.querySelector('#resultCount') && /顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
+        page.locator("#q").fill(records[0]["classicTitle"])
+        page.wait_for_timeout(1000)
+        assert page.locator("#grid .card").count() >= 1, "Latest public artwork search failed"
+        page.locator("#grid .card").first.click()
+        if records[0].get("imageDisplayPolicy") == "link-only":
+            assert records[0].get("imageRights"), "Missing latest artwork rights"
+            assert page.locator("#panel figure img").count() == 0, "Link-only artwork image was embedded"
+        page.locator("#sheetClose").click()
         page.locator("#q").fill("Sound to Summit")
         page.wait_for_timeout(1000)
         cards = page.locator("#grid .card")
@@ -161,10 +182,20 @@ def check_daily_search_and_city_link():
         related.first.locator("[data-related-id]").filter(has_text="4Culture").first.click()
         assert "競圖資料庫" in page.locator("#panel").inner_text(), "Reverse link target did not open competition"
         page.locator("#sheetClose").click()
-        page.locator("#q").fill("Bonaban")
+        newest_day = max(e.get("updated", "") for e in records)
+        newest_call = next(e for e in active if e.get("updated") == newest_day)
+        page.locator("#q").fill(newest_call["classicTitle"])
         page.wait_for_timeout(1000)
         n=page.locator("#grid .card").count()
         assert n >= 1, "Today's new competition search failed"
+        page.set_viewport_size({"width":390,"height":844})
+        page.locator("#q").fill(records[0]["classicTitle"])
+        page.wait_for_timeout(900)
+        assert page.locator("#grid .card").count() >= 1, "Mobile latest art search failed"
+        page.locator("#grid .card").first.click()
+        page.locator("#sheet.open #panel").wait_for(timeout=12000)
+        assert page.locator("#panel").inner_text(), "Mobile detail missing"
+        REPORT["browser"]["mobileSearchAndDetail"] = "390px passed"
         REPORT["browser"]["todayArtSearch"] = 1
         REPORT["browser"]["todayCompetitionSearch"] = n
         REPORT["browser"]["crossDatabaseCity"] = "Seattle artwork → 4Culture competition: success"
@@ -175,8 +206,8 @@ def main():
         entries=check_endpoints()
         check_photo_samples(entries)
         check_rendered_gallery()
-        check_daily_art_and_competitions()
-        check_daily_search_and_city_link()
+        records, active = check_daily_art_and_competitions()
+        check_daily_search_and_city_link(records, active)
     except Exception as e:
         FAILURES.append("Live endpoint: "+str(e))
     REPORT["failures"]=FAILURES

@@ -54,6 +54,128 @@
     "nodeSyntax": "passed",
     "gitDiffCheck": "passed",
     "browserRendering": "headless Chromium blocked by environment socket permission; no visual-layout success claimed",
-    "domFunctional": "passed: new data loading, art/exhibition search, link-only images, credits/provenance, preserved portals; no runtime exceptions"
+    "domFunctional": "passed: new data loading, art/exhibition search, link-only images, credits/provenance, preserved portals; no runtime exceptions",
+    "timezone": "129 active deadlines verified; two Alberta offsets use official permanent UTC-06 reform; runner tzdb is stale",
+    "timezoneSource": "https://www.alberta.ca/albertas-new-time-system-abt",
+    "firstWorkflowFailure": "Legacy image-required assertion rejected link-only source attribution. PublicSpace data, six images and 19 secondary gallery frames had already passed. Check updated to require provenance, credit and rights for link-only records."
+  },
+  "publication": {
+    "contentCommit": "84d4f9c4a5fa16c3a6c594a8d29e24e964220e9a",
+    "pagesRun": 44397061121,
+    "status": "success",
+    "publicReadback": [
+      {
+        "path": "",
+        "status": 200,
+        "version": null,
+        "entries": null,
+        "currentHome": true,
+        "expected": null
+      },
+      {
+        "path": "data/backfill-november-20261119.json",
+        "status": 200,
+        "version": null,
+        "entries": 20,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "data/backfill-november-manifest.json",
+        "status": 200,
+        "version": "20261119-reviewed-r142",
+        "entries": 0,
+        "currentHome": null,
+        "expected": 569
+      },
+      {
+        "path": "data/competitions.json",
+        "status": 200,
+        "version": null,
+        "entries": 129,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "data/competition-manifest.json",
+        "status": 200,
+        "version": "20261119-reviewed-r142",
+        "entries": 0,
+        "currentHome": null,
+        "expected": 129
+      },
+      {
+        "path": "data/exhibition-manifest.json",
+        "status": 200,
+        "version": "20261119-exhibitions-r12",
+        "entries": 0,
+        "currentHome": null,
+        "expected": 264
+      },
+      {
+        "path": "data/exhibitions-galleriesnow-20261119.json",
+        "status": 200,
+        "version": null,
+        "entries": 5,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "data/exhibitions-galleriesnow-backfill-20261119-01.json",
+        "status": 200,
+        "version": null,
+        "entries": 50,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "data/exhibitions-galleriesnow-backfill-20261119-02.json",
+        "status": 200,
+        "version": null,
+        "entries": 50,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "data/exhibitions-galleriesnow-backfill-20261119-03.json",
+        "status": 200,
+        "version": null,
+        "entries": 50,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "data/exhibitions-galleriesnow-backfill-20261119-04.json",
+        "status": 200,
+        "version": null,
+        "entries": 50,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "data/exhibitions-galleriesnow-backfill-20261119-05.json",
+        "status": 200,
+        "version": null,
+        "entries": 9,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "kunst-am-bau/",
+        "status": 200,
+        "version": null,
+        "entries": null,
+        "currentHome": null,
+        "expected": null
+      },
+      {
+        "path": "data/publicspace-manifest.json",
+        "status": 200,
+        "version": "publicspace-20261118-automated",
+        "entries": 0,
+        "currentHome": null,
+        "expected": 248
+      }
+    ]
   }
 }
