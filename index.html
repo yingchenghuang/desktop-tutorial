@@ -74,7 +74,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20261118-reviewed-r140-tz';
+  const cacheKey = '20261118-reviewed-r141-resilient';
   const manifestUrls = [
     'data/backfill-july-manifest.json?t=' + cacheKey,
     'data/backfill-august-manifest.json?t=' + cacheKey,
@@ -84,9 +84,17 @@
   ];
   const keyOf = (entry) => String(entry && (entry.dedupeKey || entry.id || entry.name || '')).trim();
   async function readJson(url) {
-    const response = await originalFetch(url, { cache: 'no-store' });
-    if (!response.ok) throw new Error('Unable to load ' + url);
-    return response.json();
+    let lastError;
+    for (let attempt = 0; attempt < 3; attempt++) {
+      try {
+        const response = await originalFetch(url, { cache: 'no-store' });
+        if (!response.ok) throw new Error('Unable to load ' + url + ': ' + response.status);
+        return await response.json();
+      } catch (error) {
+        lastError = error;
+      }
+    }
+    throw lastError;
   }
   async function withBackfill(data) {
     const base = Array.isArray(data) ? { entries: data } : (data || {});
@@ -95,12 +103,20 @@
       const seen = new Set(entries.map(keyOf).filter(Boolean));
       let latestVersion = '';
       let latestGeneratedAt = '';
-      const manifests = await Promise.all(manifestUrls.map(readJson));
+      const manifests = await Promise.all(manifestUrls.map(async function(url) {
+        try { return await readJson(url); }
+        catch (error) { return null; }
+      }));
+      let failedChunks = 0;
       for (const manifest of manifests) {
+        if (!manifest) { failedChunks++; continue; }
         latestVersion = manifest.version || latestVersion;
-        if (Date.parse(manifest.generatedAt || '') > Date.parse(latestGeneratedAt || '')) latestGeneratedAt = manifest.generatedAt;
+        if (manifest.generatedAt && (!latestGeneratedAt || Date.parse(manifest.generatedAt) > Date.parse(latestGeneratedAt))) latestGeneratedAt = manifest.generatedAt;
         const files = Array.isArray(manifest.files) ? manifest.files : [];
-        const chunks = await Promise.all(files.map(file => readJson('data/' + file + '?t=' + cacheKey)));
+        const chunks = await Promise.all(files.map(async function(file) {
+          try { return await readJson('data/' + file + '?t=' + cacheKey); }
+          catch (error) { failedChunks++; return { entries: [] }; }
+        }));
         for (const chunk of chunks) {
           const chunkEntries = Array.isArray(chunk.entries) ? chunk.entries : [];
           for (const entry of chunkEntries) {
@@ -140,11 +156,27 @@
         base.meta = Object.assign({}, base.meta || {}, { publicspaceStatus: 'unavailable' });
       }
       base.entries = entries;
-      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: latestVersion || '2026-07-11', backfillGeneratedAt: latestGeneratedAt });
+      base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillVersion: latestVersion || '2026-07-11', backfillGeneratedAt: latestGeneratedAt, backfillStatus: failedChunks ? 'partial' : 'complete', backfillFailedChunks: failedChunks });
     } catch (error) {
       base.entries = entries;
       base.meta = Object.assign({}, base.meta || {}, { total: entries.length, backfillStatus: 'unavailable' });
     }
+    // A transient failure in an older archive chunk must never hide today's reviewed works.
+    try {
+      const current = await readJson('data/backfill-november-20261118.json?t=' + cacheKey);
+      const seenToday = new Set(entries.map(keyOf).filter(Boolean));
+      for (const entry of (current.entries || [])) {
+        const key = keyOf(entry);
+        if (key && !seenToday.has(key)) {
+          entries.push(entry);
+          seenToday.add(key);
+        }
+      }
+    } catch (error) {
+      base.meta = Object.assign({}, base.meta || {}, { currentDayStatus: 'unavailable' });
+    }
+    base.entries = entries;
+    base.meta = Object.assign({}, base.meta || {}, { total: entries.length });
     return base;
   }
   window.fetch = async function(input, init) {
@@ -161,7 +193,7 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20261118-reviewed-r140-tz"></script>
+<script src="assets/app.js?t=20261118-reviewed-r141-resilient"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
