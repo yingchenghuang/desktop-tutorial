@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-19",
+  "timezone": "Asia/Taipei",
+  "generatedAt": "2026-11-19T05:09:00+08:00",
+  "scope": "22 fixed public-art sources plus Land Art Flevoland; GalleriesNow exhibition stream checked separately",
+  "summary": {
+    "readable": 20,
+    "blocked": 3,
+    "totalFixedSources": 23,
+    "galleriesNow": "readable"
+  },
+  "sources": [
+    {
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "bbk berlin · Büro für Kunst im öffentlichen Raum",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "blocked",
+      "note": "HTTP 401;正文未讀取，保留追蹤"
+    },
+    {
+      "name": "KORO · Public Art Norway",
+      "url": "https://koro.no/english/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "MAPS · Museum of Art in Public Space",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Fourth Plinth · London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "blocked",
+      "note": "官方站轉至維護頁；正文未讀取，保留追蹤"
+    },
+    {
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Toronto · Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Vancouver · Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "Melbourne · Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    },
+    {
+      "name": "文化部公共藝術官方網站",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "blocked",
+      "note": "HTTP 403;正文未讀取，保留追蹤"
+    },
+    {
+      "name": "Land Art Flevoland",
+      "url": "https://www.landartflevoland.nl/en/",
+      "status": "success",
+      "note": "正文可讀；本次為同日資料完整後的驗收巡查，未重複新增"
+    }
+  ],
+  "galleriesNow": {
+    "status": "success",
+    "newsletter": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/",
+    "note": "電子報正文可讀；今日5則與209則補刊已由同日人工批次寫入，10則缺完整展期項目仍列待核，未重複建立。"
+  },
+  "caveats": [
+    "success表示本次可讀到正文，不等同宣稱該站沒有其他更新。",
+    "blocked來源未繞過401、403或維護限制。",
+    "同日網站與Notion已滿20／5／5，因此本次僅驗收與紀錄巡查，不新增重複資料。"
+  ]
+}
