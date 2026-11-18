@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-18",
+  "timezone": "Asia/Taipei",
+  "reportType": "Daily public art + separate competition publication audit",
+  "publicSite": "https://yingchenghuang.github.io/desktop-tutorial/",
+  "githubRepository": "https://github.com/yingchenghuang/desktop-tutorial",
+  "notionDatabase": "https://app.notion.com/p/d1232d1e8e284745a0d14cd7d911ec62",
+  "dailyPublicArt": {
+    "sourceFile": "data/backfill-november-20261118.json",
+    "count": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    },
+    "dedupeKeyDuplicates": 0,
+    "cityKeywordsMissing": 0,
+    "photoURLMissing": 0,
+    "imageEvidence": "20 first-party page screenshot previews through thum.io; original artwork photo matches and reproduction authorization NOT individually audited"
+  },
+  "competitions": {
+    "sourceFile": "data/competitions.json",
+    "newOn20261118": 5,
+    "existingBefore": 122,
+    "expiredRemovedInRun": 2,
+    "currentActive": 125,
+    "dedupeKeyDuplicates": 0,
+    "expiredCurrent": 0,
+    "deadlinesOffsetParseable": 125,
+    "deadlineIanaPresent": 125,
+    "deadlineTimezoneContentVerified": "Machine-parsed offsets; official-source + IANA legal detail not all manually cross-checked",
+    "dateOnlyDeadlineHandling": "Local 23:59:59 inferred with deadlinePrecision=date",
+    "validUntilCheckLocalDate": "2026-11-18"
+  },
+  "notion": {
+    "createdDailyArt": 20,
+    "createdCompetitions": 5,
+    "createdUnique": 25,
+    "readbackArt": 20,
+    "readbackCompetitions": 5,
+    "readbackUniqueDedupeKeys": 25,
+    "missingImageURL": 0,
+    "missingCityKeywords": 0,
+    "missingDeadlineOfFive": 0,
+    "readbackMethod": "Notion saved view 圖片速讀, sorted by 資訊更新日期; Query Data Source SQL quota exhausted"
+  },
+  "githubPages": {
+    "deploymentRun": "https://github.com/yingchenghuang/desktop-tutorial/actions/runs/44304461142",
+    "deploymentConclusion": "success",
+    "fivePublicEndpoints": {
+      "homepage": 200,
+      "backfill-november-20261118.json": 200,
+      "backfill-november-manifest.json": 200,
+      "competitions.json": 200,
+      "competition-manifest.json": 200
+    },
+    "liveValidationRun": "https://github.com/yingchenghuang/desktop-tutorial/actions/runs/44304112255",
+    "liveValidationAttempt": 2,
+    "liveValidationConclusion": "success",
+    "browserSearchConfirmed": [
+      {
+        "query": "Kaleidoburst",
+        "cards": 1
+      },
+      {
+        "query": "Really Good",
+        "cards": 1
+      },
+      {
+        "query": "City Hall Plaza Exterior Wall Sculpture Acquisition",
+        "cards": 1
+      }
+    ],
+    "novemberFileFetchBroken": 0
+  },
+  "specialArchivesPreserved": [
+    "Land Art Flevoland",
+    "Kunst am Bau 60",
+    "Kunst am Bau 70",
+    "Museum der 1000 Orte snapshot",
+    "PublicSpace / CCCB"
+  ],
+  "missingFullSemanticAudit": [
+    "20 artwork preview images still need individual visual comparison to completed artworks and image rights",
+    "A full 23-platform current-source sweep was not performed in this manual update",
+    "Competition source deadline substance, eligibility and timezone nuances require additional manual verification",
+    "Technical 200 checks cannot independently prove every source statement or photograph is substantively correct"
+  ],
+  "conclusion": "Today's GitHub + Notion data publishing and five-endpoint + representative browser search technically verified; full editorial/photo/source substantive acceptance pending."
+}
