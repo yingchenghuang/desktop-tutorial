@@ -6,7 +6,7 @@
     "total": 60,
     "sourceTotal": 60,
     "editionDate": "2010",
-    "imageEntries": 16,
+    "imageEntries": 22,
     "scope": "60 examples directly from pages 40–159 in the 2010 BMVBS edition, 60 unique works",
     "note": "60件全數依PDF建立作品索引。4件有已查明的逐件官方網站連結，其餘由原書與官方平台首頁溯源。現有網站圖片0件，攝影權利與個別作品現況待核查。本專題不計入每日20件。",
     "verifiedWorkPages": 4,
@@ -394,18 +394,25 @@
       "workSite": "布魯塞爾世博德國館（後移波昂）",
       "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 52–53 頁作品。Fritz Koenig以青銅雕塑介入「布魯塞爾世博德國館（後移波昂）」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
       "classicTitle": "Maternitas｜1958",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 52–53 頁作品。Fritz Koenig以青銅雕塑介入「布魯塞爾世博德國館（後移波昂）」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 52–53 頁作品。Fritz Koenig以青銅雕塑介入「布魯塞爾世博德國館（後移波昂）」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《Mutter und Kind oder Maternitas》，館藏完成／設置年 1964；與本圖錄條目所記「Maternitas」（1958）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas。",
       "artistStatement": "",
-      "artistStatementSource": "",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas",
       "website": "https://www.museum-der-1000-orte.de/",
       "workPage": "",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
-      "imageVerification": "待核實來源與重製權利",
-      "imageStatus": "原書含照片，網站圖檔尚待完成",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4cfe4609c1903fef8feb9e1cf9fdff956c785929.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4cfe4609c1903fef8feb9e1cf9fdff956c785929.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4cfe4609c1903fef8feb9e1cf9fdff956c785929.jpg",
+          "caption": "Fritz Koenig｜Mutter und Kind oder Maternitas",
+          "credit": "BBR / Martin Seidel (2013)",
+          "kind": "德國聯邦BBR館藏作品照片"
+        }
+      ],
+      "imageCredit": "BBR / Martin Seidel (2013)",
+      "imageRights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
+      "imageVerification": "已核對館藏原始作品頁與2010／2020圖錄對應",
+      "imageStatus": "已依作者、作品年代與設置建築核對原始館藏照片",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau60Special",
@@ -418,7 +425,10 @@
       "reviewStatus": "已核對2010年官方選集；作品最新狀態待追查",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [],
-      "historicalSource": true
+      "historicalSource": true,
+      "officialWorkPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas",
+      "officialWorkTitle": "Mutter und Kind oder Maternitas",
+      "officialWorkYear": "1964"
     },
     {
       "id": "kunst-am-bau-60-08",
@@ -1100,18 +1110,25 @@
       "workSite": "德國駐喀布爾大使館",
       "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 78–79 頁作品。Reinhard Omir以三組拋光不鏽鋼立方體噴泉介入「德國駐喀布爾大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
       "classicTitle": "Kinetische Säule｜1972 – 73",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 78–79 頁作品。Reinhard Omir以三組拋光不鏽鋼立方體噴泉介入「德國駐喀布爾大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 78–79 頁作品。Reinhard Omir以三組拋光不鏽鋼立方體噴泉介入「德國駐喀布爾大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《Kinetische Säule (Brunnenskulptur)》，館藏完成／設置年 1973；與本圖錄條目所記「Kinetische Säule」（1972 – 73）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur。",
       "artistStatement": "",
-      "artistStatementSource": "",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur",
       "website": "https://www.museum-der-1000-orte.de/",
       "workPage": "",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
-      "imageVerification": "待核實來源與重製權利",
-      "imageStatus": "原書含照片，網站圖檔尚待完成",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5680e4b979e41ecd1c8df4b6f16d192c840a1b39.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5680e4b979e41ecd1c8df4b6f16d192c840a1b39.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5680e4b979e41ecd1c8df4b6f16d192c840a1b39.jpg",
+          "caption": "Reinhard Omir｜Kinetische Säule (Brunnenskulptur)",
+          "credit": "BBR Archiv",
+          "kind": "德國聯邦BBR館藏作品照片"
+        }
+      ],
+      "imageCredit": "BBR Archiv",
+      "imageRights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
+      "imageVerification": "已核對館藏原始作品頁與2010／2020圖錄對應",
+      "imageStatus": "已依作者、作品年代與設置建築核對原始館藏照片",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau60Special",
@@ -1124,7 +1141,10 @@
       "reviewStatus": "已核對2010年官方選集；作品最新狀態待追查",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [],
-      "historicalSource": true
+      "historicalSource": true,
+      "officialWorkPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur",
+      "officialWorkTitle": "Kinetische Säule (Brunnenskulptur)",
+      "officialWorkYear": "1973"
     },
     {
       "id": "kunst-am-bau-60-21",
@@ -1979,18 +1999,25 @@
       "workSite": "波昂聯邦內政部",
       "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 110–111 頁作品。Ingeborg Schäffler-Wolf以絲綢與不鏽鋼介入「波昂聯邦內政部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
       "classicTitle": "Gobelin｜1981",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 110–111 頁作品。Ingeborg Schäffler-Wolf以絲綢與不鏽鋼介入「波昂聯邦內政部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 110–111 頁作品。Ingeborg Schäffler-Wolf以絲綢與不鏽鋼介入「波昂聯邦內政部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《o. T. (Gobelin)》，館藏完成／設置年 1982；與本圖錄條目所記「Gobelin」（1981）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin。",
       "artistStatement": "",
-      "artistStatementSource": "",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin",
       "website": "https://www.museum-der-1000-orte.de/",
       "workPage": "",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
-      "imageVerification": "待核實來源與重製權利",
-      "imageStatus": "原書含照片，網站圖檔尚待完成",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7c5fb344a030e41e180976ec2408e7665ada0612.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7c5fb344a030e41e180976ec2408e7665ada0612.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7c5fb344a030e41e180976ec2408e7665ada0612.jpg",
+          "caption": "Ingeborg Schäffler-Wolf｜o. T. (Gobelin)",
+          "credit": "BBR / Cordia Schlegelmilch (2017)",
+          "kind": "德國聯邦BBR館藏作品照片"
+        }
+      ],
+      "imageCredit": "BBR / Cordia Schlegelmilch (2017)",
+      "imageRights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
+      "imageVerification": "已核對館藏原始作品頁與2010／2020圖錄對應",
+      "imageStatus": "已依作者、作品年代與設置建築核對原始館藏照片",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau60Special",
@@ -2016,7 +2043,10 @@
         "kunst-am-bau-60-42",
         "kunst-am-bau-60-58"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "officialWorkPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin",
+      "officialWorkTitle": "o. T. (Gobelin)",
+      "officialWorkYear": "1982"
     },
     {
       "id": "kunst-am-bau-60-37",
@@ -2373,18 +2403,25 @@
       "workSite": "德國駐美國大使館官邸",
       "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 124–125 頁作品。Gerhard Merz以單色壁畫介入「德國駐美國大使館官邸」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
       "classicTitle": "Ohne Titel｜um 1994",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 124–125 頁作品。Gerhard Merz以單色壁畫介入「德國駐美國大使館官邸」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 124–125 頁作品。Gerhard Merz以單色壁畫介入「德國駐美國大使館官邸」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《o. T. (Wandbilder)》，館藏完成／設置年 1994；與本圖錄條目所記「Ohne Titel」（um 1994）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder。",
       "artistStatement": "",
-      "artistStatementSource": "",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder",
       "website": "https://www.museum-der-1000-orte.de/",
       "workPage": "",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
-      "imageVerification": "待核實來源與重製權利",
-      "imageStatus": "原書含照片，網站圖檔尚待完成",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/02481a742e68537be8cbb1f660801e03ec10768e.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/02481a742e68537be8cbb1f660801e03ec10768e.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/02481a742e68537be8cbb1f660801e03ec10768e.jpg",
+          "caption": "Gerhard Merz｜o. T. (Wandbilder)",
+          "credit": "BBR / Eduard Hueber",
+          "kind": "德國聯邦BBR館藏作品照片"
+        }
+      ],
+      "imageCredit": "BBR / Eduard Hueber",
+      "imageRights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
+      "imageVerification": "已核對館藏原始作品頁與2010／2020圖錄對應",
+      "imageStatus": "已依作者、作品年代與設置建築核對原始館藏照片",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau60Special",
@@ -2397,7 +2434,10 @@
       "reviewStatus": "已核對2010年官方選集；作品最新狀態待追查",
       "sourceCheckedDate": "2026-11-18",
       "relatedByCity": [],
-      "historicalSource": true
+      "historicalSource": true,
+      "officialWorkPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder",
+      "officialWorkTitle": "o. T. (Wandbilder)",
+      "officialWorkYear": "1994"
     },
     {
       "id": "kunst-am-bau-60-44",
@@ -2609,18 +2649,25 @@
       "workSite": "德國國會 Paul-Löbe-Haus",
       "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 132–133 頁作品。Neo Rauch以光裝置介入「德國國會 Paul-Löbe-Haus」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
       "classicTitle": "Leiter｜1998/2001",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 132–133 頁作品。Neo Rauch以光裝置介入「德國國會 Paul-Löbe-Haus」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 132–133 頁作品。Neo Rauch以光裝置介入「德國國會 Paul-Löbe-Haus」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《Mann auf der Leiter》，館藏完成／設置年 2001；與本圖錄條目所記「Leiter」（1998/2001）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mann-auf-der-leiter。",
       "artistStatement": "",
-      "artistStatementSource": "",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mann-auf-der-leiter",
       "website": "https://www.museum-der-1000-orte.de/",
       "workPage": "",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
-      "imageVerification": "待核實來源與重製權利",
-      "imageStatus": "原書含照片，網站圖檔尚待完成",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/cb764fe8d55eace1f46b34c71eca5738af9a36cb.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/cb764fe8d55eace1f46b34c71eca5738af9a36cb.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/cb764fe8d55eace1f46b34c71eca5738af9a36cb.jpg",
+          "caption": "Neo Rauch｜Mann auf der Leiter",
+          "credit": "BBR / Werner Huthmacher (2011)",
+          "kind": "德國聯邦BBR館藏作品照片"
+        }
+      ],
+      "imageCredit": "BBR / Werner Huthmacher (2011)",
+      "imageRights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
+      "imageVerification": "已核對館藏原始作品頁與2010／2020圖錄對應",
+      "imageStatus": "已依作者、作品年代與設置建築核對原始館藏照片",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau60Special",
@@ -2647,7 +2694,10 @@
         "kunst-am-bau-60-56",
         "kunst-am-bau-60-60"
       ],
-      "historicalSource": true
+      "historicalSource": true,
+      "officialWorkPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mann-auf-der-leiter",
+      "officialWorkTitle": "Mann auf der Leiter",
+      "officialWorkYear": "2001"
     },
     {
       "id": "kunst-am-bau-60-48",
@@ -2749,18 +2799,25 @@
       "workSite": "埃爾福特聯邦勞工法院",
       "comment": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第212–213頁；同一作品只建立一筆索引。",
       "classicTitle": "Ohne Titel｜1999",
-      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第212–213頁；同一作品只建立一筆索引。",
+      "classicDesc": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第212–213頁；同一作品只建立一筆索引。\n\nMuseum der 1000 Orte 官方作品題名《o. T.》，館藏完成／設置年 1999；與本圖錄條目所記「Ohne Titel」（1999）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12。",
       "artistStatement": "",
-      "artistStatementSource": "",
+      "artistStatementSource": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12",
       "website": "https://www.museum-der-1000-orte.de/",
       "workPage": "",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageCredit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "imageRights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
-      "imageVerification": "待核實來源與重製權利",
-      "imageStatus": "原書含照片，網站圖檔尚待完成",
+      "photo": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c1d5e66e5ae652c874053d2592833ba5ada1ae99.jpg",
+      "classicImage": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c1d5e66e5ae652c874053d2592833ba5ada1ae99.jpg",
+      "images": [
+        {
+          "url": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c1d5e66e5ae652c874053d2592833ba5ada1ae99.jpg",
+          "caption": "Ian Hamilton Finlay｜o. T.",
+          "credit": "BBR / Martin Seidel (2023)",
+          "kind": "德國聯邦BBR館藏作品照片"
+        }
+      ],
+      "imageCredit": "BBR / Martin Seidel (2023)",
+      "imageRights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
+      "imageVerification": "已核對館藏原始作品頁與2010／2020圖錄對應",
+      "imageStatus": "已依作者、作品年代與設置建築核對原始館藏照片",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau60Special",
@@ -2782,7 +2839,10 @@
           "reference": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
           "source": "BBR/BMI"
         }
-      ]
+      ],
+      "officialWorkPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12",
+      "officialWorkTitle": "o. T.",
+      "officialWorkYear": "1999"
     },
     {
       "id": "kunst-am-bau-60-50",
