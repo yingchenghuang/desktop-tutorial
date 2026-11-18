@@ -1,6 +1,6 @@
 {
-  "version": "20261118-m1000-snapshot-r138",
-  "generatedAt": "2026-11-17T23:41:19.034Z",
+  "version": "20261118-reviewed-r139",
+  "generatedAt": "2026-11-18T20:16:35+08:00",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
@@ -22,9 +22,10 @@
     "landart-flevoland-special-20261113.json",
     "kunst-am-bau-60-special-20261118.json",
     "kunst-am-bau-70-special-20261118.json",
-    "museum-1000-orte-home-snapshot-20261118.json"
+    "museum-1000-orte-home-snapshot-20261118.json",
+    "backfill-november-20261118.json"
   ],
-  "expectedEntries": 528,
-  "imageEntries": 446,
-  "note": "11/1–17每日340件；Land Art Flevoland特輯10件；Kunst am Bau 60週年60件；70週年新增46件；Museum der 1000 Orte上傳首頁HTML共101件，其中29件與Kunst am Bau特輯重疊，新增72件；新入網站資料來源合計528件（不含原本基礎檔）。影像來源對應101張，其中72件新卡，重複29件回填原紀錄。圖檔連結授權待核。"
+  "expectedEntries": 548,
+  "imageEntries": 466,
+  "note": "11/1–17每日340件；Land Art Flevoland特輯10件；Kunst am Bau 60週年60件；70週年新增46件；Museum der 1000 Orte上傳首頁HTML共101件，其中29件與Kunst am Bau特輯重疊，新增72件；新入網站資料來源合計528件（不含原本基礎檔）。影像來源對應101張，其中72件新卡，重複29件回填原紀錄。圖檔連結授權待核。 今日另正式新增11月18日固定公共藝術20件（10／5／5），競圖5件完全分流；官網頁面預覽影像未完成每件原始攝影視覺核對。"
 }

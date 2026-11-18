@@ -1,44 +1,26 @@
 {
-  "version": "20261117-reviewed-r134",
-  "generatedAt": "2026-11-18T04:57:45+08:00",
+  "version": "20261118-reviewed-r139",
+  "generatedAt": "2026-11-18T20:16:35+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 122,
+  "activeEntries": 125,
   "addedToday": 5,
   "addedThisRun": 5,
-  "expiredRemoved": 20,
+  "expiredRemoved": 2,
   "expiredRemovedIds": [
-    "competition-2026-11-14-04",
-    "competition-2026-11-13-02",
-    "competition-2026-11-12-04",
-    "competition-2026-11-07-01",
-    "competition-2026-11-07-02",
-    "competition-2026-11-05-05",
-    "competition-2026-10-17-02",
-    "competition-2026-10-16-02",
-    "competition-2026-10-15-03",
-    "competition-2026-10-11-02",
-    "competition-2026-10-10-01",
-    "competition-2026-10-07-03",
-    "competition-2026-09-20-03",
-    "competition-2026-09-15-04",
-    "competition-2026-09-05-03",
-    "competition-2026-08-21-03",
-    "competition-2026-10-20-04",
-    "competition-2026-10-22-05",
-    "competition-2026-10-30-02",
-    "competition-2026-11-02-02"
+    "competition-2026-11-09-04",
+    "competition-2026-10-24-04"
   ],
   "duplicateRemoved": 0,
   "duplicateRemovedIds": [],
   "counts": {
-    "total": 122,
-    "active": 122
+    "total": 125,
+    "active": 125
   },
   "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0,
   "timezoneCorrections": [],
-  "note": "11月17日新增5件有效公共藝術徵件；依 2026-11-18T04:57:45+08:00 實際截止瞬間移除20件已逾期項目，保留其餘未截止紀錄。"
+  "note": "11月18日新增5件互異且未截止的公共藝術委託或公開徵件，保留前期所有仍有效案件；少數官方只公布日期依當地23:59:59推定。"
 }
