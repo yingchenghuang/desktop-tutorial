@@ -102,11 +102,81 @@ def check_rendered_gallery():
         REPORT["browser"]["error"]=str(e)
         FAILURES.append("Browser: "+str(e))
 
+
+def check_daily_art_and_competitions():
+    from datetime import datetime, timezone
+    from zoneinfo import ZoneInfo
+    import re
+    art = get("data/backfill-november-20261118.json", True)
+    nov = get("data/backfill-november-manifest.json", True)
+    comps = get("data/competitions.json", True)
+    cman = get("data/competition-manifest.json", True)
+    records = art.get("entries", [])
+    active = comps.get("entries", [])
+    groups = {key: sum(e.get("researchGroup") == key for e in records)
+              for key in ("current", "globalClassic", "germanClassic")}
+    assert len(records) == 20 and groups == {"current":10,"globalClassic":5,"germanClassic":5}, groups
+    assert "backfill-november-20261118.json" in nov.get("files", []), "Today's file missing from month manifest"
+    assert len({e.get("dedupeKey") for e in records}) == 20, "Art duplicate keys"
+    assert all(e.get("website") and e.get("photo") and e.get("cityKeywords") and e.get("comment") and e.get("material") for e in records), "Art missing source/image/city/comment/material"
+    assert len({e.get("dedupeKey") for e in active}) == len(active), "Competition duplicate keys"
+    assert len(active) == cman.get("activeEntries"), "Competition manifest count mismatch"
+    added = [e for e in active if e.get("updated") == "2026-11-18"]
+    assert len(added) == 5 and cman.get("addedToday") == 5, "Competition new count mismatch"
+    assert all(e.get("cityKeywords") and e.get("website") and e.get("photo") for e in active), "Competition missing city/source/image"
+    offset_mismatches = []
+    now = datetime.now(timezone.utc)
+    for e in active:
+        dl = e.get("deadline", "")
+        assert re.fullmatch(r"\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d[+-]\d\d:\d\d", dl), "Bad ISO deadline: " + str(e.get("id"))
+        instant = datetime.fromisoformat(dl)
+        assert instant > now, "Expired competition: " + str(e.get("id"))
+        tz = ZoneInfo(e.get("deadlineTimezone"))
+        if instant.utcoffset() != instant.astimezone(tz).utcoffset():
+            offset_mismatches.append(e.get("id"))
+    assert not offset_mismatches, "Timezone offset mismatch: " + repr(offset_mismatches)
+    REPORT["endpoints"]["backfill-november-20261118.json"] = {"status":200,"entries":len(records),"groups":groups}
+    REPORT["endpoints"]["backfill-november-manifest.json"] = {"status":200,"version":nov.get("version"),"fileCount":len(nov.get("files",[]))}
+    REPORT["endpoints"]["competitions.json"] = {"status":200,"active":len(active),"addedToday":len(added),"expired":0}
+    REPORT["endpoints"]["competition-manifest.json"] = {"status":200,"version":cman.get("version"),"active":cman.get("activeEntries")}
+    REPORT["daily"] = {"duplicateKeys":0,"missingSourceImageCity":0,"timezoneMismatches":0,"originalPhotoAudit":"not completed; official-page screenshots only"}
+    return records, active
+
+def check_daily_search_and_city_link():
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True, args=["--no-sandbox"])
+        page = browser.new_page(viewport={"width":1360,"height":900})
+        page.goto(BASE,wait_until="domcontentloaded",timeout=70000)
+        page.wait_for_function("()=>document.querySelector('#resultCount') && /顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
+        page.locator("#q").fill("Sound to Summit")
+        page.wait_for_timeout(1000)
+        cards = page.locator("#grid .card")
+        assert cards.count() == 1, "Sound to Summit search failed: "+str(cards.count())
+        cards.first.click()
+        page.locator("#sheet.open #panel").wait_for(timeout=12000)
+        related = page.locator("#panel .related-block")
+        assert related.count() >= 1, "Missing same-city cross-database links"
+        assert "4Culture" in related.first.inner_text(), "Seattle related opportunity missing"
+        related.first.locator("[data-related-id]").filter(has_text="4Culture").first.click()
+        assert "競圖資料庫" in page.locator("#panel").inner_text(), "Reverse link target did not open competition"
+        page.locator("#sheetClose").click()
+        page.locator("#q").fill("Bonaban")
+        page.wait_for_timeout(1000)
+        n=page.locator("#grid .card").count()
+        assert n >= 1, "Today's new competition search failed"
+        REPORT["browser"]["todayArtSearch"] = 1
+        REPORT["browser"]["todayCompetitionSearch"] = n
+        REPORT["browser"]["crossDatabaseCity"] = "Seattle artwork → 4Culture competition: success"
+        browser.close()
+
 def main():
     try:
         entries=check_endpoints()
         check_photo_samples(entries)
         check_rendered_gallery()
+        check_daily_art_and_competitions()
+        check_daily_search_and_city_link()
     except Exception as e:
         FAILURES.append("Live endpoint: "+str(e))
     REPORT["failures"]=FAILURES
