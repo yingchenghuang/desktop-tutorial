@@ -10,7 +10,7 @@
     "total": 59,
     "newUniqueRecords": 46,
     "alreadyIn60Anniversary": 13,
-    "imageEntries": 32,
+    "imageEntries": 35,
     "notes": "2020年70週年圖錄59個案例，46筆獨立卡片，13筆與2010年重疊。已為24件查核正式作品名稱、個別作品頁、外部原始攝影網址、圖說及中文論述；其餘待補。外部圖片需逐件確認公開展示授權。",
     "enrichedWithSourceImages": 24,
     "researchStatus": "已為24件查核正式作品名稱、個別作品頁、外部原始攝影網址、圖說及中文論述；其餘待補。外部圖片需逐件確認公開展示授權。"
@@ -1730,7 +1730,7 @@
     {
       "id": "kunst-am-bau-70-34",
       "dedupeKey": "art:kab70-34",
-      "name": "Josep Renau｜Bildungszentrum Halle-Neustadt（1974；作品名待核）",
+      "name": "Josep Renau｜Einheit der Arbeiterklasse und Gründung der DDR（1974）",
       "artist": "Josep Renau",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -1743,19 +1743,26 @@
       "media": [
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜1974",
+      "works": "Einheit der Arbeiterklasse und Gründung der DDR｜1974",
       "workSite": "Bildungszentrum Halle-Neustadt",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第202–203頁。藝術家 Josep Renau；1974 年；建築場址 Bildungszentrum Halle-Neustadt。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Josep Renau｜Bildungszentrum Halle-Neustadt｜1974",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第202–203頁。藝術家 Josep Renau；1974 年；建築場址 Bildungszentrum Halle-Neustadt。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Josep Renau於1968至1974年間為Halle-Neustadt的教育與公共建築創作大型陶瓷馬賽克，包含35公尺高、7公尺寬的《Einheit der Arbeiterklasse und Gründung der DDR》與《Die vom Menschen beherrschten Kräfte von Natur und Technik》。作品以高度抽象化的群眾、工業、科學與社會主義符號，將政治敘事嵌入都市新城建築立面。Wüstenrot Stiftung於2022年完成其中一幅修復，並於2023年公開展現修復成果。照片為Halle的Renau壁畫實際現場。",
+      "classicTitle": "Einheit der Arbeiterklasse und Gründung der DDR｜1974",
+      "classicDesc": "Josep Renau於1968至1974年間為Halle-Neustadt的教育與公共建築創作大型陶瓷馬賽克，包含35公尺高、7公尺寬的《Einheit der Arbeiterklasse und Gründung der DDR》與《Die vom Menschen beherrschten Kräfte von Natur und Technik》。作品以高度抽象化的群眾、工業、科學與社會主義符號，將政治敘事嵌入都市新城建築立面。Wüstenrot Stiftung於2022年完成其中一幅修復，並於2023年公開展現修復成果。照片為Halle的Renau壁畫實際現場。\n\n補充研究資料：https://wuestenrot-stiftung.de/mosaik-josep-renau-halle/",
+      "website": "https://museumsnetzwerk-halle.de/location/wandbilder-von-josep-renau-in-halle-neustadt",
+      "workPage": "https://museumsnetzwerk-halle.de/location/wandbilder-von-josep-renau-in-halle-neustadt",
+      "photo": "https://museumsnetzwerk-halle.de/fileadmin/_processed_/a/2/csm_Wandbild-Joseph-Renau_3-_c_-Matthias-Kunkel_-Halle-_Saale__433cad5c5f.jpg",
+      "classicImage": "https://museumsnetzwerk-halle.de/fileadmin/_processed_/a/2/csm_Wandbild-Joseph-Renau_3-_c_-Matthias-Kunkel_-Halle-_Saale__433cad5c5f.jpg",
+      "images": [
+        {
+          "url": "https://museumsnetzwerk-halle.de/fileadmin/_processed_/a/2/csm_Wandbild-Joseph-Renau_3-_c_-Matthias-Kunkel_-Halle-_Saale__433cad5c5f.jpg",
+          "credit": "Matthias Kunkel／Museumsnetzwerk Halle",
+          "caption": "Josep Renau｜Einheit der Arbeiterklasse und Gründung der DDR",
+          "kind": "藝術家／公共機關實際作品攝影"
+        }
+      ],
+      "imageRights": "圖片與原作權利由原始機構、藝術家及攝影者保留。已建立來源連結，公開重製權利仍待確認。",
+      "imageStatus": "已配對原始作者／機構作品攝影",
+      "imageCredit": "Matthias Kunkel／Museumsnetzwerk Halle",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -1765,12 +1772,15 @@
       "section": "國家機構及其藝術",
       "originalDate": "1974",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照藝術家或委託機關第一方資料",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "經藝術家／委託機關個別來源確認",
       "relatedByCity": [],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Einheit der Arbeiterklasse und Gründung der DDR",
+      "imageVerification": "作者、原作品名稱、設置場址及作品照片逐件對照",
+      "artistStatementSource": "https://museumsnetzwerk-halle.de/location/wandbilder-von-josep-renau-in-halle-neustadt"
     },
     {
       "id": "kunst-am-bau-70-35",
@@ -2062,7 +2072,7 @@
     {
       "id": "kunst-am-bau-70-41",
       "dedupeKey": "art:kab70-41",
-      "name": "Annette Sauermann｜Fraunhofer-Institute ILT und IPT Aachen（2015；作品名待核）",
+      "name": "Annette Sauermann｜Netzwerke des Wissens（2015）",
       "artist": "Annette Sauermann",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -2075,19 +2085,26 @@
       "media": [
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜2015",
+      "works": "Netzwerke des Wissens｜2015",
       "workSite": "Fraunhofer-Institute ILT und IPT Aachen",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第216–217頁。藝術家 Annette Sauermann；2015 年；建築場址 Fraunhofer-Institute ILT und IPT Aachen。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Annette Sauermann｜Fraunhofer-Institute ILT und IPT Aachen｜2015",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第216–217頁。藝術家 Annette Sauermann；2015 年；建築場址 Fraunhofer-Institute ILT und IPT Aachen。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Annette Sauermann於2014至2015年間，為亞琛Fraunhofer IPT與ILT兩棟研究建築的相鄰轉角玻璃立面創作《Netzwerke des Wissens》。作品將雷射的直線軌跡與生產加工的曲線軌跡轉化成兩組互相呼應的光網，透過6,560組LED元件與建築內部網路流量連動。白色與黑色外牆以光與陰影呈現研究團隊之間的資訊流動，並將抽象的科學合作結構具象化。",
+      "classicTitle": "Netzwerke des Wissens｜2015",
+      "classicDesc": "Annette Sauermann於2014至2015年間，為亞琛Fraunhofer IPT與ILT兩棟研究建築的相鄰轉角玻璃立面創作《Netzwerke des Wissens》。作品將雷射的直線軌跡與生產加工的曲線軌跡轉化成兩組互相呼應的光網，透過6,560組LED元件與建築內部網路流量連動。白色與黑色外牆以光與陰影呈現研究團隊之間的資訊流動，並將抽象的科學合作結構具象化。\n\n補充研究資料：https://kunstundbau.nrw/werke/netzwerke-des-wissens",
+      "website": "https://annette-sauermann.de/netzwerke-des-wissens/",
+      "workPage": "https://annette-sauermann.de/netzwerke-des-wissens/",
+      "photo": "https://www.netzwerke-des-wissens.de/de/kunst/jcr%3Acontent/contentPar/sectioncomponent0/sectionParsys/gallery2.vimg.4col.large.jpg/netzwerke-des-wissens/de/images/bilderstrecke_netzwerke/grossbilder/DSC_8782.JPG",
+      "classicImage": "https://www.netzwerke-des-wissens.de/de/kunst/jcr%3Acontent/contentPar/sectioncomponent0/sectionParsys/gallery2.vimg.4col.large.jpg/netzwerke-des-wissens/de/images/bilderstrecke_netzwerke/grossbilder/DSC_8782.JPG",
+      "images": [
+        {
+          "url": "https://www.netzwerke-des-wissens.de/de/kunst/jcr%3Acontent/contentPar/sectioncomponent0/sectionParsys/gallery2.vimg.4col.large.jpg/netzwerke-des-wissens/de/images/bilderstrecke_netzwerke/grossbilder/DSC_8782.JPG",
+          "credit": "Annette Sauermann／Netzwerke des Wissens 官方作品網站",
+          "caption": "Annette Sauermann｜Netzwerke des Wissens",
+          "kind": "藝術家／公共機關實際作品攝影"
+        }
+      ],
+      "imageRights": "圖片與原作權利由原始機構、藝術家及攝影者保留。已建立來源連結，公開重製權利仍待確認。",
+      "imageStatus": "已配對原始作者／機構作品攝影",
+      "imageCredit": "Annette Sauermann／Netzwerke des Wissens 官方作品網站",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -2097,12 +2114,15 @@
       "section": "國家機構及其藝術",
       "originalDate": "2015",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照藝術家或委託機關第一方資料",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "經藝術家／委託機關個別來源確認",
       "relatedByCity": [],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Netzwerke des Wissens",
+      "imageVerification": "作者、原作品名稱、設置場址及作品照片逐件對照",
+      "artistStatementSource": "https://annette-sauermann.de/netzwerke-des-wissens/"
     },
     {
       "id": "kunst-am-bau-70-42",
@@ -2403,7 +2423,7 @@
     {
       "id": "kunst-am-bau-70-49",
       "dedupeKey": "art:kab70-49",
-      "name": "Michael Sailstorfer｜Löberfeld-Kaserne Erfurt（2017；作品名待核）",
+      "name": "Michael Sailstorfer｜Dazzle（2017）",
       "artist": "Michael Sailstorfer",
       "category": "作品/展覽",
       "tier": "經典檔案庫",
@@ -2416,19 +2436,26 @@
       "media": [
         "建築/場域"
       ],
-      "works": "建築藝術專案｜作品名待核｜2017",
+      "works": "Dazzle｜2017",
       "workSite": "Löberfeld-Kaserne Erfurt",
-      "comment": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第246–247頁。藝術家 Michael Sailstorfer；2017 年；建築場址 Löberfeld-Kaserne Erfurt。歸屬章節「軍隊作為藝術委託者」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "classicTitle": "Michael Sailstorfer｜Löberfeld-Kaserne Erfurt｜2017",
-      "classicDesc": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第246–247頁。藝術家 Michael Sailstorfer；2017 年；建築場址 Löberfeld-Kaserne Erfurt。歸屬章節「軍隊作為藝術委託者」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
-      "website": "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
-      "workPage": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "photo": "",
-      "classicImage": "",
-      "images": [],
-      "imageRights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
-      "imageStatus": "圖錄目錄無影像，照片尚待來源與授權核實",
-      "imageCredit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
+      "comment": "Michael Sailstorfer為德國聯邦國防軍位於埃爾福特Löberfeld營區的新勤務與職涯中心創作《Dazzle》，以一戰海軍軍艦所使用的幾何迷彩語彙，設計約800平方公尺黑白混凝土鋪面。作品從俯視角度顯示強烈的視覺切割，讓日常步行地面成為整合三棟建築的藝術場域，延伸建築與軍事記憶之間的討論。",
+      "classicTitle": "Dazzle｜2017",
+      "classicDesc": "Michael Sailstorfer為德國聯邦國防軍位於埃爾福特Löberfeld營區的新勤務與職涯中心創作《Dazzle》，以一戰海軍軍艦所使用的幾何迷彩語彙，設計約800平方公尺黑白混凝土鋪面。作品從俯視角度顯示強烈的視覺切割，讓日常步行地面成為整合三棟建築的藝術場域，延伸建築與軍事記憶之間的討論。",
+      "website": "https://bundesbau.de/projekte/neubauten-logistikkommando-und-karrierecenter-bundeswehr-erfurt",
+      "workPage": "https://bundesbau.de/projekte/neubauten-logistikkommando-und-karrierecenter-bundeswehr-erfurt",
+      "photo": "https://bundesbau.de/fileadmin/_processed_/b/5/csm_bundesbau-projekte-dazzle_erfurt_rott_06_e4b4f2ed28.jpg",
+      "classicImage": "https://bundesbau.de/fileadmin/_processed_/b/5/csm_bundesbau-projekte-dazzle_erfurt_rott_06_e4b4f2ed28.jpg",
+      "images": [
+        {
+          "url": "https://bundesbau.de/fileadmin/_processed_/b/5/csm_bundesbau-projekte-dazzle_erfurt_rott_06_e4b4f2ed28.jpg",
+          "credit": "Bundeswehr／Marcus Rott",
+          "caption": "Michael Sailstorfer｜Dazzle",
+          "kind": "藝術家／公共機關實際作品攝影"
+        }
+      ],
+      "imageRights": "圖片與原作權利由原始機構、藝術家及攝影者保留。已建立來源連結，公開重製權利仍待確認。",
+      "imageStatus": "已配對原始作者／機構作品攝影",
+      "imageCredit": "Bundeswehr／Marcus Rott",
       "status": "官方來源",
       "updated": "2026-11-18",
       "researchGroup": "kunstAmBau70Special",
@@ -2438,14 +2465,17 @@
       "section": "軍隊作為藝術委託者",
       "originalDate": "2017",
       "accessNote": "原書/展覽史料，當前參訪狀況待查證",
-      "reviewStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "reviewStatus": "已對照藝術家或委託機關第一方資料",
       "crossReference": null,
       "refExisting": false,
-      "workTitleStatus": "2020年公開目錄未載正式作品名稱",
+      "workTitleStatus": "經藝術家／委託機關個別來源確認",
       "relatedByCity": [
         "kunst-am-bau-70-39"
       ],
-      "sourceCheckedDate": "2026-11-18"
+      "sourceCheckedDate": "2026-11-18",
+      "workTitle": "Dazzle",
+      "imageVerification": "作者、原作品名稱、設置場址及作品照片逐件對照",
+      "artistStatementSource": "https://bundesbau.de/projekte/neubauten-logistikkommando-und-karrierecenter-bundeswehr-erfurt"
     },
     {
       "id": "kunst-am-bau-70-51",
