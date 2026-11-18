@@ -1,6 +1,6 @@
 {
-  "version": "20261118-reviewed-r139",
-  "generatedAt": "2026-11-18T20:16:35+08:00",
+  "version": "20261118-reviewed-r140-tz",
+  "generatedAt": "2026-11-18T20:24:06+08:00",
   "files": [
     "competitions.json"
   ],
@@ -21,6 +21,28 @@
   "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0,
-  "timezoneCorrections": [],
-  "note": "11月18日新增5件互異且未截止的公共藝術委託或公開徵件，保留前期所有仍有效案件；少數官方只公布日期依當地23:59:59推定。"
+  "timezoneCorrections": [
+    {
+      "id": "competition-2026-11-11-05",
+      "newDeadline": "2027-01-15T23:59:00-06:00",
+      "reason": "Alberta Time ABT, UTC-06 year-round from 2026-11-01",
+      "source": "https://www.alberta.ca/albertas-new-time-system-abt",
+      "oldDeadline": "2027-01-15T23:59:00-07:00"
+    },
+    {
+      "id": "competition-2026-11-11-02",
+      "newDeadline": "2027-01-11T23:59:59-07:00",
+      "reason": "British Columbia Pacific Time PCT, UTC-07 year-round from 2026-11-01",
+      "source": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+      "oldDeadline": "2027-01-11T23:59:59-08:00"
+    },
+    {
+      "id": "competition-2026-11-03-04",
+      "newDeadline": "2026-11-25T16:30:00-06:00",
+      "reason": "Alberta Time ABT, UTC-06 year-round from 2026-11-01",
+      "source": "https://www.alberta.ca/albertas-new-time-system-abt",
+      "oldDeadline": "2026-11-25T16:30:00-07:00"
+    }
+  ],
+  "note": "11月18日新增5件競圖，保留既有有效清單；依BC省PCT UTC-07及Alberta省ABT UTC-06新時制校正3筆舊案件UTC偏移。"
 }

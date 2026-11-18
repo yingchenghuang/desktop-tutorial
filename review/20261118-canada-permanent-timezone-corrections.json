@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-18",
+  "checkedAt": "2026-11-18T20:24:06+08:00",
+  "sourceOfficial": [
+    "https://www.alberta.ca/albertas-new-time-system-abt",
+    "https://news.gov.bc.ca/releases/2026AG0013-000209",
+    "https://www.alberta.ca/albertas-new-time-system-abt"
+  ],
+  "reason": "Permanent time-zone reforms in British Columbia and Alberta from November 2026",
+  "corrections": [
+    {
+      "id": "competition-2026-11-11-05",
+      "newDeadline": "2027-01-15T23:59:00-06:00",
+      "reason": "Alberta Time ABT, UTC-06 year-round from 2026-11-01",
+      "source": "https://www.alberta.ca/albertas-new-time-system-abt",
+      "oldDeadline": "2027-01-15T23:59:00-07:00"
+    },
+    {
+      "id": "competition-2026-11-11-02",
+      "newDeadline": "2027-01-11T23:59:59-07:00",
+      "reason": "British Columbia Pacific Time PCT, UTC-07 year-round from 2026-11-01",
+      "source": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+      "oldDeadline": "2027-01-11T23:59:59-08:00"
+    },
+    {
+      "id": "competition-2026-11-03-04",
+      "newDeadline": "2026-11-25T16:30:00-06:00",
+      "reason": "Alberta Time ABT, UTC-06 year-round from 2026-11-01",
+      "source": "https://www.alberta.ca/albertas-new-time-system-abt",
+      "oldDeadline": "2026-11-25T16:30:00-07:00"
+    }
+  ],
+  "notionComparison": "All three existing Notion deadline timestamps were already correct in UTC: Canmore 2027-01-16T05:59Z, Surrey 2027-01-12T06:59Z, Calgary 2026-11-25T22:30Z; GitHub deadlines now aligned with those instants.",
+  "source": "https://news.gov.bc.ca/releases/2026AG0013-000209; https://www.alberta.ca/albertas-new-time-system-abt"
+}

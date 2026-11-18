@@ -11,10 +11,32 @@
     "duplicateRemoved": 0,
     "duplicateRemovedIds": [],
     "source": "政府、公共藝術機構與正式申請平台",
-    "note": "11月18日新增5件互異且未截止的公共藝術委託或公開徵件，保留前期所有仍有效案件；少數官方只公布日期依當地23:59:59推定。",
-    "generatedAt": "2026-11-18T20:16:35+08:00",
-    "version": "20261118-reviewed-r139",
-    "timezoneCorrections": []
+    "note": "11月18日新增5件有效徵件，保留既有有效案件。另依BC及Alberta於2026-11-01實施的永久時制，校正3筆舊徵件的UTC偏移；新舊截止日均以主辦地當地時間為準。",
+    "generatedAt": "2026-11-18T20:24:06+08:00",
+    "version": "20261118-reviewed-r140-tz",
+    "timezoneCorrections": [
+      {
+        "id": "competition-2026-11-11-05",
+        "newDeadline": "2027-01-15T23:59:00-06:00",
+        "reason": "Alberta Time ABT, UTC-06 year-round from 2026-11-01",
+        "source": "https://www.alberta.ca/albertas-new-time-system-abt",
+        "oldDeadline": "2027-01-15T23:59:00-07:00"
+      },
+      {
+        "id": "competition-2026-11-11-02",
+        "newDeadline": "2027-01-11T23:59:59-07:00",
+        "reason": "British Columbia Pacific Time PCT, UTC-07 year-round from 2026-11-01",
+        "source": "https://news.gov.bc.ca/releases/2026AG0013-000209",
+        "oldDeadline": "2027-01-11T23:59:59-08:00"
+      },
+      {
+        "id": "competition-2026-11-03-04",
+        "newDeadline": "2026-11-25T16:30:00-06:00",
+        "reason": "Alberta Time ABT, UTC-06 year-round from 2026-11-01",
+        "source": "https://www.alberta.ca/albertas-new-time-system-abt",
+        "oldDeadline": "2026-11-25T16:30:00-07:00"
+      }
+    ]
   },
   "entries": [
     {
@@ -743,7 +765,7 @@
         "半永久雕塑",
         "功能性公共藝術"
       ],
-      "works": "Main Street Modular Welcoming Entrance｜截止 2027-01-15T23:59:00-07:00",
+      "works": "Main Street Modular Welcoming Entrance｜截止 2027-01-15T23:59:00-06:00",
       "comment": "為Main Street入口徵求可拆模組式迎賓藝術，以「歡迎、聚集、包容」及地方故事形成半永久城市標誌。",
       "website": "https://affta.ab.ca/news/request-qualifications-town-canmore-call-art",
       "workPage": "https://affta.ab.ca/news/request-qualifications-town-canmore-call-art",
@@ -756,7 +778,7 @@
       "status": "官方來源",
       "updated": "2026-11-11",
       "sourceCheckedDate": "2026-11-16",
-      "deadline": "2027-01-15T23:59:00-07:00",
+      "deadline": "2027-01-15T23:59:00-06:00",
       "deadlineTimezone": "America/Edmonton",
       "deadlinePrecision": "time",
       "deadlineLabel": "2027-01-15T23:59:00-07:00",
@@ -772,7 +794,10 @@
         "correctedDeadline": "2027-01-15T23:59:00-07:00",
         "checkedAt": "2026-11-16",
         "note": "官方明載 11:59 pm MST；America/Edmonton 於1月為 UTC-07:00。"
-      }
+      },
+      "timezoneCorrectionAt": "2026-11-18",
+      "timezoneCorrectionReason": "Alberta Time ABT, UTC-06 year-round from 2026-11-01",
+      "timezoneCorrectionSource": "https://www.alberta.ca/albertas-new-time-system-abt"
     },
     {
       "id": "competition-2026-11-11-04",
@@ -872,7 +897,7 @@
         "街旗設計",
         "城市公共藝術"
       ],
-      "works": "Citywide Banners 2027｜截止 2027-01-11T23:59:59-08:00",
+      "works": "Citywide Banners 2027｜截止 2027-01-11T23:59:59-07:00",
       "comment": "徵求約100面城市街旗設計，以色彩、地方觀點與社群連結活化文化目的地及 City Parkway。",
       "website": "https://www.surrey.ca/arts-culture/public-art/artist-calls-project-updates",
       "workPage": "https://www.surrey.ca/arts-culture/public-art/artist-calls-project-updates",
@@ -885,7 +910,7 @@
       "status": "官方來源",
       "updated": "2026-11-11",
       "sourceCheckedDate": "2026-11-16",
-      "deadline": "2027-01-11T23:59:59-08:00",
+      "deadline": "2027-01-11T23:59:59-07:00",
       "deadlineTimezone": "America/Vancouver",
       "deadlinePrecision": "date",
       "deadlineLabel": "2027-01-11T23:59:59-08:00",
@@ -901,7 +926,10 @@
         "correctedDeadline": "2027-01-11T23:59:59-08:00",
         "checkedAt": "2026-11-16",
         "note": "官方僅公布日期；依主辦地當日23:59:59，America/Vancouver 於1月為 UTC-08:00。"
-      }
+      },
+      "timezoneCorrectionAt": "2026-11-18",
+      "timezoneCorrectionReason": "British Columbia Pacific Time PCT, UTC-07 year-round from 2026-11-01",
+      "timezoneCorrectionSource": "https://news.gov.bc.ca/releases/2026AG0013-000209"
     },
     {
       "id": "competition-2026-11-11-01",
@@ -4046,7 +4074,7 @@
       "classicTitle": "Moccasin Designs for The Wandering Spirit",
       "classicImage": "https://image.thum.io/get/width/1200/crop/800/noanimate/https://calgaryartsdevelopment.com/public-art/opportunities/all/call-to-artists-moccasin-designs/",
       "classicDesc": "徵集將鑄入 The Wandering Spirit 永久住宅學校紀念空間的原創 moccasin 圖樣；最多選十件，每件由入選者與設計團隊轉製。",
-      "deadline": "2026-11-25T16:30:00-07:00",
+      "deadline": "2026-11-25T16:30:00-06:00",
       "deadlineLabel": "截止 2026.11.25 16:30 MT（America/Edmonton 當日 UTC-07:00）",
       "deadlineTimezone": "America/Edmonton",
       "deadlinePrecision": "time",
@@ -4061,7 +4089,10 @@
         "correctedDeadline": "2026-11-25T16:30:00-07:00",
         "checkedAt": "2026-11-16",
         "note": "官方明載 4:30 pm MT；America/Edmonton 於11月25日為 UTC-07:00。"
-      }
+      },
+      "timezoneCorrectionAt": "2026-11-18",
+      "timezoneCorrectionReason": "Alberta Time ABT, UTC-06 year-round from 2026-11-01",
+      "timezoneCorrectionSource": "https://www.alberta.ca/albertas-new-time-system-abt"
     },
     {
       "category": "公開徵件",
