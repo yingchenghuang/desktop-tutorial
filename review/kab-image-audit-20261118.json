@@ -1,0 +1,873 @@
+{
+  "dateUTC": "2026-11-18T03:45:16.989667+00:00",
+  "source": "data/kunst-am-bau-notion-mirror-20261118.json",
+  "total": 407,
+  "byStatus": {
+    "valid": 350,
+    "unavailable": 0,
+    "network_error": 0,
+    "missing": 57
+  },
+  "missingAndOtherStatuses": [
+    {
+      "id": "kunst-am-bau-60-04",
+      "artist": "Eberhard Schlotter",
+      "title": "Potsdam",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-05",
+      "artist": "Robert Lippl",
+      "title": "Magdeburger Halbkugeln",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-06",
+      "artist": "Waldemar Otto",
+      "title": "Feuervogel, Begegnung, Wundervogel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-07",
+      "artist": "Fritz Koenig",
+      "title": "Maternitas",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-08",
+      "artist": "Erich F. Reuter",
+      "title": "Galionsfigur",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-09",
+      "artist": "Edith Müller-Ortloff",
+      "title": "Die völker verbindende Macht der Musik oder Tänzerisches Allegro",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-10",
+      "artist": "Andreu Alfaro",
+      "title": "Espacio para una fuente",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-11",
+      "artist": "Hedja Luckhardt-Freese",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-12",
+      "artist": "Norbert Kricke",
+      "title": "Große Mannesmann",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-14",
+      "artist": "Joachim Berthold",
+      "title": "Liegende",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-15",
+      "artist": "Blasius Spreng",
+      "title": "Ohne Titel/Blütenzweig",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-17",
+      "artist": "Karl Hartung",
+      "title": "Vegetative Form",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-20",
+      "artist": "Reinhard Omir",
+      "title": "Kinetische Säule",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-22",
+      "artist": "Adolf Luther",
+      "title": "Lichtdecke",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-23",
+      "artist": "Panamarenko",
+      "title": "Umbilly II",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-24",
+      "artist": "Erich Hauser",
+      "title": "Werknummer 8/77",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-26",
+      "artist": "Günter Fruhtrunk und Paolo Nestler",
+      "title": "Quiet Room",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-28",
+      "artist": "Gabriele Grosse",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-29",
+      "artist": "Karl Manfred Rennertz",
+      "title": "Drei Skiläufer",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-31",
+      "artist": "Mary Bauermeister",
+      "title": "Vier Glasstelen",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-32",
+      "artist": "Heinz Mack",
+      "title": "Sandfontäne",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-33",
+      "artist": "Alfonso Hüppi",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-35",
+      "artist": "Hann Trier",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-36",
+      "artist": "Ingeborg Schäffler-Wolf",
+      "title": "Gobelin",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-37",
+      "artist": "Eberhard Linke",
+      "title": "Gespräch zwischen den Blöcken",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-38",
+      "artist": "Ursula Sax",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-39",
+      "artist": "Erich Reusch",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-40",
+      "artist": "Robert Schad",
+      "title": "Im (Weiten) Sinn",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-43",
+      "artist": "Gerhard Merz",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-44",
+      "artist": "Stephan Balkenhol",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-47",
+      "artist": "Neo Rauch",
+      "title": "Leiter",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-49",
+      "artist": "Ian Hamilton Finlay",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-57",
+      "artist": "Georg Herold",
+      "title": "Ohne Titel",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-58",
+      "artist": "Svetlana und Igor Kopystiansky",
+      "title": "Verstecktes Radio",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-60-59",
+      "artist": "Elisabeth Heindl",
+      "title": "Konsequenzen",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.museum-der-1000-orte.de/"
+    },
+    {
+      "id": "kunst-am-bau-70-01",
+      "artist": "Hermann Kirchberger",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-05",
+      "artist": "Bernd Krimmel",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-07",
+      "artist": "Wolfgang Frankenstein",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-11",
+      "artist": "Wolfgang Mattheuer",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-15",
+      "artist": "Willi Sitte",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-16",
+      "artist": "Wolfgang Nestler",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-25",
+      "artist": "Trak Wendisch",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-30",
+      "artist": "raumlaborberlin",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-32",
+      "artist": "Horst Ring",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-33",
+      "artist": "Norbert Kricke",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-34",
+      "artist": "Josep Renau",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-36",
+      "artist": "Horst Hoheisel",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-40",
+      "artist": "Barbara Trautmann",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-41",
+      "artist": "Annette Sauermann",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-42",
+      "artist": "Jean Sprenger",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-43",
+      "artist": "Harald Thiel",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-44",
+      "artist": "Gerhard Thieme",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-46",
+      "artist": "Georg Karl Pfahler",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-48",
+      "artist": "Elisabeth Wagner",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-49",
+      "artist": "Michael Sailstorfer",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-51",
+      "artist": "Fritz Kühn",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "kunst-am-bau-70-55",
+      "artist": "Janne Schäfer und Kristine Agergaard",
+      "title": "建築藝術專案",
+      "image": "",
+      "status": "missing",
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    }
+  ],
+  "commonsCandidates": [
+    {
+      "id": "kunst-am-bau-60-04",
+      "artist": "Eberhard Schlotter",
+      "title": "Potsdam",
+      "search": "Eberhard Schlotter Potsdam Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-05",
+      "artist": "Robert Lippl",
+      "title": "Magdeburger Halbkugeln",
+      "search": "Robert Lippl Magdeburger Halbkugeln Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-06",
+      "artist": "Waldemar Otto",
+      "title": "Feuervogel, Begegnung, Wundervogel",
+      "search": "Waldemar Otto Feuervogel, Begegnung, Wundervogel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-07",
+      "artist": "Fritz Koenig",
+      "title": "Maternitas",
+      "search": "Fritz Koenig Maternitas Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-08",
+      "artist": "Erich F. Reuter",
+      "title": "Galionsfigur",
+      "search": "Erich F. Reuter Galionsfigur Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-09",
+      "artist": "Edith Müller-Ortloff",
+      "title": "Die völker verbindende Macht der Musik oder Tänzerisches Allegro",
+      "search": "Edith Müller-Ortloff Die völker verbindende Macht der Musik oder Tänzerisches Allegro Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-10",
+      "artist": "Andreu Alfaro",
+      "title": "Espacio para una fuente",
+      "search": "Andreu Alfaro Espacio para una fuente Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-11",
+      "artist": "Hedja Luckhardt-Freese",
+      "title": "Ohne Titel",
+      "search": "Hedja Luckhardt-Freese Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-12",
+      "artist": "Norbert Kricke",
+      "title": "Große Mannesmann",
+      "search": "Norbert Kricke Große Mannesmann Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-14",
+      "artist": "Joachim Berthold",
+      "title": "Liegende",
+      "search": "Joachim Berthold Liegende Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-15",
+      "artist": "Blasius Spreng",
+      "title": "Ohne Titel/Blütenzweig",
+      "search": "Blasius Spreng Ohne Titel/Blütenzweig Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-17",
+      "artist": "Karl Hartung",
+      "title": "Vegetative Form",
+      "search": "Karl Hartung Vegetative Form Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-20",
+      "artist": "Reinhard Omir",
+      "title": "Kinetische Säule",
+      "search": "Reinhard Omir Kinetische Säule Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-22",
+      "artist": "Adolf Luther",
+      "title": "Lichtdecke",
+      "search": "Adolf Luther Lichtdecke Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-23",
+      "artist": "Panamarenko",
+      "title": "Umbilly II",
+      "search": "Panamarenko Umbilly II Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-24",
+      "artist": "Erich Hauser",
+      "title": "Werknummer 8/77",
+      "search": "Erich Hauser Werknummer 8/77 Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-26",
+      "artist": "Günter Fruhtrunk und Paolo Nestler",
+      "title": "Quiet Room",
+      "search": "Günter Fruhtrunk und Paolo Nestler Quiet Room Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-28",
+      "artist": "Gabriele Grosse",
+      "title": "Ohne Titel",
+      "search": "Gabriele Grosse Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-29",
+      "artist": "Karl Manfred Rennertz",
+      "title": "Drei Skiläufer",
+      "search": "Karl Manfred Rennertz Drei Skiläufer Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-31",
+      "artist": "Mary Bauermeister",
+      "title": "Vier Glasstelen",
+      "search": "Mary Bauermeister Vier Glasstelen Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-32",
+      "artist": "Heinz Mack",
+      "title": "Sandfontäne",
+      "search": "Heinz Mack Sandfontäne Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-33",
+      "artist": "Alfonso Hüppi",
+      "title": "Ohne Titel",
+      "search": "Alfonso Hüppi Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-35",
+      "artist": "Hann Trier",
+      "title": "Ohne Titel",
+      "search": "Hann Trier Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-36",
+      "artist": "Ingeborg Schäffler-Wolf",
+      "title": "Gobelin",
+      "search": "Ingeborg Schäffler-Wolf Gobelin Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-37",
+      "artist": "Eberhard Linke",
+      "title": "Gespräch zwischen den Blöcken",
+      "search": "Eberhard Linke Gespräch zwischen den Blöcken Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-38",
+      "artist": "Ursula Sax",
+      "title": "Ohne Titel",
+      "search": "Ursula Sax Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-39",
+      "artist": "Erich Reusch",
+      "title": "Ohne Titel",
+      "search": "Erich Reusch Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-40",
+      "artist": "Robert Schad",
+      "title": "Im (Weiten) Sinn",
+      "search": "Robert Schad Im (Weiten) Sinn Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-43",
+      "artist": "Gerhard Merz",
+      "title": "Ohne Titel",
+      "search": "Gerhard Merz Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-44",
+      "artist": "Stephan Balkenhol",
+      "title": "Ohne Titel",
+      "search": "Stephan Balkenhol Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-47",
+      "artist": "Neo Rauch",
+      "title": "Leiter",
+      "search": "Neo Rauch Leiter Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-49",
+      "artist": "Ian Hamilton Finlay",
+      "title": "Ohne Titel",
+      "search": "Ian Hamilton Finlay Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-57",
+      "artist": "Georg Herold",
+      "title": "Ohne Titel",
+      "search": "Georg Herold Ohne Titel Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-58",
+      "artist": "Svetlana und Igor Kopystiansky",
+      "title": "Verstecktes Radio",
+      "search": "Svetlana und Igor Kopystiansky Verstecktes Radio Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-60-59",
+      "artist": "Elisabeth Heindl",
+      "title": "Konsequenzen",
+      "search": "Elisabeth Heindl Konsequenzen Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-01",
+      "artist": "Hermann Kirchberger",
+      "title": "建築藝術專案",
+      "search": "Hermann Kirchberger Deutsches Nationaltheater Weimar Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-05",
+      "artist": "Bernd Krimmel",
+      "title": "建築藝術專案",
+      "search": "Bernd Krimmel Statistisches Bundesamt Wiesbaden Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-07",
+      "artist": "Wolfgang Frankenstein",
+      "title": "建築藝術專案",
+      "search": "Wolfgang Frankenstein Dynamo-Sporthalle Berlin Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-11",
+      "artist": "Wolfgang Mattheuer",
+      "title": "建築藝術專案",
+      "search": "Wolfgang Mattheuer Palast der Republik Berlin Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-15",
+      "artist": "Willi Sitte",
+      "title": "建築藝術專案",
+      "search": "Willi Sitte SED-Parteihochschule Karl Marx Berlin Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-16",
+      "artist": "Wolfgang Nestler",
+      "title": "建築藝術專案",
+      "search": "Wolfgang Nestler Bundesministerium für Verkehr Bonn Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-25",
+      "artist": "Trak Wendisch",
+      "title": "建築藝術專案",
+      "search": "Trak Wendisch Auswärtiges Amt Berlin Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-30",
+      "artist": "raumlaborberlin",
+      "title": "建築藝術專案",
+      "search": "raumlaborberlin Stasimuseum Berlin Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-32",
+      "artist": "Horst Ring",
+      "title": "建築藝術專案",
+      "search": "Horst Ring Reichsbahnausbesserungswerk Cottbus Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-33",
+      "artist": "Norbert Kricke",
+      "title": "建築藝術專案",
+      "search": "Norbert Kricke Bundesanstalt für Arbeit Verwaltungszentrum Nürnberg Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-34",
+      "artist": "Josep Renau",
+      "title": "建築藝術專案",
+      "search": "Josep Renau Bildungszentrum Halle-Neustadt Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-36",
+      "artist": "Horst Hoheisel",
+      "title": "建築藝術專案",
+      "search": "Horst Hoheisel Hauptzollamt Lörrach – Zollamt Weil am Rhein-Autobahn Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-40",
+      "artist": "Barbara Trautmann",
+      "title": "建築藝術專案",
+      "search": "Barbara Trautmann Friedrich-Loeffler-Institut Greifswald Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-41",
+      "artist": "Annette Sauermann",
+      "title": "建築藝術專案",
+      "search": "Annette Sauermann Fraunhofer-Institute ILT und IPT Aachen Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-42",
+      "artist": "Jean Sprenger",
+      "title": "建築藝術專案",
+      "search": "Jean Sprenger Steuben-Kaserne Achim Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-43",
+      "artist": "Harald Thiel",
+      "title": "建築藝術專案",
+      "search": "Harald Thiel 7. Panzerdivision NVA Dresden Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-44",
+      "artist": "Gerhard Thieme",
+      "title": "建築藝術專案",
+      "search": "Gerhard Thieme Luftstreitkräfte/Luftverteidigung NVA Strausberg Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-46",
+      "artist": "Georg Karl Pfahler",
+      "title": "建築藝術專案",
+      "search": "Georg Karl Pfahler Bundeswehrkrankenhaus Ulm Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-48",
+      "artist": "Elisabeth Wagner",
+      "title": "建築藝術專案",
+      "search": "Elisabeth Wagner Graf-Zeppelin-Kaserne Calw Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-49",
+      "artist": "Michael Sailstorfer",
+      "title": "建築藝術專案",
+      "search": "Michael Sailstorfer Löberfeld-Kaserne Erfurt Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-51",
+      "artist": "Fritz Kühn",
+      "title": "建築藝術專案",
+      "search": "Fritz Kühn Botschaft der DDR Budapest Kunst am Bau",
+      "candidates": []
+    },
+    {
+      "id": "kunst-am-bau-70-55",
+      "artist": "Janne Schäfer und Kristine Agergaard",
+      "title": "建築藝術專案",
+      "search": "Janne Schäfer und Kristine Agergaard Goethe-Institut und DAAD Kairo Kunst am Bau",
+      "candidates": []
+    }
+  ],
+  "commonsStrongCandidates": 0,
+  "runtimeSec": 27.38,
+  "warning": "Links not the same as usage permissions; individual artwork/photographer licensing must be checked before reuse."
+}
