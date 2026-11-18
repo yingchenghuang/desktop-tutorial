@@ -1,0 +1,20 @@
+name: Verify Nov 18 public-art daily deployment
+on:
+  push:
+    paths:
+      - 'scripts/verify_daily_20261118.py'
+      - '.github/workflows/verify-daily-20261118.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify five deployed endpoints, entries, city keys and deadlines
+        run: python scripts/verify_daily_20261118.py
