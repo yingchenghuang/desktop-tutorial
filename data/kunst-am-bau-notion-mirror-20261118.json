@@ -7,7 +7,7 @@
       "2020": 59,
       "museum": 346
     },
-    "uniqueImages": 349,
+    "uniqueImages": 364,
     "linkedMaster": 179,
     "generatedFrom": [
       "data/kunst-am-bau-60-special-20261118.json",
@@ -290,30 +290,34 @@
         "建築/場域",
         "青銅雕塑"
       ],
-      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 52–53 頁作品。Fritz Koenig以青銅雕塑介入「布魯塞爾世博德國館（後移波昂）」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 52–53 頁作品。Fritz Koenig以青銅雕塑介入「布魯塞爾世博德國館（後移波昂）」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《Mutter und Kind oder Maternitas》，館藏完成／設置年 1964；與本圖錄條目所記「Maternitas」（1958）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.museum-der-1000-orte.de/",
-      "image": "",
-      "credit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "rights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4cfe4609c1903fef8feb9e1cf9fdff956c785929.jpg",
+      "credit": "BBR / Martin Seidel (2013)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
       "sources": [
         "2010"
       ],
       "citationURLs": [
-        "https://www.museum-der-1000-orte.de/"
+        "https://www.museum-der-1000-orte.de/",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas"
       ],
       "bookPages": {
         "2010": "52–53"
       },
-      "researchStatus": "已核對2010年官方選集；作品最新狀態待追查",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-60-07"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a814fbb0fe63849db2428",
       "isIncomplete": false,
-      "mediumGroup": "雕塑與構造"
+      "mediumGroup": "雕塑與構造",
+      "verifiedOfficialTitle": "Mutter und Kind oder Maternitas",
+      "verifiedOfficialYear": "1964",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mutter-und-kind-oder-maternitas"
     },
     {
       "id": "kunst-am-bau-60-08",
@@ -834,30 +838,34 @@
         "裝置",
         "三組拋光不鏽鋼立方體噴泉"
       ],
-      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 78–79 頁作品。Reinhard Omir以三組拋光不鏽鋼立方體噴泉介入「德國駐喀布爾大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 78–79 頁作品。Reinhard Omir以三組拋光不鏽鋼立方體噴泉介入「德國駐喀布爾大使館」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《Kinetische Säule (Brunnenskulptur)》，館藏完成／設置年 1973；與本圖錄條目所記「Kinetische Säule」（1972 – 73）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.museum-der-1000-orte.de/",
-      "image": "",
-      "credit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "rights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/5680e4b979e41ecd1c8df4b6f16d192c840a1b39.jpg",
+      "credit": "BBR Archiv",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
       "sources": [
         "2010"
       ],
       "citationURLs": [
-        "https://www.museum-der-1000-orte.de/"
+        "https://www.museum-der-1000-orte.de/",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur"
       ],
       "bookPages": {
         "2010": "78–79"
       },
-      "researchStatus": "已核對2010年官方選集；作品最新狀態待追查",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-60-20"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a815e973de0add3d441ff",
       "isIncomplete": false,
-      "mediumGroup": "光與影像"
+      "mediumGroup": "光與影像",
+      "verifiedOfficialTitle": "Kinetische Säule (Brunnenskulptur)",
+      "verifiedOfficialYear": "1973",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/kinetische-saule-brunnenskulptur"
     },
     {
       "id": "kunst-am-bau-60-21",
@@ -1494,30 +1502,34 @@
         "建築/場域",
         "絲綢與不鏽鋼"
       ],
-      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 110–111 頁作品。Ingeborg Schäffler-Wolf以絲綢與不鏽鋼介入「波昂聯邦內政部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 110–111 頁作品。Ingeborg Schäffler-Wolf以絲綢與不鏽鋼介入「波昂聯邦內政部」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《o. T. (Gobelin)》，館藏完成／設置年 1982；與本圖錄條目所記「Gobelin」（1981）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.museum-der-1000-orte.de/",
-      "image": "",
-      "credit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "rights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/7c5fb344a030e41e180976ec2408e7665ada0612.jpg",
+      "credit": "BBR / Cordia Schlegelmilch (2017)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
       "sources": [
         "2010"
       ],
       "citationURLs": [
-        "https://www.museum-der-1000-orte.de/"
+        "https://www.museum-der-1000-orte.de/",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin"
       ],
       "bookPages": {
         "2010": "110–111"
       },
-      "researchStatus": "已核對2010年官方選集；作品最新狀態待追查",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-60-36"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a8109bd04f5874a26ff9a",
       "isIncomplete": false,
-      "mediumGroup": "雕塑與構造"
+      "mediumGroup": "雕塑與構造",
+      "verifiedOfficialTitle": "o. T. (Gobelin)",
+      "verifiedOfficialYear": "1982",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-gobelin"
     },
     {
       "id": "kunst-am-bau-60-37",
@@ -1787,30 +1799,34 @@
         "裝置",
         "單色壁畫"
       ],
-      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 124–125 頁作品。Gerhard Merz以單色壁畫介入「德國駐美國大使館官邸」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 124–125 頁作品。Gerhard Merz以單色壁畫介入「德國駐美國大使館官邸」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《o. T. (Wandbilder)》，館藏完成／設置年 1994；與本圖錄條目所記「Ohne Titel」（um 1994）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.museum-der-1000-orte.de/",
-      "image": "",
-      "credit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "rights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/02481a742e68537be8cbb1f660801e03ec10768e.jpg",
+      "credit": "BBR / Eduard Hueber",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
       "sources": [
         "2010"
       ],
       "citationURLs": [
-        "https://www.museum-der-1000-orte.de/"
+        "https://www.museum-der-1000-orte.de/",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder"
       ],
       "bookPages": {
         "2010": "124–125"
       },
-      "researchStatus": "已核對2010年官方選集；作品最新狀態待追查",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-60-43"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a81b7aed4c7102ffbda4f",
       "isIncomplete": false,
-      "mediumGroup": "壁面與平面"
+      "mediumGroup": "壁面與平面",
+      "verifiedOfficialTitle": "o. T. (Wandbilder)",
+      "verifiedOfficialYear": "1994",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-wandbilder"
     },
     {
       "id": "kunst-am-bau-60-44",
@@ -1955,30 +1971,34 @@
         "裝置",
         "光裝置"
       ],
-      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 132–133 頁作品。Neo Rauch以光裝置介入「德國國會 Paul-Löbe-Haus」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。",
+      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 132–133 頁作品。Neo Rauch以光裝置介入「德國國會 Paul-Löbe-Haus」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。\n\nMuseum der 1000 Orte 官方作品題名《Mann auf der Leiter》，館藏完成／設置年 2001；與本圖錄條目所記「Leiter」（1998/2001）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mann-auf-der-leiter。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.museum-der-1000-orte.de/",
-      "image": "",
-      "credit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "rights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/cb764fe8d55eace1f46b34c71eca5738af9a36cb.jpg",
+      "credit": "BBR / Werner Huthmacher (2011)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
       "sources": [
         "2010"
       ],
       "citationURLs": [
-        "https://www.museum-der-1000-orte.de/"
+        "https://www.museum-der-1000-orte.de/",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mann-auf-der-leiter"
       ],
       "bookPages": {
         "2010": "132–133"
       },
-      "researchStatus": "已核對2010年官方選集；作品最新狀態待追查",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-60-47"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a81c9a08ac598d12e51cf",
       "isIncomplete": false,
-      "mediumGroup": "光與影像"
+      "mediumGroup": "光與影像",
+      "verifiedOfficialTitle": "Mann auf der Leiter",
+      "verifiedOfficialYear": "2001",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/mann-auf-der-leiter"
     },
     {
       "id": "kunst-am-bau-60-48",
@@ -2041,13 +2061,13 @@
         "建築/場域",
         "板岩長椅"
       ],
-      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第212–213頁；同一作品只建立一筆索引。",
+      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 136–137 頁作品。Ian Hamilton Finlay以板岩長椅介入「埃爾福特聯邦勞工法院」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第212–213頁；同一作品只建立一筆索引。\n\nMuseum der 1000 Orte 官方作品題名《o. T.》，館藏完成／設置年 1999；與本圖錄條目所記「Ohne Titel」（1999）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.museum-der-1000-orte.de/",
-      "image": "",
-      "credit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "rights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c1d5e66e5ae652c874053d2592833ba5ada1ae99.jpg",
+      "credit": "BBR / Martin Seidel (2023)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
       "sources": [
         "2010",
@@ -2055,19 +2075,23 @@
       ],
       "citationURLs": [
         "https://www.museum-der-1000-orte.de/",
-        "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+        "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12"
       ],
       "bookPages": {
         "2010": "136–137",
         "2020": "212–213"
       },
-      "researchStatus": "已核對2010年官方選集；作品最新狀態待追查",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-60-49"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a81c49b7bd8645741922e",
       "isIncomplete": false,
-      "mediumGroup": "雕塑與構造"
+      "mediumGroup": "雕塑與構造",
+      "verifiedOfficialTitle": "o. T.",
+      "verifiedOfficialYear": "1999",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-12"
     },
     {
       "id": "kunst-am-bau-60-50",
@@ -2648,31 +2672,35 @@
       "medium": [
         "建築/場域"
       ],
-      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第78–79頁。藝術家 Bernd Krimmel；1956 年；建築場址 Statistisches Bundesamt Wiesbaden。歸屬章節「新國家的建築藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
+      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第78–79頁。藝術家 Bernd Krimmel；1956 年；建築場址 Statistisches Bundesamt Wiesbaden。歸屬章節「新國家的建築藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。\n\nMuseum der 1000 Orte 官方作品題名《o. T. (Mosaik)》，館藏完成／設置年 1956；與本圖錄條目所記「建築藝術專案」（1956）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-mosaik-1。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "image": "",
-      "credit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
-      "rights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/4051799befb03c8d0e74d959dc79f471b9f659cf.jpg",
+      "credit": "BBR / Cordia Schlegelmilch (2015)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "原書/展覽史料，當前參訪狀況待查證",
       "sources": [
         "2020"
       ],
       "citationURLs": [
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html"
+        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-mosaik-1"
       ],
       "bookPages": {
         "2020": "78–79"
       },
-      "researchStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-70-05"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a81c0ba80cfeea1c4d431",
       "isIncomplete": false,
-      "mediumGroup": "裝置與建築"
+      "mediumGroup": "裝置與建築",
+      "verifiedOfficialTitle": "o. T. (Mosaik)",
+      "verifiedOfficialYear": "1956",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-mosaik-1"
     },
     {
       "id": "kunst-am-bau-70-06",
@@ -3061,31 +3089,35 @@
       "medium": [
         "建築/場域"
       ],
-      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第118–119頁。藝術家 Wolfgang Nestler；1989 年；建築場址 Bundesministerium für Verkehr Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
+      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第118–119頁。藝術家 Wolfgang Nestler；1989 年；建築場址 Bundesministerium für Verkehr Bonn。歸屬章節「國家建設與自由」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。\n\nMuseum der 1000 Orte 官方作品題名《o. T. (Installation / Wegzeichen)》，館藏完成／設置年 1989；與本圖錄條目所記「建築藝術專案」（1989）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wegzeichen。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "image": "",
-      "credit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
-      "rights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/eed0b229a92df924d8b1aef310a50bb332e29a60.jpg",
+      "credit": "BBR / Werner Huthmacher (2011)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "原書/展覽史料，當前參訪狀況待查證",
       "sources": [
         "2020"
       ],
       "citationURLs": [
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html"
+        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wegzeichen"
       ],
       "bookPages": {
         "2020": "118–119"
       },
-      "researchStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-70-16"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a81ab9627f42510270f45",
       "isIncomplete": false,
-      "mediumGroup": "裝置與建築"
+      "mediumGroup": "裝置與建築",
+      "verifiedOfficialTitle": "o. T. (Installation / Wegzeichen)",
+      "verifiedOfficialYear": "1989",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/o-t-installation-wegzeichen"
     },
     {
       "id": "kunst-am-bau-70-17",
@@ -3316,31 +3348,35 @@
       "medium": [
         "建築/場域"
       ],
-      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第150–151頁。藝術家 Trak Wendisch；2001 年；建築場址 Auswärtiges Amt Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
+      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第150–151頁。藝術家 Trak Wendisch；2001 年；建築場址 Auswärtiges Amt Berlin。歸屬章節「統一後柏林首都建設」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。\n\nMuseum der 1000 Orte 官方作品題名《Seiltänzer》，館藏完成／設置年 2001；與本圖錄條目所記「建築藝術專案」（2001）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/seiltanzer。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "image": "",
-      "credit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
-      "rights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/c14e781c34d0d595aa16b3a665d01e2a5ef83fe8.jpg",
+      "credit": "BBR / Sandra Wildemann (2008)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "原書/展覽史料，當前參訪狀況待查證",
       "sources": [
         "2020"
       ],
       "citationURLs": [
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html"
+        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/seiltanzer"
       ],
       "bookPages": {
         "2020": "150–151"
       },
-      "researchStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-70-25"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a81318aadc937d1206683",
       "isIncomplete": false,
-      "mediumGroup": "裝置與建築"
+      "mediumGroup": "裝置與建築",
+      "verifiedOfficialTitle": "Seiltänzer",
+      "verifiedOfficialYear": "2001",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/seiltanzer"
     },
     {
       "id": "kunst-am-bau-70-26",
@@ -3482,31 +3518,35 @@
       "medium": [
         "建築/場域"
       ],
-      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第172–173頁。藝術家 raumlaborberlin；2011 年；建築場址 Stasimuseum Berlin。歸屬章節「建築藝術的政治立場」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
+      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第172–173頁。藝術家 raumlaborberlin；2011 年；建築場址 Stasimuseum Berlin。歸屬章節「建築藝術的政治立場」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。\n\nMuseum der 1000 Orte 官方作品題名《EINGEGANGEN am ...》，館藏完成／設置年 2011；與本圖錄條目所記「建築藝術專案」（2011）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/eingegangen-am。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "image": "",
-      "credit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
-      "rights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/098415aa3c1071fbefb1738164d189495e3d1f0e.jpg",
+      "credit": "BBR / Werner Huthmacher (2012)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "原書/展覽史料，當前參訪狀況待查證",
       "sources": [
         "2020"
       ],
       "citationURLs": [
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html"
+        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/eingegangen-am"
       ],
       "bookPages": {
         "2020": "172–173"
       },
-      "researchStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-70-30"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a81f0b6f6c8727c4e2806",
       "isIncomplete": false,
-      "mediumGroup": "裝置與建築"
+      "mediumGroup": "裝置與建築",
+      "verifiedOfficialTitle": "EINGEGANGEN am ...",
+      "verifiedOfficialYear": "2011",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/eingegangen-am"
     },
     {
       "id": "kunst-am-bau-70-31",
@@ -3565,31 +3605,35 @@
       "medium": [
         "建築/場域"
       ],
-      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第198–199頁。藝術家 Horst Ring；1970 年；建築場址 Reichsbahnausbesserungswerk Cottbus。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
+      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第198–199頁。藝術家 Horst Ring；1970 年；建築場址 Reichsbahnausbesserungswerk Cottbus。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。\n\nMuseum der 1000 Orte 官方作品題名《Industrie und Arbeiterklasse》，館藏完成／設置年 1970；與本圖錄條目所記「建築藝術專案」（1970）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/industrie-und-arbeiterklasse。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "image": "",
-      "credit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
-      "rights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/e33a2f9b6438f24221bee61727df64bdca547243.jpg",
+      "credit": "BBR / Martin Maleschka (2020)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "原書/展覽史料，當前參訪狀況待查證",
       "sources": [
         "2020"
       ],
       "citationURLs": [
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html"
+        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/industrie-und-arbeiterklasse"
       ],
       "bookPages": {
         "2020": "198–199"
       },
-      "researchStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-70-32"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a81deb859f2b372970973",
       "isIncomplete": false,
-      "mediumGroup": "裝置與建築"
+      "mediumGroup": "裝置與建築",
+      "verifiedOfficialTitle": "Industrie und Arbeiterklasse",
+      "verifiedOfficialYear": "1970",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/industrie-und-arbeiterklasse"
     },
     {
       "id": "kunst-am-bau-70-33",
@@ -3604,31 +3648,35 @@
       "medium": [
         "建築/場域"
       ],
-      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第200–201頁。藝術家 Norbert Kricke；1973 年；建築場址 Bundesanstalt für Arbeit Verwaltungszentrum Nürnberg。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
+      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第200–201頁。藝術家 Norbert Kricke；1973 年；建築場址 Bundesanstalt für Arbeit Verwaltungszentrum Nürnberg。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。\n\nMuseum der 1000 Orte 官方作品題名《Großer Wasserwald》，館藏完成／設置年 1973；與本圖錄條目所記「建築藝術專案」（1973）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosser-wasserwald。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "image": "",
-      "credit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
-      "rights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/1ad06871cc39e4214adeb09cdca5bcf1f3ca2ced.jpg",
+      "credit": "BBR / Cordia Schlegelmilch (2013)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "原書/展覽史料，當前參訪狀況待查證",
       "sources": [
         "2020"
       ],
       "citationURLs": [
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html"
+        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosser-wasserwald"
       ],
       "bookPages": {
         "2020": "200–201"
       },
-      "researchStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-70-33"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a814ab6e9e543e557d46b",
       "isIncomplete": false,
-      "mediumGroup": "裝置與建築"
+      "mediumGroup": "裝置與建築",
+      "verifiedOfficialTitle": "Großer Wasserwald",
+      "verifiedOfficialYear": "1973",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/grosser-wasserwald"
     },
     {
       "id": "kunst-am-bau-70-34",
@@ -3853,31 +3901,35 @@
       "medium": [
         "建築/場域"
       ],
-      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第214–215頁。藝術家 Barbara Trautmann；2014 年；建築場址 Friedrich-Loeffler-Institut Greifswald。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
+      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第214–215頁。藝術家 Barbara Trautmann；2014 年；建築場址 Friedrich-Loeffler-Institut Greifswald。歸屬章節「國家機構及其藝術」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。\n\nMuseum der 1000 Orte 官方作品題名《Insulaner》，館藏完成／設置年 2014；與本圖錄條目所記「建築藝術專案」（2014）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insulaner。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "image": "",
-      "credit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
-      "rights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/a21534ef1f03ba7a10c38928196fab95b8948e78.jpg",
+      "credit": "Alexander Ludwig Obst & Marion Schmieding (2014)",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "原書/展覽史料，當前參訪狀況待查證",
       "sources": [
         "2020"
       ],
       "citationURLs": [
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html"
+        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insulaner"
       ],
       "bookPages": {
         "2020": "214–215"
       },
-      "researchStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-70-40"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a818892f4dd0ca7b696d2",
       "isIncomplete": false,
-      "mediumGroup": "裝置與建築"
+      "mediumGroup": "裝置與建築",
+      "verifiedOfficialTitle": "Insulaner",
+      "verifiedOfficialYear": "2014",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/insulaner"
     },
     {
       "id": "kunst-am-bau-70-41",
@@ -3931,31 +3983,35 @@
       "medium": [
         "建築/場域"
       ],
-      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第232–233頁。藝術家 Jean Sprenger；1959 年；建築場址 Steuben-Kaserne Achim。歸屬章節「軍隊作為藝術委託者」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。",
+      "description": "《70 Jahre Kunst am Bau in Deutschland》（BBR/BMI，2020）收錄的建築藝術案例，圖錄第232–233頁。藝術家 Jean Sprenger；1959 年；建築場址 Steuben-Kaserne Achim。歸屬章節「軍隊作為藝術委託者」。本條依官方出版品目錄核定人物、年份與建築，作品正式標題和個別場址現況仍須逐件對照書籍內頁或官方作品資料。\n\nMuseum der 1000 Orte 官方作品題名《Drei Krieger mit Schild》，館藏完成／設置年 1959；與本圖錄條目所記「建築藝術專案」（1959）為同件作品，題名或年份差異按兩份資料保留。原始研究頁：https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drei-krieger-mit-schild。",
       "sourceExcerpt": "",
       "origin": "",
       "workUrl": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-      "image": "",
-      "credit": "請參考2020年圖錄 Bildnachweis 第313–315頁",
-      "rights": "2020年圖錄／館藏圖片著作權須按來源授權處理，尚未複製",
+      "image": "https://www.museum-der-1000-orte.de/media/cache/resolve/slider/images/8149ca807443d5cfcf41db540300a40358e6480d.jpg",
+      "credit": "Archiv BMVBS",
+      "rights": "照片由 Museum der 1000 Orte 館藏提供，攝影者及原作著作權保留，請依權利人規定辦理公開重製使用。",
       "access": "原書/展覽史料，當前參訪狀況待查證",
       "sources": [
         "2020"
       ],
       "citationURLs": [
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf",
-        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html"
+        "https://www.bbr.bund.de/BBR/DE/KunstamBau/70-jahre-kunst-am-bau-in-deutschland.html",
+        "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drei-krieger-mit-schild"
       ],
       "bookPages": {
         "2020": "232–233"
       },
-      "researchStatus": "已核對圖錄2020年原始目錄；作品正式名稱與第一方現況待逐件審核",
+      "researchStatus": "已核對館藏原始作品頁與2010／2020圖錄對應",
       "sourceIds": [
         "kunst-am-bau-70-42"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a814da602de76da033e40",
       "isIncomplete": false,
-      "mediumGroup": "裝置與建築"
+      "mediumGroup": "裝置與建築",
+      "verifiedOfficialTitle": "Drei Krieger mit Schild",
+      "verifiedOfficialYear": "1959",
+      "verifiedOfficialPage": "https://www.museum-der-1000-orte.de/kunstwerke/kunstwerk/drei-krieger-mit-schild"
     },
     {
       "id": "kunst-am-bau-70-43",
