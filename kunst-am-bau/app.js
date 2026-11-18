@@ -128,8 +128,16 @@
   function addSourceRecord(s) {
     const artist=clean(s.artist), title=clean(s.title);
     if (!artist || !title || !canonical(s.officialUrl)) return;
-    const images=(s.imageSources || []).filter(v => /\/media\/(?:cache\/resolve\/)?(?:slider|homepage|detail|original|thumb)[^ ]*\/images\//i.test(v.url || '') && validLink(v.url));
+    const images=(s.imageSources || []).filter(v => {
+      const u=validLink(v.url);
+      if (!u || !/museum-der-1000-orte\.de\/media\/cache\/resolve\/slider\/images\//i.test(u)) return false;
+      const caption=normalize(v.caption || '');
+      return !caption || caption.includes(normalize(artist).slice(0,7)) || caption.includes(normalize(title).slice(0,9));
+    });
     const photo=images[0] || null;
+    const rawCredit=clean(s.imageCredit || photo?.caption || photo?.credit || '');
+    const creditMatch=rawCredit.match(/Fotonachweis:\s*(.+)$/i);
+    const photoCredit=creditMatch ? creditMatch[1] : rawCredit;
     const input={
       id:'museum1000-official-'+s.officialUrl.split('/').pop(),
       artist,
@@ -142,8 +150,8 @@
       comment:'Museum der 1000 Orte 官方建築藝術典藏作品。'+(s.sourceExcerpt?'館藏原文提供歷史研究，詳見作品獨立頁。':'')+'藝術家：'+artist+'。作品：《'+title+'》。官方紀錄年代：'+(s.year||'未載')+'。',
       website:s.officialUrl,workPage:s.officialUrl,
       photo:photo?.url || '', classicImage:photo?.url || '',
-      imageCredit:clean(s.imageCredit || photo?.credit || ''),
-      images:photo?[{url:photo.url,caption:photo.caption || title,credit:photo.credit || s.imageCredit || ''}]:[],
+      imageCredit:photoCredit,
+      images:photo?[{url:photo.url,caption:photo.caption || title,credit:photoCredit}]:[],
       imageRights:'官方照片及作品著作權歸原始權利人所有，電子出版物使用請依館藏條款取得授權。',
       accessNote:s.accessNote || '', researchOriginalGermanExcerpt:s.sourceExcerpt || '',
       collectionSeries:'Museum der 1000 Orte'
