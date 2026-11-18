@@ -47,6 +47,8 @@ jobs:
               page.wait_for_function("document.querySelector('#statTotal').textContent.trim() !== '…'",timeout=60000)
               total=int(page.locator("#statTotal").inner_text().replace(",",""))
               official=int(page.locator("#statOfficial").inner_text().replace(",",""))
+              photoCount=int(page.locator("#statImages").inner_text().replace(",",""))
+              assert photoCount>=100,("linked artwork photo count",photoCount)
               assert total >=175,(total,official)
               assert official >= 101,(total,official)
               assert page.locator(".work-card").count()>=20
@@ -72,6 +74,6 @@ jobs:
               page.wait_for_function("document.querySelector('#statTotal').textContent.trim() !== '…'",timeout=60000)
               assert page.locator("#worksGrid").is_visible()
               assert not errors,errors[:5]
-              print(json.dumps({"total":total,"museum":official,"60th":c60,"70th":c70,"museumFilter":museum,"browserErrors":errors},ensure_ascii=False))
+              print(json.dumps({"total":total,"museum":official,"images":photoCount,"60th":c60,"70th":c70,"museumFilter":museum,"browserErrors":errors},ensure_ascii=False))
               browser.close()
           PY
