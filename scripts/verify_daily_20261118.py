@@ -35,6 +35,19 @@ def verify():
     for key,(path,is_json) in SOURCES.items():
         result[key],length=fetch(path,is_json)
         OUT["endpoints"][key]={"path":"/"+path,"http":200,"bytes":length}
+    # Inspect all November chunks because one broken file can disable the all-or-nothing backfill loader.
+    missing=[]
+    for f in result["public_art_manifest"].get("files",[]):
+        try:
+            payload,_=fetch("data/"+f,True)
+            if "entries" not in payload:
+                missing.append({"file":f,"failure":"no entries property"})
+        except Exception as exc:
+            missing.append({"file":f,"failure":str(exc)})
+    OUT["checks"]["novemberFilesTested"]=len(result["public_art_manifest"].get("files",[]))
+    OUT["checks"]["novemberFilesBroken"]=missing
+    if missing:
+        OUT["errors"].append("Broken November chunks: "+str(missing[:8]))
     day=result["public_art_day"]
     entries=day["entries"]
     group_counts={key:sum(e.get("researchGroup")==key for e in entries) for key in ["current","globalClassic","germanClassic"]}
@@ -83,6 +96,16 @@ def verify_browser_search():
         page=browser.new_page(viewport={"width":1350,"height":900})
         page.goto(ROOT,wait_until="domcontentloaded",timeout=85000)
         page.wait_for_function("() => document.querySelector('#resultCount') && !/載入中|載入失敗/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
+        diagnostics=page.evaluate("""async () => {
+          const r=await fetch('data/artists.json?t='+Date.now());
+          const j=await r.json();
+          return {meta:j.meta, total:j.entries?.length,
+            nov18:j.entries?.filter(x=>x.id?.startsWith('public-art-2026-11-18')).length,
+            kaleido:j.entries?.filter(x=>x.name?.includes('Kaleidoburst')).length,
+            reallygood:j.entries?.filter(x=>x.name?.includes('Really Good')).length,
+            shown:document.querySelector('#resultCount')?.textContent};
+        }""")
+        OUT["checks"]["browserLoadedArchive"]=diagnostics
         for term,expected in [
           ("Kaleidoburst","Scott Keva James"),
           ("Really Good","David Shrigley"),
