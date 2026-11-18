@@ -74,9 +74,36 @@ def verify():
        "originalPhotosIndividuallyVerified":False,
        "sourceSubstanceIndividuallyVerified":False
     })
+
+def verify_browser_search():
+    from playwright.sync_api import sync_playwright
+    report=[]
+    with sync_playwright() as p:
+        browser=p.chromium.launch(headless=True,args=["--no-sandbox"])
+        page=browser.new_page(viewport={"width":1350,"height":900})
+        page.goto(ROOT,wait_until="domcontentloaded",timeout=85000)
+        page.wait_for_function("() => document.querySelector('#resultCount') && !/載入中|載入失敗/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
+        for term,expected in [
+          ("Kaleidoburst","Scott Keva James"),
+          ("Really Good","David Shrigley"),
+          ("City Hall Plaza Exterior Wall Sculpture Acquisition","Gainesville")
+        ]:
+            page.locator("#q").fill(term)
+            page.wait_for_timeout(1700)
+            cards=page.locator("#grid .card")
+            n=cards.count()
+            names=[c.inner_text()[:180] for c in cards.all()[:3]]
+            item={"query":term,"cardCount":n,"firstCards":names}
+            if n < 1 or not any(expected.lower() in value.lower() for value in names):
+                OUT["errors"].append("Missing visible search results for "+term)
+            report.append(item)
+        browser.close()
+    OUT["checks"]["browserSearch"]=report
+
 if __name__=="__main__":
     try:
         verify()
+        verify_browser_search()
     except Exception as exc:
         OUT["errors"].append(repr(exc))
     print(json.dumps(OUT,ensure_ascii=False,indent=2),flush=True)
