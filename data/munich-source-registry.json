@@ -1,0 +1,61 @@
+{
+  "version": "20261119-munich-sources-r143",
+  "checkedAt": "2026-11-19T06:47:16+08:00",
+  "cadence": "daily",
+  "timezone": "Asia/Taipei",
+  "sources": [
+    {
+      "id": "raumfragen",
+      "name": "Raumfragen｜參與式藝術與公共空間研究",
+      "url": "https://raumfragen.eu/",
+      "type": "機構",
+      "scope": [
+        "參與式公共藝術",
+        "社區共創",
+        "空間介入",
+        "循環材料",
+        "教育及工作坊"
+      ],
+      "endpoints": [
+        "https://raumfragen.eu/",
+        "https://raumfragen.eu/projekte/",
+        "https://raumfragen.eu/about/"
+      ],
+      "dedupeKey": "source:raumfragen",
+      "firstParty": true
+    },
+    {
+      "id": "public-art-muenchen",
+      "name": "Public Art München｜慕尼黑市公共藝術平台",
+      "url": "https://www.publicartmuenchen.de/en/",
+      "type": "平台",
+      "scope": [
+        "當期公共藝術",
+        "歷年計畫檔案",
+        "藝術家索引",
+        "演出及活動",
+        "公開徵件"
+      ],
+      "endpoints": [
+        "https://www.publicartmuenchen.de/en/",
+        "https://www.publicartmuenchen.de/en/about/",
+        "https://www.publicartmuenchen.de/en/submission/",
+        "https://www.publicartmuenchen.de/en/artists/",
+        "https://www.publicartmuenchen.de/programreihe/public-art-muenchen-focus-year/"
+      ],
+      "dedupeKey": "source:public-art-muenchen",
+      "firstParty": true
+    }
+  ],
+  "imagePolicy": "逐件保存圖片出處、攝影及權利；無可核實再利用授權時以原頁連結呈現。",
+  "deduplication": "跨德英中文標題、作者、地點與年份核對；同一作品於兩站出現時合併來源。",
+  "existingRelatedRecords": [
+    "current-2026-08-29-09",
+    "current-2026-08-29-10"
+  ],
+  "initialVerifiedCaseIds": [
+    "raumfragen-animal-neighborhood-munich-2026",
+    "raumfragen-public-art-pavillon-munich-2026"
+  ],
+  "archiveIngestion": "來源與首批案例已建檔，未宣稱兩站全歷史作品均已匯入。"
+}

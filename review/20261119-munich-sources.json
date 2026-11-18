@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-19",
+  "addedSources": 2,
+  "addedCases": 2,
+  "sourceUrls": [
+    "https://raumfragen.eu/",
+    "https://www.publicartmuenchen.de/en/"
+  ],
+  "sourceTypes": {
+    "raumfragen": "artist collective: participatory art, architecture and social practice",
+    "public-art-muenchen": "City of Munich, Department of Arts and Culture public-art programme"
+  },
+  "notionCreatedAndFetched": 4,
+  "dailyArtCount": 20,
+  "novemberManifestEntries": 573,
+  "allNewImages": "link-only; attribution and rights recorded; no reproduction license claimed",
+  "deduplication": "Website source URLs, names and artist/work identities checked; Notion searches found no exact new records. Existing ABC and Billboard programme records preserved.",
+  "scope": "Two registered research sources and two verified initial cases; not full historical archive ingestion.",
+  "sources": [
+    "https://raumfragen.eu/about/",
+    "https://raumfragen.eu/public-art-pavillon/",
+    "https://www.publicartmuenchen.de/en/about/",
+    "https://www.publicartmuenchen.de/en/submission/",
+    "https://www.publicartmuenchen.de/en/projekte/animal-neighborhood/"
+  ]
+}
