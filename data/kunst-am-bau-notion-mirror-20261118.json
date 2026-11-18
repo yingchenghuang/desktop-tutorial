@@ -78,19 +78,20 @@
         "裝置",
         "彩色鋁板與螢光燈馬賽克"
       ],
-      "description": "《60 x Kunst am Bau aus 60 Jahren》官方選集第 42–43 頁作品。Rupprecht Geiger以彩色鋁板與螢光燈馬賽克介入「慕尼黑中央車站」的建築與公共空間，提供研究德國聯邦建築藝術、藝術委託及場所歷史的具體案例。作品年代與原址依2010年出版資料登錄，現況待逐件更新。 另見2020年《70 Jahre Kunst am Bau in Deutschland》圖錄第72–73頁；同一作品只建立一筆索引。",
+      "description": "Rupprecht Geiger於1951年透過競圖取得慕尼黑中央車站作品委託，使用陽極氧化鋁板與螢光燈打造長30公尺、高6.5公尺的《Plattenmosaik》。作品原設於車站正面立面，因建築改建於2018年底拆卸，並由檔案館記載為保存待重新安置的狀態。這件戰後建築藝術結合抽象色域與夜間發光的城市視覺標誌。",
       "sourceExcerpt": "",
       "origin": "",
-      "workUrl": "https://www.museum-der-1000-orte.de/",
-      "image": "",
-      "credit": "見2010年原書第160頁 Bildnachweis；本次尚未複製影像",
-      "rights": "原書照片另有攝影與著作權歸屬；本站僅建置書目索引，圖檔待授權或官方來源確認",
-      "access": "2010年出版的歷史場址與使用狀況；當前開放性尚待查證",
+      "workUrl": "https://www.archiv-geiger.de/de/plattenmosaik-hauptbahnhof-m%C3%BCnchenludwigsvorstadt",
+      "image": "https://www.archiv-geiger.de/sites/default/files/1951_hauptbahnhof_muenchen_20101021_1489453611.jpg",
+      "credit": "Andreas Pauly（上圖）；Rosemarie Nohr（下圖）；Archiv Geiger／VG Bild-Kunst, Bonn",
+      "rights": "作品及攝影權利保留於 Archiv Geiger / VG Bild-Kunst 與攝影者。本站僅以來源網址顯示並保留署名，公開重製權利待確認。",
+      "access": "依藝術家檔案館記載：2018年底拆卸保存，等待重新安置；現況後續查核",
       "sources": [
         "2010",
         "2020"
       ],
       "citationURLs": [
+        "https://www.archiv-geiger.de/de/plattenmosaik-hauptbahnhof-m%C3%BCnchenludwigsvorstadt",
         "https://www.museum-der-1000-orte.de/",
         "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
       ],
@@ -98,13 +99,15 @@
         "2010": "42–43",
         "2020": "72–73"
       },
-      "researchStatus": "已核對2010年官方選集；作品最新狀態待追查",
+      "researchStatus": "藝術家 Archiv Geiger 逐件原始作品資料核對",
       "sourceIds": [
         "kunst-am-bau-60-02"
       ],
       "mainURL": "https://app.notion.com/41b34a20271a8191bdd9c497d2c7453c",
       "isIncomplete": false,
-      "mediumGroup": "光與影像"
+      "mediumGroup": "光與影像",
+      "originalUrl": "",
+      "mainUrl": "https://app.notion.com/41b34a20271a8191bdd9c497d2c7453c"
     },
     {
       "id": "kunst-am-bau-60-03",
