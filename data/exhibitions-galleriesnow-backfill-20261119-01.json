@@ -1,0 +1,3741 @@
+{
+  "meta": {
+    "publishedAt": "2026-11-19T04:48:40+08:00",
+    "backfillSourcePeriod": "2026-11-03 至 2026-11-10",
+    "sourceCheckedDate": "2026-11-11",
+    "total": 50,
+    "note": "先前已核對但未發布的展覽補刊；原始展期與刊載日期分列，未將入庫日當作展覽開幕日。"
+  },
+  "entries": [
+    {
+      "id": "exhibition-gn-0f60482f3698",
+      "dedupeKey": "exhibition:galleriesnow:and-the-cusps",
+      "name": "001｜mundane｜and the cusps",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "中國 / Shanghai",
+      "cityKeywords": [
+        "Shanghai",
+        "上海"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "and the cusps｜2026-11-13 至 2027-01-05",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/and-the-cusps/",
+      "workPage": "https://www.galleriesnow.net/shows/and-the-cusps/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "and the cusps",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Shanghai",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "Shanghai",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2027-01-05",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "mundane",
+      "venue": "mundane，100 Yuqing Road, Xuhui District, Shanghai",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Sat-Tue 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/and-the-cusps/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/mundane.webp",
+      "imageCredit": "© 藝術家與 mundane；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-ea68e31f0d42",
+      "dedupeKey": "exhibition:galleriesnow:a-la-maison",
+      "name": "002｜Brutto Gusto｜à la maison",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "à la maison｜2026-11-14 至 2026-12-22",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/a-la-maison/",
+      "workPage": "https://www.galleriesnow.net/shows/a-la-maison/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "à la maison",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Berlin",
+          "date": "2026-11-14",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-14",
+      "endDate": "2026-12-22",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Brutto Gusto",
+      "venue": "Brutto Gusto，Wielandstraße 34, 10629, Berlin",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Mon-Sat 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/a-la-maison/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/a-la-maison-Brutto-Gusto.webp",
+      "imageCredit": "© 藝術家與 Brutto Gusto；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-6263b4411a6f",
+      "dedupeKey": "exhibition:galleriesnow:david-smalling-flemish-light",
+      "name": "003｜Templon｜David Smalling: Flemish Light",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "比利時 / Brussels",
+      "cityKeywords": [
+        "Brussels",
+        "布魯塞爾"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "David Smalling: Flemish Light｜2026-11-12 至 2027-01-09",
+      "comment": "展覽資料記錄包含繪畫。",
+      "website": "https://www.galleriesnow.net/shows/david-smalling-flemish-light/",
+      "workPage": "https://www.galleriesnow.net/shows/david-smalling-flemish-light/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "David Smalling: Flemish Light",
+      "classicDesc": "展覽資料記錄包含繪畫。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Brussels",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Templon",
+      "venue": "Templon，Veydtstraat 13A, 1060, Brussels",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/david-smalling-flemish-light/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/David-Smalling-Templon.webp",
+      "imageCredit": "© 藝術家與 Templon；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-6b388c5d3479",
+      "dedupeKey": "exhibition:galleriesnow:ethereal-material",
+      "name": "004｜Galerie Maria Wettergren｜Ethereal",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "法國 / Paris",
+      "cityKeywords": [
+        "Paris",
+        "巴黎",
+        "Paris Marais"
+      ],
+      "media": [
+        "攝影",
+        "陶瓷"
+      ],
+      "works": "Ethereal｜2026-11-12 至 2027-01-16",
+      "comment": "集結斯堪地那維亞、韓國與法國十位藝術家，以絲、陶瓷、玻璃、金屬和攝影研究重量與光的感知。",
+      "website": "https://www.galleriesnow.net/shows/ethereal-material/",
+      "workPage": "https://www.galleriesnow.net/shows/ethereal-material/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Ethereal",
+      "classicDesc": "集結斯堪地那維亞、韓國與法國十位藝術家，以絲、陶瓷、玻璃、金屬和攝影研究重量與光的感知。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Paris",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-16",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Galerie Maria Wettergren",
+      "venue": "Galerie Maria Wettergren，121, Rue Vieille-du-Temple, 75003, Paris",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-7pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/ethereal-material/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Ethereal-Material-Maria-Wettergren.webp",
+      "imageCredit": "© 藝術家與 Galerie Maria Wettergren；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-a909bbcb61cd",
+      "dedupeKey": "exhibition:galleriesnow:tim-maguire-dice-blocks-alphabets",
+      "name": "005｜Tolarno Galleries｜Tim Maguire: Dice Blocks & Alphabets",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "大洋洲",
+      "country": "澳洲 / Melbourne",
+      "cityKeywords": [
+        "Melbourne",
+        "墨爾本"
+      ],
+      "media": [
+        "版畫"
+      ],
+      "works": "Tim Maguire: Dice Blocks & Alphabets｜2026-11-14 至 2026-12-05",
+      "comment": "呈現與墨爾本 Sunshine Editions 版畫家 Adrian Kellett 合作製作的新木刻版畫。",
+      "website": "https://www.galleriesnow.net/shows/tim-maguire-dice-blocks-alphabets/",
+      "workPage": "https://www.galleriesnow.net/shows/tim-maguire-dice-blocks-alphabets/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Tim Maguire: Dice Blocks & Alphabets",
+      "classicDesc": "呈現與墨爾本 Sunshine Editions 版畫家 Adrian Kellett 合作製作的新木刻版畫。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Melbourne",
+          "date": "2026-11-14",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-14",
+      "endDate": "2026-12-05",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Tolarno Galleries",
+      "venue": "Tolarno Galleries，Level 5, 104 Exhibition St., VIC 3000, Melbourne",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 10am-5pm, Sat 1pm-4pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/tim-maguire-dice-blocks-alphabets/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Tim-Maguire-Tolarno.webp",
+      "imageCredit": "© 藝術家與 Tolarno Galleries；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-c1111b0f2f79",
+      "dedupeKey": "exhibition:galleriesnow:michael-brennand-wood-thoughtforms-questions-we-ask-ourselves",
+      "name": "006｜Taste Contemporary｜Michael Brennand-Wood: Thoughtforms - Questions We Ask Ourselves",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "瑞士 / Geneva",
+      "cityKeywords": [
+        "Geneva",
+        "日內瓦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Michael Brennand-Wood: Thoughtforms - Questions We Ask Ourselves｜2026-11-12 至 2027-01-07",
+      "comment": "以線材組織的視覺敘事，回望藝術家在不同階段持續提出的問題。",
+      "website": "https://www.galleriesnow.net/shows/michael-brennand-wood-thoughtforms-questions-we-ask-ourselves/",
+      "workPage": "https://www.galleriesnow.net/shows/michael-brennand-wood-thoughtforms-questions-we-ask-ourselves/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Michael Brennand-Wood: Thoughtforms - Questions We Ask Ourselves",
+      "classicDesc": "以線材組織的視覺敘事，回望藝術家在不同階段持續提出的問題。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Geneva",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-07",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Taste Contemporary",
+      "venue": "Taste Contemporary，Rue du Vieux-Billard 7, 1205, Geneva",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Wed-Fri 11am-6.30pm, Sat 12-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/michael-brennand-wood-thoughtforms-questions-we-ask-ourselves/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/Michael-Brennand-Wood_Red-Thread-Pressure_1987_Stitchery-and-Mixed-Media.webp",
+      "imageCredit": "© 藝術家與 Taste Contemporary；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-d0b91f73bdad",
+      "dedupeKey": "exhibition:galleriesnow:barbara-muller-paintings",
+      "name": "007｜Lullin + Ferrari｜Barbara Müller: Paintings",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "瑞士 / Zürich",
+      "cityKeywords": [
+        "Zürich",
+        "蘇黎世"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Barbara Müller: Paintings｜2026-11-12 至 2026-12-19",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/barbara-muller-paintings/",
+      "workPage": "https://www.galleriesnow.net/shows/barbara-muller-paintings/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Barbara Müller: Paintings",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Zürich",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Lullin + Ferrari",
+      "venue": "Lullin + Ferrari，Limmatstrasse 214, CH-8005, Zürich",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 12-6pm, Sat 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/barbara-muller-paintings/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Barbara-Muller-Lullin-Ferrari.webp",
+      "imageCredit": "© 藝術家與 Lullin + Ferrari；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-0424eb08e4a7",
+      "dedupeKey": "exhibition:galleriesnow:louisa-gagliardi-long-distance-relationship",
+      "name": "008｜Galerie Eva Presenhuber, Waldmannstrasse｜Louisa Gagliardi: Long Distance Relationship",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "瑞士 / Zürich",
+      "cityKeywords": [
+        "Zürich",
+        "蘇黎世"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Louisa Gagliardi: Long Distance Relationship｜2026-11-13 至 2027-01-09",
+      "comment": "展覽資料記錄包含繪畫。",
+      "website": "https://www.galleriesnow.net/shows/louisa-gagliardi-long-distance-relationship/",
+      "workPage": "https://www.galleriesnow.net/shows/louisa-gagliardi-long-distance-relationship/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Louisa Gagliardi: Long Distance Relationship",
+      "classicDesc": "展覽資料記錄包含繪畫。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Zürich",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "Zürich",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Galerie Eva Presenhuber, Waldmannstrasse",
+      "venue": "Galerie Eva Presenhuber, Waldmannstrasse，Waldmannstrasse 6, CH-8001, Zürich",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 11am-6pm, Sat 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/louisa-gagliardi-long-distance-relationship/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/01/Galerie-Eva-Presenhuber-Waldmannstrasse.webp",
+      "imageCredit": "© 藝術家與 Galerie Eva Presenhuber, Waldmannstrasse；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-549419f049c0",
+      "dedupeKey": "exhibition:galleriesnow:paul-mpagi-sepuya-3",
+      "name": "009｜Galerie Peter Kilchmann, Rämistrasse｜Paul Mpagi Sepuya: Sessions and Intervals",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "瑞士 / Zürich",
+      "cityKeywords": [
+        "Zürich",
+        "蘇黎世"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Paul Mpagi Sepuya: Sessions and Intervals｜2026-11-12 至 2026-12-18",
+      "comment": "以新攝影及拼貼回望二十年的工作方法，首次呈現 Portfolio 系列，研究檔案整理如何開啟新的觀看。",
+      "website": "https://www.galleriesnow.net/shows/paul-mpagi-sepuya-3/",
+      "workPage": "https://www.galleriesnow.net/shows/paul-mpagi-sepuya-3/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Paul Mpagi Sepuya: Sessions and Intervals",
+      "classicDesc": "以新攝影及拼貼回望二十年的工作方法，首次呈現 Portfolio 系列，研究檔案整理如何開啟新的觀看。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Zürich",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2026-12-18",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Galerie Peter Kilchmann, Rämistrasse",
+      "venue": "Galerie Peter Kilchmann, Rämistrasse，Rämistrasse 33, 8001",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 11am-6pm, Sat 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/paul-mpagi-sepuya-3/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2022/05/PK_Ramistrasse.jpg",
+      "imageCredit": "© 藝術家與 Galerie Peter Kilchmann, Rämistrasse；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-4bb475c88529",
+      "dedupeKey": "exhibition:galleriesnow:asuka-anastacia-ogawa-yume",
+      "name": "011｜Perrotin Los Angeles｜Asuka Anastacia Ogawa: Yume",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Asuka Anastacia Ogawa: Yume｜2026-11-13 至 2027-01-23",
+      "comment": "展覽資料記錄包含繪畫。",
+      "website": "https://www.galleriesnow.net/shows/asuka-anastacia-ogawa-yume/",
+      "workPage": "https://www.galleriesnow.net/shows/asuka-anastacia-ogawa-yume/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Asuka Anastacia Ogawa: Yume",
+      "classicDesc": "展覽資料記錄包含繪畫。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Los Angeles",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2027-01-23",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Perrotin Los Angeles",
+      "venue": "Perrotin Los Angeles，5036 W Pico Blvd, CA 90019, Los Angeles",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/asuka-anastacia-ogawa-yume/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2025/08/Perrotin-Los-Angeles-Facade.webp",
+      "imageCredit": "© 藝術家與 Perrotin Los Angeles；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-1d2113205950",
+      "dedupeKey": "exhibition:galleriesnow:beginnings",
+      "name": "012｜Philip Martin Gallery｜Beginnings",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯"
+      ],
+      "media": [
+        "繪畫",
+        "雕塑"
+      ],
+      "works": "Beginnings｜2026-11-14 至 2026-12-12",
+      "comment": "展覽資料記錄包含繪畫、雕塑。",
+      "website": "https://www.galleriesnow.net/shows/beginnings/",
+      "workPage": "https://www.galleriesnow.net/shows/beginnings/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Beginnings",
+      "classicDesc": "展覽資料記錄包含繪畫、雕塑。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Los Angeles",
+          "date": "2026-11-14",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-14",
+      "endDate": "2026-12-12",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Philip Martin Gallery",
+      "venue": "Philip Martin Gallery，3342 Verdugo Road, Ste A, CA 90065, Los Angeles",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Wed-Sat 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/beginnings/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/Beginnings-Philip-Martin-Gallery.webp",
+      "imageCredit": "© 藝術家與 Philip Martin Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-b7365f2f8160",
+      "dedupeKey": "exhibition:galleriesnow:regard",
+      "name": "013｜Mek Contemporary｜Regard",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / Los Angeles",
+      "cityKeywords": [
+        "Los Angeles",
+        "洛杉磯"
+      ],
+      "media": [
+        "繪畫",
+        "雕塑",
+        "纖維／織品"
+      ],
+      "works": "Regard｜2026-11-13 至 2026-12-19",
+      "comment": "展覽資料記錄包含繪畫、雕塑、纖維／織品。",
+      "website": "https://www.galleriesnow.net/shows/regard/",
+      "workPage": "https://www.galleriesnow.net/shows/regard/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Regard",
+      "classicDesc": "展覽資料記錄包含繪畫、雕塑、纖維／織品。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Los Angeles",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Mek Contemporary",
+      "venue": "Mek Contemporary，416 E. Colorado Street, Glendale, CA 91205, Los Angeles",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Wed-Sat 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/regard/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Regard-Mek-Contemporary.webp",
+      "imageCredit": "© 藝術家與 Mek Contemporary；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-185ac44ffd35",
+      "dedupeKey": "exhibition:galleriesnow:eric-zener",
+      "name": "015｜Gallery Henoch｜Eric Zener: Liminal Spaces",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "New York Chelsea"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Eric Zener: Liminal Spaces｜2026-11-12 至 2026-12-05",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/eric-zener/",
+      "workPage": "https://www.galleriesnow.net/shows/eric-zener/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Eric Zener: Liminal Spaces",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "New York",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2026-12-05",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Gallery Henoch",
+      "venue": "Gallery Henoch，555 West 25th Street, NY 10001, New York",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 10.30am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/eric-zener/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/EZ-661-image-Large.jpeg",
+      "imageCredit": "© 藝術家與 Gallery Henoch；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-e2dc4988f55d",
+      "dedupeKey": "exhibition:galleriesnow:gottlieb-rothko-the-surrealist-years",
+      "name": "016｜Pace - 125 Newbury｜Gottlieb/Rothko: The Surrealist Years",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Gottlieb/Rothko: The Surrealist Years｜2026-11-13 至 2027-01-09",
+      "comment": "由 Arne Glimcher 策劃，以繪畫和紙上作品研究兩位抽象表現主義藝術家的超現實主義階段。",
+      "website": "https://www.galleriesnow.net/shows/gottlieb-rothko-the-surrealist-years/",
+      "workPage": "https://www.galleriesnow.net/shows/gottlieb-rothko-the-surrealist-years/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Gottlieb/Rothko: The Surrealist Years",
+      "classicDesc": "由 Arne Glimcher 策劃，以繪畫和紙上作品研究兩位抽象表現主義藝術家的超現實主義階段。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "New York",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Pace - 125 Newbury",
+      "venue": "Pace - 125 Newbury，395 Broadway, NY 10013, New York",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/gottlieb-rothko-the-surrealist-years/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/09/Pace-125-Newbury.webp",
+      "imageCredit": "© 藝術家與 Pace - 125 Newbury；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-528369e6cd9f",
+      "dedupeKey": "exhibition:galleriesnow:harmony-korine-ux-lam",
+      "name": "017｜Hauser & Wirth 18th Street｜Harmony Korine. UX LAM",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "New York Chelsea"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Harmony Korine. UX LAM｜2026-11-12 至 2027-01-16",
+      "comment": "展覽資料記錄包含繪畫。",
+      "website": "https://www.galleriesnow.net/shows/harmony-korine-ux-lam/",
+      "workPage": "https://www.galleriesnow.net/shows/harmony-korine-ux-lam/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Harmony Korine. UX LAM",
+      "classicDesc": "展覽資料記錄包含繪畫。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "New York",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-16",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Hauser & Wirth 18th Street",
+      "venue": "Hauser & Wirth 18th Street，443 West 18th Street, NY 10011, New York",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/harmony-korine-ux-lam/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2024/02/Hauser-Wirth-18th-St.jpg",
+      "imageCredit": "© 藝術家與 Hauser & Wirth 18th Street；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-2ac6f4d53c13",
+      "dedupeKey": "exhibition:galleriesnow:ai-sogawa-campbell-natsu-amy-m-yamamoto",
+      "name": "018｜GOCA by Garde｜In Passing",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "New York Chelsea"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "In Passing｜2026-11-12 至 2026-12-10",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/ai-sogawa-campbell-natsu-amy-m-yamamoto/",
+      "workPage": "https://www.galleriesnow.net/shows/ai-sogawa-campbell-natsu-amy-m-yamamoto/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "In Passing",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "New York",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2026-12-10",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "GOCA by Garde",
+      "venue": "GOCA by Garde，515 W 23rd St, NY 10011, New York",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sun 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/ai-sogawa-campbell-natsu-amy-m-yamamoto/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/04/GOCA-exterior.webp",
+      "imageCredit": "© 藝術家與 GOCA by Garde；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-4b8556521ce9",
+      "dedupeKey": "exhibition:galleriesnow:james-turrell-4",
+      "name": "019｜Almine Rech｜James Turrell: Something Old, Something New, Something Borrowed, Something Blue",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "James Turrell: Something Old, Something New, Something Borrowed, Something Blue｜2026-11-12 至 2027-01-30",
+      "comment": "呈現十五件以上作品，追蹤 Turrell 對光、色彩與觀看經驗的持續研究。",
+      "website": "https://www.galleriesnow.net/shows/james-turrell-4/",
+      "workPage": "https://www.galleriesnow.net/shows/james-turrell-4/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "James Turrell: Something Old, Something New, Something Borrowed, Something Blue",
+      "classicDesc": "呈現十五件以上作品，追蹤 Turrell 對光、色彩與觀看經驗的持續研究。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "New York",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "turn121072971view1",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-30",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Almine Rech",
+      "venue": "Almine Rech，361 Broadway, NY 10013, New York, United States",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/james-turrell-4/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2024/07/Almine-Rech-Tribeca.jpg",
+      "imageCredit": "© 藝術家與 Almine Rech；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-eb6482a4b9d9",
+      "dedupeKey": "exhibition:galleriesnow:laurie-simmons-walking-objects",
+      "name": "020｜Edwynn Houk Gallery｜Laurie Simmons: Walking Objects, Legs & Shoes",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "攝影"
+      ],
+      "works": "Laurie Simmons: Walking Objects, Legs & Shoes｜2026-11-12 至 2026-12-23",
+      "comment": "展覽資料記錄包含攝影。",
+      "website": "https://www.galleriesnow.net/shows/laurie-simmons-walking-objects/",
+      "workPage": "https://www.galleriesnow.net/shows/laurie-simmons-walking-objects/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Laurie Simmons: Walking Objects, Legs & Shoes",
+      "classicDesc": "展覽資料記錄包含攝影。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "New York",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2026-12-23",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Edwynn Houk Gallery",
+      "venue": "Edwynn Houk Gallery，693 Fifth Avenue, 6th Floor, NY 10022, New York",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/laurie-simmons-walking-objects/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/04/LS-OBJ015B-M-image-1.jpg",
+      "imageCredit": "© 藝術家與 Edwynn Houk Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-e0eae8ea4511",
+      "dedupeKey": "exhibition:galleriesnow:michael-rosenfeld-gallery-at-adaa-fair-alfonso-ossorio-selections-1949-1953",
+      "name": "021｜Michael Rosenfeld Gallery｜Michael Rosenfeld Gallery at ADAA Fair: Alfonso Ossorio: Selections, 1949-1953",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Michael Rosenfeld Gallery at ADAA Fair: Alfonso Ossorio: Selections, 1949-1953｜2026-11-12 至 2026-11-16",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/michael-rosenfeld-gallery-at-adaa-fair-alfonso-ossorio-selections-1949-1953/",
+      "workPage": "https://www.galleriesnow.net/shows/michael-rosenfeld-gallery-at-adaa-fair-alfonso-ossorio-selections-1949-1953/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Michael Rosenfeld Gallery at ADAA Fair: Alfonso Ossorio: Selections, 1949-1953",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "New York",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "New York",
+          "date": "2026-11-16",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn885996493view2",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-16",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Michael Rosenfeld Gallery",
+      "venue": "Michael Rosenfeld Gallery，100 11th Avenue, NY 10011, New York, United States",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/michael-rosenfeld-gallery-at-adaa-fair-alfonso-ossorio-selections-1949-1953/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Michael Rosenfeld Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-5bbc1b466ced",
+      "dedupeKey": "exhibition:galleriesnow:mike-kelley-jerry-meandering",
+      "name": "022｜Hauser & Wirth 18th Street｜Mike Kelley: Jerry Meandering",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約",
+        "New York Chelsea"
+      ],
+      "media": [
+        "版畫"
+      ],
+      "works": "Mike Kelley: Jerry Meandering｜2026-11-12 至 2027-01-16",
+      "comment": "聚焦 Kelley 就讀密西根大學時期的版畫、混合媒材素描與拼貼，部分作品首次公開。",
+      "website": "https://www.galleriesnow.net/shows/mike-kelley-jerry-meandering/",
+      "workPage": "https://www.galleriesnow.net/shows/mike-kelley-jerry-meandering/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Mike Kelley: Jerry Meandering",
+      "classicDesc": "聚焦 Kelley 就讀密西根大學時期的版畫、混合媒材素描與拼貼，部分作品首次公開。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "New York",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-16",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Hauser & Wirth 18th Street",
+      "venue": "Hauser & Wirth 18th Street，443 West 18th Street, NY 10011, New York",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/mike-kelley-jerry-meandering/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2024/02/Hauser-Wirth-18th-St.jpg",
+      "imageCredit": "© 藝術家與 Hauser & Wirth 18th Street；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-60b25041d7cc",
+      "dedupeKey": "exhibition:galleriesnow:a-winters-tale",
+      "name": "023｜Vivienne Roberts Projects｜A Winter’s Tale",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "繪畫",
+        "雕塑",
+        "版畫"
+      ],
+      "works": "A Winter’s Tale｜2026-11-17 至 2027-01-22",
+      "comment": "展覽資料記錄包含繪畫、雕塑、版畫。",
+      "website": "https://www.galleriesnow.net/shows/a-winters-tale/",
+      "workPage": "https://www.galleriesnow.net/shows/a-winters-tale/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "A Winter’s Tale",
+      "classicDesc": "展覽資料記錄包含繪畫、雕塑、版畫。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-17",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-17",
+      "endDate": "2027-01-22",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Vivienne Roberts Projects",
+      "venue": "Vivienne Roberts Projects，The Bindery, 53 Hatton Garden, EC1N 8HN, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/a-winters-tale/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Pat-Andrea-Dont-look-now-casein-and-oil-on-wood-18-x-23-cm-2026_RGB.webp",
+      "imageCredit": "© 藝術家與 Vivienne Roberts Projects；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-2edad7930a72",
+      "dedupeKey": "exhibition:galleriesnow:a-surface-freak",
+      "name": "024｜NıCOLETTı｜A surface freak",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "A surface freak｜2026-11-13 至 2026-12-19",
+      "comment": "由 Salomé Burstein 策劃，以不同作品揭露可見表面背後的生成機制。",
+      "website": "https://www.galleriesnow.net/shows/a-surface-freak/",
+      "workPage": "https://www.galleriesnow.net/shows/a-surface-freak/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "A surface freak",
+      "classicDesc": "由 Salomé Burstein 策劃，以不同作品揭露可見表面背後的生成機制。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "NıCOLETTı",
+      "venue": "NıCOLETTı，91 Paul Street, EC2A 4NY, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Wed-Sat 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/a-surface-freak/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/A-surface-freak-Nicoletti.webp",
+      "imageCredit": "© 藝術家與 NıCOLETTı；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-b32ab04e2080",
+      "dedupeKey": "exhibition:galleriesnow:alchemies-may-cockcroft-nour-malas-sarah-martin-nuss",
+      "name": "025｜Victoria Miro｜Alchemies: May Cockcroft, Nour Malas, Sarah Martin-Nuss",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Alchemies: May Cockcroft, Nour Malas, Sarah Martin-Nuss｜2026-11-13 至 2027-01-23",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/alchemies-may-cockcroft-nour-malas-sarah-martin-nuss/",
+      "workPage": "https://www.galleriesnow.net/shows/alchemies-may-cockcroft-nour-malas-sarah-martin-nuss/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Alchemies: May Cockcroft, Nour Malas, Sarah Martin-Nuss",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn885996493view0",
+      "startDate": "2026-11-13",
+      "endDate": "2027-01-23",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Victoria Miro",
+      "venue": "Victoria Miro，16 Wharf Road, N1 7RW, London, United Kingdom",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/alchemies-may-cockcroft-nour-malas-sarah-martin-nuss/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Victoria Miro；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-1660bdd28252",
+      "dedupeKey": "exhibition:galleriesnow:extinction-point",
+      "name": "026｜THE TAGLI｜Andreas Stylianou: Extinction Point",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London West End"
+      ],
+      "media": [
+        "陶瓷"
+      ],
+      "works": "Andreas Stylianou: Extinction Point｜2026-11-17 至 2026-11-22",
+      "comment": "展覽資料記錄包含陶瓷。",
+      "website": "https://www.galleriesnow.net/shows/extinction-point/",
+      "workPage": "https://www.galleriesnow.net/shows/extinction-point/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Andreas Stylianou: Extinction Point",
+      "classicDesc": "展覽資料記錄包含陶瓷。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-17",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-22",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "THE TAGLI",
+      "venue": "THE TAGLI，67 Great Titchfield Street, W1W 7PT, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Mon-Sat 10am-7pm, Sun 11am-4pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/extinction-point/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/05-Moon-Landing-X-frontLOW.jpeg",
+      "imageCredit": "© 藝術家與 THE TAGLI；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-644194409b4f",
+      "dedupeKey": "exhibition:galleriesnow:elina-yumasheva-an-enquiry-into-colour-and-matter",
+      "name": "027｜Pi Artworks｜Elina Yumasheva: An Enquiry into Colour and Matter",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Elina Yumasheva: An Enquiry into Colour and Matter｜2026-11-13 至 2026-11-28",
+      "comment": "展覽資料記錄包含繪畫。",
+      "website": "https://www.galleriesnow.net/shows/elina-yumasheva-an-enquiry-into-colour-and-matter/",
+      "workPage": "https://www.galleriesnow.net/shows/elina-yumasheva-an-enquiry-into-colour-and-matter/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Elina Yumasheva: An Enquiry into Colour and Matter",
+      "classicDesc": "展覽資料記錄包含繪畫。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-28",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Pi Artworks",
+      "venue": "Pi Artworks，6 Perseverance Works, E2 7NX, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 12-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/elina-yumasheva-an-enquiry-into-colour-and-matter/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/Elina-Yumasheva-Pi-Artworks.webp",
+      "imageCredit": "© 藝術家與 Pi Artworks；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-e2377ded43ec",
+      "dedupeKey": "exhibition:galleriesnow:evelina-hagglund-on-how-to-stand-in-a-world-on-fire",
+      "name": "028｜Alma Pearl｜Evelina Hägglund: On How to Stand in a World on Fire",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "繪畫",
+        "雕塑"
+      ],
+      "works": "Evelina Hägglund: On How to Stand in a World on Fire｜2026-11-12 至 2027-01-09",
+      "comment": "展覽資料記錄包含繪畫、雕塑。",
+      "website": "https://www.galleriesnow.net/shows/evelina-hagglund-on-how-to-stand-in-a-world-on-fire/",
+      "workPage": "https://www.galleriesnow.net/shows/evelina-hagglund-on-how-to-stand-in-a-world-on-fire/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Evelina Hägglund: On How to Stand in a World on Fire",
+      "classicDesc": "展覽資料記錄包含繪畫、雕塑。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Alma Pearl",
+      "venue": "Alma Pearl，Unit T, Reliance Wharf, 2-10 Hertford Road, N1 5ET, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Thu-Sat 12-6pm & by appointment。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/evelina-hagglund-on-how-to-stand-in-a-world-on-fire/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/Evelina-Hagglund-Alma-Pearl.webp",
+      "imageCredit": "© 藝術家與 Alma Pearl；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-9f811a9166fc",
+      "dedupeKey": "exhibition:galleriesnow:jean-fautrier-alchemy-in-print",
+      "name": "029｜Emanuel von Baeyer｜Jean Fautrier: Alchemy in Print",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Jean Fautrier: Alchemy in Print｜2026-11-12 至 2026-11-27",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/jean-fautrier-alchemy-in-print/",
+      "workPage": "https://www.galleriesnow.net/shows/jean-fautrier-alchemy-in-print/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Jean Fautrier: Alchemy in Print",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn816500522view7",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-27",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Emanuel von Baeyer",
+      "venue": "Emanuel von Baeyer，18 Cecil Court, WC2N 4HE, London, United Kingdom",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/jean-fautrier-alchemy-in-print/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Emanuel von Baeyer；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-e1ba257403e7",
+      "dedupeKey": "exhibition:galleriesnow:louis-wootton-davies-the-chippys-got-rid-of-its-fruit-machine",
+      "name": "030｜Twilight Contemporary｜Louis Wootton-Davies: The Chippy’s Got Rid of Its Fruit Machine",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Louis Wootton-Davies: The Chippy’s Got Rid of Its Fruit Machine｜2026-11-12 至 2026-12-05",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/louis-wootton-davies-the-chippys-got-rid-of-its-fruit-machine/",
+      "workPage": "https://www.galleriesnow.net/shows/louis-wootton-davies-the-chippys-got-rid-of-its-fruit-machine/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Louis Wootton-Davies: The Chippy’s Got Rid of Its Fruit Machine",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2026-12-05",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Twilight Contemporary",
+      "venue": "Twilight Contemporary，378 Essex Road, N1 3PF, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Thu-Sat 12-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/louis-wootton-davies-the-chippys-got-rid-of-its-fruit-machine/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/The-Chippys-Got-Rid-Of-Its-Fruit-Machine-Oil-on-Board-85-x-120-cm-2026.webp",
+      "imageCredit": "© 藝術家與 Twilight Contemporary；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-9bacad71e2f9",
+      "dedupeKey": "exhibition:galleriesnow:michael-green",
+      "name": "031｜Green Gallery｜Michael Green Collection",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Michael Green Collection｜2026-11-13 至 2026-12-20",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/michael-green/",
+      "workPage": "https://www.galleriesnow.net/shows/michael-green/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Michael Green Collection",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-11",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "London",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2026-12-20",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Green Gallery",
+      "venue": "Green Gallery，127 Lee Road, Blackheath, SE3 9DS, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Fri-Sun 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/michael-green/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/09/Green-Gallery-exterior.webp",
+      "imageCredit": "© 藝術家與 Green Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-5147b2231302",
+      "dedupeKey": "exhibition:galleriesnow:bo-sun-and-nassim-lghoul-point-nemo",
+      "name": "033｜Tache｜Nassim L’Ghoul and Bo Sun: Point Nemo",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London West End"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Nassim L’Ghoul and Bo Sun: Point Nemo｜2026-11-13 至 2026-12-16",
+      "comment": "透過裝置、雕塑與動態影像展開雙人對話，連結人工結構、感知與環境。",
+      "website": "https://www.galleriesnow.net/shows/bo-sun-and-nassim-lghoul-point-nemo/",
+      "workPage": "https://www.galleriesnow.net/shows/bo-sun-and-nassim-lghoul-point-nemo/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Nassim L’Ghoul and Bo Sun: Point Nemo",
+      "classicDesc": "透過裝置、雕塑與動態影像展開雙人對話，連結人工結構、感知與環境。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "London",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2026-12-16",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Tache",
+      "venue": "Tache，36 Newman Street, W1T 1PZ, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 11am-6pm, Sat 12-4pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/bo-sun-and-nassim-lghoul-point-nemo/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Nassim-LGhoul-Tache.webp",
+      "imageCredit": "© 藝術家與 Tache；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-8db2cf096395",
+      "dedupeKey": "exhibition:galleriesnow:project-space-lily-bunney",
+      "name": "034｜Gazelli Art House｜Project Space: Lily Bunney",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Project Space: Lily Bunney｜2026-11-13 至 2026-12-18",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/project-space-lily-bunney/",
+      "workPage": "https://www.galleriesnow.net/shows/project-space-lily-bunney/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Project Space: Lily Bunney",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-17",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn885996493view1",
+      "startDate": "2026-11-13",
+      "endDate": "2026-12-18",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Gazelli Art House",
+      "venue": "Gazelli Art House，39 Dover Street, W1S 4NN, London, United Kingdom",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/project-space-lily-bunney/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Gazelli Art House；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-801ec9386a3d",
+      "dedupeKey": "exhibition:galleriesnow:ragna-bley-oyster",
+      "name": "035｜Pilar Corrias, Conduit Street｜Ragna Bley: Oyster",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London West End"
+      ],
+      "media": [
+        "繪畫",
+        "雕塑"
+      ],
+      "works": "Ragna Bley: Oyster｜2026-11-13 至 2027-01-23",
+      "comment": "將新雕塑和大型繪畫並置，研究畫面、環境與分類之間不穩定的邊界。",
+      "website": "https://www.galleriesnow.net/shows/ragna-bley-oyster/",
+      "workPage": "https://www.galleriesnow.net/shows/ragna-bley-oyster/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Ragna Bley: Oyster",
+      "classicDesc": "將新雕塑和大型繪畫並置，研究畫面、環境與分類之間不穩定的邊界。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "London",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2027-01-23",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Pilar Corrias, Conduit Street",
+      "venue": "Pilar Corrias, Conduit Street，51 Conduit Street, W1S 2YT, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 10am-6pm, Sat 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/ragna-bley-oyster/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2025/02/Pilar-Corrias-Conduit-Street.webp",
+      "imageCredit": "© 藝術家與 Pilar Corrias, Conduit Street；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-2aa50243bfab",
+      "dedupeKey": "exhibition:galleriesnow:richard-woods-the-spirit-level-show",
+      "name": "036｜domobaal｜Richard Woods: The Spirit Level Show",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "裝置"
+      ],
+      "works": "Richard Woods: The Spirit Level Show｜2026-11-14 至 2026-12-19",
+      "comment": "以一百件自製水平尺組成單一裝置，用日常測量工具回應身處失衡世界的經驗。",
+      "website": "https://www.galleriesnow.net/shows/richard-woods-the-spirit-level-show/",
+      "workPage": "https://www.galleriesnow.net/shows/richard-woods-the-spirit-level-show/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Richard Woods: The Spirit Level Show",
+      "classicDesc": "以一百件自製水平尺組成單一裝置，用日常測量工具回應身處失衡世界的經驗。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-14",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-14",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "domobaal",
+      "venue": "domobaal，3 John Street, WC1N 2ES, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Thu-Sat 12-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/richard-woods-the-spirit-level-show/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/09/richard-woods-2026-domobaal-02.jpg",
+      "imageCredit": "© 藝術家與 domobaal；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-0216615f3198",
+      "dedupeKey": "exhibition:galleriesnow:roman-korovin-garbage-bag-and-a-pole",
+      "name": "037｜NISO｜Roman Korovin: Garbage Bag and a Pole",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Roman Korovin: Garbage Bag and a Pole｜2026-11-12 至 2027-01-16",
+      "comment": "展覽資料記錄包含繪畫。",
+      "website": "https://www.galleriesnow.net/shows/roman-korovin-garbage-bag-and-a-pole/",
+      "workPage": "https://www.galleriesnow.net/shows/roman-korovin-garbage-bag-and-a-pole/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Roman Korovin: Garbage Bag and a Pole",
+      "classicDesc": "展覽資料記錄包含繪畫。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-16",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "NISO",
+      "venue": "NISO，110 New Cavendish Street, W1W 6XR, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Wed-Sat 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/roman-korovin-garbage-bag-and-a-pole/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Roman-Korovin-NISO.webp",
+      "imageCredit": "© 藝術家與 NISO；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-8d101e36c650",
+      "dedupeKey": "exhibition:galleriesnow:susan-stockwell-make-do-and-mend",
+      "name": "038｜Patrick Heide Contemporary Art｜Susan Stockwell: Make-do and Mend",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Susan Stockwell: Make-do and Mend｜2026-11-13 至 2027-01-09",
+      "comment": "以修補作為照護與資源再利用的方法，連結權力、財富、生態、家務與日常政治。",
+      "website": "https://www.galleriesnow.net/shows/susan-stockwell-make-do-and-mend/",
+      "workPage": "https://www.galleriesnow.net/shows/susan-stockwell-make-do-and-mend/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Susan Stockwell: Make-do and Mend",
+      "classicDesc": "以修補作為照護與資源再利用的方法，連結權力、財富、生態、家務與日常政治。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "London",
+          "date": "2026-11-13",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-13",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Patrick Heide Contemporary Art",
+      "venue": "Patrick Heide Contemporary Art，11 Church Street, NW8 8EE, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Wed-Sat 12-5pm, or by appointment。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/susan-stockwell-make-do-and-mend/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/09/Susan-Stockwell-Patrick-Heide.webp",
+      "imageCredit": "© 藝術家與 Patrick Heide Contemporary Art；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-8300d9e6073d",
+      "dedupeKey": "exhibition:galleriesnow:what-would-peggy-show",
+      "name": "039｜Holtermann Fine Art｜What would Peggy show?",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London West End"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "What would Peggy show?｜2026-11-17 至 2027-02-27",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/what-would-peggy-show/",
+      "workPage": "https://www.galleriesnow.net/shows/what-would-peggy-show/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "What would Peggy show?",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-17",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-17",
+      "endDate": "2027-02-27",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Holtermann Fine Art",
+      "venue": "Holtermann Fine Art，30 Cork St, W1S 3NG, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 11am-6pm, Sat 11am-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/what-would-peggy-show/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2021/04/HFA_WINDOWdogs.jpg",
+      "imageCredit": "© 藝術家與 Holtermann Fine Art；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-6b3c0ff26a91",
+      "dedupeKey": "exhibition:galleriesnow:pablo-atchugarry",
+      "name": "062｜Opera Gallery｜Pablo Atchugarry",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "西班牙 / Madrid",
+      "cityKeywords": [
+        "Madrid",
+        "馬德里"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Pablo Atchugarry｜2026-11-12 至 2026-12-12",
+      "comment": "展覽資料記錄包含雕塑。",
+      "website": "https://www.galleriesnow.net/shows/pablo-atchugarry/",
+      "workPage": "https://www.galleriesnow.net/shows/pablo-atchugarry/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Pablo Atchugarry",
+      "classicDesc": "展覽資料記錄包含雕塑。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Madrid",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2026-12-12",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Opera Gallery",
+      "venue": "Opera Gallery，Calle de Serrano 56, 28001, Madrid",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Mon-Fri 10am-8pm, Sat 11am-8pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/pablo-atchugarry/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/Pablo-Atchugarry_Opera-Gallery-Madrid.webp",
+      "imageCredit": "© 藝術家與 Opera Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-7ac50a18bb2e",
+      "dedupeKey": "exhibition:galleriesnow:seung-ah-paik-floating-islands",
+      "name": "063｜Gladstone｜Seung Ah Paik: Floating Islands",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "韓國 / Seoul",
+      "cityKeywords": [
+        "Seoul",
+        "首爾"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Seung Ah Paik: Floating Islands｜2026-11-12 至 2027-01-09",
+      "comment": "以自身身體及向下觀看的視角為題，將不同觀點疊合為大型多聯繪畫，探問身體邊界如何被看見。",
+      "website": "https://www.galleriesnow.net/shows/seung-ah-paik-floating-islands/",
+      "workPage": "https://www.galleriesnow.net/shows/seung-ah-paik-floating-islands/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Seung Ah Paik: Floating Islands",
+      "classicDesc": "以自身身體及向下觀看的視角為題，將不同觀點疊合為大型多聯繪畫，探問身體邊界如何被看見。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Seoul",
+          "date": "2026-11-12",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-12",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Gladstone",
+      "venue": "Gladstone，1 Itaewon-ro 55ga-gil, Yongsan-gu",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/seung-ah-paik-floating-islands/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/09/Gladstone-Seoul.webp",
+      "imageCredit": "© 藝術家與 Gladstone；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-704adcdbfe9f",
+      "dedupeKey": "exhibition:galleriesnow:attilio-tono-rethinking-moulds",
+      "name": "064｜SHENME ART Project & Consultancy｜Attilio Tono: Rethinking Moulds",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "中國 / Shanghai",
+      "cityKeywords": [
+        "Shanghai",
+        "上海"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Attilio Tono: Rethinking Moulds｜2026-11-10 至 2027-01-05",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/attilio-tono-rethinking-moulds/",
+      "workPage": "https://www.galleriesnow.net/shows/attilio-tono-rethinking-moulds/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Attilio Tono: Rethinking Moulds",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/whats-on-today/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Shanghai",
+          "date": "2026-11-10",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "Shanghai",
+          "date": "2026-11-10",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-10",
+      "endDate": "2027-01-05",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "SHENME ART Project & Consultancy",
+      "venue": "SHENME ART Project & Consultancy，9339 Hu Min Road, Shanghai",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：By Appointment。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/attilio-tono-rethinking-moulds/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/SHENME.webp",
+      "imageCredit": "© 藝術家與 SHENME ART Project & Consultancy；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-41e464470e89",
+      "dedupeKey": "exhibition:galleriesnow:ink-unbound-new-ink-series-chapter-iii",
+      "name": "065｜Bluerider ART Shanghai｜Ink Unbound - New Ink Series Chapter III",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "中國 / Shanghai",
+      "cityKeywords": [
+        "Shanghai",
+        "上海"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Ink Unbound - New Ink Series Chapter III｜2026-11-07 至 2026-12-31",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/ink-unbound-new-ink-series-chapter-iii/",
+      "workPage": "https://www.galleriesnow.net/shows/ink-unbound-new-ink-series-chapter-iii/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Ink Unbound - New Ink Series Chapter III",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Shanghai",
+          "date": "2026-11-07",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-07",
+      "endDate": "2026-12-31",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Bluerider ART Shanghai",
+      "venue": "Bluerider ART Shanghai，No. 133 Sichuan Middle Rd., Huangpu Dist., Shanghai",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sun 9.30am-6.30pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/ink-unbound-new-ink-series-chapter-iii/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Bluerider-ART-Shanghai-Ink-Unbound-2.webp",
+      "imageCredit": "© 藝術家與 Bluerider ART Shanghai；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-8ac33b015a3d",
+      "dedupeKey": "exhibition:galleriesnow:lynn-chadwick-hypercycle-chapter-iii-vigilants-1978-1995",
+      "name": "066｜Perrotin Shanghai｜Lynn Chadwick: Hypercycle / Chapter III: Vigilants (1978-1995)",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "中國 / Shanghai",
+      "cityKeywords": [
+        "Shanghai",
+        "上海"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Lynn Chadwick: Hypercycle / Chapter III: Vigilants (1978-1995)｜2026-11-09 至 2026-12-23",
+      "comment": "跨三洲回顧計畫的最後一章，由 Matthieu Poirier 策劃，聚焦 Chadwick 晚期成熟的雕塑語彙。",
+      "website": "https://www.galleriesnow.net/shows/lynn-chadwick-hypercycle-chapter-iii-vigilants-1978-1995/",
+      "workPage": "https://www.galleriesnow.net/shows/lynn-chadwick-hypercycle-chapter-iii-vigilants-1978-1995/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Lynn Chadwick: Hypercycle / Chapter III: Vigilants (1978-1995)",
+      "classicDesc": "跨三洲回顧計畫的最後一章，由 Matthieu Poirier 策劃，聚焦 Chadwick 晚期成熟的雕塑語彙。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Shanghai",
+          "date": "2026-11-09",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-09",
+      "endDate": "2026-12-23",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Perrotin Shanghai",
+      "venue": "Perrotin Shanghai，3/F, 27 Huqiu Road, Huangpu District, 200002, Shanghai",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-7pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/lynn-chadwick-hypercycle-chapter-iii-vigilants-1978-1995/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2022/02/SHANGHAI-PERROTIN-Photo-Ringo-Cheung.jpg",
+      "imageCredit": "© 藝術家與 Perrotin Shanghai；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-c935317c2dfc",
+      "dedupeKey": "exhibition:galleriesnow:sean-scully-5",
+      "name": "067｜Lisson｜Sean Scully",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "中國 / Shanghai",
+      "cityKeywords": [
+        "Shanghai",
+        "上海"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Sean Scully｜2026-11-09 至 2027-01-30",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/sean-scully-5/",
+      "workPage": "https://www.galleriesnow.net/shows/sean-scully-5/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Sean Scully",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Shanghai",
+          "date": "2026-11-09",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-09",
+      "endDate": "2027-01-30",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Lisson",
+      "venue": "Lisson，2/F, 27 Huqiu Road, Huangpu District, 200002, Shanghai",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/sean-scully-5/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2019/11/Lisson-Shanghai-260x260.jpg",
+      "imageCredit": "© 藝術家與 Lisson；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-199a503155df",
+      "dedupeKey": "exhibition:galleriesnow:tom-wesselmann-the-greatness-of-the-everyday",
+      "name": "068｜Almine Rech｜Tom Wesselmann: The Greatness of the Everyday",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "中國 / Shanghai",
+      "cityKeywords": [
+        "Shanghai",
+        "上海"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Tom Wesselmann: The Greatness of the Everyday｜2026-11-09 至 2027-01-09",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/tom-wesselmann-the-greatness-of-the-everyday/",
+      "workPage": "https://www.galleriesnow.net/shows/tom-wesselmann-the-greatness-of-the-everyday/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Tom Wesselmann: The Greatness of the Everyday",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Shanghai",
+          "date": "2026-11-09",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-09",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Almine Rech",
+      "venue": "Almine Rech，27 Huqiu Road, 2nd Floor, 200002, Shanghai",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-7pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/tom-wesselmann-the-greatness-of-the-everyday/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Almine-Rech-TW0292-TOM-WESSELMANN-1977.webp",
+      "imageCredit": "© 藝術家與 Almine Rech；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-21e6c7cdf519",
+      "dedupeKey": "exhibition:galleriesnow:guido-casaretto-the-sea-peoples",
+      "name": "071｜SANATORIUM｜Guido Casaretto: The Sea Peoples",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "南亞/中東",
+      "country": "土耳其 / Istanbul",
+      "cityKeywords": [
+        "Istanbul",
+        "伊斯坦堡"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Guido Casaretto: The Sea Peoples｜2026-11-05 至 2026-12-26",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/guido-casaretto-the-sea-peoples/",
+      "workPage": "https://www.galleriesnow.net/shows/guido-casaretto-the-sea-peoples/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Guido Casaretto: The Sea Peoples",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Istanbul",
+          "date": "2026-11-05",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-05",
+      "endDate": "2026-12-26",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "SANATORIUM",
+      "venue": "SANATORIUM，Emekyemez Mahallesi, Abdussalah Sokak, No:3, 34421, Istanbul",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-7pm, Sun 12-5pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/guido-casaretto-the-sea-peoples/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/SANATORIUM-Guido-Casaretto-3.webp",
+      "imageCredit": "© 藝術家與 SANATORIUM；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-1e60d9dd85c7",
+      "dedupeKey": "exhibition:galleriesnow:focus-on-ambrose-rhapsody-murray",
+      "name": "072｜Galerie Kandlhofer｜Focus On: Ambrose Rhapsody Murray: Knoxville Girl",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "維也納"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Focus On: Ambrose Rhapsody Murray: Knoxville Girl｜2026-11-06 至 2026-12-05",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/focus-on-ambrose-rhapsody-murray/",
+      "workPage": "https://www.galleriesnow.net/shows/focus-on-ambrose-rhapsody-murray/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Focus On: Ambrose Rhapsody Murray: Knoxville Girl",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Vienna",
+          "date": "2026-11-05",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "city": "Vienna",
+          "date": "2026-11-06",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-06",
+      "endDate": "2026-12-05",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Galerie Kandlhofer",
+      "venue": "Galerie Kandlhofer，Brucknerstrasse 4, 1040, Vienna",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 11am-6pm, Sat 11am-4pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/focus-on-ambrose-rhapsody-murray/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Galerie-Kanldhofer-Ambrose-Rhapsody-Murray-1.webp",
+      "imageCredit": "© 藝術家與 Galerie Kandlhofer；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-edcff2f5a717",
+      "dedupeKey": "exhibition:galleriesnow:franz-west-9",
+      "name": "073｜MEYER*KAINER｜Franz West",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "維也納"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Franz West｜2026-11-07 至 2026-12-19",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/franz-west-9/",
+      "workPage": "https://www.galleriesnow.net/shows/franz-west-9/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Franz West",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Vienna",
+          "date": "2026-11-06",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "city": "Vienna",
+          "date": "2026-11-07",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-07",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "MEYER*KAINER",
+      "venue": "MEYER*KAINER，Eschenbachgasse 9, A-1010",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 12-6pm, Sat 12-4pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/franz-west-9/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/Franz-West-Meyer-Kainer-1.webp",
+      "imageCredit": "© 藝術家與 MEYER*KAINER；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-475716aff6fb",
+      "dedupeKey": "exhibition:galleriesnow:harminder-judge",
+      "name": "074｜Galerie Kandlhofer｜Harminder Judge: Thresholds",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "維也納"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Harminder Judge: Thresholds｜2026-11-06 至 2026-12-05",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/harminder-judge/",
+      "workPage": "https://www.galleriesnow.net/shows/harminder-judge/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Harminder Judge: Thresholds",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Vienna",
+          "date": "2026-11-05",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "city": "Vienna",
+          "date": "2026-11-06",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-06",
+      "endDate": "2026-12-05",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Galerie Kandlhofer",
+      "venue": "Galerie Kandlhofer，Brucknerstrasse 4, 1040, Vienna",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 11am-6pm, Sat 11am-4pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/harminder-judge/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Galerie-Kandlhofer-Harminder-Judge-1.webp",
+      "imageCredit": "© 藝術家與 Galerie Kandlhofer；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-09cb62d4dded",
+      "dedupeKey": "exhibition:galleriesnow:nina-hollein-body-spinners",
+      "name": "075｜Galerie Eva Presenhuber｜Nina Hollein: Body Spinners",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "奧地利 / Vienna",
+      "cityKeywords": [
+        "Vienna",
+        "維也納"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Nina Hollein: Body Spinners｜2026-11-11 至 2026-12-04",
+      "comment": "以介於服裝和雕塑之間的裙裝，研究結構、穿著與身體運動如何互相改變。",
+      "website": "https://www.galleriesnow.net/shows/nina-hollein-body-spinners/",
+      "workPage": "https://www.galleriesnow.net/shows/nina-hollein-body-spinners/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Nina Hollein: Body Spinners",
+      "classicDesc": "以介於服裝和雕塑之間的裙裝，研究結構、穿著與身體運動如何互相改變。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/whats-on-today/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Vienna",
+          "date": "2026-11-10",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "city": "Vienna",
+          "date": "2026-11-11",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-11",
+      "endDate": "2026-12-04",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Galerie Eva Presenhuber",
+      "venue": "Galerie Eva Presenhuber，Lichtenfelsgasse 5, A-1010, Vienna",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri 12-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/nina-hollein-body-spinners/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Galerie-Eva-Presenhuber-Vienna-exterior.webp",
+      "imageCredit": "© 藝術家與 Galerie Eva Presenhuber；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-8bdb7604fb17",
+      "dedupeKey": "exhibition:galleriesnow:alix-cleo-roubaud-2",
+      "name": "076｜Galerie Buchholz｜Alix Cléo Roubaud: Si quelque chose noir",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "攝影"
+      ],
+      "works": "Alix Cléo Roubaud: Si quelque chose noir｜2026-09-10 至 2026-11-14",
+      "comment": "展覽資料記錄包含攝影。",
+      "website": "https://www.galleriesnow.net/shows/alix-cleo-roubaud-2/",
+      "workPage": "https://www.galleriesnow.net/shows/alix-cleo-roubaud-2/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Alix Cléo Roubaud: Si quelque chose noir",
+      "classicDesc": "展覽資料記錄包含攝影。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Berlin",
+          "date": "2026-11-14",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-09-10",
+      "endDate": "2026-11-14",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Galerie Buchholz",
+      "venue": "Galerie Buchholz，Fasanenstraße 30 & 31, 10719, Berlin",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/alix-cleo-roubaud-2/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/Galerie-Buchholz-Berlin-Alix-Cleo-Roubaud-7.webp",
+      "imageCredit": "© 藝術家與 Galerie Buchholz；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-92b26f74e361",
+      "dedupeKey": "exhibition:galleriesnow:jenny-brosinski-make-a-wish",
+      "name": "078｜Esther Schipper｜Jenny Brosinski: Make A Wish",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Jenny Brosinski: Make A Wish｜2026-11-06 至 2026-12-19",
+      "comment": "呈現藝術家與畫廊合作的首次個展新繪畫，觀察疏離、脆弱、幽默與情感在畫面中的並存。",
+      "website": "https://www.galleriesnow.net/shows/jenny-brosinski-make-a-wish/",
+      "workPage": "https://www.galleriesnow.net/shows/jenny-brosinski-make-a-wish/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Jenny Brosinski: Make A Wish",
+      "classicDesc": "呈現藝術家與畫廊合作的首次個展新繪畫，觀察疏離、脆弱、幽默與情感在畫面中的並存。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Berlin",
+          "date": "2026-11-06",
+          "section": "展覽預告",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-11-06",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Esther Schipper",
+      "venue": "Esther Schipper，Potsdamer Strasse 81E, D-10785, Berlin",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/jenny-brosinski-make-a-wish/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Esther-Schipper-Berlin-Jenny-Brosinski-1.webp",
+      "imageCredit": "© 藝術家與 Esther Schipper；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    }
+  ]
+}

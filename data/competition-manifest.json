@@ -1,22 +1,21 @@
 {
-  "version": "20261118-reviewed-r140-tz",
-  "generatedAt": "2026-11-18T20:24:06+08:00",
+  "version": "20261119-reviewed-r142",
+  "generatedAt": "2026-11-19T04:46:51+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 125,
+  "activeEntries": 129,
   "addedToday": 5,
   "addedThisRun": 5,
-  "expiredRemoved": 2,
+  "expiredRemoved": 1,
   "expiredRemovedIds": [
-    "competition-2026-11-09-04",
-    "competition-2026-10-24-04"
+    "competition-2026-11-16-02"
   ],
   "duplicateRemoved": 0,
   "duplicateRemovedIds": [],
   "counts": {
-    "total": 125,
-    "active": 125
+    "total": 129,
+    "active": 129
   },
   "germanAddedToday": 0,
   "scopeRemoved": 0,
@@ -44,5 +43,5 @@
       "oldDeadline": "2026-11-25T16:30:00-07:00"
     }
   ],
-  "note": "11月18日新增5件競圖，保留既有有效清單；依BC省PCT UTC-07及Alberta省ABT UTC-06新時制校正3筆舊案件UTC偏移。"
+  "note": "11月19日新增5則公共藝術專業徵件：1藝術委託預審、3藝術顧問委託、1公共典藏文件製作；保留所有既有未截止項目，僅移除已截止項目。"
 }

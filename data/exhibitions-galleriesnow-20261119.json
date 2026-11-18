@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "date": "2026-11-19",
+    "generatedAt": "2026-11-19T04:48:40+08:00",
+    "total": 5,
+    "note": "今日5則獨立國際展覽；GalleriesNow 列表與17日電子報互核，未混入公共藝術20則或競圖5則。"
+  },
+  "entries": [
+    {
+      "id": "exhibition-gn-655b353737ba",
+      "dedupeKey": "exhibition:galleriesnow:jeonghwa-seo-precise-play",
+      "name": "01｜Carwan Gallery｜Jeonghwa Seo: PRECISE PLAY",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "東亞",
+      "country": "香港 / Hong Kong",
+      "cityKeywords": [
+        "Hong Kong",
+        "香港"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Jeonghwa Seo: PRECISE PLAY｜2026-11-20 至 2027-02-20",
+      "comment": "以過去十年的代表作及新委託作品，呈現韓國設計師暨藝術家 Jeonghwa Seo 的材料與空間實踐，也是 Carwan 亞洲新空間的開幕展。",
+      "website": "https://www.galleriesnow.net/shows/jeonghwa-seo-precise-play/",
+      "workPage": "https://www.galleriesnow.net/shows/jeonghwa-seo-precise-play/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Jeonghwa Seo: PRECISE PLAY",
+      "classicDesc": "以過去十年的代表作及新委託作品，呈現韓國設計師暨藝術家 Jeonghwa Seo 的材料與空間實踐，也是 Carwan 亞洲新空間的開幕展。",
+      "status": "可信二手來源",
+      "updated": "2026-11-19",
+      "collectionDate": "2026-11-19",
+      "sourceCheckedDate": "2026-11-19",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2027-02-20",
+      "exhibitionStatus": "即將開幕",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Carwan Gallery",
+      "venue": "Carwan Gallery，E Tat Factory Building, Floor 9 - Unit A No.4 Heung Yip Road, Wong Chuk Hang, Aberdeen, Hong Kong",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-7pm。出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/jeonghwa-seo-precise-play/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Carwan-Gallery-Jeonghwa-Seo-15.webp",
+      "imageCredit": "© 藝術家與 Carwan Gallery；圖片刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    },
+    {
+      "id": "exhibition-gn-423a5c9c8ac9",
+      "dedupeKey": "exhibition:galleriesnow:nan-goldin-you-never-did-anything-wrong-2",
+      "name": "02｜Hayward Gallery｜Nan Goldin: You Never Did Anything Wrong",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "光/影像/投影"
+      ],
+      "works": "Nan Goldin: You Never Did Anything Wrong｜2026-11-24 至 2027-03-14",
+      "comment": "以電影、攝影與檔案影像呈現 Goldin 的創作及社會行動，探討個人經驗如何與政治參與交織。",
+      "website": "https://www.galleriesnow.net/shows/nan-goldin-you-never-did-anything-wrong-2/",
+      "workPage": "https://www.galleriesnow.net/shows/nan-goldin-you-never-did-anything-wrong-2/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Nan Goldin: You Never Did Anything Wrong",
+      "classicDesc": "以電影、攝影與檔案影像呈現 Goldin 的創作及社會行動，探討個人經驗如何與政治參與交織。",
+      "status": "可信二手來源",
+      "updated": "2026-11-19",
+      "collectionDate": "2026-11-19",
+      "sourceCheckedDate": "2026-11-19",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-24",
+      "endDate": "2027-03-14",
+      "exhibitionStatus": "即將開幕",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Hayward Gallery",
+      "venue": "Hayward Gallery，Belvedere Road, SE1 8XX, London",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Fri & Sun 10am-6pm, Sat 10am-8pm。出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/nan-goldin-you-never-did-anything-wrong-2/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/07/Nan-Goldin-Hayward-Gallery-thumb.webp",
+      "imageCredit": "© 藝術家與 Hayward Gallery；圖片刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    },
+    {
+      "id": "exhibition-gn-2cb99d9e7fc2",
+      "dedupeKey": "exhibition:galleriesnow:shaping-the-possible",
+      "name": "03｜Bigaignon｜Shaping the Possible",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "法國 / Paris",
+      "cityKeywords": [
+        "Paris",
+        "巴黎"
+      ],
+      "media": [
+        "光/影像/投影"
+      ],
+      "works": "Shaping the Possible｜2026-11-21 至 2027-01-16",
+      "comment": "集結二十位藝術家，在攝影發明兩百年的背景下，重新檢視媒介邊界及仍然可能出現的創作方式。",
+      "website": "https://www.galleriesnow.net/shows/shaping-the-possible/",
+      "workPage": "https://www.galleriesnow.net/shows/shaping-the-possible/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Shaping the Possible",
+      "classicDesc": "集結二十位藝術家，在攝影發明兩百年的背景下，重新檢視媒介邊界及仍然可能出現的創作方式。",
+      "status": "可信二手來源",
+      "updated": "2026-11-19",
+      "collectionDate": "2026-11-19",
+      "sourceCheckedDate": "2026-11-19",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2027-01-16",
+      "exhibitionStatus": "即將開幕",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Bigaignon",
+      "venue": "Bigaignon，18, rue du Bourg-Tibourg, 75004, Paris",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-7pm。出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/shaping-the-possible/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Bigaignon_Shaping-the-Possible.webp",
+      "imageCredit": "© 藝術家與 Bigaignon；圖片刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    },
+    {
+      "id": "exhibition-gn-edd21a70987a",
+      "dedupeKey": "exhibition:galleriesnow:lan-chung-hsuan-under-the-blue-sky",
+      "name": "04｜Each Modern｜Lan Chung-Hsuan: Under the Blue Sky",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "東亞",
+      "country": "台灣 / Taipei",
+      "cityKeywords": [
+        "Taipei",
+        "臺北"
+      ],
+      "media": [
+        "繪畫"
+      ],
+      "works": "Lan Chung-Hsuan: Under the Blue Sky｜2026-11-21 至 2026-12-31",
+      "comment": "以歷史與當代屠殺事件的檔案影像為起點，在畫面中的亡者身上覆以藍天白雲，追問觀看悲劇時觀眾所處的位置。",
+      "website": "https://www.galleriesnow.net/shows/lan-chung-hsuan-under-the-blue-sky/",
+      "workPage": "https://www.galleriesnow.net/shows/lan-chung-hsuan-under-the-blue-sky/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Lan Chung-Hsuan: Under the Blue Sky",
+      "classicDesc": "以歷史與當代屠殺事件的檔案影像為起點，在畫面中的亡者身上覆以藍天白雲，追問觀看悲劇時觀眾所處的位置。",
+      "status": "可信二手來源",
+      "updated": "2026-11-19",
+      "collectionDate": "2026-11-19",
+      "sourceCheckedDate": "2026-11-19",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-12-31",
+      "exhibitionStatus": "即將開幕",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Each Modern",
+      "venue": "Each Modern，3F, 97 Sec. 2 DunHua S. Road, 106, Taipei",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Wed-Sat 12.30-6.30pm。出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/lan-chung-hsuan-under-the-blue-sky/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/11/eachmodern-lan-chung-hsuan-under-the-blue-sky-my-lai-2026.webp",
+      "imageCredit": "© 藝術家與 Each Modern；圖片刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    },
+    {
+      "id": "exhibition-gn-caebd94377f7",
+      "dedupeKey": "exhibition:galleriesnow:saskia-noor-van-imhoff-handles-squeezed",
+      "name": "05｜GRIMM｜Saskia Noor van Imhoff: Handles Squeezed",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "荷蘭 / Amsterdam",
+      "cityKeywords": [
+        "Amsterdam",
+        "阿姆斯特丹"
+      ],
+      "media": [
+        "裝置",
+        "平台/策展"
+      ],
+      "works": "Saskia Noor van Imhoff: Handles Squeezed｜2026-11-19 至 2027-01-09",
+      "comment": "以持續進行的收藏機制研究為基礎，探討收藏如何組織階序與知識，並在 GRIMM 阿姆斯特丹新空間展開場域對話。",
+      "website": "https://www.galleriesnow.net/shows/saskia-noor-van-imhoff-handles-squeezed/",
+      "workPage": "https://www.galleriesnow.net/shows/saskia-noor-van-imhoff-handles-squeezed/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Saskia Noor van Imhoff: Handles Squeezed",
+      "classicDesc": "以持續進行的收藏機制研究為基礎，探討收藏如何組織階序與知識，並在 GRIMM 阿姆斯特丹新空間展開場域對話。",
+      "status": "可信二手來源",
+      "updated": "2026-11-19",
+      "collectionDate": "2026-11-19",
+      "sourceCheckedDate": "2026-11-19",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-19",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "GRIMM",
+      "venue": "GRIMM，Leidsegracht 38-40, 1016 CM, Amsterdam",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 11am-6pm。出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/saskia-noor-van-imhoff-handles-squeezed/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/submission-AAW_Saskia-Noor-van-Imhoff_GRIMM-Amsterdam-2026.jpg",
+      "imageCredit": "© 藝術家與 GRIMM；圖片刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    }
+  ]
+}

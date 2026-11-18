@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-19",
+  "timezone": "Asia/Taipei",
+  "dailyArt": 20,
+  "artDistribution": {
+    "current": 10,
+    "globalClassic": 5,
+    "germanClassic": 5
+  },
+  "newOpenCalls": 5,
+  "callTypes": {
+    "公共藝術委託預審": 1,
+    "公共藝術顧問委託": 3,
+    "公共藝術典藏文件製作委託": 1
+  },
+  "dailyExhibitions": 5,
+  "backfilledExhibitions": 209,
+  "exhibitionSourceIssues": [
+    "2026-11-03",
+    "2026-11-06",
+    "2026-11-10"
+  ],
+  "pendingExhibitions": 10,
+  "exhibitionTotal": 264,
+  "activeCalls": 129,
+  "expiredCallsRemoved": [
+    "competition-2026-11-16-02"
+  ],
+  "newDedupeKeysUnique": 239,
+  "notionCreated": 239,
+  "notionReadback": {
+    "exhibitions": 214,
+    "calls": 5,
+    "artPages": 20,
+    "method": "saved view and direct page fetch after SQL allowance exhausted"
+  },
+  "images": {
+    "displayPolicy": "link-only for all new records",
+    "reproductionPermission": "not established",
+    "visualReview": "not completed for all original images",
+    "credit": "primary source/caption retained; unspecified photographers marked for original-page review"
+  },
+  "preserved": [
+    "PublicSpace",
+    "Kunst am Bau",
+    "Land Art Flevoland",
+    "Japan/Korea special archives"
+  ],
+  "sourceDateConflict": [
+    "Milan Mrkusich: source startDate 1957; image caption 1958"
+  ],
+  "verification": {
+    "json": "passed",
+    "nodeSyntax": "passed",
+    "gitDiffCheck": "passed",
+    "browserRendering": "headless Chromium blocked by environment socket permission; no visual-layout success claimed",
+    "domFunctional": "passed: new data loading, art/exhibition search, link-only images, credits/provenance, preserved portals; no runtime exceptions"
+  }
+}

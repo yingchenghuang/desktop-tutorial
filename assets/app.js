@@ -140,6 +140,11 @@
         return { url: text(x.url), caption: text(x.caption), credit: text(x.credit), kind: text(x.kind) };
       }) : [],
       imageRights: text(raw.imageRights),
+      imageDisplayPolicy: text(raw.imageDisplayPolicy),
+      imageSourceUrl: text(raw.imageSourceUrl),
+      imagePhotographer: text(raw.imagePhotographer),
+      sourceName: text(raw.sourceName),
+      sourceIssues: Array.isArray(raw.sourceIssues) ? raw.sourceIssues : [],
       classicTitle: text(raw.classicTitle),
       classicImage: classicImage,
       classicDesc: text(raw.classicDesc),
@@ -293,8 +298,9 @@
   }
 
   function cardHTML(e, i) {
-    var noimg = e.classicImage ? '' : ' noimg';
-    var img = e.classicImage
+    var showImage = e.classicImage && e.imageDisplayPolicy !== 'link-only';
+    var noimg = showImage ? '' : ' noimg';
+    var img = showImage
       ? '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.parentElement.classList.add(\'noimg\')">'
       : '';
     var rank = e.rank ? esc(e.rank) : String(i + 1).padStart(2, '0');
@@ -313,6 +319,7 @@
       '</span>' +
       '<span class="card-media' + noimg + '">' + img +
         '<span class="card-glyph"><span>' + esc(glyphChar(e.displayName)) + '</span></span>' +
+        (e.imageDisplayPolicy === 'link-only' ? '<span class="image-link-note">圖片請見來源頁</span>' : '') +
       '</span>' +
       '<span class="card-body">' +
         '<h3 class="card-name">' + esc(e.displayName) + '</h3>' +
@@ -508,9 +515,9 @@
       (e.exhibitionStatus ? '<span class="badge exhibition-status">' + esc(e.exhibitionStatus) + '</span>' : '') +
       (e.rank && e.tier === '動態情報層' ? '<span class="badge dyn">關注度 ' + esc(e.rank) + '</span>' : '');
 
-    var fig = e.classicImage
+    var fig = e.classicImage && e.imageDisplayPolicy !== 'link-only'
       ? '<figure><img referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.closest(\'figure\').style.display=\'none\'">' +
-        (e.classicTitle ? '<figcaption>' + esc(e.classicTitle) + '</figcaption>' : '') + '</figure>'
+        '<figcaption>' + [e.classicTitle, e.imageCredit].filter(Boolean).map(esc).join(' · ') + '</figcaption></figure>'
       : '';
 
     var galleryHtml = e.images.length
@@ -530,9 +537,10 @@
         e.works.split('；').map(function (w) { return esc(w.trim()); }).join('<em>·</em>') + '</p></div>'
       : '';
 
-    var imageDetails = e.imageCredit || e.imageVerification
+    var imageDetails = e.imageCredit || e.imageVerification || e.imageRights
       ? '<div class="block"><div class="block-label">影像來源與核對</div><p>' +
-        [e.imageCredit, e.imageVerification].filter(Boolean).map(esc).join(' · ') + '</p></div>'
+        [e.imageCredit, e.imagePhotographer ? '攝影者 ' + e.imagePhotographer : '', e.imageRights, e.imageVerification].filter(Boolean).map(esc).join(' · ') + '</p>' +
+        (e.imageSourceUrl ? '<a class="statement-source" href="' + esc(e.imageSourceUrl) + '" target="_blank" rel="noopener">查看原頁圖像與完整署名</a>' : '') + '</div>'
       : '';
     var accessDetails = e.accessNote
       ? '<div class="block"><div class="block-label">參訪資訊</div><p>' + esc(e.accessNote) + '</p></div>'
@@ -587,7 +595,7 @@
 
     var seen = {};
     var links = '';
-    [[e.website, '官方網站'], [e.workPage, '作品頁面'], [e.photo, '影像/介紹']].forEach(function (pair) {
+    [[e.website, e.sourceName ? e.sourceName + ' 展覽資料' : '官方網站'], [e.workPage, '作品頁面'], [e.photo, '影像/介紹']].forEach(function (pair) {
       var u = pair[0];
       if (u && !seen[u]) {
         seen[u] = 1;
@@ -595,6 +603,8 @@
       }
     });
     if (links) links = '<div class="links">' + links + '</div>';
+    var sourceHistory = e.sourceIssues.length ? '<div class="block"><div class="block-label">資料原刊出處</div>' +
+      e.sourceIssues.map(function (issue) { return '<a class="statement-source" href="' + esc(issue.url) + '" target="_blank" rel="noopener">GalleriesNow · ' + esc(issue.date) + '</a>'; }).join(' ') + '</div>' : '';
 
     var related = DATA.filter(function (candidate) {
       if (candidate.id === e.id) return false;
@@ -618,7 +628,7 @@
       fig + galleryHtml +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      accessDetails + imageDetails + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
+      accessDetails + imageDetails + sourceHistory + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
@@ -728,9 +738,33 @@
     });
   }
 
+  function loadExhibitions() {
+    return fetch('data/exhibition-manifest.json?t=' + Date.now()).then(function (r) {
+      if (!r.ok) throw new Error('展覽清單 ' + r.status);
+      return r.json();
+    }).then(function (manifest) {
+      var files = Array.isArray(manifest.files) && manifest.files.length ? manifest.files : ['exhibitions.json'];
+      return Promise.all(files.map(function (file) {
+        return fetch('data/' + file + '?t=' + encodeURIComponent(manifest.version || Date.now())).then(function (r) {
+          if (!r.ok) throw new Error('展覽資料 ' + file + ' ' + r.status);
+          return r.json();
+        });
+      })).then(function (payloads) {
+        var ids = {};
+        return { meta: manifest, entries: payloads.reduce(function (all, payload) {
+          return all.concat(payload.entries || []);
+        }, []).filter(function (entry) {
+          if (ids[entry.id]) return false;
+          ids[entry.id] = true;
+          return true;
+        }) };
+      });
+    });
+  }
+
   Promise.all([
     fetch('data/artists.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
-    fetch('data/exhibitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    loadExhibitions(),
     fetch('data/competitions.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/competition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/exhibition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),

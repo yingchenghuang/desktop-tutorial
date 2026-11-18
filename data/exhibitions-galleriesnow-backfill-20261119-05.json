@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "publishedAt": "2026-11-19T04:48:40+08:00",
+    "backfillSourcePeriod": "2026-11-03 至 2026-11-10",
+    "sourceCheckedDate": "2026-11-11",
+    "total": 9,
+    "note": "先前已核對但未發布的展覽補刊；原始展期與刊載日期分列，未將入庫日當作展覽開幕日。"
+  },
+  "entries": [
+    {
+      "id": "exhibition-gn-dc0700dcb4f8",
+      "dedupeKey": "exhibition:galleriesnow:sebastian-brajkovic-lanima-enigma",
+      "name": "393｜David Gill｜Sebastian Brajkovic: L’Anima Enigma",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London West End"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Sebastian Brajkovic: L’Anima Enigma｜2026-10-10 至 2026-11-10",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/sebastian-brajkovic-lanima-enigma/",
+      "workPage": "https://www.galleriesnow.net/shows/sebastian-brajkovic-lanima-enigma/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Sebastian Brajkovic: L’Anima Enigma",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/whats-on-today/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-10",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "city": "London",
+          "date": "2026-11-10",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-10-10",
+      "endDate": "2026-11-10",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "David Gill",
+      "venue": "David Gill，2-4 King Street, St. James's, SW1Y 6QP, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Mon-Fri 10am-6pm, Sat 11am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/sebastian-brajkovic-lanima-enigma/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/David-Gill-Sebastian-Brajkovic-3-NEW.webp",
+      "imageCredit": "© 藝術家與 David Gill；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-885e24725286",
+      "dedupeKey": "exhibition:galleriesnow:spectral-kinship",
+      "name": "394｜ai.｜Spectral Kinship",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Spectral Kinship｜2026-09-23 至 2026-11-07",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/spectral-kinship/",
+      "workPage": "https://www.galleriesnow.net/shows/spectral-kinship/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Spectral Kinship",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-07",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn739120551view0",
+      "startDate": "2026-09-23",
+      "endDate": "2026-11-07",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "ai.",
+      "venue": "ai.，1a Tenter Ground, E1 7NH, London, United Kingdom",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/spectral-kinship/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 ai.；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-a1fb4d99eaf9",
+      "dedupeKey": "exhibition:galleriesnow:tess-tomassini-the-air-becoming-no-air-again",
+      "name": "397｜Ashley Saville｜Tess Tomassini: The Air Becoming No Air Becoming Air Again",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Tess Tomassini: The Air Becoming No Air Becoming Air Again｜2026-09-10 至 2026-11-07",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/tess-tomassini-the-air-becoming-no-air-again/",
+      "workPage": "https://www.galleriesnow.net/shows/tess-tomassini-the-air-becoming-no-air-again/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Tess Tomassini: The Air Becoming No Air Becoming Air Again",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-07",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn702752359view3",
+      "startDate": "2026-09-10",
+      "endDate": "2026-11-07",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Ashley Saville",
+      "venue": "Ashley Saville，193 Fleet Street, EC4A 2AH, London, United Kingdom",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/tess-tomassini-the-air-becoming-no-air-again/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Ashley Saville；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-9aa2ab8a9be4",
+      "dedupeKey": "exhibition:galleriesnow:the-door-philip-ewe-inheritance",
+      "name": "398｜Palmer Gallery｜The Door: Philip Ewe: Inheritance",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "The Door: Philip Ewe: Inheritance｜2026-09-25 至 2026-10-24",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/the-door-philip-ewe-inheritance/",
+      "workPage": "https://www.galleriesnow.net/shows/the-door-philip-ewe-inheritance/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "The Door: Philip Ewe: Inheritance",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-07",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn832007310view3",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-24",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Palmer Gallery",
+      "venue": "Palmer Gallery，15 Hatton Street, NW8 8PL, London, United Kingdom",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/the-door-philip-ewe-inheritance/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Palmer Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-5de4dd1f22c8",
+      "dedupeKey": "exhibition:galleriesnow:what-remains-within",
+      "name": "402｜Annely Juda Fine Art｜What Remains Within",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "What Remains Within｜2026-10-01 至 2026-11-07",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/what-remains-within/",
+      "workPage": "https://www.galleriesnow.net/shows/what-remains-within/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "What Remains Within",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-07",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn702752359view2",
+      "startDate": "2026-10-01",
+      "endDate": "2026-11-07",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Annely Juda Fine Art",
+      "venue": "Annely Juda Fine Art，16 Hanover Square, W1S 1HT, London, United Kingdom",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/what-remains-within/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Annely Juda Fine Art；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-4ff364063e4e",
+      "dedupeKey": "exhibition:galleriesnow:william-kentridge-a-nicely-built-city",
+      "name": "403｜Goodman Gallery｜William Kentridge: A Nicely Built City",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "William Kentridge: A Nicely Built City｜2026-09-24 至 2026-11-07",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/william-kentridge-a-nicely-built-city/",
+      "workPage": "https://www.galleriesnow.net/shows/william-kentridge-a-nicely-built-city/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "William Kentridge: A Nicely Built City",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-07",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn702752359view7",
+      "startDate": "2026-09-24",
+      "endDate": "2026-11-07",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Goodman Gallery",
+      "venue": "Goodman Gallery，26 Cork Street, W1S 3ND, London, United Kingdom",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/william-kentridge-a-nicely-built-city/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Goodman Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-15d485a9ebb0",
+      "dedupeKey": "exhibition:galleriesnow:yesterday",
+      "name": "404｜SETAREH｜Yesterday",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦",
+        "London West End"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Yesterday｜2026-10-12 至 2026-11-10",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/yesterday/",
+      "workPage": "https://www.galleriesnow.net/shows/yesterday/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Yesterday",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "url": "https://www.galleriesnow.net/whats-on-today/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "London",
+          "date": "2026-11-10",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "city": "London",
+          "date": "2026-11-10",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-10-nov-2026/"
+        }
+      ],
+      "catalogSource": "https://www.galleriesnow.net/worldwide/",
+      "sourceReference": "",
+      "startDate": "2026-10-12",
+      "endDate": "2026-11-10",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "SETAREH",
+      "venue": "SETAREH，2 Bourdon Street, W1K 3PA, London",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "GalleriesNow 列載開放時間：Tue-Sat 10am-6pm。展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/yesterday/",
+      "imageSourceAsset": "https://www.galleriesnow.net/wp-content/uploads/2026/10/SETAREH-Yesterday-3.webp",
+      "imageCredit": "© 藝術家與 SETAREH；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-83c11f85af47",
+      "dedupeKey": "exhibition:galleriesnow:megan-menzies-neither-here-nor-there",
+      "name": "408｜LKIF Gallery｜Megan Menzies: Neither Here Nor There",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "韓國 / Seoul",
+      "cityKeywords": [
+        "Seoul",
+        "首爾"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Megan Menzies: Neither Here Nor There｜2026-10-07 至 2026-11-07",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/megan-menzies-neither-here-nor-there/",
+      "workPage": "https://www.galleriesnow.net/shows/megan-menzies-neither-here-nor-there/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Megan Menzies: Neither Here Nor There",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Vienna",
+          "date": "2026-11-07",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "city": "Seoul",
+          "date": "2026-11-07",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn475266659view2",
+      "startDate": "2026-10-07",
+      "endDate": "2026-11-07",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "LKIF Gallery",
+      "venue": "LKIF Gallery，3-11, Samseong-ro 149-gil, Gangnam-gu, 06063, Seoul, South Korea",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/megan-menzies-neither-here-nor-there/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 LKIF Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    },
+    {
+      "id": "exhibition-gn-f4b44779fb7c",
+      "dedupeKey": "exhibition:galleriesnow:park-yelim-earth-palimpsest",
+      "name": "409｜Kimreeaa Gallery｜Park Yelim: Earth Palimpsest",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "status": "可信二手來源",
+      "region": "東亞",
+      "country": "韓國 / Seoul",
+      "cityKeywords": [
+        "Seoul",
+        "首爾"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Park Yelim: Earth Palimpsest｜2026-10-08 至 2026-11-07",
+      "comment": "展覽內容與作品詳情請見來源頁。",
+      "website": "https://www.galleriesnow.net/shows/park-yelim-earth-palimpsest/",
+      "workPage": "https://www.galleriesnow.net/shows/park-yelim-earth-palimpsest/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Park Yelim: Earth Palimpsest",
+      "classicDesc": "展覽內容與作品詳情請見來源頁。",
+      "updated": "2026-11-19",
+      "sourceCheckedDate": "2026-11-11",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "",
+      "sourceIssues": [
+        {
+          "date": "2026-11-03",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        },
+        {
+          "date": "2026-11-06",
+          "url": "https://www.galleriesnow.net/newsletter/weekender-selection-06-nov-2026/"
+        }
+      ],
+      "sourceSection": "電子報正文",
+      "sourceEvents": [
+        {
+          "city": "Seoul",
+          "date": "2026-11-07",
+          "section": "展覽閉幕情報",
+          "issue": "https://www.galleriesnow.net/newsletter/newsletter-03-nov-2026/"
+        }
+      ],
+      "catalogSource": "",
+      "sourceReference": "turn396455048view6",
+      "startDate": "2026-10-08",
+      "endDate": "2026-11-07",
+      "exhibitionStatus": "已結束",
+      "exhibitionType": "畫廊／藝術機構展覽",
+      "organizer": "Kimreeaa Gallery",
+      "venue": "Kimreeaa Gallery，5, Apgujeong-ro 75-gil, Gangnam-gu, 06010, Seoul, South Korea",
+      "admission": "票務、預約與開放時段請依場館公告",
+      "accessNote": "展覽日期與開放資訊仍可能調整，出發前請回查來源頁。",
+      "curator": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/park-yelim-earth-palimpsest/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Kimreeaa Gallery；圖像刊載 GalleriesNow",
+      "imagePhotographer": "未核得完整署名；請依原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站不重製或內嵌此圖，僅提供原頁連結。",
+      "imageDisplayPolicy": "link-only",
+      "imageVerification": "保留來源頁與權利標示，未將連結視為使用授權",
+      "reviewStatus": "catalog_metadata_verified",
+      "relatedByCity": [],
+      "collectionDate": "2026-11-19",
+      "publishedAt": "2026-11-19T04:48:40+08:00",
+      "backfilledAt": "2026-11-19",
+      "reviewedAt": "2026-11-19"
+    }
+  ]
+}
