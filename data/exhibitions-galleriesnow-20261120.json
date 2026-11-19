@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "date": "2026-11-20",
+    "generatedAt": "2026-11-20T05:45:00+08:00",
+    "total": 5,
+    "note": "今日5則獨立國際展覽；展期由GalleriesNow展覽頁、Worldwide Exhibitions及Daily Diary交叉核對，不混入公共藝術20則或競圖5則。所有圖像採link-only，未聲稱取得再利用授權。"
+  },
+  "entries": [
+    {
+      "id": "exhibition-gn-20261120-01",
+      "dedupeKey": "exhibition:galleriesnow:rasheed-araeen-from-zero-a-living-archive",
+      "name": "01｜Baró｜Rasheed Araeen: From Zero—A Living Archive",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "南亞/中東",
+      "country": "阿拉伯聯合大公國 / Abu Dhabi",
+      "cityKeywords": [
+        "Abu Dhabi",
+        "阿布達比"
+      ],
+      "media": [
+        "雕塑",
+        "裝置",
+        "平台/策展"
+      ],
+      "works": "Rasheed Araeen: From Zero—A Living Archive｜2026-11-20 至 2027-01-19",
+      "comment": "策展人Esmeralda Gómez Galera以約十五件繪畫、素描、近期雕塑與檔案材料，並置Araeen的開放結構與《Third Text》編輯實踐，其中包括1969–70年的《Chakras》。",
+      "website": "https://www.galleriesnow.net/shows/rasheed-araeen-from-zero-a-living-archive/",
+      "workPage": "https://www.galleriesnow.net/shows/rasheed-araeen-from-zero-a-living-archive/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Rasheed Araeen: From Zero—A Living Archive",
+      "classicDesc": "策展人Esmeralda Gómez Galera以約十五件繪畫、素描、近期雕塑與檔案材料，並置Araeen的開放結構與《Third Text》編輯實踐，其中包括1969–70年的《Chakras》。",
+      "status": "可信二手來源",
+      "updated": "2026-11-20",
+      "collectionDate": "2026-11-20",
+      "sourceCheckedDate": "2026-11-20",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "已以GalleriesNow展覽頁、Worldwide Exhibitions與Daily Diary交叉核對展期；場館第一方資訊未另聲稱已取得圖像授權。",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2027-01-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Baró",
+      "venue": "Baró，W109, Miza, Mina Zayed, Abu Dhabi",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow列載週一至週五10:00–18:00；出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/rasheed-araeen-from-zero-a-living-archive/",
+      "imageSourceAsset": "",
+      "imageCredit": "Rasheed Araeen工作室照片 © Rasheed Araeen；展覽圖像刊載GalleriesNow",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    },
+    {
+      "id": "exhibition-gn-20261120-02",
+      "dedupeKey": "exhibition:galleriesnow:manolo-valdes-opera-gallery-houston",
+      "name": "02｜Opera Gallery Houston｜Manolo Valdés",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "美國 / Houston",
+      "cityKeywords": [
+        "Houston",
+        "休士頓"
+      ],
+      "media": [
+        "雕塑",
+        "裝置"
+      ],
+      "works": "Manolo Valdés｜2026-11-20 至 2027-01-03",
+      "comment": "展覽以繪畫、雕塑與混合媒材回顧Valdés六十餘年的創作，聚焦他如何將藝術史圖像視為可持續轉譯的活素材。",
+      "website": "https://www.galleriesnow.net/shows/manolo-valdes/",
+      "workPage": "https://www.galleriesnow.net/shows/manolo-valdes/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Manolo Valdés",
+      "classicDesc": "展覽以繪畫、雕塑與混合媒材回顧Valdés六十餘年的創作，聚焦他如何將藝術史圖像視為可持續轉譯的活素材。",
+      "status": "可信二手來源",
+      "updated": "2026-11-20",
+      "collectionDate": "2026-11-20",
+      "sourceCheckedDate": "2026-11-20",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "已以GalleriesNow展覽頁、Worldwide Exhibitions與Daily Diary交叉核對展期；場館第一方資訊未另聲稱已取得圖像授權。",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2027-01-03",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Opera Gallery Houston",
+      "venue": "Opera Gallery Houston，4444 Westheimer Rd, Suite A115, Houston, TX 77027",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow列載週一至週六10:00–19:00、週日12:00–18:00；出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/manolo-valdes/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Opera Gallery Houston；圖片刊載GalleriesNow，完整署名請見原頁圖說",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    },
+    {
+      "id": "exhibition-gn-20261120-03",
+      "dedupeKey": "exhibition:galleriesnow:painting-fear-palmer-gallery",
+      "name": "03｜Palmer Gallery｜Painting Fear",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "平台/策展"
+      ],
+      "works": "Painting Fear｜2026-11-20 至 2027-01-23",
+      "comment": "Paula Rego、Nell Brookfield、Kerrie Addy與Tess McMillan的作品並置，從政治、女性主義、歷史與荒誕切入，討論繪畫如何處理恐懼與不確定性。",
+      "website": "https://www.galleriesnow.net/shows/painting-fear/",
+      "workPage": "https://www.galleriesnow.net/shows/painting-fear/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Painting Fear",
+      "classicDesc": "Paula Rego、Nell Brookfield、Kerrie Addy與Tess McMillan的作品並置，從政治、女性主義、歷史與荒誕切入，討論繪畫如何處理恐懼與不確定性。",
+      "status": "可信二手來源",
+      "updated": "2026-11-20",
+      "collectionDate": "2026-11-20",
+      "sourceCheckedDate": "2026-11-20",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "已以GalleriesNow展覽頁、Worldwide Exhibitions與Daily Diary交叉核對展期；場館第一方資訊未另聲稱已取得圖像授權。",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2027-01-23",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Palmer Gallery",
+      "venue": "Palmer Gallery，15 Hatton Street, London NW8 8PL",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow列載週二至週五11:00–18:00、週六12:00–17:00；出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/painting-fear/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Palmer Gallery；圖片刊載GalleriesNow，完整署名請見原頁圖說",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    },
+    {
+      "id": "exhibition-gn-20261120-04",
+      "dedupeKey": "exhibition:galleriesnow:the-door-kairi-tokoro",
+      "name": "04｜Palmer Gallery｜The Door: Kairi Tokoro",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "雕塑",
+        "行為／表演"
+      ],
+      "works": "The Door: Kairi Tokoro｜2026-11-20 至 2027-01-23",
+      "comment": "Kairi Tokoro以聲音、雕塑與表演觀察物與人的相互依存：材料在接觸環境與使用之後改變形狀、色彩與功能，也反過來重塑人的行為。",
+      "website": "https://www.galleriesnow.net/shows/the-door-kairi-tokoro/",
+      "workPage": "https://www.galleriesnow.net/shows/the-door-kairi-tokoro/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "The Door: Kairi Tokoro",
+      "classicDesc": "Kairi Tokoro以聲音、雕塑與表演觀察物與人的相互依存：材料在接觸環境與使用之後改變形狀、色彩與功能，也反過來重塑人的行為。",
+      "status": "可信二手來源",
+      "updated": "2026-11-20",
+      "collectionDate": "2026-11-20",
+      "sourceCheckedDate": "2026-11-20",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "已以GalleriesNow展覽頁、Worldwide Exhibitions與Daily Diary交叉核對展期；場館第一方資訊未另聲稱已取得圖像授權。",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2027-01-23",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Palmer Gallery",
+      "venue": "Palmer Gallery，15 Hatton Street, London NW8 8PL",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow列載週二至週五11:00–18:00、週六12:00–17:00；出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/the-door-kairi-tokoro/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Palmer Gallery；圖片刊載GalleriesNow，完整署名請見原頁圖說",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    },
+    {
+      "id": "exhibition-gn-20261120-05",
+      "dedupeKey": "exhibition:galleriesnow:troy-brauntuch-rodeo-sleeping",
+      "name": "05｜Mai 36 Galerie｜Troy Brauntuch: Rodeo Sleeping",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "瑞士 / Zürich",
+      "cityKeywords": [
+        "Zürich",
+        "蘇黎世"
+      ],
+      "media": [
+        "光/影像/投影"
+      ],
+      "works": "Troy Brauntuch: Rodeo Sleeping｜2026-11-20 至 2027-01-09",
+      "comment": "Brauntuch將報紙、電影與雜誌圖像重新攝影、挪用並轉印至黑色棉布，使日常母題在抽象與具象之間游移，追問圖像的真實性與隱蔽訊息。",
+      "website": "https://www.galleriesnow.net/shows/troy-brauntuch-rodeo-sleeping/",
+      "workPage": "https://www.galleriesnow.net/shows/troy-brauntuch-rodeo-sleeping/",
+      "photo": "",
+      "classicImage": "",
+      "classicTitle": "Troy Brauntuch: Rodeo Sleeping",
+      "classicDesc": "Brauntuch將報紙、電影與雜誌圖像重新攝影、挪用並轉印至黑色棉布，使日常母題在抽象與具象之間游移，追問圖像的真實性與隱蔽訊息。",
+      "status": "可信二手來源",
+      "updated": "2026-11-20",
+      "collectionDate": "2026-11-20",
+      "sourceCheckedDate": "2026-11-20",
+      "sourceName": "GalleriesNow",
+      "sourceSummary": "已以GalleriesNow展覽頁、Worldwide Exhibitions與Daily Diary交叉核對展期；場館第一方資訊未另聲稱已取得圖像授權。",
+      "sourceIssues": [
+        {
+          "date": "2026-11-17",
+          "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/"
+        }
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2027-01-09",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Mai 36 Galerie",
+      "venue": "Mai 36 Galerie，Rämistrasse 37, CH-8001 Zürich",
+      "admission": "票務與預約條件請依場館公告",
+      "accessNote": "GalleriesNow列載週二至週五11:00–18:30、週六11:00–17:00；出發前請向場館確認。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/troy-brauntuch-rodeo-sleeping/",
+      "imageSourceAsset": "",
+      "imageCredit": "© 藝術家與 Mai 36 Galerie；圖片刊載GalleriesNow，完整署名請見原頁圖說",
+      "imagePhotographer": "未核得完整署名，請見原頁圖說",
+      "imageRights": "來源保留著作權；未核得轉載授權，本站僅提供原頁圖像連結。",
+      "imageDisplayPolicy": "link-only",
+      "artistStatement": "",
+      "artistStatementSource": "",
+      "curatorStatement": "",
+      "curatorStatementSource": "",
+      "relatedByCity": []
+    }
+  ]
+}

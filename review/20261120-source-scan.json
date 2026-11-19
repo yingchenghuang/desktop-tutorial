@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T05:45:00+08:00",
+  "summary": {
+    "total": 27,
+    "readable": 24,
+    "blocked": 3,
+    "addedPublicArt": 20,
+    "addedCompetitions": 5,
+    "addedExhibitions": 5
+  },
+  "sources": [
+    {
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "成功回讀",
+      "note": "首頁與作品索引可讀，未採入不符人物紀念雕像"
+    },
+    {
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "成功回讀",
+      "note": "案例研究入口可讀，本日無直接採入"
+    },
+    {
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "成功回讀",
+      "note": "首頁可讀；機會須回正式主辦來源，本日無直接採入"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "成功回讀",
+      "note": "制度與訓練頁可讀，本日無直接採入"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "成功回讀",
+      "note": "採入Südpfeil官方作品頁"
+    },
+    {
+      "name": "bbk berlin KiöR",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "回讀受阻",
+      "note": "401 Unauthorized；未繞過限制"
+    },
+    {
+      "name": "KORO",
+      "url": "https://koro.no/english/",
+      "status": "成功回讀",
+      "note": "英文入口與藝術家機會連結可讀，本日無直接採入"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "成功回讀",
+      "note": "採入8件完成／永久作品；Semaforen日期矛盾已標記"
+    },
+    {
+      "name": "MAPS",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "成功回讀",
+      "note": "首頁可讀，本日無直接採入"
+    },
+    {
+      "name": "Swiss BBL Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "成功回讀",
+      "note": "制度頁可讀，本日無直接採入"
+    },
+    {
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "成功回讀",
+      "note": "採入Guardian Spirit"
+    },
+    {
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "成功回讀",
+      "note": "作品索引可讀，本日無直接採入"
+    },
+    {
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "成功回讀",
+      "note": "當期與計畫頁可讀，本日無直接採入"
+    },
+    {
+      "name": "Fourth Plinth London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "回讀受阻",
+      "note": "403 Forbidden；未繞過限制"
+    },
+    {
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "成功回讀",
+      "note": "採入Beltline Station徵件"
+    },
+    {
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "成功回讀",
+      "note": "資料庫入口可讀；本日無符合公共藝術篩選的新採入"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "成功回讀",
+      "note": "作品與活動索引可讀，本日無直接採入"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "成功回讀",
+      "note": "官方檔案頁可讀，本日無直接採入"
+    },
+    {
+      "name": "Toronto Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "成功回讀",
+      "note": "城市公共藝術與地圖入口可讀，本日無直接採入"
+    },
+    {
+      "name": "Vancouver Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "成功回讀",
+      "note": "官方公共藝術頁可讀，本日無直接採入"
+    },
+    {
+      "name": "Melbourne Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "成功回讀",
+      "note": "資料集入口可讀；人物紀念物排除規則持續套用"
+    },
+    {
+      "name": "文化部公共藝術",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "回讀受阻",
+      "note": "403 Forbidden；未繞過限制"
+    },
+    {
+      "name": "Land Art Flevoland",
+      "url": "https://www.landartflevoland.nl/en/",
+      "status": "成功回讀",
+      "note": "10件專題維持既有紀錄，未重建、未計入今日20件"
+    },
+    {
+      "name": "Raumfragen",
+      "url": "https://raumfragen.eu/",
+      "status": "成功回讀",
+      "note": "首頁與Projekte入口可讀，既有案例未重建"
+    },
+    {
+      "name": "Public Art München",
+      "url": "https://www.publicartmuenchen.de/en/",
+      "status": "成功回讀",
+      "note": "Focus Year及Submission入口可讀，既有案例未重建"
+    },
+    {
+      "name": "Public Art Lab Berlin",
+      "url": "https://www.publicartlab-berlin.de/",
+      "status": "成功回讀",
+      "note": "Projects與主題入口可讀，既有案例未重建"
+    },
+    {
+      "name": "GalleriesNow",
+      "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/",
+      "status": "成功回讀",
+      "note": "採入今日5展，展期另與展覽頁、Worldwide及Diary交叉核對"
+    }
+  ]
+}

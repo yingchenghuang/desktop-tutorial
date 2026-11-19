@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T05:45:00+08:00",
+  "checks": {
+    "publicArt": {
+      "total": 20,
+      "distribution": {
+        "current": 10,
+        "globalClassic": 5,
+        "germanClassic": 5
+      },
+      "duplicateKeys": 0,
+      "missingCityKeywords": 0,
+      "missingRequiredFields": 0
+    },
+    "competitions": {
+      "addedToday": 5,
+      "activeEntries": 134,
+      "expiredEntries": 0,
+      "deadlineParseErrors": 0,
+      "deadlineOffsetMissing": 0,
+      "ianaTimezoneMissing": 0,
+      "duplicateKeys": 0,
+      "expiredRemoved": 0
+    },
+    "exhibitions": {
+      "addedToday": 5,
+      "completeDateRanges": 5,
+      "duplicateKeys": 0,
+      "imageDisplayPolicy": "link-only",
+      "directImageReuseClaims": 0
+    },
+    "notion": {
+      "total": 30,
+      "publicArt": 20,
+      "competitions": 5,
+      "exhibitions": 5,
+      "duplicateKeys": 0
+    },
+    "sources": {
+      "total": 27,
+      "readable": 24,
+      "blocked": 3,
+      "addedPublicArt": 20,
+      "addedCompetitions": 5,
+      "addedExhibitions": 5
+    },
+    "cityLinks": {
+      "missingCityKeywords": 0,
+      "relatedByCityFieldPresent": true,
+      "todayCrossDatabaseMatches": 0,
+      "note": "今日新增作品與今日新增競圖城市無交集；既有前端仍依cityKeywords動態產生同城跨庫連結。"
+    },
+    "images": {
+      "sourceUrlMissing": 0,
+      "policy": "所有新資料保留來源頁；公共藝術與國際展覽未核得再利用授權者均link-only，不宣稱完成逐張視覺授權驗收。"
+    }
+  },
+  "exclusions": {
+    "traditionalFigurativeMonuments": 0,
+    "competitionsMixedIntoPublicArt": 0,
+    "exhibitionsMixedIntoPublicArt": 0
+  },
+  "notes": [
+    "Semaforen i Henån官方頁的2025揭幕文字與2026安裝年／進行中標籤不一致，已明示，不推定完成狀態。",
+    "bbk berlin、Fourth Plinth London、文化部公共藝術本次正文回讀受阻，已保留追蹤且未繞過限制。"
+  ]
+}

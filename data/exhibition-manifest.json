@@ -1,6 +1,6 @@
 {
-  "version": "20261119-exhibitions-r12",
-  "generatedAt": "2026-11-19T04:48:40+08:00",
+  "version": "20261120-exhibitions-r13",
+  "generatedAt": "2026-11-20T05:45:00+08:00",
   "files": [
     "exhibitions.json",
     "exhibitions-galleriesnow-backfill-20261119-01.json",
@@ -8,19 +8,20 @@
     "exhibitions-galleriesnow-backfill-20261119-03.json",
     "exhibitions-galleriesnow-backfill-20261119-04.json",
     "exhibitions-galleriesnow-backfill-20261119-05.json",
-    "exhibitions-galleriesnow-20261119.json"
+    "exhibitions-galleriesnow-20261119.json",
+    "exhibitions-galleriesnow-20261120.json"
   ],
   "dailyTarget": 5,
-  "totalEntries": 264,
+  "totalEntries": 269,
   "addedToday": 5,
   "officialSourceEntries": 50,
   "imageEntries": 50,
-  "note": "今日新增5則；補刊11月3、6、10日電子報已核對的209則展覽。GalleriesNow 明確列為可信二手來源，展期依原頁；10條缺完整展期線索另列待核。新圖像保留權利註記並連回原頁，未宣稱已取得轉載授權。",
+  "note": "11月20日新增5則完整國際展覽；GalleriesNow列為可信二手來源，展期由展覽頁、Worldwide Exhibitions與Daily Diary交叉核對。圖像全數link-only，未聲稱取得再利用授權；11月19日補刊與待核線索原樣保留。",
   "weeklyTarget": 5,
   "backfilledEntries": 209,
   "backfillSourcePeriod": "2026-11-03 至 2026-11-10",
-  "sourceCheckedDate": "2026-11-19",
-  "imageSourceEntries": 264,
-  "linkedImageEntries": 214,
+  "sourceCheckedDate": "2026-11-20",
+  "imageSourceEntries": 269,
+  "linkedImageEntries": 219,
   "sourcePendingEntries": 10
 }
