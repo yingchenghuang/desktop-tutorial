@@ -230,9 +230,11 @@ def check_artwork_map():
         page.set_viewport_size({"width":390,"height":844})
         page.locator("#mapSearch").fill("Pool People")
         page.locator("#workList .work").click()
-        assert "Pool People" in page.locator(".leaflet-popup-content").inner_text(), "Mobile marker popup failed"
+        pool_popup = page.locator(".leaflet-popup-content").filter(has_text="Christiane Huber｜Pool People")
+        pool_popup.wait_for(timeout=10000)
+        assert "Pool People" in pool_popup.inner_text(), "Mobile marker popup failed"
         assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 1"), "Mobile map overflows horizontally"
-        page.locator(".leaflet-popup-content a").filter(has_text="作品詳情").first.click()
+        pool_popup.locator("a").filter(has_text="作品詳情").first.click()
         page.locator("#sheet.open #panel").wait_for(timeout=120000)
         assert "Pool People" in page.locator("#panel").inner_text(), "Map-to-archive deep link failed"
         assert not errors, errors

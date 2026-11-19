@@ -48,6 +48,13 @@
     "nodeSyntax": "passed",
     "domSourceSearch": "passed",
     "notion": "14 total records created and read; two existing case pages appended map links",
-    "mapDOM": "passed: markers, original-source attribution, selection, search and intentionally unlocated case"
+    "mapDOM": "passed: markers, original-source attribution, selection, search and intentionally unlocated case",
+    "browserTransition": "Initial live check found transient overlapping popup DOM during Leaflet fade. Test now targets the selected work popup explicitly."
+  },
+  "publication": {
+    "contentCommit": "87b0c7ea1af093c4482553c3b29ca22f95962bbb",
+    "pagesRun": 44447141055,
+    "pagesStatus": "success",
+    "publicEndpointsRead": 9
   }
 }
