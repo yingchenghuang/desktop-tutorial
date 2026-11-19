@@ -1,6 +1,6 @@
 {
-  "version": "20261119-munich-sources-r143",
-  "generatedAt": "2026-11-19T06:47:16+08:00",
+  "version": "20261119-art-map-r144",
+  "generatedAt": "2026-11-19T10:43:05+08:00",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
@@ -25,9 +25,10 @@
     "museum-1000-orte-home-snapshot-20261118.json",
     "backfill-november-20261118.json",
     "backfill-november-20261119.json",
-    "munich-sources-special-20261119.json"
+    "munich-sources-special-20261119.json",
+    "german-public-art-special-20261119.json"
   ],
-  "expectedEntries": 573,
-  "imageEntries": 488,
-  "note": "11/1–17每日340件；Land Art Flevoland特輯10件；Kunst am Bau 60週年60件；70週年新增46件；Museum der 1000 Orte上傳首頁HTML共101件，其中29件與Kunst am Bau特輯重疊，新增72件；新入網站資料來源合計528件（不含原本基礎檔）。影像來源對應101張，其中72件新卡，重複29件回填原紀錄。圖檔連結授權待核。 今日另正式新增11月18日固定公共藝術20件（10／5／5），競圖5件完全分流；官網頁面預覽影像未完成每件原始攝影視覺核對。 11月19日另新增固定20件（10／5／5），各附實際圖像出處、權利與參訪註記；既有PublicSpace、Kunst am Bau及日韓專題持續保留。 原manifest數量548經逐檔回算更正為549，加今日20為569。imageEntries為含圖像來源網址的紀錄量，未代表皆於前台展示或取得再利用授權。 11月19日另補Raumfragen及Public Art München兩個來源檔與兩個案例，獨立補充共4筆；固定每日20作品保持原數。"
+  "expectedEntries": 583,
+  "imageEntries": 497,
+  "note": "11/1–17每日340件；Land Art Flevoland特輯10件；Kunst am Bau 60週年60件；70週年新增46件；Museum der 1000 Orte上傳首頁HTML共101件，其中29件與Kunst am Bau特輯重疊，新增72件；新入網站資料來源合計528件（不含原本基礎檔）。影像來源對應101張，其中72件新卡，重複29件回填原紀錄。圖檔連結授權待核。 今日另正式新增11月18日固定公共藝術20件（10／5／5），競圖5件完全分流；官網頁面預覽影像未完成每件原始攝影視覺核對。 11月19日另新增固定20件（10／5／5），各附實際圖像出處、權利與參訪註記；既有PublicSpace、Kunst am Bau及日韓專題持續保留。 原manifest數量548經逐檔回算更正為549，加今日20為569。imageEntries為含圖像來源網址的紀錄量，未代表皆於前台展示或取得再利用授權。 11月19日另補Raumfragen及Public Art München兩個來源檔與兩個案例，獨立補充共4筆；固定每日20作品保持原數。 柏林與慕尼黑追加9案例及1來源，與前批合計11案例＋3來源；均獨立於固定每日20作品。"
 }

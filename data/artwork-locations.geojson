@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "raumfragen-animal-neighborhood-munich-2026-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.646497354574,
+          48.100911219818
+        ]
+      },
+      "properties": {
+        "workId": "raumfragen-animal-neighborhood-munich-2026",
+        "name": "Raumfragen｜Animal Neighborhood",
+        "location": "Hanns-Seidel-Platz",
+        "source": "https://www.publicartmuenchen.de/en/projekte/animal-neighborhood/",
+        "coordinateSource": "https://www.publicartmuenchen.de/en/projekte/animal-neighborhood/",
+        "accuracy": "官方場址座標",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "raumfragen-public-art-pavillon-munich-2026-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5774729,
+          48.1371857
+        ]
+      },
+      "properties": {
+        "workId": "raumfragen-public-art-pavillon-munich-2026",
+        "name": "Raumfragen｜Public Art (Pavillon)",
+        "location": "Artothek Pavillon，Burgstraße 4",
+        "source": "https://raumfragen.eu/public-art-pavillon/",
+        "coordinateSource": "https://www.publicartmuenchen.de/projekte/pitch-invaders/",
+        "accuracy": "同一官方建築場址；未定位到室內單件座標",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "christiane-huber-pool-people-2026-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.636323928833,
+          48.116657631102
+        ]
+      },
+      "properties": {
+        "workId": "christiane-huber-pool-people-2026",
+        "name": "Christiane Huber｜Pool People",
+        "location": "Michaelibad",
+        "source": "https://www.publicartmuenchen.de/projekte/pool-people/",
+        "coordinateSource": "https://www.publicartmuenchen.de/projekte/pool-people/",
+        "accuracy": "官方場址座標",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ooze-marjetica-potrc-tree-river-2026-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.558552,
+          48.114316
+        ]
+      },
+      "properties": {
+        "workId": "ooze-marjetica-potrc-tree-river-2026",
+        "name": "OOZE（Eva Pfannes／Sylvain Hartenberg）與Marjetica Potrč｜Tree River",
+        "location": "Flaucher：山毛櫸",
+        "source": "https://www.publicartmuenchen.de/projekte/tree-river/",
+        "coordinateSource": "https://www.publicartmuenchen.de/projekte/tree-river/",
+        "accuracy": "官方演出場址連結中的座標；歷史表演位置",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ooze-marjetica-potrc-tree-river-2026-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.574346,
+          48.124474
+        ]
+      },
+      "properties": {
+        "workId": "ooze-marjetica-potrc-tree-river-2026",
+        "name": "OOZE（Eva Pfannes／Sylvain Hartenberg）與Marjetica Potrč｜Tree River",
+        "location": "Au-Haidhausen：槐樹",
+        "source": "https://www.publicartmuenchen.de/projekte/tree-river/",
+        "coordinateSource": "https://www.publicartmuenchen.de/projekte/tree-river/",
+        "accuracy": "官方演出場址連結中的座標；歷史表演位置",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ooze-marjetica-potrc-tree-river-2026-2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567735,
+          48.169238
+        ]
+      },
+      "properties": {
+        "workId": "ooze-marjetica-potrc-tree-river-2026",
+        "name": "OOZE（Eva Pfannes／Sylvain Hartenberg）與Marjetica Potrč｜Tree River",
+        "location": "Luitpoldpark：黃檗",
+        "source": "https://www.publicartmuenchen.de/projekte/tree-river/",
+        "coordinateSource": "https://www.publicartmuenchen.de/projekte/tree-river/",
+        "accuracy": "官方演出場址連結中的座標；歷史表演位置",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ooze-marjetica-potrc-tree-river-2026-3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.562625,
+          48.118402
+        ]
+      },
+      "properties": {
+        "workId": "ooze-marjetica-potrc-tree-river-2026",
+        "name": "OOZE（Eva Pfannes／Sylvain Hartenberg）與Marjetica Potrč｜Tree River",
+        "location": "Braunauer鐵路橋北側：白蠟樹",
+        "source": "https://www.publicartmuenchen.de/projekte/tree-river/",
+        "coordinateSource": "https://www.publicartmuenchen.de/projekte/tree-river/",
+        "accuracy": "官方演出場址連結中的座標；歷史表演位置",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sofia-dona-pitch-invaders-2026-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5774729,
+          48.1371857
+        ]
+      },
+      "properties": {
+        "workId": "sofia-dona-pitch-invaders-2026",
+        "name": "Sofia Dona｜Pitch Invaders",
+        "location": "Artothek Pavillon，Burgstraße 4",
+        "source": "https://www.publicartmuenchen.de/projekte/pitch-invaders/",
+        "coordinateSource": "https://www.publicartmuenchen.de/projekte/pitch-invaders/",
+        "accuracy": "同一官方建築場址；未定位到室內單件座標",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-lab-spur-der-haeuser-2025-2026-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.143,
+          47.726
+        ]
+      },
+      "properties": {
+        "workId": "public-art-lab-spur-der-haeuser-2025-2026",
+        "name": "Public Art Lab／Susa Pop／Hans J. Wiegner與合作創作者｜Spur der Häuser",
+        "location": "Haus 21，森林節歷史場址",
+        "source": "https://www.publicartlab-berlin.de/projects/spur-der-hauser-2/",
+        "coordinateSource": "https://www.publicartlab-berlin.de/projects/spur-der-hauser-2/",
+        "accuracy": "官方提供至小數3位，約百公尺範圍；步道狀況須回查",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-lab-spur-der-haeuser-2025-2026-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.148,
+          47.736
+        ]
+      },
+      "properties": {
+        "workId": "public-art-lab-spur-der-haeuser-2025-2026",
+        "name": "Public Art Lab／Susa Pop／Hans J. Wiegner與合作創作者｜Spur der Häuser",
+        "location": "Wolfsberg 9，歷史裝置場址",
+        "source": "https://www.publicartlab-berlin.de/projects/spur-der-hauser-2/",
+        "coordinateSource": "https://www.publicartlab-berlin.de/projects/spur-der-hauser-2/",
+        "accuracy": "官方提供至小數3位，約百公尺範圍；步道狀況須回查",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-19-11-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.78530803203225,
+          -36.848492589159825
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-19-11",
+        "name": "11｜Helen Escobedo de Kirsebom｜Signals",
+        "location": "Fred Ambler Lookout in Dove-Myer Robinson Park, Gladstone Road, Parnell, Tāmaki Makaurau Auckland",
+        "source": "https://publicart.nz/artworks/helen-escobedo-de-kirsebom-1971",
+        "coordinateSource": "https://publicart.nz/artworks/helen-escobedo-de-kirsebom-1971",
+        "accuracy": "PublicArt Heritage官方典藏場址座標",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-19-12-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.25222804851418,
+          -44.39684814011429
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-19-12",
+        "name": "12｜Russell Clark｜The Ear",
+        "location": "Timaru Telephone Exchange (former), 22 Sophia St, Te Tihi-o-Maru Timaru",
+        "source": "https://publicart.nz/artworks/russell-clark-1957",
+        "coordinateSource": "https://publicart.nz/artworks/russell-clark-1957",
+        "accuracy": "PublicArt Heritage官方典藏場址座標",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-19-13-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.75823338301538,
+          -36.84641728500172
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-19-13",
+        "name": "13｜Milan Mrkusich｜Mosaic Mural for BJ Ball Building",
+        "location": "B.J. Ball Building, 35 Graham Street, CBD, Tāmaki Makaurau Auckland",
+        "source": "https://publicart.nz/artworks/milan-mrkusich-1957",
+        "coordinateSource": "https://publicart.nz/artworks/milan-mrkusich-1957",
+        "accuracy": "PublicArt Heritage官方典藏場址座標",
+        "updated": "2026-11-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-19-14-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7912859,
+          -36.84929999999999
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-19-14",
+        "name": "14｜James Turkington｜Untitled [Parnell Baths]",
+        "location": "Parnell Baths, Judges Bay, Parnell, Tāmaki Makaurau Auckland",
+        "source": "https://publicart.nz/artworks/james-turkington-1957",
+        "coordinateSource": "https://publicart.nz/artworks/james-turkington-1957",
+        "accuracy": "PublicArt Heritage官方典藏場址座標",
+        "updated": "2026-11-19"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-19",
+  "sources": 3,
+  "sourceNames": [
+    "Raumfragen",
+    "Public Art München",
+    "Public Art Lab Berlin"
+  ],
+  "cases": 11,
+  "caseTitles": [
+    "Animal Neighborhood｜2026",
+    "Public Art (Pavillon)｜2026",
+    "Max macht (Vor)platz",
+    "Quartier am Südpark",
+    "Mobile Küche 2.0",
+    "Pool People",
+    "Tree River",
+    "Pitch Invaders",
+    "Digital Calligraffiti",
+    "Spur der Häuser",
+    "Liquid Commons｜CDSA 2026 漢堡放映"
+  ],
+  "supplementalTotal": 14,
+  "newRecordsThisStage": 10,
+  "notionNewCreatedAndFetched": 10,
+  "previousNotionCreatedAndFetched": 4,
+  "fixedDailyArtUnchanged": 20,
+  "monthManifest": 583,
+  "dedupeKeysUnique": 14,
+  "map": {
+    "catalogWorks": 15,
+    "locatedWorks": 10,
+    "pendingWorks": 5,
+    "locations": 14
+  },
+  "mapSources": "Official project OSM links, official linked event locations, primary project coordinates, PublicArt Heritage NZ collection coordinates",
+  "mapLimitations": "Venue/history markers; five mobile, cross-city or insufficiently precise cases intentionally unlocated. Historic performances are not advertised as current.",
+  "images": "All new images use link-only policy; source and credit recorded; no reproduction license or full visual audit claimed.",
+  "sourceDateConflict": "Digital Calligraffiti leaf project says 2016; platform introduction says 2017. Conflict retained.",
+  "preserved": [
+    "PublicSpace",
+    "Kunst am Bau",
+    "Japan/Korea",
+    "GalleriesNow exhibitions"
+  ],
+  "validation": {
+    "json": "passed",
+    "nodeSyntax": "passed",
+    "domSourceSearch": "passed",
+    "notion": "14 total records created and read; two existing case pages appended map links",
+    "mapDOM": "passed: markers, original-source attribution, selection, search and intentionally unlocated case"
+  }
+}

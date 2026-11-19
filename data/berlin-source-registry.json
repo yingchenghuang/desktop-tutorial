@@ -1,0 +1,40 @@
+{
+  "version": "20261119-art-map-r144",
+  "checkedAt": "2026-11-19T10:43:05+08:00",
+  "cadence": "daily",
+  "timezone": "Asia/Taipei",
+  "source": {
+    "id": "public-art-lab-berlin",
+    "name": "Public Art Lab Berlin｜城市媒體藝術研究平台",
+    "url": "https://www.publicartlab-berlin.de/",
+    "firstParty": true,
+    "endpoints": [
+      "https://www.publicartlab-berlin.de/",
+      "https://www.publicartlab-berlin.de/projects/",
+      "https://www.publicartlab-berlin.de/news/",
+      "https://www.publicartlab-berlin.de/connecting-people-places/",
+      "https://www.publicartlab-berlin.de/hybrid-placemaking/"
+    ]
+  },
+  "scope": [
+    "城市媒體藝術",
+    "互動與城市螢幕",
+    "跨城市對話",
+    "公民科學與生態藝術",
+    "數位文化資產",
+    "實際展演與徵件分流"
+  ],
+  "caseIds": [
+    "raumfragen-max-macht-vorplatz-2026",
+    "raumfragen-quartier-am-suedpark-2026",
+    "raumfragen-mobile-kueche-2-2026",
+    "christiane-huber-pool-people-2026",
+    "ooze-marjetica-potrc-tree-river-2026",
+    "sofia-dona-pitch-invaders-2026",
+    "public-art-lab-digital-calligraffiti",
+    "public-art-lab-spur-der-haeuser-2025-2026",
+    "public-art-lab-liquid-commons-hamburg-2026"
+  ],
+  "imagePolicy": "保留出處及攝影，未獲核實再利用授權時使用link-only。",
+  "archiveIngestion": "已核對首批個案，未宣稱全站歷史檔案均已匯入。"
+}

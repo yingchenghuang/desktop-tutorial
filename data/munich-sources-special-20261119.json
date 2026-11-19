@@ -164,7 +164,17 @@
       "startDate": "2026-10-01",
       "venue": "Hanns-Seidel-Platz, Neuperlach, München",
       "material": "動物面具、攝影、公共看板",
-      "statementType": "第一方作品說明繁體中文整理，非逐字引言"
+      "statementType": "第一方作品說明繁體中文整理，非逐字引言",
+      "mapLocations": [
+        {
+          "lat": 48.100911219818,
+          "lon": 11.646497354574,
+          "label": "Hanns-Seidel-Platz",
+          "coordinateSource": "https://www.publicartmuenchen.de/en/projekte/animal-neighborhood/",
+          "accuracy": "官方場址座標",
+          "checkedAt": "2026-11-19"
+        }
+      ]
     },
     {
       "id": "raumfragen-public-art-pavillon-munich-2026",
@@ -210,7 +220,17 @@
       "originalDate": "2026",
       "venue": "Artothek Pavillon，慕尼黑市文化局內院",
       "material": "再利用的彩漆木條、木材餘料及板材",
-      "statementType": "第一方作品說明繁體中文整理，非逐字引言"
+      "statementType": "第一方作品說明繁體中文整理，非逐字引言",
+      "mapLocations": [
+        {
+          "lat": 48.1371857,
+          "lon": 11.5774729,
+          "label": "Artothek Pavillon，Burgstraße 4",
+          "coordinateSource": "https://www.publicartmuenchen.de/projekte/pitch-invaders/",
+          "accuracy": "同一官方建築場址；未定位到室內單件座標",
+          "checkedAt": "2026-11-19"
+        }
+      ]
     }
   ]
 }

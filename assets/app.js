@@ -8,6 +8,7 @@
   var STATUS_ORDER = ['官方來源', '可信二手來源', '追蹤'];
 
   var DATA = [];
+  var MAP_WORKS = {};
   var META = {};
   var state = {
     q: '',
@@ -602,6 +603,7 @@
         links += '<a href="' + esc(u) + '" target="_blank" rel="noopener">' + pair[1] + '</a>';
       }
     });
+    if (MAP_WORKS[e.id]) links += '<a href="map/?work=' + encodeURIComponent(e.id) + '">' + (MAP_WORKS[e.id].locations.length ? '在作品地圖查看' : '作品位置待核') + '</a>';
     if (links) links = '<div class="links">' + links + '</div>';
     var sourceHistory = e.sourceIssues.length ? '<div class="block"><div class="block-label">資料原刊出處</div>' +
       e.sourceIssues.map(function (issue) { return '<a class="statement-source" href="' + esc(issue.url) + '" target="_blank" rel="noopener">GalleriesNow · ' + esc(issue.date) + '</a>'; }).join(' ') + '</div>' : '';
@@ -662,6 +664,8 @@
       state.tier = b.dataset.tier;
       this.querySelectorAll('button').forEach(function (x) { x.classList.toggle('on', x === b); });
       apply();
+      var targetWork = new URLSearchParams(window.location.search).get('work');
+      if (targetWork && DATA.some(function (entry) { return entry.id === targetWork; })) openSheet(targetWork);
     });
 
     $('#sort').addEventListener('change', function () { state.sort = this.value; apply(); });
@@ -769,9 +773,11 @@
     fetch('data/competition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/exhibition-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
     fetch('data/landmark-events.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
-    fetch('data/landmark-event-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    fetch('data/landmark-event-manifest.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch('data/artwork-map.json?t=' + Date.now()).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }).catch(function () { return { works: [] }; })
   ])
     .then(function (payloads) {
+      (payloads[7].works || []).forEach(function (work) { MAP_WORKS[work.id] = work; });
       var json = payloads[0];
       var exhibitions = payloads[1];
       var competitions = payloads[2];
@@ -799,6 +805,8 @@
       buildChips();
       bind();
       apply();
+      var targetWork = new URLSearchParams(window.location.search).get('work');
+      if (targetWork && DATA.some(function (entry) { return entry.id === targetWork; })) openSheet(targetWork);
     })
     .catch(function (err) {
       $('#grid').innerHTML = '<div class="empty"><i class="dot"></i><p>資料載入失敗，請重新整理頁面。</p><small>' + esc(err.message) + '</small></div>';

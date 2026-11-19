@@ -1,0 +1,385 @@
+{
+  "version": "20261119-art-map-r144",
+  "updated": "2026-11-19",
+  "scope": "三個新增研究來源的11個案例，另連結今日已收錄的4件紐西蘭作品。只有可核實場址座標者標點。",
+  "attribution": "© OpenStreetMap contributors",
+  "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "works": [
+    {
+      "id": "raumfragen-animal-neighborhood-munich-2026",
+      "name": "Raumfragen｜Animal Neighborhood",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "München",
+        "慕尼黑"
+      ],
+      "originalDate": "2026",
+      "updated": "2026-11-19",
+      "comment": "以 Neuperlach 小學兒童共同製作的動物面具與街區遊戲為起點，讓孩子扮演想像的城市動物，再以肖像與現地攝影構成公共看板。作品把住宅區的草地、道路與綠地轉為共同探索的生活空間。",
+      "website": "https://www.publicartmuenchen.de/en/projekte/animal-neighborhood/",
+      "accessNote": "官方列自2026年10月1日起於 Hanns-Seidel-Platz 展示；未公布撤展日，行前回查。",
+      "locations": [
+        {
+          "lat": 48.100911219818,
+          "lon": 11.646497354574,
+          "label": "Hanns-Seidel-Platz",
+          "coordinateSource": "https://www.publicartmuenchen.de/en/projekte/animal-neighborhood/",
+          "accuracy": "官方場址座標",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "raumfragen-public-art-pavillon-munich-2026",
+      "name": "Raumfragen｜Public Art (Pavillon)",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "München",
+        "慕尼黑"
+      ],
+      "originalDate": "2026",
+      "updated": "2026-11-19",
+      "comment": "為市文化局內院的 Artothek Pavillon 設計可重組的座椅、桌面與模組，支援展覽、對談、工作坊及演出。家具使用先前 Hallo Kunstbau 與 Social Fountain 的木條、板材及餘料，讓公共空間材料延續到下一個場域。",
+      "website": "https://raumfragen.eu/public-art-pavillon/",
+      "accessNote": "2026年臨時空間家具計畫；官方未載明完整起訖及現時開放時段，參訪須回查。",
+      "locations": [
+        {
+          "lat": 48.1371857,
+          "lon": 11.5774729,
+          "label": "Artothek Pavillon，Burgstraße 4",
+          "coordinateSource": "https://www.publicartmuenchen.de/projekte/pitch-invaders/",
+          "accuracy": "同一官方建築場址；未定位到室內單件座標",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "raumfragen-max-macht-vorplatz-2026",
+      "name": "Raumfragen｜Max macht (Vor)platz",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "慕尼黑",
+        "München"
+      ],
+      "originalDate": "2026起",
+      "updated": "2026-11-19",
+      "comment": "與 Neuperlach 小學生共同測試可自行組裝的建造原則，包括孔格與螺栓的 RastiX 系統，以及竹材、軟管形成的三角結構。2026年先進行實際工作坊與原型測試，再將兒童經驗轉為校前廣場的規劃。",
+      "website": "https://raumfragen.eu/max-macht-vorplatz/",
+      "accessNote": "2026年共創及原型研究已進行，廣場共同施工規劃自2027年展開；校園參與依校方安排。",
+      "locations": [],
+      "archived": false
+    },
+    {
+      "id": "raumfragen-quartier-am-suedpark-2026",
+      "name": "Raumfragen與在地合作團隊｜Quartier am Südpark",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "慕尼黑",
+        "München"
+      ],
+      "originalDate": "2026起",
+      "updated": "2026-11-19",
+      "comment": "從工具推車、兒童飛行物製作、鄰里共煮到女孩聚會與兒童地圖，逐步建立長期社區合作。pong & pengo、Sarah Thoma、Annabell Lachner及Amelie Brauer分別引入建造、飲食、語言與地方探索。",
+      "website": "https://raumfragen.eu/quartier-am-suedpark/",
+      "accessNote": "長期社區實踐的第一年；個別工作坊日期與參加辦法須回查，未視為每天固定活動。",
+      "locations": [],
+      "archived": false
+    },
+    {
+      "id": "raumfragen-mobile-kueche-2-2026",
+      "name": "Raphael Krome／Felix Allstadt／Raumfragen｜Mobile Küche 2.0",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "慕尼黑",
+        "München"
+      ],
+      "originalDate": "2026",
+      "updated": "2026-11-19",
+      "comment": "將鄰里使用者的建議納入移動廚房改造，更新爐面、把手、重心與供水。由公共家具的實際使用經驗推動設計迭代，支援Obersendling社區的共同烹飪及聚會。",
+      "website": "https://raumfragen.eu/mobilekueche2/",
+      "accessNote": "設備為流動使用，須向管理單位確認活動與位置，無固定作品座標。",
+      "locations": [],
+      "archived": false
+    },
+    {
+      "id": "christiane-huber-pool-people-2026",
+      "name": "Christiane Huber｜Pool People",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "慕尼黑",
+        "München"
+      ],
+      "originalDate": "2026",
+      "updated": "2026-11-19",
+      "comment": "在Michaelibad以表演、水下聲音裝置及泳池派對，探討公共泳池裡的身體、差異與共同空間協商。訪談與歷史研究成為表演素材，水下聲音由Nadia Botello共同發展。",
+      "website": "https://www.publicartmuenchen.de/projekte/pool-people/",
+      "accessNote": "歷史活動，2026年8月1至15日；雨備派對為8月16日。泳池現時開放與作品是否留設須另查。",
+      "locations": [
+        {
+          "lat": 48.116657631102,
+          "lon": 11.636323928833,
+          "label": "Michaelibad",
+          "coordinateSource": "https://www.publicartmuenchen.de/projekte/pool-people/",
+          "accuracy": "官方場址座標",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "ooze-marjetica-potrc-tree-river-2026",
+      "name": "OOZE（Eva Pfannes／Sylvain Hartenberg）與Marjetica Potrč｜Tree River",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "慕尼黑",
+        "München"
+      ],
+      "originalDate": "2026",
+      "updated": "2026-11-19",
+      "comment": "以慕尼黑老樹及水循環為主題，將木偶、現場音樂與可移動座椅結合成戶外演出。觀眾透過各樹的地方故事，理解樹木、城市、水與生命的相互依存。",
+      "website": "https://www.publicartmuenchen.de/projekte/tree-river/",
+      "accessNote": "歷史活動，2026年6月20、21、27、28日；地圖保留四個實際演出場址，未表示今日仍在演出。",
+      "locations": [
+        {
+          "lat": 48.114316,
+          "lon": 11.558552,
+          "label": "Flaucher：山毛櫸",
+          "coordinateSource": "https://www.publicartmuenchen.de/projekte/tree-river/",
+          "accuracy": "官方演出場址連結中的座標；歷史表演位置",
+          "checkedAt": "2026-11-19"
+        },
+        {
+          "lat": 48.124474,
+          "lon": 11.574346,
+          "label": "Au-Haidhausen：槐樹",
+          "coordinateSource": "https://www.publicartmuenchen.de/projekte/tree-river/",
+          "accuracy": "官方演出場址連結中的座標；歷史表演位置",
+          "checkedAt": "2026-11-19"
+        },
+        {
+          "lat": 48.169238,
+          "lon": 11.567735,
+          "label": "Luitpoldpark：黃檗",
+          "coordinateSource": "https://www.publicartmuenchen.de/projekte/tree-river/",
+          "accuracy": "官方演出場址連結中的座標；歷史表演位置",
+          "checkedAt": "2026-11-19"
+        },
+        {
+          "lat": 48.118402,
+          "lon": 11.562625,
+          "label": "Braunauer鐵路橋北側：白蠟樹",
+          "coordinateSource": "https://www.publicartmuenchen.de/projekte/tree-river/",
+          "accuracy": "官方演出場址連結中的座標；歷史表演位置",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "sofia-dona-pitch-invaders-2026",
+      "name": "Sofia Dona｜Pitch Invaders",
+      "country": "德國 / Munich",
+      "cityKeywords": [
+        "Munich",
+        "慕尼黑",
+        "München"
+      ],
+      "originalDate": "2026",
+      "updated": "2026-11-19",
+      "comment": "以FIFA及德甲罕見的闖入球場檔案影像，探討體育轉播如何刪除政治抗議。Artothek的十螢幕裝置模擬轉播控制室，Stachus公共螢幕則把影像帶回城市公共空間。",
+      "website": "https://www.publicartmuenchen.de/projekte/pitch-invaders/",
+      "accessNote": "歷史展覽，5月15日開幕，館內5月16至6月20日；Stachus螢幕放映為6月11至17日18至21時。",
+      "locations": [
+        {
+          "lat": 48.1371857,
+          "lon": 11.5774729,
+          "label": "Artothek Pavillon，Burgstraße 4",
+          "coordinateSource": "https://www.publicartmuenchen.de/projekte/pitch-invaders/",
+          "accuracy": "同一官方建築場址；未定位到室內單件座標",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": true
+    },
+    {
+      "id": "public-art-lab-digital-calligraffiti",
+      "name": "Susa Pop／Public Art Lab與合作藝術家｜Digital Calligraffiti",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "originalDate": "2016起（個案頁）",
+      "updated": "2026-11-19",
+      "comment": "以互動書寫桌、現場書寫與城市螢幕連線，讓難民青年及不同社群把訊息帶進公共可見的媒體空間。Susa Pop發起策畫，Don Karl共同策畫，Michael Ang與Hamza Abu Ayyash開發Infl3ctor互動桌。",
+      "website": "https://www.publicartlab-berlin.de/projects/digital-calligraffiti/",
+      "accessNote": "持續發展的跨城市計畫格式；各次展演時間及位置另查。",
+      "locations": [],
+      "archived": false
+    },
+    {
+      "id": "public-art-lab-spur-der-haeuser-2025-2026",
+      "name": "Public Art Lab／Susa Pop／Hans J. Wiegner與合作創作者｜Spur der Häuser",
+      "country": "德國 / Kempten / Adelegg",
+      "cityKeywords": [
+        "Kempten / Adelegg",
+        "肯普滕／阿德萊格"
+      ],
+      "originalDate": "2025–2026",
+      "updated": "2026-11-19",
+      "comment": "以GPS步行App、地方訪談、聲音敘事及森林藝術介入，重新連結Adelegg玻璃製造時代的廢棄農舍與地方生活。Susa Pop策畫、Hans J. Wiegner藝術統籌，Michaela Vieser參與訪談與文字。",
+      "website": "https://www.publicartlab-berlin.de/projects/spur-der-hauser-2/",
+      "accessNote": "2025年起研究；2026年7月18至19日森林節與9月4至6日Kempten展覽已結束。App及步道現況須回查。",
+      "locations": [
+        {
+          "lat": 47.726,
+          "lon": 10.143,
+          "label": "Haus 21，森林節歷史場址",
+          "coordinateSource": "https://www.publicartlab-berlin.de/projects/spur-der-hauser-2/",
+          "accuracy": "官方提供至小數3位，約百公尺範圍；步道狀況須回查",
+          "checkedAt": "2026-11-19"
+        },
+        {
+          "lat": 47.736,
+          "lon": 10.148,
+          "label": "Wolfsberg 9，歷史裝置場址",
+          "coordinateSource": "https://www.publicartlab-berlin.de/projects/spur-der-hauser-2/",
+          "accuracy": "官方提供至小數3位，約百公尺範圍；步道狀況須回查",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "public-art-lab-liquid-commons-hamburg-2026",
+      "name": "多位藝術家／Susa Pop策畫｜Liquid Commons｜CDSA 2026 漢堡放映",
+      "country": "德國 / Hamburg",
+      "cityKeywords": [
+        "Hamburg",
+        "漢堡"
+      ],
+      "originalDate": "2026",
+      "updated": "2026-11-19",
+      "comment": "在易北愛樂廳入口媒體牆呈現13件錄像，以海洋為共享的星球環境，連結微觀生命、文化記憶與人類介入。此筆記錄已實現的公共螢幕展演，相關徵件與獎項另行分類。",
+      "website": "https://www.publicartlab-berlin.de/projects/liquid-commons/",
+      "accessNote": "漢堡放映2026年11月6至15日，每日10至22時，現已結束。全球節目各城市日期另查。",
+      "locations": [],
+      "archived": true
+    },
+    {
+      "id": "public-art-2026-11-19-11",
+      "name": "11｜Helen Escobedo de Kirsebom｜Signals",
+      "country": "紐西蘭 / Auckland",
+      "cityKeywords": [
+        "Auckland",
+        "奧克蘭"
+      ],
+      "originalDate": "1971",
+      "updated": "2026-11-19",
+      "comment": "四座十五公尺高的不鏽鋼塔，以階梯狀結構及鮮明色彩回應海港的帆、桅杆與吊車，使港口工業形象轉成抽象的城市標誌。",
+      "website": "https://publicart.nz/artworks/helen-escobedo-de-kirsebom-1971",
+      "accessNote": "原資料庫列為可接近；場址開放時間依管理單位。 場址 Fred Ambler Lookout in Dove-Myer Robinson Park, Gladstone Road, Parnell, Tāmaki Makaurau Auckland",
+      "locations": [
+        {
+          "lat": -36.848492589159825,
+          "lon": 174.78530803203225,
+          "label": "Fred Ambler Lookout in Dove-Myer Robinson Park, Gladstone Road, Parnell, Tāmaki Makaurau Auckland",
+          "coordinateSource": "https://publicart.nz/artworks/helen-escobedo-de-kirsebom-1971",
+          "accuracy": "PublicArt Heritage官方典藏場址座標",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "public-art-2026-11-19-12",
+      "name": "12｜Russell Clark｜The Ear",
+      "country": "紐西蘭 / Timaru",
+      "cityKeywords": [
+        "Timaru",
+        "提馬魯"
+      ],
+      "originalDate": "1957",
+      "updated": "2026-11-19",
+      "comment": "在牆面以纖細金屬桿跨越抽象形體的空隙，聯想電報通訊，並讓光線方向改變浮雕的陰影與觀看經驗。",
+      "website": "https://publicart.nz/artworks/russell-clark-1957",
+      "accessNote": "原資料庫列為可接近；場址開放時間依管理單位。 場址 Timaru Telephone Exchange (former), 22 Sophia St, Te Tihi-o-Maru Timaru",
+      "locations": [
+        {
+          "lat": -44.39684814011429,
+          "lon": 171.25222804851418,
+          "label": "Timaru Telephone Exchange (former), 22 Sophia St, Te Tihi-o-Maru Timaru",
+          "coordinateSource": "https://publicart.nz/artworks/russell-clark-1957",
+          "accuracy": "PublicArt Heritage官方典藏場址座標",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "public-art-2026-11-19-13",
+      "name": "13｜Milan Mrkusich｜Mosaic Mural for BJ Ball Building",
+      "country": "紐西蘭 / Auckland",
+      "cityKeywords": [
+        "Auckland",
+        "奧克蘭"
+      ],
+      "originalDate": "1957／1958（平台欄位與圖說不一致）",
+      "updated": "2026-11-19",
+      "comment": "以玻璃馬賽克與現代主義的色彩、形態語彙，將紙業公司的生產意象帶到建築外牆。原平台年份欄為1957，圖說為1958，暫保留差異。",
+      "website": "https://publicart.nz/artworks/milan-mrkusich-1957",
+      "accessNote": "原資料庫列為可接近；場址開放時間依管理單位。 場址 B.J. Ball Building, 35 Graham Street, CBD, Tāmaki Makaurau Auckland",
+      "locations": [
+        {
+          "lat": -36.84641728500172,
+          "lon": 174.75823338301538,
+          "label": "B.J. Ball Building, 35 Graham Street, CBD, Tāmaki Makaurau Auckland",
+          "coordinateSource": "https://publicart.nz/artworks/milan-mrkusich-1957",
+          "accuracy": "PublicArt Heritage官方典藏場址座標",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "public-art-2026-11-19-14",
+      "name": "14｜James Turkington｜Untitled [Parnell Baths]",
+      "country": "紐西蘭 / Auckland",
+      "cityKeywords": [
+        "Auckland",
+        "奧克蘭"
+      ],
+      "originalDate": "1957",
+      "updated": "2026-11-19",
+      "comment": "為 Parnell 泳池建築設計八片玻璃馬賽克壁畫，將游泳活動與更衣室入口結合。作品在2023年遭塗鴉破壞後修復，於2025年11月返回原址。",
+      "website": "https://publicart.nz/artworks/james-turkington-1957",
+      "accessNote": "原資料庫列為可接近；場址開放時間依管理單位。 場址 Parnell Baths, Judges Bay, Parnell, Tāmaki Makaurau Auckland",
+      "locations": [
+        {
+          "lat": -36.84929999999999,
+          "lon": 174.7912859,
+          "label": "Parnell Baths, Judges Bay, Parnell, Tāmaki Makaurau Auckland",
+          "coordinateSource": "https://publicart.nz/artworks/james-turkington-1957",
+          "accuracy": "PublicArt Heritage官方典藏場址座標",
+          "checkedAt": "2026-11-19"
+        }
+      ],
+      "archived": false
+    }
+  ],
+  "stats": {
+    "catalogWorks": 15,
+    "locatedWorks": 10,
+    "pendingWorks": 5,
+    "locations": 14
+  }
+}

@@ -201,6 +201,44 @@ def check_daily_search_and_city_link(records, active):
         REPORT["browser"]["crossDatabaseCity"] = "Seattle artwork → 4Culture competition: success"
         browser.close()
 
+def check_artwork_map():
+    from playwright.sync_api import sync_playwright
+    import base64
+    catalog = get("data/artwork-map.json", True)
+    geo = get("data/artwork-locations.geojson", True)
+    assert catalog["stats"]["locatedWorks"] >= 10, "Fewer than ten verified mapped works"
+    assert len(geo["features"]) == catalog["stats"]["locations"], "Map location count mismatch"
+    assert all(-90 <= f["geometry"]["coordinates"][1] <= 90 and -180 <= f["geometry"]["coordinates"][0] <= 180 and f["properties"]["coordinateSource"] for f in geo["features"]), "Invalid coordinates or missing source"
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True,args=["--no-sandbox"])
+        page = browser.new_page(viewport={"width":1360,"height":900})
+        # Test map UI without requesting/prefetching OSM tiles from a headless bot.
+        pixel = base64.b64decode("iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jG2kAAAAASUVORK5CYII=")
+        page.route("https://tile.openstreetmap.org/**",lambda route: route.fulfill(status=200,content_type="image/png",body=pixel))
+        errors=[]
+        page.on("pageerror",lambda error: errors.append(str(error)))
+        page.goto(BASE+"map/?work=raumfragen-animal-neighborhood-munich-2026",wait_until="domcontentloaded",timeout=70000)
+        page.wait_for_function("()=>document.querySelector('#stats').textContent.includes('已定位')",timeout=30000)
+        assert page.locator(".leaflet-marker-icon").count() >= 1, "Map markers missing"
+        assert "Animal Neighborhood" in page.locator(".leaflet-popup-content").inner_text(), "Selected artwork popup missing"
+        assert "OpenStreetMap" in page.locator(".leaflet-control-attribution").inner_text(), "Missing attribution"
+        page.locator("#mapSearch").fill("Digital Calligraffiti")
+        assert page.locator("#workList .work").count() == 1, "Map search failed"
+        page.locator("#workList .work").click()
+        assert "待核" in page.locator("#mapNotice").inner_text(), "Unlocated work was not marked pending"
+        assert page.locator(".leaflet-marker-icon").count() == 0, "Unlocated work got a false marker"
+        page.set_viewport_size({"width":390,"height":844})
+        page.locator("#mapSearch").fill("Pool People")
+        page.locator("#workList .work").click()
+        assert "Pool People" in page.locator(".leaflet-popup-content").inner_text(), "Mobile marker popup failed"
+        assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 1"), "Mobile map overflows horizontally"
+        page.locator(".leaflet-popup-content a").filter(has_text="作品詳情").first.click()
+        page.locator("#sheet.open #panel").wait_for(timeout=120000)
+        assert "Pool People" in page.locator("#panel").inner_text(), "Map-to-archive deep link failed"
+        assert not errors, errors
+        REPORT["browser"]["artworkMap"]={"locatedWorks":catalog["stats"]["locatedWorks"],"locations":len(geo["features"]),"pendingWorks":catalog["stats"]["pendingWorks"],"desktopMobileDeepLink":"passed","tileRequests":"mocked; no automated tile downloads"}
+        browser.close()
+
 def main():
     try:
         entries=check_endpoints()
@@ -208,6 +246,7 @@ def main():
         check_rendered_gallery()
         records, active = check_daily_art_and_competitions()
         check_daily_search_and_city_link(records, active)
+        check_artwork_map()
     except Exception as e:
         FAILURES.append("Live endpoint: "+str(e))
     REPORT["failures"]=FAILURES
