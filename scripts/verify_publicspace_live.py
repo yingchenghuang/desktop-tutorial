@@ -241,6 +241,48 @@ def check_artwork_map():
         REPORT["browser"]["artworkMap"]={"locatedWorks":catalog["stats"]["locatedWorks"],"locations":len(geo["features"]),"pendingWorks":catalog["stats"]["pendingWorks"],"desktopMobileDeepLink":"passed","tileRequests":"mocked; no automated tile downloads"}
         browser.close()
 
+def check_research_filters():
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True,args=["--no-sandbox"])
+        page = browser.new_page(viewport={"width":1360,"height":900})
+        errors=[]
+        page.on("pageerror",lambda error: errors.append(str(error)))
+        page.goto(BASE,wait_until="domcontentloaded",timeout=70000)
+        page.wait_for_function("()=>document.querySelector('#filterKind option[value=furniture]') && /顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
+        original = page.locator("#resultCount").inner_text()
+        page.locator("#filterKind").select_option("furniture")
+        assert page.locator('[data-id="raumfragen-public-art-pavillon-munich-2026"]').count() >= 1, "Furniture filter missed pavilion"
+        page.locator("#filterSite").select_option("culture")
+        assert page.locator('[data-id="raumfragen-public-art-pavillon-munich-2026"]').count() >= 1, "Combined venue filter failed"
+        page.locator("#clearBtn").click()
+        assert page.locator("#resultCount").inner_text() == original, "Research filters did not reset"
+        page.locator("#researchAdvanced").evaluate("el=>el.open=true")
+        page.locator("#filterCountry").select_option("德國")
+        page.locator("#filterCity").select_option("Munich")
+        page.locator("#filterEra").select_option("2020")
+        assert page.locator('[data-id="raumfragen-animal-neighborhood-munich-2026"]').count() >= 1, "Country/city/original-era filter failed"
+        page.reload(wait_until="domcontentloaded")
+        page.wait_for_function("()=>/顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
+        assert page.locator("#filterCity").input_value() == "Munich", "Bookmarked filter was not restored"
+        page.locator("#clearBtn").click()
+        page.locator('[data-research-mode="opportunities"]').click()
+        page.locator("#researchAdvanced").evaluate("el=>el.open=true")
+        page.locator("#filterCurrency").select_option("NOK")
+        page.locator("#filterBudget").select_option("range:1")
+        assert page.locator('[data-id="competition-2026-11-19-01"]').count() >= 1, "Original-currency budget filter failed"
+        page.set_viewport_size({"width":390,"height":844})
+        assert page.evaluate("document.documentElement.scrollWidth <= innerWidth + 1"), "Filter page overflows mobile viewport"
+        assert page.locator("#filterKind").bounding_box()["width"] <= 200, "Mobile filters not in two columns"
+        page.locator("#clearBtn").click()
+        page.locator('[data-research-mode="participation"]').click()
+        page.locator('[data-id="raumfragen-animal-neighborhood-munich-2026"]').first.click()
+        page.locator("#sheet.open #panel").wait_for(timeout=12000)
+        assert "研究分類" in page.locator("#panel").inner_text(), "Record classification missing"
+        assert not errors, errors
+        REPORT["browser"]["researchFilters"]={"primary":4,"advanced":4,"originalCurrencyBudget":"passed","countryCityEraIntersection":"passed","urlRestoreAndReset":"passed","mobile390":"passed"}
+        browser.close()
+
 def main():
     try:
         entries=check_endpoints()
@@ -249,6 +291,7 @@ def main():
         records, active = check_daily_art_and_competitions()
         check_daily_search_and_city_link(records, active)
         check_artwork_map()
+        check_research_filters()
     except Exception as e:
         FAILURES.append("Live endpoint: "+str(e))
     REPORT["failures"]=FAILURES

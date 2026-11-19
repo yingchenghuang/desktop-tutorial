@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-19",
+  "version": "20261119-research-filters-r145",
+  "primaryFilters": [
+    "創作形式",
+    "應用場域",
+    "取得／推動方式",
+    "作品年代"
+  ],
+  "advancedFilters": [
+    "國家／地區",
+    "城市",
+    "原幣預算",
+    "預算範圍"
+  ],
+  "shortcuts": [
+    "參與式創作",
+    "地景與生態",
+    "公共家具",
+    "找委託機會"
+  ],
+  "classificationPolicy": "依既有媒介、作品名稱、媒材、明確場址及推動文字整理；沒有證據的欄位保留待補。",
+  "yearPolicy": "原作、設置或展期首年；不得以資訊更新日期取代。",
+  "budgetPolicy": "只解析官方既有預算文字，原幣分開篩選，無匯率換算。多筆費用以首筆顯示金額篩選，須回查全文費用性質。",
+  "dataWrites": "未改寫作品原文、主檔日期、每日計數或Notion欄位。",
+  "interaction": [
+    "條件交集",
+    "城市隨國家連動",
+    "即時筆數",
+    "清除單一條件",
+    "清除全部",
+    "網址保存研究條件",
+    "手機兩欄主選單"
+  ],
+  "validation": {
+    "taxonomyFixtures": "passed: original year, unknown commissions, venue names, country aliases and currency ranges",
+    "archiveDOM": "passed: 3412 records; forms, country-city-era, NOK budget, quick modes, URL state, reset",
+    "browserDesktopMobile": "awaiting deployed check"
+  }
+}

@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:ital,wght@0,400;0,500;0,600&family=Noto+Serif+TC:wght@500;600&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?t=20261119-art-map-r144">
+<link rel="stylesheet" href="assets/style.css?t=20261119-research-filters-r145">
 </head>
 <body>
 <header class="topbar" id="topbar">
@@ -41,6 +41,23 @@
     <div class="seg" role="group" aria-label="檔案層級" id="segTier"><button class="on" data-tier="全部">全部</button><button data-tier="經典檔案庫">經典檔案庫</button><button data-tier="全球指標藝術節展">全球指標藝術節展</button><button data-tier="動態情報層">動態情報層</button><button data-tier="全球重要展覽">全球重要展覽</button><button data-tier="競圖資料庫">公開徵選</button><button data-tier="公共空間案例庫">歐洲公共空間</button></div>
     <div class="sortbox"><select id="sort" aria-label="排序方式"><option value="updated" selected>最近更新</option><option value="default">策展排序</option><option value="name">名稱排序</option></select></div>
   </div>
+</section>
+<section class="research-filters wrap" aria-label="創作研究篩選" id="researchFilters">
+  <div class="research-heading"><div><p class="lab">創作研究工具</p><p>從作品形式找到場域，從案例研究走向提案。</p></div><div class="research-shortcuts" role="group" aria-label="研究方向"><button type="button" data-research-mode="participation">參與式創作</button><button type="button" data-research-mode="land">地景與生態</button><button type="button" data-research-mode="furniture">公共家具</button><button type="button" data-research-mode="opportunities">找委託機會</button></div></div>
+  <div class="research-primary">
+    <label>創作形式<select id="filterKind"><option value="">全部形式</option></select></label>
+    <label>應用場域<select id="filterSite"><option value="">全部場域</option></select></label>
+    <label>取得／推動方式<select id="filterMethod"><option value="">全部方式</option></select></label>
+    <label>作品年代<select id="filterEra"><option value="">全部年代</option></select></label>
+  </div>
+  <details class="research-advanced" id="researchAdvanced"><summary>進階篩選 <span>國家、城市與預算</span></summary><div class="research-secondary">
+    <label>國家／地區<select id="filterCountry"><option value="">全部國家／地區</option></select></label>
+    <label>城市<select id="filterCity"><option value="">全部城市</option></select></label>
+    <label>預算幣別<select id="filterCurrency"><option value="">全部原幣</option></select></label>
+    <label>預算範圍<select id="filterBudget"><option value="">不限預算</option><option value="published">已公開金額</option><option value="unknown">金額待補</option></select></label>
+  </div><p class="research-note">預算依原幣篩選，未換算匯率。顧問費、製作費與整體預算請看各案全文。</p></details>
+  <div id="activeResearchFilters" class="active-research-filters" aria-label="目前研究條件"></div>
+  <p class="research-note">分類依現有作品文字整理。年代採原作、設置或展期首年；未知欄位保留待補。</p>
 </section>
 <div class="result-meta wrap archive-count" id="resultMeta"><span id="resultCount">載入中</span><button class="clear" id="clearBtn">清除篩選</button></div>
 <main class="grid wrap" id="grid" aria-live="polite"></main>
@@ -75,7 +92,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20261119-art-map-r144';
+  const cacheKey = '20261119-research-filters-r145';
   const manifestUrls = [
     'data/backfill-july-manifest.json?t=' + cacheKey,
     'data/backfill-august-manifest.json?t=' + cacheKey,
@@ -193,7 +210,8 @@
   };
 })();
 </script>
-<script src="assets/app.js?t=20261119-art-map-r144"></script>
+<script src="assets/archive-taxonomy.js?t=20261119-research-filters-r145"></script>
+<script src="assets/app.js?t=20261119-research-filters-r145"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>

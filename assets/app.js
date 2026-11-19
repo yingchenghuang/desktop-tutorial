@@ -17,7 +17,8 @@
     cat: '全部',
     media: '全部',
     status: '全部',
-    sort: 'updated'
+    sort: 'updated',
+    kind: '', site: '', method: '', era: '', country: '', city: '', currency: '', budgetBand: ''
   };
   var lastFocus = null;
 
@@ -178,6 +179,7 @@
       importance: text(raw.importance),
       relatedByCity: toArray(raw.relatedByCity),
       cityKeywords: toArray(raw.cityKeywords).concat(cityKeywords(raw)).filter(function (v, i, a) { return a.indexOf(v) === i; }),
+      facets: window.ArchiveTaxonomy ? window.ArchiveTaxonomy.classify(raw) : { kind:['unknown'],site:['unknown'],method:['unknown'],era:'unknown',country:'',city:'',budget:null,evidence:[] },
       rank: parsed.rank,
       displayName: parsed.main,
       subName: parsed.sub
@@ -268,6 +270,58 @@
     return copy;
   }
 
+  var researchKeys = ['kind','site','method','era','country','city','currency','budgetBand'];
+  var researchIds = {kind:'filterKind',site:'filterSite',method:'filterMethod',era:'filterEra',country:'filterCountry',city:'filterCity',currency:'filterCurrency',budgetBand:'filterBudget'};
+  var researchLabels = {kind:'創作形式',site:'應用場域',method:'取得／推動',era:'作品年代',country:'國家／地區',city:'城市',currency:'預算幣別',budgetBand:'預算範圍'};
+  var moneyNames = {TWD:'TWD 新臺幣',USD:'USD 美元',EUR:'EUR 歐元',GBP:'GBP 英鎊',CAD:'CAD 加幣',AUD:'AUD 澳幣',NZD:'NZD 紐幣',NOK:'NOK 挪威克朗',JPY:'JPY 日圓',KRW:'KRW 韓元',CHF:'CHF 瑞士法郎',DKK:'DKK 丹麥克朗',SEK:'SEK 瑞典克朗',SGD:'SGD 新加坡元',HKD:'HKD 港幣',PLN:'PLN 茲羅提'};
+  function moneyBands(currency) {
+    var cuts = currency === 'TWD' ? [0,1000000,3000000,5000000,10000000,Infinity] : currency === 'NOK' ? [0,200000,1000000,Infinity] : /JPY|KRW/.test(currency) ? [0,1000000,5000000,Infinity] : [0,25000,100000,250000,Infinity];
+    if (!currency) return [];
+    return cuts.slice(0,-1).map(function (n,i) { var next=cuts[i+1], label = n===0 ? next.toLocaleString('en-US')+' 以下' : !isFinite(next) ? n.toLocaleString('en-US')+' 以上' : n.toLocaleString('en-US')+' 至 '+next.toLocaleString('en-US'); return ['range:'+i,label,n,next]; });
+  }
+  function budgetMatch(e, value) {
+    var b=e.facets.budget;
+    if (!value) return true;
+    if (value === 'unknown') return !b;
+    if (value === 'published') return !!b;
+    var band=moneyBands(state.currency).filter(function(x){return x[0]===value;})[0];
+    return !!(b && band && b.currency===state.currency && b.max>=band[2] && b.min<=band[3]);
+  }
+  function matchesBaseResearch(e) { var q=state.q.trim().toLowerCase();return (state.tier==='全部'||e.tier===state.tier)&&(state.region==='全部'||e.region===state.region)&&(state.cat==='全部'||e.category===state.cat)&&(state.media==='全部'||e.media.indexOf(state.media)>=0)&&(state.status==='全部'||e.status===state.status)&&(!q||e.searchText.indexOf(q)>=0); }
+  function matchesResearch(e, ignore) {
+    var f=e.facets;
+    return researchKeys.every(function (key) {
+      if (key===ignore || !state[key]) return true;
+      if (/^(kind|site|method)$/.test(key)) return f[key].indexOf(state[key])>=0;
+      if (key==='budgetBand') return budgetMatch(e,state[key]);
+      if (key==='currency') return !!(f.budget && f.budget.currency===state[key]);
+      return f[key]===state[key];
+    });
+  }
+  function researchOptions(key) {
+    var tax=window.ArchiveTaxonomy;
+    if (!tax) return [];
+    if (key==='kind') return tax.kinds;
+    if (key==='site') return tax.sites;
+    if (key==='method') return tax.methods;
+    if (key==='era') return tax.eras;
+    if (key==='budgetBand') return [['published','已公開金額'],['unknown','金額待補']].concat(moneyBands(state.currency));
+    var values={};
+    DATA.forEach(function(e){var f=e.facets,v=key==='currency'?(f.budget&&f.budget.currency):f[key];if(key==='city'&&state.country&&f.country!==state.country)return;if(v)values[v]=key==='currency'?(moneyNames[v]||v):key==='city'?(f.cityLabel||v):v;});
+    return Object.keys(values).sort(function(a,b){return a.localeCompare(b,'zh-Hant');}).map(function(v){return[v,values[v]];});
+  }
+  function researchValueLabel(key,value) {var o=researchOptions(key).filter(function(x){return x[0]===value;})[0];return o?o[1]:value;}
+  function researchSummary(e) {var f=e.facets;return ['形式 '+f.kind.map(function(v){return researchValueLabel('kind',v);}).join('、'),'場域 '+f.site.map(function(v){return researchValueLabel('site',v);}).join('、'),'推動 '+f.method.map(function(v){return researchValueLabel('method',v);}).join('、'),'年代 '+(f.year||'待補')].join('；');}
+  function updateResearchControls() {
+    var empty={kind:'全部形式',site:'全部場域',method:'全部方式',era:'全部年代',country:'全部國家／地區',city:'全部城市',currency:'全部原幣',budgetBand:'不限預算'};
+    researchKeys.forEach(function(key){var el=document.getElementById(researchIds[key]);if(!el)return;var counts={};var candidates=DATA.filter(function(e){return matchesBaseResearch(e)&&matchesResearch(e,key);});var options=researchOptions(key);if(key==='budgetBand'){options.forEach(function(o){counts[o[0]]=candidates.filter(function(e){return budgetMatch(e,o[0]);}).length;});}else{candidates.forEach(function(e){var f=e.facets,values=key==='currency'?[f.budget&&f.budget.currency]:Array.isArray(f[key])?f[key]:[f[key]];values.forEach(function(v){if(v)counts[v]=(counts[v]||0)+1;});});}el.innerHTML='<option value="">'+empty[key]+'</option>'+options.map(function(o){return '<option value="'+esc(o[0])+'">'+esc(o[1])+'（'+counts[o[0]]+'）</option>';}).join('');el.value=state[key];});
+    $('#activeResearchFilters').innerHTML=researchKeys.filter(function(k){return state[k];}).map(function(k){return '<button type="button" data-clear-facet="'+k+'">'+esc(researchLabels[k])+' · '+esc(researchValueLabel(k,state[k]))+' <span aria-hidden="true">×</span><span class="sr-only">移除此條件</span></button>';}).join('');
+    document.querySelectorAll('[data-research-mode]').forEach(function(b){var mode=b.dataset.researchMode;b.setAttribute('aria-pressed',String(mode==='opportunities'?state.cat==='公開徵件':state.kind===mode));});
+    var url=new URL(window.location.href);researchKeys.forEach(function(k){if(state[k])url.searchParams.set(k,state[k]);else url.searchParams.delete(k);});if(url.href!==window.location.href)history.replaceState(null,'',url.pathname+url.search+url.hash);
+  }
+  function readResearchUrl(){var params=new URLSearchParams(window.location.search);researchKeys.forEach(function(k){var v=params.get(k)||'';if(researchOptions(k).some(function(o){return o[0]===v;}))state[k]=v;});if(state.country||state.city||state.currency||state.budgetBand)$('#researchAdvanced').open=true;}
+  function bindResearch(){researchKeys.forEach(function(k){document.getElementById(researchIds[k]).addEventListener('change',function(){state[k]=this.value;if(k==='country')state.city='';if(k==='currency'&&(/^range:/.test(state.budgetBand)||state.budgetBand==='unknown'))state.budgetBand='';if(k==='budgetBand'&&state.budgetBand==='unknown')state.currency='';apply();});});$('#activeResearchFilters').addEventListener('click',function(ev){var b=ev.target.closest('[data-clear-facet]');if(!b)return;state[b.dataset.clearFacet]='';if(b.dataset.clearFacet==='country')state.city='';if(b.dataset.clearFacet==='currency'&&/^range:/.test(state.budgetBand))state.budgetBand='';apply();});document.querySelectorAll('[data-research-mode]').forEach(function(b){b.addEventListener('click',function(){var mode=this.dataset.researchMode;if((mode==='opportunities'&&state.cat==='公開徵件')||(mode!=='opportunities'&&state.kind===mode)){resetFilters();return;}researchKeys.forEach(function(k){state[k]='';});state.tier='全部';state.region='全部';state.cat=mode==='opportunities'?'公開徵件':'作品/展覽';state.media='全部';state.status='全部';state.q='';$('#q').value='';if(mode!=='opportunities')state.kind=mode;document.querySelectorAll('#segTier button').forEach(function(x){x.classList.toggle('on',x.dataset.tier==='全部');});buildChips();apply();});});}
+
   function filteredList() {
     var q = state.q.trim().toLowerCase();
     return DATA.filter(function (e) {
@@ -276,6 +330,7 @@
       if (state.cat !== '全部' && e.category !== state.cat) return false;
       if (state.media !== '全部' && e.media.indexOf(state.media) < 0) return false;
       if (state.status !== '全部' && e.status !== state.status) return false;
+      if (!matchesResearch(e)) return false;
       if (q && e.searchText.indexOf(q) < 0) return false;
       return true;
     });
@@ -286,7 +341,8 @@
     renderGrid(list);
     renderLatest();
     var filtered = state.q || state.tier !== '全部' || state.region !== '全部' ||
-      state.cat !== '全部' || state.media !== '全部' || state.status !== '全部';
+      state.cat !== '全部' || state.media !== '全部' || state.status !== '全部' || researchKeys.some(function (key) { return !!state[key]; });
+    updateResearchControls();
     $('#resultCount').textContent = '顯示 ' + list.length + ' / ' + DATA.length + ' 筆';
     $('#resultMeta').classList.toggle('filtered', !!filtered);
     $('#clearBtn').classList.toggle('show', !!filtered);
@@ -441,6 +497,7 @@
     state.media = '全部';
     state.status = '全部';
     $('#q').value = '';
+    researchKeys.forEach(function (key) { state[key] = ''; });
     document.querySelectorAll('#segTier button').forEach(function (b) {
       b.classList.toggle('on', b.dataset.tier === '全部');
     });
@@ -621,6 +678,7 @@
       ? '<div class="block"><div class="block-label">城市關鍵字</div><span class="tags">' + e.cityKeywords.map(function (city) { return '<span class="tag">#' + esc(city) + '</span>'; }).join('') + '</span></div>'
       : '';
 
+    var researchDetails = '<div class="block"><div class="block-label">研究分類</div><p>' + esc(researchSummary(e)) + '</p><small>依現有作品文字整理；未載明者保留待補。</small></div>';
     $('#panel').innerHTML =
       '<div class="panel-head"><div class="badges">' + badges + '</div>' +
       '<button class="close" id="sheetClose" aria-label="關閉">×</button></div>' +
@@ -630,7 +688,7 @@
       fig + galleryHtml +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      accessDetails + imageDetails + sourceHistory + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
+      researchDetails + accessDetails + imageDetails + sourceHistory + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
@@ -664,8 +722,7 @@
       state.tier = b.dataset.tier;
       this.querySelectorAll('button').forEach(function (x) { x.classList.toggle('on', x === b); });
       apply();
-      var targetWork = new URLSearchParams(window.location.search).get('work');
-      if (targetWork && DATA.some(function (entry) { return entry.id === targetWork; })) openSheet(targetWork);
+
     });
 
     $('#sort').addEventListener('change', function () { state.sort = this.value; apply(); });
@@ -803,6 +860,8 @@
       });
       renderStats();
       buildChips();
+      readResearchUrl();
+      bindResearch();
       bind();
       apply();
       var targetWork = new URLSearchParams(window.location.search).get('work');
