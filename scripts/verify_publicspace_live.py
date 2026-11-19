@@ -248,7 +248,7 @@ def check_research_filters():
         page = browser.new_page(viewport={"width":1360,"height":900})
         errors=[]
         page.on("pageerror",lambda error: errors.append(str(error)))
-        page.goto(BASE,wait_until="domcontentloaded",timeout=70000)
+        page.goto(BASE+"?verify=pending-categories-r146",wait_until="domcontentloaded",timeout=70000)
         page.wait_for_function("()=>document.querySelector('#filterKind option[value=furniture]') && /顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
         original = page.locator("#resultCount").inner_text()
         page.locator("#filterKind").select_option("furniture")
@@ -271,6 +271,24 @@ def check_research_filters():
         page.locator("#filterCurrency").select_option("NOK")
         page.locator("#filterBudget").select_option("range:1")
         assert page.locator('[data-id="competition-2026-11-19-01"]').count() >= 1, "Original-currency budget filter failed"
+        page.locator("#clearBtn").click()
+        page.locator("#researchAdvanced").evaluate("el=>el.open=true")
+        page.locator("#filterQuality").select_option("missing-method")
+        assert page.locator("#grid .card").count() > 0, "Missing-method classification is empty"
+        page.locator("#grid .card").first.click()
+        page.locator("#sheet.open #panel .pending-detail").wait_for(timeout=12000)
+        assert "取得／推動方式" in page.locator("#panel .pending-detail").inner_text(), "Missing-field reason not displayed"
+        page.locator("#sheetClose").click()
+        page.reload(wait_until="domcontentloaded")
+        page.wait_for_function("()=>document.querySelector('#filterQuality').value==='missing-method'",timeout=120000)
+        assert page.locator("#researchAdvanced").get_attribute("open") is not None, "Pending deep link did not open advanced filters"
+        page.locator("#clearBtn").click()
+        page.locator("#filterQuality").select_option("profile")
+        assert page.locator("#grid .card").count() > 0, "Profile records missing"
+        page.locator("#grid .card").first.click()
+        page.locator("#sheet.open #panel").wait_for(timeout=12000)
+        assert page.locator("#panel .pending-detail").count() == 0, "Profiles misreported as pending case data"
+        page.locator("#sheetClose").click()
         page.set_viewport_size({"width":390,"height":844})
         assert page.evaluate("document.documentElement.scrollWidth <= innerWidth + 1"), "Filter page overflows mobile viewport"
         assert page.locator("#filterKind").bounding_box()["width"] <= 200, "Mobile filters not in two columns"
@@ -280,7 +298,7 @@ def check_research_filters():
         page.locator("#sheet.open #panel").wait_for(timeout=12000)
         assert "研究分類" in page.locator("#panel").inner_text(), "Record classification missing"
         assert not errors, errors
-        REPORT["browser"]["researchFilters"]={"primary":4,"advanced":4,"originalCurrencyBudget":"passed","countryCityEraIntersection":"passed","urlRestoreAndReset":"passed","mobile390":"passed"}
+        REPORT["browser"]["researchFilters"]={"primary":4,"advanced":5,"pendingReasonAndProfileScope":"passed","pendingUrlRestore":"passed","originalCurrencyBudget":"passed","countryCityEraIntersection":"passed","urlRestoreAndReset":"passed","mobile390":"passed"}
         browser.close()
 
 def main():

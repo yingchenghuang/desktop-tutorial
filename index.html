@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Instrument+Sans:ital,wght@0,400;0,500;0,600&family=Noto+Serif+TC:wght@500;600&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/style.css?t=20261119-research-filters-r145">
+<link rel="stylesheet" href="assets/style.css?t=20261119-pending-categories-r146">
 </head>
 <body>
 <header class="topbar" id="topbar">
@@ -50,14 +50,15 @@
     <label>取得／推動方式<select id="filterMethod"><option value="">全部方式</option></select></label>
     <label>作品年代<select id="filterEra"><option value="">全部年代</option></select></label>
   </div>
-  <details class="research-advanced" id="researchAdvanced"><summary>進階篩選 <span>國家、城市與預算</span></summary><div class="research-secondary">
+  <details class="research-advanced" id="researchAdvanced"><summary>進階篩選 <span>國家、城市、預算與待補資料</span></summary><div class="research-secondary">
     <label>國家／地區<select id="filterCountry"><option value="">全部國家／地區</option></select></label>
     <label>城市<select id="filterCity"><option value="">全部城市</option></select></label>
     <label>預算幣別<select id="filterCurrency"><option value="">全部原幣</option></select></label>
     <label>預算範圍<select id="filterBudget"><option value="">不限預算</option><option value="published">已公開金額</option><option value="unknown">金額待補</option></select></label>
+    <label>待補資料分類<select id="filterQuality"><option value="">全部資料狀態</option></select></label>
   </div><p class="research-note">預算依原幣篩選，未換算匯率。顧問費、製作費與整體預算請看各案全文。</p></details>
   <div id="activeResearchFilters" class="active-research-filters" aria-label="目前研究條件"></div>
-  <p class="research-note">分類依現有作品文字整理。年代採原作、設置或展期首年；未知欄位保留待補。</p>
+  <p class="research-note">待補資料可在進階篩選依「形式、場域、推動方式、年代」查看，每筆詳情列出缺項原因。藝術家與機構介紹另列；徵件未公布作品年代時標為不適用。分類依現有資料整理。</p>
 </section>
 <div class="result-meta wrap archive-count" id="resultMeta"><span id="resultCount">載入中</span><button class="clear" id="clearBtn">清除篩選</button></div>
 <main class="grid wrap" id="grid" aria-live="polite"></main>
@@ -92,7 +93,7 @@
 <script>
 (() => {
   const originalFetch = window.fetch.bind(window);
-  const cacheKey = '20261119-research-filters-r145';
+  const cacheKey = '20261119-pending-categories-r146';
   const manifestUrls = [
     'data/backfill-july-manifest.json?t=' + cacheKey,
     'data/backfill-august-manifest.json?t=' + cacheKey,
@@ -210,8 +211,8 @@
   };
 })();
 </script>
-<script src="assets/archive-taxonomy.js?t=20261119-research-filters-r145"></script>
-<script src="assets/app.js?t=20261119-research-filters-r145"></script>
+<script src="assets/archive-taxonomy.js?t=20261119-pending-categories-r146"></script>
+<script src="assets/app.js?t=20261119-pending-categories-r146"></script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "d91a5be9cff54d3eacc5480681e22c28"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>

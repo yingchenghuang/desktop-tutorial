@@ -1,0 +1,122 @@
+{
+  "date": "2026-11-19",
+  "version": "20261119-pending-categories-r146",
+  "total": 3412,
+  "classificationBasis": "既有收錄文字的規則分類，未新增或重新查證外部事實；原始來源、圖像權利與日期保持原樣。",
+  "refinedRecords": 850,
+  "newlyClassifiedFields": {
+    "kind": 232,
+    "site": 456,
+    "method": 112,
+    "era": 204
+  },
+  "remainingUnknown": {
+    "kind": 346,
+    "site": 2204,
+    "method": 2971,
+    "era": 416
+  },
+  "profileRecordsSeparated": 255,
+  "openCallsWithoutWorkYear": 129,
+  "note": "各缺項可重疊；不適用與新增已知分類分開計數。分類完整僅指四項研究欄位，不能作為整筆來源事實均已驗證的標記。",
+  "examples": [
+    {
+      "id": "dynamic-2026-07-05-serpentine-pavilion-lanza",
+      "name": "02｜Lanza Atelier｜Serpentine Pavilion 2026: a serpentine",
+      "fields": [
+        "site"
+      ],
+      "source": "https://www.serpentinegalleries.org/whats-on/serpentine-pavilion-2026/"
+    },
+    {
+      "id": "public-art-2026-11-19-11",
+      "name": "11｜Helen Escobedo de Kirsebom｜Signals",
+      "fields": [
+        "site"
+      ],
+      "source": "https://publicart.nz/artworks/helen-escobedo-de-kirsebom-1971"
+    },
+    {
+      "id": "public-art-2026-11-19-13",
+      "name": "13｜Milan Mrkusich｜Mosaic Mural for BJ Ball Building",
+      "fields": [
+        "site"
+      ],
+      "source": "https://publicart.nz/artworks/milan-mrkusich-1957"
+    },
+    {
+      "id": "public-art-2026-11-19-16",
+      "name": "16｜Peter Daniel｜EMET - MET - EMET",
+      "fields": [
+        "site"
+      ],
+      "source": "https://koernoe.at/en/project/147/emet-met-emet"
+    },
+    {
+      "id": "public-art-2026-11-19-17",
+      "name": "17｜Nora Bachel｜Holz",
+      "fields": [
+        "site"
+      ],
+      "source": "https://koernoe.at/en/project/277/holz"
+    },
+    {
+      "id": "public-art-2026-11-19-18",
+      "name": "18｜Walter Berger｜Malerei",
+      "fields": [
+        "site"
+      ],
+      "source": "https://koernoe.at/en/project/278/malerei"
+    },
+    {
+      "id": "public-art-2026-11-19-19",
+      "name": "19｜Adolf Frohner｜Schraffur",
+      "fields": [
+        "site"
+      ],
+      "source": "https://koernoe.at/en/project/280/schraffur"
+    },
+    {
+      "id": "public-art-2026-11-18-09",
+      "name": "09｜Scott Keva James｜Kaleidoburst",
+      "fields": [
+        "site"
+      ],
+      "source": "https://www.portland.gov/arts/news/2026/10/26/creative-storefronts-transforms-vacant-spaces-public-art"
+    },
+    {
+      "id": "public-art-2026-11-18-10",
+      "name": "10｜Shria Blake｜The Space Between",
+      "fields": [
+        "site"
+      ],
+      "source": "https://www.portland.gov/arts/news/2026/10/26/creative-storefronts-transforms-vacant-spaces-public-art"
+    },
+    {
+      "id": "kunst-am-bau-70-01",
+      "name": "Hermann Kirchberger｜Deutsches Nationaltheater Weimar（1949；作品名待核）",
+      "fields": [
+        "site"
+      ],
+      "source": "https://www.gbv.de/dms/tib-ub-hannover/1735143022.pdf"
+    },
+    {
+      "id": "public-art-2026-11-17-01",
+      "name": "01｜Lois Klassen｜Blanketing",
+      "fields": [
+        "kind",
+        "site"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=973&FromArtworkSearch=False"
+    },
+    {
+      "id": "public-art-2026-11-17-02",
+      "name": "02｜Carmen Rosen｜Water Woman",
+      "fields": [
+        "kind",
+        "site"
+      ],
+      "source": "https://covapp.vancouver.ca/PublicArtRegistry/ArtworkDetail.aspx?ArtworkId=996&FromArtworkSearch=False"
+    }
+  ]
+}
