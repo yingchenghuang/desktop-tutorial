@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "date": "2026-11-20",
+    "generatedAt": "2026-11-20T19:56:30+08:00",
+    "version": "20261120-giraffe-case-r150",
+    "total": 1,
+    "caseEntries": 1,
+    "countsTowardDailyTarget": false,
+    "note": "使用者指定追加之2012年法國建築整合藝術；沿用既有Notion研究，不占當日固定20/5/5。"
+  },
+  "entries": [
+    {
+      "id": "hondelatte-laporte-giraffe-childcare-center-2012",
+      "dedupeKey": "classic-hondelatte-laporte-giraffe-childcare-center-boulogne-billancourt-2012",
+      "name": "Hondelatte Laporte｜長頸鹿幼兒園 La Crèche de la Girafe（2012）",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "法國 / Boulogne-Billancourt",
+      "cityKeywords": [
+        "Boulogne-Billancourt",
+        "布洛涅比揚古"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "artKinds": [
+        "architecture",
+        "sculpture"
+      ],
+      "siteTypes": [
+        "school"
+      ],
+      "originalDate": "2012",
+      "works": "La Crèche de la Girafe｜2012",
+      "comment": "以約18公尺高的黃色長頸鹿貫穿三層托育建築，連同屋頂北極熊與立面瓢蟲，將入口、露台、觀看尺度與兒童想像整合為城市地標。2012年由 Hondelatte Laporte Architectes 完成，適合作為藝術與建築共同設計的跨國比較案例。",
+      "website": "https://www.mathieulaporte.fr/Creche-La-Girafe",
+      "workPage": "https://www.ileseguin-rivesdeseine.fr/fr/projets/creche-de-la-girafe",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-01.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-01.jpg",
+      "classicTitle": "長頸鹿幼兒園 La Crèche de la Girafe｜2012",
+      "classicDesc": "黃色長頸鹿、白色北極熊與瓢蟲共同構成教育建築的空間敘事，結合都市更新、第五立面與兒童尺度。本筆為2012年歷史完成案例，2026年11月20日追加入庫。",
+      "material": "混凝土動物造形與托育建築整合；內部結構與承重方式未公開",
+      "workSite": "Crèche de la Girafe，227 rue du Vieux-Pont-de-Sèvres, Boulogne-Billancourt",
+      "organizer": "SAEM／SPL Val de Seine Aménagement",
+      "budget": "建築工程總額 EUR 3,530,070（未稅，官網 DGD 含動物造形）；2012年工程報導另記 EUR 3,744,694（未稅）。獨立藝術品預算未公開，兩種口徑不合併。",
+      "artistStatement": "將野生動物介入城市托育建築，讓兒童想像與日常公共空間產生敘事關係。",
+      "artistStatementSource": "https://www.mathieulaporte.fr/Creche-La-Girafe",
+      "imageCredit": "攝影 © Philippe Ruault；Archello",
+      "imagePhotographer": "Philippe Ruault",
+      "imageCaption": "圖01｜街道正面全景：長頸鹿身軀被白色懸挑建築量體橫切，黃色頸部從屋頂伸出。攝影 © Philippe Ruault；圖源 Archello。",
+      "imageSourceUrl": "https://archello.com/project/giraffe-childcare-center",
+      "imageDisplayPolicy": "source-attributed",
+      "imageRights": "照片與圖面著作權屬原權利人，各圖列示署名與原始來源；網頁圖像為等比例縮圖及JPEG壓縮，未裁切，未宣稱取得再授權。",
+      "imageVerification": "10張Notion既有原生研究圖像已下載、解碼、逐張檢視並保存同源預覽；包含照片、配置圖、平面圖與剖面圖。",
+      "imageKind": "artwork-photographs-and-drawings",
+      "gallerySourceName": "建築師、開發單位及各圖原刊平台",
+      "images": [
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-01.jpg",
+          "caption": "圖01｜街道正面全景：長頸鹿身軀被白色懸挑建築量體橫切，黃色頸部從屋頂伸出。攝影 © Philippe Ruault；圖源 Archello。",
+          "credit": "攝影 © Philippe Ruault；Archello",
+          "kind": "作品與建築照片",
+          "sourceUrl": "https://archello.com/project/giraffe-childcare-center",
+          "width": 1600,
+          "height": 1067
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-02.jpg",
+          "caption": "圖02｜基地開發機構的城市視角：長頸鹿穿越建築，背後可見密集的都市開發。來源 SPL Val de Seine Aménagement。",
+          "credit": "圖源 SPL Val de Seine Aménagement；攝影署名依原頁",
+          "kind": "作品與建築照片",
+          "sourceUrl": "https://www.ileseguin-rivesdeseine.fr/fr/projets/creche-de-la-girafe",
+          "width": 1300,
+          "height": 800
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-03.jpg",
+          "caption": "圖03｜屋頂露台：長頸鹿脖子向上伸出、軀幹落於平台，周邊量體與欄杆凸顯比例。圖源 gooood，攝影 © Philippe Ruault。",
+          "credit": "攝影 © Philippe Ruault；gooood",
+          "kind": "作品與建築照片",
+          "sourceUrl": "https://www.gooood.cn/giraffe-childcare-center.htm",
+          "width": 1080,
+          "height": 724
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-04.jpg",
+          "caption": "圖04｜屋頂露台上的白色北極熊，與兒童遊戲設備和護欄形成視覺關係。圖源 Ateliers Mathieu Laporte；攝影 © Philippe Ruault。",
+          "credit": "攝影 © Philippe Ruault；Ateliers Mathieu Laporte",
+          "kind": "作品與建築照片",
+          "sourceUrl": "https://www.mathieulaporte.fr/Creche-La-Girafe",
+          "width": 1600,
+          "height": 1067
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-05.jpg",
+          "caption": "圖05｜基地配置圖。長頸鹿幼兒園位於 Horizons 大樓附近，街道、廣場與連接步道在基地四周交會。圖源 Hondelatte Laporte Architectes／gooood。",
+          "credit": "圖面 Hondelatte Laporte Architectes；gooood",
+          "kind": "平面／剖面圖",
+          "sourceUrl": "https://www.gooood.cn/giraffe-childcare-center.htm",
+          "width": 1080,
+          "height": 764
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-06.jpg",
+          "caption": "圖06｜幼兒園部分平面圖，可觀察長條型活動場域與室內房間的組織。設計圖來源 Hondelatte Laporte Architectes；平台 Divisare。",
+          "credit": "圖面 Hondelatte Laporte Architectes；Divisare",
+          "kind": "平面／剖面圖",
+          "sourceUrl": "https://divisare.com/projects/220627-hondelatte-laporte-architectes-philippe-ruault-giraffe-childcare-center",
+          "width": 1000,
+          "height": 476
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-07.jpg",
+          "caption": "圖07｜建築剖面：連續的三層量體、地面與屋頂平台之間，長頸鹿雕塑提供垂直比例參照。圖源 Hondelatte Laporte Architectes／gooood。",
+          "credit": "圖面 Hondelatte Laporte Architectes；gooood",
+          "kind": "平面／剖面圖",
+          "sourceUrl": "https://www.gooood.cn/giraffe-childcare-center.htm",
+          "width": 1080,
+          "height": 514
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-08.jpg",
+          "caption": "圖08｜入口的遮蔽空間與樓梯、欄杆及長頸鹿腿部交織，呈現藝術雕塑與實際使用設施的關係。圖源 gooood，攝影 © Philippe Ruault。",
+          "credit": "攝影 © Philippe Ruault；gooood",
+          "kind": "作品與建築照片",
+          "sourceUrl": "https://www.gooood.cn/giraffe-childcare-center.htm",
+          "width": 1080,
+          "height": 720
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-09.jpg",
+          "caption": "圖09｜室內托育空間、兒童家具、玻璃門及戶外遊戲區的連續視野。攝影 © Philippe Ruault；圖源 Divisare。",
+          "credit": "攝影 © Philippe Ruault；Divisare",
+          "kind": "作品與建築照片",
+          "sourceUrl": "https://divisare.com/projects/220627-hondelatte-laporte-architectes-philippe-ruault-giraffe-childcare-center",
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "url": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/giraffe-childcare-center/giraffe-10.jpg",
+          "caption": "圖10｜室內、北極熊露台、外牆及兒童遊戲場四視角整理。圖源 gooood；照片 © Philippe Ruault。",
+          "credit": "攝影 © Philippe Ruault；gooood",
+          "kind": "作品與建築照片",
+          "sourceUrl": "https://www.gooood.cn/giraffe-childcare-center.htm",
+          "width": 1080,
+          "height": 724
+        }
+      ],
+      "caseFacts": [
+        [
+          "原作／完工年",
+          "2012；2012年3月5日開始接待幼兒"
+        ],
+        [
+          "設計",
+          "Hondelatte Laporte Architectes；Raphaëlle Hondelatte、Mathieu Laporte"
+        ],
+        [
+          "地址",
+          "227 rue du Vieux-Pont-de-Sèvres, 92100 Boulogne-Billancourt, France"
+        ],
+        [
+          "委託／開發",
+          "SAEM／SPL Val de Seine Aménagement"
+        ],
+        [
+          "尺度",
+          "長頸鹿約18公尺；三層退縮量體"
+        ],
+        [
+          "規模",
+          "1,450 m²（建築師）；SHON 1,459 m²（開發單位）"
+        ],
+        [
+          "主要影像署名",
+          "攝影 © Philippe Ruault；圖面 Hondelatte Laporte Architectes"
+        ],
+        [
+          "預算性質",
+          "建築工程總額，含動物造形；獨立藝術品預算未公開"
+        ]
+      ],
+      "caseSections": [
+        {
+          "title": "城市脈絡與公共性",
+          "paragraphs": [
+            "基地位於 Boulogne-Billancourt 的 Seguin Rives de Seine 更新區，銜接1970年代 Vieux Pont de Sèvres 住宅區與新開發 Le Trapèze。建築師以三層退縮量體、平台與坡道回應鄰近高密度天際線。",
+            "長頸鹿的四腿構成入口的尺度經驗，頭頸超出屋頂；北極熊與瓢蟲把敘事延伸至露台、立面及庭院。公眾可觀看的都市地標，與可自由進入的公共設施應分別理解。"
+          ]
+        },
+        {
+          "title": "兒童尺度與建築整合",
+          "paragraphs": [
+            "作品可從身體、街道與高樓俯瞰三種尺度觀察。動物介入入口、挑空與屋頂，改寫行走和觀看的經驗；此案宜歸入建築整合藝術與大型雕塑。",
+            "本案為法國托育設施，可與 Kunst am Bau 制度作比較，未列為德國官方 Kunst am Bau 成果。"
+          ]
+        },
+        {
+          "title": "圖面與材料研究",
+          "paragraphs": [
+            "本頁收錄10張既有研究圖片，包含街景、都市關係、長頸鹿與北極熊、室內外空間，以及基地配置、部分平面與剖面圖。每張圖保留來源與署名。",
+            "2012年工程報導記載動物造形由 AAB Atelier Artistique du Béton 製作，材料為混凝土。現有資料未提供完整結構計算、鋼筋或連接節點，無法據外觀判斷長頸鹿各腿的實際承重。"
+          ]
+        },
+        {
+          "title": "原始資料差異",
+          "paragraphs": [
+            "建築師官網記載1,450平方公尺、60名托育加30名多元托育；開發單位記載 SHON 1,459平方公尺、60加20名，並公告2012年3月5日啟用。各來源口徑保留，未推定差異原因。",
+            "建築師官網的工程總額為 EUR 3,530,070，未稅，含動物造形；2012年工程報導另記 EUR 3,744,694，未稅。兩者均屬建築工程資料，不能當作長頸鹿雕塑的獨立製作預算。"
+          ]
+        },
+        {
+          "title": "能源策略與待補資料",
+          "paragraphs": [
+            "官網以 Projet Zéro Energie / Effinergie 描述專案，ICEB 記錄雙流通風、地下空氣熱交換、太陽能與高性能外殼等策略。設計目標與認證描述不能替代長期營運實測。",
+            "作品獨立預算、完整施工圖、實際承重結構及長期能源實測仍待補；現時營運及參訪資訊需回查管理單位。"
+          ]
+        },
+        {
+          "title": "Bauwelt 文獻與完整研究",
+          "paragraphs": [
+            "既有 Notion 研究記錄 Bauwelt 5/2013「Die letzte Seite」欄目〈Nur gelb〉及使用者提供的雜誌掃描脈絡；本次沿用該書目，未將尚未轉存的原始掃描當作已上線附件。",
+            "12章完整研究與原有10張 Notion 原生圖片持續保留，透過下方連結開啟。"
+          ]
+        }
+      ],
+      "researchSources": [
+        {
+          "label": "建築師官方專案",
+          "url": "https://www.mathieulaporte.fr/Creche-La-Girafe"
+        },
+        {
+          "label": "官方開發單位與地址",
+          "url": "https://www.ileseguin-rivesdeseine.fr/fr/projets/creche-de-la-girafe"
+        },
+        {
+          "label": "2012年3月5日啟用公告",
+          "url": "https://www.ileseguin-rivesdeseine.fr/fr/actualite/la-creche-de-la-girafe-ouvre-ses-portes"
+        },
+        {
+          "label": "ICEB 能源與工程資料",
+          "url": "https://www.asso-iceb.org/projet/creche-de-la-girafe-a-boulogne-billancourt/"
+        },
+        {
+          "label": "ArchDaily：建築師提供之專案說明",
+          "url": "https://www.archdaily.com/316652/giraffe-childcare-center-hondelatte-laporte-architectes"
+        },
+        {
+          "label": "Divisare：攝影與圖面",
+          "url": "https://divisare.com/projects/220627-hondelatte-laporte-architectes-philippe-ruault-giraffe-childcare-center"
+        },
+        {
+          "label": "Archello：建築圖像",
+          "url": "https://archello.com/project/giraffe-childcare-center"
+        },
+        {
+          "label": "2012年工程報導與製作團隊",
+          "url": "https://www.maisonapart.com/edito/autour-de-l-habitat/insolite/au-milieu-d-une-creche-se-dresse-une-girafe-7590.php"
+        },
+        {
+          "label": "gooood：基地與剖面圖",
+          "url": "https://www.gooood.cn/giraffe-childcare-center.htm"
+        }
+      ],
+      "notionUrl": "https://app.notion.com/p/41e34a20271a81418beecf0e28634654",
+      "accessNote": "托育設施的建築整合藝術，可研究街道外觀與入口尺度；室內、露台與屋頂不應視為自由開放場域。2012年完成及啟用；未另外核實2026年營運、參訪或開放時段。",
+      "status": "官方來源",
+      "updated": "2026-11-20",
+      "collectionDate": "2026-11-20",
+      "sourceCheckedDate": "2026-11-20",
+      "researchGroup": "user-requested-case",
+      "countsTowardDailyTarget": false,
+      "relatedByCity": []
+    }
+  ]
+}

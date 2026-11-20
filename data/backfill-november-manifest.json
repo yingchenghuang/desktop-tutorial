@@ -1,6 +1,6 @@
 {
-  "version": "20261120-reviewed-r147",
-  "generatedAt": "2026-11-20T05:45:00+08:00",
+  "version": "20261120-giraffe-case-r150",
+  "generatedAt": "2026-11-20T19:56:30+08:00",
   "files": [
     "backfill-november-20261101.json",
     "backfill-november-20261102.json",
@@ -27,9 +27,10 @@
     "backfill-november-20261119.json",
     "munich-sources-special-20261119.json",
     "german-public-art-special-20261119.json",
-    "backfill-november-20261120.json"
+    "backfill-november-20261120.json",
+    "giraffe-childcare-center-special-20261120.json"
   ],
-  "expectedEntries": 603,
-  "imageEntries": 517,
-  "note": "11/1–17每日340件；Land Art Flevoland特輯10件；Kunst am Bau 60週年60件；70週年新增46件；Museum der 1000 Orte上傳首頁HTML共101件，其中29件與Kunst am Bau特輯重疊，新增72件；新入網站資料來源合計528件（不含原本基礎檔）。影像來源對應101張，其中72件新卡，重複29件回填原紀錄。圖檔連結授權待核。 今日另正式新增11月18日固定公共藝術20件（10／5／5），競圖5件完全分流；官網頁面預覽影像未完成每件原始攝影視覺核對。 11月19日另新增固定20件（10／5／5），各附實際圖像出處、權利與參訪註記；既有PublicSpace、Kunst am Bau及日韓專題持續保留。 原manifest數量548經逐檔回算更正為549，加今日20為569。imageEntries為含圖像來源網址的紀錄量，未代表皆於前台展示或取得再利用授權。 11月19日另補Raumfragen及Public Art München兩個來源檔與兩個案例，獨立補充共4筆；固定每日20作品保持原數。 柏林與慕尼黑追加9案例及1來源，與前批合計11案例＋3來源；均獨立於固定每日20作品。 11月20日固定公共藝術新增20件（10／5／5），與競圖及國際展覽完全分流；原作年份、歷史移除狀態與一筆官方日期矛盾均明示。20件圖像來源採link-only，未宣稱再利用授權。"
+  "expectedEntries": 604,
+  "imageEntries": 552,
+  "note": "11/1–17每日340件；Land Art Flevoland特輯10件；Kunst am Bau 60週年60件；70週年新增46件；Museum der 1000 Orte上傳首頁HTML共101件，其中29件與Kunst am Bau特輯重疊，新增72件；新入網站資料來源合計528件（不含原本基礎檔）。影像來源對應101張，其中72件新卡，重複29件回填原紀錄。圖檔連結授權待核。 今日另正式新增11月18日固定公共藝術20件（10／5／5），競圖5件完全分流；官網頁面預覽影像未完成每件原始攝影視覺核對。 11月19日另新增固定20件（10／5／5），各附實際圖像出處、權利與參訪註記；既有PublicSpace、Kunst am Bau及日韓專題持續保留。 原manifest數量548經逐檔回算更正為549，加今日20為569。imageEntries為含圖像來源網址的紀錄量，未代表皆於前台展示或取得再利用授權。 11月19日另補Raumfragen及Public Art München兩個來源檔與兩個案例，獨立補充共4筆；固定每日20作品保持原數。 柏林與慕尼黑追加9案例及1來源，與前批合計11案例＋3來源；均獨立於固定每日20作品。 11月20日固定公共藝術新增20件（10／5／5），與競圖及國際展覽完全分流；原作年份、歷史移除狀態與一筆官方日期矛盾均明示。20件圖像來源採link-only，未宣稱再利用授權。 使用者指定追加長頸鹿幼兒園1案，獨立於固定20/5/5；含10張可見圖像。imageEntries依目前分檔回算為552筆含影像網址的紀錄，不代表全庫圖像均已驗證。"
 }

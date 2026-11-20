@@ -1034,3 +1034,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
 .pending-detail ul{margin:8px 0 0;padding-left:20px}.pending-detail li+li{margin-top:10px}.pending-detail li p{margin:2px 0 0}.research-note{overflow-wrap:anywhere}
 
 .card-image-credit{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:7px;font-size:12px;line-height:1.5;color:var(--ink-2);text-align:left;overflow-wrap:anywhere}.panel figure img.image-load-failed{display:none}
+
+.case-facts{width:100%;border-collapse:collapse;font-size:14px;line-height:1.7;table-layout:fixed}.case-facts th,.case-facts td{border-bottom:1px solid var(--hair-soft);padding:10px 8px;text-align:left;vertical-align:top;overflow-wrap:anywhere}.case-facts th{width:28%;font-weight:500;color:var(--ink-2)}.case-section h3{margin:0 0 10px;font-size:18px;font-weight:500}.case-section p{font-size:16px;line-height:1.85}.case-source-list{padding-left:22px;font-size:14px;line-height:1.9}.case-source-list a{overflow-wrap:anywhere}.case-photo-grid .statement-source{font-size:12px}
+
+.research-image-gallery .case-photo-grid img{object-fit:contain;background:#fff}.case-photo-grid figure.is-drawing{grid-column:1/-1}.case-photo-grid figure.is-drawing img{aspect-ratio:auto;object-fit:contain}

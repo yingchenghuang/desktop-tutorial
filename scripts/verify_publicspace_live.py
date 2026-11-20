@@ -341,6 +341,47 @@ def check_repaired_artwork_photos():
         REPORT["browser"]["repairedArtworkPhotos"]={"realPhotos":len(checked),"cardsAndDetailImages":"passed","sourceOnlyPlaceholders":0,"attribution":"passed","mobile390":"passed"}
         browser.close()
 
+def check_giraffe_case():
+    from playwright.sync_api import sync_playwright
+    import base64
+    work_id="hondelatte-laporte-giraffe-childcare-center-2012"
+    case=get("data/giraffe-childcare-center-special-20261120.json",True)["entries"][0]
+    assert case["originalDate"]=="2012" and len(case["images"])==10
+    with sync_playwright() as p:
+        browser=p.chromium.launch(headless=True,args=["--no-sandbox"])
+        page=browser.new_page(viewport={"width":1360,"height":950})
+        page.goto(BASE+"?work="+work_id+"&verify=giraffe-r150",wait_until="domcontentloaded",timeout=70000)
+        page.locator("#sheet.open #panel").wait_for(timeout=120000)
+        assert "長頸鹿幼兒園" in page.locator("#panel h2").inner_text()
+        assert page.locator("#panel .case-photo-grid figure").count()==9
+        assert "PublicSpace" not in page.locator("#panel .case-gallery-rights").inner_text(), "Wrong gallery source attribution"
+        assert page.locator("#panel .case-facts").count()==1
+        assert "獨立藝術品預算未公開" in page.locator("#panel").inner_text()
+        assert page.locator("#panel .case-source-list a").count()>=8
+        photos=page.locator("#panel > figure img, #panel .case-photo-grid img")
+        assert photos.count()==10
+        for i in range(photos.count()):
+            image=photos.nth(i);image.scroll_into_view_if_needed();image.evaluate("i=>i.loading='eager'")
+            page.wait_for_function("i=>{const p=document.querySelectorAll('#panel > figure img, #panel .case-photo-grid img')[i];return p&&p.complete&&p.naturalWidth>=100}",arg=i,timeout=45000)
+        page.set_viewport_size({"width":390,"height":844})
+        assert page.evaluate("document.documentElement.scrollWidth<=innerWidth+1"), "Giraffe dossier overflows mobile"
+        assert page.locator("#panel").evaluate("el=>el.scrollWidth<=el.clientWidth+1"), "Giraffe facts overflow panel"
+        page.locator("#sheetClose").click()
+        page.locator("#researchAdvanced").evaluate("el=>el.open=true")
+        page.locator("#filterCountry").select_option("法國")
+        page.locator("#filterCity").select_option("Boulogne-Billancourt")
+        page.locator("#filterSite").select_option("school")
+        page.locator("#filterEra").select_option("2010")
+        assert page.locator('[data-id="'+work_id+'"]').count()==1
+        pixel=base64.b64decode("iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jG2kAAAAASUVORK5CYII=")
+        page.route("https://tile.openstreetmap.org/**",lambda route:route.fulfill(status=200,content_type="image/png",body=pixel))
+        page.goto(BASE+"map/?work="+work_id+"&verify=giraffe-r150",wait_until="domcontentloaded",timeout=70000)
+        page.locator(".leaflet-popup-content").filter(has_text="長頸鹿幼兒園").wait_for(timeout=45000)
+        assert "官方專案導航連結" in page.locator(".leaflet-popup-content").inner_text()
+        assert "OpenStreetMap" in page.locator(".leaflet-control-attribution").inner_text()
+        REPORT["browser"]["giraffeCase"]={"imagesAndDrawings":10,"caseFactsAndSources":"passed","franceCitySchool2010Filter":"passed","mapOfficialAddress":"passed","mobile390":"passed","existingNotionPageLinked":True}
+        browser.close()
+
 def main():
     try:
         entries=check_endpoints()
@@ -351,6 +392,7 @@ def main():
         check_artwork_map()
         check_research_filters()
         check_repaired_artwork_photos()
+        check_giraffe_case()
     except Exception as e:
         FAILURES.append("Live endpoint: "+str(e))
     REPORT["failures"]=FAILURES

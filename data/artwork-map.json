@@ -1,7 +1,7 @@
 {
-  "version": "20261119-art-map-r144",
-  "updated": "2026-11-19",
-  "scope": "三個新增研究來源的11個案例，另連結今日已收錄的4件紐西蘭作品。只有可核實場址座標者標點。",
+  "version": "20261120-giraffe-case-r150",
+  "updated": "2026-11-20",
+  "scope": "三個新增研究來源的11個案例，另連結今日已收錄的4件紐西蘭作品。只有可核實場址座標者標點。 另加入使用者指定之法國長頸鹿幼兒園，依官方專案導航地址定位。",
   "attribution": "© OpenStreetMap contributors",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "works": [
@@ -374,12 +374,37 @@
         }
       ],
       "archived": false
+    },
+    {
+      "id": "hondelatte-laporte-giraffe-childcare-center-2012",
+      "name": "Hondelatte Laporte｜長頸鹿幼兒園 La Crèche de la Girafe（2012）",
+      "country": "法國 / Boulogne-Billancourt",
+      "cityKeywords": [
+        "Boulogne-Billancourt",
+        "布洛涅比揚古"
+      ],
+      "originalDate": "2012",
+      "updated": "2026-11-20",
+      "comment": "以約18公尺高的黃色長頸鹿貫穿三層托育建築，連同屋頂北極熊與立面瓢蟲，將入口、露台、觀看尺度與兒童想像整合為城市地標。2012年由 Hondelatte Laporte Architectes 完成，適合作為藝術與建築共同設計的跨國比較案例。",
+      "website": "https://www.mathieulaporte.fr/Creche-La-Girafe",
+      "accessNote": "托育設施的建築整合藝術，可研究街道外觀與入口尺度；室內、露台與屋頂不應視為自由開放場域。2012年完成及啟用；未另外核實2026年營運、參訪或開放時段。",
+      "locations": [
+        {
+          "lat": 48.8279555,
+          "lon": 2.2330513,
+          "label": "Crèche de la Girafe，227 rue du Vieux-Pont-de-Sèvres",
+          "coordinateSource": "https://goo.gl/maps/7hewuYh4EQ7sBDZ76",
+          "accuracy": "官方專案導航連結所指地址座標；建築場址，非雕塑結構支點",
+          "checkedAt": "2026-11-20"
+        }
+      ],
+      "archived": false
     }
   ],
   "stats": {
-    "catalogWorks": 15,
-    "locatedWorks": 10,
+    "catalogWorks": 16,
+    "locatedWorks": 11,
     "pendingWorks": 5,
-    "locations": 14
+    "locations": 15
   }
 }

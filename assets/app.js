@@ -139,8 +139,13 @@
       workPage: workPage,
       photo: photo,
       images: Array.isArray(raw.images) ? raw.images.filter(function (x) { return x && /^https?:\/\//i.test(x.url || ''); }).map(function (x) {
-        return { url: text(x.url), caption: text(x.caption), credit: text(x.credit), kind: text(x.kind) };
+        return { url: text(x.url), caption: text(x.caption), credit: text(x.credit), kind: text(x.kind), sourceUrl: /^https?:\/\//i.test(x.sourceUrl||'') ? text(x.sourceUrl) : '' };
       }) : [],
+      gallerySourceName: text(raw.gallerySourceName),
+      caseFacts: Array.isArray(raw.caseFacts) ? raw.caseFacts.filter(function(r){return Array.isArray(r)&&r.length===2;}).map(function(r){return r.map(function(v){return text(v);});}) : [],
+      caseSections: Array.isArray(raw.caseSections) ? raw.caseSections.map(function(s){return {title:text(s.title),paragraphs:toArray(s.paragraphs)};}) : [],
+      researchSources: Array.isArray(raw.researchSources) ? raw.researchSources.filter(function(s){return /^https?:\/\//i.test(s.url||'');}).map(function(s){return {label:text(s.label),url:text(s.url)};}) : [],
+      notionUrl: /^https:\/\//i.test(raw.notionUrl||'') ? text(raw.notionUrl) : '',
       imageRights: text(raw.imageRights),
       imageDisplayPolicy: text(raw.imageDisplayPolicy),
       imageSourceUrl: text(raw.imageSourceUrl),
@@ -594,16 +599,16 @@
       : '';
 
     var galleryHtml = e.images.length
-      ? '<div class="block case-photo-gallery"><div class="block-label">官方專案照片與圖面 · 共 ' + e.images.length + ' 張</div>' +
+      ? '<div class="block case-photo-gallery'+(e.caseSections.length?' research-image-gallery':'')+'"><div class="block-label">'+(e.tier==='公共空間案例庫'?'官方專案照片與圖面':'作品照片與研究圖面')+' · 共 ' + e.images.length + ' 張</div>' +
         '<div class="case-photo-grid">' + e.images.slice(1).map(function (img, index) {
-          return '<figure><a href="' + esc(img.url) + '" target="_blank" rel="noopener noreferrer" title="開啟官方原始影像">' +
+          return '<figure'+(/平面|剖面|配置|drawing|plan/i.test(img.kind)?' class="is-drawing"':'')+'><a href="' + esc(img.url) + '" target="_blank" rel="noopener noreferrer" title="開啟作品影像">' +
             '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(img.url) + '" alt="' + esc(img.caption || e.displayName) +
             '" onerror="this.closest(\'figure\').classList.add(\'image-load-failed\')"></a>' +
             '<figcaption><b>' + (index + 2) + '</b> ' + esc(img.caption || img.kind || '官方案例影像') +
-            (img.credit && img.credit !== '未公開' ? '<span>攝影／製作：' + esc(img.credit) + '</span>' : '') +
+            (img.credit && img.credit !== '未公開' ? '<span>攝影／製作：' + esc(img.credit) + '</span>' : '') + (img.sourceUrl ? '<a class="statement-source" href="'+esc(img.sourceUrl)+'" target="_blank" rel="noopener">圖像出處</a>' : '') +
             '</figcaption></figure>';
         }).join('') + '</div>' +
-        '<p class="case-gallery-rights">圖像來自 PublicSpace 官方專案頁，著作權屬原權利人。點選影像查看官方原始檔。' + esc(e.imageRights || '') + '</p></div>'
+        '<p class="case-gallery-rights">圖像來自'+esc(e.gallerySourceName||'PublicSpace 官方專案頁')+'，著作權屬原權利人。點選影像開啟圖檔。' + esc(e.imageRights || '') + '</p></div>'
       : '';
     var works = e.works
       ? '<div class="block"><div class="block-label">代表作</div><p class="works-line">' +
@@ -693,6 +698,11 @@
       ? '<div class="block"><div class="block-label">城市關鍵字</div><span class="tags">' + e.cityKeywords.map(function (city) { return '<span class="tag">#' + esc(city) + '</span>'; }).join('') + '</span></div>'
       : '';
 
+    var caseStudy = e.caseFacts.length || e.caseSections.length || e.researchSources.length
+      ? '<div class="case-study">'+(e.caseFacts.length?'<div class="block"><div class="block-label">作品檔案</div><table class="case-facts"><tbody>'+e.caseFacts.map(function(row){return '<tr><th scope="row">'+esc(row[0])+'</th><td>'+esc(row[1])+'</td></tr>';}).join('')+'</tbody></table></div>':'')+
+        e.caseSections.map(function(section){return '<section class="block case-section"><h3>'+esc(section.title)+'</h3>'+section.paragraphs.map(function(p){return '<p>'+esc(p)+'</p>';}).join('')+'</section>';}).join('')+
+        (e.researchSources.length?'<div class="block"><div class="block-label">研究來源</div><ol class="case-source-list">'+e.researchSources.map(function(source){return '<li><a href="'+esc(source.url)+'" target="_blank" rel="noopener">'+esc(source.label)+'</a></li>';}).join('')+'</ol></div>':'')+
+        (e.notionUrl?'<div class="block"><a class="statement-source" href="'+esc(e.notionUrl)+'" target="_blank" rel="noopener">Notion 完整研究與原生圖像</a></div>':'')+'</div>' : '';
     var researchDetails = '<div class="block"><div class="block-label">研究分類</div><p>' + esc(researchSummary(e)) + '</p><small>依現有作品文字整理；未載明者保留待補。</small>' + ((e.facets.missing||[]).length ? '<div class="pending-detail"><strong>待補資料</strong><ul>'+pendingSummary(e)+'</ul></div>' : e.facets.scope==='profile' ? '<p class="research-note">這筆是藝術家或機構等介紹，場址、取得方式與單一作品年代不適用。</p>' : '') + '</div>';
     $('#panel').innerHTML =
       '<div class="panel-head"><div class="badges">' + badges + '</div>' +
@@ -703,7 +713,7 @@
       fig + galleryHtml +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      researchDetails + accessDetails + imageDetails + sourceHistory + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
+      caseStudy + researchDetails + accessDetails + imageDetails + sourceHistory + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;

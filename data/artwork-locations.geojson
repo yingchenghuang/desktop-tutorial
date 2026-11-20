@@ -280,6 +280,26 @@
         "accuracy": "PublicArt Heritage官方典藏場址座標",
         "updated": "2026-11-19"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "hondelatte-laporte-giraffe-childcare-center-2012-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2330513,
+          48.8279555
+        ]
+      },
+      "properties": {
+        "workId": "hondelatte-laporte-giraffe-childcare-center-2012",
+        "name": "Hondelatte Laporte｜長頸鹿幼兒園 La Crèche de la Girafe（2012）",
+        "location": "Crèche de la Girafe，227 rue du Vieux-Pont-de-Sèvres",
+        "source": "https://www.mathieulaporte.fr/Creche-La-Girafe",
+        "coordinateSource": "https://goo.gl/maps/7hewuYh4EQ7sBDZ76",
+        "accuracy": "官方專案導航連結所指地址座標；建築場址，非雕塑結構支點",
+        "updated": "2026-11-20"
+      }
     }
   ]
 }
