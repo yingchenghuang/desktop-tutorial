@@ -456,8 +456,8 @@
       "comment": "四座十五公尺高的不鏽鋼塔，以階梯狀結構及鮮明色彩回應海港的帆、桅杆與吊車，使港口工業形象轉成抽象的城市標誌。",
       "website": "https://publicart.nz/artworks/helen-escobedo-de-kirsebom-1971",
       "workPage": "https://publicart.nz/artworks/helen-escobedo-de-kirsebom-1971",
-      "photo": "https://cdn.sanity.io/images/aem3610x/production/36722d70d834074ff61ae2a74dab5f974ec6ff05-773x1080.jpg",
-      "classicImage": "https://cdn.sanity.io/images/aem3610x/production/36722d70d834074ff61ae2a74dab5f974ec6ff05-773x1080.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-11.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-11.jpg",
       "classicTitle": "Signals｜1971",
       "classicDesc": "四座十五公尺高的不鏽鋼塔，以階梯狀結構及鮮明色彩回應海港的帆、桅杆與吊車，使港口工業形象轉成抽象的城市標誌。 原資料庫列為可接近；場址開放時間依管理單位。 場址 Fred Ambler Lookout in Dove-Myer Robinson Park, Gladstone Road, Parnell, Tāmaki Makaurau Auckland",
       "artistStatement": "四座十五公尺高的不鏽鋼塔，以階梯狀結構及鮮明色彩回應海港的帆、桅杆與吊車，使港口工業形象轉成抽象的城市標誌。",
@@ -484,8 +484,12 @@
       "imageCaption": "Signals｜1971",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageKind": "artwork-photograph"
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/36722d70d834074ff61ae2a74dab5f974ec6ff05-773x1080.jpg"
+      ],
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/36722d70d834074ff61ae2a74dab5f974ec6ff05-773x1080.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-11.jpg"
     },
     {
       "name": "12｜Russell Clark｜The Ear",
@@ -505,8 +509,8 @@
       "comment": "在牆面以纖細金屬桿跨越抽象形體的空隙，聯想電報通訊，並讓光線方向改變浮雕的陰影與觀看經驗。",
       "website": "https://publicart.nz/artworks/russell-clark-1957",
       "workPage": "https://publicart.nz/artworks/russell-clark-1957",
-      "photo": "https://cdn.sanity.io/images/aem3610x/production/099ba2d011b568e66565cdeaff8a636e6fedb4f4-1080x1080.jpg",
-      "classicImage": "https://cdn.sanity.io/images/aem3610x/production/099ba2d011b568e66565cdeaff8a636e6fedb4f4-1080x1080.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-12.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-12.jpg",
       "classicTitle": "The Ear｜1957",
       "classicDesc": "在牆面以纖細金屬桿跨越抽象形體的空隙，聯想電報通訊，並讓光線方向改變浮雕的陰影與觀看經驗。 原資料庫列為可接近；場址開放時間依管理單位。 場址 Timaru Telephone Exchange (former), 22 Sophia St, Te Tihi-o-Maru Timaru",
       "artistStatement": "在牆面以纖細金屬桿跨越抽象形體的空隙，聯想電報通訊，並讓光線方向改變浮雕的陰影與觀看經驗。",
@@ -533,8 +537,12 @@
       "imageCaption": "The Ear｜1957",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageKind": "artwork-photograph"
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/099ba2d011b568e66565cdeaff8a636e6fedb4f4-1080x1080.jpg"
+      ],
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/099ba2d011b568e66565cdeaff8a636e6fedb4f4-1080x1080.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-12.jpg"
     },
     {
       "name": "13｜Milan Mrkusich｜Mosaic Mural for BJ Ball Building",
@@ -554,8 +562,8 @@
       "comment": "以玻璃馬賽克與現代主義的色彩、形態語彙，將紙業公司的生產意象帶到建築外牆。原平台年份欄為1957，圖說為1958，暫保留差異。",
       "website": "https://publicart.nz/artworks/milan-mrkusich-1957",
       "workPage": "https://publicart.nz/artworks/milan-mrkusich-1957",
-      "photo": "https://cdn.sanity.io/images/aem3610x/production/d29b103aa8f16200ba87e0fb5218c96bb1bac92f-1722x1080.jpg",
-      "classicImage": "https://cdn.sanity.io/images/aem3610x/production/d29b103aa8f16200ba87e0fb5218c96bb1bac92f-1722x1080.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-13.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-13.jpg",
       "classicTitle": "Mosaic Mural for BJ Ball Building｜1957／1958（平台欄位與圖說不一致）",
       "classicDesc": "以玻璃馬賽克與現代主義的色彩、形態語彙，將紙業公司的生產意象帶到建築外牆。原平台年份欄為1957，圖說為1958，暫保留差異。 原資料庫列為可接近；場址開放時間依管理單位。 場址 B.J. Ball Building, 35 Graham Street, CBD, Tāmaki Makaurau Auckland",
       "artistStatement": "以玻璃馬賽克與現代主義的色彩、形態語彙，將紙業公司的生產意象帶到建築外牆。原平台年份欄為1957，圖說為1958，暫保留差異。",
@@ -583,8 +591,12 @@
       "imageCaption": "Mosaic Mural for BJ Ball Building｜1957／1958（平台欄位與圖說不一致）",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageKind": "artwork-photograph"
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/d29b103aa8f16200ba87e0fb5218c96bb1bac92f-1722x1080.jpg"
+      ],
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/d29b103aa8f16200ba87e0fb5218c96bb1bac92f-1722x1080.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-13.jpg"
     },
     {
       "name": "14｜James Turkington｜Untitled [Parnell Baths]",
@@ -604,8 +616,8 @@
       "comment": "為 Parnell 泳池建築設計八片玻璃馬賽克壁畫，將游泳活動與更衣室入口結合。作品在2023年遭塗鴉破壞後修復，於2025年11月返回原址。",
       "website": "https://publicart.nz/artworks/james-turkington-1957",
       "workPage": "https://publicart.nz/artworks/james-turkington-1957",
-      "photo": "https://cdn.sanity.io/images/aem3610x/production/d9c570000a6691d729d50166088191785f63cd98-1596x1080.jpg",
-      "classicImage": "https://cdn.sanity.io/images/aem3610x/production/d9c570000a6691d729d50166088191785f63cd98-1596x1080.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-14.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-14.jpg",
       "classicTitle": "Untitled [Parnell Baths]｜1957",
       "classicDesc": "為 Parnell 泳池建築設計八片玻璃馬賽克壁畫，將游泳活動與更衣室入口結合。作品在2023年遭塗鴉破壞後修復，於2025年11月返回原址。 原資料庫列為可接近；場址開放時間依管理單位。 場址 Parnell Baths, Judges Bay, Parnell, Tāmaki Makaurau Auckland",
       "artistStatement": "為 Parnell 泳池建築設計八片玻璃馬賽克壁畫，將游泳活動與更衣室入口結合。作品在2023年遭塗鴉破壞後修復，於2025年11月返回原址。",
@@ -632,8 +644,12 @@
       "imageCaption": "Untitled [Parnell Baths]｜1957",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageKind": "artwork-photograph"
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/d9c570000a6691d729d50166088191785f63cd98-1596x1080.jpg"
+      ],
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/d9c570000a6691d729d50166088191785f63cd98-1596x1080.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-14.jpg"
     },
     {
       "name": "15｜Roy Cowan｜Abstract mural",
@@ -653,8 +669,8 @@
       "comment": "以陶瓷、玻璃與瓷片組成互相咬合的四個 koru 螺旋形，使色彩和波浪般的線條形成抽象壁畫。2019年因門廳改建移除，目前在原建築內儲藏。",
       "website": "https://publicart.nz/artworks/roy-cowan-1971",
       "workPage": "https://publicart.nz/artworks/roy-cowan-1971",
-      "photo": "https://cdn.sanity.io/images/aem3610x/production/a48f0f7e0b5986fc33e4f8648e3cd59dbbbe81c9-933x1080.jpg",
-      "classicImage": "https://cdn.sanity.io/images/aem3610x/production/a48f0f7e0b5986fc33e4f8648e3cd59dbbbe81c9-933x1080.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-15.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-15.jpg",
       "classicTitle": "Abstract mural｜1971",
       "classicDesc": "以陶瓷、玻璃與瓷片組成互相咬合的四個 koru 螺旋形，使色彩和波浪般的線條形成抽象壁畫。2019年因門廳改建移除，目前在原建築內儲藏。 歷史檔案，目前儲藏，無法於原門廳觀看。 場址 In storage, Reserve Bank of New Zealand, 2 The Terrace, Wellington Central, Te Whanganui-a-Tara Wellington",
       "artistStatement": "以陶瓷、玻璃與瓷片組成互相咬合的四個 koru 螺旋形，使色彩和波浪般的線條形成抽象壁畫。2019年因門廳改建移除，目前在原建築內儲藏。",
@@ -681,8 +697,12 @@
       "imageCaption": "Abstract mural｜1971",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageKind": "artwork-photograph"
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/a48f0f7e0b5986fc33e4f8648e3cd59dbbbe81c9-933x1080.jpg"
+      ],
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/a48f0f7e0b5986fc33e4f8648e3cd59dbbbe81c9-933x1080.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-15.jpg"
     },
     {
       "name": "16｜Peter Daniel｜EMET - MET - EMET",
@@ -702,8 +722,8 @@
       "comment": "在猶太會堂窗戶以希伯來文字發光，透過第一個字母規律熄滅，讓「真實」與「死亡」兩個詞交替出現，結合語言、時間與紀念。",
       "website": "https://koernoe.at/en/project/147/emet-met-emet",
       "workPage": "https://koernoe.at/en/project/147/emet-met-emet",
-      "photo": "https://koernoe.at/img/4299ec6a-52a9-43c1-a21d-49debdf91e6a/01-daniel-st-plten-daniel-1993.jpg?q=80&fit=max&w=1500&crop=4000%2C2608%2C0%2C0&s=fc76b410e70591e502e157e6110ec789",
-      "classicImage": "https://koernoe.at/img/4299ec6a-52a9-43c1-a21d-49debdf91e6a/01-daniel-st-plten-daniel-1993.jpg?q=80&fit=max&w=1500&crop=4000%2C2608%2C0%2C0&s=fc76b410e70591e502e157e6110ec789",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-16.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-16.jpg",
       "classicTitle": "EMET - MET - EMET｜1993",
       "classicDesc": "在猶太會堂窗戶以希伯來文字發光，透過第一個字母規律熄滅，讓「真實」與「死亡」兩個詞交替出現，結合語言、時間與紀念。 德語文化脈絡公共藝術檔案；參訪依場址開放與管理規則。",
       "artistStatement": "在猶太會堂窗戶以希伯來文字發光，透過第一個字母規律熄滅，讓「真實」與「死亡」兩個詞交替出現，結合語言、時間與紀念。",
@@ -731,9 +751,12 @@
       "imageLicense": "",
       "imageLicenseUrl": "",
       "imageFallbacks": [
+        "https://koernoe.at/img/4299ec6a-52a9-43c1-a21d-49debdf91e6a/01-daniel-st-plten-daniel-1993.jpg?q=80&fit=max&w=1500&crop=4000%2C2608%2C0%2C0&s=fc76b410e70591e502e157e6110ec789",
         "https://koernoe.at/img/4299ec6a-52a9-43c1-a21d-49debdf91e6a/01-daniel-st-plten-daniel-1993.jpg?q=80&fit=max&crop=4000%2C2608%2C0%2C0&s=ef23ef8dccc577f33d11222d69891d64"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://koernoe.at/img/4299ec6a-52a9-43c1-a21d-49debdf91e6a/01-daniel-st-plten-daniel-1993.jpg?q=80&fit=max&w=1500&crop=4000%2C2608%2C0%2C0&s=fc76b410e70591e502e157e6110ec789",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-16.jpg"
     },
     {
       "name": "17｜Nora Bachel｜Holz",
@@ -753,8 +776,8 @@
       "comment": "三件經劈削、打磨的木構件露出年輪、組織與不同色層，保留部分外皮及風化灰色，使運輸材料的生命史成為作品。",
       "website": "https://koernoe.at/en/project/277/holz",
       "workPage": "https://koernoe.at/en/project/277/holz",
-      "photo": "https://koernoe.at/img/69e7963a-3a90-462b-a655-3586b89f1e9b/277.01.pr,bachel-nora.jpg?q=80&fit=max&w=1500&crop=640%2C465%2C0%2C0&s=1e6df72c3429c22da98e064fa88676d2",
-      "classicImage": "https://koernoe.at/img/69e7963a-3a90-462b-a655-3586b89f1e9b/277.01.pr,bachel-nora.jpg?q=80&fit=max&w=1500&crop=640%2C465%2C0%2C0&s=1e6df72c3429c22da98e064fa88676d2",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-17.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-17.jpg",
       "classicTitle": "Holz｜1992",
       "classicDesc": "三件經劈削、打磨的木構件露出年輪、組織與不同色層，保留部分外皮及風化灰色，使運輸材料的生命史成為作品。 德語文化脈絡公共藝術檔案；參訪依場址開放與管理規則。",
       "artistStatement": "三件經劈削、打磨的木構件露出年輪、組織與不同色層，保留部分外皮及風化灰色，使運輸材料的生命史成為作品。",
@@ -782,9 +805,12 @@
       "imageLicense": "",
       "imageLicenseUrl": "",
       "imageFallbacks": [
+        "https://koernoe.at/img/69e7963a-3a90-462b-a655-3586b89f1e9b/277.01.pr,bachel-nora.jpg?q=80&fit=max&w=1500&crop=640%2C465%2C0%2C0&s=1e6df72c3429c22da98e064fa88676d2",
         "https://koernoe.at/img/69e7963a-3a90-462b-a655-3586b89f1e9b/277.01.pr,bachel-nora.jpg?q=80&fit=max&crop=640%2C465%2C0%2C0&s=f2d6cb6eea5c54d1a21f7007884d1c72"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://koernoe.at/img/69e7963a-3a90-462b-a655-3586b89f1e9b/277.01.pr,bachel-nora.jpg?q=80&fit=max&w=1500&crop=640%2C465%2C0%2C0&s=1e6df72c3429c22da98e064fa88676d2",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-17.jpg"
     },
     {
       "name": "18｜Walter Berger｜Malerei",
@@ -804,8 +830,8 @@
       "comment": "透過十件被框護的繪畫模擬，運用光澤、排列及標準化尺寸，研究藝術價值、收藏慾望與市場展示方式。",
       "website": "https://koernoe.at/en/project/278/malerei",
       "workPage": "https://koernoe.at/en/project/278/malerei",
-      "photo": "https://koernoe.at/img/d1d09b34-69ed-4145-b03c-ff427800aab9/278.01.pr,berger-walter.jpg?q=80&fit=max&w=1500&crop=640%2C476%2C0%2C0&s=590bf10dc2003df6b175160e4ea13d36",
-      "classicImage": "https://koernoe.at/img/d1d09b34-69ed-4145-b03c-ff427800aab9/278.01.pr,berger-walter.jpg?q=80&fit=max&w=1500&crop=640%2C476%2C0%2C0&s=590bf10dc2003df6b175160e4ea13d36",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-18.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-18.jpg",
       "classicTitle": "Malerei｜1992",
       "classicDesc": "透過十件被框護的繪畫模擬，運用光澤、排列及標準化尺寸，研究藝術價值、收藏慾望與市場展示方式。 德語文化脈絡公共藝術檔案；參訪依場址開放與管理規則。",
       "artistStatement": "透過十件被框護的繪畫模擬，運用光澤、排列及標準化尺寸，研究藝術價值、收藏慾望與市場展示方式。",
@@ -833,9 +859,12 @@
       "imageLicense": "",
       "imageLicenseUrl": "",
       "imageFallbacks": [
+        "https://koernoe.at/img/d1d09b34-69ed-4145-b03c-ff427800aab9/278.01.pr,berger-walter.jpg?q=80&fit=max&w=1500&crop=640%2C476%2C0%2C0&s=590bf10dc2003df6b175160e4ea13d36",
         "https://koernoe.at/img/d1d09b34-69ed-4145-b03c-ff427800aab9/278.01.pr,berger-walter.jpg?q=80&fit=max&crop=640%2C476%2C0%2C0&s=c446128b8fc04dccccd974305b55a5fe"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://koernoe.at/img/d1d09b34-69ed-4145-b03c-ff427800aab9/278.01.pr,berger-walter.jpg?q=80&fit=max&w=1500&crop=640%2C476%2C0%2C0&s=590bf10dc2003df6b175160e4ea13d36",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-18.jpg"
     },
     {
       "name": "19｜Adolf Frohner｜Schraffur",
@@ -855,8 +884,8 @@
       "comment": "以線條、表面、排線、陰影與留白形成不同密度的圖像關係，屬於下奧地利將室內設計納入公共藝術委託的歷史案例。",
       "website": "https://koernoe.at/en/project/280/schraffur",
       "workPage": "https://koernoe.at/en/project/280/schraffur",
-      "photo": "https://koernoe.at/img/798a18d2-dece-49a8-8bc5-34b541120f17/280.01.pr,frohner-adolf.jpg?q=80&fit=max&w=1500&crop=640%2C465%2C0%2C0&s=fce0eedb40305ed47cd214a9992dbfb1",
-      "classicImage": "https://koernoe.at/img/798a18d2-dece-49a8-8bc5-34b541120f17/280.01.pr,frohner-adolf.jpg?q=80&fit=max&w=1500&crop=640%2C465%2C0%2C0&s=fce0eedb40305ed47cd214a9992dbfb1",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-19.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-19.jpg",
       "classicTitle": "Schraffur｜1992",
       "classicDesc": "以線條、表面、排線、陰影與留白形成不同密度的圖像關係，屬於下奧地利將室內設計納入公共藝術委託的歷史案例。 德語文化脈絡公共藝術檔案；參訪依場址開放與管理規則。",
       "artistStatement": "以線條、表面、排線、陰影與留白形成不同密度的圖像關係，屬於下奧地利將室內設計納入公共藝術委託的歷史案例。",
@@ -884,9 +913,12 @@
       "imageLicense": "",
       "imageLicenseUrl": "",
       "imageFallbacks": [
+        "https://koernoe.at/img/798a18d2-dece-49a8-8bc5-34b541120f17/280.01.pr,frohner-adolf.jpg?q=80&fit=max&w=1500&crop=640%2C465%2C0%2C0&s=fce0eedb40305ed47cd214a9992dbfb1",
         "https://koernoe.at/img/798a18d2-dece-49a8-8bc5-34b541120f17/280.01.pr,frohner-adolf.jpg?q=80&fit=max&crop=640%2C465%2C0%2C0&s=192a5c10d4e7e1d8376a00fc9c866b21"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://koernoe.at/img/798a18d2-dece-49a8-8bc5-34b541120f17/280.01.pr,frohner-adolf.jpg?q=80&fit=max&w=1500&crop=640%2C465%2C0%2C0&s=fce0eedb40305ed47cd214a9992dbfb1",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-19.jpg"
     },
     {
       "name": "20｜Susanne Gamauf｜Dynamismus",
@@ -906,8 +938,8 @@
       "comment": "在醫院咖啡廳與入口區以約二十公尺長的照片及單刷版畫飾帶組織日常環境，將生命理解為力量的相互作用。",
       "website": "https://koernoe.at/en/project/150/regional-hospital-in-modling",
       "workPage": "https://koernoe.at/en/project/150/regional-hospital-in-modling",
-      "photo": "https://koernoe.at/img/2790dca3-a857-4cb8-9c06-91d72ed38a62/150.01.pr,gamauf-susanne.jpg?q=80&fit=max&w=1500&crop=640%2C418%2C0%2C0&s=bf726f595a480dcb10a4e94646b68dc5",
-      "classicImage": "https://koernoe.at/img/2790dca3-a857-4cb8-9c06-91d72ed38a62/150.01.pr,gamauf-susanne.jpg?q=80&fit=max&w=1500&crop=640%2C418%2C0%2C0&s=bf726f595a480dcb10a4e94646b68dc5",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-20.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-19-20.jpg",
       "classicTitle": "Dynamismus｜1992；2020年移除",
       "classicDesc": "在醫院咖啡廳與入口區以約二十公尺長的照片及單刷版畫飾帶組織日常環境，將生命理解為力量的相互作用。 歷史檔案，作品已於2020年因空間改建移除。",
       "artistStatement": "在醫院咖啡廳與入口區以約二十公尺長的照片及單刷版畫飾帶組織日常環境，將生命理解為力量的相互作用。",
@@ -935,9 +967,12 @@
       "imageLicense": "",
       "imageLicenseUrl": "",
       "imageFallbacks": [
+        "https://koernoe.at/img/2790dca3-a857-4cb8-9c06-91d72ed38a62/150.01.pr,gamauf-susanne.jpg?q=80&fit=max&w=1500&crop=640%2C418%2C0%2C0&s=bf726f595a480dcb10a4e94646b68dc5",
         "https://koernoe.at/img/2790dca3-a857-4cb8-9c06-91d72ed38a62/150.01.pr,gamauf-susanne.jpg?q=80&fit=max&crop=640%2C418%2C0%2C0&s=23bcc16bf190833c3d168bd28c7417a0"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://koernoe.at/img/2790dca3-a857-4cb8-9c06-91d72ed38a62/150.01.pr,gamauf-susanne.jpg?q=80&fit=max&w=1500&crop=640%2C418%2C0%2C0&s=bf726f595a480dcb10a4e94646b68dc5",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-19-20.jpg"
     }
   ]
 }

@@ -462,8 +462,8 @@
       "comment": "以破損的古典語彙及歷史書籍的組合，質疑歷史如何被紀念、閱讀與遺忘。",
       "website": "https://www.london.gov.uk/what-we-do/fourth-plinth-past-commissions",
       "workPage": "https://www.london.gov.uk/what-we-do/fourth-plinth-past-commissions",
-      "photo": "https://billwoodrow.com/cdn/shop/files/520_c0d7e801-6602-4828-8144-200792e4627f.jpg?v=1747498569&width=2064",
-      "classicImage": "https://billwoodrow.com/cdn/shop/files/520_c0d7e801-6602-4828-8144-200792e4627f.jpg?v=1747498569&width=2064",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-11.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-11.jpg",
       "classicTitle": "Regardless of History｜2000",
       "classicDesc": "以破損的古典語彙及歷史書籍的組合，質疑歷史如何被紀念、閱讀與遺忘。 原始年代：2000。媒材：金屬與現成物。",
       "artistStatement": "以破損的古典語彙及歷史書籍的組合，質疑歷史如何被紀念、閱讀與遺忘。",
@@ -489,8 +489,12 @@
       "imageCaption": "Regardless of History｜2000",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageDisplayPolicy": "source-attributed"
+      "imageFallbacks": [
+        "https://billwoodrow.com/cdn/shop/files/520_c0d7e801-6602-4828-8144-200792e4627f.jpg?v=1747498569&width=2064"
+      ],
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://billwoodrow.com/cdn/shop/files/520_c0d7e801-6602-4828-8144-200792e4627f.jpg?v=1747498569&width=2064",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-11.jpg"
     },
     {
       "id": "public-art-2026-11-18-12",
@@ -512,8 +516,8 @@
       "comment": "以建築尺度的彩色玻璃模型占據特拉法加廣場第四基座，讓透明建築與紀念碑城市的尺度互相質詢。",
       "website": "https://www.london.gov.uk/what-we-do/fourth-plinth-past-commissions",
       "workPage": "https://www.london.gov.uk/what-we-do/fourth-plinth-past-commissions",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Model_for_a_Hotel_2007_%282033092343%29.jpg/960px-Model_for_a_Hotel_2007_%282033092343%29.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Model_for_a_Hotel_2007_%282033092343%29.jpg/960px-Model_for_a_Hotel_2007_%282033092343%29.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-12.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-12.jpg",
       "classicTitle": "Model for a Hotel｜2007",
       "classicDesc": "以建築尺度的彩色玻璃模型占據特拉法加廣場第四基座，讓透明建築與紀念碑城市的尺度互相質詢。 原始年代：2007。媒材：玻璃、鋼構、建築模型。",
       "artistStatement": "以建築尺度的彩色玻璃模型占據特拉法加廣場第四基座，讓透明建築與紀念碑城市的尺度互相質詢。",
@@ -524,7 +528,7 @@
       "material": "玻璃、鋼構、建築模型",
       "originalDate": "2007",
       "imageCredit": "Phil Whitehouse from London, United Kingdom／Wikimedia Commons；CC BY 2.0",
-      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。畫面僅隨版面縮放。",
+      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "accessNote": "第四基座2007年歷史委託，已輪替卸展",
       "statementType": "第一方作品頁繁體中文轉譯",
       "sourceCheckedDate": "2026-11-18",
@@ -540,9 +544,12 @@
       "imageLicense": "CC BY 2.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Model_for_a_Hotel_2007_%282033092343%29.jpg/960px-Model_for_a_Hotel_2007_%282033092343%29.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/7/7d/Model_for_a_Hotel_2007_%282033092343%29.jpg"
       ],
-      "imageDisplayPolicy": "source-attributed"
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Model_for_a_Hotel_2007_%282033092343%29.jpg/960px-Model_for_a_Hotel_2007_%282033092343%29.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-12.jpg"
     },
     {
       "id": "public-art-2026-11-18-13",
@@ -564,8 +571,8 @@
       "comment": "借用騎馬紀念雕像的缺席形式，以馬骨架與倫敦證交所即時股價帶並置，揭露城市紀念文化與金融權力。",
       "website": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/art-and-design/gift-horse-fourth-plinth",
       "workPage": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/art-and-design/gift-horse-fourth-plinth",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg/960px-The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg/960px-The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-13.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-13.jpg",
       "classicTitle": "Gift Horse｜2015",
       "classicDesc": "借用騎馬紀念雕像的缺席形式，以馬骨架與倫敦證交所即時股價帶並置，揭露城市紀念文化與金融權力。 原始年代：2015。媒材：青銅、電子資訊帶。",
       "artistStatement": "借用騎馬紀念雕像的缺席形式，以馬骨架與倫敦證交所即時股價帶並置，揭露城市紀念文化與金融權力。",
@@ -576,7 +583,7 @@
       "material": "青銅、電子資訊帶",
       "originalDate": "2015",
       "imageCredit": "Garry Knight from London, England／Wikimedia Commons；CC BY 2.0",
-      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。畫面僅隨版面縮放。",
+      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "accessNote": "第四基座2015年歷史委託，已輪替卸展",
       "statementType": "第一方作品頁繁體中文轉譯",
       "sourceCheckedDate": "2026-11-18",
@@ -592,9 +599,12 @@
       "imageLicense": "CC BY 2.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg/960px-The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg"
       ],
-      "imageDisplayPolicy": "source-attributed"
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg/960px-The_Anatomy_of_the_Horse_-_5_%2816546418877%29.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-13.jpg"
     },
     {
       "id": "public-art-2026-11-18-14",
@@ -616,8 +626,8 @@
       "comment": "被誇大的伸拇指手勢從第四基座上方凸出，以荒誕的樂觀姿態回應倫敦公共紀念碑的嚴肅性。",
       "website": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/david-shrigleys-really-good",
       "workPage": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/david-shrigleys-really-good",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Really_Good_by_David_Shrigley.jpg/960px-Really_Good_by_David_Shrigley.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Really_Good_by_David_Shrigley.jpg/960px-Really_Good_by_David_Shrigley.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-14.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-14.jpg",
       "classicTitle": "Really Good｜2016",
       "classicDesc": "被誇大的伸拇指手勢從第四基座上方凸出，以荒誕的樂觀姿態回應倫敦公共紀念碑的嚴肅性。 原始年代：2016。媒材：青銅手勢雕塑。",
       "artistStatement": "被誇大的伸拇指手勢從第四基座上方凸出，以荒誕的樂觀姿態回應倫敦公共紀念碑的嚴肅性。",
@@ -628,7 +638,7 @@
       "material": "青銅手勢雕塑",
       "originalDate": "2016",
       "imageCredit": "Shkuru Afshar／Wikimedia Commons；CC BY-SA 4.0",
-      "imageRights": "CC BY-SA 4.0；權利與使用條件見 https://creativecommons.org/licenses/by-sa/4.0。畫面僅隨版面縮放。",
+      "imageRights": "CC BY-SA 4.0；權利與使用條件見 https://creativecommons.org/licenses/by-sa/4.0。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "accessNote": "第四基座2016年歷史委託，已輪替卸展",
       "statementType": "第一方作品頁繁體中文轉譯",
       "sourceCheckedDate": "2026-11-18",
@@ -644,9 +654,12 @@
       "imageLicense": "CC BY-SA 4.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Really_Good_by_David_Shrigley.jpg/960px-Really_Good_by_David_Shrigley.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/9/9e/Really_Good_by_David_Shrigley.jpg"
       ],
-      "imageDisplayPolicy": "source-attributed"
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Really_Good_by_David_Shrigley.jpg/960px-Really_Good_by_David_Shrigley.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-14.jpg"
     },
     {
       "id": "public-art-2026-11-18-15",
@@ -668,8 +681,8 @@
       "comment": "大型冰淇淋、櫻桃與昆蟲意象進入歷史廣場，連結消費歡愉、都市監看與當代末世感。",
       "website": "https://www.london.gov.uk/what-we-do/fourth-plinth-past-commissions",
       "workPage": "https://www.london.gov.uk/what-we-do/fourth-plinth-past-commissions",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg/960px-THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg/960px-THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-15.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-15.jpg",
       "classicTitle": "THE END｜2020",
       "classicDesc": "大型冰淇淋、櫻桃與昆蟲意象進入歷史廣場，連結消費歡愉、都市監看與當代末世感。 原始年代：2020。媒材：複合媒材、巨型冰淇淋意象。",
       "artistStatement": "大型冰淇淋、櫻桃與昆蟲意象進入歷史廣場，連結消費歡愉、都市監看與當代末世感。",
@@ -680,7 +693,7 @@
       "material": "複合媒材、巨型冰淇淋意象",
       "originalDate": "2020",
       "imageCredit": "Bartolo Creations／Wikimedia Commons；CC BY-SA 2.0",
-      "imageRights": "CC BY-SA 2.0；權利與使用條件見 https://creativecommons.org/licenses/by-sa/2.0。畫面僅隨版面縮放。",
+      "imageRights": "CC BY-SA 2.0；權利與使用條件見 https://creativecommons.org/licenses/by-sa/2.0。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "accessNote": "第四基座2020年歷史委託，已輪替卸展",
       "statementType": "第一方作品頁繁體中文轉譯",
       "sourceCheckedDate": "2026-11-18",
@@ -696,9 +709,12 @@
       "imageLicense": "CC BY-SA 2.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg/960px-THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/7/7d/THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg"
       ],
-      "imageDisplayPolicy": "source-attributed"
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg/960px-THE_END_Statue_by_Heather_Phillipson_-_geograph.org.uk_-_7129262.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-15.jpg"
     },
     {
       "id": "public-art-2026-11-18-16",
@@ -721,8 +737,8 @@
       "comment": "以日期與時間的日常制度介入城市風景，讓行人注意時間標記如何改寫場所的認知。",
       "website": "https://www.kunsthallemuenster.de/en/collection/mark-formanek-datum-seit-1992-5157429n-737368e/",
       "workPage": "https://www.kunsthallemuenster.de/en/collection/mark-formanek-datum-seit-1992-5157429n-737368e/",
-      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/df/1a/df1add5125026cad3e7f4b33a374b8c1.jpg",
-      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/df/1a/df1add5125026cad3e7f4b33a374b8c1.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-16.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-16.jpg",
       "classicTitle": "Datum｜1992 起",
       "classicDesc": "以日期與時間的日常制度介入城市風景，讓行人注意時間標記如何改寫場所的認知。 原始年代：1992 起。媒材：時間裝置，詳細媒材未公開。",
       "artistStatement": "以日期與時間的日常制度介入城市風景，讓行人注意時間標記如何改寫場所的認知。",
@@ -748,8 +764,12 @@
       "imageCaption": "Datum｜1992 起",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageDisplayPolicy": "source-attributed"
+      "imageFallbacks": [
+        "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/df/1a/df1add5125026cad3e7f4b33a374b8c1.jpg"
+      ],
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/df/1a/df1add5125026cad3e7f4b33a374b8c1.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-16.jpg"
     },
     {
       "id": "public-art-2026-11-18-17",
@@ -772,8 +792,8 @@
       "comment": "以引號的視覺語彙介入明斯特，提醒行人關注文字、轉述與公共空間中的解讀權。",
       "website": "https://www.kunsthallemuenster.de/en/collection/kirsten-kaisergansefuchen-1997-5158141-n-736407-e/",
       "workPage": "https://www.kunsthallemuenster.de/en/collection/kirsten-kaisergansefuchen-1997-5158141-n-736407-e/",
-      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/d0/a4/d0a4bbef121905622fb53a25993f2a4c.jpg",
-      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/d0/a4/d0a4bbef121905622fb53a25993f2a4c.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-17.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-17.jpg",
       "classicTitle": "Gänsefüßchen｜1997",
       "classicDesc": "以引號的視覺語彙介入明斯特，提醒行人關注文字、轉述與公共空間中的解讀權。 原始年代：1997。媒材：場域特定裝置，詳細媒材未公開。",
       "artistStatement": "以引號的視覺語彙介入明斯特，提醒行人關注文字、轉述與公共空間中的解讀權。",
@@ -799,8 +819,12 @@
       "imageCaption": "Gänsefüßchen｜1997",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageDisplayPolicy": "source-attributed"
+      "imageFallbacks": [
+        "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/d0/a4/d0a4bbef121905622fb53a25993f2a4c.jpg"
+      ],
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/d0/a4/d0a4bbef121905622fb53a25993f2a4c.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-17.jpg"
     },
     {
       "id": "public-art-2026-11-18-18",
@@ -823,8 +847,8 @@
       "comment": "以近似展亭的建築構築模糊雕塑與使用空間的界線，使停留與觀看成為作品的核心。",
       "website": "https://www.kunsthallemuenster.de/en/collection/stefan-wewerka-wewerka-pavillon-1987-5157102n-7361/",
       "workPage": "https://www.kunsthallemuenster.de/en/collection/stefan-wewerka-wewerka-pavillon-1987-5157102n-7361/",
-      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/85/de/85de927b1b5dcffd93722f6cd73ddf4e.jpg",
-      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/85/de/85de927b1b5dcffd93722f6cd73ddf4e.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-18.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-18.jpg",
       "classicTitle": "Wewerka Pavillon｜1987",
       "classicDesc": "以近似展亭的建築構築模糊雕塑與使用空間的界線，使停留與觀看成為作品的核心。 原始年代：1987。媒材：展亭式空間構築。",
       "artistStatement": "以近似展亭的建築構築模糊雕塑與使用空間的界線，使停留與觀看成為作品的核心。",
@@ -850,8 +874,12 @@
       "imageCaption": "Wewerka Pavillon｜1987",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageDisplayPolicy": "source-attributed"
+      "imageFallbacks": [
+        "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/85/de/85de927b1b5dcffd93722f6cd73ddf4e.jpg"
+      ],
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/85/de/85de927b1b5dcffd93722f6cd73ddf4e.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-18.jpg"
     },
     {
       "id": "public-art-2026-11-18-19",
@@ -874,8 +902,8 @@
       "comment": "透過幾何金屬形體與身體動線，讓抽象雕塑在城市多個觀看角度之間產生不同空間關係。",
       "website": "https://www.kunsthallemuenster.de/en/collection/james-reineking-synclasticon/",
       "workPage": "https://www.kunsthallemuenster.de/en/collection/james-reineking-synclasticon/",
-      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/1b/38/1b3800cc8cea2b4edb75e66d86439b31.jpg",
-      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/1b/38/1b3800cc8cea2b4edb75e66d86439b31.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-19.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-19.jpg",
       "classicTitle": "Synclasticon｜1977",
       "classicDesc": "透過幾何金屬形體與身體動線，讓抽象雕塑在城市多個觀看角度之間產生不同空間關係。 原始年代：1977。媒材：抽象金屬雕塑。",
       "artistStatement": "透過幾何金屬形體與身體動線，讓抽象雕塑在城市多個觀看角度之間產生不同空間關係。",
@@ -901,8 +929,12 @@
       "imageCaption": "Synclasticon｜1977",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageDisplayPolicy": "source-attributed"
+      "imageFallbacks": [
+        "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/1b/38/1b3800cc8cea2b4edb75e66d86439b31.jpg"
+      ],
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/1b/38/1b3800cc8cea2b4edb75e66d86439b31.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-19.jpg"
     },
     {
       "id": "public-art-2026-11-18-20",
@@ -925,8 +957,8 @@
       "comment": "無盡路徑般的抽象形體把行走節奏及空間連續性轉成明斯特公共藝術收藏的一部分。",
       "website": "https://www.kunsthallemuenster.de/en/collection/marino-di-teana-parcours-sans-fin-endlose-wegstrec/",
       "workPage": "https://www.kunsthallemuenster.de/en/collection/marino-di-teana-parcours-sans-fin-endlose-wegstrec/",
-      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/08/a4/08a426cdb2ba9ffae39fa9016f789353.jpg",
-      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/08/a4/08a426cdb2ba9ffae39fa9016f789353.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-20.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-18-20.jpg",
       "classicTitle": "Parcours sans fin (Endlose Wegstrecke)｜1973–1974",
       "classicDesc": "無盡路徑般的抽象形體把行走節奏及空間連續性轉成明斯特公共藝術收藏的一部分。 原始年代：1973–1974。媒材：幾何戶外雕塑。",
       "artistStatement": "無盡路徑般的抽象形體把行走節奏及空間連續性轉成明斯特公共藝術收藏的一部分。",
@@ -952,8 +984,12 @@
       "imageCaption": "Parcours sans fin (Endlose Wegstrecke)｜1973–1974",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageDisplayPolicy": "source-attributed"
+      "imageFallbacks": [
+        "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/08/a4/08a426cdb2ba9ffae39fa9016f789353.jpg"
+      ],
+      "imageDisplayPolicy": "source-attributed",
+      "imageOriginalUrl": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/08/a4/08a426cdb2ba9ffae39fa9016f789353.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-18-20.jpg"
     }
   ]
 }

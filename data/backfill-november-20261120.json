@@ -461,8 +461,8 @@
       "comment": "弧形鋼牆斜切聯邦廣場，迫使通行者繞行並重新感受場地；後續爭議與1989年拆除，使作品成為場域特定性、公共委託與公眾權力辯論的關鍵案例。",
       "website": "https://www.si.edu/object/maquette-tilted-arc%3Asaam_1981.188",
       "workPage": "https://www.si.edu/object/maquette-tilted-arc%3Asaam_1981.188",
-      "photo": "https://imgsrv.brooklynmuseum.org/collections/objects/1990.118_PS4.jpg?quality=75&width=960",
-      "classicImage": "https://imgsrv.brooklynmuseum.org/collections/objects/1990.118_PS4.jpg?quality=75&width=960",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-11.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-11.jpg",
       "classicTitle": "Tilted Arc｜1981",
       "classicDesc": "弧形鋼牆斜切聯邦廣場，迫使通行者繞行並重新感受場地；後續爭議與1989年拆除，使作品成為場域特定性、公共委託與公眾權力辯論的關鍵案例。 原作1981年設置、1989年拆除；本筆為歷史經典，不宣稱現地仍可觀看。",
       "artistStatement": "弧形鋼牆斜切聯邦廣場，迫使通行者繞行並重新感受場地；後續爭議與1989年拆除，使作品成為場域特定性、公共委託與公眾權力辯論的關鍵案例。",
@@ -489,8 +489,12 @@
       "imageCaption": "Tilted Arc 現地歷史照片，1988；照片含藝術家 Richard Serra",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageKind": "artwork-photograph"
+      "imageFallbacks": [
+        "https://imgsrv.brooklynmuseum.org/collections/objects/1990.118_PS4.jpg?quality=75&width=960"
+      ],
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://imgsrv.brooklynmuseum.org/collections/objects/1990.118_PS4.jpg?quality=75&width=960",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-11.jpg"
     },
     {
       "name": "12｜Maya Lin｜The Wave Field",
@@ -510,8 +514,8 @@
       "comment": "約一萬平方英尺的草地被塑造成週期性波列，把流體力學與航空工程的波形轉化為可步行、可俯視的地景。",
       "website": "https://umma.umich.edu/objects/wave-field-aps1995-1/",
       "workPage": "https://umma.umich.edu/objects/wave-field-aps1995-1/",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg/960px-Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg/960px-Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-12.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-12.jpg",
       "classicTitle": "The Wave Field｜1995",
       "classicDesc": "約一萬平方英尺的草地被塑造成週期性波列，把流體力學與航空工程的波形轉化為可步行、可俯視的地景。 位於密西根大學Francois-Xavier Bagnoud Building前方，依校園公共空間規則參觀。",
       "artistStatement": "約一萬平方英尺的草地被塑造成週期性波列，把流體力學與航空工程的波形轉化為可步行、可俯視的地景。",
@@ -525,7 +529,7 @@
       "accessNote": "位於密西根大學Francois-Xavier Bagnoud Building前方，依校園公共空間規則參觀。",
       "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Wave_Field,_University_of_Michigan,_Ann_Arbor,_Michigan.jpg",
       "imageCredit": "Balthazar Korab／Wikimedia Commons；Public domain",
-      "imageRights": "Public domain；權利與使用條件見 https://commons.wikimedia.org/wiki/File:Wave_Field,_University_of_Michigan,_Ann_Arbor,_Michigan.jpg。畫面僅隨版面縮放。",
+      "imageRights": "Public domain；權利與使用條件見 https://commons.wikimedia.org/wiki/File:Wave_Field,_University_of_Michigan,_Ann_Arbor,_Michigan.jpg。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "imageDisplayPolicy": "source-attributed",
       "imageVerification": "2026-11-20：原圖回應為 image/*，已解碼確認尺寸並逐張檢視作品對應；不以網頁截圖或模型代替現地照片。",
       "statementType": "第一方資料繁體中文整理，非藝術家逐字引言",
@@ -539,9 +543,12 @@
       "imageLicense": "Public domain",
       "imageLicenseUrl": "https://commons.wikimedia.org/wiki/File:Wave_Field,_University_of_Michigan,_Ann_Arbor,_Michigan.jpg",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg/960px-Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/e/e3/Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg/960px-Wave_Field%2C_University_of_Michigan%2C_Ann_Arbor%2C_Michigan.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-12.jpg"
     },
     {
       "name": "13｜Christo and Jeanne-Claude｜Running Fence",
@@ -561,8 +568,8 @@
       "comment": "長24.5英里、高18英尺的白色布幕穿越私人農地並延伸入海，透過協商、許可、勞動與短暫展期，把行政過程也納入作品。",
       "website": "https://americanart.si.edu/exhibitions/christo",
       "workPage": "https://americanart.si.edu/exhibitions/christo",
-      "photo": "https://ids.si.edu/ids/deliveryService?id=SAAM-RF.3.232_1&max=960",
-      "classicImage": "https://ids.si.edu/ids/deliveryService?id=SAAM-RF.3.232_1&max=960",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-13.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-13.jpg",
       "classicTitle": "Running Fence｜1976",
       "classicDesc": "長24.5英里、高18英尺的白色布幕穿越私人農地並延伸入海，透過協商、許可、勞動與短暫展期，把行政過程也納入作品。 1976年9月僅設置兩週，現已拆除；本筆保留原始展期，不描述為現存作品。",
       "artistStatement": "長24.5英里、高18英尺的白色布幕穿越私人農地並延伸入海，透過協商、許可、勞動與短暫展期，把行政過程也納入作品。",
@@ -589,8 +596,12 @@
       "imageCaption": "Running Fence，1976，現地彩色攝影",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageKind": "artwork-photograph"
+      "imageFallbacks": [
+        "https://ids.si.edu/ids/deliveryService?id=SAAM-RF.3.232_1&max=960"
+      ],
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://ids.si.edu/ids/deliveryService?id=SAAM-RF.3.232_1&max=960",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-13.jpg"
     },
     {
       "name": "14｜Walter De Maria｜The Lightning Field",
@@ -610,8 +621,8 @@
       "comment": "四百根鋼柱以一英里乘一公里的網格分布於高原，觀者須以長時間停留感受光線、天候、距離與偶發雷電，而非把閃電當唯一事件。",
       "website": "https://www.diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-lightning-field",
       "workPage": "https://www.diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-lightning-field",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg/960px-Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg/960px-Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-14.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-14.jpg",
       "classicTitle": "The Lightning Field｜1977",
       "classicDesc": "四百根鋼柱以一英里乘一公里的網格分布於高原，觀者須以長時間停留感受光線、天候、距離與偶發雷電，而非把閃電當唯一事件。 Dia管理之偏遠場址，僅依官方季節、預約與接送制度參訪。",
       "artistStatement": "四百根鋼柱以一英里乘一公里的網格分布於高原，觀者須以長時間停留感受光線、天候、距離與偶發雷電，而非把閃電當唯一事件。",
@@ -625,7 +636,7 @@
       "accessNote": "Dia管理之偏遠場址，僅依官方季節、預約與接送制度參訪。",
       "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Walter_de_Maria,_The_Lightning_Field,_1977_(7873321374).jpg",
       "imageCredit": "Retis／Wikimedia Commons；CC BY 2.0",
-      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。畫面僅隨版面縮放。",
+      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "imageDisplayPolicy": "source-attributed",
       "imageVerification": "2026-11-20：原圖回應為 image/*，已解碼確認尺寸並逐張檢視作品對應；不以網頁截圖或模型代替現地照片。",
       "statementType": "第一方資料繁體中文整理，非藝術家逐字引言",
@@ -639,9 +650,12 @@
       "imageLicense": "CC BY 2.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg/960px-Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/1/18/Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg/960px-Walter_de_Maria%2C_The_Lightning_Field%2C_1977_%287873321374%29.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-14.jpg"
     },
     {
       "name": "15｜Nancy Holt｜Sun Tunnels",
@@ -661,8 +675,8 @@
       "comment": "四座大型混凝土圓筒對準夏至與冬至日出日落，筒壁孔洞映出星座光點，將太陽、星圖與荒漠尺度轉為身體可經驗的時間裝置。",
       "website": "https://diaart.org/visit/visit-our-locations-sites/nancy-holt-sun-tunnels",
       "workPage": "https://diaart.org/visit/visit-our-locations-sites/nancy-holt-sun-tunnels",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg/960px-Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg/960px-Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-15.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-15.jpg",
       "classicTitle": "Sun Tunnels｜1973–1976",
       "classicDesc": "四座大型混凝土圓筒對準夏至與冬至日出日落，筒壁孔洞映出星座光點，將太陽、星圖與荒漠尺度轉為身體可經驗的時間裝置。 作品位於偏遠沙漠，Dia提供路線與安全提醒；出發前須查核天候、道路與場域條件。",
       "artistStatement": "四座大型混凝土圓筒對準夏至與冬至日出日落，筒壁孔洞映出星座光點，將太陽、星圖與荒漠尺度轉為身體可經驗的時間裝置。",
@@ -676,7 +690,7 @@
       "accessNote": "作品位於偏遠沙漠，Dia提供路線與安全提醒；出發前須查核天候、道路與場域條件。",
       "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nancy_Holt,_Sun_Tunnels,_1973-1976.jpg",
       "imageCredit": "Retis／Wikimedia Commons；CC BY 2.0",
-      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。畫面僅隨版面縮放。",
+      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "imageDisplayPolicy": "source-attributed",
       "imageVerification": "2026-11-20：原圖回應為 image/*，已解碼確認尺寸並逐張檢視作品對應；不以網頁截圖或模型代替現地照片。",
       "statementType": "第一方資料繁體中文整理，非藝術家逐字引言",
@@ -690,9 +704,12 @@
       "imageLicense": "CC BY 2.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg/960px-Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg/960px-Nancy_Holt%2C_Sun_Tunnels%2C_1973-1976.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-15.jpg"
     },
     {
       "name": "16｜Bruce Nauman｜Square Depression",
@@ -712,8 +729,8 @@
       "comment": "二十五公尺見方的白色混凝土平面向中心下沉2.3公尺，讓觀者走入負形空間；構想於1977年提出、2007年才實現，是明斯特雕塑計畫延宕實現的代表。",
       "website": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/21/",
       "workPage": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/21/",
-      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Square_depression.jpg",
-      "classicImage": "https://upload.wikimedia.org/wikipedia/commons/8/81/Square_depression.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-16.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-16.jpg",
       "classicTitle": "Square Depression｜1977 / 2007",
       "classicDesc": "二十五公尺見方的白色混凝土平面向中心下沉2.3公尺，讓觀者走入負形空間；構想於1977年提出、2007年才實現，是明斯特雕塑計畫延宕實現的代表。 作品2020年因校園工程拆除，官方記錄規劃移置重裝；目前不得描述為原址可見。",
       "artistStatement": "二十五公尺見方的白色混凝土平面向中心下沉2.3公尺，讓觀者走入負形空間；構想於1977年提出、2007年才實現，是明斯特雕塑計畫延宕實現的代表。",
@@ -727,7 +744,7 @@
       "accessNote": "作品2020年因校園工程拆除，官方記錄規劃移置重裝；目前不得描述為原址可見。",
       "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Square_depression.jpg",
       "imageCredit": "Wikimedia Commons／原始上傳者 Cochise~commonswiki；CC BY 2.5",
-      "imageRights": "CC BY 2.5；權利與使用條件見 https://creativecommons.org/licenses/by/2.5。畫面僅隨版面縮放。",
+      "imageRights": "CC BY 2.5；權利與使用條件見 https://creativecommons.org/licenses/by/2.5。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "imageDisplayPolicy": "source-attributed",
       "imageVerification": "2026-11-20：原圖回應為 image/*，已解碼確認尺寸並逐張檢視作品對應；不以網頁截圖或模型代替現地照片。",
       "statementType": "第一方資料繁體中文整理，非藝術家逐字引言",
@@ -743,7 +760,9 @@
       "imageFallbacks": [
         "https://upload.wikimedia.org/wikipedia/commons/8/81/Square_depression.jpg"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Square_depression.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-16.jpg"
     },
     {
       "name": "17｜Thomas Schütte｜Kirschensäule / Cherry Column",
@@ -763,8 +782,8 @@
       "comment": "六公尺高的砂岩柱頂端放置放大的紅櫻桃，把古典柱式、城市裝飾與消費圖像壓縮為帶有幽默與不協調感的廣場標誌。",
       "website": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/29/",
       "workPage": "https://www.skulptur-projekte-archiv.de/en-us/1987/projects/29/",
-      "photo": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/b3/61/b3616646c5b5e37ad6615ee6cb37ffe4.jpg",
-      "classicImage": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/b3/61/b3616646c5b5e37ad6615ee6cb37ffe4.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-17.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-17.jpg",
       "classicTitle": "Kirschensäule / Cherry Column｜1987",
       "classicDesc": "六公尺高的砂岩柱頂端放置放大的紅櫻桃，把古典柱式、城市裝飾與消費圖像壓縮為帶有幽默與不協調感的廣場標誌。 1987年完成並留置Harsewinkelplatz；現況與維護以明斯特官方檔案及現地公告為準。",
       "artistStatement": "六公尺高的砂岩柱頂端放置放大的紅櫻桃，把古典柱式、城市裝飾與消費圖像壓縮為帶有幽默與不協調感的廣場標誌。",
@@ -791,8 +810,12 @@
       "imageCaption": "Kirschensäule / Cherry Column｜1987",
       "imageLicense": "",
       "imageLicenseUrl": "",
-      "imageFallbacks": [],
-      "imageKind": "artwork-photograph"
+      "imageFallbacks": [
+        "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/b3/61/b3616646c5b5e37ad6615ee6cb37ffe4.jpg"
+      ],
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://s3.eu-central-1.amazonaws.com/khm-bucket/cache/b3/61/b3616646c5b5e37ad6615ee6cb37ffe4.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-17.jpg"
     },
     {
       "name": "18｜Ilya Kabakov｜Blickst du hinauf und liest die Worte…",
@@ -812,8 +835,8 @@
       "comment": "十五公尺高桅杆伸出二十二支細天線，金屬字句懸於天空邊界，邀請觀者抬頭閱讀，把不可抵達的訊息與公共草地的日常並置。",
       "website": "https://www.skulptur-projekte-archiv.de/de-de/9999/projects/18/",
       "workPage": "https://www.skulptur-projekte-archiv.de/de-de/9999/projects/18/",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg/960px-M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg/960px-M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-18.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-18.jpg",
       "classicTitle": "Blickst du hinauf und liest die Worte…｜1997",
       "classicDesc": "十五公尺高桅杆伸出二十二支細天線，金屬字句懸於天空邊界，邀請觀者抬頭閱讀，把不可抵達的訊息與公共草地的日常並置。 1997年完成並永久設於Aasee北側草地；依公園現地規定參觀。",
       "artistStatement": "十五公尺高桅杆伸出二十二支細天線，金屬字句懸於天空邊界，邀請觀者抬頭閱讀，把不可抵達的訊息與公共草地的日常並置。",
@@ -827,7 +850,7 @@
       "accessNote": "1997年完成並永久設於Aasee北側草地；依公園現地規定參觀。",
       "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg",
       "imageCredit": "Dietmar Rabich／Wikimedia Commons；CC BY-SA 4.0",
-      "imageRights": "CC BY-SA 4.0；權利與使用條件見 https://creativecommons.org/licenses/by-sa/4.0。畫面僅隨版面縮放。",
+      "imageRights": "CC BY-SA 4.0；權利與使用條件見 https://creativecommons.org/licenses/by-sa/4.0。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "imageDisplayPolicy": "source-attributed",
       "imageVerification": "2026-11-20：原圖回應為 image/*，已解碼確認尺寸並逐張檢視作品對應；不以網頁截圖或模型代替現地照片。",
       "statementType": "第一方資料繁體中文整理，非藝術家逐字引言",
@@ -841,9 +864,12 @@
       "imageLicense": "CC BY-SA 4.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg/960px-M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/d9/M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg/960px-M%C3%BCnster%2C_Skulptur_%22Blickst_Du_hinauf_und_liest_die_Worte_%E2%80%A6%22_--_2018_--_1770.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-18.jpg"
     },
     {
       "name": "19｜Claes Oldenburg｜Giant Pool Balls",
@@ -863,8 +889,8 @@
       "comment": "三顆直徑約3.5公尺的白色混凝土球散落Aasee岸邊，把撞球尺度誇張放大，讓地景、遊戲規則與城市休閒空間互相轉換。",
       "website": "https://www.skulptur-projekte-archiv.de/en-us/1977/projects/23/",
       "workPage": "https://www.skulptur-projekte-archiv.de/en-us/1977/projects/23/",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/MuensterGiantPoolBalls260.jpg/960px-MuensterGiantPoolBalls260.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/MuensterGiantPoolBalls260.jpg/960px-MuensterGiantPoolBalls260.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-19.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-19.jpg",
       "classicTitle": "Giant Pool Balls｜1977",
       "classicDesc": "三顆直徑約3.5公尺的白色混凝土球散落Aasee岸邊，把撞球尺度誇張放大，讓地景、遊戲規則與城市休閒空間互相轉換。 1977年完成並永久留置Aasee北側；依公園現地規定參觀。",
       "artistStatement": "三顆直徑約3.5公尺的白色混凝土球散落Aasee岸邊，把撞球尺度誇張放大，讓地景、遊戲規則與城市休閒空間互相轉換。",
@@ -878,7 +904,7 @@
       "accessNote": "1977年完成並永久留置Aasee北側；依公園現地規定參觀。",
       "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:MuensterGiantPoolBalls260.jpg",
       "imageCredit": "Rüdiger Wölk／Wikimedia Commons；CC BY-SA 2.5",
-      "imageRights": "CC BY-SA 2.5；權利與使用條件見 https://creativecommons.org/licenses/by-sa/2.5。畫面僅隨版面縮放。",
+      "imageRights": "CC BY-SA 2.5；權利與使用條件見 https://creativecommons.org/licenses/by-sa/2.5。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "imageDisplayPolicy": "source-attributed",
       "imageVerification": "2026-11-20：原圖回應為 image/*，已解碼確認尺寸並逐張檢視作品對應；不以網頁截圖或模型代替現地照片。",
       "statementType": "第一方資料繁體中文整理，非藝術家逐字引言",
@@ -892,9 +918,12 @@
       "imageLicense": "CC BY-SA 2.5",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/MuensterGiantPoolBalls260.jpg/960px-MuensterGiantPoolBalls260.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/d/d7/MuensterGiantPoolBalls260.jpg"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/MuensterGiantPoolBalls260.jpg/960px-MuensterGiantPoolBalls260.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-19.jpg"
     },
     {
       "name": "20｜herman de vries｜sanctuarium",
@@ -914,8 +943,8 @@
       "comment": "直徑約十四公尺、三公尺高的圓形圍牆封閉一塊任其演替的城市土地；觀者不能進入，只能由孔洞觀看植物自行形成的微型保護區。",
       "website": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/12/",
       "workPage": "https://www.skulptur-projekte-archiv.de/en-us/9999/projects/12/",
-      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg/960px-M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg",
-      "classicImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg/960px-M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-20.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/artwork-photos/public-art-2026-11-20-20.jpg",
       "classicTitle": "sanctuarium｜1997",
       "classicDesc": "直徑約十四公尺、三公尺高的圓形圍牆封閉一塊任其演替的城市土地；觀者不能進入，只能由孔洞觀看植物自行形成的微型保護區。 1997年完成並永久保留；作品本身不開放進入，觀察方式是從牆外與孔洞觀看。",
       "artistStatement": "直徑約十四公尺、三公尺高的圓形圍牆封閉一塊任其演替的城市土地；觀者不能進入，只能由孔洞觀看植物自行形成的微型保護區。",
@@ -929,7 +958,7 @@
       "accessNote": "1997年完成並永久保留；作品本身不開放進入，觀察方式是從牆外與孔洞觀看。",
       "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg",
       "imageCredit": "Sandra Fauconnier／Wikimedia Commons；CC BY 2.0",
-      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。畫面僅隨版面縮放。",
+      "imageRights": "CC BY 2.0；權利與使用條件見 https://creativecommons.org/licenses/by/2.0。為網頁顯示等比例縮圖與JPEG壓縮，未裁切。",
       "imageDisplayPolicy": "source-attributed",
       "imageVerification": "2026-11-20：原圖回應為 image/*，已解碼確認尺寸並逐張檢視作品對應；不以網頁截圖或模型代替現地照片。",
       "statementType": "第一方資料繁體中文整理，非藝術家逐字引言",
@@ -943,9 +972,12 @@
       "imageLicense": "CC BY 2.0",
       "imageLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "imageFallbacks": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg/960px-M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/5/58/M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg"
       ],
-      "imageKind": "artwork-photograph"
+      "imageKind": "artwork-photograph",
+      "imageOriginalUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg/960px-M%C3%BCnster_-_herman_de_vries_-_Sanctuarium_04.jpg",
+      "imageCachedPath": "assets/images/artwork-photos/public-art-2026-11-20-20.jpg"
     }
   ]
 }

@@ -217,8 +217,9 @@ def check_artwork_map():
         page.route("https://tile.openstreetmap.org/**",lambda route: route.fulfill(status=200,content_type="image/png",body=pixel))
         errors=[]
         page.on("pageerror",lambda error: errors.append(str(error)))
-        page.goto(BASE+"map/?work=raumfragen-animal-neighborhood-munich-2026",wait_until="domcontentloaded",timeout=70000)
-        page.wait_for_function("()=>document.querySelector('#stats').textContent.includes('已定位')",timeout=30000)
+        page.goto(BASE+"map/?work=raumfragen-animal-neighborhood-munich-2026&verify=cached-photos-r149",wait_until="domcontentloaded",timeout=70000)
+        page.locator("#stats").wait_for(state="attached",timeout=30000)
+        page.wait_for_function("()=>{const s=document.querySelector('#stats');return s&&s.textContent.includes('已定位')}",timeout=30000)
         assert page.locator(".leaflet-marker-icon").count() >= 1, "Map markers missing"
         assert "Animal Neighborhood" in page.locator(".leaflet-popup-content").inner_text(), "Selected artwork popup missing"
         assert "OpenStreetMap" in page.locator(".leaflet-control-attribution").inner_text(), "Missing attribution"
@@ -308,7 +309,7 @@ def check_repaired_artwork_photos():
     with sync_playwright() as p:
         browser=p.chromium.launch(headless=True,args=["--no-sandbox"])
         page=browser.new_page(viewport={"width":1360,"height":950})
-        page.goto(BASE+"?verify=work-photos-r148",wait_until="domcontentloaded",timeout=70000)
+        page.goto(BASE+"?verify=cached-work-photos-r149",wait_until="domcontentloaded",timeout=70000)
         page.wait_for_function("()=>/顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
         checked=[]
         for item in audit["entries"]:
@@ -330,6 +331,7 @@ def check_repaired_artwork_photos():
             assert "查看原頁圖像與完整署名" in page.locator("#panel").inner_text()
             page.locator("#sheetClose").click()
             checked.append(item["id"])
+            print("PHOTO_OK "+item["id"],flush=True)
         page.set_viewport_size({"width":390,"height":844})
         for work_id in ["public-art-2026-11-20-11","public-art-2026-11-19-11","public-art-2026-11-18-11"]:
             card=page.locator('[data-id="'+work_id+'"]');card.scroll_into_view_if_needed()
