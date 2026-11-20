@@ -1032,3 +1032,5 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;paddin
 .pending-detail{margin-top:14px;padding:12px;border:1px solid var(--hair-soft);font-size:14px;line-height:1.8}.pending-detail strong{font-size:14px}.pending-detail p{margin:6px 0 0}.research-filters label{font-size:14px}.research-note{font-size:14px}.research-advanced summary{font-size:14px}.research-advanced summary span{font-size:12px}
 
 .pending-detail ul{margin:8px 0 0;padding-left:20px}.pending-detail li+li{margin-top:10px}.pending-detail li p{margin:2px 0 0}.research-note{overflow-wrap:anywhere}
+
+.card-image-credit{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-top:7px;font-size:12px;line-height:1.5;color:var(--ink-2);text-align:left;overflow-wrap:anywhere}.panel figure img.image-load-failed{display:none}

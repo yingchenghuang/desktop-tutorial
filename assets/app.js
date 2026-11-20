@@ -145,6 +145,9 @@
       imageDisplayPolicy: text(raw.imageDisplayPolicy),
       imageSourceUrl: text(raw.imageSourceUrl),
       imagePhotographer: text(raw.imagePhotographer),
+      imageCaption: text(raw.imageCaption),
+      imageLicenseUrl: text(raw.imageLicenseUrl),
+      imageFallbacks: Array.isArray(raw.imageFallbacks) ? raw.imageFallbacks.filter(function(u){return /^https?:\/\//i.test(u);}) : [],
       sourceName: text(raw.sourceName),
       sourceIssues: Array.isArray(raw.sourceIssues) ? raw.sourceIssues : [],
       classicTitle: text(raw.classicTitle),
@@ -358,11 +361,18 @@
     return 'watch';
   }
 
+  function imageAttributes(e){return ' data-fallbacks="'+esc(JSON.stringify(e.imageFallbacks||[]))+'" onerror="window.archivePhotoError(this)"';}
+  window.archivePhotoError=function(img){
+    var remaining=[];try{remaining=JSON.parse(img.dataset.fallbacks||'[]');}catch(ignore){}
+    var next=remaining.shift();img.dataset.fallbacks=JSON.stringify(remaining);
+    if(next&&/^https?:\/\//i.test(next)&&next!==img.src){img.src=next;return;}
+    img.classList.add('image-load-failed');if(img.parentElement.classList.contains('card-media'))img.parentElement.classList.add('noimg');
+  };
   function cardHTML(e, i) {
     var showImage = e.classicImage && e.imageDisplayPolicy !== 'link-only';
     var noimg = showImage ? '' : ' noimg';
     var img = showImage
-      ? '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.parentElement.classList.add(\'noimg\')">'
+      ? '<img loading="lazy" referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '"'+imageAttributes(e)+'>'
       : '';
     var rank = e.rank ? esc(e.rank) : String(i + 1).padStart(2, '0');
     var tier = e.tier === '動態情報層' ? '<em class="tiermark">動態</em>' :
@@ -382,6 +392,7 @@
         '<span class="card-glyph"><span>' + esc(glyphChar(e.displayName)) + '</span></span>' +
         (e.imageDisplayPolicy === 'link-only' ? '<span class="image-link-note">圖片請見來源頁</span>' : '') +
       '</span>' +
+      (showImage && e.imageCredit ? '<span class="card-image-credit" title="'+esc(e.imageCredit)+'">'+esc(e.imageCredit)+'</span>' : '') +
       '<span class="card-body">' +
         '<h3 class="card-name">' + esc(e.displayName) + '</h3>' +
         (e.subName ? '<p class="card-sub">' + esc(e.subName) + '</p>' : '') +
@@ -578,8 +589,8 @@
       (e.rank && e.tier === '動態情報層' ? '<span class="badge dyn">關注度 ' + esc(e.rank) + '</span>' : '');
 
     var fig = e.classicImage && e.imageDisplayPolicy !== 'link-only'
-      ? '<figure><img referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '" onerror="this.closest(\'figure\').style.display=\'none\'">' +
-        '<figcaption>' + [e.classicTitle, e.imageCredit].filter(Boolean).map(esc).join(' · ') + '</figcaption></figure>'
+      ? '<figure><img referrerpolicy="no-referrer" src="' + esc(e.classicImage) + '" alt="' + esc(e.classicTitle || e.displayName) + '"'+imageAttributes(e)+'>' +
+        '<figcaption>' + [e.imageCaption || e.classicTitle, e.imageCredit].filter(Boolean).map(esc).join(' · ') + '</figcaption></figure>'
       : '';
 
     var galleryHtml = e.images.length
@@ -602,7 +613,7 @@
     var imageDetails = e.imageCredit || e.imageVerification || e.imageRights
       ? '<div class="block"><div class="block-label">影像來源與核對</div><p>' +
         [e.imageCredit, e.imagePhotographer ? '攝影者 ' + e.imagePhotographer : '', e.imageRights, e.imageVerification].filter(Boolean).map(esc).join(' · ') + '</p>' +
-        (e.imageSourceUrl ? '<a class="statement-source" href="' + esc(e.imageSourceUrl) + '" target="_blank" rel="noopener">查看原頁圖像與完整署名</a>' : '') + '</div>'
+        (e.imageSourceUrl ? '<a class="statement-source" href="' + esc(e.imageSourceUrl) + '" target="_blank" rel="noopener">查看原頁圖像與完整署名</a>' : '') + (e.imageLicenseUrl ? '<a class="statement-source" href="'+esc(e.imageLicenseUrl)+'" target="_blank" rel="noopener">照片授權條件</a>' : '') + '</div>'
       : '';
     var accessDetails = e.accessNote
       ? '<div class="block"><div class="block-label">參訪資訊</div><p>' + esc(e.accessNote) + '</p></div>'

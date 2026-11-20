@@ -301,6 +301,44 @@ def check_research_filters():
         REPORT["browser"]["researchFilters"]={"primary":4,"advanced":5,"pendingReasonAndProfileScope":"passed","pendingUrlRestore":"passed","originalCurrencyBudget":"passed","countryCityEraIntersection":"passed","urlRestoreAndReset":"passed","mobile390":"passed"}
         browser.close()
 
+def check_repaired_artwork_photos():
+    from playwright.sync_api import sync_playwright
+    audit=get("review/20261120-artwork-photo-repair.json",True)
+    assert len(audit["entries"]) == 30
+    with sync_playwright() as p:
+        browser=p.chromium.launch(headless=True,args=["--no-sandbox"])
+        page=browser.new_page(viewport={"width":1360,"height":950})
+        page.goto(BASE+"?verify=work-photos-r148",wait_until="domcontentloaded",timeout=70000)
+        page.wait_for_function("()=>/顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
+        checked=[]
+        for item in audit["entries"]:
+            card=page.locator('[data-id="'+item["id"]+'"]')
+            assert card.count() == 1, item["id"]+" record missing or duplicate"
+            card.scroll_into_view_if_needed()
+            image=card.locator(".card-media img")
+            assert image.count() == 1, item["id"]+" has no visible photo element"
+            image.evaluate("img=>img.loading='eager'")
+            image.wait_for(state="visible",timeout=30000)
+            page.wait_for_function("id=>{const i=document.querySelector('[data-id=\"'+id+'\"] .card-media img');return i&&i.complete&&i.naturalWidth>=120}",arg=item["id"],timeout=45000)
+            assert card.locator(".card-media.noimg").count() == 0, item["id"]+" reverted to letter placeholder"
+            assert card.locator(".image-link-note").count() == 0, item["id"]+" replaced by source-only note"
+            assert card.locator(".card-image-credit").inner_text().strip(), item["id"]+" missing attribution"
+            card.click()
+            hero=page.locator("#panel > figure img")
+            assert hero.count() == 1, item["id"]+" detail photo missing"
+            page.wait_for_function("()=>{const i=document.querySelector('#panel > figure img');return i&&i.complete&&i.naturalWidth>=120}",timeout=45000)
+            assert "查看原頁圖像與完整署名" in page.locator("#panel").inner_text()
+            page.locator("#sheetClose").click()
+            checked.append(item["id"])
+        page.set_viewport_size({"width":390,"height":844})
+        for work_id in ["public-art-2026-11-20-11","public-art-2026-11-19-11","public-art-2026-11-18-11"]:
+            card=page.locator('[data-id="'+work_id+'"]');card.scroll_into_view_if_needed()
+            assert card.locator(".card-media img").evaluate("i=>i.naturalWidth>=120")
+            assert card.locator(".card-image-credit").is_visible()
+        assert page.evaluate("document.documentElement.scrollWidth<=innerWidth+1"), "Photo credits overflow mobile viewport"
+        REPORT["browser"]["repairedArtworkPhotos"]={"realPhotos":len(checked),"cardsAndDetailImages":"passed","sourceOnlyPlaceholders":0,"attribution":"passed","mobile390":"passed"}
+        browser.close()
+
 def main():
     try:
         entries=check_endpoints()
@@ -310,6 +348,7 @@ def main():
         check_daily_search_and_city_link(records, active)
         check_artwork_map()
         check_research_filters()
+        check_repaired_artwork_photos()
     except Exception as e:
         FAILURES.append("Live endpoint: "+str(e))
     REPORT["failures"]=FAILURES

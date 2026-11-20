@@ -9,6 +9,8 @@ on:
       - 'assets/app.js'
       - 'assets/archive-taxonomy.js'
       - 'scripts/test_archive_taxonomy.cjs'
+      - 'scripts/test_artwork_photos.cjs'
+      - 'review/20261120-artwork-photo-repair.json'
       - 'index.html'
 
 permissions:
@@ -31,7 +33,9 @@ jobs:
         with:
           node-version: '22'
       - name: Verify classification evidence and pending scopes
-        run: node scripts/test_archive_taxonomy.cjs
+        run: |
+          node scripts/test_archive_taxonomy.cjs
+          node scripts/test_artwork_photos.cjs
       - name: Install browser test dependencies
         run: |
           python -m pip install playwright
