@@ -1,5 +1,5 @@
 """Fetch only the reviewed November 21 image sources, with decoded-image validation."""
-import concurrent.futures, hashlib, io, json, pathlib, urllib.request
+import concurrent.futures, hashlib, io, json, pathlib, urllib.request, urllib.parse
 from PIL import Image, ImageOps
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -9,7 +9,8 @@ def cache(item):
     path = ROOT / item['path']
     assert path.parent == ROOT / 'assets/images/daily-20261121'
     assert item['url'].startswith('https://')
-    with urllib.request.urlopen(item['url'], timeout=50) as response:
+    url = urllib.parse.quote(item['url'], safe=":/?&=%+,;@!$()*'~-")
+    with urllib.request.urlopen(url, timeout=50) as response:
         assert response.status == 200
         content_type = response.headers.get('Content-Type', '')
         assert content_type.startswith('image/'), (item['id'], content_type)
