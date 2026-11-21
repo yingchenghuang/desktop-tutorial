@@ -257,9 +257,9 @@
       "collectionDate": "2026-11-21",
       "material": "懸吊雕塑或中庭裝置",
       "accessNote": "室內中庭約192立方公尺，最大6公尺高、4乘8公尺；詳細圖面供入選者簽NDA後取得。",
-      "imageSourceUrl": "https://mbzuai.ac.ae/campus-community/artworks-special-collections/open-call",
-      "imageOriginalUrl": "https://mbzuai.ac.ae/content/media/styles/4_3_medium/public/2026-08/mbzuai-campus-image-02.jpg?itok=cAuEkeZm",
-      "imageCredit": "MBZUAI官網校園照片；原頁未列攝影者",
+      "imageSourceUrl": "https://canvasonline.com/mbzuai-announces-international-open-call-for-public-artwork/",
+      "imageOriginalUrl": "https://canvasonline.com/wp-content/uploads/2026/11/mbzuai-1140.jpg",
+      "imageCredit": "Image courtesy of MBZUAI；刊載於Canvas（2026-11-20），原文未列攝影者",
       "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
       "imageDisplayPolicy": "display",
       "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
@@ -278,7 +278,7 @@
       "budget": "最高 USD 250,000，含所有費用；第二階段每位／組 USD 5,000提案酬金另計；合理經濟艙場勘與住宿由校方提供",
       "applicationFee": "官方未公開；第一階段備件成本自理",
       "opportunityType": "公共藝術兩階段公開預審",
-      "imageCaption": "既有MBZUAI校園照片，非新文化中心完工照或已完成藝術品",
+      "imageCaption": "校方提供的校園環境照片，由Canvas刊載；非新文化中心完工照或已完成藝術品",
       "budgetSource": "https://mbzuai.ac.ae/content/media/2026-11/mbzuai-open-call-stage-1-rfq.pdf",
       "termsNote": "正式RFQ規定校方取得作品及全部智慧財產權；作品位置得調整。簽約前須詳讀完整第11節。",
       "researchSources": [
@@ -289,7 +289,7 @@
       ],
       "imageCachedPath": "assets/images/daily-20261121/competition-2026-11-21-04.jpg",
       "imageFallbacks": [
-        "https://mbzuai.ac.ae/content/media/styles/4_3_medium/public/2026-08/mbzuai-campus-image-02.jpg?itok=cAuEkeZm"
+        "https://canvasonline.com/wp-content/uploads/2026/11/mbzuai-1140.jpg"
       ],
       "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
     },
@@ -321,9 +321,9 @@
       "collectionDate": "2026-11-21",
       "material": "適合戶外的耐候雕塑",
       "accessNote": "預定2027年3月至2029年3月；此為借展招募，不保證今日展示名單。",
-      "imageSourceUrl": "https://concordnc.gov/Services/Community/News/ID/317/New-Temporary-Sculpture-Show-in-Downtown-Concord",
-      "imageOriginalUrl": "https://concordnc.gov/Portals/0/Concord/Departments/Public%20Affairs/Images/Connected%20by%20Nathaniel%20Pierce.JPG?ver=gux26fxW1-8%3D",
-      "imageCredit": "City of Concord提供；Nathaniel Pierce《Connected》2025首屆展覽官方照片",
+      "imageSourceUrl": "https://decatursculpturetour.com/artist/nathan-pierce/7",
+      "imageOriginalUrl": "https://decatursculpturetour.com/images/2016/23---Connected---Nathan-Pierce00003.jpg",
+      "imageCredit": "Nathan Pierce《Connected》；影像出處 Decatur Sculpture Tour官方2016檔案，原頁未列攝影者",
       "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
       "imageDisplayPolicy": "display",
       "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
@@ -343,7 +343,7 @@
       "budget": "每件 USD 2,500，含兩年借展、運輸、安裝與拆除；無另列製作預算",
       "applicationFee": "官方未公開",
       "opportunityType": "戶外雕塑兩年借展公開徵選",
-      "imageCaption": "Nathaniel Pierce《Connected》，2025首屆展覽官方檔案照；非2027徵件獲選結果",
+      "imageCaption": "Concord過去參展藝術家Nathan Pierce的同名作品《Connected》歷史範例，圖為Decatur 2016檔案；非Concord場址照、非2027徵件結果",
       "researchSources": [
         {
           "label": "官方八頁完整徵件簡章",
@@ -352,7 +352,7 @@
       ],
       "imageCachedPath": "assets/images/daily-20261121/competition-2026-11-21-05.jpg",
       "imageFallbacks": [
-        "https://concordnc.gov/Portals/0/Concord/Departments/Public%20Affairs/Images/Connected%20by%20Nathaniel%20Pierce.JPG?ver=gux26fxW1-8%3D"
+        "https://decatursculpturetour.com/images/2016/23---Connected---Nathan-Pierce00003.jpg"
       ],
       "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
     },

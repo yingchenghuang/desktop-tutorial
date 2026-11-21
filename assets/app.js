@@ -161,6 +161,8 @@
       imageCredit: text(raw.imageCredit),
       imageVerification: text(raw.imageVerification),
       accessNote: text(raw.accessNote),
+      dateConflict: text(raw.dateConflict),
+      termsNote: text(raw.termsNote),
       status: text(raw.status, links.length ? '可信二手來源' : '追蹤'),
       updated: updated,
       deadline: text(raw.deadline),
@@ -623,6 +625,12 @@
     var accessDetails = e.accessNote
       ? '<div class="block"><div class="block-label">參訪資訊</div><p>' + esc(e.accessNote) + '</p></div>'
       : '';
+    var sourceDifferences = e.dateConflict
+      ? '<div class="block"><div class="block-label">原始資料差異</div><p>' + esc(e.dateConflict) + '</p></div>'
+      : '';
+    var contractTerms = e.termsNote
+      ? '<div class="block"><div class="block-label">徵件合約重點</div><p>' + esc(e.termsNote) + '</p></div>'
+      : '';
 
     var mediaTags = '<div class="block"><div class="block-label">媒介類型</div><span class="tags">' +
       e.media.map(function (m) { return '<span class="tag">' + esc(m) + '</span>'; }).join('') + '</span></div>';
@@ -713,7 +721,7 @@
       fig + galleryHtml +
       '<p class="lead">' + esc(e.comment) + '</p>' +
       (e.classicDesc ? '<p class="desc">' + esc(e.classicDesc) + '</p>' : '') +
-      caseStudy + researchDetails + accessDetails + imageDetails + sourceHistory + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
+      caseStudy + researchDetails + accessDetails + sourceDifferences + contractTerms + imageDetails + sourceHistory + curatorStatement + artistStatement + works + landmarkDetails + exhibitionDetails + competitionDetails + mediaTags + cityHtml + relatedHtml + links +
       '<div class="panel-meta">更新 ' + displayDate(e.updated) + '・' + esc(e.id) + '</div>';
 
     lastFocus = document.activeElement;
