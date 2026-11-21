@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-21",
+  "sources": [
+    {
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "bbk berlin KiöR",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 401: Unauthorized",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "KORO",
+      "url": "https://koro.no/english/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "MAPS",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Swiss BBL Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 503: Service Unavailable",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Fourth Plinth London",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Toronto Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Vancouver Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Melbourne Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "文化部公共藝術",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "入口回讀受阻",
+      "httpStatus": "error",
+      "error": "HTTP Error 403: Forbidden",
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Land Art Flevoland",
+      "url": "https://www.landartflevoland.nl/en/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Raumfragen",
+      "url": "https://raumfragen.eu/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Public Art München",
+      "url": "https://www.publicartmuenchen.de/en/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "Public Art Lab Berlin",
+      "url": "https://www.publicartlab-berlin.de/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    },
+    {
+      "name": "GalleriesNow",
+      "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/",
+      "status": "入口正文回讀成功",
+      "httpStatus": 200,
+      "error": null,
+      "note": "僅代表本次入口正文可讀，不宣稱逐件掃完全庫或全站無更新。"
+    }
+  ],
+  "summary": {
+    "total": 27,
+    "readable": 17,
+    "blocked": 10
+  },
+  "supplementalSourceChecks": [
+    "KOERNOE 12件正式個案頁",
+    "Public Art Heritage Aotearoa New Zealand 5件正式個案頁",
+    "越後妻有3件正式個案頁",
+    "KORO Oppdragsportal 3則完整招募",
+    "MBZUAI官網與六頁RFQ以網頁檢索回讀，執行環境HTTP403",
+    "Concord官方公告與八頁RFQ以網頁檢索回讀，執行環境HTTP403",
+    "GalleriesNow五展與四個主辦個展頁核對"
+  ],
+  "limits": "被阻擋來源仍保留追蹤。網站入口HTTP成功不代表已窮盡所有新增文章。"
+}

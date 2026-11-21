@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T12:30:53+08:00",
+  "status": "prepared; deployment and Notion verification pending",
+  "publicArt": {
+    "total": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    }
+  },
+  "competitions": {
+    "generatedAt": "2026-11-21T12:30:53+08:00",
+    "activeEntries": 138,
+    "addedToday": 5,
+    "addedThisRun": 5,
+    "expiredRemoved": 1,
+    "expiredRemovedIds": [
+      "competition-2026-10-20-03"
+    ],
+    "note": "11月21日新增5則：2個KORO策展服務、LOK公共藝術遴選委員招募、MBZUAI國際藝術委託、Concord雕塑借展。三類機會明確分流；所有未截止舊案保留。LOK為職務招募且使用官方標誌，未假冒作品照片。"
+  },
+  "exhibitions": {
+    "addedToday": 5,
+    "completeRanges": 5,
+    "dateConflicts": 1
+  },
+  "duplicates": 0,
+  "notionPrepared": 30,
+  "map": {
+    "catalogWorks": 21,
+    "locatedWorks": 16,
+    "pendingWorks": 5,
+    "locations": 20
+  },
+  "imageVerification": "25 artwork/exhibition photos visually matched; new call images checked separately; final live browser check pending"
+}

@@ -341,6 +341,48 @@ def check_repaired_artwork_photos():
         REPORT["browser"]["repairedArtworkPhotos"]={"realPhotos":len(checked),"cardsAndDetailImages":"passed","sourceOnlyPlaceholders":0,"attribution":"passed","mobile390":"passed"}
         browser.close()
 
+def check_november_21_update():
+    from playwright.sync_api import sync_playwright
+    art = get('data/backfill-november-20261121.json', True)['entries']
+    calls = [e for e in get('data/competitions.json', True)['entries'] if e.get('collectionDate') == '2026-11-21']
+    shows = get('data/exhibitions-galleriesnow-20261121.json', True)['entries']
+    assert len(art) == 20 and len(calls) == 5 and len(shows) == 5
+    assert [sum(e.get('researchGroup') == k for e in art) for k in ['current','globalClassic','germanClassic']] == [10,5,5]
+    records = art + calls + shows
+    assert len({e['dedupeKey'] for e in records}) == 30
+    assert all(e.get('cityKeywords') and e.get('imageSourceUrl') and e.get('imageCredit') for e in records)
+    nelligan = next(e for e in shows if 'Nelligan' in e['name'])
+    assert nelligan['endDate'] == '2027-01-23' and nelligan.get('dateConflict')
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True,args=['--no-sandbox'])
+        page = browser.new_page(viewport={'width':1360,'height':950})
+        page.goto(BASE+'?verify=20261121-daily-photos-r151',wait_until='domcontentloaded',timeout=70000)
+        page.wait_for_function("()=>/顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
+        for item in records:
+            card = page.locator('[data-id="'+item['id']+'"]')
+            assert card.count() == 1, item['id']+' missing or duplicated'
+            card.scroll_into_view_if_needed()
+            card.locator('.card-media img').evaluate("i=>i.loading='eager'")
+            page.wait_for_function("id=>{const i=document.querySelector('[data-id=\"'+id+'\"] .card-media img');return i&&i.complete&&i.naturalWidth>=120}",arg=item['id'],timeout=45000)
+            assert card.locator('.card-image-credit').inner_text().strip()
+            card.click()
+            page.wait_for_function("()=>{const i=document.querySelector('#panel > figure img');return i&&i.complete&&i.naturalWidth>=120}",timeout=45000)
+            assert '查看原頁圖像與完整署名' in page.locator('#panel').inner_text()
+            if item.get('dateConflict'):
+                assert item['dateConflict'] in page.locator('#panel').inner_text()
+            page.locator('#sheetClose').click()
+            print('NOV21_IMAGE_OK '+item['id'],flush=True)
+        page.set_viewport_size({'width':390,'height':844})
+        for item in [art[0],art[14],calls[3],shows[1]]:
+            page.locator('#q').fill(item['classicTitle'])
+            card = page.locator('#grid [data-id="'+item['id']+'"]')
+            card.wait_for(state='visible',timeout=15000)
+            card.scroll_into_view_if_needed()
+            assert card.locator('.card-media img').evaluate('i=>i.complete&&i.naturalWidth>=120')
+            assert page.evaluate('document.documentElement.scrollWidth<=innerWidth+1')
+        REPORT['browser']['november21']={'publicArt':20,'distribution':[10,5,5],'competitions':5,'exhibitions':5,'cardAndDetailImages':30,'credits':'passed','mobile390':'passed','officialExhibitionDateConflict':'preserved','mapNewVerifiedVenues':5}
+        browser.close()
+
 def check_giraffe_case():
     from playwright.sync_api import sync_playwright
     import base64
@@ -393,6 +435,7 @@ def main():
         check_research_filters()
         check_repaired_artwork_photos()
         check_giraffe_case()
+        check_november_21_update()
     except Exception as e:
         FAILURES.append("Live endpoint: "+str(e))
     REPORT["failures"]=FAILURES

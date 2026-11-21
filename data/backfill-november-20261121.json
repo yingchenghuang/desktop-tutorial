@@ -1,0 +1,1141 @@
+{
+  "meta": {
+    "date": "2026-11-21",
+    "generatedAt": "2026-11-21T12:30:53+08:00",
+    "total": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    },
+    "note": "今日新增入庫20件，原作年份與歷史結束狀態獨立保留。10持續設置案例包含設施參訪限制；日本兩件冬季開放資訊差異明示。20件皆採真實對應作品照片。"
+  },
+  "entries": [
+    {
+      "name": "01｜Thomas Eller｜The human re-entering nature",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "東亞",
+      "country": "日本 / Tokamachi",
+      "cityKeywords": [
+        "Tokamachi",
+        "十日町市"
+      ],
+      "media": [
+        "光/影像/投影",
+        "地景/大地藝術"
+      ],
+      "works": "The human re-entering nature｜2000",
+      "comment": "將藝術家臉、手與腳的寫實照片置於四公尺高的板材結構上，側看則轉成線與支柱；植物隨時間攀附，讓人的圖像逐步回到自然生長之中。屬當代攝影與結構介入，無人物紀念碑功能。",
+      "website": "https://www.echigo-tsumari.jp/en/art/artwork/the_human_re-entering_nature-2/",
+      "workPage": "https://www.echigo-tsumari.jp/en/art/artwork/the_human_re-entering_nature-2/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-01.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-01.jpg",
+      "classicTitle": "The human re-entering nature｜2000",
+      "classicDesc": "將藝術家臉、手與腳的寫實照片置於四公尺高的板材結構上，側看則轉成線與支柱；植物隨時間攀附，讓人的圖像逐步回到自然生長之中。屬當代攝影與結構介入，無人物紀念碑功能。 十日町市犬伏，戶外作品仍列官方典藏；官方同頁同時寫全年及冬季休止，冬季可達性待向主辦確認，不能保證今日可參觀。",
+      "artistStatement": "將藝術家臉、手與腳的寫實照片置於四公尺高的板材結構上，側看則轉成線與支柱；植物隨時間攀附，讓人的圖像逐步回到自然生長之中。屬當代攝影與結構介入，無人物紀念碑功能。",
+      "artistStatementSource": "https://www.echigo-tsumari.jp/en/art/artwork/the_human_re-entering_nature-2/",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "攝影輸出、板材、立柱與攀藤植物",
+      "originalDate": "2000",
+      "accessNote": "十日町市犬伏，戶外作品仍列官方典藏；官方同頁同時寫全年及冬季休止，冬季可達性待向主辦確認，不能保證今日可參觀。",
+      "imageSourceUrl": "https://www.echigo-tsumari.jp/en/art/artwork/the_human_re-entering_nature-2/",
+      "imageOriginalUrl": "https://www.echigo-tsumari.jp/assets/uploads/2020/03/D047-thomas-1440-ON.jpg",
+      "imageCredit": "攝影 NAKAMURA Osamu；越後妻有大地藝術祭執行委員會",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "十日町市犬伏，戶外作品仍列官方典藏；官方同頁同時寫全年及冬季休止，冬季可達性待向主辦確認，不能保證今日可參觀。",
+      "siteTypes": [
+        "other"
+      ],
+      "id": "public-art-2026-11-21-01",
+      "dedupeKey": "art:daily-20261121:the_human_re-entering_nature-2",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-01.jpg",
+      "imageFallbacks": [
+        "https://www.echigo-tsumari.jp/assets/uploads/2020/03/D047-thomas-1440-ON.jpg"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "02｜Olu Oguibe｜The Longest River",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "東亞",
+      "country": "日本 / Tokamachi",
+      "cityKeywords": [
+        "Tokamachi",
+        "十日町市"
+      ],
+      "media": [
+        "社會參與",
+        "裝置"
+      ],
+      "works": "The Longest River｜2000",
+      "comment": "向新潟、長野信濃川流域高中生公開徵集河流記憶的詩，再由詩人大岡信選出文字，刻在河邊18根電線桿上；基礎設施因此成為跨世代、沿河閱讀的公共記憶載體。",
+      "website": "https://www.echigo-tsumari.jp/en/art/artwork/the_longest_river/",
+      "workPage": "https://www.echigo-tsumari.jp/en/art/artwork/the_longest_river/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-02.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-02.jpg",
+      "classicTitle": "The Longest River｜2000",
+      "classicDesc": "向新潟、長野信濃川流域高中生公開徵集河流記憶的詩，再由詩人大岡信選出文字，刻在河邊18根電線桿上；基礎設施因此成為跨世代、沿河閱讀的公共記憶載體。 十日町市宮中、Mion Nakasato一帶；官方頁另列冬季休止，積雪與通行現況須查當期行事曆。",
+      "artistStatement": "向新潟、長野信濃川流域高中生公開徵集河流記憶的詩，再由詩人大岡信選出文字，刻在河邊18根電線桿上；基礎設施因此成為跨世代、沿河閱讀的公共記憶載體。",
+      "artistStatementSource": "https://www.echigo-tsumari.jp/en/art/artwork/the_longest_river/",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "18根電線桿與文字",
+      "originalDate": "2000",
+      "accessNote": "十日町市宮中、Mion Nakasato一帶；官方頁另列冬季休止，積雪與通行現況須查當期行事曆。",
+      "imageSourceUrl": "https://www.echigo-tsumari.jp/en/art/artwork/the_longest_river/",
+      "imageOriginalUrl": "https://www.echigo-tsumari.jp/assets/uploads/2020/02/N006_オルオギュイベ_Ishizuka_2160.jpg",
+      "imageCredit": "攝影 ISHIZUKA Gentaro；越後妻有大地藝術祭執行委員會",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "十日町市宮中、Mion Nakasato一帶；官方頁另列冬季休止，積雪與通行現況須查當期行事曆。",
+      "siteTypes": [
+        "park"
+      ],
+      "id": "public-art-2026-11-21-02",
+      "dedupeKey": "art:daily-20261121:the_longest_river",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-02.jpg",
+      "imageFallbacks": [
+        "https://www.echigo-tsumari.jp/assets/uploads/2020/02/N006_オルオギュイベ_Ishizuka_2160.jpg"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "03｜Richard Wilson｜Set North for Japan (74°33’2”)",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "東亞",
+      "country": "日本 / Tokamachi",
+      "cityKeywords": [
+        "Tokamachi",
+        "十日町市"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Set North for Japan (74°33’2”)｜2000",
+      "comment": "將倫敦自宅的骨架以一比一尺度移至妻有，保持相對地球的原有角度，因此模型幾乎倒立。作品以住宅的熟悉尺度顯露兩地的地理距離，並與附近鳥居形成空間對照。",
+      "website": "https://www.echigo-tsumari.jp/en/art/artwork/set_north_for_japan_74332/",
+      "workPage": "https://www.echigo-tsumari.jp/en/art/artwork/set_north_for_japan_74332/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-03.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-03.jpg",
+      "classicTitle": "Set North for Japan (74°33’2”)｜2000",
+      "classicDesc": "將倫敦自宅的骨架以一比一尺度移至妻有，保持相對地球的原有角度，因此模型幾乎倒立。作品以住宅的熟悉尺度顯露兩地的地理距離，並與附近鳥居形成空間對照。 十日町市桔梗原キ1301、中里中學附近；官方列全年白天可觀看，戶外可於例行休館日觀賞，冬季仍須確認積雪與現場通行。",
+      "artistStatement": "將倫敦自宅的骨架以一比一尺度移至妻有，保持相對地球的原有角度，因此模型幾乎倒立。作品以住宅的熟悉尺度顯露兩地的地理距離，並與附近鳥居形成空間對照。",
+      "artistStatementSource": "https://www.echigo-tsumari.jp/en/art/artwork/set_north_for_japan_74332/",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "房屋骨架的等尺度模型",
+      "originalDate": "2000",
+      "accessNote": "十日町市桔梗原キ1301、中里中學附近；官方列全年白天可觀看，戶外可於例行休館日觀賞，冬季仍須確認積雪與現場通行。",
+      "imageSourceUrl": "https://www.echigo-tsumari.jp/en/art/artwork/set_north_for_japan_74332/",
+      "imageOriginalUrl": "https://www.echigo-tsumari.jp/assets/uploads/2020/02/N010_ウィルソン_Anzai_2160.jpg",
+      "imageCredit": "攝影 ANZAÏ；越後妻有大地藝術祭執行委員會",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "十日町市桔梗原キ1301、中里中學附近；官方列全年白天可觀看，戶外可於例行休館日觀賞，冬季仍須確認積雪與現場通行。",
+      "siteTypes": [
+        "other"
+      ],
+      "id": "public-art-2026-11-21-03",
+      "dedupeKey": "art:daily-20261121:set_north_for_japan_74332",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-03.jpg",
+      "imageFallbacks": [
+        "https://www.echigo-tsumari.jp/assets/uploads/2020/02/N010_ウィルソン_Anzai_2160.jpg"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "04｜Tomas Hoke｜Der Wagen",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Baden",
+      "cityKeywords": [
+        "Baden",
+        "巴登"
+      ],
+      "media": [
+        "雕塑"
+      ],
+      "works": "Der Wagen｜1995",
+      "comment": "以犁為形式起點的金屬構造置於公園草地，將農業工具移出耕作環境，讓人重新思考被整理、被觀看的自然與人工地景。",
+      "website": "https://koernoe.at/en/project/55/der-wagen",
+      "workPage": "https://koernoe.at/en/project/55/der-wagen",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-04.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-04.jpg",
+      "classicTitle": "Der Wagen｜1995",
+      "classicDesc": "以犁為形式起點的金屬構造置於公園草地，將農業工具移出耕作環境，讓人重新思考被整理、被觀看的自然與人工地景。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Gutenbrunner Park，Rollettgasse。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "以犁為形式起點的金屬構造置於公園草地，將農業工具移出耕作環境，讓人重新思考被整理、被觀看的自然與人工地景。",
+      "artistStatementSource": "https://koernoe.at/en/project/55/der-wagen",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "鍍鉻鋼",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Gutenbrunner Park，Rollettgasse。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/55/der-wagen",
+      "imageOriginalUrl": "https://koernoe.at/img/47c257de-8cd5-4a2b-a42d-18d31f57ff73/55.01.pr,hoke-tomas.jpg?q=80&fit=max&crop=640%2C527%2C0%2C0&s=8a272886be548063d06be259307eeb6e",
+      "imageCredit": "© Matthäus Prandstätter",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Gutenbrunner Park，Rollettgasse",
+      "siteTypes": [
+        "park"
+      ],
+      "id": "public-art-2026-11-21-04",
+      "dedupeKey": "art:daily-20261121:der-wagen",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-04.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/47c257de-8cd5-4a2b-a42d-18d31f57ff73/55.01.pr,hoke-tomas.jpg?q=80&fit=max&crop=640%2C527%2C0%2C0&s=8a272886be548063d06be259307eeb6e"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "05｜Eva Wohlgemuth｜Movement real and imaginary",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Baden",
+      "cityKeywords": [
+        "Baden",
+        "巴登"
+      ],
+      "media": [
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "Movement real and imaginary｜1995",
+      "comment": "11張一比一的田野地表照片附有拍攝座標，地面石板則刻下觀者所在位置，讓校園中的站立位置和遠處地景同時可被感知。",
+      "website": "https://koernoe.at/en/project/142/kaiser-franz-joseph-school-in-baden",
+      "workPage": "https://koernoe.at/en/project/142/kaiser-franz-joseph-school-in-baden",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-05.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-05.jpg",
+      "classicTitle": "Movement real and imaginary｜1995",
+      "classicDesc": "11張一比一的田野地表照片附有拍攝座標，地面石板則刻下觀者所在位置，讓校園中的站立位置和遠處地景同時可被感知。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Kaiser Franz Joseph學校入口與大廳。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "11張一比一的田野地表照片附有拍攝座標，地面石板則刻下觀者所在位置，讓校園中的站立位置和遠處地景同時可被感知。",
+      "artistStatementSource": "https://koernoe.at/en/project/142/kaiser-franz-joseph-school-in-baden",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "攝影、天然石材與紅色大理石",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Kaiser Franz Joseph學校入口與大廳。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/142/kaiser-franz-joseph-school-in-baden",
+      "imageOriginalUrl": "https://koernoe.at/img/fe6dabc4-dfb0-445e-9498-ab0eca4cbdc0/142.01.pr,wohlgemuth-eva.jpg?q=80&fit=max&crop=640%2C467%2C0%2C0&s=bd465c8fcb8e6527eb7ac60685701537",
+      "imageCredit": "© Bildrecht, Wien 1995, Foto: Christian Wachter",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Kaiser Franz Joseph學校入口與大廳",
+      "siteTypes": [
+        "school"
+      ],
+      "id": "public-art-2026-11-21-05",
+      "dedupeKey": "art:daily-20261121:kaiser-franz-joseph-school-in-baden",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-05.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/fe6dabc4-dfb0-445e-9498-ab0eca4cbdc0/142.01.pr,wohlgemuth-eva.jpg?q=80&fit=max&crop=640%2C467%2C0%2C0&s=bd465c8fcb8e6527eb7ac60685701537"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "06｜Herwig Turk｜Spurenelement",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Mödling",
+      "cityKeywords": [
+        "Mödling",
+        "默德靈"
+      ],
+      "media": [
+        "數位/互動",
+        "光/影像/投影"
+      ],
+      "works": "Spurenelement｜1995",
+      "comment": "感測器把校舍內的行走路徑轉成發光幾何符號。上課與下課的人流強度構成作品節奏，使用者也能協同行動，主動組成顯示圖像。",
+      "website": "https://koernoe.at/en/project/140/modling-primary-school",
+      "workPage": "https://koernoe.at/en/project/140/modling-primary-school",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-06.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-06.jpg",
+      "classicTitle": "Spurenelement｜1995",
+      "classicDesc": "感測器把校舍內的行走路徑轉成發光幾何符號。上課與下課的人流強度構成作品節奏，使用者也能協同行動，主動組成顯示圖像。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Mödling小學室內。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "感測器把校舍內的行走路徑轉成發光幾何符號。上課與下課的人流強度構成作品節奏，使用者也能協同行動，主動組成顯示圖像。",
+      "artistStatementSource": "https://koernoe.at/en/project/140/modling-primary-school",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "動作感測器與數位發光顯示板",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Mödling小學室內。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/140/modling-primary-school",
+      "imageOriginalUrl": "https://koernoe.at/img/217bf31f-2a3c-45af-abe1-2d7e0603a264/140.01.pr,turk-herwig.jpg?q=80&fit=max&crop=640%2C474%2C0%2C0&s=dfa1babaf81d3e407d5569bdeee9a7c2",
+      "imageCredit": "圖像出處 KOERNOE；此頁未列攝影者，不推測署名",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Mödling小學室內",
+      "siteTypes": [
+        "school"
+      ],
+      "id": "public-art-2026-11-21-06",
+      "dedupeKey": "art:daily-20261121:modling-primary-school",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-06.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/217bf31f-2a3c-45af-abe1-2d7e0603a264/140.01.pr,turk-herwig.jpg?q=80&fit=max&crop=640%2C474%2C0%2C0&s=dfa1babaf81d3e407d5569bdeee9a7c2"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "07｜Sabina Hörtner｜Primary School Frauenhofen",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Frauenhofen",
+      "cityKeywords": [
+        "Frauenhofen",
+        "弗勞恩霍芬"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "Primary School Frauenhofen｜1995",
+      "comment": "以藍、綠、紅的幾何線條改變兩面垂直立面的交會，製造新的轉角與尺度關係；顏色取自常見麥克筆，讓日常工具的色彩進入遠距離的建築觀看。",
+      "website": "https://koernoe.at/en/project/104/primary-school-frauenhofen",
+      "workPage": "https://koernoe.at/en/project/104/primary-school-frauenhofen",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-07.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-07.jpg",
+      "classicTitle": "Primary School Frauenhofen｜1995",
+      "classicDesc": "以藍、綠、紅的幾何線條改變兩面垂直立面的交會，製造新的轉角與尺度關係；顏色取自常見麥克筆，讓日常工具的色彩進入遠距離的建築觀看。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Frauenhofen 71，3580 Frauenhofen。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "以藍、綠、紅的幾何線條改變兩面垂直立面的交會，製造新的轉角與尺度關係；顏色取自常見麥克筆，讓日常工具的色彩進入遠距離的建築觀看。",
+      "artistStatementSource": "https://koernoe.at/en/project/104/primary-school-frauenhofen",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "彩色幾何線條與建築立面",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Frauenhofen 71，3580 Frauenhofen。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/104/primary-school-frauenhofen",
+      "imageOriginalUrl": "https://koernoe.at/img/eba9706e-37c0-4c6f-98a6-b8c766099d6f/104.01.pr,hrtner-sabina.jpg?q=80&fit=max&crop=640%2C476%2C0%2C0&s=df124015fc4b52835d3186e16fadf176",
+      "imageCredit": "圖像出處 KOERNOE；此頁未列攝影者，不推測署名",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Frauenhofen 71，3580 Frauenhofen",
+      "siteTypes": [
+        "school"
+      ],
+      "id": "public-art-2026-11-21-07",
+      "dedupeKey": "art:daily-20261121:primary-school-frauenhofen",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-07.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/eba9706e-37c0-4c6f-98a6-b8c766099d6f/104.01.pr,hrtner-sabina.jpg?q=80&fit=max&crop=640%2C476%2C0%2C0&s=df124015fc4b52835d3186e16fadf176"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "08｜Renate Kordon｜Windwaage",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Gerasdorf bei Wien",
+      "cityKeywords": [
+        "Gerasdorf bei Wien",
+        "維也納附近格拉斯多夫"
+      ],
+      "media": [
+        "雕塑",
+        "數位/互動"
+      ],
+      "works": "Windwaage｜1995",
+      "comment": "將校園屋頂取得的風力與太陽能轉成兩個立方體的升降與重疊。纖細塔架以動態與色彩，將抽象能源轉成可被觀看的平衡關係。",
+      "website": "https://koernoe.at/en/project/111/secondary-school-gerasdorf",
+      "workPage": "https://koernoe.at/en/project/111/secondary-school-gerasdorf",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-08.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-08.jpg",
+      "classicTitle": "Windwaage｜1995",
+      "classicDesc": "將校園屋頂取得的風力與太陽能轉成兩個立方體的升降與重疊。纖細塔架以動態與色彩，將抽象能源轉成可被觀看的平衡關係。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Bahnstraße 26，2201 Gerasdorf bei Wien。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "將校園屋頂取得的風力與太陽能轉成兩個立方體的升降與重疊。纖細塔架以動態與色彩，將抽象能源轉成可被觀看的平衡關係。",
+      "artistStatementSource": "https://koernoe.at/en/project/111/secondary-school-gerasdorf",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "不鏽鋼框架、金屬立方體與動力系統",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Bahnstraße 26，2201 Gerasdorf bei Wien。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/111/secondary-school-gerasdorf",
+      "imageOriginalUrl": "https://koernoe.at/img/d6fa1615-7f10-40b7-9478-0d5e299b320b/111.01.pr,kordon-renate.jpg?q=80&fit=max&crop=491%2C640%2C0%2C0&s=b56b1271d796fb46c8b320e953e94747",
+      "imageCredit": "© Matthäus Prandstätter",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Bahnstraße 26，2201 Gerasdorf bei Wien",
+      "siteTypes": [
+        "school"
+      ],
+      "dateConflict": "官方圖說使用Sonnenuhr，正文使用Windwaage；保留同案名稱差異，依正文標題收錄。",
+      "id": "public-art-2026-11-21-08",
+      "dedupeKey": "art:daily-20261121:secondary-school-gerasdorf",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-08.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/d6fa1615-7f10-40b7-9478-0d5e299b320b/111.01.pr,kordon-renate.jpg?q=80&fit=max&crop=491%2C640%2C0%2C0&s=b56b1271d796fb46c8b320e953e94747"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "09｜Eva Schlegel｜Fire Station in Probstdorf",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Probstdorf",
+      "cityKeywords": [
+        "Probstdorf",
+        "普羅布斯特多夫"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "Fire Station in Probstdorf｜1995",
+      "comment": "將消防隊與文化論壇的機構文字重複、模糊並擴展至整體立面；資訊的可讀性逐漸轉成視覺節奏，讓舊公所的日常用途與城市形象一起被重塑。",
+      "website": "https://koernoe.at/en/project/70/fire-station-in-probstdorf",
+      "workPage": "https://koernoe.at/en/project/70/fire-station-in-probstdorf",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-09.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-09.jpg",
+      "classicTitle": "Fire Station in Probstdorf｜1995",
+      "classicDesc": "將消防隊與文化論壇的機構文字重複、模糊並擴展至整體立面；資訊的可讀性逐漸轉成視覺節奏，讓舊公所的日常用途與城市形象一起被重塑。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Probstdorf消防隊與文化論壇。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "將消防隊與文化論壇的機構文字重複、模糊並擴展至整體立面；資訊的可讀性逐漸轉成視覺節奏，讓舊公所的日常用途與城市形象一起被重塑。",
+      "artistStatementSource": "https://koernoe.at/en/project/70/fire-station-in-probstdorf",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "白色立面與紅色Helvetica字樣",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Probstdorf消防隊與文化論壇。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/70/fire-station-in-probstdorf",
+      "imageOriginalUrl": "https://koernoe.at/img/833c543a-a4a6-4a0d-81d7-089396f7792c/7001prschlegel-eva-noees1005-2-schlegel-probstdorf-wachter-2005-kopie.jpg?q=80&fit=max&crop=4571%2C3147%2C0%2C0&s=60afbb6fc58aa478d32851cb0677bc92",
+      "imageCredit": "© Bildrecht, Wien 2005, Foto: Christian Wachter",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Probstdorf消防隊與文化論壇",
+      "siteTypes": [
+        "government"
+      ],
+      "id": "public-art-2026-11-21-09",
+      "dedupeKey": "art:daily-20261121:fire-station-in-probstdorf",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-09.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/833c543a-a4a6-4a0d-81d7-089396f7792c/7001prschlegel-eva-noees1005-2-schlegel-probstdorf-wachter-2005-kopie.jpg?q=80&fit=max&crop=4571%2C3147%2C0%2C0&s=60afbb6fc58aa478d32851cb0677bc92"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "10｜Ruppert Klima｜Old People’s Home in Hollabrunn",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "奧地利 / Hollabrunn",
+      "cityKeywords": [
+        "Hollabrunn",
+        "霍拉布倫"
+      ],
+      "media": [
+        "聲音/霧/水",
+        "地景/大地藝術"
+      ],
+      "works": "Old People’s Home in Hollabrunn｜1995",
+      "comment": "在坡地花園以水池、階石和石橋串連三層平台，保留居民種花與休憩的空間。水聲與可選擇的行走路線，使雕塑退入養護生活的日常環境。",
+      "website": "https://koernoe.at/en/project/114/old-peoples-home-in-hollabrunn",
+      "workPage": "https://koernoe.at/en/project/114/old-peoples-home-in-hollabrunn",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-10.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-10.jpg",
+      "classicTitle": "Old People’s Home in Hollabrunn｜1995",
+      "classicDesc": "在坡地花園以水池、階石和石橋串連三層平台，保留居民種花與休憩的空間。水聲與可選擇的行走路線，使雕塑退入養護生活的日常環境。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Hollabrunn老人之家花園。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "在坡地花園以水池、階石和石橋串連三層平台，保留居民種花與休憩的空間。水聲與可選擇的行走路線，使雕塑退入養護生活的日常環境。",
+      "artistStatementSource": "https://koernoe.at/en/project/114/old-peoples-home-in-hollabrunn",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "current",
+      "material": "花崗岩、源石、水道與水池",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Hollabrunn老人之家花園。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/114/old-peoples-home-in-hollabrunn",
+      "imageOriginalUrl": "https://koernoe.at/img/e3df8e6c-7d98-424e-a280-2746e60a7088/114.01.pr,klima-ruppert.jpg?q=80&fit=max&crop=522%2C640%2C0%2C0&s=3fabbba0555830be1b3f27312917f700",
+      "imageCredit": "圖像出處 KOERNOE；此頁未列攝影者，不推測署名",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Hollabrunn老人之家花園",
+      "siteTypes": [
+        "health"
+      ],
+      "id": "public-art-2026-11-21-10",
+      "dedupeKey": "art:daily-20261121:old-peoples-home-in-hollabrunn",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-10.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/e3df8e6c-7d98-424e-a280-2746e60a7088/114.01.pr,klima-ruppert.jpg?q=80&fit=max&crop=522%2C640%2C0%2C0&s=3fabbba0555830be1b3f27312917f700"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "11｜Milan Mrkusich｜Mosaic Mural for CSR Building",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "大洋洲",
+      "country": "紐西蘭 / Auckland",
+      "cityKeywords": [
+        "Auckland",
+        "奧克蘭"
+      ],
+      "media": [
+        "壁畫/街頭",
+        "建築/場域"
+      ],
+      "works": "Mosaic Mural for CSR Building｜1960",
+      "comment": "以彩色玻璃磚沿大廳曲面構成大尺度抽象壁畫。作品曾被隔牆遮蔽，2016年建築改造時重現，現位於Chelsea House門廳並可從人行道觀看。",
+      "website": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+      "workPage": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-11.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-11.jpg",
+      "classicTitle": "Mosaic Mural for CSR Building｜1960",
+      "classicDesc": "以彩色玻璃磚沿大廳曲面構成大尺度抽象壁畫。作品曾被隔牆遮蔽，2016年建築改造時重現，現位於Chelsea House門廳並可從人行道觀看。 官方典藏頁列可接近；Ground floor foyer of Chelsea House, 85 Fort Street, CBD, Tāmaki Makaurau Auckland 。",
+      "artistStatement": "以彩色玻璃磚沿大廳曲面構成大尺度抽象壁畫。作品曾被隔牆遮蔽，2016年建築改造時重現，現位於Chelsea House門廳並可從人行道觀看。",
+      "artistStatementSource": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "globalClassic",
+      "material": "玻璃馬賽克",
+      "originalDate": "1960",
+      "accessNote": "官方典藏頁列可接近；Ground floor foyer of Chelsea House, 85 Fort Street, CBD, Tāmaki Makaurau Auckland 。",
+      "imageSourceUrl": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/093a72d3e38d50cc00e931e4131895faae559cd0-2048x2048.jpg",
+      "imageCredit": "Milan Mrkusich, ‘Mosaic Mural for CSR Building Fort St Auckland’ (1960), CBD, Tāmaki Makaurau Auckland Image: Bronwyn Holloway-Smith, Public Art Heritage Aotearoa New Zealand, 2021",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Ground floor foyer of Chelsea House, 85 Fort Street, CBD, Tāmaki Makaurau Auckland ",
+      "coordinates": {
+        "latitude": -36.8459915,
+        "longitude": 174.770115,
+        "sourceUrl": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量"
+      },
+      "siteTypes": [
+        "workplace"
+      ],
+      "id": "public-art-2026-11-21-11",
+      "dedupeKey": "art:daily-20261121:milan-mrkusich-1960-02",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-11.jpg",
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/093a72d3e38d50cc00e931e4131895faae559cd0-2048x2048.jpg"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。",
+      "deliveryModes": [
+        "commission"
+      ]
+    },
+    {
+      "name": "12｜Jim Allen｜Untitled [Futuna Chapel light modulators]",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "大洋洲",
+      "country": "紐西蘭 / Wellington",
+      "cityKeywords": [
+        "Wellington",
+        "威靈頓"
+      ],
+      "media": [
+        "建築/場域",
+        "光/影像/投影"
+      ],
+      "works": "Untitled [Futuna Chapel light modulators]｜1961",
+      "comment": "為Futuna Chapel入口上方過強的午後日光設計立體調光構造，將建築外殼、光線和材質整合為抽象空間裝置。此筆僅收調光構件，不把同教堂的宗教人物雕像併入。",
+      "website": "https://publicart.nz/artworks/jim-allen-1961-04",
+      "workPage": "https://publicart.nz/artworks/jim-allen-1961-04",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-12.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-12.jpg",
+      "classicTitle": "Untitled [Futuna Chapel light modulators]｜1961",
+      "classicDesc": "為Futuna Chapel入口上方過強的午後日光設計立體調光構造，將建築外殼、光線和材質整合為抽象空間裝置。此筆僅收調光構件，不把同教堂的宗教人物雕像併入。 官方典藏頁列可接近；Futuna Chapel, Futuna Close, Karori, Te Whanganui-a-Tara Wellington。官方頁列每月第一個週日開放；其餘時段需查詢Futuna Chapel Trust。",
+      "artistStatement": "為Futuna Chapel入口上方過強的午後日光設計立體調光構造，將建築外殼、光線和材質整合為抽象空間裝置。此筆僅收調光構件，不把同教堂的宗教人物雕像併入。",
+      "artistStatementSource": "https://publicart.nz/artworks/jim-allen-1961-04",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "globalClassic",
+      "material": "rimu木、玻璃與淺黃色壓克力",
+      "originalDate": "1961",
+      "accessNote": "官方典藏頁列可接近；Futuna Chapel, Futuna Close, Karori, Te Whanganui-a-Tara Wellington。官方頁列每月第一個週日開放；其餘時段需查詢Futuna Chapel Trust。",
+      "imageSourceUrl": "https://publicart.nz/artworks/jim-allen-1961-04",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/92861ccb13fbbbe8e4e15e49b591743a47a836af-1280x1920.jpg",
+      "imageCredit": "Jim Allen, Untitled [Futuna Chapel light modulators] (1961), Karori, Te Whanganui-a-Tara Wellington Image: Paul McCredie, courtesy Futuna Chapel Trust",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Futuna Chapel, Futuna Close, Karori, Te Whanganui-a-Tara Wellington",
+      "coordinates": {
+        "latitude": -41.28177064688133,
+        "longitude": 174.73864673233942,
+        "sourceUrl": "https://publicart.nz/artworks/jim-allen-1961-04",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量"
+      },
+      "siteTypes": [
+        "other"
+      ],
+      "id": "public-art-2026-11-21-12",
+      "dedupeKey": "art:daily-20261121:jim-allen-1961-04",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-12.jpg",
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/92861ccb13fbbbe8e4e15e49b591743a47a836af-1280x1920.jpg"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。",
+      "deliveryModes": [
+        "commission"
+      ]
+    },
+    {
+      "name": "13｜Guy Ngan｜Teal Park Rocks",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "大洋洲",
+      "country": "紐西蘭 / Auckland",
+      "cityKeywords": [
+        "Auckland",
+        "奧克蘭"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "雕塑"
+      ],
+      "works": "Teal Park Rocks｜1971",
+      "comment": "把舊奧克蘭船塢與海堤回收的玄武岩重新組成石雕花園，讓港口基礎設施以抽象堆疊保存物質記憶。原本較高的構造因安全考量縮減，1971年5月公園開放。",
+      "website": "https://publicart.nz/artworks/guy-ngan-1971-04",
+      "workPage": "https://publicart.nz/artworks/guy-ngan-1971-04",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-13.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-13.jpg",
+      "classicTitle": "Teal Park Rocks｜1971",
+      "classicDesc": "把舊奧克蘭船塢與海堤回收的玄武岩重新組成石雕花園，讓港口基礎設施以抽象堆疊保存物質記憶。原本較高的構造因安全考量縮減，1971年5月公園開放。 官方典藏頁列可接近；Teal Park, Tamaki Drive, Mechanics Bay/Judges Bay, Tāmaki Makaurau Auckland。",
+      "artistStatement": "把舊奧克蘭船塢與海堤回收的玄武岩重新組成石雕花園，讓港口基礎設施以抽象堆疊保存物質記憶。原本較高的構造因安全考量縮減，1971年5月公園開放。",
+      "artistStatementSource": "https://publicart.nz/artworks/guy-ngan-1971-04",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "globalClassic",
+      "material": "回收玄武岩塊",
+      "originalDate": "1971",
+      "accessNote": "官方典藏頁列可接近；Teal Park, Tamaki Drive, Mechanics Bay/Judges Bay, Tāmaki Makaurau Auckland。",
+      "imageSourceUrl": "https://publicart.nz/artworks/guy-ngan-1971-04",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/13a353f08400dbba85a709a4f3d82befa62e5c08-999x999.jpg",
+      "imageCredit": "Guy Ngan, 'Teal Park Rocks' (1971), Mechanics/Judges Bay, Tāmaki Makaurau Auckland. Source:   Bronwyn Holloway-Smith, 2019.",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Teal Park, Tamaki Drive, Mechanics Bay/Judges Bay, Tāmaki Makaurau Auckland",
+      "coordinates": {
+        "latitude": -36.84752749999999,
+        "longitude": 174.7883113,
+        "sourceUrl": "https://publicart.nz/artworks/guy-ngan-1971-04",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量"
+      },
+      "siteTypes": [
+        "park"
+      ],
+      "id": "public-art-2026-11-21-13",
+      "dedupeKey": "art:daily-20261121:guy-ngan-1971-04",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-13.jpg",
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/13a353f08400dbba85a709a4f3d82befa62e5c08-999x999.jpg"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。",
+      "deliveryModes": [
+        "commission"
+      ]
+    },
+    {
+      "name": "14｜Guy Ngan｜Geometric Progression",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "大洋洲",
+      "country": "紐西蘭 / Wellington",
+      "cityKeywords": [
+        "Wellington",
+        "威靈頓"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Geometric Progression｜1974",
+      "comment": "向上伸展的幾何塊體回應城市道路、住宅與自然地形。1974年原作於1989年移除時嚴重損壞，2006年在藝術家參與下重製並移至Wakefield Street，不把重製年份冒充原作年。",
+      "website": "https://publicart.nz/artworks/guy-ngan-1974",
+      "workPage": "https://publicart.nz/artworks/guy-ngan-1974",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-14.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-14.jpg",
+      "classicTitle": "Geometric Progression｜1974",
+      "classicDesc": "向上伸展的幾何塊體回應城市道路、住宅與自然地形。1974年原作於1989年移除時嚴重損壞，2006年在藝術家參與下重製並移至Wakefield Street，不把重製年份冒充原作年。 官方典藏頁列可接近；Michael Fowler Centre car park on Wakefield St, CBD, Te Whanganui-a-Tara Wellington。",
+      "artistStatement": "向上伸展的幾何塊體回應城市道路、住宅與自然地形。1974年原作於1989年移除時嚴重損壞，2006年在藝術家參與下重製並移至Wakefield Street，不把重製年份冒充原作年。",
+      "artistStatementSource": "https://publicart.nz/artworks/guy-ngan-1974",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "globalClassic",
+      "material": "幾何構件；2006重製使用8毫米鋼板基座",
+      "originalDate": "1974",
+      "accessNote": "官方典藏頁列可接近；Michael Fowler Centre car park on Wakefield St, CBD, Te Whanganui-a-Tara Wellington。",
+      "imageSourceUrl": "https://publicart.nz/artworks/guy-ngan-1974",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/89f47e7a098e4db630662cb96bf7c71e7ad32e08-999x999.jpg",
+      "imageCredit": "Guy Ngan, 'Geometric Progression' (1974), CBD, Te Whanganui-a-Tara Wellington Source: Bronwyn Holloway-Smith, 2020.",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Michael Fowler Centre car park on Wakefield St, CBD, Te Whanganui-a-Tara Wellington",
+      "coordinates": {
+        "latitude": -41.29024907686678,
+        "longitude": 174.77827527427445,
+        "sourceUrl": "https://publicart.nz/artworks/guy-ngan-1974",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量"
+      },
+      "siteTypes": [
+        "plaza"
+      ],
+      "id": "public-art-2026-11-21-14",
+      "dedupeKey": "art:daily-20261121:guy-ngan-1974",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-14.jpg",
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/89f47e7a098e4db630662cb96bf7c71e7ad32e08-999x999.jpg"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。",
+      "deliveryModes": [
+        "invited"
+      ]
+    },
+    {
+      "name": "15｜Joan Calvert／Guy Ngan｜Forest in the Sun",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "大洋洲",
+      "country": "紐西蘭 / Wellington",
+      "cityKeywords": [
+        "Wellington",
+        "威靈頓"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域",
+        "纖維／織品"
+      ],
+      "works": "Forest in the Sun｜1976",
+      "comment": "由十五名受邀織者的提案中選出設計。六片各2.4公尺見方的織品沿蜂巢大樓曲面排列，以鏤空和光色呈現穿過林冠的陽光。由Joan Calvert與Guy Ngan合作，Dorothea Turner、Jean Ngan參與編結；1977年掛設，2003移除，2023重返原址。",
+      "website": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+      "workPage": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-15.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-15.jpg",
+      "classicTitle": "Forest in the Sun｜1976",
+      "classicDesc": "由十五名受邀織者的提案中選出設計。六片各2.4公尺見方的織品沿蜂巢大樓曲面排列，以鏤空和光色呈現穿過林冠的陽光。由Joan Calvert與Guy Ngan合作，Dorothea Turner、Jean Ngan參與編結；1977年掛設，2003移除，2023重返原址。 官方典藏頁列可接近；Ground Floor Stairwell, Executive Wing, The Beehive Parliament Grounds, Pipitea, Te Whanganui-a-Tara Wellington。國會建築有安檢與參訪安排，依當期規定。",
+      "artistStatement": "六片各2.4公尺見方的織品沿蜂巢大樓曲面排列，以鏤空和光色呈現穿過林冠的陽光。由Joan Calvert與Guy Ngan合作，Dorothea Turner、Jean Ngan參與編結；1977年掛設，2003移除，2023重返原址。",
+      "artistStatementSource": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "globalClassic",
+      "material": "羊毛與可彎曲鋁板",
+      "originalDate": "1976",
+      "accessNote": "官方典藏頁列可接近；Ground Floor Stairwell, Executive Wing, The Beehive Parliament Grounds, Pipitea, Te Whanganui-a-Tara Wellington。國會建築有安檢與參訪安排，依當期規定。",
+      "imageSourceUrl": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+      "imageOriginalUrl": "https://cdn.sanity.io/images/aem3610x/production/c6e8ef2b22e4c540238d9f8757ff61f6707bf544-1451x1080.jpg",
+      "imageCredit": "Joan Calvert and Guy Ngan, ‘Forest in the Sun’ (1976), Executive Wing (Beehive), New Zealand Parliament, Pipitea, Te Whanganui-a-Tara Wellington Image: Bronwyn Holloway-Smith, Public Art Heritage Aotearoa New Zealand, 2023",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Ground Floor Stairwell, Executive Wing, The Beehive Parliament Grounds, Pipitea, Te Whanganui-a-Tara Wellington",
+      "coordinates": {
+        "latitude": -41.27842280000001,
+        "longitude": 174.776692,
+        "sourceUrl": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量"
+      },
+      "siteTypes": [
+        "government"
+      ],
+      "id": "public-art-2026-11-21-15",
+      "dedupeKey": "art:daily-20261121:joan-calvert-guy-ngan-1976",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-15.jpg",
+      "imageFallbacks": [
+        "https://cdn.sanity.io/images/aem3610x/production/c6e8ef2b22e4c540238d9f8757ff61f6707bf544-1451x1080.jpg"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。",
+      "deliveryModes": [
+        "invited"
+      ]
+    },
+    {
+      "name": "16｜Iris Andraschek｜District Administration Building Gmünd",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Gmünd",
+      "cityKeywords": [
+        "Gmünd",
+        "格明德"
+      ],
+      "media": [
+        "光/影像/投影",
+        "建築/場域"
+      ],
+      "works": "District Administration Building Gmünd｜1995",
+      "comment": "在樓梯間四個位置設置指向不同方向的白色霓虹手，以閃爍與脈動改變行政建築中的行進、指示和身體感。官方標示作品於2023年結束，保留為歷史研究案例。",
+      "website": "https://koernoe.at/en/project/44/district-administration-building-gmund",
+      "workPage": "https://koernoe.at/en/project/44/district-administration-building-gmund",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-16.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-16.jpg",
+      "classicTitle": "District Administration Building Gmünd｜1995",
+      "classicDesc": "在樓梯間四個位置設置指向不同方向的白色霓虹手，以閃爍與脈動改變行政建築中的行進、指示和身體感。官方標示作品於2023年結束，保留為歷史研究案例。 歷史作品，原展示已結束。 場址 Gmünd行政大樓樓梯間；1995至2023歷史裝置，已結束。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "在樓梯間四個位置設置指向不同方向的白色霓虹手，以閃爍與脈動改變行政建築中的行進、指示和身體感。官方標示作品於2023年結束，保留為歷史研究案例。",
+      "artistStatementSource": "https://koernoe.at/en/project/44/district-administration-building-gmund",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "germanClassic",
+      "material": "霓虹燈與反光牆面",
+      "originalDate": "1995",
+      "accessNote": "歷史作品，原展示已結束。 場址 Gmünd行政大樓樓梯間；1995至2023歷史裝置，已結束。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/44/district-administration-building-gmund",
+      "imageOriginalUrl": "https://koernoe.at/img/fe693505-ef8b-4863-8856-c092bf0daa3d/44.01.pr,andraschek-iris.jpg?q=80&fit=max&crop=640%2C498%2C0%2C0&s=038d69d7317ced96587da08e778d9699",
+      "imageCredit": "© Bildrecht, Wien 1995",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Gmünd行政大樓樓梯間；1995至2023歷史裝置，已結束",
+      "siteTypes": [
+        "government"
+      ],
+      "id": "public-art-2026-11-21-16",
+      "dedupeKey": "art:daily-20261121:district-administration-building-gmund",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-16.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/fe693505-ef8b-4863-8856-c092bf0daa3d/44.01.pr,andraschek-iris.jpg?q=80&fit=max&crop=640%2C498%2C0%2C0&s=038d69d7317ced96587da08e778d9699"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "17｜Andrea Sodomka｜Theatre Path to Giesshübl Quarry",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Gießhübl",
+      "cityKeywords": [
+        "Gießhübl",
+        "吉斯許布爾"
+      ],
+      "media": [
+        "裝置",
+        "行為／表演"
+      ],
+      "works": "Theatre Path to Giesshübl Quarry｜1995",
+      "comment": "為採石場劇場的演出路徑，把鈴、捐款箱、短波收音機與防空警報器等日常物件轉成圖形，沿途重複40次，將移動、戰後記憶與觀劇入口連在一起。",
+      "website": "https://koernoe.at/en/project/369/theatre-path-to-giesshubl-quarry",
+      "workPage": "https://koernoe.at/en/project/369/theatre-path-to-giesshubl-quarry",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-17.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-17.jpg",
+      "classicTitle": "Theatre Path to Giesshübl Quarry｜1995",
+      "classicDesc": "為採石場劇場的演出路徑，把鈴、捐款箱、短波收音機與防空警報器等日常物件轉成圖形，沿途重複40次，將移動、戰後記憶與觀劇入口連在一起。 歷史作品，原展示已結束。 場址 Gießhübl採石場劇場路徑；1995歷史暫時性作品，已結束。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "為採石場劇場的演出路徑，把鈴、捐款箱、短波收音機與防空警報器等日常物件轉成圖形，沿途重複40次，將移動、戰後記憶與觀劇入口連在一起。",
+      "artistStatementSource": "https://koernoe.at/en/project/369/theatre-path-to-giesshubl-quarry",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "germanClassic",
+      "material": "柏油地面絲網印刷",
+      "originalDate": "1995",
+      "accessNote": "歷史作品，原展示已結束。 場址 Gießhübl採石場劇場路徑；1995歷史暫時性作品，已結束。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/369/theatre-path-to-giesshubl-quarry",
+      "imageOriginalUrl": "https://koernoe.at/img/1e61231e-4e8d-45af-8c92-a7e474397ff7/369.01.pr,sodomka-andrea.jpg?q=80&fit=max&crop=640%2C477%2C0%2C0&s=2b14afc307f5c846a21accd617f21970",
+      "imageCredit": "圖像出處 KOERNOE；此頁未列攝影者，不推測署名",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Gießhübl採石場劇場路徑；1995歷史暫時性作品，已結束",
+      "siteTypes": [
+        "other"
+      ],
+      "id": "public-art-2026-11-21-17",
+      "dedupeKey": "art:daily-20261121:theatre-path-to-giesshubl-quarry",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-17.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/1e61231e-4e8d-45af-8c92-a7e474397ff7/369.01.pr,sodomka-andrea.jpg?q=80&fit=max&crop=640%2C477%2C0%2C0&s=2b14afc307f5c846a21accd617f21970"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "18｜PRINZGAU/podgorschek｜Die Entdeckung der Korridore",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Paasdorf",
+      "cityKeywords": [
+        "Paasdorf",
+        "帕斯多夫"
+      ],
+      "media": [
+        "地景/大地藝術",
+        "建築/場域"
+      ],
+      "works": "Die Entdeckung der Korridore｜1995",
+      "comment": "把高速公路當成當代考古物埋入鄉間地表，使道路、地景與未來遺址的時間感互相衝突。1995年9月完成，為Paasdorf文化地景系列的首件實現作品。",
+      "website": "https://koernoe.at/en/project/366/die-entdeckung-der-korridore",
+      "workPage": "https://koernoe.at/en/project/366/die-entdeckung-der-korridore",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-18.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-18.jpg",
+      "classicTitle": "Die Entdeckung der Korridore｜1995",
+      "classicDesc": "把高速公路當成當代考古物埋入鄉間地表，使道路、地景與未來遺址的時間感互相衝突。1995年9月完成，為Paasdorf文化地景系列的首件實現作品。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Kulturlandschaft Paasdorf，2130 Mistelbach。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "把高速公路當成當代考古物埋入鄉間地表，使道路、地景與未來遺址的時間感互相衝突。1995年9月完成，為Paasdorf文化地景系列的首件實現作品。",
+      "artistStatementSource": "https://koernoe.at/en/project/366/die-entdeckung-der-korridore",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "germanClassic",
+      "material": "被埋置的高速公路形式與地景",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Kulturlandschaft Paasdorf，2130 Mistelbach。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/366/die-entdeckung-der-korridore",
+      "imageOriginalUrl": "https://koernoe.at/img/8b98245e-d0ce-49c7-9464-8d3afb91dbdd/03-prinzgaupodgorschek-paasdorf-wachter-1995.jpg?q=80&fit=max&crop=2362%2C1870%2C0%2C0&s=452bde9c7c0c6c855cafb4fed4cfc644",
+      "imageCredit": "© Christian Wachter；© PRINZGAU/Podgorschek；© koernoe",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Kulturlandschaft Paasdorf，2130 Mistelbach",
+      "siteTypes": [
+        "other"
+      ],
+      "id": "public-art-2026-11-21-18",
+      "dedupeKey": "art:daily-20261121:die-entdeckung-der-korridore",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-18.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/8b98245e-d0ce-49c7-9464-8d3afb91dbdd/03-prinzgaupodgorschek-paasdorf-wachter-1995.jpg?q=80&fit=max&crop=2362%2C1870%2C0%2C0&s=452bde9c7c0c6c855cafb4fed4cfc644"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "19｜Tony Cragg｜Kristallmantel",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Krems an der Donau",
+      "cityKeywords": [
+        "Krems an der Donau",
+        "克雷姆斯"
+      ],
+      "media": [
+        "雕塑",
+        "建築/場域"
+      ],
+      "works": "Kristallmantel｜1995",
+      "comment": "對保留原有外輪廓的巨型石灰岩系統性鑽穿，使封閉、厚重的石塊轉成可穿透的脆弱結構；技術加工改變了自然材料的觀看與重量感。",
+      "website": "https://koernoe.at/en/project/146/kristallmantel",
+      "workPage": "https://koernoe.at/en/project/146/kristallmantel",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-19.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-19.jpg",
+      "classicTitle": "Kristallmantel｜1995",
+      "classicDesc": "對保留原有外輪廓的巨型石灰岩系統性鑽穿，使封閉、厚重的石塊轉成可穿透的脆弱結構；技術加工改變了自然材料的觀看與重量感。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Dr.-Karl-Dorrek-Straße 30，3500 Krems an der Donau。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "對保留原有外輪廓的巨型石灰岩系統性鑽穿，使封閉、厚重的石塊轉成可穿透的脆弱結構；技術加工改變了自然材料的觀看與重量感。",
+      "artistStatementSource": "https://koernoe.at/en/project/146/kristallmantel",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "germanClassic",
+      "material": "在地石灰岩",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Dr.-Karl-Dorrek-Straße 30，3500 Krems an der Donau。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/146/kristallmantel",
+      "imageOriginalUrl": "https://koernoe.at/img/6da8cabe-2b5e-4e9b-83ff-5c9a9f4c23d4/01-cragg-krems-riedler-2012.jpg?q=80&fit=max&crop=1024%2C768%2C0%2C0&s=35008637e7c03ce1a7a1453e0b9eb4aa",
+      "imageCredit": "© Bildrecht, Wien 2012, Foto: Gerald Riedler",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Dr.-Karl-Dorrek-Straße 30，3500 Krems an der Donau",
+      "siteTypes": [
+        "other"
+      ],
+      "id": "public-art-2026-11-21-19",
+      "dedupeKey": "art:daily-20261121:kristallmantel",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-19.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/6da8cabe-2b5e-4e9b-83ff-5c9a9f4c23d4/01-cragg-krems-riedler-2012.jpg?q=80&fit=max&crop=1024%2C768%2C0%2C0&s=35008637e7c03ce1a7a1453e0b9eb4aa"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    },
+    {
+      "name": "20｜Karin Harather／Norbert Lechner｜An Tante",
+      "category": "作品/展覽",
+      "tier": "經典檔案庫",
+      "region": "西方",
+      "country": "奧地利 / Zwettl",
+      "cityKeywords": [
+        "Zwettl",
+        "茨韋特爾"
+      ],
+      "media": [
+        "裝置",
+        "建築/場域"
+      ],
+      "works": "An Tante｜1995",
+      "comment": "把老人之家大廳的窗戶轉成室內外溫度顯示器。兩層不同顏色的油液在重疊處形成橘色，讓天氣談話、身體需求、窗景與抽象色域結合。",
+      "website": "https://koernoe.at/en/project/54/lower-austrian-old-peopless-home-in-zwettl",
+      "workPage": "https://koernoe.at/en/project/54/lower-austrian-old-peopless-home-in-zwettl",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-20.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261121/public-art-2026-11-21-20.jpg",
+      "classicTitle": "An Tante｜1995",
+      "classicDesc": "把老人之家大廳的窗戶轉成室內外溫度顯示器。兩層不同顏色的油液在重疊處形成橘色，讓天氣談話、身體需求、窗景與抽象色域結合。 官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Zwettl老人之家大廳窗面。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "artistStatement": "把老人之家大廳的窗戶轉成室內外溫度顯示器。兩層不同顏色的油液在重疊處形成橘色，讓天氣談話、身體需求、窗景與抽象色域結合。",
+      "artistStatementSource": "https://koernoe.at/en/project/54/lower-austrian-old-peopless-home-in-zwettl",
+      "status": "官方來源",
+      "updated": "2026-11-21",
+      "collectionDate": "2026-11-21",
+      "researchGroup": "germanClassic",
+      "material": "透明塑膠容器、黃色與粉色油液、溫度量測",
+      "originalDate": "1995",
+      "accessNote": "官方目前列為永久作品；此標籤不保證裝置仍運作或場址今日可進入。 場址 Zwettl老人之家大廳窗面。教育、照護與行政設施依管理規則，不宣稱自由入內。",
+      "imageSourceUrl": "https://koernoe.at/en/project/54/lower-austrian-old-peopless-home-in-zwettl",
+      "imageOriginalUrl": "https://koernoe.at/img/a2cf0d1a-e881-4804-a425-d13558125af0/54.01.pr,haratherlechner.jpg?q=80&fit=max&crop=640%2C418%2C0%2C0&s=aea6690c6b9b425a47a67b345f93ad8b",
+      "imageCredit": "圖像出處 KOERNOE；此頁未列攝影者，不推測署名",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站為研究索引提供等比例JPEG預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "已下載解碼並逐張檢視作品對應；不代表圖像已獲開放授權",
+      "statementType": "第一方資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-21",
+      "reviewedAt": "2026-11-21",
+      "relatedByCity": [],
+      "workSite": "Zwettl老人之家大廳窗面",
+      "siteTypes": [
+        "health"
+      ],
+      "id": "public-art-2026-11-21-20",
+      "dedupeKey": "art:daily-20261121:lower-austrian-old-peopless-home-in-zwettl",
+      "imageCachedPath": "assets/images/daily-20261121/public-art-2026-11-21-20.jpg",
+      "imageFallbacks": [
+        "https://koernoe.at/img/a2cf0d1a-e881-4804-a425-d13558125af0/54.01.pr,haratherlechner.jpg?q=80&fit=max&crop=640%2C418%2C0%2C0&s=aea6690c6b9b425a47a67b345f93ad8b"
+      ],
+      "imageCaption": "作品實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。原來源可能已使用取景或裁框。"
+    }
+  ]
+}

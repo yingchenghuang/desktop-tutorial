@@ -1,7 +1,7 @@
 {
-  "version": "20261120-giraffe-case-r150",
-  "updated": "2026-11-20",
-  "scope": "三個新增研究來源的11個案例，另連結今日已收錄的4件紐西蘭作品。只有可核實場址座標者標點。 另加入使用者指定之法國長頸鹿幼兒園，依官方專案導航地址定位。",
+  "version": "20261121-daily-photos-r151",
+  "updated": "2026-11-21",
+  "scope": "三個新增研究來源的11個案例，另連結今日已收錄的4件紐西蘭作品。只有可核實場址座標者標點。 另加入使用者指定之法國長頸鹿幼兒園，依官方專案導航地址定位。 11月21日增加5件已核對紐西蘭典藏座標。",
   "attribution": "© OpenStreetMap contributors",
   "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
   "works": [
@@ -399,12 +399,137 @@
         }
       ],
       "archived": false
+    },
+    {
+      "id": "public-art-2026-11-21-11",
+      "name": "11｜Milan Mrkusich｜Mosaic Mural for CSR Building",
+      "country": "紐西蘭 / Auckland",
+      "cityKeywords": [
+        "Auckland",
+        "奧克蘭"
+      ],
+      "originalDate": "1960",
+      "updated": "2026-11-21",
+      "comment": "以彩色玻璃磚沿大廳曲面構成大尺度抽象壁畫。作品曾被隔牆遮蔽，2016年建築改造時重現，現位於Chelsea House門廳並可從人行道觀看。",
+      "website": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+      "accessNote": "官方典藏頁列可接近；Ground floor foyer of Chelsea House, 85 Fort Street, CBD, Tāmaki Makaurau Auckland 。",
+      "locations": [
+        {
+          "lat": -36.8459915,
+          "lon": 174.770115,
+          "label": "Ground floor foyer of Chelsea House, 85 Fort Street, CBD, Tāmaki Makaurau Auckland ",
+          "coordinateSource": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+          "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+          "checkedAt": "2026-11-21"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "public-art-2026-11-21-12",
+      "name": "12｜Jim Allen｜Untitled [Futuna Chapel light modulators]",
+      "country": "紐西蘭 / Wellington",
+      "cityKeywords": [
+        "Wellington",
+        "威靈頓"
+      ],
+      "originalDate": "1961",
+      "updated": "2026-11-21",
+      "comment": "為Futuna Chapel入口上方過強的午後日光設計立體調光構造，將建築外殼、光線和材質整合為抽象空間裝置。此筆僅收調光構件，不把同教堂的宗教人物雕像併入。",
+      "website": "https://publicart.nz/artworks/jim-allen-1961-04",
+      "accessNote": "官方典藏頁列可接近；Futuna Chapel, Futuna Close, Karori, Te Whanganui-a-Tara Wellington。官方頁列每月第一個週日開放；其餘時段需查詢Futuna Chapel Trust。",
+      "locations": [
+        {
+          "lat": -41.28177064688133,
+          "lon": 174.73864673233942,
+          "label": "Futuna Chapel, Futuna Close, Karori, Te Whanganui-a-Tara Wellington",
+          "coordinateSource": "https://publicart.nz/artworks/jim-allen-1961-04",
+          "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+          "checkedAt": "2026-11-21"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "public-art-2026-11-21-13",
+      "name": "13｜Guy Ngan｜Teal Park Rocks",
+      "country": "紐西蘭 / Auckland",
+      "cityKeywords": [
+        "Auckland",
+        "奧克蘭"
+      ],
+      "originalDate": "1971",
+      "updated": "2026-11-21",
+      "comment": "把舊奧克蘭船塢與海堤回收的玄武岩重新組成石雕花園，讓港口基礎設施以抽象堆疊保存物質記憶。原本較高的構造因安全考量縮減，1971年5月公園開放。",
+      "website": "https://publicart.nz/artworks/guy-ngan-1971-04",
+      "accessNote": "官方典藏頁列可接近；Teal Park, Tamaki Drive, Mechanics Bay/Judges Bay, Tāmaki Makaurau Auckland。",
+      "locations": [
+        {
+          "lat": -36.84752749999999,
+          "lon": 174.7883113,
+          "label": "Teal Park, Tamaki Drive, Mechanics Bay/Judges Bay, Tāmaki Makaurau Auckland",
+          "coordinateSource": "https://publicart.nz/artworks/guy-ngan-1971-04",
+          "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+          "checkedAt": "2026-11-21"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "public-art-2026-11-21-14",
+      "name": "14｜Guy Ngan｜Geometric Progression",
+      "country": "紐西蘭 / Wellington",
+      "cityKeywords": [
+        "Wellington",
+        "威靈頓"
+      ],
+      "originalDate": "1974",
+      "updated": "2026-11-21",
+      "comment": "向上伸展的幾何塊體回應城市道路、住宅與自然地形。1974年原作於1989年移除時嚴重損壞，2006年在藝術家參與下重製並移至Wakefield Street，不把重製年份冒充原作年。",
+      "website": "https://publicart.nz/artworks/guy-ngan-1974",
+      "accessNote": "官方典藏頁列可接近；Michael Fowler Centre car park on Wakefield St, CBD, Te Whanganui-a-Tara Wellington。",
+      "locations": [
+        {
+          "lat": -41.29024907686678,
+          "lon": 174.77827527427445,
+          "label": "Michael Fowler Centre car park on Wakefield St, CBD, Te Whanganui-a-Tara Wellington",
+          "coordinateSource": "https://publicart.nz/artworks/guy-ngan-1974",
+          "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+          "checkedAt": "2026-11-21"
+        }
+      ],
+      "archived": false
+    },
+    {
+      "id": "public-art-2026-11-21-15",
+      "name": "15｜Joan Calvert／Guy Ngan｜Forest in the Sun",
+      "country": "紐西蘭 / Wellington",
+      "cityKeywords": [
+        "Wellington",
+        "威靈頓"
+      ],
+      "originalDate": "1976",
+      "updated": "2026-11-21",
+      "comment": "由十五名受邀織者的提案中選出設計。六片各2.4公尺見方的織品沿蜂巢大樓曲面排列，以鏤空和光色呈現穿過林冠的陽光。由Joan Calvert與Guy Ngan合作，Dorothea Turner、Jean Ngan參與編結；1977年掛設，2003移除，2023重返原址。",
+      "website": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+      "accessNote": "官方典藏頁列可接近；Ground Floor Stairwell, Executive Wing, The Beehive Parliament Grounds, Pipitea, Te Whanganui-a-Tara Wellington。國會建築有安檢與參訪安排，依當期規定。",
+      "locations": [
+        {
+          "lat": -41.27842280000001,
+          "lon": 174.776692,
+          "label": "Ground Floor Stairwell, Executive Wing, The Beehive Parliament Grounds, Pipitea, Te Whanganui-a-Tara Wellington",
+          "coordinateSource": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+          "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+          "checkedAt": "2026-11-21"
+        }
+      ],
+      "archived": false
     }
   ],
   "stats": {
-    "catalogWorks": 16,
-    "locatedWorks": 11,
+    "catalogWorks": 21,
+    "locatedWorks": 16,
     "pendingWorks": 5,
-    "locations": 15
+    "locations": 20
   }
 }

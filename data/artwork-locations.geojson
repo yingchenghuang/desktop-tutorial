@@ -300,6 +300,108 @@
         "accuracy": "官方專案導航連結所指地址座標；建築場址，非雕塑結構支點",
         "updated": "2026-11-20"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-21-11-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.770115,
+          -36.8459915
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-21-11",
+        "name": "11｜Milan Mrkusich｜Mosaic Mural for CSR Building",
+        "location": "Ground floor foyer of Chelsea House, 85 Fort Street, CBD, Tāmaki Makaurau Auckland ",
+        "source": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+        "coordinateSource": "https://publicart.nz/artworks/milan-mrkusich-1960-02",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+        "updated": "2026-11-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-21-12-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.73864673233942,
+          -41.28177064688133
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-21-12",
+        "name": "12｜Jim Allen｜Untitled [Futuna Chapel light modulators]",
+        "location": "Futuna Chapel, Futuna Close, Karori, Te Whanganui-a-Tara Wellington",
+        "source": "https://publicart.nz/artworks/jim-allen-1961-04",
+        "coordinateSource": "https://publicart.nz/artworks/jim-allen-1961-04",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+        "updated": "2026-11-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-21-13-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7883113,
+          -36.84752749999999
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-21-13",
+        "name": "13｜Guy Ngan｜Teal Park Rocks",
+        "location": "Teal Park, Tamaki Drive, Mechanics Bay/Judges Bay, Tāmaki Makaurau Auckland",
+        "source": "https://publicart.nz/artworks/guy-ngan-1971-04",
+        "coordinateSource": "https://publicart.nz/artworks/guy-ngan-1971-04",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+        "updated": "2026-11-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-21-14-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77827527427445,
+          -41.29024907686678
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-21-14",
+        "name": "14｜Guy Ngan｜Geometric Progression",
+        "location": "Michael Fowler Centre car park on Wakefield St, CBD, Te Whanganui-a-Tara Wellington",
+        "source": "https://publicart.nz/artworks/guy-ngan-1974",
+        "coordinateSource": "https://publicart.nz/artworks/guy-ngan-1974",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+        "updated": "2026-11-21"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "public-art-2026-11-21-15-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.776692,
+          -41.27842280000001
+        ]
+      },
+      "properties": {
+        "workId": "public-art-2026-11-21-15",
+        "name": "15｜Joan Calvert／Guy Ngan｜Forest in the Sun",
+        "location": "Ground Floor Stairwell, Executive Wing, The Beehive Parliament Grounds, Pipitea, Te Whanganui-a-Tara Wellington",
+        "source": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+        "coordinateSource": "https://publicart.nz/artworks/joan-calvert-guy-ngan-1976",
+        "accuracy": "典藏個案頁當前場址座標；非雕塑基礎測量",
+        "updated": "2026-11-21"
+      }
     }
-  ]
+  ],
+  "updated": "2026-11-21",
+  "version": "20261121-daily-photos-r151"
 }

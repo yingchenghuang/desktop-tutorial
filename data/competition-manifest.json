@@ -1,21 +1,23 @@
 {
-  "version": "20261120-reviewed-r147",
-  "generatedAt": "2026-11-20T05:45:00+08:00",
+  "version": "20261121-daily-photos-r151",
+  "generatedAt": "2026-11-21T12:30:53+08:00",
   "files": [
     "competitions.json"
   ],
-  "activeEntries": 134,
+  "activeEntries": 138,
   "addedToday": 5,
   "addedThisRun": 5,
-  "expiredRemoved": 0,
-  "expiredRemovedIds": [],
+  "expiredRemoved": 1,
+  "expiredRemovedIds": [
+    "competition-2026-10-20-03"
+  ],
   "duplicateRemoved": 0,
   "duplicateRemovedIds": [],
   "counts": {
-    "total": 134,
-    "active": 134
+    "total": 138,
+    "active": 138
   },
-  "germanAddedToday": 1,
+  "germanAddedToday": 0,
   "scopeRemoved": 0,
   "inferredTimezoneEntries": 0,
   "timezoneCorrections": [
@@ -41,5 +43,5 @@
       "oldDeadline": "2026-11-25T16:30:00-07:00"
     }
   ],
-  "note": "11月20日新增5則仍可申請之公共藝術／Kunst am Bau徵件，既有129筆未截止項目全部保留；截止時間均含UTC偏移及IANA時區。"
+  "note": "11月21日新增5則：2個KORO策展服務、LOK公共藝術遴選委員招募、MBZUAI國際藝術委託、Concord雕塑借展。三類機會明確分流；所有未截止舊案保留。LOK為職務招募且使用官方標誌，未假冒作品照片。"
 }
