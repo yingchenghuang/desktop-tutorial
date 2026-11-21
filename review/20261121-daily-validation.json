@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
   "generatedAt": "2026-11-21T12:30:53+08:00",
-  "status": "prepared; deployment and Notion verification pending",
+  "status": "published; database, Notion and decoded images verified",
   "publicArt": {
     "total": 20,
     "distribution": {
@@ -27,12 +27,33 @@
     "dateConflicts": 1
   },
   "duplicates": 0,
-  "notionPrepared": 30,
   "map": {
     "catalogWorks": 21,
     "locatedWorks": 16,
     "pendingWorks": 5,
     "locations": 20
   },
-  "imageVerification": "25 artwork/exhibition photos visually matched; new call images checked separately; final live browser check pending"
+  "imageVerification": {
+    "decodedImages": 30,
+    "publicArtAndExhibitionPhotos": 25,
+    "opportunityContextImages": 5,
+    "artificialArtworkImages": 0,
+    "visualIdentityReview": "completed",
+    "note": "徵件含官方場址／校園照片、建築示意、歷史作品範例及LOK識別圖，均明示性質。"
+  },
+  "notion": {
+    "total": 30,
+    "publicArt": 20,
+    "competitions": 5,
+    "exhibitions": 5,
+    "uniqueDedupeKeys": 30,
+    "nativeImagesVerified": 30,
+    "coversVerified": 30,
+    "imageUrlPropertiesVerified": 30
+  },
+  "publicEndpointReadback": {
+    "count": 10,
+    "allHttp200": true
+  },
+  "browserVerificationSource": "https://github.com/yingchenghuang/desktop-tutorial/actions/workflows/verify-publicspace-live.yml"
 }

@@ -359,11 +359,11 @@ def check_november_21_update():
         page.goto(BASE+'?verify=20261121-daily-photos-r151',wait_until='domcontentloaded',timeout=70000)
         page.wait_for_function("()=>/顯示/.test(document.querySelector('#resultCount').textContent)",timeout=120000)
         for item in records:
-            card = page.locator('[data-id="'+item['id']+'"]')
+            card = page.locator('#grid [data-id="'+item['id']+'"]')
             assert card.count() == 1, item['id']+' missing or duplicated'
             card.scroll_into_view_if_needed()
             card.locator('.card-media img').evaluate("i=>i.loading='eager'")
-            page.wait_for_function("id=>{const i=document.querySelector('[data-id=\"'+id+'\"] .card-media img');return i&&i.complete&&i.naturalWidth>=120}",arg=item['id'],timeout=45000)
+            page.wait_for_function("id=>{const i=document.querySelector('#grid [data-id=\"'+id+'\"] .card-media img');return i&&i.complete&&i.naturalWidth>=120}",arg=item['id'],timeout=45000)
             assert card.locator('.card-image-credit').inner_text().strip()
             card.click()
             page.wait_for_function("()=>{const i=document.querySelector('#panel > figure img');return i&&i.complete&&i.naturalWidth>=120}",timeout=45000)
