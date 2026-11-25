@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-22",
+  "validatedAt": "2026-11-26T05:00:00+08:00",
+  "publicArt": {
+    "total": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    }
+  },
+  "competitions": {
+    "added": 5,
+    "activeTotal": 127,
+    "expiredOrInvalid": []
+  },
+  "exhibitions": {
+    "added": 5
+  },
+  "newDedupeKeys": {
+    "total": 30,
+    "unique": 30,
+    "duplicates": []
+  },
+  "requiredFieldOrImageErrors": [],
+  "cityKeywordsMissing": [],
+  "crossCityLinks": "前端依 cityKeywords 動態產生；assets/app.js isCrossDatabaseCityMatch 已保留",
+  "passed": true
+}

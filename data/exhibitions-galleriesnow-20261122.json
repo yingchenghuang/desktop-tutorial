@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "date": "2026-11-22",
+    "generatedAt": "2026-11-26T05:00:00+08:00",
+    "total": 5,
+    "note": "5則獨立國際展覽；展期完整，GalleriesNow／e-flux索引優先交叉主辦官網，圖片為作品或展場影像。"
+  },
+  "entries": [
+    {
+      "name": "群展｜I Think. I Don’t. I Do",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "荷蘭 / Amsterdam",
+      "cityKeywords": [
+        "Amsterdam",
+        "阿姆斯特丹"
+      ],
+      "media": [
+        "當代藝術展覽"
+      ],
+      "works": "I Think. I Don’t. I Do｜2026-11-21 至 2027-01-16",
+      "comment": "由De Ateliers二年級參與者策劃，從Sol LeWitt與Eva Hesse書信出發，把猶疑、失敗、摸索與共同工作視為展覽生成條件。",
+      "website": "https://www.e-flux.com/announcements/6788469/i-think-i-don-t-i-do/",
+      "workPage": "https://www.e-flux.com/announcements/6788469/i-think-i-don-t-i-do/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-01.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-01.jpg",
+      "classicTitle": "I Think. I Don’t. I Do｜2026",
+      "classicDesc": "由De Ateliers二年級參與者策劃，從Sol LeWitt與Eva Hesse書信出發，把猶疑、失敗、摸索與共同工作視為展覽生成條件。",
+      "artistStatement": "由De Ateliers二年級參與者策劃，從Sol LeWitt與Eva Hesse書信出發，把猶疑、失敗、摸索與共同工作視為展覽生成條件。",
+      "artistStatementSource": "https://woonhuisdeateliers.nl/",
+      "status": "官方來源交叉核對",
+      "updated": "2026-11-22",
+      "collectionDate": "2026-11-22",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "開放時間與入場條件以場館當日公告為準。",
+      "imageSourceUrl": "https://www.e-flux.com/announcements/6788469/i-think-i-don-t-i-do/",
+      "imageOriginalUrl": "https://images-eflux.b-cdn.net/assets/9d7f3d07-86cc-4028-9baf-28d43136cbef.jpg",
+      "imageCredit": "Woonhuis／e-flux展覽公告影像；完整作品署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權。本站為研究索引提供等比例JPEG預覽。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-26已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "展覽資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-22",
+      "reviewedAt": "2026-11-22",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261122-01",
+      "dedupeKey": "exhibition:galleriesnow:i-think.-i-don’t.-i-do",
+      "sourceName": "GalleriesNow＋主辦官網",
+      "startDate": "2026-11-21",
+      "endDate": "2027-01-16",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Woonhuis de Ateliers",
+      "venue": "Woonhuis de Ateliers，Stadhouderskade 86, Amsterdam",
+      "admission": "未公開；依場館公告",
+      "imageCaption": "展出作品或展場影像，非藝術家肖像",
+      "researchSources": [
+        {
+          "label": "展覽索引／公告",
+          "url": "https://www.e-flux.com/announcements/6788469/i-think-i-don-t-i-do/"
+        },
+        {
+          "label": "主辦官網核對",
+          "url": "https://woonhuisdeateliers.nl/"
+        }
+      ],
+      "imageCachedPath": "assets/images/daily-20261122/exhibition-gn-20261122-01.jpg",
+      "imageFallbacks": [
+        "https://images-eflux.b-cdn.net/assets/9d7f3d07-86cc-4028-9baf-28d43136cbef.jpg"
+      ],
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。"
+    },
+    {
+      "name": "John McAllister｜some ecstasies enthrall",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "比利時 / Brussels",
+      "cityKeywords": [
+        "Brussels",
+        "Bruxelles／布魯塞爾"
+      ],
+      "media": [
+        "當代藝術展覽"
+      ],
+      "works": "some ecstasies enthrall｜2026-11-19 至 2026-12-19",
+      "comment": "以高飽和色彩與框中框構圖把風景畫轉成感官入口，在野火煙霧、外來植物與人造景觀之間處理美感與氣候焦慮。",
+      "website": "https://www.galleriesnow.net/shows/john-mcallister-some-ecstasies-enthrall/",
+      "workPage": "https://www.galleriesnow.net/shows/john-mcallister-some-ecstasies-enthrall/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-02.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-02.jpg",
+      "classicTitle": "some ecstasies enthrall｜2026",
+      "classicDesc": "以高飽和色彩與框中框構圖把風景畫轉成感官入口，在野火煙霧、外來植物與人造景觀之間處理美感與氣候焦慮。",
+      "artistStatement": "以高飽和色彩與框中框構圖把風景畫轉成感官入口，在野火煙霧、外來植物與人造景觀之間處理美感與氣候焦慮。",
+      "artistStatementSource": "https://www.alminerech.com/exhibitions/",
+      "status": "官方來源交叉核對",
+      "updated": "2026-11-22",
+      "collectionDate": "2026-11-22",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "開放時間與入場條件以場館當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/john-mcallister-some-ecstasies-enthrall/",
+      "imageOriginalUrl": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Almine-Rech-Brussels-John-McAllister-header.webp",
+      "imageCredit": "John McAllister展覽作品／展場影像；Courtesy Almine Rech；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權。本站為研究索引提供等比例JPEG預覽。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-26已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "展覽資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-22",
+      "reviewedAt": "2026-11-22",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261122-02",
+      "dedupeKey": "exhibition:galleriesnow:some-ecstasies-enthrall",
+      "sourceName": "GalleriesNow＋主辦官網",
+      "startDate": "2026-11-19",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Almine Rech",
+      "venue": "Almine Rech，Abdijstraat 20 Rue de l’Abbaye, Brussels",
+      "admission": "未公開；依場館公告",
+      "imageCaption": "展出作品或展場影像，非藝術家肖像",
+      "researchSources": [
+        {
+          "label": "展覽索引／公告",
+          "url": "https://www.galleriesnow.net/shows/john-mcallister-some-ecstasies-enthrall/"
+        },
+        {
+          "label": "主辦官網核對",
+          "url": "https://www.alminerech.com/exhibitions/"
+        }
+      ],
+      "imageCachedPath": "assets/images/daily-20261122/exhibition-gn-20261122-02.jpg",
+      "imageFallbacks": [
+        "https://www.galleriesnow.net/wp-content/uploads/2026/11/Almine-Rech-Brussels-John-McAllister-header.webp"
+      ],
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。"
+    },
+    {
+      "name": "Janaina Tschäpe｜the sky beneath my skin",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "當代藝術展覽"
+      ],
+      "works": "the sky beneath my skin｜2026-11-24 至 2027-01-23",
+      "comment": "新作大型繪畫、紙上Self Portrait系列與2000年錄像並置，從筆觸、身體與海景的互滲討論自我與自然之間不穩定的界線。",
+      "website": "https://www.galleriesnow.net/exhibitions/london/",
+      "workPage": "https://www.galleriesnow.net/exhibitions/london/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-03.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-03.jpg",
+      "classicTitle": "the sky beneath my skin｜2026",
+      "classicDesc": "新作大型繪畫、紙上Self Portrait系列與2000年錄像並置，從筆觸、身體與海景的互滲討論自我與自然之間不穩定的界線。",
+      "artistStatement": "新作大型繪畫、紙上Self Portrait系列與2000年錄像並置，從筆觸、身體與海景的互滲討論自我與自然之間不穩定的界線。",
+      "artistStatementSource": "https://www.maxhetzler.com/exhibitions/janaina-tschape-sky-beneath-my-skin-2026",
+      "status": "官方來源交叉核對",
+      "updated": "2026-11-22",
+      "collectionDate": "2026-11-22",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "開放時間與入場條件以場館當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/exhibitions/london/",
+      "imageOriginalUrl": "https://www.maxhetzler.com/application/files/cache/thumbnails/2767e7e0d77afab35cc226aaa460b919.jpg",
+      "imageCredit": "Galerie Max Hetzler展覽影像；完整作品與攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權。本站為研究索引提供等比例JPEG預覽。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-26已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "展覽資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-22",
+      "reviewedAt": "2026-11-22",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261122-03",
+      "dedupeKey": "exhibition:galleriesnow:the-sky-beneath-my-skin",
+      "sourceName": "GalleriesNow＋主辦官網",
+      "startDate": "2026-11-24",
+      "endDate": "2027-01-23",
+      "exhibitionStatus": "即將開幕",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Galerie Max Hetzler",
+      "venue": "Galerie Max Hetzler，41 Dover Street, London",
+      "admission": "未公開；依場館公告",
+      "imageCaption": "展出作品或展場影像，非藝術家肖像",
+      "researchSources": [
+        {
+          "label": "展覽索引／公告",
+          "url": "https://www.galleriesnow.net/exhibitions/london/"
+        },
+        {
+          "label": "主辦官網核對",
+          "url": "https://www.maxhetzler.com/exhibitions/janaina-tschape-sky-beneath-my-skin-2026"
+        }
+      ],
+      "imageCachedPath": "assets/images/daily-20261122/exhibition-gn-20261122-03.jpg",
+      "imageFallbacks": [
+        "https://www.maxhetzler.com/application/files/cache/thumbnails/2767e7e0d77afab35cc226aaa460b919.jpg"
+      ],
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。"
+    },
+    {
+      "name": "Andrius Arutiunian｜They Tried to Count Us",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "當代藝術展覽"
+      ],
+      "works": "They Tried to Count Us｜2026-11-24 至 2027-03-07",
+      "comment": "藝術家首場英國個展以聲音、雕塑與訊號系統追問人類如何計數、分類並想像死後世界與地球之外的存在。",
+      "website": "https://www.galleriesnow.net/shows/andrius-arutiunian-they-tried-to-count-us/",
+      "workPage": "https://www.galleriesnow.net/shows/andrius-arutiunian-they-tried-to-count-us/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-04.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-04.jpg",
+      "classicTitle": "They Tried to Count Us｜2026",
+      "classicDesc": "藝術家首場英國個展以聲音、雕塑與訊號系統追問人類如何計數、分類並想像死後世界與地球之外的存在。",
+      "artistStatement": "藝術家首場英國個展以聲音、雕塑與訊號系統追問人類如何計數、分類並想像死後世界與地球之外的存在。",
+      "artistStatementSource": "https://www.southbankcentre.co.uk/venues/hayward-gallery/",
+      "status": "官方來源交叉核對",
+      "updated": "2026-11-22",
+      "collectionDate": "2026-11-22",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "開放時間與入場條件以場館當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/andrius-arutiunian-they-tried-to-count-us/",
+      "imageOriginalUrl": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Hayward-Gallery_Andrius-Arutiunian.webp",
+      "imageCredit": "Hayward Gallery展覽影像；完整作品與攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權。本站為研究索引提供等比例JPEG預覽。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-26已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "展覽資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-22",
+      "reviewedAt": "2026-11-22",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261122-04",
+      "dedupeKey": "exhibition:galleriesnow:they-tried-to-count-us",
+      "sourceName": "GalleriesNow＋主辦官網",
+      "startDate": "2026-11-24",
+      "endDate": "2027-03-07",
+      "exhibitionStatus": "即將開幕",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Hayward Gallery",
+      "venue": "Hayward Gallery，Belvedere Road, London",
+      "admission": "未公開；依場館公告",
+      "imageCaption": "展出作品或展場影像，非藝術家肖像",
+      "researchSources": [
+        {
+          "label": "展覽索引／公告",
+          "url": "https://www.galleriesnow.net/shows/andrius-arutiunian-they-tried-to-count-us/"
+        },
+        {
+          "label": "主辦官網核對",
+          "url": "https://www.southbankcentre.co.uk/venues/hayward-gallery/"
+        }
+      ],
+      "imageCachedPath": "assets/images/daily-20261122/exhibition-gn-20261122-04.jpg",
+      "imageFallbacks": [
+        "https://www.galleriesnow.net/wp-content/uploads/2026/11/Hayward-Gallery_Andrius-Arutiunian.webp"
+      ],
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。"
+    },
+    {
+      "name": "Connie Brown｜The Big Cover-Up",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "美國 / New York",
+      "cityKeywords": [
+        "New York",
+        "紐約"
+      ],
+      "media": [
+        "當代藝術展覽"
+      ],
+      "works": "The Big Cover-Up｜2026-11-24 至 2026-12-19",
+      "comment": "以繪畫、音樂與記憶為線索，讓被覆蓋的過去在當下表面再次顯形，檢視私人敘事如何進入觀看與構圖。",
+      "website": "https://www.galleriesnow.net/shows/connie-brown-the-big-cover-up/",
+      "workPage": "https://www.galleriesnow.net/shows/connie-brown-the-big-cover-up/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-05.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261122/exhibition-gn-20261122-05.jpg",
+      "classicTitle": "The Big Cover-Up｜2026",
+      "classicDesc": "以繪畫、音樂與記憶為線索，讓被覆蓋的過去在當下表面再次顯形，檢視私人敘事如何進入觀看與構圖。",
+      "artistStatement": "以繪畫、音樂與記憶為線索，讓被覆蓋的過去在當下表面再次顯形，檢視私人敘事如何進入觀看與構圖。",
+      "artistStatementSource": "https://www.thepaintingcenter.org/",
+      "status": "官方來源交叉核對",
+      "updated": "2026-11-22",
+      "collectionDate": "2026-11-22",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "開放時間與入場條件以場館當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/connie-brown-the-big-cover-up/",
+      "imageOriginalUrl": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Connie-Brown-The-Painting-Center.webp",
+      "imageCredit": "Connie Brown／The Painting Center展覽影像；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權。本站為研究索引提供等比例JPEG預覽。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-26已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "展覽資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-22",
+      "reviewedAt": "2026-11-22",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261122-05",
+      "dedupeKey": "exhibition:galleriesnow:the-big-cover-up",
+      "sourceName": "GalleriesNow＋主辦官網",
+      "startDate": "2026-11-24",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "即將開幕",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "The Painting Center",
+      "venue": "The Painting Center，547 West 27th Street, New York",
+      "admission": "未公開；依場館公告",
+      "imageCaption": "展出作品或展場影像，非藝術家肖像",
+      "researchSources": [
+        {
+          "label": "展覽索引／公告",
+          "url": "https://www.galleriesnow.net/shows/connie-brown-the-big-cover-up/"
+        },
+        {
+          "label": "主辦官網核對",
+          "url": "https://www.thepaintingcenter.org/"
+        }
+      ],
+      "imageCachedPath": "assets/images/daily-20261122/exhibition-gn-20261122-05.jpg",
+      "imageFallbacks": [
+        "https://www.galleriesnow.net/wp-content/uploads/2026/11/Connie-Brown-The-Painting-Center.webp"
+      ],
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-22",
+  "fixedSources": {
+    "readable": [
+      "KORO",
+      "Artangel",
+      "Public Art München",
+      "GalleriesNow"
+    ],
+    "blocked": [],
+    "pending": [
+      "Public Art Archive",
+      "Institute for Public Art",
+      "CODAworx",
+      "Americans for the Arts",
+      "Museum der 1000 Orte",
+      "bbk berlin",
+      "Public Art Agency Sweden",
+      "MAPS",
+      "Swiss Federal Office Kunst am Bau",
+      "Public Art Fund",
+      "Creative Time",
+      "Fourth Plinth London",
+      "Forecast Public Art",
+      "Art Platform Japan",
+      "Echigo-Tsumari",
+      "Seoul Public Art Archive",
+      "Toronto Public Art",
+      "Vancouver Public Art",
+      "Melbourne Open Data",
+      "文化部公共藝術",
+      "Land Art Flevoland",
+      "Raumfragen",
+      "Public Art Lab Berlin"
+    ],
+    "note": "27個固定入口中本批完整讀取4站；其餘23站本次未逐站重讀，列待核，未宣稱已查核或無更新。"
+  },
+  "supportingSources": {
+    "readable": [
+      "Kunst im Stadtraum Berlin",
+      "Berlin.de",
+      "Bildhauerei in Berlin",
+      "National Park Service",
+      "Georgetown Submittable",
+      "Town of Parachute",
+      "Reno-Tahoe Airport",
+      "e-flux",
+      "Galerie Max Hetzler／主辦場館頁"
+    ]
+  },
+  "recordsBuilt": {
+    "publicArt": 20,
+    "competitions": 5,
+    "exhibitions": 5
+  }
+}
