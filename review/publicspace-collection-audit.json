@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T19:25:51+08:00",
+  "generatedAt": "2026-11-26T18:59:59+08:00",
   "discoveredUniqueUrls": 250,
   "newUrlsRequested": 2,
   "newRecordsImported": 0,
   "fetchFailuresOrInvalid": 2,
   "discovery": {
     "worksInitial": 1,
-    "worksBrowser": 10,
+    "worksBrowser": 1,
     "indexButtons": [
       "Country",
       "City",
