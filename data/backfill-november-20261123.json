@@ -1,0 +1,1099 @@
+{
+  "meta": {
+    "date": "2026-11-23",
+    "generatedAt": "2026-11-28T05:00:00+08:00",
+    "total": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    },
+    "note": "11月23日補檔；固定20件公共藝術，與5徵件及5展覽完全分流。原作年、歷史展期與11月28日補登時間分開。"
+  },
+  "entries": [
+    {
+      "name": "01｜Nando Nkrumah｜Living Layers",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "Munich",
+        "München／慕尼黑"
+      ],
+      "media": [
+        "青銅、歷史人物與殖民記憶的公共紀念雕塑"
+      ],
+      "works": "Living Layers｜2026–2028",
+      "comment": "青銅群像把被殖民歷史排除於傳統紀念敘事之外的人物帶回公共空間，並以多層次站位讓城市記憶不再只有單一權力視角。",
+      "website": "https://www.publicartmuenchen.de/projekte/living-layers/",
+      "workPage": "https://www.publicartmuenchen.de/projekte/living-layers/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-01.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-01.jpg",
+      "classicTitle": "Living Layers｜2026–2028",
+      "classicDesc": "青銅群像把被殖民歷史排除於傳統紀念敘事之外的人物帶回公共空間，並以多層次站位讓城市記憶不再只有單一權力視角。",
+      "artistStatement": "青銅群像把被殖民歷史排除於傳統紀念敘事之外的人物帶回公共空間，並以多層次站位讓城市記憶不再只有單一權力視角。",
+      "artistStatementSource": "https://www.publicartmuenchen.de/projekte/living-layers/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "青銅、歷史人物與殖民記憶的公共紀念雕塑",
+      "originalDate": "2026–2028",
+      "accessNote": "官方展期2026年10月至2028年10月。",
+      "imageSourceUrl": "https://www.publicartmuenchen.de/projekte/living-layers/",
+      "imageOriginalUrl": "https://www.publicartmuenchen.de/wp-content/uploads/2026/08/LivingLayersWebbanner.jpg",
+      "imageCredit": "Public Art München作品實景；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-01",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-01.jpg",
+      "imageFallbacks": [
+        "https://www.publicartmuenchen.de/wp-content/uploads/2026/08/LivingLayersWebbanner.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:nando-nkrumah:living-layers",
+      "workSite": "官方展期2026年10月至2028年10月。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "02｜Folke Köbberling｜Mash & Heal",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "Munich",
+        "München／慕尼黑"
+      ],
+      "media": [
+        "黏土、木材、堆肥性材料、汽車尺度裝置"
+      ],
+      "works": "Mash & Heal｜2025–2027",
+      "comment": "以可分解材料塑成SUV尺度物件，讓其在城市氣候中逐步崩解，反轉汽車作為耐久消費品與占用公共空間的象徵。",
+      "website": "https://www.publicartmuenchen.de/projekte/mash-heal/",
+      "workPage": "https://www.publicartmuenchen.de/projekte/mash-heal/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-02.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-02.jpg",
+      "classicTitle": "Mash & Heal｜2025–2027",
+      "classicDesc": "以可分解材料塑成SUV尺度物件，讓其在城市氣候中逐步崩解，反轉汽車作為耐久消費品與占用公共空間的象徵。",
+      "artistStatement": "以可分解材料塑成SUV尺度物件，讓其在城市氣候中逐步崩解，反轉汽車作為耐久消費品與占用公共空間的象徵。",
+      "artistStatementSource": "https://www.publicartmuenchen.de/projekte/mash-heal/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "黏土、木材、堆肥性材料、汽車尺度裝置",
+      "originalDate": "2025–2027",
+      "accessNote": "依官方公告持續至2027年。",
+      "imageSourceUrl": "https://www.publicartmuenchen.de/projekte/mash-heal/",
+      "imageOriginalUrl": "https://www.publicartmuenchen.de/wp-content/uploads/2025/01/F_Koebberling_039-scaled-e1737472464308-1920x768.jpg",
+      "imageCredit": "Public Art München／Folke Köbberling作品實景；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-02",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-02.jpg",
+      "imageFallbacks": [
+        "https://www.publicartmuenchen.de/wp-content/uploads/2025/01/F_Koebberling_039-scaled-e1737472464308-1920x768.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:folke-k-bberling:mash-heal",
+      "workSite": "依官方公告持續至2027年。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "03｜Gregor Schneider｜Ars Moriendi",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "Munich",
+        "München／慕尼黑"
+      ],
+      "media": [
+        "3D掃描、數位雕塑、製作與展示程序"
+      ],
+      "works": "Ars Moriendi｜2024–持續",
+      "comment": "以身體、死亡與空間記憶為核心的數位雕塑計畫，將3D掃描和製作現場轉為公共藝術方法；照片明示為官方製作紀錄，不冒充戶外完成照。",
+      "website": "https://www.publicartmuenchen.de/projekte/ars-moriendi/",
+      "workPage": "https://www.publicartmuenchen.de/projekte/ars-moriendi/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-03.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-03.jpg",
+      "classicTitle": "Ars Moriendi｜2024–持續",
+      "classicDesc": "以身體、死亡與空間記憶為核心的數位雕塑計畫，將3D掃描和製作現場轉為公共藝術方法；照片明示為官方製作紀錄，不冒充戶外完成照。",
+      "artistStatement": "以身體、死亡與空間記憶為核心的數位雕塑計畫，將3D掃描和製作現場轉為公共藝術方法；照片明示為官方製作紀錄，不冒充戶外完成照。",
+      "artistStatementSource": "https://www.publicartmuenchen.de/projekte/ars-moriendi/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "3D掃描、數位雕塑、製作與展示程序",
+      "originalDate": "2024–持續",
+      "accessNote": "官方頁未公布結束日，維持持續追蹤。",
+      "imageSourceUrl": "https://www.publicartmuenchen.de/projekte/ars-moriendi/",
+      "imageOriginalUrl": "https://www.publicartmuenchen.de/wp-content/uploads/2024/09/MK_Projekt_Gregor_Schneider_Pressebild_Judith-Buss_IMG_5623-1-scaled-e1727352857652-1920x768.jpg",
+      "imageCredit": "攝影 Judith Buss／Public Art München；官方製作紀錄",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-03",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-03.jpg",
+      "imageFallbacks": [
+        "https://www.publicartmuenchen.de/wp-content/uploads/2024/09/MK_Projekt_Gregor_Schneider_Pressebild_Judith-Buss_IMG_5623-1-scaled-e1727352857652-1920x768.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:gregor-schneider:ars-moriendi",
+      "workSite": "官方頁未公布結束日，維持持續追蹤。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "04｜Albert Coers｜Straßen Namen Leuchten",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "Munich",
+        "München／慕尼黑"
+      ],
+      "media": [
+        "街道路牌、燈具、文字與城市記憶裝置"
+      ],
+      "works": "Straßen Namen Leuchten｜2025–持續",
+      "comment": "以街名與發光構件把Mann家族的流亡、文學與城市地理重新接合，使紀念不是獨立碑體，而是嵌進日常辨路系統。",
+      "website": "https://www.publicartmuenchen.de/projekte/strassen-namen-leuchten/",
+      "workPage": "https://www.publicartmuenchen.de/projekte/strassen-namen-leuchten/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-04.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-04.jpg",
+      "classicTitle": "Straßen Namen Leuchten｜2025–持續",
+      "classicDesc": "以街名與發光構件把Mann家族的流亡、文學與城市地理重新接合，使紀念不是獨立碑體，而是嵌進日常辨路系統。",
+      "artistStatement": "以街名與發光構件把Mann家族的流亡、文學與城市地理重新接合，使紀念不是獨立碑體，而是嵌進日常辨路系統。",
+      "artistStatementSource": "https://www.publicartmuenchen.de/projekte/strassen-namen-leuchten/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "街道路牌、燈具、文字與城市記憶裝置",
+      "originalDate": "2025–持續",
+      "accessNote": "2025年12月9日起，官方頁未公布結束日。",
+      "imageSourceUrl": "https://www.publicartmuenchen.de/projekte/strassen-namen-leuchten/",
+      "imageOriginalUrl": "https://www.publicartmuenchen.de/wp-content/uploads/2025/12/DX3A6651-1920x768.jpg",
+      "imageCredit": "Public Art München作品實景；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-04",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-04.jpg",
+      "imageFallbacks": [
+        "https://www.publicartmuenchen.de/wp-content/uploads/2025/12/DX3A6651-1920x768.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:albert-coers:stra-en-namen-leuchten",
+      "workSite": "2025年12月9日起，官方頁未公布結束日。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "05｜Lee Kern｜Munich Mural",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "德國 / München",
+      "cityKeywords": [
+        "Munich",
+        "München／慕尼黑"
+      ],
+      "media": [
+        "穿孔鋁板、城市隔音牆、影像構成"
+      ],
+      "works": "Munich Mural｜2026",
+      "comment": "以穿孔鋁板把圖像轉化為Marienhof施工隔音牆的建築表皮，讓基礎設施邊界成為可遠近閱讀的城市壁畫。",
+      "website": "https://www.publicartmuenchen.de/en/projekte/munich-mural/",
+      "workPage": "https://www.publicartmuenchen.de/en/projekte/munich-mural/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-05.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-05.jpg",
+      "classicTitle": "Munich Mural｜2026",
+      "classicDesc": "以穿孔鋁板把圖像轉化為Marienhof施工隔音牆的建築表皮，讓基礎設施邊界成為可遠近閱讀的城市壁畫。",
+      "artistStatement": "以穿孔鋁板把圖像轉化為Marienhof施工隔音牆的建築表皮，讓基礎設施邊界成為可遠近閱讀的城市壁畫。",
+      "artistStatementSource": "https://www.publicartmuenchen.de/en/projekte/munich-mural/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "穿孔鋁板、城市隔音牆、影像構成",
+      "originalDate": "2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.publicartmuenchen.de/en/projekte/munich-mural/",
+      "imageOriginalUrl": "https://www.publicartmuenchen.de/wp-content/uploads/2026/05/0__MUNICH-MURAL__Lee_Kern.jpg",
+      "imageCredit": "Lee Kern／Public Art München作品實景；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-05",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-05.jpg",
+      "imageFallbacks": [
+        "https://www.publicartmuenchen.de/wp-content/uploads/2026/05/0__MUNICH-MURAL__Lee_Kern.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:lee-kern:munich-mural",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "06｜Damien Ajavon｜We Are Here",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "挪威 / Oslo",
+      "cityKeywords": [
+        "Oslo",
+        "奧斯陸"
+      ],
+      "media": [
+        "數位緹花織物、3D列印手部構件"
+      ],
+      "works": "We Are Here｜2025–2026",
+      "comment": "以織物、手勢與跨文化技法回應政府區中的身分、歸屬與可見性；完成作品攝影顯示其在建築室內的垂掛與身體尺度。",
+      "website": "https://koro.no/selected-artworks-from-the-government-quarter/",
+      "workPage": "https://koro.no/selected-artworks-from-the-government-quarter/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-06.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-06.jpg",
+      "classicTitle": "We Are Here｜2025–2026",
+      "classicDesc": "以織物、手勢與跨文化技法回應政府區中的身分、歸屬與可見性；完成作品攝影顯示其在建築室內的垂掛與身體尺度。",
+      "artistStatement": "以織物、手勢與跨文化技法回應政府區中的身分、歸屬與可見性；完成作品攝影顯示其在建築室內的垂掛與身體尺度。",
+      "artistStatementSource": "https://koro.no/selected-artworks-from-the-government-quarter/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "數位緹花織物、3D列印手部構件",
+      "originalDate": "2025–2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://koro.no/selected-artworks-from-the-government-quarter/",
+      "imageOriginalUrl": "https://koro.no/content/uploads/2026/11/KORO_Web_DAjavon_NiklasHart01-768x1152.jpg",
+      "imageCredit": "攝影 Niklas Hart／KORO",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [
+        "competition-2026-11-21-02",
+        "competition-2026-11-21-03",
+        "competition-2026-10-30-01"
+      ],
+      "id": "public-art-2026-11-23-06",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-06.jpg",
+      "imageFallbacks": [
+        "https://koro.no/content/uploads/2026/11/KORO_Web_DAjavon_NiklasHart01-768x1152.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:damien-ajavon:we-are-here",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "07｜Else Marie Hagen｜Returns",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "挪威 / Oslo",
+      "cityKeywords": [
+        "Oslo",
+        "奧斯陸"
+      ],
+      "media": [
+        "顏料輸出、攝影拼接與建築整合展示"
+      ],
+      "works": "Returns｜2024–2026",
+      "comment": "把倒下的梨樹以影像切片重新組合，讓失去、復返與記憶的斷裂在政府區公共建築中形成可閱讀的牆面。",
+      "website": "https://koro.no/selected-artworks-from-the-government-quarter/",
+      "workPage": "https://koro.no/selected-artworks-from-the-government-quarter/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-07.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-07.jpg",
+      "classicTitle": "Returns｜2024–2026",
+      "classicDesc": "把倒下的梨樹以影像切片重新組合，讓失去、復返與記憶的斷裂在政府區公共建築中形成可閱讀的牆面。",
+      "artistStatement": "把倒下的梨樹以影像切片重新組合，讓失去、復返與記憶的斷裂在政府區公共建築中形成可閱讀的牆面。",
+      "artistStatementSource": "https://koro.no/selected-artworks-from-the-government-quarter/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "顏料輸出、攝影拼接與建築整合展示",
+      "originalDate": "2024–2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://koro.no/selected-artworks-from-the-government-quarter/",
+      "imageOriginalUrl": "https://koro.no/content/uploads/2026/11/KORO_2026_Web_Else_Marie_Hagen_Foto_Niklas_Hart_01-768x1152.jpg",
+      "imageCredit": "攝影 Niklas Hart／KORO",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [
+        "competition-2026-11-21-02",
+        "competition-2026-11-21-03",
+        "competition-2026-10-30-01"
+      ],
+      "id": "public-art-2026-11-23-07",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-07.jpg",
+      "imageFallbacks": [
+        "https://koro.no/content/uploads/2026/11/KORO_2026_Web_Else_Marie_Hagen_Foto_Niklas_Hart_01-768x1152.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:else-marie-hagen:returns",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "08｜Ahmed Umar｜Glowing Phalanges",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "挪威 / Oslo",
+      "cityKeywords": [
+        "Oslo",
+        "奧斯陸"
+      ],
+      "media": [
+        "十五件雕塑、天然材料與護符形態"
+      ],
+      "works": "Glowing Phalanges｜2025–2026",
+      "comment": "十五件如護符般的雕塑把骨節、信仰物件與跨文化身分帶入政府區，藉重複序列建立身體與制度空間之間的張力。",
+      "website": "https://koro.no/prosjekter/nytt-regjeringskvartal/",
+      "workPage": "https://koro.no/prosjekter/nytt-regjeringskvartal/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-08.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-08.jpg",
+      "classicTitle": "Glowing Phalanges｜2025–2026",
+      "classicDesc": "十五件如護符般的雕塑把骨節、信仰物件與跨文化身分帶入政府區，藉重複序列建立身體與制度空間之間的張力。",
+      "artistStatement": "十五件如護符般的雕塑把骨節、信仰物件與跨文化身分帶入政府區，藉重複序列建立身體與制度空間之間的張力。",
+      "artistStatementSource": "https://koro.no/prosjekter/nytt-regjeringskvartal/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "十五件雕塑、天然材料與護符形態",
+      "originalDate": "2025–2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://koro.no/prosjekter/nytt-regjeringskvartal/",
+      "imageOriginalUrl": "https://koro.no/content/uploads/2025/09/KORO.008503_1-scaled.jpg",
+      "imageCredit": "KORO作品紀錄；完整攝影署名見官方頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [
+        "competition-2026-11-21-02",
+        "competition-2026-11-21-03",
+        "competition-2026-10-30-01"
+      ],
+      "id": "public-art-2026-11-23-08",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-08.jpg",
+      "imageFallbacks": [
+        "https://koro.no/content/uploads/2025/09/KORO.008503_1-scaled.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:ahmed-umar:glowing-phalanges",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "09｜Lotte Konow Lund｜Politisk depot",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "挪威 / Oslo",
+      "cityKeywords": [
+        "Oslo",
+        "奧斯陸"
+      ],
+      "media": [
+        "繪畫、檔案與建築整合裝置"
+      ],
+      "works": "Politisk depot｜2025",
+      "comment": "以政治圖像、檔案感與手繪痕跡建立一處「政治倉庫」，讓國家權力空間同時容納不確定、草稿與被壓低的歷史聲音。",
+      "website": "https://koro.no/kunstverk/politisk-depot/",
+      "workPage": "https://koro.no/kunstverk/politisk-depot/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-09.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-09.jpg",
+      "classicTitle": "Politisk depot｜2025",
+      "classicDesc": "以政治圖像、檔案感與手繪痕跡建立一處「政治倉庫」，讓國家權力空間同時容納不確定、草稿與被壓低的歷史聲音。",
+      "artistStatement": "以政治圖像、檔案感與手繪痕跡建立一處「政治倉庫」，讓國家權力空間同時容納不確定、草稿與被壓低的歷史聲音。",
+      "artistStatementSource": "https://koro.no/kunstverk/politisk-depot/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "繪畫、檔案與建築整合裝置",
+      "originalDate": "2025",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://koro.no/kunstverk/politisk-depot/",
+      "imageOriginalUrl": "https://koro.no/content/uploads/2025/09/LKN-5083-scaled.jpg",
+      "imageCredit": "KORO作品實景；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [
+        "competition-2026-11-21-02",
+        "competition-2026-11-21-03",
+        "competition-2026-10-30-01"
+      ],
+      "id": "public-art-2026-11-23-09",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-09.jpg",
+      "imageFallbacks": [
+        "https://koro.no/content/uploads/2025/09/LKN-5083-scaled.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:lotte-konow-lund:politisk-depot",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "10｜Lars Sandås｜Byen fra ankelhøyde (VII)",
+      "category": "作品/展覽",
+      "tier": "動態情報層",
+      "region": "西方",
+      "country": "挪威 / Oslo",
+      "cityKeywords": [
+        "Oslo",
+        "奧斯陸"
+      ],
+      "media": [
+        "素描、紙本與建築整合展示"
+      ],
+      "works": "Byen fra ankelhøyde (VII)｜2025",
+      "comment": "從腳踝高度觀看城市，把通常被忽略的地面、移動與微小尺度帶入政府建築，使公共空間不再只由宏觀視線定義。",
+      "website": "https://koro.no/kunstverk/byen-fra-ankelhoyde-vii/",
+      "workPage": "https://koro.no/kunstverk/byen-fra-ankelhoyde-vii/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-10.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-10.jpg",
+      "classicTitle": "Byen fra ankelhøyde (VII)｜2025",
+      "classicDesc": "從腳踝高度觀看城市，把通常被忽略的地面、移動與微小尺度帶入政府建築，使公共空間不再只由宏觀視線定義。",
+      "artistStatement": "從腳踝高度觀看城市，把通常被忽略的地面、移動與微小尺度帶入政府建築，使公共空間不再只由宏觀視線定義。",
+      "artistStatementSource": "https://koro.no/kunstverk/byen-fra-ankelhoyde-vii/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "素描、紙本與建築整合展示",
+      "originalDate": "2025",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://koro.no/kunstverk/byen-fra-ankelhoyde-vii/",
+      "imageOriginalUrl": "https://koro.no/content/uploads/2025/09/scan_2025-07-23_12-51-50_v1-scaled.jpg",
+      "imageCredit": "KORO作品紀錄；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [
+        "competition-2026-11-21-02",
+        "competition-2026-11-21-03",
+        "competition-2026-10-30-01"
+      ],
+      "id": "public-art-2026-11-23-10",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-10.jpg",
+      "imageFallbacks": [
+        "https://koro.no/content/uploads/2025/09/scan_2025-07-23_12-51-50_v1-scaled.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "current",
+      "dedupeKey": "art:daily-20261123:lars-sand-s:byen-fra-ankelh-yde-vii",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "11｜Sarah Sze｜The Waiting Room",
+      "category": "作品/展覽",
+      "tier": "全球經典",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "紙、金屬管、投影、光與場域裝置"
+      ],
+      "works": "The Waiting Room｜2023",
+      "comment": "在維多利亞時代候車室中以紙片、金屬骨架與投影形成旋轉般的影像環境，使觀看在建築殘跡、時間與光之間不斷重組。",
+      "website": "https://www.artangel.org.uk/project/sarah-sze/",
+      "workPage": "https://www.artangel.org.uk/project/sarah-sze/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-11.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-11.jpg",
+      "classicTitle": "The Waiting Room｜2023",
+      "classicDesc": "在維多利亞時代候車室中以紙片、金屬骨架與投影形成旋轉般的影像環境，使觀看在建築殘跡、時間與光之間不斷重組。",
+      "artistStatement": "在維多利亞時代候車室中以紙片、金屬骨架與投影形成旋轉般的影像環境，使觀看在建築殘跡、時間與光之間不斷重組。",
+      "artistStatementSource": "https://www.artangel.org.uk/project/sarah-sze/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "紙、金屬管、投影、光與場域裝置",
+      "originalDate": "2023",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.artangel.org.uk/project/sarah-sze/",
+      "imageOriginalUrl": "https://media.artangel.org.uk/images/2023twr_001_1.2e16d0ba.fill-2000x500.jpg",
+      "imageCredit": "Sarah Sze《The Waiting Room》；Artangel官方圖說",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [
+        "competition-2026-11-11-01"
+      ],
+      "id": "public-art-2026-11-23-11",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-11.jpg",
+      "imageFallbacks": [
+        "https://media.artangel.org.uk/images/2023twr_001_1.2e16d0ba.fill-2000x500.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "globalClassic",
+      "dedupeKey": "art:daily-20261123:sarah-sze:the-waiting-room",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "12｜Steve McQueen｜Weight",
+      "category": "作品/展覽",
+      "tier": "全球經典",
+      "region": "西方",
+      "country": "英國 / Reading",
+      "cityKeywords": [
+        "Reading",
+        "雷丁"
+      ],
+      "media": [
+        "鍍金蚊帳、監獄牢房場域裝置"
+      ],
+      "works": "Weight｜2016",
+      "comment": "在Reading監獄牢房內以金色蚊帳包覆床位，讓保護、脆弱、囚禁與尊嚴集中於最小的生活單元。",
+      "website": "https://www.artangel.org.uk/project/inside/",
+      "workPage": "https://www.artangel.org.uk/project/inside/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-12.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-12.jpg",
+      "classicTitle": "Weight｜2016",
+      "classicDesc": "在Reading監獄牢房內以金色蚊帳包覆床位，讓保護、脆弱、囚禁與尊嚴集中於最小的生活單元。",
+      "artistStatement": "在Reading監獄牢房內以金色蚊帳包覆床位，讓保護、脆弱、囚禁與尊嚴集中於最小的生活單元。",
+      "artistStatementSource": "https://www.artangel.org.uk/project/inside/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "鍍金蚊帳、監獄牢房場域裝置",
+      "originalDate": "2016",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.artangel.org.uk/project/inside/",
+      "imageOriginalUrl": "https://media.artangel.org.uk/images/2016i_26.width-2000_ch7HNV9.jpg",
+      "imageCredit": "攝影 Sandra Keating，2016；Artangel官方圖說",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-12",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-12.jpg",
+      "imageFallbacks": [
+        "https://media.artangel.org.uk/images/2016i_26.width-2000_ch7HNV9.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "globalClassic",
+      "dedupeKey": "art:daily-20261123:steve-mcqueen:weight",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "13｜Katrina Palmer｜End Matter",
+      "category": "作品/展覽",
+      "tier": "全球經典",
+      "region": "西方",
+      "country": "英國 / Isle of Portland",
+      "cityKeywords": [
+        "Isle of Portland",
+        "波特蘭島"
+      ],
+      "media": [
+        "聲音、步行、文字與採石場場域計畫"
+      ],
+      "works": "End Matter｜2015",
+      "comment": "以聲音與步行把石材開採、缺席和島嶼地質串聯，觀眾在實際路徑中經驗雕塑材料被移除後留下的空洞。",
+      "website": "https://www.artangel.org.uk/project/end-matter/",
+      "workPage": "https://www.artangel.org.uk/project/end-matter/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-13.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-13.jpg",
+      "classicTitle": "End Matter｜2015",
+      "classicDesc": "以聲音與步行把石材開採、缺席和島嶼地質串聯，觀眾在實際路徑中經驗雕塑材料被移除後留下的空洞。",
+      "artistStatement": "以聲音與步行把石材開採、缺席和島嶼地質串聯，觀眾在實際路徑中經驗雕塑材料被移除後留下的空洞。",
+      "artistStatementSource": "https://www.artangel.org.uk/project/end-matter/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "聲音、步行、文字與採石場場域計畫",
+      "originalDate": "2015",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.artangel.org.uk/project/end-matter/",
+      "imageOriginalUrl": "https://media.artangel.org.uk/images/2015em_credits.max-800x800.jpg",
+      "imageCredit": "攝影 Brendan Buesnel；Artangel官方圖說",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-13",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-13.jpg",
+      "imageFallbacks": [
+        "https://media.artangel.org.uk/images/2015em_credits.max-800x800.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "globalClassic",
+      "dedupeKey": "art:daily-20261123:katrina-palmer:end-matter",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "14｜Ben Rivers｜The Two Eyes Are Not Brothers",
+      "category": "作品/展覽",
+      "tier": "全球經典",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "多頻道影片、電影道具與廢棄電視中心場域裝置"
+      ],
+      "works": "The Two Eyes Are Not Brothers｜2015",
+      "comment": "把摩洛哥拍攝素材、電影道具與BBC Television Centre的殘存空間交織，讓虛構、製片現場與建築記憶彼此滲透。",
+      "website": "https://www.artangel.org.uk/project/the-two-eyes-are-not-brothers/",
+      "workPage": "https://www.artangel.org.uk/project/the-two-eyes-are-not-brothers/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-14.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-14.jpg",
+      "classicTitle": "The Two Eyes Are Not Brothers｜2015",
+      "classicDesc": "把摩洛哥拍攝素材、電影道具與BBC Television Centre的殘存空間交織，讓虛構、製片現場與建築記憶彼此滲透。",
+      "artistStatement": "把摩洛哥拍攝素材、電影道具與BBC Television Centre的殘存空間交織，讓虛構、製片現場與建築記憶彼此滲透。",
+      "artistStatementSource": "https://www.artangel.org.uk/project/the-two-eyes-are-not-brothers/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "多頻道影片、電影道具與廢棄電視中心場域裝置",
+      "originalDate": "2015",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.artangel.org.uk/project/the-two-eyes-are-not-brothers/",
+      "imageOriginalUrl": "https://media.artangel.org.uk/images/2015tteanb_01.2e16d0ba.fill-2000x500_lWhtJ4w.jpg",
+      "imageCredit": "攝影 Marcus Leith；Artangel官方圖說",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [
+        "competition-2026-11-11-01"
+      ],
+      "id": "public-art-2026-11-23-14",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-14.jpg",
+      "imageFallbacks": [
+        "https://media.artangel.org.uk/images/2015tteanb_01.2e16d0ba.fill-2000x500_lWhtJ4w.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "globalClassic",
+      "dedupeKey": "art:daily-20261123:ben-rivers:the-two-eyes-are-not-brothers",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "15｜Grayson Perry／FAT Architecture｜A House for Essex",
+      "category": "作品/展覽",
+      "tier": "全球經典",
+      "region": "西方",
+      "country": "英國 / Essex",
+      "cityKeywords": [
+        "Wrabness",
+        "Wrabness／拉布尼斯"
+      ],
+      "media": [
+        "建築、陶瓷磚、鋁鑄件、織品與沉浸式公共住宿"
+      ],
+      "works": "A House for Essex｜2015",
+      "comment": "以虛構人物Julie Cope的生命史建構可居住的世俗禮拜堂，把地方神話、裝飾、建築與藝術整合成可由公眾入住的完整作品。",
+      "website": "https://charleshollandarchitects.co.uk/projects/a-house-for-essex/",
+      "workPage": "https://charleshollandarchitects.co.uk/projects/a-house-for-essex/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-15.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-15.jpg",
+      "classicTitle": "A House for Essex｜2015",
+      "classicDesc": "以虛構人物Julie Cope的生命史建構可居住的世俗禮拜堂，把地方神話、裝飾、建築與藝術整合成可由公眾入住的完整作品。",
+      "artistStatement": "以虛構人物Julie Cope的生命史建構可居住的世俗禮拜堂，把地方神話、裝飾、建築與藝術整合成可由公眾入住的完整作品。",
+      "artistStatementSource": "https://charleshollandarchitects.co.uk/projects/a-house-for-essex/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "建築、陶瓷磚、鋁鑄件、織品與沉浸式公共住宿",
+      "originalDate": "2015",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://charleshollandarchitects.co.uk/projects/a-house-for-essex/",
+      "imageOriginalUrl": "https://charleshollandarchitects.co.uk/wp-content/uploads/2024/06/a-house-for-essex.webp",
+      "imageCredit": "Charles Holland Architects作品實景；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-15",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-15.jpg",
+      "imageFallbacks": [
+        "https://charleshollandarchitects.co.uk/wp-content/uploads/2024/06/a-house-for-essex.webp"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "globalClassic",
+      "dedupeKey": "art:daily-20261123:grayson-perry-fat-architecture:a-house-for-essex",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "16｜Rainer Fest｜Interior Space",
+      "category": "作品/展覽",
+      "tier": "德語文化脈絡經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "粉紅色Porino花崗岩、可進入雕塑"
+      ],
+      "works": "Interior Space｜1997",
+      "comment": "由原重約180噸的花崗岩巨石鑿出可進入空間，作為地面物質對地下高效能電腦與二進位邏輯的巨大反重。",
+      "website": "https://bildhauerei-in-berlin.de/bildwerk/interior-space-8535/",
+      "workPage": "https://bildhauerei-in-berlin.de/bildwerk/interior-space-8535/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-16.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-16.jpg",
+      "classicTitle": "Interior Space｜1997",
+      "classicDesc": "由原重約180噸的花崗岩巨石鑿出可進入空間，作為地面物質對地下高效能電腦與二進位邏輯的巨大反重。",
+      "artistStatement": "由原重約180噸的花崗岩巨石鑿出可進入空間，作為地面物質對地下高效能電腦與二進位邏輯的巨大反重。",
+      "artistStatementSource": "https://bildhauerei-in-berlin.de/bildwerk/interior-space-8535/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "粉紅色Porino花崗岩、可進入雕塑",
+      "originalDate": "1997",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://bildhauerei-in-berlin.de/bildwerk/interior-space-8535/",
+      "imageOriginalUrl": "https://bildhauerei-in-berlin.de/wp-content/uploads/055134ac-3401-487c-b5c9-29b152dadfe6.jpg",
+      "imageCredit": "Bildhauerei in Berlin作品檔案；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-16",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-16.jpg",
+      "imageFallbacks": [
+        "https://bildhauerei-in-berlin.de/wp-content/uploads/055134ac-3401-487c-b5c9-29b152dadfe6.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "germanClassic",
+      "dedupeKey": "art:daily-20261123:rainer-fest:interior-space",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "17｜Brigitte und Martin Matschinsky-Denninghoff｜Dreiheit",
+      "category": "作品/展覽",
+      "tier": "德語文化脈絡經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "鉻鎳鋼、鑄造與焊接"
+      ],
+      "works": "Dreiheit｜1992–1993（2004設置）",
+      "comment": "三個巨型圓形構件彼此穿繞，以拋光金屬、重量與空隙把抽象雕塑轉成城市尺度的動態結構。",
+      "website": "https://bildhauerei-in-berlin.de/bildwerk/dreiheit-6070/",
+      "workPage": "https://bildhauerei-in-berlin.de/bildwerk/dreiheit-6070/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-17.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-17.jpg",
+      "classicTitle": "Dreiheit｜1992–1993（2004設置）",
+      "classicDesc": "三個巨型圓形構件彼此穿繞，以拋光金屬、重量與空隙把抽象雕塑轉成城市尺度的動態結構。",
+      "artistStatement": "三個巨型圓形構件彼此穿繞，以拋光金屬、重量與空隙把抽象雕塑轉成城市尺度的動態結構。",
+      "artistStatementSource": "https://bildhauerei-in-berlin.de/bildwerk/dreiheit-6070/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "鉻鎳鋼、鑄造與焊接",
+      "originalDate": "1992–1993（2004設置）",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://bildhauerei-in-berlin.de/bildwerk/dreiheit-6070/",
+      "imageOriginalUrl": "https://bildhauerei-in-berlin.de/wp-content/uploads/86932b71-577e-4bbb-929b-3177523fe7b9.jpg",
+      "imageCredit": "Bildhauerei in Berlin作品檔案；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-17",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-17.jpg",
+      "imageFallbacks": [
+        "https://bildhauerei-in-berlin.de/wp-content/uploads/86932b71-577e-4bbb-929b-3177523fe7b9.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "germanClassic",
+      "dedupeKey": "art:daily-20261123:brigitte-und-martin-matschinsky-denninghoff:dreiheit",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "18｜Pierre Székely｜Contact",
+      "category": "作品/展覽",
+      "tier": "德語文化脈絡經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "灰色貝殼石灰岩、鑿刻"
+      ],
+      "works": "Contact｜1963",
+      "comment": "作為1963年雕塑研討會成果，以厚重石灰岩的孔洞、接合與表面鑿痕把「接觸」轉為可從多方向環繞的抽象關係。",
+      "website": "https://bildhauerei-in-berlin.de/bildwerk/contact-5278/",
+      "workPage": "https://bildhauerei-in-berlin.de/bildwerk/contact-5278/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-18.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-18.jpg",
+      "classicTitle": "Contact｜1963",
+      "classicDesc": "作為1963年雕塑研討會成果，以厚重石灰岩的孔洞、接合與表面鑿痕把「接觸」轉為可從多方向環繞的抽象關係。",
+      "artistStatement": "作為1963年雕塑研討會成果，以厚重石灰岩的孔洞、接合與表面鑿痕把「接觸」轉為可從多方向環繞的抽象關係。",
+      "artistStatementSource": "https://bildhauerei-in-berlin.de/bildwerk/contact-5278/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "灰色貝殼石灰岩、鑿刻",
+      "originalDate": "1963",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://bildhauerei-in-berlin.de/bildwerk/contact-5278/",
+      "imageOriginalUrl": "https://bildhauerei-in-berlin.de/wp-content/uploads/673a4168-3a73-4334-8f67-2904a0c5f176.jpg",
+      "imageCredit": "Bildhauerei in Berlin作品檔案；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-18",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-18.jpg",
+      "imageFallbacks": [
+        "https://bildhauerei-in-berlin.de/wp-content/uploads/673a4168-3a73-4334-8f67-2904a0c5f176.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "germanClassic",
+      "dedupeKey": "art:daily-20261123:pierre-sz-kely:contact",
+      "workSite": "參訪與開放條件以主辦單位當日公告為準。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "19｜Micha Ullman｜Nobody",
+      "category": "作品/展覽",
+      "tier": "德語文化脈絡經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "COR-TEN耐候鋼"
+      ],
+      "works": "Nobody｜1990（2004設置）",
+      "comment": "以耐候鋼構成空缺、遮蔽與「無人」的抽象體量，曾位於猶太博物館對面；官方記錄指出2020年中起已不在原址。",
+      "website": "https://bildhauerei-in-berlin.de/bildwerk/nobody-6069/",
+      "workPage": "https://bildhauerei-in-berlin.de/bildwerk/nobody-6069/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-19.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-19.jpg",
+      "classicTitle": "Nobody｜1990（2004設置）",
+      "classicDesc": "以耐候鋼構成空缺、遮蔽與「無人」的抽象體量，曾位於猶太博物館對面；官方記錄指出2020年中起已不在原址。",
+      "artistStatement": "以耐候鋼構成空缺、遮蔽與「無人」的抽象體量，曾位於猶太博物館對面；官方記錄指出2020年中起已不在原址。",
+      "artistStatementSource": "https://bildhauerei-in-berlin.de/bildwerk/nobody-6069/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "COR-TEN耐候鋼",
+      "originalDate": "1990（2004設置）",
+      "accessNote": "歷史作品；2020年中起不在原址，僅作經典檔案，不標示為現場可見。",
+      "imageSourceUrl": "https://bildhauerei-in-berlin.de/bildwerk/nobody-6069/",
+      "imageOriginalUrl": "https://bildhauerei-in-berlin.de/wp-content/uploads/a642bcd0-f5cd-461a-b783-c98e2eecf6e3.jpg",
+      "imageCredit": "Bildhauerei in Berlin作品檔案；完整攝影署名見原頁",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-19",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-19.jpg",
+      "imageFallbacks": [
+        "https://bildhauerei-in-berlin.de/wp-content/uploads/a642bcd0-f5cd-461a-b783-c98e2eecf6e3.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "germanClassic",
+      "dedupeKey": "art:daily-20261123:micha-ullman:nobody",
+      "workSite": "歷史作品；2020年中起不在原址，僅作經典檔案，不標示為現場可見。",
+      "siteTypes": [
+        "public-space"
+      ]
+    },
+    {
+      "name": "20｜Keith Haring｜The Boxers",
+      "category": "作品/展覽",
+      "tier": "德語文化脈絡經典",
+      "region": "西方",
+      "country": "德國 / Berlin",
+      "cityKeywords": [
+        "Berlin",
+        "柏林"
+      ],
+      "media": [
+        "塗裝鋼板、抽象人物輪廓"
+      ],
+      "works": "The Boxers｜1987（約1998設置）",
+      "comment": "紅藍鋼板人物以手臂穿過彼此頭身孔洞，將Haring的線性語彙轉成立體相扣；官方記錄指出2025年起移往斯圖加特。",
+      "website": "https://bildhauerei-in-berlin.de/bildwerk/the-boxers-4860/",
+      "workPage": "https://bildhauerei-in-berlin.de/bildwerk/the-boxers-4860/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-20.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/public-art-2026-11-23-20.jpg",
+      "classicTitle": "The Boxers｜1987（約1998設置）",
+      "classicDesc": "紅藍鋼板人物以手臂穿過彼此頭身孔洞，將Haring的線性語彙轉成立體相扣；官方記錄指出2025年起移往斯圖加特。",
+      "artistStatement": "紅藍鋼板人物以手臂穿過彼此頭身孔洞，將Haring的線性語彙轉成立體相扣；官方記錄指出2025年起移往斯圖加特。",
+      "artistStatementSource": "https://bildhauerei-in-berlin.de/bildwerk/the-boxers-4860/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "塗裝鋼板、抽象人物輪廓",
+      "originalDate": "1987（約1998設置）",
+      "accessNote": "歷史作品；2025年起已移離柏林原址，僅作經典檔案。",
+      "imageSourceUrl": "https://bildhauerei-in-berlin.de/bildwerk/the-boxers-4860/",
+      "imageOriginalUrl": "https://bildhauerei-in-berlin.de/wp-content/uploads/TIE_086_Layla-Fetzer_2022_05-scaled.jpg",
+      "imageCredit": "攝影 Layla Fetzer，2022，CC BY 4.0／Bildhauerei in Berlin",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "public-art-2026-11-23-20",
+      "imageCachedPath": "assets/images/daily-20261123/public-art-2026-11-23-20.jpg",
+      "imageFallbacks": [
+        "https://bildhauerei-in-berlin.de/wp-content/uploads/TIE_086_Layla-Fetzer_2022_05-scaled.jpg"
+      ],
+      "imageCaption": "對應作品或展場實景照片；等比例JPEG研究預覽，未另裁切",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "researchGroup": "germanClassic",
+      "dedupeKey": "art:daily-20261123:keith-haring:the-boxers",
+      "workSite": "歷史作品；2025年起已移離柏林原址，僅作經典檔案。",
+      "siteTypes": [
+        "public-space"
+      ]
+    }
+  ]
+}

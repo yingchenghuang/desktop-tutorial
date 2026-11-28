@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-23",
+  "validatedAt": "2026-11-29T05:00:00+08:00",
+  "publicArt": {
+    "total": 20,
+    "distribution": {
+      "current": 10,
+      "globalClassic": 5,
+      "germanClassic": 5
+    },
+    "competitionRowsMixedIn": []
+  },
+  "competitions": {
+    "added": 5,
+    "activeTotal": 127,
+    "expiredOrInvalid": []
+  },
+  "exhibitions": {
+    "added": 5
+  },
+  "newDedupeKeys": {
+    "total": 30,
+    "unique": 30,
+    "duplicates": [],
+    "priorHits": []
+  },
+  "publicArtIdentityDuplicates": 0,
+  "requiredFieldOrImageErrors": [],
+  "cityKeywordsMissing": [],
+  "crossCityLinks": {
+    "storedLinks": 17,
+    "brokenTargets": [],
+    "frontendDynamicMatch": "assets/app.js依cityKeywords載入全庫時再計算"
+  },
+  "passed": true
+}

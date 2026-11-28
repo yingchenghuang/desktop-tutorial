@@ -1,6 +1,6 @@
 {
-  "version": "20261122-daily-photos-r152",
-  "generatedAt": "2026-11-26T05:00:00+08:00",
+  "version": "20261123-backfill-photos-r153",
+  "generatedAt": "2026-11-29T05:00:00+08:00",
   "files": [
     "exhibitions.json",
     "exhibitions-galleriesnow-backfill-20261119-01.json",
@@ -11,18 +11,19 @@
     "exhibitions-galleriesnow-20261119.json",
     "exhibitions-galleriesnow-20261120.json",
     "exhibitions-galleriesnow-20261121.json",
-    "exhibitions-galleriesnow-20261122.json"
+    "exhibitions-galleriesnow-20261122.json",
+    "exhibitions-galleriesnow-20261123.json"
   ],
   "dailyTarget": 5,
-  "totalEntries": 279,
+  "totalEntries": 284,
   "addedToday": 5,
   "officialSourceEntries": 54,
   "imageEntries": 55,
-  "note": "11月22日新增5則國際展覽，展期完整且使用作品／展場影像；既有展覽與待核線索保留。",
+  "note": "11月23日補檔5則國際展覽；保留來源刊期、實際展期與補登時間。",
   "weeklyTarget": 5,
   "backfilledEntries": 209,
   "backfillSourcePeriod": "2026-11-03 至 2026-11-10",
-  "sourceCheckedDate": "2026-11-22",
+  "sourceCheckedDate": "2026-11-28",
   "imageSourceEntries": 224,
   "linkedImageEntries": 219,
   "sourcePendingEntries": 10

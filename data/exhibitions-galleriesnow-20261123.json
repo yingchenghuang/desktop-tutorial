@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "date": "2026-11-23",
+    "generatedAt": "2026-11-28T05:00:00+08:00",
+    "total": 5,
+    "sourcePublicationWindow": "2026-11-17/2026-11-24",
+    "note": "11月23日補檔；五展於該日均在完整展期內，使用GalleriesNow展場實景並保留實際展期。"
+  },
+  "entries": [
+    {
+      "name": "Anne Holtrop｜Low-relief",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "依展覽作品資料"
+      ],
+      "works": "Low-relief｜2026",
+      "comment": "三件鑄玻璃功能性作品讓砂模低浮雕痕跡折射光線，將玻璃的液態轉固態過程、建築平衡與場域光影放在同一空間中。",
+      "website": "https://www.galleriesnow.net/shows/anne-holtrop-low-relief/",
+      "workPage": "https://www.galleriesnow.net/shows/anne-holtrop-low-relief/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-01.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-01.jpg",
+      "classicTitle": "Low-relief｜2026",
+      "classicDesc": "三件鑄玻璃功能性作品讓砂模低浮雕痕跡折射光線，將玻璃的液態轉固態過程、建築平衡與場域光影放在同一空間中。",
+      "artistStatement": "三件鑄玻璃功能性作品讓砂模低浮雕痕跡折射光線，將玻璃的液態轉固態過程、建築平衡與場域光影放在同一空間中。",
+      "artistStatementSource": "https://www.galleriesnow.net/shows/anne-holtrop-low-relief/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/anne-holtrop-low-relief/",
+      "imageOriginalUrl": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Carpenters-Anne-Holtrop-800x450.webp",
+      "imageCredit": "GalleriesNow／Carpenters展場實景",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261123-01",
+      "imageCachedPath": "assets/images/daily-20261123/exhibition-gn-20261123-01.jpg",
+      "imageFallbacks": [
+        "https://www.galleriesnow.net/wp-content/uploads/2026/11/Carpenters-Anne-Holtrop-800x450.webp"
+      ],
+      "imageCaption": "展場實景影像，非藝術家肖像",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "dedupeKey": "exhibition:galleriesnow:low-relief",
+      "sourceName": "GalleriesNow",
+      "startDate": "2026-10-13",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Carpenters，79 Barlby Road, London",
+      "venue": "Carpenters，79 Barlby Road, London",
+      "admission": "未公開；依場館公告",
+      "researchSources": [
+        {
+          "label": "GalleriesNow展覽頁",
+          "url": "https://www.galleriesnow.net/shows/anne-holtrop-low-relief/"
+        }
+      ]
+    },
+    {
+      "name": "群展｜Dissent: Notes from Underground",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "依展覽作品資料"
+      ],
+      "works": "Dissent: Notes from Underground｜2026",
+      "comment": "在Ladbroke Hall地下新展場集結雕塑、家具與材料實驗，以反常尺度、結構和工藝方法質疑功能與設計規訓。",
+      "website": "https://www.galleriesnow.net/shows/dissent-notes-from-underground/",
+      "workPage": "https://www.galleriesnow.net/shows/dissent-notes-from-underground/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-02.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-02.jpg",
+      "classicTitle": "Dissent: Notes from Underground｜2026",
+      "classicDesc": "在Ladbroke Hall地下新展場集結雕塑、家具與材料實驗，以反常尺度、結構和工藝方法質疑功能與設計規訓。",
+      "artistStatement": "在Ladbroke Hall地下新展場集結雕塑、家具與材料實驗，以反常尺度、結構和工藝方法質疑功能與設計規訓。",
+      "artistStatementSource": "https://www.galleriesnow.net/shows/dissent-notes-from-underground/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/dissent-notes-from-underground/",
+      "imageOriginalUrl": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Carpenters-London-Dissent-800x450.webp",
+      "imageCredit": "GalleriesNow／Carpenters展場實景",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261123-02",
+      "imageCachedPath": "assets/images/daily-20261123/exhibition-gn-20261123-02.jpg",
+      "imageFallbacks": [
+        "https://www.galleriesnow.net/wp-content/uploads/2026/11/Carpenters-London-Dissent-800x450.webp"
+      ],
+      "imageCaption": "展場實景影像，非藝術家肖像",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "dedupeKey": "exhibition:galleriesnow:dissent-notes-from-underground",
+      "sourceName": "GalleriesNow",
+      "startDate": "2026-10-13",
+      "endDate": "2026-12-19",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Carpenters，79 Barlby Road, London",
+      "venue": "Carpenters，79 Barlby Road, London",
+      "admission": "未公開；依場館公告",
+      "researchSources": [
+        {
+          "label": "GalleriesNow展覽頁",
+          "url": "https://www.galleriesnow.net/shows/dissent-notes-from-underground/"
+        }
+      ]
+    },
+    {
+      "name": "群展｜Gathering Tree",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "依展覽作品資料"
+      ],
+      "works": "Gathering Tree｜2026",
+      "comment": "十七位藝術家以黃銅、織品、紙、陶土與燈光製作小型作品，共同組成一棵由集體累積才完成的雕塑。",
+      "website": "https://www.galleriesnow.net/shows/gathering-tree/",
+      "workPage": "https://www.galleriesnow.net/shows/gathering-tree/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-03.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-03.jpg",
+      "classicTitle": "Gathering Tree｜2026",
+      "classicDesc": "十七位藝術家以黃銅、織品、紙、陶土與燈光製作小型作品，共同組成一棵由集體累積才完成的雕塑。",
+      "artistStatement": "十七位藝術家以黃銅、織品、紙、陶土與燈光製作小型作品，共同組成一棵由集體累積才完成的雕塑。",
+      "artistStatementSource": "https://www.galleriesnow.net/shows/gathering-tree/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/gathering-tree/",
+      "imageOriginalUrl": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Ruup-Form-Gathering-Tree-1-800x533.webp",
+      "imageCredit": "GalleriesNow／Ruup & Form展場實景",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261123-03",
+      "imageCachedPath": "assets/images/daily-20261123/exhibition-gn-20261123-03.jpg",
+      "imageFallbacks": [
+        "https://www.galleriesnow.net/wp-content/uploads/2026/11/Ruup-Form-Gathering-Tree-1-800x533.webp"
+      ],
+      "imageCaption": "展場實景影像，非藝術家肖像",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "dedupeKey": "exhibition:galleriesnow:gathering-tree",
+      "sourceName": "GalleriesNow",
+      "startDate": "2026-11-20",
+      "endDate": "2026-12-18",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Ruup & Form，7 Tilney Court, London",
+      "venue": "Ruup & Form，7 Tilney Court, London",
+      "admission": "未公開；依場館公告",
+      "researchSources": [
+        {
+          "label": "GalleriesNow展覽頁",
+          "url": "https://www.galleriesnow.net/shows/gathering-tree/"
+        }
+      ]
+    },
+    {
+      "name": "Christopher Le Brun｜The Mind’s Weather",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "依展覽作品資料"
+      ],
+      "works": "The Mind’s Weather｜2026",
+      "comment": "新作繪畫在可見風景與內在經驗之間往返，以光、層次與筆勢把繪畫當作直覺與反思並存的天氣系統。",
+      "website": "https://www.galleriesnow.net/shows/christopher-le-brun-the-minds-weather/",
+      "workPage": "https://www.galleriesnow.net/shows/christopher-le-brun-the-minds-weather/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-04.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-04.jpg",
+      "classicTitle": "The Mind’s Weather｜2026",
+      "classicDesc": "新作繪畫在可見風景與內在經驗之間往返，以光、層次與筆勢把繪畫當作直覺與反思並存的天氣系統。",
+      "artistStatement": "新作繪畫在可見風景與內在經驗之間往返，以光、層次與筆勢把繪畫當作直覺與反思並存的天氣系統。",
+      "artistStatementSource": "https://www.galleriesnow.net/shows/christopher-le-brun-the-minds-weather/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/christopher-le-brun-the-minds-weather/",
+      "imageOriginalUrl": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Lisson-London-Christopher-Le-Brun-1-800x600.webp",
+      "imageCredit": "GalleriesNow／Lisson Gallery展場實景",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261123-04",
+      "imageCachedPath": "assets/images/daily-20261123/exhibition-gn-20261123-04.jpg",
+      "imageFallbacks": [
+        "https://www.galleriesnow.net/wp-content/uploads/2026/11/Lisson-London-Christopher-Le-Brun-1-800x600.webp"
+      ],
+      "imageCaption": "展場實景影像，非藝術家肖像",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "dedupeKey": "exhibition:galleriesnow:the-mind-s-weather",
+      "sourceName": "GalleriesNow",
+      "startDate": "2026-11-20",
+      "endDate": "2027-02-06",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Lisson Gallery，27 Bell Street, London",
+      "venue": "Lisson Gallery，27 Bell Street, London",
+      "admission": "未公開；依場館公告",
+      "researchSources": [
+        {
+          "label": "GalleriesNow展覽頁",
+          "url": "https://www.galleriesnow.net/shows/christopher-le-brun-the-minds-weather/"
+        }
+      ]
+    },
+    {
+      "name": "Dana Awartani｜Give and be generous with all your hand possesses",
+      "category": "國際展覽",
+      "tier": "全球重要展覽",
+      "region": "西方",
+      "country": "英國 / London",
+      "cityKeywords": [
+        "London",
+        "倫敦"
+      ],
+      "media": [
+        "依展覽作品資料"
+      ],
+      "works": "Give and be generous with all your hand possesses｜2026",
+      "comment": "手工磚地與紙上作品重建已被戰爭摧毀的裝飾馬賽克，使修復、缺失、文化遺產與身體行走成為同一個展場經驗。",
+      "website": "https://www.galleriesnow.net/shows/dana-awartani-give-and-be-generous-with-all-your-hand-possesses/",
+      "workPage": "https://www.galleriesnow.net/shows/dana-awartani-give-and-be-generous-with-all-your-hand-possesses/",
+      "photo": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-05.jpg",
+      "classicImage": "https://yingchenghuang.github.io/desktop-tutorial/assets/images/daily-20261123/exhibition-gn-20261123-05.jpg",
+      "classicTitle": "Give and be generous with all your hand possesses｜2026",
+      "classicDesc": "手工磚地與紙上作品重建已被戰爭摧毀的裝飾馬賽克，使修復、缺失、文化遺產與身體行走成為同一個展場經驗。",
+      "artistStatement": "手工磚地與紙上作品重建已被戰爭摧毀的裝飾馬賽克，使修復、缺失、文化遺產與身體行走成為同一個展場經驗。",
+      "artistStatementSource": "https://www.galleriesnow.net/shows/dana-awartani-give-and-be-generous-with-all-your-hand-possesses/",
+      "status": "官方來源",
+      "updated": "2026-11-23",
+      "collectionDate": "2026-11-23",
+      "material": "依展覽作品資料",
+      "originalDate": "2026",
+      "accessNote": "參訪與開放條件以主辦單位當日公告為準。",
+      "imageSourceUrl": "https://www.galleriesnow.net/shows/dana-awartani-give-and-be-generous-with-all-your-hand-possesses/",
+      "imageOriginalUrl": "https://www.galleriesnow.net/wp-content/uploads/2026/11/Lisson-London-Dana-Awartani-1-800x600.webp",
+      "imageCredit": "GalleriesNow／Lisson Gallery展場實景",
+      "imageRights": "原來源保留著作權；未查得開放再利用授權，不宣稱已取得再授權。本站提供等比例JPEG研究預覽，原圖與完整圖說見來源。",
+      "imageDisplayPolicy": "display",
+      "imageVerification": "2026-11-28已下載、解碼並轉存等比例JPEG；待部署後瀏覽器naturalWidth回讀",
+      "statementType": "來源資料繁體中文整理，非逐字引言",
+      "sourceCheckedDate": "2026-11-28",
+      "reviewedAt": "2026-11-28",
+      "relatedByCity": [],
+      "id": "exhibition-gn-20261123-05",
+      "imageCachedPath": "assets/images/daily-20261123/exhibition-gn-20261123-05.jpg",
+      "imageFallbacks": [
+        "https://www.galleriesnow.net/wp-content/uploads/2026/11/Lisson-London-Dana-Awartani-1-800x600.webp"
+      ],
+      "imageCaption": "展場實景影像，非藝術家肖像",
+      "imageProcessing": "等比例縮至最長邊1100px，JPEG壓縮；未另裁切。",
+      "dedupeKey": "exhibition:galleriesnow:give-and-be-generous-with-all-your-hand-possesses",
+      "sourceName": "GalleriesNow",
+      "startDate": "2026-11-20",
+      "endDate": "2027-02-06",
+      "exhibitionStatus": "展出中",
+      "exhibitionType": "國際畫廊／藝術機構展覽",
+      "organizer": "Lisson Gallery，67 Lisson Street, London",
+      "venue": "Lisson Gallery，67 Lisson Street, London",
+      "admission": "未公開；依場館公告",
+      "researchSources": [
+        {
+          "label": "GalleriesNow展覽頁",
+          "url": "https://www.galleriesnow.net/shows/dana-awartani-give-and-be-generous-with-all-your-hand-possesses/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-23",
+  "checkedAt": "2026-11-29T05:00:00+08:00",
+  "scope": "27個固定入口；讀到入口正文只代表入口巡查，不宣稱已匯入全站歷史或每一個更新。",
+  "summary": {
+    "total": 27,
+    "bodyReadable": 23,
+    "blocked": 3,
+    "pending": 1
+  },
+  "sources": [
+    {
+      "name": "Public Art Archive",
+      "url": "https://www.publicartarchive.org/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytesRead": 195208,
+      "title": "Public Art Archive - Make Public Art More Public"
+    },
+    {
+      "name": "Institute for Public Art",
+      "url": "https://www.instituteforpublicart.org/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytesRead": 62653,
+      "title": "Home / Institute for Public Art"
+    },
+    {
+      "name": "CODAworx",
+      "url": "https://www.codaworx.com/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=UTF-8",
+      "bytesRead": 200079,
+      "title": "Home - CODAworx"
+    },
+    {
+      "name": "Americans for the Arts · Public Art",
+      "url": "https://artsu.americansforthearts.org/publicart",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 43369,
+      "title": "Arts U: Public Art"
+    },
+    {
+      "name": "Museum der 1000 Orte",
+      "url": "https://www.museum-der-1000-orte.de/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 184730,
+      "title": "Museum der 1000 Orte - Kunst am Bau im Auftrag des Bundes seit 1950 | Museum der 1000 Orte"
+    },
+    {
+      "name": "bbk berlin · KiöR",
+      "url": "https://kioer.bbk-kulturwerk.de/de",
+      "status": "回讀受阻",
+      "error": "HTTPError: HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "KORO",
+      "url": "https://koro.no/english/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 105542,
+      "title": "English - KORO"
+    },
+    {
+      "name": "Public Art Agency Sweden",
+      "url": "https://publicartagencysweden.com/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 129505,
+      "title": "Home - Public Art Agency Sweden"
+    },
+    {
+      "name": "MAPS Museum",
+      "url": "https://mapsmuseum.com/en/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 90673,
+      "title": "MAPS Museum | Front page"
+    },
+    {
+      "name": "Swiss Federal Office · Kunst am Bau",
+      "url": "https://www.bbl.admin.ch/de/kunst-am-bau",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8",
+      "bytesRead": 138167,
+      "title": "Kunst am Bau"
+    },
+    {
+      "name": "Public Art Fund",
+      "url": "https://www.publicartfund.org/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 121772,
+      "title": "Public Art Fund | Official Site"
+    },
+    {
+      "name": "Creative Time",
+      "url": "https://creativetime.org/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 35998,
+      "title": "Home - Creative Time"
+    },
+    {
+      "name": "Artangel",
+      "url": "https://www.artangel.org.uk/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytesRead": 60087,
+      "title": "Artangel - Artangel"
+    },
+    {
+      "name": "Fourth Plinth",
+      "url": "https://www.london.gov.uk/programmes-strategies/arts-and-culture/current-culture-projects/fourth-plinth-trafalgar-square",
+      "status": "回讀受阻",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Forecast Public Art",
+      "url": "https://forecastpublicart.org/",
+      "status": "回讀待核",
+      "httpStatus": 202,
+      "contentType": "text/html",
+      "bytesRead": 168,
+      "title": ""
+    },
+    {
+      "name": "Art Platform Japan",
+      "url": "https://artplatform.go.jp/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8",
+      "bytesRead": 39975,
+      "title": "Art Platform Japan (APJ) | Art Platform Japan (APJ)"
+    },
+    {
+      "name": "Echigo-Tsumari Art Field",
+      "url": "https://www.echigo-tsumari.jp/en/search/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 120200,
+      "title": "Echigo-Tsumari Art Field"
+    },
+    {
+      "name": "Seoul Public Art Archive",
+      "url": "https://news.seoul.go.kr/culture/design/public-archive",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 110108,
+      "title": "공공미술아카이브 &lt; 문화 | 서울특별시"
+    },
+    {
+      "name": "Toronto Public Art",
+      "url": "https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 36109,
+      "title": "Public Art &#8211; City of Toronto"
+    },
+    {
+      "name": "Vancouver Public Art",
+      "url": "https://vancouver.ca/parks-recreation-culture/public-art.aspx",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytesRead": 51736,
+      "title": "Public art | City of Vancouver"
+    },
+    {
+      "name": "Melbourne Public Art Open Data",
+      "url": "https://data.melbourne.vic.gov.au/explore/dataset/public-artworks-fountains-and-monuments/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytesRead": 95204,
+      "title": "Public artworks, fountains and monuments &mdash; CoM Open Data Portal"
+    },
+    {
+      "name": "文化部公共藝術",
+      "url": "https://publicart.moc.gov.tw/home/zh-tw",
+      "status": "回讀受阻",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Land Art Flevoland",
+      "url": "https://www.landartflevoland.nl/en/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytesRead": 14466,
+      "title": "Home"
+    },
+    {
+      "name": "GalleriesNow",
+      "url": "https://www.galleriesnow.net/newsletter/newsletter-17-nov-2026/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 85127,
+      "title": "The GalleriesNow Newsletter"
+    },
+    {
+      "name": "Raumfragen",
+      "url": "https://raumfragen.eu/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 250000,
+      "title": "Raumfragen"
+    },
+    {
+      "name": "Public Art München",
+      "url": "https://www.publicartmuenchen.de/en/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 105962,
+      "title": "Public Art München — Home"
+    },
+    {
+      "name": "Public Art Lab Berlin",
+      "url": "https://www.publicartlab-berlin.de/",
+      "status": "正文可讀；入口巡查完成",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "bytesRead": 250000,
+      "title": "Public Art Lab"
+    }
+  ],
+  "recordsBuilt": {
+    "publicArt": 20,
+    "competitions": 5,
+    "exhibitions": 5
+  }
+}
